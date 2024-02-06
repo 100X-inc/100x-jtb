@@ -10,12 +10,12 @@ import {
 
 interface FooterProps {
   // copyrightMessage: string;
-  youtube?: string;
-  linkedIn?: string;
-  twitter?: string;
-  facebook?: string;
-  instagram?: string;
-  footerLinks: CTA[];
+  // youtube?: string;
+  // linkedIn?: string;
+  // twitter?: string;
+  // facebook?: string;
+  // instagram?: string;
+  // footerLinks: CTA[];
 }
 
 const Footer = (props: FooterProps) => {
