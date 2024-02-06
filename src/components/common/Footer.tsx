@@ -9,7 +9,7 @@ import {
 } from "react-icons/fa";
 
 interface FooterProps {
-  copyrightMessage: string;
+  // copyrightMessage: string;
   youtube?: string;
   linkedIn?: string;
   twitter?: string;
@@ -19,7 +19,7 @@ interface FooterProps {
 }
 
 const Footer = (props: FooterProps) => {
-  const copyrightMessage = props.copyrightMessage;
+  // const copyrightMessage = props.copyrightMessage;
 
   const socialLinks = [
     { link: props.facebook, label: <FaFacebook className="w-5 h-5 mr-4" /> },
@@ -61,7 +61,7 @@ const Footer = (props: FooterProps) => {
         </div>
 
         <div className="text-sm text-center sm:text-left mt-4">
-          {copyrightMessage}
+          {/* {copyrightMessage} */}
         </div>
       </div>
     </footer>
