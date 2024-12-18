@@ -35,10 +35,10 @@ export const getSearchProvider = (
 
   return provideHeadless({
     apiKey,
-    experienceKey: "locator",
+    experienceKey: "stores-search",
     locale,
     verticalKey: "locations",
     experienceVersion,
-    // endpoints: SandboxEndpoints // Add if using a sandbox account
+    endpoints: SandboxEndpoints // Add if using a sandbox account
   });
 };
