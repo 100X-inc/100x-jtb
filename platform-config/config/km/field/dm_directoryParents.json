@@ -10,10 +10,21 @@
       "type": {
         "entityReferenceType": {
           "supportedEntityTypeIds": ["ce_root", "ce_region", "ce_city"],
-          "type": "ONE_WAY"
+          "type": "ONE_WAY",
+          "validation": {
+            "relationship": {
+              "ancestorRequired": true,
+              "unique": true
+            }
+          }
         }
       }
     }
   },
-  "typeId": "list"
+  "typeId": "list",
+  "required": false,
+  "description": "Hierarchical reference to parent directory entities. Enforces strict parent-child relationships with validation.",
+  "validation": {
+    "maxLength": 50
+  }
 }
