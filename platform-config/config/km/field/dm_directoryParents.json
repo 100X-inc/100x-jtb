@@ -10,20 +10,12 @@
       "type": {
         "entityReferenceType": {
           "supportedEntityTypeIds": ["ce_root", "ce_region", "ce_city"],
-          "type": "ONE_WAY",
-          "validation": {
-            "relationship": {
-              "unique": true
-            }
-          }
+          "type": "ONE_WAY"
         }
       }
     }
   },
   "typeId": "list",
   "required": false,
-  "description": "Hierarchical reference to parent directory entities.",
-  "validation": {
-    "maxLength": 50
-  }
+  "description": "Hierarchical reference to parent directory entities."
 }
