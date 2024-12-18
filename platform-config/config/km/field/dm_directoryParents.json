@@ -1,0 +1,19 @@
+{
+  "$id": "dm_directoryParents",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Directory Parents",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": ["ce_root", "ce_region", "ce_city"],
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}
