@@ -10,18 +10,21 @@
     "slug": "index.html"
   },
   "localization": {
-    "locales": ["ja"]
+    "locales": ["ja"],
+    "primary": true
   },
   "levels": [
     {
       "entityType": "ce_region",
       "field": "address.region",
-      "slug": "{{address.region}}"
+      "slug": "{{address.region}}",
+      "referenceField": "dm_directoryParents"
     },
     {
       "entityType": "ce_city",
       "field": "address.city",
-      "slug": "{{address.region}}/{{address.city}}"
+      "slug": "{{address.region}}/{{address.city}}",
+      "referenceField": "dm_directoryParents"
     }
   ]
 }

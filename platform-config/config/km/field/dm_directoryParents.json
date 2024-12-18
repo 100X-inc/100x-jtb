@@ -10,13 +10,7 @@
       "type": {
         "entityReferenceType": {
           "supportedEntityTypeIds": ["ce_root", "ce_region", "ce_city"],
-          "type": "ONE_WAY",
-          "validation": {
-            "relationship": {
-              "ancestorRequired": true,
-              "unique": true
-            }
-          }
+          "type": "ONE_WAY"
         }
       }
     }
