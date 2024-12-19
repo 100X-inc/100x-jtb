@@ -1,0 +1,46 @@
+{
+  "$id": "news_pa_aroundatami",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kokunai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "熱海",
+      "link": "https://www.jtb.co.jp/news/list/index.html?tag\u003d%E7%86%B1%E6%B5%B7%E5%91%A8%E8%BE%BA",
+      "linkType": "OTHER"
+    },
+    "c_news_PopularAreasImage": {
+      "height": 598,
+      "sourceUrl": "https://a.mktgcdn.com/p/jvn0xbbUwm0bkudSZz0FmRFNChvhCXIZ0DltWkzYPpc/1200x598.jpg",
+      "thumbnails": [
+        {
+          "height": 598,
+          "url": "https://a.mktgcdn.com/p-sandbox/jvn0xbbUwm0bkudSZz0FmRFNChvhCXIZ0DltWkzYPpc/1200x598.jpg",
+          "width": 1200
+        },
+        {
+          "height": 308,
+          "url": "https://a.mktgcdn.com/p-sandbox/jvn0xbbUwm0bkudSZz0FmRFNChvhCXIZ0DltWkzYPpc/619x308.jpg",
+          "width": 619
+        },
+        {
+          "height": 299,
+          "url": "https://a.mktgcdn.com/p-sandbox/jvn0xbbUwm0bkudSZz0FmRFNChvhCXIZ0DltWkzYPpc/600x299.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/jvn0xbbUwm0bkudSZz0FmRFNChvhCXIZ0DltWkzYPpc/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/jvn0xbbUwm0bkudSZz0FmRFNChvhCXIZ0DltWkzYPpc/1200x598.jpg",
+      "width": 1200
+    },
+    "name": "熱海"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

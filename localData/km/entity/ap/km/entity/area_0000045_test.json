@@ -1,0 +1,215 @@
+{
+  "$id": "ap_area_0000045_test",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ トラベルコンサルタント 武田 和美",
+      "link": "https://consultants.jtb.co.jp/cp_m_omatsu513",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿者にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVyV",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "館内のどこからでも見渡すことができる銀色に輝く海。宿の原風景ともいえるこの雄大な海景色を楽しめるのが、2018年に新設されたラウンジ「濤の音（なみのね）」です。全長30ⅿという圧倒的スケールで相模灘を一望できる開放的空間。ソファに身を沈め、刻々と表情を変える銀色の海を眺めていると時が経つのも忘れるほど。日常を忘れて、くつろいだひとときを過ごしてくださいね。2023年1月からはチェックインからチェックアウトまで、このラウンジで各種お飲み物やスイーツ、アルコールなどを宿泊者のみフリーで愉しめるサービス「濤のむこう」がスタートしており、インスタグラムでも好評ですよ。",
+        "image": {
+          "alternateText": "あああ",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/H0JttvKkN2V9sCLBnQeMmyIGdCHzwh5EnhyyTWG6hQw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/H0JttvKkN2V9sCLBnQeMmyIGdCHzwh5EnhyyTWG6hQw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/H0JttvKkN2V9sCLBnQeMmyIGdCHzwh5EnhyyTWG6hQw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/H0JttvKkN2V9sCLBnQeMmyIGdCHzwh5EnhyyTWG6hQw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/H0JttvKkN2V9sCLBnQeMmyIGdCHzwh5EnhyyTWG6hQw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/H0JttvKkN2V9sCLBnQeMmyIGdCHzwh5EnhyyTWG6hQw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ああああ",
+        "sectionTitle": "刻々と移りゆく海景色。新設のラウンジで非日常のひとときを"
+      },
+      {
+        "description": "純和風旅館の「雅」をイメージした落ち着きある和室から、特別な旅にふさわしいスイートまで、さまざまなお部屋のタイプがあります。そして、すべてのお部屋が相模灘を一望できるオーシャンビュー。心地よい潮騒を耳にしながら、朝な夕なに表情を変えゆく空と海を望みながら過ごすのはこのうえない贅沢です。",
+        "image": {
+          "alternateText": "いいい",
+          "height": 694,
+          "sourceUrl": "https://a.mktgcdn.com/p/TQFBB7HpLFOVkk09_y5xGbeTQdU1joJs1nH02cL3iU0/1200x694.jpg",
+          "thumbnails": [
+            {
+              "height": 694,
+              "url": "https://a.mktgcdn.com/p-sandbox/TQFBB7HpLFOVkk09_y5xGbeTQdU1joJs1nH02cL3iU0/1200x694.jpg",
+              "width": 1200
+            },
+            {
+              "height": 358,
+              "url": "https://a.mktgcdn.com/p-sandbox/TQFBB7HpLFOVkk09_y5xGbeTQdU1joJs1nH02cL3iU0/619x358.jpg",
+              "width": 619
+            },
+            {
+              "height": 347,
+              "url": "https://a.mktgcdn.com/p-sandbox/TQFBB7HpLFOVkk09_y5xGbeTQdU1joJs1nH02cL3iU0/600x347.jpg",
+              "width": 600
+            },
+            {
+              "height": 113,
+              "url": "https://a.mktgcdn.com/p-sandbox/TQFBB7HpLFOVkk09_y5xGbeTQdU1joJs1nH02cL3iU0/196x113.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/TQFBB7HpLFOVkk09_y5xGbeTQdU1joJs1nH02cL3iU0/1200x694.jpg",
+          "width": 1200
+        },
+        "imageCaption": "いいい",
+        "sectionTitle": "全室オーシャンビュー。眺望をひとりじめできる上質なお部屋"
+      },
+      {
+        "description": "▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/htl/4346009/plan/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 761,
+          "sourceUrl": "https://a.mktgcdn.com/p/XmZ4hiHMUM9nABggXRiB-78PwYZZ5B2EosvhhJonaOk/1200x761.jpg",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p-sandbox/XmZ4hiHMUM9nABggXRiB-78PwYZZ5B2EosvhhJonaOk/1200x761.jpg",
+              "width": 1200
+            },
+            {
+              "height": 393,
+              "url": "https://a.mktgcdn.com/p-sandbox/XmZ4hiHMUM9nABggXRiB-78PwYZZ5B2EosvhhJonaOk/619x393.jpg",
+              "width": 619
+            },
+            {
+              "height": 381,
+              "url": "https://a.mktgcdn.com/p-sandbox/XmZ4hiHMUM9nABggXRiB-78PwYZZ5B2EosvhhJonaOk/600x381.jpg",
+              "width": 600
+            },
+            {
+              "height": 124,
+              "url": "https://a.mktgcdn.com/p-sandbox/XmZ4hiHMUM9nABggXRiB-78PwYZZ5B2EosvhhJonaOk/196x124.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/XmZ4hiHMUM9nABggXRiB-78PwYZZ5B2EosvhhJonaOk/1200x761.jpg",
+          "width": 1200
+        }
+      }
+    ],
+    "c_ap_DatePosted": "2023-03-28",
+    "c_ap_HeroImage": {
+      "alternateText": "テスト_目の前には銀色に輝く相模灘。絶景に癒やされる休日を【静岡　稲取銀水荘】",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/lxYIa0-HIjjnpwpc9bo0eC8YgJ3lr6SjH-F_PXsD5S0/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/lxYIa0-HIjjnpwpc9bo0eC8YgJ3lr6SjH-F_PXsD5S0/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/lxYIa0-HIjjnpwpc9bo0eC8YgJ3lr6SjH-F_PXsD5S0/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/lxYIa0-HIjjnpwpc9bo0eC8YgJ3lr6SjH-F_PXsD5S0/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/lxYIa0-HIjjnpwpc9bo0eC8YgJ3lr6SjH-F_PXsD5S0/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/lxYIa0-HIjjnpwpc9bo0eC8YgJ3lr6SjH-F_PXsD5S0/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "テストテスト",
+    "c_ap_LinkArticleSectionTitle": "伊豆のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "稲取銀水荘の宿泊プラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/4346009/plan/"
+      },
+      {
+        "linkText": "静岡旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/shizuoka/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "静岡県"
+    ],
+    "c_ap_ShortDescription": "銀色に輝く海。目の前に広がる相模湾の情景が、「稲取銀水荘」の宿の名前の由来です。純和風旅館の風情がある、落ち着いた和室が中心のお部屋は全室オーシャンビュー。お部屋はもちろん、自家源泉の豊富な湯量が自慢の大浴場からも大海原を一望できます。\nお部屋に温泉露天風呂を備えた、個性あふれるスイートルームも宿の魅力。温泉と絶景に癒やされる、そんな休日を過ごせる宿です。",
+    "c_ap_Tags": [
+      "絶景",
+      "パワースポット"
+    ],
+    "c_ap_Theme": [
+      "夫婦旅",
+      "自然・山",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "テスト_目の前には銀色に輝く相模灘。絶景に癒やされる休日を【静岡　稲取銀水荘】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "銀色に輝く海。目の前に広がる相模湾の情景が、「稲取銀水荘」の宿の名前の由来です。純和風旅館の風情がある、落ち着いた和室が中心のお部屋は全室オーシャンビュー。お部屋はもちろん、自家源泉の豊富な湯量が自慢の大浴場…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "テスト_目の前には銀色に輝く相模灘。絶景に癒やされる休日を【静岡　稲取銀水荘】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_area_0000045_test",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "静岡県",
+    "keywords": [
+      "中部・北陸：静岡県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "テスト_目の前には銀色に輝く相模灘。絶景に癒やされる休日を【静岡　稲取銀水荘】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-399",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/399_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d34.243780%2C133.595511",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "香川県",
+    "c_searchTags": [
+      "香川県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "海・湖・川・滝",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "淡く色づいた満開の桜と、その向こうに広がる瀬戸内海の多島美。春の訪れとともに見られる、桜と海の絶景コラボレーション。この絶景が見られるのが、香川荘内半島にある紫雲出山です。標高352mの山頂展望台は北側に面しており、視界270度の大パノラマ。正面には瀬戸内海、東に瀬戸大橋、西に石鎚山を見ることができます。山頂以外にも二つの展望台がありますが、どの展望台からも美しい桜を見られるので、春らしい景色を楽しめるでしょう。この桜と瀬戸内海の絶景は国内外で人気が高く、海外でも美しい桜の景勝地として紹介されました。山頂の芝生広場の近くにはアジサイロードがあり、こちらはアジサイが旬の季節に訪れると、おおぶりなアジサイの花々が左右を彩る遊歩道で散策が楽しめます。\n三豊市観光交流局",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/399.asp",
+    "name": "桜と瀬戸内海の多島美を一緒に楽しむ「春の紫雲出山」"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

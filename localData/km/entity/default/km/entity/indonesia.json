@@ -1,0 +1,32 @@
+{
+  "$id": "indonesia",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "asia"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_osarea_0000092",
+      "news_ap_osarea_0000091",
+      "news_ap_osarea_0000068",
+      "news_ap_osarea_0000069",
+      "news_ap_osarea_0000094",
+      "news_ap_osarea_0000066",
+      "news_ap_osarea_0000093",
+      "news_ap_osarea_0000067",
+      "news_ap_osarea_0000070",
+      "news_ap_osarea_0000158",
+      "news_ap_osarea_0000095",
+      "news_ap_osarea_0000156",
+      "news_ap_osarea_0000157"
+    ],
+    "c_metaDescription": "お出かけの際は施設や自治体などの最新情報をご確認ください。",
+    "c_metaTitle": "JTBニュース | インドネシア | 旅行・おでかけ情報",
+    "name": "インドネシア",
+    "slug": "kaigai/asia/indonesia"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

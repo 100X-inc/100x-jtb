@@ -1,0 +1,276 @@
+{
+  "$id": "ap_chiki_100040",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター 岩田 未緒"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "最初に訪れたのは熱川駅から徒歩5分ほどの場所にある「熱川バナナワニ園」。1958年開園の歴史あるレジャー施設で有名映画のロケ地にもなったそうです。温泉地のど真ん中にある広い敷地に足を踏み入れて、まず驚くのが展示方法。天井に小さなワニが！！こども達も大興奮です。ワニ以外にもたくさんの動物がおり、特にアマゾンマナティを展示している施設は日本でも希少です。さらにニシレッサーパンダがいるのは日本でこのバナナワニ園だけ！ 温泉熱で育ったバナナや多種の熱帯植物を観賞することができる、みどころたくさんのレジャー施設です。",
+        "image": {
+          "height": 1280,
+          "sourceUrl": "https://a.mktgcdn.com/p/1CMnW3LtXlzevwzy7UfVOmmXZ5maZ0gLZ04xUgYmVnw/960x1280.jpg",
+          "thumbnails": [
+            {
+              "height": 1280,
+              "url": "https://a.mktgcdn.com/p-sandbox/1CMnW3LtXlzevwzy7UfVOmmXZ5maZ0gLZ04xUgYmVnw/960x1280.jpg",
+              "width": 960
+            },
+            {
+              "height": 825,
+              "url": "https://a.mktgcdn.com/p-sandbox/1CMnW3LtXlzevwzy7UfVOmmXZ5maZ0gLZ04xUgYmVnw/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1CMnW3LtXlzevwzy7UfVOmmXZ5maZ0gLZ04xUgYmVnw/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/1CMnW3LtXlzevwzy7UfVOmmXZ5maZ0gLZ04xUgYmVnw/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1CMnW3LtXlzevwzy7UfVOmmXZ5maZ0gLZ04xUgYmVnw/960x1280.jpg",
+          "width": 960
+        },
+        "imageCaption": "こんな所にもワニ！！",
+        "sectionTitle": "温泉地でこんなにたくさんのワニに出会える！！室内のため天気を気にせず楽しめます♪"
+      },
+      {
+        "description": "今回宿泊したのは「お祝いの宿 つるや吉祥亭」。ここは東伊豆エリアで有名な温泉宿です。館内には「つるや甘酒横丁」というエリアがあって、宿の中で縁日気分が楽しめます。宿についたらさっそく私たちも横丁へ！ 昭和のレトロな雰囲気が漂い、射的やヨーヨーなどの縁日遊びや大人に嬉しい湯上りビールのサービスもあり、子供も大人も楽しめる空間でした。別のフロアには温泉卓球場もあり、子供が館内で楽しめる場所がたくさん！",
+        "image": {
+          "height": 1280,
+          "sourceUrl": "https://a.mktgcdn.com/p/DF172ttshAyE2MPKpR1Gh7j10KE0L4ppKc4xwQ3Mxgg/960x1280.jpg",
+          "thumbnails": [
+            {
+              "height": 1280,
+              "url": "https://a.mktgcdn.com/p-sandbox/DF172ttshAyE2MPKpR1Gh7j10KE0L4ppKc4xwQ3Mxgg/960x1280.jpg",
+              "width": 960
+            },
+            {
+              "height": 825,
+              "url": "https://a.mktgcdn.com/p-sandbox/DF172ttshAyE2MPKpR1Gh7j10KE0L4ppKc4xwQ3Mxgg/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/DF172ttshAyE2MPKpR1Gh7j10KE0L4ppKc4xwQ3Mxgg/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/DF172ttshAyE2MPKpR1Gh7j10KE0L4ppKc4xwQ3Mxgg/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DF172ttshAyE2MPKpR1Gh7j10KE0L4ppKc4xwQ3Mxgg/960x1280.jpg",
+          "width": 960
+        },
+        "imageCaption": "食事の時間まで縁日遊びで子供も大満足！",
+        "sectionTitle": "昭和レトロな「つるや甘酒横丁」で縁日気分♪"
+      },
+      {
+        "description": "つるや甘酒横丁や温泉を満喫したあとはいよいよお待ちかねの夕食！ 宿自慢の料理は希少な愛鷹牛や伊勢海老、鮑などの厳選食材を取り入れた華膳コース。中でも金目鯛の煮付けは迫力満点！ 最後に出てきたイカの炊き込みご飯は食べきれず、おにぎりにして頂きお部屋に持ち帰りました♪ 夕食は個室食事処だったので、子供の声などで周りに迷惑をかけることもなく、気兼ねなく頂く事が出来ました。",
+        "image": {
+          "height": 960,
+          "sourceUrl": "https://a.mktgcdn.com/p/6yh-kScfxbgsm0-7sNM2JE5yMXeYlaDHUFzoqA5fcLM/1280x960.jpg",
+          "thumbnails": [
+            {
+              "height": 960,
+              "url": "https://a.mktgcdn.com/p-sandbox/6yh-kScfxbgsm0-7sNM2JE5yMXeYlaDHUFzoqA5fcLM/1280x960.jpg",
+              "width": 1280
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/6yh-kScfxbgsm0-7sNM2JE5yMXeYlaDHUFzoqA5fcLM/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/6yh-kScfxbgsm0-7sNM2JE5yMXeYlaDHUFzoqA5fcLM/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/6yh-kScfxbgsm0-7sNM2JE5yMXeYlaDHUFzoqA5fcLM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6yh-kScfxbgsm0-7sNM2JE5yMXeYlaDHUFzoqA5fcLM/1280x960.jpg",
+          "width": 1280
+        },
+        "imageCaption": "大人のこぶし３つくらいの特大サイズ！",
+        "sectionTitle": "味がじっくり染み込んだ金目鯛の煮付け"
+      },
+      {
+        "description": "2日目は早起きをして朝食を済ませた後、熱川の「樋の口園」にていちご狩りを体験！ 1グループに1つのビニールハウスをご用意いただきプライベート気分でいちご狩りができました。大きさや品種も様々ないちごがビニールハウス一杯に育っていました。樋の口園さんでは、時期に応じていちご以外にみかんやオレンジ狩りなど楽しめるようなので、季節を変えてまた来たいと思います。今回は1泊2日子供連れで温泉を満喫できるプランをご紹介しました。初めての温泉や植物園、いちご狩りが体験できて子供たちも大満足の様子でした。ファミリーでの旅行を計画されている方はぜひご参考にしてみてはいかがでしょうか。",
+        "image": {
+          "height": 761,
+          "sourceUrl": "https://a.mktgcdn.com/p/Gb1WfI8_Mzt-xqPL2H8zxbhm70zR9Df7yctHjSUJzcs/1141x761.jpg",
+          "thumbnails": [
+            {
+              "height": 761,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gb1WfI8_Mzt-xqPL2H8zxbhm70zR9Df7yctHjSUJzcs/1141x761.jpg",
+              "width": 1141
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gb1WfI8_Mzt-xqPL2H8zxbhm70zR9Df7yctHjSUJzcs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gb1WfI8_Mzt-xqPL2H8zxbhm70zR9Df7yctHjSUJzcs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gb1WfI8_Mzt-xqPL2H8zxbhm70zR9Df7yctHjSUJzcs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Gb1WfI8_Mzt-xqPL2H8zxbhm70zR9Df7yctHjSUJzcs/1141x761.jpg",
+          "width": 1141
+        },
+        "imageCaption": "1グループで1つのビニールハウスなんて贅沢！たくさん食べました♪",
+        "sectionTitle": "紅ほっぺを食べ放題！いちご狩り体験"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-06-09",
+    "c_ap_HeroImage": {
+      "alternateText": "伊豆でちびっこ温泉旅行デビュー！室内レジャー施設で雨の日も満喫♪【静岡県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 1054,
+      "sourceUrl": "https://a.mktgcdn.com/p/F99H9MGg4MLSVaVK2cLrUo5CJMHXui9yMKfYFU6duss/912x1054.jpg",
+      "thumbnails": [
+        {
+          "height": 1054,
+          "url": "https://a.mktgcdn.com/p-sandbox/F99H9MGg4MLSVaVK2cLrUo5CJMHXui9yMKfYFU6duss/912x1054.jpg",
+          "width": 912
+        },
+        {
+          "height": 715,
+          "url": "https://a.mktgcdn.com/p-sandbox/F99H9MGg4MLSVaVK2cLrUo5CJMHXui9yMKfYFU6duss/619x715.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/F99H9MGg4MLSVaVK2cLrUo5CJMHXui9yMKfYFU6duss/389x450.jpg",
+          "width": 389
+        },
+        {
+          "height": 227,
+          "url": "https://a.mktgcdn.com/p-sandbox/F99H9MGg4MLSVaVK2cLrUo5CJMHXui9yMKfYFU6duss/196x227.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/F99H9MGg4MLSVaVK2cLrUo5CJMHXui9yMKfYFU6duss/912x1054.jpg",
+      "width": 912
+    },
+    "c_ap_HeroImageCaption": "海を一望できる「つるや吉祥亭」の客室露天風呂",
+    "c_ap_LinkArticleSectionTitle": "静岡県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "つるや吉祥亭の宿泊プランはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/4342002/plan/"
+      },
+      {
+        "linkText": "熱川バナナワニ園 3園共通割引前売券はこちら",
+        "uRL": "https://opt.jtb.co.jp/kokunai_opt/p/pJTB025974022/"
+      },
+      {
+        "linkText": "ファミリー旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/theme/family/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "中部全般",
+      "静岡県"
+    ],
+    "c_ap_ShortDescription": "首都圏から近場の伊豆で子供の温泉デビュー！ お天気に左右されずに楽しめる室内レジャースポットで楽しんだら、貸切温泉\u0026客室露天風呂がおすすめの「つるや吉祥亭」で温泉を初体験。「赤ちゃん温泉デビュープラン」を予約すると、赤ちゃん用のお布団やオムツ用ゴミ箱、赤ちゃんのお風呂グッズも借りられるので、安心して利用することができます。\n今回は、温泉デビューをしたいファミリー向けに、雨でも楽しめる観光スポットとおススメの宿をご紹介いたします！",
+    "c_ap_Tags": [
+      "伊豆",
+      "果物狩り",
+      "子供",
+      "客室露天風呂",
+      "室内"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "記念旅行",
+      "動植物園・公園",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "伊豆でちびっこ温泉旅行デビュー！室内レジャー施設で雨の日も満喫♪【静岡県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "首都圏から近場の伊豆で子供の温泉デビュー！ お天気に左右されずに楽しめる室内レジャースポットで楽しんだら、貸切温泉\u0026客室露天風呂がおすすめの「つるや吉祥亭」で温泉を初体験。「赤ちゃん温泉デビュープラン」を予約…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "伊豆でちびっこ温泉旅行デビュー！室内レジャー施設で雨の日も満喫♪【静岡県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100040",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "中部全般, 静岡県",
+    "c_searchTags": [
+      "中部・北陸：中部全般, 静岡県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：中部全般, 静岡県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "伊豆でちびっこ温泉旅行デビュー！室内レジャー施設で雨の日も満喫♪【静岡県】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

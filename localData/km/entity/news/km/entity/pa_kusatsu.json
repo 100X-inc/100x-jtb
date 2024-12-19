@@ -1,0 +1,47 @@
+{
+  "$id": "news_pa_kusatsu",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kokunai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "沖縄",
+      "link": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all",
+      "linkType": "URL"
+    },
+    "c_news_PopularAreasImage": {
+      "alternateText": "沖縄",
+      "height": 430,
+      "sourceUrl": "https://a.mktgcdn.com/p/9s_pcdpg1oG4v-CjyD954rKW13AFiQg8ON8Hqsh7xCg/640x430.jpg",
+      "thumbnails": [
+        {
+          "height": 430,
+          "url": "https://a.mktgcdn.com/p-sandbox/9s_pcdpg1oG4v-CjyD954rKW13AFiQg8ON8Hqsh7xCg/640x430.jpg",
+          "width": 640
+        },
+        {
+          "height": 416,
+          "url": "https://a.mktgcdn.com/p-sandbox/9s_pcdpg1oG4v-CjyD954rKW13AFiQg8ON8Hqsh7xCg/619x416.jpg",
+          "width": 619
+        },
+        {
+          "height": 403,
+          "url": "https://a.mktgcdn.com/p-sandbox/9s_pcdpg1oG4v-CjyD954rKW13AFiQg8ON8Hqsh7xCg/600x403.jpg",
+          "width": 600
+        },
+        {
+          "height": 132,
+          "url": "https://a.mktgcdn.com/p-sandbox/9s_pcdpg1oG4v-CjyD954rKW13AFiQg8ON8Hqsh7xCg/196x132.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/9s_pcdpg1oG4v-CjyD954rKW13AFiQg8ON8Hqsh7xCg/640x430.jpg",
+      "width": 640
+    },
+    "name": "沖縄"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

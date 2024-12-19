@@ -1,0 +1,63 @@
+{
+  "$id": "cp_21991301",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "京都府",
+    "c_cp_CTA1": {
+      "label": "当店 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBd_q",
+      "linkType": "URL"
+    },
+    "c_cp_DisplayName": "石川",
+    "c_cp_HiraganaName": "いしかわ",
+    "c_cp_JobTitle": "JTB京都伏見店 店長",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 3024,
+      "sourceUrl": "https://a.mktgcdn.com/p/a7xPhNHYCTIiviiR1FAwN-taqtsc0M7DU0ukHSBrx_Q/4032x3024.jpg",
+      "thumbnails": [
+        {
+          "height": 3024,
+          "url": "https://a.mktgcdn.com/p-sandbox/SzjQNOx-IikOIr420aJS2wrEGPeI5aeX7V4DQ_ViYO0/4032x3024.jpg",
+          "width": 4032
+        },
+        {
+          "height": 1425,
+          "url": "https://a.mktgcdn.com/p-sandbox/SzjQNOx-IikOIr420aJS2wrEGPeI5aeX7V4DQ_ViYO0/1900x1425.jpg",
+          "width": 1900
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/SzjQNOx-IikOIr420aJS2wrEGPeI5aeX7V4DQ_ViYO0/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/SzjQNOx-IikOIr420aJS2wrEGPeI5aeX7V4DQ_ViYO0/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/SzjQNOx-IikOIr420aJS2wrEGPeI5aeX7V4DQ_ViYO0/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/SzjQNOx-IikOIr420aJS2wrEGPeI5aeX7V4DQ_ViYO0/4032x3024.jpg",
+      "width": 4032
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント | 石川",
+    "c_metaTitle": "JTBトラベルコンサルタント | 石川",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21991301",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10305_京都伏見店",
+    "name": "いしかわ_21991301",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

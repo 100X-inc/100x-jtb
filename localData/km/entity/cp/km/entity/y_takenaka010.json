@@ -1,0 +1,165 @@
+{
+  "$id": "cp_y_takenaka010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_CTA1": {
+      "label": "竹中のリモート相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVBiBDN",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "コンサルタント一覧",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_cp_Certification": [
+      "総合旅行業取扱管理者"
+    ],
+    "c_cp_Description": "2024年6月にローマ・パリ・モンサンミッシェルに行ってきました。他にもディズニー映画「塔の上のラプンツェル」の世界に憧れてタイのコムローイ祭りに行きました！国内ですと、沖縄やテーマパークも好きです。おしゃれな写真映えスポットを探して出かけることが多いです♪ぜひお気軽にご相談下さいませ。ハネムーン、記念日旅行や家族旅行、女子旅など、皆様にとって大切な思い出に残るご旅行となりますよう精一杯お手伝いさせていただきます。",
+    "c_cp_DisplayName": "竹中",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "ハネムーン",
+      "記念旅行",
+      "世界遺産",
+      "テーマパーク",
+      "街あるき",
+      "グルメ",
+      "ショッピング",
+      "カフェ",
+      "音楽ライブ"
+    ],
+    "c_cp_GeneralInfo": [
+      "★オージースペシャリスト（オーストラリア）",
+      "趣味：推し活、韓国ドラマ、韓国コスメ集め、インスタ映えスポットへ遊びに行くこと、カフェ巡り",
+      "大好きな場所：ハワイ、韓国、宮古島"
+    ],
+    "c_cp_HeroImage": {
+      "height": 358,
+      "sourceUrl": "https://a.mktgcdn.com/p/mLjMzQIL9GmiG4LI567pwbm5VMweUg6AVbieCSoXynA/498x358.jpg",
+      "thumbnails": [
+        {
+          "height": 358,
+          "url": "https://a.mktgcdn.com/p-sandbox/LZeX5vjrRd-hkRPEjsSzXs-Z_2Qd25oxqFP0-69J744/498x358.jpg",
+          "width": 498
+        },
+        {
+          "height": 141,
+          "url": "https://a.mktgcdn.com/p-sandbox/LZeX5vjrRd-hkRPEjsSzXs-Z_2Qd25oxqFP0-69J744/196x141.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/LZeX5vjrRd-hkRPEjsSzXs-Z_2Qd25oxqFP0-69J744/498x358.jpg",
+      "width": 498
+    },
+    "c_cp_HiraganaName": "たけなか",
+    "c_cp_JobTitle": "JTBリモートコンシェルジュ　トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 675,
+      "sourceUrl": "https://a.mktgcdn.com/p/I4RF_edW_I3LbsD_H93kx6IbCPp0fmpUj82oObMAoro/840x675.jpg",
+      "thumbnails": [
+        {
+          "height": 675,
+          "url": "https://a.mktgcdn.com/p-sandbox/JYaFiRxv11QJcaqmp8trmfeEm6m5ns4UlTNdHjYwIRo/840x675.jpg",
+          "width": 840
+        },
+        {
+          "height": 497,
+          "url": "https://a.mktgcdn.com/p-sandbox/JYaFiRxv11QJcaqmp8trmfeEm6m5ns4UlTNdHjYwIRo/619x497.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/JYaFiRxv11QJcaqmp8trmfeEm6m5ns4UlTNdHjYwIRo/560x450.jpg",
+          "width": 560
+        },
+        {
+          "height": 158,
+          "url": "https://a.mktgcdn.com/p-sandbox/JYaFiRxv11QJcaqmp8trmfeEm6m5ns4UlTNdHjYwIRo/196x158.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/JYaFiRxv11QJcaqmp8trmfeEm6m5ns4UlTNdHjYwIRo/840x675.jpg",
+      "width": 840
+    },
+    "c_cp_Point": "141",
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "フランス",
+      "イタリア"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国",
+      "台湾",
+      "タイ"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道",
+      "青森県",
+      "岩手県",
+      "宮城県"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "栃木県",
+      "群馬県",
+      "埼玉県",
+      "千葉県",
+      "東京都",
+      "神奈川県"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "富山県",
+      "石川県",
+      "福井県",
+      "長野県",
+      "岐阜県",
+      "静岡県",
+      "愛知県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "三重県",
+      "滋賀県",
+      "京都府",
+      "大阪府",
+      "兵庫県",
+      "奈良県",
+      "和歌山県"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "鳥取県",
+      "島根県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "福岡県",
+      "長崎県",
+      "大分県",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "イタリアフランス2か国周遊してきました",
+      "ユニバーサル・スタジオ・ジャパン",
+      "ハネムーン",
+      "ハワイスペシャリスト上級"
+    ],
+    "c_metaDescription": "「JTBリモートコンシェルジュ」は、オンラインでの旅行相談・申込の専門店です。知識豊富なスタッフがご希望の旅をご提案します。 オンライ相談の予約も承ります。",
+    "c_metaTitle": "JTBリモートコンシェルジュ ｜  竹中  ｜ リモートトラベルコンシェルジュ | オンライン旅行相談",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_y_takenaka010",
+    "c_responsibleService": [
+      "リモートコンシェルジュ"
+    ],
+    "name": "y_takenaka010",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

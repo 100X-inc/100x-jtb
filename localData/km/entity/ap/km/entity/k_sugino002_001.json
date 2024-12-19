@@ -1,0 +1,205 @@
+{
+  "$id": "ap_k_sugino002_001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "弘前市街の中心部にある弘前公園は、岩木山と並んで弘前のシンボルです。広い公園内には、国の重要文化財になっている弘前城天守をはじめ、丑寅櫓や辰巳櫓、追手門などが残っています。今は石垣修理のために天守は移動されているようですね。桜は公園内に、たくさん植樹されていて、その種類は約52種類、その数は約2600本とか。ソメイヨシノやシダレザクラが見頃をむかえると、八重桜が次々に咲いて、公園内はどこを歩いてもいろんな桜の花見が楽しめました。桜が一番たくさん咲く4月下旬には弘前さくらまつりが開催されます。私が行ったのはちょうどそんな頃でした。満開に咲く桜と、弘前城の天守、その向こう側に白い雪を被った岩木山。その景色は本当に忘れられないくらい美しかったです。",
+        "image": {
+          "height": 656,
+          "sourceUrl": "https://a.mktgcdn.com/p/dOkbXX1LVWW6vj_ZY6MF-kwF2Qv1_8S15ccQsIqGxNs/981x656.jpg",
+          "thumbnails": [
+            {
+              "height": 656,
+              "url": "https://a.mktgcdn.com/p-sandbox/0ZcbxKjGmNTH1TmwQRxbVqurzHXNnDSYBSPjCsbaEZQ/981x656.jpg",
+              "width": 981
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/0ZcbxKjGmNTH1TmwQRxbVqurzHXNnDSYBSPjCsbaEZQ/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/0ZcbxKjGmNTH1TmwQRxbVqurzHXNnDSYBSPjCsbaEZQ/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/0ZcbxKjGmNTH1TmwQRxbVqurzHXNnDSYBSPjCsbaEZQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0ZcbxKjGmNTH1TmwQRxbVqurzHXNnDSYBSPjCsbaEZQ/981x656.jpg",
+          "width": 981
+        },
+        "imageCaption": "満開の桜が咲く弘前公園",
+        "sectionTitle": "弘前城と白い雪を被った岩木山、そして満開の桜「弘前公園」"
+      },
+      {
+        "description": "弘前の後に訪れた、もう一つの桜の名所は「みちのくの小京都」といわれている秋田県の角館。江戸時代には、出羽国久保田藩の領地として佐竹北家が治めたところだとか。国の重要伝統的建造物群保存地区に選定されている武家屋敷地区には、今も松本家や青柳家など、茅葺き屋根の門や母屋などをもつ武家屋敷が立ち並んでいます。そして、ここでは、武家屋敷の黒板塀の中から通りに枝を垂らすシダレザクラが有名。黒い塀にピンクの桜が映えて、なんとも風情があり、すてきな光景なのですが、残念ながら私が訪れた時はすでに葉桜に。それはそれで緑がきれいで、そぞろ歩くだけでも十分楽しめました。",
+        "image": {
+          "height": 1064,
+          "sourceUrl": "https://a.mktgcdn.com/p/-1L8RXlY_dI8SjJ6HaZfFz4nUui-Kajk9V_8Wjlv92o/1598x1064.jpg",
+          "thumbnails": [
+            {
+              "height": 1064,
+              "url": "https://a.mktgcdn.com/p-sandbox/sj0RKNdYDBYak3BRNINYfdLga_MSXxLmTz9NenCEaTc/1598x1064.jpg",
+              "width": 1598
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/sj0RKNdYDBYak3BRNINYfdLga_MSXxLmTz9NenCEaTc/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/sj0RKNdYDBYak3BRNINYfdLga_MSXxLmTz9NenCEaTc/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/sj0RKNdYDBYak3BRNINYfdLga_MSXxLmTz9NenCEaTc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sj0RKNdYDBYak3BRNINYfdLga_MSXxLmTz9NenCEaTc/1598x1064.jpg",
+          "width": 1598
+        },
+        "imageCaption": "川べりに続く桜並木",
+        "sectionTitle": "武家屋敷にシダレザクラが映える「みちのくの小京都」角館"
+      },
+      {
+        "description": "角館にはもう一つ、桜の名所があります。武家屋敷近くの桧木内川堤の桜並木。こちらは約400本のソメイヨシノが、約2kmも続いており、まさに桜のトンネル。武家屋敷通りのシダレザクラと一緒に「日本さくら名所100選」に選ばれているそうです。川べりに続く「もこもこ」としたピンクの桜の花が咲く堤防沿いを、桜を見ながらゆっくりとそぞろ歩きしたのを覚えています。雫石町の小岩井農場で食べたソフトクリームの濃厚さ、宿泊した大鰐温泉や田沢湖畔の宿の温かいもてなし、田沢湖遊覧で見たたつこ像の姿も心に残り、機会があったらまた訪れたいなと思います。----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "sectionTitle": "桧木内川堤に約2km続くソメイヨシノの「桜のトンネル」"
+      }
+    ],
+    "c_ap_DatePosted": "2021-08-04",
+    "c_ap_HeroImage": {
+      "alternateText": "桜に埋もれる弘前城天守と雪の岩木山のコラボに感動【青森県】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 854,
+      "sourceUrl": "https://a.mktgcdn.com/p/3EM0137bRrfN6geMyObI-9udxWOdtgTegCqJzqxnLOg/1280x854.jpg",
+      "thumbnails": [
+        {
+          "height": 854,
+          "url": "https://a.mktgcdn.com/p-sandbox/3EM0137bRrfN6geMyObI-9udxWOdtgTegCqJzqxnLOg/1280x854.jpg",
+          "width": 1280
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/3EM0137bRrfN6geMyObI-9udxWOdtgTegCqJzqxnLOg/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/3EM0137bRrfN6geMyObI-9udxWOdtgTegCqJzqxnLOg/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/3EM0137bRrfN6geMyObI-9udxWOdtgTegCqJzqxnLOg/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/3EM0137bRrfN6geMyObI-9udxWOdtgTegCqJzqxnLOg/1280x854.jpg",
+      "width": 1280
+    },
+    "c_ap_HeroImageCaption": "岩木山をバックに満開の桜に映える弘前城天守",
+    "c_ap_LinkArticleSectionTitle": "青森県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "青森旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/aomori/"
+      },
+      {
+        "linkText": "青森県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/aomori/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea1": [
+      "東北全般",
+      "青森県"
+    ],
+    "c_ap_ShortDescription": "弘前、角館、田沢湖　―　それは春の桜を巡る旅でした。もうかなり前の女子旅なのですが、弘前城の向こう側に雪を被った岩木山が美しく、鮮明な記憶として残っており、今でも時折思い出します。弘前は青森県を代表する都市の一つ。かつては弘前藩の城下町だったところです。今も津軽地方の中心都市で、リンゴの生産量は全国一という“りんごのまち”でもあります。「お城とさくらとりんごのまち」が弘前のキャッチフレーズだそうですが、その旅で素直に納得しました。",
+    "c_ap_Tags": [
+      "桜",
+      "歴史",
+      "小京都"
+    ],
+    "c_ap_Theme": [
+      "自然・山",
+      "建築・史跡",
+      "歴史・地理"
+    ],
+    "c_ap_Title": "桜に埋もれる弘前城天守と雪の岩木山のコラボに感動【青森県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "弘前、角館、田沢湖　―　それは、「春」、　桜を巡る旅でした。もうかなり前の女子旅なのですが、弘前城の向こう側に雪を被った岩木山が美しく、鮮明な記憶として残っており、今でも時折思い出します。弘前は青森県を代表す…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "桜に埋もれる弘前城天守と雪の岩木山のコラボに感動【青森県】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_k_sugino002_001",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "東北全般, 青森県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "桜に埋もれる弘前城天守と雪の岩木山のコラボに感動【青森県】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

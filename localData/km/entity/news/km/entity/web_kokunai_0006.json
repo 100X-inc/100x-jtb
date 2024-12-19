@@ -1,0 +1,684 @@
+{
+  "$id": "news_web_kokunai_0006",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1280,
+      "sourceUrl": "https://a.mktgcdn.com/p/fyA_PpJuF0WiD_F3-w8_cPftdv4m91SCG8v5Zu3teu4/1920x1280.jpg",
+      "thumbnails": [
+        {
+          "height": 1280,
+          "url": "https://a.mktgcdn.com/p-sandbox/QKRo3KD7iGee6C0hleKEGNF29u3DFXorcrl_B3ulTkw/1920x1280.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/QKRo3KD7iGee6C0hleKEGNF29u3DFXorcrl_B3ulTkw/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/QKRo3KD7iGee6C0hleKEGNF29u3DFXorcrl_B3ulTkw/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/QKRo3KD7iGee6C0hleKEGNF29u3DFXorcrl_B3ulTkw/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/QKRo3KD7iGee6C0hleKEGNF29u3DFXorcrl_B3ulTkw/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/QKRo3KD7iGee6C0hleKEGNF29u3DFXorcrl_B3ulTkw/1920x1280.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "沖縄離島の記事一覧はこちら",
+        "uRL": "https://www.jtb.co.jp/news/list/kokunai/okinawa"
+      },
+      {
+        "linkText": "小浜島の旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/s_kohamajima/"
+      },
+      {
+        "linkText": "小浜島のホテル・旅館・宿を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/4738104/"
+      },
+      {
+        "linkText": "小浜島のツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_air/a/470504/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "「八重山のてんぶす（へそ）」とも呼ばれる小浜島は、その名の通り八重山諸島の地理的中心に位置しています。南国気分を堪能できるイマドキなリゾートから、昔ながらの素朴な風景まで同時に味わうことができる離島です。",
+    "c_ap_Tags": [
+      "アクティビティ",
+      "ビーチ",
+      "リゾート",
+      "カフェ",
+      "グルメ",
+      "ビーチリゾート",
+      "沖縄おすすめ",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "小浜島のおすすめ観光スポットと過ごし方12選",
+    "c_linkedArea3News": [
+      "okinawa_all"
+    ],
+    "c_metaDescription": "小浜島旅行で行きたい観光スポットとおすすめの過ごし方をご紹介します。サトウキビ畑が広がるシュガーロードから、干潮時に現れる「幻の島」、ドラマのロケ地で有名な伝統的な民家まで。さらにレンタサイクルなどの体験や島グルメ、島時間を満喫できるホテルなどアクティビティが盛りだくさん！",
+    "c_metaTitle": "小浜島のおすすめ観光スポットと過ごし方12選｜JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "小浜島のホテル・旅館をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/4738104/",
+        "linkType": "URL"
+      },
+      {
+        "label": "小浜島のツアー・パックをみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/okinawa/s_kohamajima/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "はいむるぶしの魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8728001/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "はいむるぶしの魅力",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8728001/remarks/",
+          "linkType": "URL"
+        },
+        "description": "エメラルドブルーの海に囲まれ、サトウキビ畑の広がる島内は、いつものどかでゆったりとした時間が流れています。レンタサイクルで、海風を感じながら、島めぐりを楽しむのもおすすめです。",
+        "image": {
+          "height": 534,
+          "sourceUrl": "https://a.mktgcdn.com/p/q3KME6QBdIwxcdMycbGxL9cKTVjDFJ-LEcFkbsFl2Pk/800x534.jpg",
+          "thumbnails": [
+            {
+              "height": 534,
+              "url": "https://a.mktgcdn.com/p-sandbox/q3KME6QBdIwxcdMycbGxL9cKTVjDFJ-LEcFkbsFl2Pk/800x534.jpg",
+              "width": 800
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/q3KME6QBdIwxcdMycbGxL9cKTVjDFJ-LEcFkbsFl2Pk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/q3KME6QBdIwxcdMycbGxL9cKTVjDFJ-LEcFkbsFl2Pk/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/q3KME6QBdIwxcdMycbGxL9cKTVjDFJ-LEcFkbsFl2Pk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/q3KME6QBdIwxcdMycbGxL9cKTVjDFJ-LEcFkbsFl2Pk/800x534.jpg",
+          "width": 800
+        },
+        "imageCaption": "Y.taka / PIXTA(ピクスタ)",
+        "infoBlockLabel": "シュガーロードの基本情報",
+        "infoBlockText": "アクセス：小浜港から車で約５分住所：沖縄県八重山郡竹富町小浜",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．小浜島で必ず行きたい観光スポット"
+      },
+      {
+        "cTA1": {
+          "label": "はいむるぶしの詳細・宿泊プランをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8728001/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "安栄観光 往復乗船券（小人）を購入する",
+          "link": "https://www.jtb.co.jp/leisure/m/pE1020294/",
+          "linkType": "URL"
+        },
+        "description": "人気テレビドラマの撮影地としても知られる有名な一本道です。アップダウンが続く坂の両側にはサトウキビ畑が広がり、目の前には海が見渡せます。どこまでも続いているような一本道を、自転車を借りて走る爽快感がたまりません。サイクリングを楽しみながら、思い出の1枚を撮影しましょう。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/Z9zLmAvT5OhHG-UQPxi2sr_-xxBl1idB95rZbZNHNag/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/Z9zLmAvT5OhHG-UQPxi2sr_-xxBl1idB95rZbZNHNag/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Z9zLmAvT5OhHG-UQPxi2sr_-xxBl1idB95rZbZNHNag/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Z9zLmAvT5OhHG-UQPxi2sr_-xxBl1idB95rZbZNHNag/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Z9zLmAvT5OhHG-UQPxi2sr_-xxBl1idB95rZbZNHNag/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Z9zLmAvT5OhHG-UQPxi2sr_-xxBl1idB95rZbZNHNag/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "沖縄美人 / PIXTA(ピクスタ)",
+        "infoBlockLabel": "大岳の基本情報",
+        "infoBlockText": "アクセス：小浜港から車で約6分住所：沖縄県八重山郡竹富町小浜",
+        "sectionLevel": "h3",
+        "sectionTitle": "シュガーロード"
+      },
+      {
+        "cTA1": {
+          "label": "星野リゾート リゾナーレ小浜島の詳細・宿泊プランをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8728005/plan/",
+          "linkType": "URL"
+        },
+        "description": "大岳（うふだき）は、島内で一番高い山です。約300段ある階段を登り、絶景の見える展望台へ向かいましょう。頂上には、数名が入れる大きさの展望台があります。島内の様子や青く輝くきれいな海を一望することができます。晴れていると八重山の島々も望めます。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/rJV72dr1oAqmNdwsYVGuXOiHSH9OlbXcPaLVZpdxupQ/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/rJV72dr1oAqmNdwsYVGuXOiHSH9OlbXcPaLVZpdxupQ/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/rJV72dr1oAqmNdwsYVGuXOiHSH9OlbXcPaLVZpdxupQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/rJV72dr1oAqmNdwsYVGuXOiHSH9OlbXcPaLVZpdxupQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/rJV72dr1oAqmNdwsYVGuXOiHSH9OlbXcPaLVZpdxupQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rJV72dr1oAqmNdwsYVGuXOiHSH9OlbXcPaLVZpdxupQ/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "tomocchi.m92f / PIXTA(ピクスタ)",
+        "infoBlockLabel": "トゥマールビーチの基本情報",
+        "infoBlockText": "アクセス：小浜港から車で約3分住所：沖縄県八重山郡竹富町小浜",
+        "sectionLevel": "h3",
+        "sectionTitle": "大岳（うふだき）"
+      },
+      {
+        "cTA1": {
+          "label": "安栄観光 往復乗船券（大人）を購入する",
+          "link": "https://www.jtb.co.jp/leisure/m/pE1020294/",
+          "linkType": "URL"
+        },
+        "description": "小浜島の東側に位置するビーチです。港から歩いてもいけるほどの距離で、手つかずの自然が残っています。遠浅なビーチのため、子供と一緒に遊泳を楽しんだり、シュノーケリングで遊ぶのに適したロケーションです。港に近いので、フェリーを待つ間に立ち寄って、白浜の美しい景色を堪能するのもいいでしょう。",
+        "image": {
+          "height": 415,
+          "sourceUrl": "https://a.mktgcdn.com/p/G3d-mxSAy5xrxAVGvU38Km62jw8TfBghaO0Glpklpow/700x415.jpg",
+          "thumbnails": [
+            {
+              "height": 415,
+              "url": "https://a.mktgcdn.com/p-sandbox/G3d-mxSAy5xrxAVGvU38Km62jw8TfBghaO0Glpklpow/700x415.jpg",
+              "width": 700
+            },
+            {
+              "height": 367,
+              "url": "https://a.mktgcdn.com/p-sandbox/G3d-mxSAy5xrxAVGvU38Km62jw8TfBghaO0Glpklpow/619x367.jpg",
+              "width": 619
+            },
+            {
+              "height": 356,
+              "url": "https://a.mktgcdn.com/p-sandbox/G3d-mxSAy5xrxAVGvU38Km62jw8TfBghaO0Glpklpow/600x356.jpg",
+              "width": 600
+            },
+            {
+              "height": 116,
+              "url": "https://a.mktgcdn.com/p-sandbox/G3d-mxSAy5xrxAVGvU38Km62jw8TfBghaO0Glpklpow/196x116.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/G3d-mxSAy5xrxAVGvU38Km62jw8TfBghaO0Glpklpow/700x415.jpg",
+          "width": 700
+        },
+        "imageCaption": "Yume-fort / PIXTA(ピクスタ)",
+        "infoBlockLabel": "はいむるぶしビーチの基本情報",
+        "infoBlockText": "アクセス：小浜港から車で約５分住所：沖縄県八重山郡竹富町小浜2930営業時間：9:00〜18:00　※3月1日～3月31日、10月1日～11月30日は17:00まで（公式サイトにおすすめの遊泳時間が記載されています）",
+        "sectionLevel": "h3",
+        "sectionTitle": "トゥマールビーチ"
+      },
+      {
+        "description": "小浜島のリゾートホテル「はいむるぶし」の施設内にある、小浜島きってのリゾートビーチです。リゾート内では、ロデオボートやマリンジェット、SUP（スタンド・アップパドルボード）のレンタルなど、海を楽しむ豊富なアクティビティが用意されています。遊泳期間は3月中旬〜11月下旬です。公式サイトにおすすめの遊泳時間が記載されているので、確認してから遊びに行きましょう。",
+        "image": {
+          "height": 864,
+          "sourceUrl": "https://a.mktgcdn.com/p/dOzs6BtpQ5SKy1dEMZZ9DDTG-TZwWYvhLMmdB6VAu-w/1536x864.jpg",
+          "thumbnails": [
+            {
+              "height": 864,
+              "url": "https://a.mktgcdn.com/p-sandbox/RaRPzdvMvXVVLkpQ-7Fbgaa9LEEd--8MVAdmk6xoeio/1536x864.jpg",
+              "width": 1536
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/RaRPzdvMvXVVLkpQ-7Fbgaa9LEEd--8MVAdmk6xoeio/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/RaRPzdvMvXVVLkpQ-7Fbgaa9LEEd--8MVAdmk6xoeio/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/RaRPzdvMvXVVLkpQ-7Fbgaa9LEEd--8MVAdmk6xoeio/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RaRPzdvMvXVVLkpQ-7Fbgaa9LEEd--8MVAdmk6xoeio/1536x864.jpg",
+          "width": 1536
+        },
+        "imageCaption": ".taka / PIXTA(ピクスタ)",
+        "infoBlockLabel": "海人公園の基本情報",
+        "infoBlockText": "アクセス：小浜港から車で約11分住所：沖縄県八重山郡竹富町小浜",
+        "sectionLevel": "h3",
+        "sectionTitle": "はいむるぶしビーチ"
+      },
+      {
+        "description": "小浜島の最西端・細崎漁港（くばざきぎょこう）の隣にある、大きなマンタのオブジェが目を引く公園です。マンタは実は展望台になっていて、緑豊かな西表島を間近に眺めることができ、敷地内には芝生が広がります。海を眺めながら、都会では味わえないゆっくりとした時の流れを味わいましょう。遊具も充実しているので、家族で訪れるのもおすすめです。",
+        "image": {
+          "height": 735,
+          "sourceUrl": "https://a.mktgcdn.com/p/JMxvxjaCOjPDET9Nwv0DRCps5wR-yj-F2ipwOpMXTew/1102x735.jpg",
+          "thumbnails": [
+            {
+              "height": 735,
+              "url": "https://a.mktgcdn.com/p-sandbox/oWz1s_TtDiz5HX12E_THxqEldaQ8hq3_oguJmZsxg8U/1102x735.jpg",
+              "width": 1102
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/oWz1s_TtDiz5HX12E_THxqEldaQ8hq3_oguJmZsxg8U/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/oWz1s_TtDiz5HX12E_THxqEldaQ8hq3_oguJmZsxg8U/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/oWz1s_TtDiz5HX12E_THxqEldaQ8hq3_oguJmZsxg8U/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oWz1s_TtDiz5HX12E_THxqEldaQ8hq3_oguJmZsxg8U/1102x735.jpg",
+          "width": 1102
+        },
+        "imageCaption": "daysgoby_JPN / PIXTA(ピクスタ)",
+        "infoBlockLabel": "細崎海岸の基本情報",
+        "infoBlockText": "アクセス：小浜港から車で約10分住所：沖縄県八重山郡竹富町小浜",
+        "sectionLevel": "h3",
+        "sectionTitle": "海人（うみんちゅ）公園"
+      },
+      {
+        "description": "小浜島の西側に細く延びた岬の先にある、白浜が美しいビーチです。マンタが現れることで有名なヨナラ水道を見渡せます。ヨナラ水道の先には、西表島を眺めることもできます。細崎は、沖縄の漁師・海人（うみんちゅ）が暮らす集落で、整備された観光地とはまた違う、離島らしい雰囲気を味わうことができます。港から遠い穴場スポットなので、人が少ない時間帯であればビーチを独り占めして、のんびりとした時間を過ごせそうです。",
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/liHXo90sqUcjAB2S7KJaTy3JGnCXfHYnb5rtYCBgVQc/800x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/l8mUW5uqKbHPTSEdzqss6mpknmHSOrshjXpHvOJCICA/800x450.jpg",
+              "width": 800
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/l8mUW5uqKbHPTSEdzqss6mpknmHSOrshjXpHvOJCICA/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/l8mUW5uqKbHPTSEdzqss6mpknmHSOrshjXpHvOJCICA/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/l8mUW5uqKbHPTSEdzqss6mpknmHSOrshjXpHvOJCICA/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/l8mUW5uqKbHPTSEdzqss6mpknmHSOrshjXpHvOJCICA/800x450.jpg",
+          "width": 800
+        },
+        "imageCaption": "リゾナーレ小浜島ロイヤルスイート リビングルーム",
+        "infoBlockLabel": "幻の島の基本情報",
+        "infoBlockText": "アクセス：小浜港から船で約10分住所：沖縄県八重山郡竹富町小浜",
+        "sectionLevel": "h3",
+        "sectionTitle": "細崎（くばざき）海岸"
+      },
+      {
+        "description": "小浜島と竹富島の間に浮かぶ、三日月形の無人島です。満潮時には海に沈んでしまいますが、干潮になると海面から現れます。砂浜で形成されているので、島が現れた直後は、足跡ひとつない状態なんてことも。視界をさえぎるものがない360度の大パノラマで、エメラルドブルーの美しい海が広がります。島へ行くには様々なツアーが用意されているので、そちらを利用して、船に乗って行きましょう。防水カメラを用意して、SNS映えの1枚を狙ってみてはいかがでしょうか。",
+        "image": {
+          "height": 534,
+          "sourceUrl": "https://a.mktgcdn.com/p/LsX4nhl0ZVtwXWOLxARPa24OzIntsdf5z3IehzD89X8/800x534.jpg",
+          "thumbnails": [
+            {
+              "height": 534,
+              "url": "https://a.mktgcdn.com/p-sandbox/LsX4nhl0ZVtwXWOLxARPa24OzIntsdf5z3IehzD89X8/800x534.jpg",
+              "width": 800
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/LsX4nhl0ZVtwXWOLxARPa24OzIntsdf5z3IehzD89X8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/LsX4nhl0ZVtwXWOLxARPa24OzIntsdf5z3IehzD89X8/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/LsX4nhl0ZVtwXWOLxARPa24OzIntsdf5z3IehzD89X8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/LsX4nhl0ZVtwXWOLxARPa24OzIntsdf5z3IehzD89X8/800x534.jpg",
+          "width": 800
+        },
+        "imageCaption": "okinawa_photography / PIXTA(ピクスタ)",
+        "infoBlockLabel": "こはぐら荘（大盛家住宅）の基本情報",
+        "infoBlockText": "アクセス：小浜港から車で約5分住所：沖縄県八重山郡竹富町小浜",
+        "sectionLevel": "h3",
+        "sectionTitle": "浜島（幻の島）"
+      },
+      {
+        "description": "テレビドラマで、ヒロイン一家が住む家のロケ地として使われていた民家です。撮影で使われていた看板が、現在もそのまま置かれています。赤い瓦が特徴的な屋根や、「ヒンプン」と呼ばれる魔除けの壁など、沖縄の伝統的な民家ならではの風情を楽しむことができます。個人住宅のため、敷地内に入ることはできません。そっと外から見学しましょう。",
+        "image": {
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/1fIgbiF49yOJgMp8t9g8OQjwwj5XcFi_3AGSQaW5mzk/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/QVXQNOhVRYbEwTw3VPebgKmFK-w3FRmzcPHEXFB_jO8/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/QVXQNOhVRYbEwTw3VPebgKmFK-w3FRmzcPHEXFB_jO8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/QVXQNOhVRYbEwTw3VPebgKmFK-w3FRmzcPHEXFB_jO8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/QVXQNOhVRYbEwTw3VPebgKmFK-w3FRmzcPHEXFB_jO8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QVXQNOhVRYbEwTw3VPebgKmFK-w3FRmzcPHEXFB_jO8/1536x1025.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "BOB’s CAFEの基本情報",
+        "infoBlockText": "アクセス：小浜港から徒歩約1分住所：沖縄県八重山郡竹富町小浜3400-38TEL：0980-85-3970営業時間：ランチ営業11:00〜14:00or15:00（売り切れ次第終了）ディナー営業18:00～22:30定休日：日曜の夜、水曜日",
+        "sectionLevel": "h3",
+        "sectionTitle": "こはぐら荘（大盛家住宅）　こはぐらそう（おおもりけじゅうたく）"
+      },
+      {
+        "description": "島内は意外と広く、坂道も多いので、レンタカーやレンタバイク、レンタサイクルで周るのがおすすめです。港付近には貸し出しを行っているお店があるので心配はいりません。ゆったりとした雰囲気の残る小浜島を自由に散策してみましょう。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/knQe1MSFXsLAyoJSjiBPNpPOwIK4flJNIVQZsxDcvkg/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/lK6kn7h76qZ9KU2py1X7XVi_WupAlpjBDjjwHWAdqI8/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/lK6kn7h76qZ9KU2py1X7XVi_WupAlpjBDjjwHWAdqI8/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/lK6kn7h76qZ9KU2py1X7XVi_WupAlpjBDjjwHWAdqI8/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/lK6kn7h76qZ9KU2py1X7XVi_WupAlpjBDjjwHWAdqI8/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lK6kn7h76qZ9KU2py1X7XVi_WupAlpjBDjjwHWAdqI8/1536x1152.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "COFFEE HOUSE ヤシの木の基本情報",
+        "infoBlockText": "アクセス：小浜港から車で約4分住所：沖縄県八重山郡竹富町小浜2584TEL：0980-85-3253営業時間：11:00〜16:00（季節により変動あり）定休日：水・木曜日　※個展開催などによる臨時休業あり",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．小浜島を満喫するための楽しみ方"
+      },
+      {
+        "description": "透明度の高い海に囲まれた小浜島では、マリンアクティビティも充実しています。島の海域一帯は珊瑚礁が発達しているため、色鮮やかな珊瑚とカラフルな熱帯魚を楽しむシュノーケルリングやダイビングの島発着ツアーも多くあります。また、小浜島にはビーチが点在しているため、シュノーケリング初心者向けの海や、マリンスポーツ、ヨガを楽しめるビーチなど、自分好みのツアーを選べるので、計画的に遊ぶことができます。フェリーや定期船のない、幻の島へ立ち寄ってくれるプランもあるので、併せて利用すると、小浜島をさらに満喫することができます。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/aZUMOvlojKzSgn7Wmc_ojlFm_hkuSNyBeHwiUquYoDY/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/aZUMOvlojKzSgn7Wmc_ojlFm_hkuSNyBeHwiUquYoDY/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/aZUMOvlojKzSgn7Wmc_ojlFm_hkuSNyBeHwiUquYoDY/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/aZUMOvlojKzSgn7Wmc_ojlFm_hkuSNyBeHwiUquYoDY/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/aZUMOvlojKzSgn7Wmc_ojlFm_hkuSNyBeHwiUquYoDY/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aZUMOvlojKzSgn7Wmc_ojlFm_hkuSNyBeHwiUquYoDY/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "シュノーケルなどのアクティビティ体験！"
+      },
+      {
+        "description": "海風香る爽やかな島を、自転車でゆったりと町並みを眺めながら走りましょう。半日あれば、島内を一周することができます。道は舗装されているので、とても走りやすく、気持ちの良いサイクリングを楽しめます。ただ、坂道もあり、起伏が激しいので、体力に自信のない人は電動アシスト自転車やバイクを借りることをおすすめします。小さい子供のいる家族は、レンタカーが便利で安心です。自転車や車などは、港の前やホテルで借りることができます。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/lU_MRwHdj3Qc2MgH5I5OHJgclJnWqlZ9gfWIYZNsLWQ/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/Blfi_w2pnoExIxZ_gTH4t3NBGv_XVfqQ9q8_7ZlE4Ew/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/Blfi_w2pnoExIxZ_gTH4t3NBGv_XVfqQ9q8_7ZlE4Ew/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Blfi_w2pnoExIxZ_gTH4t3NBGv_XVfqQ9q8_7ZlE4Ew/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Blfi_w2pnoExIxZ_gTH4t3NBGv_XVfqQ9q8_7ZlE4Ew/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Blfi_w2pnoExIxZ_gTH4t3NBGv_XVfqQ9q8_7ZlE4Ew/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "レンタサイクルで島内をぐるりと一周！"
+      },
+      {
+        "description": "離島では、おいしい食事との出合いも楽しみのひとつ。ここでしか食べられない島特有の素材を使ったメニューは必食です！ サイクリングの合間のひと休みにも立ち寄りたいお店をご紹介します。",
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://a.mktgcdn.com/p/2sGBUhCUxyqG2_4BbD6-c2l2J_8wDxJFQfyIRv76QnA/1200x700.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "https://a.mktgcdn.com/p-sandbox/2sGBUhCUxyqG2_4BbD6-c2l2J_8wDxJFQfyIRv76QnA/1200x700.jpg",
+              "width": 1200
+            },
+            {
+              "height": 361,
+              "url": "https://a.mktgcdn.com/p-sandbox/2sGBUhCUxyqG2_4BbD6-c2l2J_8wDxJFQfyIRv76QnA/619x361.jpg",
+              "width": 619
+            },
+            {
+              "height": 350,
+              "url": "https://a.mktgcdn.com/p-sandbox/2sGBUhCUxyqG2_4BbD6-c2l2J_8wDxJFQfyIRv76QnA/600x350.jpg",
+              "width": 600
+            },
+            {
+              "height": 114,
+              "url": "https://a.mktgcdn.com/p-sandbox/2sGBUhCUxyqG2_4BbD6-c2l2J_8wDxJFQfyIRv76QnA/196x114.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2sGBUhCUxyqG2_4BbD6-c2l2J_8wDxJFQfyIRv76QnA/1200x700.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "島グルメ＆カフェでお腹も心も大満足！"
+      },
+      {
+        "description": "小浜港を出てすぐのところにある、オーシャンビューが自慢のおしゃれなカフェ。青く美しい海を贅沢に眺めながら、小浜島産の黒糖を使ったオリジナルテリヤキソースが特徴の「小浜バーガー」をいただきましょう。持ち帰りができるので、海でのランチにも持ってこいです。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZPZXwuA5-iPA5ynQtLhhBsUvIMX5RNtjxTO4eeTR5I4/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/6zwKLj--EQCeA4bqqZ35wputDQAZ910Z-zFBZUaNNWs/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/6zwKLj--EQCeA4bqqZ35wputDQAZ910Z-zFBZUaNNWs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/6zwKLj--EQCeA4bqqZ35wputDQAZ910Z-zFBZUaNNWs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/6zwKLj--EQCeA4bqqZ35wputDQAZ910Z-zFBZUaNNWs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6zwKLj--EQCeA4bqqZ35wputDQAZ910Z-zFBZUaNNWs/1536x1024.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "BOB’s CAFE"
+      },
+      {
+        "description": "島めぐりの途中のひと休みにぴったりなカフェです。半熟卵をのせたハヤシビーフは、八重山特産のスパイス・ピパーチをきかせた人気メニューです。店を切り盛りするのはイラストレーターで絵本作家のはんまけいこさん。彼女が小浜島のイラストを描いたTシャツや、オリジナルポストカードも販売しています。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/qmMOLbWF9C8aS8uE525fZkdbeEsMXbwEA3AK4KpSfAQ/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/DMjO0stg4IOfGoQXqrnnxITmYDrGft4RmylV-gN3G-E/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/DMjO0stg4IOfGoQXqrnnxITmYDrGft4RmylV-gN3G-E/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/DMjO0stg4IOfGoQXqrnnxITmYDrGft4RmylV-gN3G-E/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/DMjO0stg4IOfGoQXqrnnxITmYDrGft4RmylV-gN3G-E/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DMjO0stg4IOfGoQXqrnnxITmYDrGft4RmylV-gN3G-E/1536x1024.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "COFFEE HOUSE　ヤシの木"
+      },
+      {
+        "description": "のどかな雰囲気あふれる小浜島を観光した後は、きれいな海に囲まれたリゾートホテルで癒されましょう。南国ムード漂うリゾート内で、都会では味わえないオアシスタイムが待っています。",
+        "sectionLevel": "h3",
+        "sectionTitle": "美しい自然に包まれたリゾートホテルに宿泊！"
+      },
+      {
+        "description": "多彩なマリンアクティビティで遊べるはいむるぶしビーチを擁する、自然豊かなリゾートホテルです。青い海を窓から一望できる開放感たっぷりのゲストルームも用意されています。展望大浴場から眺める満天の星の美しさに、一日の疲れも吹き飛びます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "はいむるぶし"
+      },
+      {
+        "description": "オールスイートの客室が特徴のリゾートホテルです。沖縄の素材を活かしたメニューの揃うレストランの料理を、星が輝く夜空の下で楽しめる「ティンガーラナイトディナー」で、小浜島でしか味わえない贅沢な時間を過ごしましょう。",
+        "sectionLevel": "h4",
+        "sectionTitle": "星野リゾート リゾナーレ小浜島"
+      },
+      {
+        "description": "石垣島から小浜島へは、船での移動になります。船から八重山の光り輝く海を眺めていると、島への上陸が待ち遠しくなるはずです。そんなわくわく気分から、小浜島への旅が始まります。小浜島には空港がないため、本州からは石垣島を経由し、高速船またはフェリーを使って向かうことになります。まずは、八重山諸島の主島である石垣島へ向かいましょう。羽田空港から石垣空港までの直行便の所要時間は約3時間です。その他、各主要都市からも直行便が出ています。また、本島の乗継便を利用して、那覇空港から所要時間1時間程度で、石垣空港へ向かうことも可能です。直行便か乗継便かは、予算や時間を考慮して決めましょう。石垣空港へ到着したら、路線バスかタクシー、レンタカーを利用して、石垣港離島ターミナルへ向かいます。路線バスでは約30〜43分、タクシーでは約30分です。ターミナルについたら、高速船またはフェリーの出発時刻を確認して、カウンターでチケットを購入しておきましょう。出発10分前には桟橋へ移動をしておくと安心です。出発の時間まで、ターミナル内にあるショップや食事処でひと休みもできます。定期高速船を運航する安栄観光と、八重山観光フェリーから、1日計12便、船が出ています。所要時間約25〜40（竹富経由時）分で、片道1,080円、1時間に1本の間隔で運航しています。白波を立てながら進む船の上で、期待に胸を膨らませていると、あっという間に小浜島へ上陸です。腹ごしらえにカフェに行くのもよし、目的のビーチに遊びに行くのもよし、のどかな風景の続く小浜島で思い思いの1日を過ごしましょう。",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．小浜島へのアクセスをチェック！"
+      },
+      {
+        "description": "ドラマのロケ地として有名になった小浜島には、世界有数の珊瑚礁に、サトウキビ畑、南国情緒あふれるリゾートと、休暇を過ごすには最適なロケーションが揃っています。ぜひ、都会から離れてひと休みをしに訪れてみてはいかがでしょうか。※2020年8月時点の情報です。内容は変更になることがあります。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．まとめ"
+      }
+    ],
+    "c_news_PublicationDate": "2020-10-01",
+    "c_news_UpdateDate": "2024-04-18",
+    "c_news_ViewCount": "6298",
+    "c_news_ViewCount2of2": "6298",
+    "c_news_ViewCountNum": "6298",
+    "c_news_ViewCountNumForSorting": "227",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0006",
+    "name": "小浜島のおすすめ観光スポットと過ごし方12選",
+    "slug": "kokunai/okinawa/okinawa_all/news_web_kokunai_0006",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

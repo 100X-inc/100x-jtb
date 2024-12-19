@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_gong_qi_xian_gong_qi_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044199776"
+    ],
+    "dm_directoryChildren": [
+      "t8957-0"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_gong_qi_xian"
+    ],
+    "name": "宮崎市",
+    "slug": "宮崎県/宮崎市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-21",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/21_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d42.995467%2C144.871632",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "海・湖・川・滝"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "通常の昆布よりも早い時期に採られる若昆布は「棹前（さおまえ）昆布」と呼ばれ、柔らかい身が特徴で、水で戻せばそのままサラダとして食べられる他、おでんや昆布巻・煮物など煮昆布として人気が高い食品です。また、その食べやすさ、味の良さから「野菜昆布」とも呼ばれる高級品となっています。毎年6月上旬に解禁される棹前昆布漁は、6月末までの間にわずか数日間のみ出漁が許されるとても貴重な漁で、約350隻の船が漁場を求めて出港していく様子はただただ圧倒されるばかりです。2021年の出漁はほんの2日間だけでした。7月から10月にはナガコンブやアツバコンブの漁もあり、こちらは棹前昆布漁よりは船の数は少なくなるものの、午前5時に漁船がいっせいに出漁していく様子を見ることができます。\n見所・お勧めポイント\n昆布の他、厚岸は古くからカキの産地として知られており、厚岸という地名の語源もアイヌ語で『アッケシシ』（かきのあるところ）という説もあります。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/21.asp",
+    "name": "厚岸 棹前昆布漁"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

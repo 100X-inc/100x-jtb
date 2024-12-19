@@ -1,0 +1,238 @@
+{
+  "$id": "ap_a_ebe517_002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "夕食は、宮崎の名産品や高千穂に昔から伝わる料理を現代に蘇らせた「高千穂蘇食」を。身が柔らかく、脂の甘い香りが評判の高千穂牛ステーキ付のプランもおすすめです。切り出した青竹に日本酒を注ぎ、直火で焙って竹の香りと甘みをだした名物「かっぽ酒」も付いています。高千穂らしい食事を存分に味わってください。夕食は18時からいただけるので、高千穂神社で開催される「夜神楽」鑑賞にも十分に間に合いますよ。朝食は、宿自慢の「幸せの笊盛り御膳」を。体に優しい無添加食材をふんだんにとり入れた昔ながらの朝食で、手作り味噌や「祖母山まめ」「油みそ」のほか山岳地域ならではの「山のり」など、他ではなかなか食べられない食材も。たっぷりの朝食でパワーを付けて、高千穂巡りにお出かけください。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/AKfdXMGfyPBgu2va-nJY8ncSv5gtG03jP5Wz0BNoHss/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/AKfdXMGfyPBgu2va-nJY8ncSv5gtG03jP5Wz0BNoHss/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/AKfdXMGfyPBgu2va-nJY8ncSv5gtG03jP5Wz0BNoHss/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/AKfdXMGfyPBgu2va-nJY8ncSv5gtG03jP5Wz0BNoHss/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/AKfdXMGfyPBgu2va-nJY8ncSv5gtG03jP5Wz0BNoHss/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AKfdXMGfyPBgu2va-nJY8ncSv5gtG03jP5Wz0BNoHss/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "体が喜ぶやさしい朝食で1日をスタート",
+        "sectionTitle": "高千穂の伝統料理と宿自慢の朝食でパワーチャージ"
+      },
+      {
+        "description": "お部屋は本館に和室が１０室。純和風の落ち着いた造りで、8畳と12畳の2タイプから選べます。広縁もあるのでゆったりと過ごせますよ。お風呂付の部屋もあるので、小さいお子様連れの方も安心ですね。そして、プライベート感たっぷりの離れには8室のお部屋があります。和室6畳と次の間4.5畳、踏込2畳のゆったりとした造りで、ちょっと贅沢に滞在を楽しめます。ツインベッドが置かれた和洋室タイプや、6畳と9畳の和室がある広々とした特別室も。人数に合わせて選んでくださいね。",
+        "image": {
+          "height": 666,
+          "sourceUrl": "https://a.mktgcdn.com/p/UWOGWqMASZsQP6uYqHBXfZ8lwFq6uCAi1nsdYIQaH-o/1000x666.jpg",
+          "thumbnails": [
+            {
+              "height": 666,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ig74hgq5Rd3sRLWRPNLu9qIno_FNcELmxBo8xquCb1Y/1000x666.jpg",
+              "width": 1000
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ig74hgq5Rd3sRLWRPNLu9qIno_FNcELmxBo8xquCb1Y/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ig74hgq5Rd3sRLWRPNLu9qIno_FNcELmxBo8xquCb1Y/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ig74hgq5Rd3sRLWRPNLu9qIno_FNcELmxBo8xquCb1Y/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ig74hgq5Rd3sRLWRPNLu9qIno_FNcELmxBo8xquCb1Y/1000x666.jpg",
+          "width": 1000
+        },
+        "imageCaption": "高千穂の木材を使い、木の香りに包まれた離れ和室",
+        "sectionTitle": "純和風の落ち着いたお部屋でゆったりと"
+      },
+      {
+        "description": "高千穂は、歩いて観光する場所が多い町。たくさん歩いた後は、お風呂でリフレッシュしてください。宿のお風呂は小さいながらも、のんびりとくつろげます。お湯にはラジウムが含まれているので、体の疲れを癒やしてくれますよ。お湯の温度は40～41℃と少しぬるめなので、ゆっくりと浸かれるのもうれしいですね。男湯にはサウナもあるので、しっかりと整えていただけます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/LkAnPJ1WeskXys5jeIGB8UB0Oas_o8cTh4h672Jq5BI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/LkAnPJ1WeskXys5jeIGB8UB0Oas_o8cTh4h672Jq5BI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/LkAnPJ1WeskXys5jeIGB8UB0Oas_o8cTh4h672Jq5BI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/LkAnPJ1WeskXys5jeIGB8UB0Oas_o8cTh4h672Jq5BI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/LkAnPJ1WeskXys5jeIGB8UB0Oas_o8cTh4h672Jq5BI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/LkAnPJ1WeskXys5jeIGB8UB0Oas_o8cTh4h672Jq5BI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "男性大浴場。どこか懐かしいたたずまい",
+        "sectionTitle": "ラジウム泉で歩き疲れた体を癒やす"
+      },
+      {
+        "description": "高千穂峡は高さ80～100mもの断崖が7kmにわたって続く絶景の地です。宿の周辺には神話に由縁のある「おのころ島」や「月形」「鬼八の力石」など、みどころが満載です。日本の滝百選にも選ばれている真名井の滝へもぜひ足を運んでください。下から滝を眺められる貸しボートもおすすめです。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai_hotel/htl/8501005/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "sectionTitle": "神話の町の観光拠点にぴったり"
+      },
+      {
+        "description": "----------------------------------------------※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-02-08",
+    "c_ap_HeroImage": {
+      "alternateText": "神々が宿る町・高千穂で郷土料理をたっぷりと【宮崎県　ホテル四季見】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/GPskJXjRSkaacCKOiJ4Y5ziBSuyMZ1DpI5OBehpFvqg/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/GPskJXjRSkaacCKOiJ4Y5ziBSuyMZ1DpI5OBehpFvqg/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/GPskJXjRSkaacCKOiJ4Y5ziBSuyMZ1DpI5OBehpFvqg/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/GPskJXjRSkaacCKOiJ4Y5ziBSuyMZ1DpI5OBehpFvqg/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/GPskJXjRSkaacCKOiJ4Y5ziBSuyMZ1DpI5OBehpFvqg/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/GPskJXjRSkaacCKOiJ4Y5ziBSuyMZ1DpI5OBehpFvqg/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "本館の横に離れ客室が並ぶ",
+    "c_ap_LinkArticleSectionTitle": "宮崎県その他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "ホテル四季見 のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/8501005/plan/"
+      },
+      {
+        "linkText": "高千穂・延岡のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/4505/"
+      },
+      {
+        "linkText": "宮崎旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/miyazaki/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea6": [
+      "九州全般",
+      "宮崎県"
+    ],
+    "c_ap_ShortDescription": "天岩戸や高天原など、記紀に登場する地名が多く残る高千穂は、「神々が宿る町」とも呼ばれています。そんな高千穂で半世紀にわたって旅人の心や体を癒やしてきたのが「ホテル四季見」です。\n宿の自慢は、宮崎の名産品や、高千穂に昔から伝わるお料理や食材を現代に蘇らせた会席「高千穂蘇食」。A５等級の高千穂牛ステーキも、ぜひ味わっていただきたいおすすめの品です。体に優しい無添加食材を多くとり入れた、昔ながらの朝食も人気ですよ。\nお部屋は、本館にある純和風の和室に加えて、ちょっと贅沢な離れ客室も。離れは専用のお風呂付なので、プライベート感たっぷりに過ごせます。パワースポット高千穂巡りの拠点にも便利です。",
+    "c_ap_Tags": [
+      "高千穂",
+      "純和風",
+      "離れ"
+    ],
+    "c_ap_Theme": [
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "神々が宿る町・高千穂で郷土料理をたっぷりと【宮崎県　ホテル四季見】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "天岩戸や高天原など、記紀に登場する地名が多く残る高千穂は、「神々が宿る町」とも呼ばれています。そんな高千穂で半世紀にわたって旅人の心や体を癒やしてきたのが「ホテル四季見」です。\n宿の自慢は、宮崎の名産品や、高…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "神々が宿る町・高千穂で郷土料理をたっぷりと【宮崎県　ホテル四季見】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_a_ebe517_002",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "九州全般, 宮崎県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：九州全般, 宮崎県",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：九州全般, 宮崎県",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "神々が宿る町・高千穂で郷土料理をたっぷりと【宮崎県　ホテル四季見】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

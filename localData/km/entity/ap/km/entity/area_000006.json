@@ -1,0 +1,243 @@
+{
+  "$id": "ap_area_000006",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ 編集部 竹内 寿夫"
+    },
+    "c_ap_CTA1": {
+      "label": "リモート旅行相談 沖縄専門デスクはこちら",
+      "link": "https://stores.jtb.co.jp/cc-0020",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "まずは、屋我地島から延びる全長1960mの「古宇利大橋」を渡って古宇利島へ。橋の両側に広がる海はコバルトブルーに輝き、天気の良い日は息をのむほどの美しさです。古宇利島まで一直線に伸びる道路を運転すれば、まるで海上を走っているような爽快感を味わえます。橋を渡ったあとは、たもとにある駐車場に車を停めて、近くの古宇利ビーチまで散策を楽しみましょう。",
+        "image": {
+          "height": 411,
+          "sourceUrl": "https://a.mktgcdn.com/p/wjfwx2Fpn78jJH_24V8KmbnjT3E97cbY4ttig7OQzNs/617x411.jpg",
+          "thumbnails": [
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/lS71NYBwcIeH_9ognj2OhnCwWJ2un054Jw7k4d1L5_4/617x411.jpg",
+              "width": 617
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/lS71NYBwcIeH_9ognj2OhnCwWJ2un054Jw7k4d1L5_4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/lS71NYBwcIeH_9ognj2OhnCwWJ2un054Jw7k4d1L5_4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lS71NYBwcIeH_9ognj2OhnCwWJ2un054Jw7k4d1L5_4/617x411.jpg",
+          "width": 617
+        },
+        "imageCaption": "サンゴ礁の海に架かる「古宇利大橋」",
+        "sectionTitle": "島巡りは「古宇利大橋」の“海上ドライブ”からスタート！"
+      },
+      {
+        "description": "島のメインビーチ「古宇利ビーチ」では、真っ白な砂浜と透き通った海を堪能できます。ビーチの周りには飲食店が点在していて、テラス席のあるお店なら景色を眺めながら食事を楽しめますよ。古宇利ビーチをあとにし、島の外周をドライブして反対側へ。ティーヌ浜にある「ハートロック」を見に行きましょう。波によってハート型に削られたこの岩は、航空会社のCMで取り上げられると一躍有名に。島に残る“アダムとイブ伝説”と相まって、恋人の聖地とも呼ばれるようになりました。おすすめの時間帯は夕暮れ時。オレンジ色に染まる海に、ハートのシルエットが浮かび上がる様子は幻想的です。",
+        "image": {
+          "height": 459,
+          "sourceUrl": "https://a.mktgcdn.com/p/BRuEe13C4TeGRplAZpldEH_tGjzvB3H3JagR3bP5iXc/689x459.jpg",
+          "thumbnails": [
+            {
+              "height": 459,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZiVvCuyJMzF8A-_GmAae88TTQCo7EJAeO6Sz5HEcIow/689x459.jpg",
+              "width": 689
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZiVvCuyJMzF8A-_GmAae88TTQCo7EJAeO6Sz5HEcIow/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZiVvCuyJMzF8A-_GmAae88TTQCo7EJAeO6Sz5HEcIow/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZiVvCuyJMzF8A-_GmAae88TTQCo7EJAeO6Sz5HEcIow/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZiVvCuyJMzF8A-_GmAae88TTQCo7EJAeO6Sz5HEcIow/689x459.jpg",
+          "width": 689
+        },
+        "imageCaption": "「ハートロック」は恋の島のシンボル",
+        "sectionTitle": "「古宇利ビーチ」や「ハートロック」などで島の自然を満喫"
+      },
+      {
+        "description": "島のランドマークでもある「古宇利オーシャンタワー」も訪れてほしいスポットの一つ。タワーの1階には、古宇利島の歴史や文化について学べる資料館のほか、島かぼちゃを使った特製スイーツなどを購入できるショップが入っています。ショップにはここにしかない商品もあるので、おみやげ探しにぴったりですよ。最上階は、島と海を一望できる展望台。海抜82mの高さから眺める古宇利の海には、橋上やビーチから見る海とは違う美しさがあります。",
+        "image": {
+          "height": 1674,
+          "sourceUrl": "https://a.mktgcdn.com/p/S9fls7AccWVpX6PORfDC-UASk5R6226eZqkUfqWLA4g/2511x1674.jpg",
+          "thumbnails": [
+            {
+              "height": 1674,
+              "url": "https://a.mktgcdn.com/p-sandbox/QUarRPu6Xc5pismeU9tYdELee6imM2Qv6Ztw51sp-PE/2511x1674.jpg",
+              "width": 2511
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/QUarRPu6Xc5pismeU9tYdELee6imM2Qv6Ztw51sp-PE/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/QUarRPu6Xc5pismeU9tYdELee6imM2Qv6Ztw51sp-PE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/QUarRPu6Xc5pismeU9tYdELee6imM2Qv6Ztw51sp-PE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/QUarRPu6Xc5pismeU9tYdELee6imM2Qv6Ztw51sp-PE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QUarRPu6Xc5pismeU9tYdELee6imM2Qv6Ztw51sp-PE/2511x1674.jpg",
+          "width": 2511
+        },
+        "imageCaption": "施設内のレストランでは古宇利島の美しい海を眺めながら食事を楽しめます",
+        "sectionTitle": "「古宇利オーシャンタワー」から島と海を眺めよう"
+      },
+      {
+        "description": "●スポット情報古宇利大橋（こうりおおはし）住所：沖縄県国頭郡今帰仁村古宇利料金・時間・休み：通行自由●スポット情報古宇利オーシャンタワー（こうりおーしゃんたわー）電話：0980-56-1616住所：沖縄県国頭郡今帰仁村古宇利538 料金：入館850円 時間：9～18時（最終受付17時30分）※2022年４月現在、時短営業中10～17時（最終受付16時30分）休み：無休駐車場：200台●合わせて読みたい沖縄県の観光情報▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_area_000004\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e【沖縄県】感動の美ら島へ！沖縄のみどころ6大エリア紹介\u003c/a\u003e\u003c/span\u003e▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_area_000005\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e【沖縄美ら海水族館周辺】 王道スポットを巡る！定番をばっちり楽しむ一泊二日モデルコース\u003c/a\u003e\u003c/span\u003e"
+      },
+      {
+        "description": "----------------------------------------------※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-04-17",
+    "c_ap_HeroImage": {
+      "alternateText": "「アダムとイブ伝説」が残る”恋の島”へ。古宇利島をぐるりと一周【沖縄県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 689,
+      "sourceUrl": "https://a.mktgcdn.com/p/VP3VUtV4tOS9BtTlk8kqEWDUhMQEkqwo35ZWSdL-wBw/1033x689.jpg",
+      "thumbnails": [
+        {
+          "height": 689,
+          "url": "https://a.mktgcdn.com/p-sandbox/mdGKQjLS3-p-46lnWhCqhuDhRyLuphUf5Eh1SUiPUCA/1033x689.jpg",
+          "width": 1033
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/mdGKQjLS3-p-46lnWhCqhuDhRyLuphUf5Eh1SUiPUCA/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/mdGKQjLS3-p-46lnWhCqhuDhRyLuphUf5Eh1SUiPUCA/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/mdGKQjLS3-p-46lnWhCqhuDhRyLuphUf5Eh1SUiPUCA/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/mdGKQjLS3-p-46lnWhCqhuDhRyLuphUf5Eh1SUiPUCA/1033x689.jpg",
+      "width": 1033
+    },
+    "c_ap_LinkArticleSectionTitle": "沖縄県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "リモート相談 沖縄専門デスクはこちら",
+        "uRL": "https://stores.jtb.co.jp/cc-0020"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "沖縄のホテル・旅館・宿おすすめランキング",
+        "uRL": "https://www.jtb.co.jp/ranking/kokunai/okinawa/"
+      },
+      {
+        "linkText": "沖縄リゾートホテル特集",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/hotel/"
+      },
+      {
+        "linkText": "沖縄旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea6": [
+      "沖縄県"
+    ],
+    "c_ap_ShortDescription": "沖縄美ら海水族館周辺エリアにある離島「古宇利島」は、足を延ばして訪れてほしいスポットです。透明度の高い海が広がり、地上の楽園とも思えるような美しい景色を目にすることができます。\nさらに、“沖縄版アダムとイブ”ともいえる人類発祥の言い伝えが残り、“恋の島”としても有名。1周約6kmの島の外周道路をドライブしながら、点在する観光スポットに立ち寄ってみてはいかがでしょうか。",
+    "c_ap_Tags": [
+      "離島",
+      "古宇利島",
+      "恋の島",
+      "ハートロック"
+    ],
+    "c_ap_Theme": [
+      "ハネムーン",
+      "自然・山",
+      "ドライブ",
+      "カフェ",
+      "リゾート"
+    ],
+    "c_ap_Title": "「アダムとイブ伝説」が残る”恋の島”へ。古宇利島をぐるりと一周【沖縄県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "沖縄美ら海水族館周辺エリアにある離島「古宇利島」は、足を延ばして訪れてほしいスポットです。透明度の高い海が広がり、地上の楽園とも思えるような美しい景色を目にすることができます。\nさらに、“沖縄版アダムとイブ”…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "「アダムとイブ伝説」が残る”恋の島”へ。古宇利島をぐるりと一周【沖縄県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_area_000006",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "沖縄県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：沖縄県",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：沖縄県",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "【沖縄県】「アダムとイブ伝説」が残る”恋の島”へ。古宇利島をぐるりと一周",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

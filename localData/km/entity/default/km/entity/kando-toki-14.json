@@ -1,0 +1,39 @@
+{
+  "$id": "kando-toki-14",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/14_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d44.02024%2C145.196937",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "海・湖・川・滝",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "秘境知床の東の入口に羅臼町は位置し、目の前の海に、北方四島の一つ「国後島」が望めます。夏の羅臼（らうす）は、マッコウクジラやミンククジラ、イシイルカ、ツチクジラなど、野生動物の宝庫です。遠くオーストラリアから飛来するミズナギドリの群れは、世界中の写真家や研究者を魅了するほど。また、冬の流氷がやってくる時期には、約2000羽のオジロワシやオオワシが羽を休めていて、観光船に乗船すると約9割という高い確率でその姿を見ることができます。\n見所・お勧めポイント\n知床羅臼沖をめぐる観光船ではホエールウォッチングをすることもできるので、北海道の雄大な景色と野生動物のコラボレーションを存分に楽しめます。巨大なマッコウクジラが水飛沫を上げて海に潜っていく姿は迫力満点。好奇心旺盛なシャチの群れが観光船に近づいてくる姿を見られることもあります。巨大なクジラや空を覆うようなミズナギドリの群れなど、野生の生き物達が大自然の海の中で生き生きとしている姿を船の間近に見ることができるのは、羅臼ならではの魅力です。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/14.asp",
+    "name": "羅臼のクジラ、イルカ、ウミドリ"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

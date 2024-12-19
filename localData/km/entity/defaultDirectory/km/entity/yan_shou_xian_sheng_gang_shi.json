@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_yan_shou_xian_sheng_gang_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247687"
+    ],
+    "dm_directoryChildren": [
+      "2223-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_yan_shou_xian"
+    ],
+    "name": "盛岡市",
+    "slug": "岩手県/盛岡市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

@@ -1,0 +1,956 @@
+{
+  "$id": "news_web_kaigai_0005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1241,
+      "sourceUrl": "https://a.mktgcdn.com/p/WLhsOzamRzzCLEUZhkLekWAy6aREw3GCfbkbuELV6_E/1920x1241.jpg",
+      "thumbnails": [
+        {
+          "height": 1241,
+          "url": "https://a.mktgcdn.com/p-sandbox/WLhsOzamRzzCLEUZhkLekWAy6aREw3GCfbkbuELV6_E/1920x1241.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1228,
+          "url": "https://a.mktgcdn.com/p-sandbox/WLhsOzamRzzCLEUZhkLekWAy6aREw3GCfbkbuELV6_E/1900x1228.jpg",
+          "width": 1900
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/WLhsOzamRzzCLEUZhkLekWAy6aREw3GCfbkbuELV6_E/619x400.jpg",
+          "width": 619
+        },
+        {
+          "height": 388,
+          "url": "https://a.mktgcdn.com/p-sandbox/WLhsOzamRzzCLEUZhkLekWAy6aREw3GCfbkbuELV6_E/600x388.jpg",
+          "width": 600
+        },
+        {
+          "height": 127,
+          "url": "https://a.mktgcdn.com/p-sandbox/WLhsOzamRzzCLEUZhkLekWAy6aREw3GCfbkbuELV6_E/196x127.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/WLhsOzamRzzCLEUZhkLekWAy6aREw3GCfbkbuELV6_E/1920x1241.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ハワイ旅行・ツアー特集をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hawaii/"
+      },
+      {
+        "linkText": "JTBMySTYLEでハワイ旅行を計画する",
+        "uRL": "https://www.jtb.co.jp/lookjtb/service/hawaii/"
+      },
+      {
+        "linkText": "ハワイのおすすめホテル特集をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/"
+      },
+      {
+        "linkText": "ハワイの現地オプショナルツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/bH1/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "ホノルルのあるオアフ島は、ハワイの島々の中で、ハワイ島、マウイ島に続き3番目に大きい島です。オアフ島一周道路はおよそ200ｋｍと言われており、有名なワイキキエリアだけでなく、高級リゾートのコオリナエリアやサーフィンのメッカ、ノースショア、大自然を満喫できる東部エリア、世界有数のビーチを持つカイルア、リゾートと高級住宅地がミックスされたハワイカイなど、観光スポットは盛りだくさん、何度行っても楽しめる魅力的な島なのです。",
+    "c_ap_Tags": [
+      "ビーチ",
+      "スパ",
+      "リゾート",
+      "ショッピング",
+      "ハワイおすすめ",
+      "ビーチリゾート",
+      "絶景",
+      "自然",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "ハワイの人気観光スポット31選！おすすめの名所を巡る完全版",
+    "c_linkedArea3News": [
+      "hawaii"
+    ],
+    "c_metaDescription": "ハワイに行くなら絶対に訪れたい、定番の観光スポットをご紹介します。ビーチでマリンスポーツを楽しんだり、ショッピングセンターで買い物したりと楽しみ方は無限大！ハワイ旅行でどこに行くか迷ったら、ぜひチェックしてみてください。",
+    "c_metaTitle": "ハワイの人気観光スポット31選！おすすめの名所を巡る完全版 | JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "ハワイ特集をみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/hawaii/",
+        "linkType": "URL"
+      },
+      {
+        "label": "ハワイのおすすめホテルをみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/",
+        "linkType": "URL"
+      },
+      {
+        "label": "JTBMySTYLEでハワイ旅行を計画する",
+        "link": "https://www.jtb.co.jp/lookjtb/service/hawaii/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ダイヤモンドヘッドのハイキングツアーを見る",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/prddetail/p309700/",
+          "linkType": "URL"
+        },
+        "description": "ハワイの象徴とも言えるワイキキビーチは、オアフ島南部に位置し、もともとハワイ王朝の王族達の遊び場だったと言われています。今では、ビーチ沿いに高級ホテルが建ち並び、ビーチからダイヤモンドヘッドを眺める景色は、いつ見ても、何度見ても感動することでしょう。カラカウア通り沿いに建つサーフィンの父として有名なハワイの英雄「デューク・カハナモク像」も写真スポットとして有名です。",
+        "image": {
+          "height": 1330,
+          "sourceUrl": "https://a.mktgcdn.com/p/oTPHz6Lj5mnkKKkIue4eiNIrnbXsy3Wx9B7yiOUsv2A/1920x1330.jpg",
+          "thumbnails": [
+            {
+              "height": 1330,
+              "url": "https://a.mktgcdn.com/p-sandbox/04vMa68rt7z4Q8MfRq5sBCtZ80D6v0USlG9nO8Whxw4/1920x1330.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1316,
+              "url": "https://a.mktgcdn.com/p-sandbox/04vMa68rt7z4Q8MfRq5sBCtZ80D6v0USlG9nO8Whxw4/1900x1316.jpg",
+              "width": 1900
+            },
+            {
+              "height": 429,
+              "url": "https://a.mktgcdn.com/p-sandbox/04vMa68rt7z4Q8MfRq5sBCtZ80D6v0USlG9nO8Whxw4/619x429.jpg",
+              "width": 619
+            },
+            {
+              "height": 416,
+              "url": "https://a.mktgcdn.com/p-sandbox/04vMa68rt7z4Q8MfRq5sBCtZ80D6v0USlG9nO8Whxw4/600x416.jpg",
+              "width": 600
+            },
+            {
+              "height": 136,
+              "url": "https://a.mktgcdn.com/p-sandbox/04vMa68rt7z4Q8MfRq5sBCtZ80D6v0USlG9nO8Whxw4/196x136.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/04vMa68rt7z4Q8MfRq5sBCtZ80D6v0USlG9nO8Whxw4/1920x1330.jpg",
+          "width": 1920
+        },
+        "imageCaption": "©Hawaii Tourism Authority",
+        "sectionLevel": "h2",
+        "sectionTitle": "1. ワイキキ～カハラリアの観光スポット"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイの2大ファーマーズマーケットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000005",
+          "linkType": "OTHER"
+        },
+        "description": "「ピンクパレス」の愛称で知られるハワイの老舗ホテル 「ロイヤル ハワイアン ホテル 」に隣接する、ワイキキ最大級のショッピングモールです。有名ブランドショップや多彩な料理が楽しめるレストランなど魅力満載のスポットです。また、誰でも気軽にハワイの伝統的な文化に触れられる、ハワイアンカルチャー体験では、無料でフラやウクレレ、レイメイキングなどを体験することができ、ハワイアンミュージックとフラのライブエンターテイメントも開催されています。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/CNg66BFXWVIn4N54i13bwB9_XQQk5-9sowahc4jQzLI/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/CNg66BFXWVIn4N54i13bwB9_XQQk5-9sowahc4jQzLI/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/CNg66BFXWVIn4N54i13bwB9_XQQk5-9sowahc4jQzLI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/CNg66BFXWVIn4N54i13bwB9_XQQk5-9sowahc4jQzLI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/CNg66BFXWVIn4N54i13bwB9_XQQk5-9sowahc4jQzLI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/CNg66BFXWVIn4N54i13bwB9_XQQk5-9sowahc4jQzLI/1024x683.jpg",
+          "width": 1024
+        },
+        "imageCaption": "©Hitachi,Ltd. ALL right reserved.",
+        "sectionLevel": "h3",
+        "sectionTitle": "ワイキキビーチ"
+      },
+      {
+        "cTA1": {
+          "label": "タンタラスナイトビューを眺める現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/prddetail/p290000937/",
+          "linkType": "OTHER"
+        },
+        "description": "ワイキキから東へ車で10分ほどのところにある、ハワイで一番有名な場所です。ハワイでは「レアヒ（鮪の額）」と呼ばれていましたが、19世紀に英国の船乗りが、クレーターの斜面で見つけた石をダイヤモンドと勘違いしたため、「ダイヤモンドヘッド」と名付けたとされています。おすすめは早朝ハイキングツアーで、山頂から眺めるワイキキエリアは絶景です。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/DTFhORYCsgZ7VmOxepS1t_eQb7Kv946wMj9DdutixT0/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/DTFhORYCsgZ7VmOxepS1t_eQb7Kv946wMj9DdutixT0/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/DTFhORYCsgZ7VmOxepS1t_eQb7Kv946wMj9DdutixT0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/DTFhORYCsgZ7VmOxepS1t_eQb7Kv946wMj9DdutixT0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/DTFhORYCsgZ7VmOxepS1t_eQb7Kv946wMj9DdutixT0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DTFhORYCsgZ7VmOxepS1t_eQb7Kv946wMj9DdutixT0/1024x683.jpg",
+          "width": 1024
+        },
+        "imageCaption": "©Nori Hasunuma",
+        "sectionLevel": "h3",
+        "sectionTitle": "ロイヤル・ハワイアン・センター"
+      },
+      {
+        "cTA1": {
+          "label": "カカアコ地区の人気観光スポットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000018",
+          "linkType": "URL"
+        },
+        "description": "ダイヤモンドヘッドの裾野に広がるカピオラニ公園は、ハワイ王朝最後の王、キングカラカウアの元所有地が公園に生まれ変わり、妃だったクィーン・カピオラニの名前が付けられています。ハワイで最も古くて広い公園と言われており、毎年12月に開催されるホノルルマラソンのゴール地点としても有名です。広い敷地にはサイクリングコースもあり、散歩やジョギングなどにもおすすめです。ワイキキの喧騒から離れ、のんびりできるピクニックエリアもあります。",
+        "image": {
+          "height": 768,
+          "sourceUrl": "https://a.mktgcdn.com/p/RyS1QJHK5pv0n0_TxYGoNfJCv1dztzcAzDbjLdv-Nsg/1024x768.jpg",
+          "thumbnails": [
+            {
+              "height": 768,
+              "url": "https://a.mktgcdn.com/p-sandbox/RyS1QJHK5pv0n0_TxYGoNfJCv1dztzcAzDbjLdv-Nsg/1024x768.jpg",
+              "width": 1024
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/RyS1QJHK5pv0n0_TxYGoNfJCv1dztzcAzDbjLdv-Nsg/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/RyS1QJHK5pv0n0_TxYGoNfJCv1dztzcAzDbjLdv-Nsg/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/RyS1QJHK5pv0n0_TxYGoNfJCv1dztzcAzDbjLdv-Nsg/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RyS1QJHK5pv0n0_TxYGoNfJCv1dztzcAzDbjLdv-Nsg/1024x768.jpg",
+          "width": 1024
+        },
+        "imageCaption": "写真提供：ハワイ州観光局",
+        "sectionLevel": "h3",
+        "sectionTitle": "ダイヤモンドヘッド"
+      },
+      {
+        "cTA1": {
+          "label": "アラモアナセンターの人気ショップをみる",
+          "link": "https://jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000014",
+          "linkType": "OTHER"
+        },
+        "description": "ワイキキ中心部から徒歩15分ほどで行ける街中の動物園です。カピオラニ公園の北にある広大な敷地には、ライオン・ゾウ・キリンなどの哺乳類の他、爬虫類や鳥類など様々な種類の動物が飼育されています。海に飽きたら、のんびり動物園もおすすめです。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/r2Ees7w8dLMHBtb0j8JViQxBiuKzSYJaGIPJ2wCMcN8/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/r2Ees7w8dLMHBtb0j8JViQxBiuKzSYJaGIPJ2wCMcN8/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/r2Ees7w8dLMHBtb0j8JViQxBiuKzSYJaGIPJ2wCMcN8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/r2Ees7w8dLMHBtb0j8JViQxBiuKzSYJaGIPJ2wCMcN8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/r2Ees7w8dLMHBtb0j8JViQxBiuKzSYJaGIPJ2wCMcN8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/r2Ees7w8dLMHBtb0j8JViQxBiuKzSYJaGIPJ2wCMcN8/1024x683.jpg",
+          "width": 1024
+        },
+        "imageCaption": "©Nori Hasunuma",
+        "sectionLevel": "h3",
+        "sectionTitle": "カピオラニ公園"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイで行くべきスーパーマーケットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000012",
+          "linkType": "OTHER"
+        },
+        "description": "毎週土曜日にダイヤモンドヘッドの麓のカピオラニ・コミュニティ・カレッジ（KCC）の駐車場で開催される、ホノルル最大級と言われる人気の朝市です。地元で採れた新鮮な野菜や果物の他、地元のグルメやお土産などを売っているお店もあり、見て歩くだけでも十分楽しむことができます。少し早起きをして活気ある朝市を体験してみませんか。",
+        "image": {
+          "height": 768,
+          "sourceUrl": "https://a.mktgcdn.com/p/1kZ6r4U2zVPmcMxXFSVgq0lFobqSR83_maHzVFyCwCA/1024x768.jpg",
+          "thumbnails": [
+            {
+              "height": 768,
+              "url": "https://a.mktgcdn.com/p-sandbox/1kZ6r4U2zVPmcMxXFSVgq0lFobqSR83_maHzVFyCwCA/1024x768.jpg",
+              "width": 1024
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/1kZ6r4U2zVPmcMxXFSVgq0lFobqSR83_maHzVFyCwCA/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1kZ6r4U2zVPmcMxXFSVgq0lFobqSR83_maHzVFyCwCA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/1kZ6r4U2zVPmcMxXFSVgq0lFobqSR83_maHzVFyCwCA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1kZ6r4U2zVPmcMxXFSVgq0lFobqSR83_maHzVFyCwCA/1024x768.jpg",
+          "width": 1024
+        },
+        "imageCaption": "© Dole Plantation",
+        "sectionLevel": "h3",
+        "sectionTitle": "ホノルル動物園"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイで人気の無料ビーチをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000016",
+          "linkType": "URL"
+        },
+        "description": "ダイヤモンドヘッドと並び、絶景ポイントとして有名なタンタラスの丘は、ホノルル市内を一望できる人気のスポットです。特にゴールドイルミネーションと言われる夜景の素晴らしさは、 ハワイでもNo.1 と言われるほどです。お洒落なレストランやディナークルーズとセットになった夜景観賞ツアーに参加すれば、忘れられない旅の思い出を作ることができるでしょう。",
+        "image": {
+          "height": 375,
+          "sourceUrl": "https://a.mktgcdn.com/p/Cf8GzXxRRiLhP0dDPTqGLN1KIaROX4m_GYJLKws-xwQ/500x375.jpg",
+          "thumbnails": [
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/Cf8GzXxRRiLhP0dDPTqGLN1KIaROX4m_GYJLKws-xwQ/500x375.jpg",
+              "width": 500
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Cf8GzXxRRiLhP0dDPTqGLN1KIaROX4m_GYJLKws-xwQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Cf8GzXxRRiLhP0dDPTqGLN1KIaROX4m_GYJLKws-xwQ/500x375.jpg",
+          "width": 500
+        },
+        "imageCaption": "写真提供：ハワイ州観光局",
+        "sectionLevel": "h3",
+        "sectionTitle": "KCCファーマーズマーケット"
+      },
+      {
+        "cTA1": {
+          "label": "オアフ島ローカルタウンの人気スポットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000019",
+          "linkType": "OTHER"
+        },
+        "description": "テレビCMなどでも知られる大木（モンキーポッド）を見ることができる公園です。ワイキキから車で約30分のところにあり、カメハメハ5世が王子時代に過ごしたとされるコテージの所在地として知られており、現在はカイマナ・ベンチャー社の所有地です。モンキーポッドだけでなく、様々な植物が世界中から集められており、週末には地元の人たちがピクニックをする憩いの場となっています。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/fhjDV8LnlxYDmAaO-65Yn7uASyxvh6AppKWAoXOpNdY/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/fhjDV8LnlxYDmAaO-65Yn7uASyxvh6AppKWAoXOpNdY/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/fhjDV8LnlxYDmAaO-65Yn7uASyxvh6AppKWAoXOpNdY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/fhjDV8LnlxYDmAaO-65Yn7uASyxvh6AppKWAoXOpNdY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/fhjDV8LnlxYDmAaO-65Yn7uASyxvh6AppKWAoXOpNdY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fhjDV8LnlxYDmAaO-65Yn7uASyxvh6AppKWAoXOpNdY/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "2．アラモアナ～ダウンタウン、ホノルル郊外の観光スポット"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイの自然を楽しめるスポットをもっとみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_web_kaigai_0006",
+          "linkType": "OTHER"
+        },
+        "description": "ハワイ王国7代目のカラカウア王によって1882年に建てられた、アメリカ合衆国で唯一の宮殿です。外観はそれほど豪華ではないですが、宮殿内部にはハワイ王族の肖像画をはじめ、王冠や宝石など王族が使用していた貴重な展示物を見ることができ、リゾートとは別のハワイ王朝の歴史を辿ることができます。",
+        "image": {
+          "height": 1108,
+          "sourceUrl": "https://a.mktgcdn.com/p/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/1477x1108.jpg",
+          "thumbnails": [
+            {
+              "height": 1108,
+              "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/1477x1108.jpg",
+              "width": 1477
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/1477x1108.jpg",
+          "width": 1477
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "タンタラスの丘"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイの観光情報をもっとみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_web_kaigai_0008",
+          "linkType": "OTHER"
+        },
+        "description": "ワイキキから車で20分ほどのダウンタウンのほぼ中心地にあるセントアンドリュース大聖堂は、総石造りのフランス・ゴシック様式の教会です。天井まで届く壁一面のステンドグラスは息をのむほどの美しさで、教会内に響き渡るパイプオルガンの音色も素晴らしく、リゾートで荘厳な挙式を挙げることのできる数少ない人気の教会です。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/9iCj7jw6LGdY4nYseTSWTTMxrGt4oZIOqEaV-ZD4OvA/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/9iCj7jw6LGdY4nYseTSWTTMxrGt4oZIOqEaV-ZD4OvA/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/9iCj7jw6LGdY4nYseTSWTTMxrGt4oZIOqEaV-ZD4OvA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/9iCj7jw6LGdY4nYseTSWTTMxrGt4oZIOqEaV-ZD4OvA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/9iCj7jw6LGdY4nYseTSWTTMxrGt4oZIOqEaV-ZD4OvA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9iCj7jw6LGdY4nYseTSWTTMxrGt4oZIOqEaV-ZD4OvA/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "モアナルア・ガーデン"
+      },
+      {
+        "description": "縁結びの神様として知られる島根県の出雲大社の分院として、1906年（明治39年）に創祀されました。ワイキキから車で15分ほどのところにあり、The　Busを利用しても30分ほどで行くことができます。新年には初詣客が1万人とも言われ、地元の日系人をはじめ参拝者が多数訪れます。また、御朱印を拝受することもでき、ハワイ出雲大社独自の御朱印手帳も購入することができます。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/4ZSKMfcMZrY-iwRmOCNNoSI_IDibcp9B8UqyRJds7JE/1024x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/4ZSKMfcMZrY-iwRmOCNNoSI_IDibcp9B8UqyRJds7JE/1024x1024.jpg",
+              "width": 1024
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/4ZSKMfcMZrY-iwRmOCNNoSI_IDibcp9B8UqyRJds7JE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/4ZSKMfcMZrY-iwRmOCNNoSI_IDibcp9B8UqyRJds7JE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/4ZSKMfcMZrY-iwRmOCNNoSI_IDibcp9B8UqyRJds7JE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4ZSKMfcMZrY-iwRmOCNNoSI_IDibcp9B8UqyRJds7JE/1024x1024.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "イオラニ宮殿"
+      },
+      {
+        "description": "カラフルなウォールアートの街として人気のカカアコ地区は、アラモアナから西に1kmほどのところにあり、トロリーやバスを使って行くことができます。毎年2月に開催されるイベント（Pow! Wow! Hawaiiパウワウ・ハワイ）で、ウォールアートが追加されたり描きかえられたりしています。その素晴らしい作品を写真に収めようと、日々観光客で賑わっている話題のスポットです。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/_NsGfvyD262sOSJqyikSswJ8OcEW2oCEl0nW5HedlWc/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/_NsGfvyD262sOSJqyikSswJ8OcEW2oCEl0nW5HedlWc/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/_NsGfvyD262sOSJqyikSswJ8OcEW2oCEl0nW5HedlWc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/_NsGfvyD262sOSJqyikSswJ8OcEW2oCEl0nW5HedlWc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/_NsGfvyD262sOSJqyikSswJ8OcEW2oCEl0nW5HedlWc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_NsGfvyD262sOSJqyikSswJ8OcEW2oCEl0nW5HedlWc/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "セントアンドリュース大聖堂"
+      },
+      {
+        "description": "ハワイへ行ったら必ず立ち寄りたい場所の一つであるアラモアナセンターは、世界最大規模のオープンエアのショッピングセンターです。デパートやスーパー、高級ブランド店やレストランなど350もの店舗が入り、60年以上の歴史があります。ショッピングや食事だけでなく、毎日行われる無料のフラショーや季節ごとにイベントが開催されています。この数年で新規出店したお店も多くありますので、以前行ったことのある方もまた訪れてみたいですね。",
+        "image": {
+          "height": 542,
+          "sourceUrl": "https://a.mktgcdn.com/p/Fkuh_SNK37-Fkh9c_pWRS8QLIOpXyNRfzXGqRW2j7Ik/722x542.jpg",
+          "thumbnails": [
+            {
+              "height": 542,
+              "url": "https://a.mktgcdn.com/p-sandbox/Fkuh_SNK37-Fkh9c_pWRS8QLIOpXyNRfzXGqRW2j7Ik/722x542.jpg",
+              "width": 722
+            },
+            {
+              "height": 465,
+              "url": "https://a.mktgcdn.com/p-sandbox/Fkuh_SNK37-Fkh9c_pWRS8QLIOpXyNRfzXGqRW2j7Ik/619x465.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Fkuh_SNK37-Fkh9c_pWRS8QLIOpXyNRfzXGqRW2j7Ik/599x450.jpg",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Fkuh_SNK37-Fkh9c_pWRS8QLIOpXyNRfzXGqRW2j7Ik/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Fkuh_SNK37-Fkh9c_pWRS8QLIOpXyNRfzXGqRW2j7Ik/722x542.jpg",
+          "width": 722
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ハワイ出雲大社"
+      },
+      {
+        "description": "オアフ島のカハラ地区、カイルア地区、カカアコ地区にあり、自然食品やオーガニック食品をはじめ様々な商品を取り扱うスーパーマーケットで、地元の人々や観光客にも人気があります。中でもハワイ産のコーヒーやお洒落なデザインのオリジナルエコバックが人気のお土産として有名です。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/1fV6WjHD_BqG1Ud2WAlsVbocLlUkMaJdI0Xr2a-1y10/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/1fV6WjHD_BqG1Ud2WAlsVbocLlUkMaJdI0Xr2a-1y10/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/1fV6WjHD_BqG1Ud2WAlsVbocLlUkMaJdI0Xr2a-1y10/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/1fV6WjHD_BqG1Ud2WAlsVbocLlUkMaJdI0Xr2a-1y10/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/1fV6WjHD_BqG1Ud2WAlsVbocLlUkMaJdI0Xr2a-1y10/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1fV6WjHD_BqG1Ud2WAlsVbocLlUkMaJdI0Xr2a-1y10/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "カカアコ地区（ウォールアート）"
+      },
+      {
+        "description": "土曜の朝は少し早起きして、毎週午前8時から正午まで開催されているカカアコ・ファーマーズマーケットで食べ歩きしてみてはいかがでしょうか。ワイキキ中心地から車で約15分ほどの場所にあり、アラモアナ通りを挟み海側・山側の2か所で開催されています。ホールフーズマーケットやアラモアナセンターも近く、帰りにそのままショッピングに立ち寄るにも便利な場所。ファーマーズマーケット限定の商品もあり、人気のお店には行列ができるほど活気あるスポットです。ぜひ新鮮なハワイの食材や、話題のローカルフードを試してみたいですね。",
+        "image": {
+          "height": 576,
+          "sourceUrl": "https://a.mktgcdn.com/p/aZ4IhjOXDTmzsyZKckpiNk7VttcCwj3cgpxuc5JXKzE/1024x576.jpg",
+          "thumbnails": [
+            {
+              "height": 576,
+              "url": "https://a.mktgcdn.com/p-sandbox/aZ4IhjOXDTmzsyZKckpiNk7VttcCwj3cgpxuc5JXKzE/1024x576.jpg",
+              "width": 1024
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/aZ4IhjOXDTmzsyZKckpiNk7VttcCwj3cgpxuc5JXKzE/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/aZ4IhjOXDTmzsyZKckpiNk7VttcCwj3cgpxuc5JXKzE/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/aZ4IhjOXDTmzsyZKckpiNk7VttcCwj3cgpxuc5JXKzE/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aZ4IhjOXDTmzsyZKckpiNk7VttcCwj3cgpxuc5JXKzE/1024x576.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "アラモアナセンター"
+      },
+      {
+        "description": "オアフ島東部にあるハナウマ湾は、火山の火口が波に浸食されて美しい入り江になった自然公園で、サンゴ礁や深海生物、自然を保護する目的から自然保護区域に指定されており、ハワイでは珍しい有料のビーチです。「全米ベストビーチNo.1」に輝いたこともある美しいビーチはもちろん、海水の透明度も高くシュノーケリングスポットとしても大変有名です。※ハナウマ湾の入場には事前オンライン予約が必要になります（2024年2月現在）。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/Nusnv2cWUtk26A9pP4nLUB3GmUgdUg6Cm_WtqhdTSGA/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nusnv2cWUtk26A9pP4nLUB3GmUgdUg6Cm_WtqhdTSGA/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nusnv2cWUtk26A9pP4nLUB3GmUgdUg6Cm_WtqhdTSGA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nusnv2cWUtk26A9pP4nLUB3GmUgdUg6Cm_WtqhdTSGA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nusnv2cWUtk26A9pP4nLUB3GmUgdUg6Cm_WtqhdTSGA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Nusnv2cWUtk26A9pP4nLUB3GmUgdUg6Cm_WtqhdTSGA/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ホールフーズマーケット"
+      },
+      {
+        "description": "ハナウマ湾から見える丘で、ダイヤモンドヘッドと同じように登山ができますが、その登山道は山頂まで一直線に続くかつてのトロッコ列車の線路跡で、急斜面にある枕木を一段ずつ登って行くため、ハワイで最も難易度が高いと言われています。しかし、難易度が高い分、山頂からは360度パノラマの絶景が待っています。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/474w1y7GDJA8LKcz90N4tqkij-Dkp3eQmXNbUT829sM/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/474w1y7GDJA8LKcz90N4tqkij-Dkp3eQmXNbUT829sM/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/474w1y7GDJA8LKcz90N4tqkij-Dkp3eQmXNbUT829sM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/474w1y7GDJA8LKcz90N4tqkij-Dkp3eQmXNbUT829sM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/474w1y7GDJA8LKcz90N4tqkij-Dkp3eQmXNbUT829sM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/474w1y7GDJA8LKcz90N4tqkij-Dkp3eQmXNbUT829sM/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "カカアコ・ファーマーズマーケット"
+      },
+      {
+        "description": "ワイキキから車で約30分で到着するカイルアタウンは、カイルアショッピングセンターを中心に、ホールフーズマーケットやお洒落なカフェ、可愛い雑貨屋さんなどが建ち並ぶ、ハワイで今最も人気のある街として有名です。街の中心部から「全米ベストビーチ」に選ばれたことで有名なカイルアビーチまでは徒歩で約30分、のんびり散歩するのも良いですし、時間のない方はレンタサイクルがおすすめです。",
+        "image": {
+          "height": 646,
+          "sourceUrl": "https://a.mktgcdn.com/p/Sjuvo7oQfCbrw75Ig1HigfhKh6VB1hHenYAAfWimOiA/1024x646.jpg",
+          "thumbnails": [
+            {
+              "height": 646,
+              "url": "https://a.mktgcdn.com/p-sandbox/Sjuvo7oQfCbrw75Ig1HigfhKh6VB1hHenYAAfWimOiA/1024x646.jpg",
+              "width": 1024
+            },
+            {
+              "height": 391,
+              "url": "https://a.mktgcdn.com/p-sandbox/Sjuvo7oQfCbrw75Ig1HigfhKh6VB1hHenYAAfWimOiA/619x391.jpg",
+              "width": 619
+            },
+            {
+              "height": 379,
+              "url": "https://a.mktgcdn.com/p-sandbox/Sjuvo7oQfCbrw75Ig1HigfhKh6VB1hHenYAAfWimOiA/600x379.jpg",
+              "width": 600
+            },
+            {
+              "height": 124,
+              "url": "https://a.mktgcdn.com/p-sandbox/Sjuvo7oQfCbrw75Ig1HigfhKh6VB1hHenYAAfWimOiA/196x124.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Sjuvo7oQfCbrw75Ig1HigfhKh6VB1hHenYAAfWimOiA/1024x646.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "3．ハワイ・カイエリアの観光スポット"
+      },
+      {
+        "description": "カイルアビーチから徒歩で約15分のところにあるラニカイビーチは、ハワイ語で「ラニ＝天国」「カイ＝海」という意味を持つ、ハワイで最も美しいビーチと言われる一つです。高級住宅街の路地を抜けると、そこには息をのむほどの美しい景色が待っています。エメラルドグリーンの透き通った海とパウダーサンドの砂浜は、まさしく「天国」のようです。また、沖に浮かぶ双子島は写真スポットとしても有名です。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/OcD3E4YGQhfGLDXvh_gSQiZGxVu4OmJye9ozcySlsGg/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/OcD3E4YGQhfGLDXvh_gSQiZGxVu4OmJye9ozcySlsGg/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/OcD3E4YGQhfGLDXvh_gSQiZGxVu4OmJye9ozcySlsGg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/OcD3E4YGQhfGLDXvh_gSQiZGxVu4OmJye9ozcySlsGg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/OcD3E4YGQhfGLDXvh_gSQiZGxVu4OmJye9ozcySlsGg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OcD3E4YGQhfGLDXvh_gSQiZGxVu4OmJye9ozcySlsGg/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ハナウマ湾"
+      },
+      {
+        "description": "ラニカイビーチの裏山にあたるピルボックスは、観光客だけでなく地元の人々にも愛されています。初心者でも比較的登りやすいと言われており、片道約30分ほどで辿り着く頂上からは、美しいラニカイビーチをはじめ、360度パノラマの絶景を楽しむことができます。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/IF-AY80bKcu7Yk6t9BnJFw7_3je0ui8ecroykShrAEg/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/IF-AY80bKcu7Yk6t9BnJFw7_3je0ui8ecroykShrAEg/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/IF-AY80bKcu7Yk6t9BnJFw7_3je0ui8ecroykShrAEg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/IF-AY80bKcu7Yk6t9BnJFw7_3je0ui8ecroykShrAEg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/IF-AY80bKcu7Yk6t9BnJFw7_3je0ui8ecroykShrAEg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/IF-AY80bKcu7Yk6t9BnJFw7_3je0ui8ecroykShrAEg/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ココ・ヘッド"
+      },
+      {
+        "description": "おしゃれなセレクトショップやレストランを楽しみたい方は、カイルアエリアの人気スポット「ヘキリストリート」を散策してみてはいかがでしょうか。ハワイらしいカラフルな洋服や雑貨、ビーチアイテムなどが揃っており、お土産選びにもおすすめです。ローカルの方にも人気のお店が集まっており、ワイキキエリアとはまた違った雰囲気で街歩きを楽しめます。",
+        "image": {
+          "height": 681,
+          "sourceUrl": "https://a.mktgcdn.com/p/PjIIMxwHg0ju83WIgDf8EMlwfsuIUCVwyhzRm0aFQDI/1024x681.jpg",
+          "thumbnails": [
+            {
+              "height": 681,
+              "url": "https://a.mktgcdn.com/p-sandbox/PjIIMxwHg0ju83WIgDf8EMlwfsuIUCVwyhzRm0aFQDI/1024x681.jpg",
+              "width": 1024
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/PjIIMxwHg0ju83WIgDf8EMlwfsuIUCVwyhzRm0aFQDI/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/PjIIMxwHg0ju83WIgDf8EMlwfsuIUCVwyhzRm0aFQDI/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/PjIIMxwHg0ju83WIgDf8EMlwfsuIUCVwyhzRm0aFQDI/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PjIIMxwHg0ju83WIgDf8EMlwfsuIUCVwyhzRm0aFQDI/1024x681.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "4．カイルアエリアの観光スポット"
+      },
+      {
+        "description": "ワイキキから車で約40分のところにあるカネオヘ湾沖に、潮の満ち引きによって海の真ん中に現れる浅瀬のサンドバー（砂州）は、別名「天国の海」や「天使の海」と呼ばれています。湾内はサンゴ礁によって外海から守られているため、海水はとても穏やかで澄んでおり、ウミガメの生育地としても最適と言われています。オプショナルツアーに参加すれば、ウミガメウォッチングやシュノーケリングを楽しむことができ、まるで360度見渡す限りエメラルドグリーンの海の中に立っているような感覚を味わうことができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "カイルア（ビーチ）"
+      },
+      {
+        "description": "ハワイの大自然と言えば、400エーカー（東京ドーム約450個分）の広さを誇るクアロア・ランチです。ハリウッド映画をはじめ人気テレビ番組やCM撮影のロケ地としても有名で、その広大な大自然の中では、映画のロケ地ツアーや乗馬、四輪バギー、ジップラインの他、数々のアクティビティを楽しむことができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ラニカイビーチ"
+      },
+      {
+        "description": "5万坪の広大な敷地の中に、ポリネシアの5000年の歴史を再現したテーマパークです。ポリネシアを代表する6つの島々、ハワイ、タヒチ、フィジー、サモア、トンガ、アオテアロア（ニュージーランド）が「村」として再現されており、ポリネシアの文化を体験することができます。また、カヌーの上でダンサーが踊る「カヌー・ショー」や総勢100名以上がパフォーマンスを披露する「イブンニング・ショー」などポリネシアンダンスや音楽も楽しむことができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ラニカイ・ピルボックス"
+      },
+      {
+        "description": "ワイキキから車で約1時間のところに、世界一のサーフィンのメッカとも言われるノースショアがあります。いくつかのビーチで野生のウミガメが現れることでも有名で、人間が生態系を壊さないよう、ボランティアスタッフが交代で野生のウミガメを守っています。また、海だけでなく、グルメやショッピングが楽しめるハレイワタウンでは、ワイキキとは違った古き良きハワイを味わうことができ、のんびり散策を楽しむことができます。定番のグルメ、ガーリックシュリンプやシェイブアイスも外せません。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ヘキリストリート"
+      },
+      {
+        "description": "ワイキキからノースショアへ行く途中にある、ドール・プランテーションは、1989年にオープンしました。園内では、パイナップルエクスプレス列車に乗ってハワイのパイナップルの歴史に触れたり、プランテーションガーデンツアーで8つのガーデンを散歩したり、世界最大の迷路と言われるパイナップルガーデン巨大迷路に挑戦できるなど、子供から大人まで楽しむことができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "5．オアフ島 東部エリアの観光スポット"
+      },
+      {
+        "description": "日本とアメリカ、ハワイの歴史が残されているパールハーバー（真珠湾）。その入り口に位置するアリゾナ記念館は、真珠湾攻撃で亡くなった戦艦アリゾナの乗組員や死傷者を讃える慰霊施設で、1962年に海底に沈む戦艦アリゾナの船体の上に建てられています。無料で入場することができ、日本語オーディオツアーセット（有料）を借り、自由に見学することもできます。今までとは違った、また別の角度から真珠湾攻撃の歴史を学ぶことができるでしょう。",
+        "sectionLevel": "h2",
+        "sectionTitle": "カネオヘ湾のサンドバー（天使の海／天国の海）"
+      },
+      {
+        "description": "オアフ島で唯一のアウトレットは、ワイキキから車で約30分で 到着します。50店舗以上のブランド店や専門店が並び、信じられないほどお得に買い物を楽しむことができます。事前にワイキキの街中やアラモアナセンターのお店で欲しい物をチェックしつつ、ワイケレへ行かれることをおすすめします。",
+        "sectionLevel": "h3",
+        "sectionTitle": "クアロア・ランチ（クアロア牧場）"
+      },
+      {
+        "description": "空港から車で約30分、ワイキキから約45分の場所にあるオリナエリアで今一番人気のスポットが、ハワイでディズニーキャラクターに会うことができる、「アウラニ・ディズニー・リゾート＆スパ　コオリナ・ハワイ」です。通常のディズニーリゾートとは違い、多彩なプールやプライベートラグーン、リゾート感満載のショーやエンターテイメントを楽しむことができます。また、宿泊しなくてもレストランやショップを利用することができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ポリネシア・カルチャー・センター"
+      },
+      {
+        "description": "キラウエア火山は、ハワイの島々の中で一番大きく、「ビッグアイランド」と呼ばれるハワイ島にあり、現在も活発な活動を続けています。また、キラウエア火山のあるハワイ火山国立公園は、世界遺産に指定されており、溶岩の大地や噴火口などを見学しながら、ハワイの壮大な自然と地球のエネルギーを体感することができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "6．ノースショアエリアの観光スポット"
+      },
+      {
+        "description": "マウイ島西部にあるラハイナは、カフルイ空港から車で約40分のところにある海沿いの町で、19世紀前半、ホノルルへ遷都するまではハワイ王国の首都であり、かつては捕鯨が盛んな港町でした。歴史を感じさせる風情ある建物が並ぶ街並みを散策しながら、グルメやショッピングも楽しむことができます。 冬になると、ザトウクジラが見られる ラハイナ沖は世界的にも有名な場所です 。",
+        "sectionLevel": "h2",
+        "sectionTitle": "ノースショア（ハレイワ）"
+      },
+      {
+        "description": "ハワイは、1度や2度では満喫できないほど魅力が詰まっている島です。初心者なら、まずはオアフ島（ホノルル）滞在から、2回目以降は他の島とオアフ島の2島に滞在して、のんびりとした島とアクティブに行動するホノルルと両方楽しむのも良いかもしれません。オアフ島だけでも広いので、効率的に回るにはオプショナルツアーに参加するのがおすすめですが、行きたい所ばかり日本からびっしり予定を組んでしまうと、予定に振り回されて疲れてしまいます。また、現地に行ってみて「これもやりたい！」「あそこへも行ってみたい！」となる場合もあるため、例えば4日間フリータイムがあれば、そのうちの2日くらいオプショナルツアーを入れる程度で出発すると良いでしょう。ただし、どうしてもやりたい！というものは現地で満席と言われる場合もあるので、必ず事前に予約して行くことをおすすめします。ハワイは、いつ行っても何度行っても楽しい島ですよ。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ドール・プランテーション"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "7．オアフ島 中部エリアの観光スポット"
+      },
+      {
+        "sectionLevel": "h2",
+        "sectionTitle": "パールハーバー（アリゾナ記念館）"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "ワイケレ・プレミアム・アウトレット"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "アウラニ・ディズニー・リゾート＆スパ　コオリナ・ハワイ"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "8．ハワイの島々にある観光スポット"
+      },
+      {
+        "sectionLevel": "h2",
+        "sectionTitle": "キラウエア火山（ハワイ島）"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "ラハイナ（マウイ島）"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "9．まとめ"
+      },
+      {
+        "sectionLevel": "h2"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0008",
+      "news_web_kaigai_0009",
+      "news_web_kaigai_0010"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2021-01-04",
+    "c_news_UpdateDate": "2024-05-02",
+    "c_news_ViewCount": "6971",
+    "c_news_ViewCount2of2": "6971",
+    "c_news_ViewCountNum": "6971",
+    "c_news_ViewCountNumForSorting": "458",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_web_kaigai_0005",
+    "c_relatedAreas": [
+      "hawaii"
+    ],
+    "name": "ハワイの人気観光スポット31選！おすすめの名所を巡る完全版",
+    "slug": "kaigai/beach_resort/hawaii/news_web_kaigai_0005",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

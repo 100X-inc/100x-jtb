@@ -1,0 +1,238 @@
+{
+  "$id": "ap_chiki_100102",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "テスト"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "みんなが大好きなシルバニアファミリーのおうちを実際に触って遊べるキッズスペース付きのお部屋です。シルバニアファミリーはシルバニア村に住むかわいらしい動物たちの人形を中心としたド ールハウスのシリーズです。 1985年の発売以来、たくさんのファンに愛され続けてきました。その世界観を実際に体験して、もっと大すきになってほしい！という願いを込めて、思う存分遊べるシルバニアファミリーの人形や家具、お家がたくさん用意されています。お部屋ではショコラウサギの女の子フレアとお揃いのワンピースで写真撮影もできちゃい ます♪ （110サイズのみ) そして自分で好きなようにデコレーションできちゃうお人形用ドレスをお人形とセットで プレゼントします。【シルバニアファミリープラン専用オリジナルブレックファースト】こちらのプランをご予約された方限定でシルバーアファミリーのイラストが入ったホテル オリジナルフルーツサンド付きでご用意します。 ※1階 「モンマルトル」 和洋ブッフェ 7:00～10:00",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/5MFUpyBoVRkusC0McoPLx99b6yZVjSltoifkJE3IEHI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/5MFUpyBoVRkusC0McoPLx99b6yZVjSltoifkJE3IEHI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/5MFUpyBoVRkusC0McoPLx99b6yZVjSltoifkJE3IEHI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/5MFUpyBoVRkusC0McoPLx99b6yZVjSltoifkJE3IEHI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/5MFUpyBoVRkusC0McoPLx99b6yZVjSltoifkJE3IEHI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5MFUpyBoVRkusC0McoPLx99b6yZVjSltoifkJE3IEHI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「キッズスペース付ルーム」の装飾イメージ",
+        "sectionTitle": "ファミリーのお客様必見！！お子様も大喜びのキッズスペースをお部屋に設置したプランが登場！"
+      },
+      {
+        "description": "朝食は、手羽先や小倉トーストなどの名古屋めしをはじめとするビュッフェを堪能。特にオープンキッチンで作る出来立てのオムレツはシェフにオムレツに入れる具材をリクエストし、オリジナルをその場で調理。宿泊客から大好評の出来立てオムレツは必ず注文して頂きたい一品です。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/EQfsZJO2awMzMT24tUA7nNDVVOhCoQHQQRWMh4LVQRE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/EQfsZJO2awMzMT24tUA7nNDVVOhCoQHQQRWMh4LVQRE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/EQfsZJO2awMzMT24tUA7nNDVVOhCoQHQQRWMh4LVQRE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/EQfsZJO2awMzMT24tUA7nNDVVOhCoQHQQRWMh4LVQRE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/EQfsZJO2awMzMT24tUA7nNDVVOhCoQHQQRWMh4LVQRE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EQfsZJO2awMzMT24tUA7nNDVVOhCoQHQQRWMh4LVQRE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "朝食イメージ",
+        "sectionTitle": "朝からテンションアップ！　名古屋めしも味わえるホテル自慢の朝食"
+      },
+      {
+        "description": "滞在中に、一度は立ち寄っていただきたいのが、アトリウムラウンジ 「グリンデルワルド」。4階まで吹き抜けの開放的なラウンジで、水のせせらぎや窓から差し込む光が、なんとも贅沢な気分にさせてくれます。このラウンジでは、季節ごとにさまざまな内容のアフタヌーンティーやお飲み物などを楽しめます。ホテルパティシエのケーキやデザートも充実しており、お誕生日のお客様へは、ハッピーバーズデーのサプライズ演出なども。ゆったりとした時間が流れる、素敵なラウンジです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/GXkqBSgEbvChwGSgPTaH1CB8x50YJsSYKgcXdSae_Tc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/GXkqBSgEbvChwGSgPTaH1CB8x50YJsSYKgcXdSae_Tc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/GXkqBSgEbvChwGSgPTaH1CB8x50YJsSYKgcXdSae_Tc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/GXkqBSgEbvChwGSgPTaH1CB8x50YJsSYKgcXdSae_Tc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/GXkqBSgEbvChwGSgPTaH1CB8x50YJsSYKgcXdSae_Tc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/GXkqBSgEbvChwGSgPTaH1CB8x50YJsSYKgcXdSae_Tc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "4階まで吹き抜けのアトリウムラウンジ「グリンデルワルド」",
+        "sectionTitle": "高級感あふれるアトリウムラウンジ。頑張る自分にアフタヌーンティーのご褒美はいかが？"
+      },
+      {
+        "description": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-11-15",
+    "c_ap_HeroImage": {
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/bP_kUTFIoZvHGQ8xmdhozc8JAOcbNdm9efiynZPwtpo/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/bP_kUTFIoZvHGQ8xmdhozc8JAOcbNdm9efiynZPwtpo/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/bP_kUTFIoZvHGQ8xmdhozc8JAOcbNdm9efiynZPwtpo/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/bP_kUTFIoZvHGQ8xmdhozc8JAOcbNdm9efiynZPwtpo/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/bP_kUTFIoZvHGQ8xmdhozc8JAOcbNdm9efiynZPwtpo/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/bP_kUTFIoZvHGQ8xmdhozc8JAOcbNdm9efiynZPwtpo/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "エレガントな雰囲気の本格派ホテル",
+    "c_ap_LinkArticleSectionTitle": "その他愛知県の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "名古屋東急ホテルの宿泊プラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/5445034/plan/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "愛知旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/aichi/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "愛知県"
+    ],
+    "c_ap_ShortDescription": "名古屋市の繁華街、栄にある「名古屋東急ホテル」は、名古屋を代表する本格派ホテル。\n総客室数は564室。ヨーロピアンエレガンスをコンセプトとする館内には、数々のダイニングやコンベンションルーム、フィットネスやプールなど充実施設を備えており、観光やビジネスなどに広く利用されています。\n2022年8月に開業36周年を迎えるにあたり、ホテルでは数々のメモリアルイベントを実施中。\nそのひとつとして、キッズスペース付宿泊プランを販売開始しました。\nファミリーのお客様に多くご利用いただいている名古屋東急ホテルの魅力を紹介します！",
+    "c_ap_Tags": [
+      "愛知県",
+      "名古屋",
+      "本格派ホテル",
+      "リゾート"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "夫婦旅",
+      "ウエディング",
+      "ハネムーン",
+      "記念旅行",
+      "リゾート",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "名古屋を代表する本格派ホテルに、キッズスペースを設置したプランが登場！ 【愛知　名古屋東急ホテル】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "名古屋市の繁華街、栄にある「名古屋東急ホテル」は、名古屋を代表する本格派ホテル。\n総客室数は564室。ヨーロピアンエレガンスをコンセプトとする館内には、数々のダイニングやコンベンションルーム、フィットネスやプールなど充実施設を備えており、観光やビジネスなどに広く利用されています。",
+    "c_metaTitle": "名古屋を代表する本格派ホテルに、キッズスペースを設置したプランが登場！ 【愛知　名古屋東急ホテル】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100102",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "愛知県",
+    "c_searchTags": [
+      "中部・北陸：愛知県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：愛知県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "名古屋を代表する本格派ホテルに、キッズスペースを設置したプランが登場！ 【愛知　名古屋東急ホテル】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,355 @@
+{
+  "$id": "ap_area_0000010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ トラベルコンサルタント 北野 有記",
+      "link": "https://consultants.jtb.co.jp/cp_y_kitano151",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿者にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVeg",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "貿易の拠点として発展してきた博多（現在の中洲川端あたり）と、黒田藩の城下町として栄えた歴史をもつ福岡（現在の天神あたり）がエリアの中心。博多ラーメンやもつ鍋、水たき、餃子、うどんなどご当地グルメの宝庫で、人気の飲食店が集まります。「キャナルシティ博多」や「大濠公園」などの観光スポット、糸島に広がるリゾートエリア、商業施設が集まるベイエリアなど、みどころも盛りだくさん。楽しみがぎっしりつまっています。",
+        "image": {
+          "height": 994,
+          "sourceUrl": "https://a.mktgcdn.com/p/lxJNrziJs4jL0hjR-e7z9mwwLqe65dcnAqlItgDbKpM/1491x994.jpg",
+          "thumbnails": [
+            {
+              "height": 994,
+              "url": "https://a.mktgcdn.com/p-sandbox/mEotnRmTOd3XhlF36o7Tgh4KYZ-GZ_xO_GgZitYbKsU/1491x994.jpg",
+              "width": 1491
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/mEotnRmTOd3XhlF36o7Tgh4KYZ-GZ_xO_GgZitYbKsU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/mEotnRmTOd3XhlF36o7Tgh4KYZ-GZ_xO_GgZitYbKsU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/mEotnRmTOd3XhlF36o7Tgh4KYZ-GZ_xO_GgZitYbKsU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/mEotnRmTOd3XhlF36o7Tgh4KYZ-GZ_xO_GgZitYbKsU/1491x994.jpg",
+          "width": 1491
+        },
+        "imageCaption": "中洲の川沿いには数多くの屋台が並びます",
+        "sectionTitle": "【福岡タウン】“うまかもん”が集まる食の都で味めぐり"
+      },
+      {
+        "description": "菅原道真公（天神さま）を祀る全国約1万2000社の総本宮「太宰府天満宮」には、毎年全国から多くの参拝者が訪れます。梅の名所でもあり、約200種、約6000本が1月下旬から3月上旬にかけて咲き誇ります。太宰府天満宮そばにある「九州国立博物館」もおすすめ。重要文化財など豊富な収蔵品を見学できます。周辺には昔ながらの街並みが残り、おしゃれなカフェも点在。くつろぎの店でひと息ついてみてはいかがですか。",
+        "image": {
+          "height": 2592,
+          "sourceUrl": "https://a.mktgcdn.com/p/AT2oeBv6dcT1ZA4J-46XIhKckMrJwHZP3RywCsmE08Y/3872x2592.jpg",
+          "thumbnails": [
+            {
+              "height": 2592,
+              "url": "https://a.mktgcdn.com/p-sandbox/AT2oeBv6dcT1ZA4J-46XIhKckMrJwHZP3RywCsmE08Y/3872x2592.jpg",
+              "width": 3872
+            },
+            {
+              "height": 1272,
+              "url": "https://a.mktgcdn.com/p-sandbox/AT2oeBv6dcT1ZA4J-46XIhKckMrJwHZP3RywCsmE08Y/1900x1272.jpg",
+              "width": 1900
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/AT2oeBv6dcT1ZA4J-46XIhKckMrJwHZP3RywCsmE08Y/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 402,
+              "url": "https://a.mktgcdn.com/p-sandbox/AT2oeBv6dcT1ZA4J-46XIhKckMrJwHZP3RywCsmE08Y/600x402.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/AT2oeBv6dcT1ZA4J-46XIhKckMrJwHZP3RywCsmE08Y/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AT2oeBv6dcT1ZA4J-46XIhKckMrJwHZP3RywCsmE08Y/3872x2592.jpg",
+          "width": 3872
+        },
+        "imageCaption": "受験シーズンにはたくさんの学生が訪れる「太宰府天満宮」",
+        "sectionTitle": "【太宰府】“学問の神様”を祀る合格祈願の聖地"
+      },
+      {
+        "description": "北九州市の最北端にあり、本州との玄関口の役割を果たしてきた「門司港」。外国貿易が盛んだった大正・昭和期の建造物にモダンな都市機能をミックスさせた、古くて新しい「門司港レトロ」は散策するだけで楽しいスポットです。大正時代にタイムスリップした気分で旅を満喫してみませんか？周辺には、「焼きカレー」や「ちゃんらー」といったご当地グルメの名店がたくさんあり、おいしい料理に出会えるのも魅力です。",
+        "image": {
+          "height": 1146,
+          "sourceUrl": "https://a.mktgcdn.com/p/4ouLGBU4QrZNSV5KBIAlzfpzKkKREbBLKpVjRWdE14E/1722x1146.jpg",
+          "thumbnails": [
+            {
+              "height": 1146,
+              "url": "https://a.mktgcdn.com/p-sandbox/3hqovn5zOBUmufHrS44H2MDLlwL4oUBoHW4lETVU7Sw/1722x1146.jpg",
+              "width": 1722
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/3hqovn5zOBUmufHrS44H2MDLlwL4oUBoHW4lETVU7Sw/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/3hqovn5zOBUmufHrS44H2MDLlwL4oUBoHW4lETVU7Sw/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/3hqovn5zOBUmufHrS44H2MDLlwL4oUBoHW4lETVU7Sw/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3hqovn5zOBUmufHrS44H2MDLlwL4oUBoHW4lETVU7Sw/1722x1146.jpg",
+          "width": 1722
+        },
+        "imageCaption": "写真の「旧大阪商船」など「門司港」にはモダンな建造物がたくさん！",
+        "sectionTitle": "【門司港】「門司港レトロ」で大正ロマンに浸る"
+      },
+      {
+        "description": "「小倉城」の城下町として栄えた歴史あるエリア。慶長7年（1602）から、7年の歳月を費やして築城された「小倉城」は、北九州のシンボル的な存在です。4階より5階が大きい「唐造り」という珍しい様式で、みどころもいろいろ。ご当地グルメは、ぬかみそで青魚を炊き込む「ぬか炊き」に注目。城下町に伝わる独自の食文化を味わってみてください。",
+        "image": {
+          "height": 2400,
+          "sourceUrl": "https://a.mktgcdn.com/p/BA2QCdRw4IRW20YrMwKme7myuCRIH0gizptyK13fXh4/3600x2400.jpg",
+          "thumbnails": [
+            {
+              "height": 2400,
+              "url": "https://a.mktgcdn.com/p-sandbox/6pF6DBnGA0zt3taqcenQF5DjeFfjFsCCAaFW7Eq2gDE/3600x2400.jpg",
+              "width": 3600
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/6pF6DBnGA0zt3taqcenQF5DjeFfjFsCCAaFW7Eq2gDE/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/6pF6DBnGA0zt3taqcenQF5DjeFfjFsCCAaFW7Eq2gDE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/6pF6DBnGA0zt3taqcenQF5DjeFfjFsCCAaFW7Eq2gDE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/6pF6DBnGA0zt3taqcenQF5DjeFfjFsCCAaFW7Eq2gDE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6pF6DBnGA0zt3taqcenQF5DjeFfjFsCCAaFW7Eq2gDE/3600x2400.jpg",
+          "width": 3600
+        },
+        "imageCaption": "「小倉城」は4階より5階の方が大きい造りが特徴的",
+        "sectionTitle": "【小倉】ユニークな城下町文化を今に伝える"
+      },
+      {
+        "description": "2017年に世界遺産に登録された「神宿る島」宗像・沖ノ島と関連遺産群は、このエリアにあります。宗像「宗像大社辺津宮」は日本最古の神社の一つとして知られ、日本神話にも登場する由緒ある大社。境内は静謐で厳か、神聖な雰囲気が漂う場所にある本殿で、神様に祈りを捧げましょう。福津「宮地嶽神社」は、毎年2月と10月になると「光の道」が現れることで有名。まっすぐ伸びる参道の直線上に、夕日が沈んでいく光景は美しく、SNS映えすること間違いなしですよ。",
+        "image": {
+          "height": 813,
+          "sourceUrl": "https://a.mktgcdn.com/p/D6JFYqWSolIDtw9gF3O_gjbYC6WJEZUQX9jU5X-pfow/1220x813.jpg",
+          "thumbnails": [
+            {
+              "height": 813,
+              "url": "https://a.mktgcdn.com/p-sandbox/-5yuy35_JCqiIi9-bp9XFQhw0rBmqeOjWD98uovsDN4/1220x813.jpg",
+              "width": 1220
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/-5yuy35_JCqiIi9-bp9XFQhw0rBmqeOjWD98uovsDN4/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/-5yuy35_JCqiIi9-bp9XFQhw0rBmqeOjWD98uovsDN4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/-5yuy35_JCqiIi9-bp9XFQhw0rBmqeOjWD98uovsDN4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-5yuy35_JCqiIi9-bp9XFQhw0rBmqeOjWD98uovsDN4/1220x813.jpg",
+          "width": 1220
+        },
+        "imageCaption": "荘厳な雰囲気が漂う「宗像大社辺津宮」",
+        "sectionTitle": "【宗像・福津】世界遺産にも登録された神々の宿る土地"
+      },
+      {
+        "description": "最後に紹介するのは、水郷の街・柳川。立花氏・柳川藩の旧城下町で、どんこ舟で街なかをめぐる「柳川お堀めぐり」が観光の定番です。船上から眺める街の風景と季節の花々、船頭の小粋な語りが楽しめます。ランチは柳川名物のウナギのせいろ蒸しがおすすめ。国の名勝に指定されている「柳川藩主立花邸 御花」、詩人・歌人として有名な北原白秋の生家や記念館などもあり、歴史と文化にふれられます。",
+        "image": {
+          "height": 2667,
+          "sourceUrl": "https://a.mktgcdn.com/p/aeSiYg469QgNgSm4KgyZeRDdAo59mwAIMkmNB4XASRI/4000x2667.jpg",
+          "thumbnails": [
+            {
+              "height": 2667,
+              "url": "https://a.mktgcdn.com/p-sandbox/aeSiYg469QgNgSm4KgyZeRDdAo59mwAIMkmNB4XASRI/4000x2667.jpg",
+              "width": 4000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/aeSiYg469QgNgSm4KgyZeRDdAo59mwAIMkmNB4XASRI/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/aeSiYg469QgNgSm4KgyZeRDdAo59mwAIMkmNB4XASRI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/aeSiYg469QgNgSm4KgyZeRDdAo59mwAIMkmNB4XASRI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/aeSiYg469QgNgSm4KgyZeRDdAo59mwAIMkmNB4XASRI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aeSiYg469QgNgSm4KgyZeRDdAo59mwAIMkmNB4XASRI/4000x2667.jpg",
+          "width": 4000
+        },
+        "imageCaption": "お堀の上から柳川の街中を散策しましょう",
+        "sectionTitle": "【柳川】水郷の街をどんこ舟で進む"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-06-15",
+    "c_ap_HeroImage": {
+      "alternateText": "観光スポットの宝庫！福岡のみどころ6大エリア紹介【福岡県】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 2667,
+      "sourceUrl": "https://a.mktgcdn.com/p/0Ud1jIg-8aOjzU9w8NYnBARgVIm-zkxNCdxFvhHYUD4/4000x2667.jpg",
+      "thumbnails": [
+        {
+          "height": 2667,
+          "url": "https://a.mktgcdn.com/p-sandbox/0Ud1jIg-8aOjzU9w8NYnBARgVIm-zkxNCdxFvhHYUD4/4000x2667.jpg",
+          "width": 4000
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/0Ud1jIg-8aOjzU9w8NYnBARgVIm-zkxNCdxFvhHYUD4/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/0Ud1jIg-8aOjzU9w8NYnBARgVIm-zkxNCdxFvhHYUD4/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/0Ud1jIg-8aOjzU9w8NYnBARgVIm-zkxNCdxFvhHYUD4/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/0Ud1jIg-8aOjzU9w8NYnBARgVIm-zkxNCdxFvhHYUD4/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/0Ud1jIg-8aOjzU9w8NYnBARgVIm-zkxNCdxFvhHYUD4/4000x2667.jpg",
+      "width": 4000
+    },
+    "c_ap_LinkArticleSectionTitle": "福岡県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "福岡市街のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/400101/"
+      },
+      {
+        "linkText": "福岡旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/fukuoka/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea6": [
+      "九州全般",
+      "福岡県"
+    ],
+    "c_ap_ShortDescription": "九州を代表する商業地・福岡は観光スポットが充実。グルメ王国としても名高く、福岡名物も目白押しです。ここで紹介するのは福岡観光の主要となる6エリア。食の都「福岡タウン」、参拝者が多く訪れる「大宰府」、レトロな港町「門司港」、城下町の風情が残る「小倉」、厳かな神社仏閣がある「宗像・福津」、舟に乗ってお堀をめぐりたい「柳川」と、各エリアを解説します。",
+    "c_ap_Tags": [
+      "城",
+      "レトロ",
+      "博多",
+      "小倉",
+      "門司港",
+      "大宰府"
+    ],
+    "c_ap_Theme": [
+      "寺社・教会",
+      "建築・史跡",
+      "歴史・地理",
+      "街あるき",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "観光スポットの宝庫！福岡のみどころ6大エリア紹介【福岡県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "九州を代表する商業地・福岡は観光スポットが充実。グルメ王国としても名高く、福岡名物も目白押しです。ここで紹介するのは福岡観光の主要となる6エリア。食の都「福岡タウン」、参拝者が多く訪れる「大宰府」、レトロな港…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "観光スポットの宝庫！福岡のみどころ6大エリア紹介【福岡県】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_area_0000010",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "九州全般, 福岡県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：九州全般, 福岡県",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：九州全般, 福岡県",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "【福岡県】観光スポットの宝庫！福岡のみどころ6大エリア紹介",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

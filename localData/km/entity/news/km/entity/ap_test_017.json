@@ -1,0 +1,71 @@
+{
+  "$id": "news_ap_test_017",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 750,
+      "sourceUrl": "http://a.mktgcdn.com/p/vvyw5qKwD3A9fYFORRX_5vnu_njexTzcWpIKS1ay_Mk/1888x750.jpg",
+      "thumbnails": [
+        {
+          "height": 750,
+          "url": "//a.mktgcdn.com/p-sandbox/vvyw5qKwD3A9fYFORRX_5vnu_njexTzcWpIKS1ay_Mk/1888x750.jpg",
+          "width": 1888
+        },
+        {
+          "height": 246,
+          "url": "//a.mktgcdn.com/p-sandbox/vvyw5qKwD3A9fYFORRX_5vnu_njexTzcWpIKS1ay_Mk/619x246.jpg",
+          "width": 619
+        },
+        {
+          "height": 238,
+          "url": "//a.mktgcdn.com/p-sandbox/vvyw5qKwD3A9fYFORRX_5vnu_njexTzcWpIKS1ay_Mk/600x238.jpg",
+          "width": 600
+        },
+        {
+          "height": 78,
+          "url": "//a.mktgcdn.com/p-sandbox/vvyw5qKwD3A9fYFORRX_5vnu_njexTzcWpIKS1ay_Mk/196x78.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/vvyw5qKwD3A9fYFORRX_5vnu_njexTzcWpIKS1ay_Mk/1888x750.jpg",
+      "width": 1888
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "リモート相談トップページに戻る",
+        "uRL": "https://consultants.jtb.co.jp/top#consultants"
+      },
+      {
+        "linkText": "トラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約カレンダーはこちら",
+        "uRL": "https://link.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNF1DN-qJBWQd"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": false,
+    "c_ap_ShortDescription": "このたびはJTBのオンライン相談をご利用いただきありがとうございます。\nオンライン相談では、ご自宅等からオンラインでJTBのトラベルコンサルタントとテレビ会議を繋ぎ、旅行の相談や申込をすることができます。オンラインの特性上、一部取り扱いのできない商品・サービスがありますので、ご利用になる前に下記をご確認いただきますようお願いいたします。",
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "オンライン相談で取り扱いのできない商品・サービスについて",
+    "c_metaDescription": "知識豊富なJTBスタッフのおすすめ記事をお楽しみいただけます。",
+    "c_metaTitle": "JTB リモートコンシェルジュ | おすすめ記事",
+    "c_news_Contents": [
+      {
+        "description": "●下記の商品や内容に関するご相談は本サービスの対象外です。ご了承ください。・宿泊を伴わないJRや各社私鉄の乗車券特急券・宿泊を伴わない国内航空券・その他チケット単品（テーマパークチケット単品など）・ギフト券（JTBナイスギフト、JTBナイストリップなど）・旅行に関連しないご相談●その他、一部お取り扱いのできない商品もあります。",
+        "sectionTitle": "オンライン相談で取り扱いできない商品"
+      }
+    ],
+    "c_news_PublicationDate": "2022-01-04",
+    "c_news_UpdateDate": "2022-01-04",
+    "c_news_ViewCount": "0",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/news_ap_test_017",
+    "name": "テスト投稿記事017",
+    "slug": "news_ap_test_017",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

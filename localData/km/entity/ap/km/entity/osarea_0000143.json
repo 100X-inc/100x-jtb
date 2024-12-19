@@ -1,0 +1,489 @@
+{
+  "$id": "ap_osarea_0000143",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "「カフェ・チュアンピサマイ」は、童話のなかにでてくるような緑に囲まれた庭付きの一軒家カフェ。ファンシーな空間と食べるのがもったいなくなるようなかわいい映えスイーツを目当てに世界各国からお客さんが訪れる人気なカフェです。このカフェは、タイ発の水着ブランド「チュアンピサマイ」の系列で、ブランドの世界観を体現したガーリーな雰囲気がとってもキュート！人気メニューは日替わりの自家製ケーキで、甘酸っぱいライチのジュレとクリームチーズのムースが相性抜群なライチチーズケーキは、見た目も味もバッチリ！",
+        "image": {
+          "height": 4000,
+          "sourceUrl": "https://a.mktgcdn.com/p/tsXJExTxfB4OQRn36umhC236J9rgkOxE_9MvT3fN_XI/6000x4000.jpg",
+          "thumbnails": [
+            {
+              "height": 4000,
+              "url": "https://a.mktgcdn.com/p-sandbox/tsXJExTxfB4OQRn36umhC236J9rgkOxE_9MvT3fN_XI/6000x4000.jpg",
+              "width": 6000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/tsXJExTxfB4OQRn36umhC236J9rgkOxE_9MvT3fN_XI/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/tsXJExTxfB4OQRn36umhC236J9rgkOxE_9MvT3fN_XI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/tsXJExTxfB4OQRn36umhC236J9rgkOxE_9MvT3fN_XI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/tsXJExTxfB4OQRn36umhC236J9rgkOxE_9MvT3fN_XI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/tsXJExTxfB4OQRn36umhC236J9rgkOxE_9MvT3fN_XI/6000x4000.jpg",
+          "width": 6000
+        },
+        "imageCaption": "ライチチーズケーキB150と花びらが浮かぶプニカティーB350",
+        "sectionTitle": "カフェ・チュアンピサマイ（Cafe Chuanpisamai）"
+      },
+      {
+        "description": "DATACafe Chuanpisamai住所：179 Soi Charoenporn 1 Phaholyothin 11営業時間：7時30分～18時30分定休日：月曜",
+        "image": {
+          "height": 4000,
+          "sourceUrl": "https://a.mktgcdn.com/p/yB5OoMoQCTkt_DSp_T4Qy4vbUYazYFFZW73TyrXjFh4/6000x4000.jpg",
+          "thumbnails": [
+            {
+              "height": 4000,
+              "url": "https://a.mktgcdn.com/p-sandbox/yB5OoMoQCTkt_DSp_T4Qy4vbUYazYFFZW73TyrXjFh4/6000x4000.jpg",
+              "width": 6000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/yB5OoMoQCTkt_DSp_T4Qy4vbUYazYFFZW73TyrXjFh4/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/yB5OoMoQCTkt_DSp_T4Qy4vbUYazYFFZW73TyrXjFh4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/yB5OoMoQCTkt_DSp_T4Qy4vbUYazYFFZW73TyrXjFh4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yB5OoMoQCTkt_DSp_T4Qy4vbUYazYFFZW73TyrXjFh4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yB5OoMoQCTkt_DSp_T4Qy4vbUYazYFFZW73TyrXjFh4/6000x4000.jpg",
+          "width": 6000
+        },
+        "imageCaption": "乙女心をくすぐるガーリー×アンティークな店内",
+        "sectionTitle": "チェディ・カフェ＆バー（Jedi Cafe \u0026 Bar）"
+      },
+      {
+        "description": "「チェディ・カフェ\u0026バー」は、運河に面したテラス席から王宮周辺の寺院群を見晴らすロケーションが自慢のモダンカフェです。“チェディ”とは、タイ語で仏塔という意味で、その名の通り高くそびえる仏塔を眺めながら、ゆったりとしたカフェタイムが楽しめます。シンプルながらデザイン性の高いインテリアや装飾にも注目！白を基調とした無機質な店内ですが、大きな窓から差し込む陽の光と相まってどこかあたたかい印象です。ドリンクを片手に持って、テラス席の運河や屋内の白壁をバックに撮影してみてはいかがでしょうか？",
+        "image": {
+          "height": 4000,
+          "sourceUrl": "https://a.mktgcdn.com/p/1k8pBY84gSzfTOfN9a_aR1vgATA1b3DFbhW9dgQ36CY/6000x4000.jpg",
+          "thumbnails": [
+            {
+              "height": 4000,
+              "url": "https://a.mktgcdn.com/p-sandbox/1k8pBY84gSzfTOfN9a_aR1vgATA1b3DFbhW9dgQ36CY/6000x4000.jpg",
+              "width": 6000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/1k8pBY84gSzfTOfN9a_aR1vgATA1b3DFbhW9dgQ36CY/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/1k8pBY84gSzfTOfN9a_aR1vgATA1b3DFbhW9dgQ36CY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/1k8pBY84gSzfTOfN9a_aR1vgATA1b3DFbhW9dgQ36CY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/1k8pBY84gSzfTOfN9a_aR1vgATA1b3DFbhW9dgQ36CY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1k8pBY84gSzfTOfN9a_aR1vgATA1b3DFbhW9dgQ36CY/6000x4000.jpg",
+          "width": 6000
+        },
+        "imageCaption": "チェディ・ラテB145（左）とパッションフルーツドリンクB140（右）",
+        "sectionTitle": "フェザーストーン・ビストロ・カフェ＆ライフスタイル（Featherstone Bistro Cafe \u0026 Lifestyle）"
+      },
+      {
+        "description": "DATAJedi Cafe \u0026 Bar住所：8 Boripat Rd., Banbaat, Khet Pomprab営業時間：9～18時（18～24時はバータイム）定休日：なし",
+        "image": {
+          "height": 4000,
+          "sourceUrl": "https://a.mktgcdn.com/p/YVzD0cvpRjYEyni5tPv2RUkX0dyru9TaG1fyxXLLDO4/6000x4000.jpg",
+          "thumbnails": [
+            {
+              "height": 4000,
+              "url": "https://a.mktgcdn.com/p-sandbox/YVzD0cvpRjYEyni5tPv2RUkX0dyru9TaG1fyxXLLDO4/6000x4000.jpg",
+              "width": 6000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/YVzD0cvpRjYEyni5tPv2RUkX0dyru9TaG1fyxXLLDO4/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/YVzD0cvpRjYEyni5tPv2RUkX0dyru9TaG1fyxXLLDO4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/YVzD0cvpRjYEyni5tPv2RUkX0dyru9TaG1fyxXLLDO4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/YVzD0cvpRjYEyni5tPv2RUkX0dyru9TaG1fyxXLLDO4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YVzD0cvpRjYEyni5tPv2RUkX0dyru9TaG1fyxXLLDO4/6000x4000.jpg",
+          "width": 6000
+        },
+        "imageCaption": "テラスの目の前に運河が流れる絶好のロケーション",
+        "sectionTitle": "フローラル・カフェ・アット・ナパソーン（Floral Cafe at Napasorn）"
+      },
+      {
+        "description": "ハイソなおしゃれエリア・エカマイにある「フェザーストーン・ビストロ・カフェ＆ライフスタイル」は、大きなステンドグラスとターコイズブルーでコーディネートされた店内がかわいい人気カフェです。アンティーク調の雑貨で飾られた内装は、ヨーロッパのレトロな薬局をイメージしているそうで、ドリンクカウンターや壁に掛けられた蝶の標本風イラストなど、思わず写真を撮りたくなる空間が広がっています。花や果物を閉じ込めた氷にシロップとソーダを注ぐシグネチャードリンクの「スパークリング・アポセカリー」は映え度MAXのかわいさ！",
+        "image": {
+          "height": 3456,
+          "sourceUrl": "https://a.mktgcdn.com/p/NoYe6Xz82tfX8QRb-DWNsyg68iyrks-t-pav4pzF_q4/5184x3456.jpg",
+          "thumbnails": [
+            {
+              "height": 3456,
+              "url": "https://a.mktgcdn.com/p-sandbox/NoYe6Xz82tfX8QRb-DWNsyg68iyrks-t-pav4pzF_q4/5184x3456.jpg",
+              "width": 5184
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/NoYe6Xz82tfX8QRb-DWNsyg68iyrks-t-pav4pzF_q4/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/NoYe6Xz82tfX8QRb-DWNsyg68iyrks-t-pav4pzF_q4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/NoYe6Xz82tfX8QRb-DWNsyg68iyrks-t-pav4pzF_q4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/NoYe6Xz82tfX8QRb-DWNsyg68iyrks-t-pav4pzF_q4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NoYe6Xz82tfX8QRb-DWNsyg68iyrks-t-pav4pzF_q4/5184x3456.jpg",
+          "width": 5184
+        },
+        "imageCaption": "スパークリング・アポセカリー（左からピーチパイ・ムーンシャイン、ワイルド・ガーデニア）各B160",
+        "sectionTitle": "ブルー・ホエール（Blue Whale）"
+      },
+      {
+        "description": "DATAFeatherstone Bistro Cafe \u0026 Lifestyle住所：60 Soi Ekamai 12, Klongton Nua営業時間：10時30分～22時定休日：なし",
+        "image": {
+          "height": 4480,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZdGE1e4jlN-BSRXpT9x-a2h6l2H1UHuroc67xyW1zME/6720x4480.jpg",
+          "thumbnails": [
+            {
+              "height": 4480,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZdGE1e4jlN-BSRXpT9x-a2h6l2H1UHuroc67xyW1zME/6720x4480.jpg",
+              "width": 6720
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZdGE1e4jlN-BSRXpT9x-a2h6l2H1UHuroc67xyW1zME/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZdGE1e4jlN-BSRXpT9x-a2h6l2H1UHuroc67xyW1zME/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZdGE1e4jlN-BSRXpT9x-a2h6l2H1UHuroc67xyW1zME/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZdGE1e4jlN-BSRXpT9x-a2h6l2H1UHuroc67xyW1zME/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZdGE1e4jlN-BSRXpT9x-a2h6l2H1UHuroc67xyW1zME/6720x4480.jpg",
+          "width": 6720
+        },
+        "imageCaption": "カウンター席のほか、テーブル席などシートもさまざま"
+      },
+      {
+        "description": "バンコクの花市場で有名な「パーク・クローン市場」からほど近いフラワーショップの2.3階をリノベーションしたボタニカルカフェ「フローラルカフェ・アット・ナパソーン」。天井いっぱいにドライフラワーやアンティーク調のインテリアがセンスよく飾られた空間は、かわいいの一言！また、おしゃれな空間にぴったりのカラフルなスイーツたちにも注目です。パウンドケーキにラズベリーの層がコーティングされた鮮やかなピンクの「ラズベリー・ローズ・パウンド」や、ほどよい酸味がチーズケーキとマッチした「レモン・クルド・チーズケーキ」など、自家製のケーキが特に人気です。",
+        "image": {
+          "height": 4480,
+          "sourceUrl": "https://a.mktgcdn.com/p/NMaZ9meE3s2g-pQ7GYWoAgEwkx3bKdBK1i4nkcpdDqU/6720x4480.jpg",
+          "thumbnails": [
+            {
+              "height": 4480,
+              "url": "https://a.mktgcdn.com/p-sandbox/NMaZ9meE3s2g-pQ7GYWoAgEwkx3bKdBK1i4nkcpdDqU/6720x4480.jpg",
+              "width": 6720
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/NMaZ9meE3s2g-pQ7GYWoAgEwkx3bKdBK1i4nkcpdDqU/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/NMaZ9meE3s2g-pQ7GYWoAgEwkx3bKdBK1i4nkcpdDqU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/NMaZ9meE3s2g-pQ7GYWoAgEwkx3bKdBK1i4nkcpdDqU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/NMaZ9meE3s2g-pQ7GYWoAgEwkx3bKdBK1i4nkcpdDqU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NMaZ9meE3s2g-pQ7GYWoAgEwkx3bKdBK1i4nkcpdDqU/6720x4480.jpg",
+          "width": 6720
+        },
+        "imageCaption": "ボタニカルとアンティークに囲まれた店内"
+      },
+      {
+        "description": "DATAFloral Cafe at Napasorn住所：67 Chakpet Rd., Khwaeng Burapairom, Khet Phra Nakhon営業時間：9～19時定休日：火曜",
+        "image": {
+          "height": 6720,
+          "sourceUrl": "https://a.mktgcdn.com/p/7c6Qexm_TFbdrnXE5pupqjDTXTIMEGtWs_Wh5fglhPA/4480x6720.jpg",
+          "thumbnails": [
+            {
+              "height": 6720,
+              "url": "https://a.mktgcdn.com/p-sandbox/7c6Qexm_TFbdrnXE5pupqjDTXTIMEGtWs_Wh5fglhPA/4480x6720.jpg",
+              "width": 4480
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/7c6Qexm_TFbdrnXE5pupqjDTXTIMEGtWs_Wh5fglhPA/1267x1900.jpg",
+              "width": 1267
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/7c6Qexm_TFbdrnXE5pupqjDTXTIMEGtWs_Wh5fglhPA/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/7c6Qexm_TFbdrnXE5pupqjDTXTIMEGtWs_Wh5fglhPA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/7c6Qexm_TFbdrnXE5pupqjDTXTIMEGtWs_Wh5fglhPA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7c6Qexm_TFbdrnXE5pupqjDTXTIMEGtWs_Wh5fglhPA/4480x6720.jpg",
+          "width": 4480
+        },
+        "imageCaption": "手前からグリーンアップル・ミント・スムージーB140、ラズベリー・ローズ・パウンドB180、レモン・クルド・チーズケーキB180"
+      },
+      {
+        "description": "ワット・ポーの裏手側、徒歩約3分の場所にある人気カフェ「ブルー・ホエール」。こちらのカフェは、着色料・香料不使用、自然素材100％使用のナチュラルなドリンク\u0026スイーツが楽しめます。SNSを中心に大ブームとなった名物の“青い”ラテは、タイでよくハーブティーとして飲まれ、美容にもいいと注目を集めるバラフライピーのシロップを使った映える一杯。鮮やかなブルーで統一されたモザイクの壁紙やブルーに輝くネオンの装飾などが配されていて、店内も青一色でアートのようです。",
+        "image": {
+          "height": 3712,
+          "sourceUrl": "https://a.mktgcdn.com/p/cs2NvXzI7tFYU3bLjmyL112kwWXt4csD-i1OiGptCFY/5568x3712.jpg",
+          "thumbnails": [
+            {
+              "height": 3712,
+              "url": "https://a.mktgcdn.com/p-sandbox/cs2NvXzI7tFYU3bLjmyL112kwWXt4csD-i1OiGptCFY/5568x3712.jpg",
+              "width": 5568
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/cs2NvXzI7tFYU3bLjmyL112kwWXt4csD-i1OiGptCFY/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/cs2NvXzI7tFYU3bLjmyL112kwWXt4csD-i1OiGptCFY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/cs2NvXzI7tFYU3bLjmyL112kwWXt4csD-i1OiGptCFY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/cs2NvXzI7tFYU3bLjmyL112kwWXt4csD-i1OiGptCFY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cs2NvXzI7tFYU3bLjmyL112kwWXt4csD-i1OiGptCFY/5568x3712.jpg",
+          "width": 5568
+        },
+        "imageCaption": "ホット・バタフライピー・ラテB120"
+      },
+      {
+        "description": "DATABlue Whale住所：392/37 Maharat Rd., Phra Borom Ratchawang, Phra Nakhon営業時間：9～18時定休日：月曜",
+        "image": {
+          "height": 3712,
+          "sourceUrl": "https://a.mktgcdn.com/p/bZSNjjBnxN6iAe1TZUigGaDi4pUK7V46LKPP3SmPW-c/5568x3712.jpg",
+          "thumbnails": [
+            {
+              "height": 3712,
+              "url": "https://a.mktgcdn.com/p-sandbox/bZSNjjBnxN6iAe1TZUigGaDi4pUK7V46LKPP3SmPW-c/5568x3712.jpg",
+              "width": 5568
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/bZSNjjBnxN6iAe1TZUigGaDi4pUK7V46LKPP3SmPW-c/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/bZSNjjBnxN6iAe1TZUigGaDi4pUK7V46LKPP3SmPW-c/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/bZSNjjBnxN6iAe1TZUigGaDi4pUK7V46LKPP3SmPW-c/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/bZSNjjBnxN6iAe1TZUigGaDi4pUK7V46LKPP3SmPW-c/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bZSNjjBnxN6iAe1TZUigGaDi4pUK7V46LKPP3SmPW-c/5568x3712.jpg",
+          "width": 5568
+        },
+        "imageCaption": "イートイン、テイクアウトどちらも可能"
+      },
+      {
+        "imageCaption": "※2023年10月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2024-02-07",
+    "c_ap_HeroImage": {
+      "alternateText": "おしゃれな店内にかわいいスイーツ！バンコクの映えカフェ5選【タイ バンコク】",
+      "height": 3326,
+      "sourceUrl": "https://a.mktgcdn.com/p/FHhnbs6-bXR4rIZ2fzeBotvow-hJU9JEUWwVTrk_-os/4923x3326.jpg",
+      "thumbnails": [
+        {
+          "height": 3326,
+          "url": "https://a.mktgcdn.com/p-sandbox/FHhnbs6-bXR4rIZ2fzeBotvow-hJU9JEUWwVTrk_-os/4923x3326.jpg",
+          "width": 4923
+        },
+        {
+          "height": 1284,
+          "url": "https://a.mktgcdn.com/p-sandbox/FHhnbs6-bXR4rIZ2fzeBotvow-hJU9JEUWwVTrk_-os/1900x1284.jpg",
+          "width": 1900
+        },
+        {
+          "height": 418,
+          "url": "https://a.mktgcdn.com/p-sandbox/FHhnbs6-bXR4rIZ2fzeBotvow-hJU9JEUWwVTrk_-os/619x418.jpg",
+          "width": 619
+        },
+        {
+          "height": 405,
+          "url": "https://a.mktgcdn.com/p-sandbox/FHhnbs6-bXR4rIZ2fzeBotvow-hJU9JEUWwVTrk_-os/600x405.jpg",
+          "width": 600
+        },
+        {
+          "height": 132,
+          "url": "https://a.mktgcdn.com/p-sandbox/FHhnbs6-bXR4rIZ2fzeBotvow-hJU9JEUWwVTrk_-os/196x132.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/FHhnbs6-bXR4rIZ2fzeBotvow-hJU9JEUWwVTrk_-os/4923x3326.jpg",
+      "width": 4923
+    },
+    "c_ap_HeroImageCaption": "メルヘンな雰囲気でティータイム",
+    "c_ap_LinkArticleSectionTitle": "タイのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "タイ旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/thailand/"
+      },
+      {
+        "linkText": "バンコクのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dBKK"
+      },
+      {
+        "linkText": "タイのホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/178/?freeword\u003d%E3%82%BF%E3%82%A4\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d178"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea4": [
+      "タイ"
+    ],
+    "c_ap_ShortDescription": "バンコクには個性豊かなカフェが勢揃い！古い建物を活用したリノベ系カフェや、モダンなシティ派カフェ、さらにはお花屋さんが営むボタニカルカフェや絶景自慢のロケーションカフェなど、さまざまな魅力をもつ映えカフェをピックアップ！（写真：カフェ・チュアンピサマイ）",
+    "c_ap_Tags": [
+      "バンコク",
+      "スイーツ",
+      "映えカフェ"
+    ],
+    "c_ap_Theme": [
+      "建築・史跡",
+      "街あるき",
+      "グルメ",
+      "カフェ"
+    ],
+    "c_ap_Title": "おしゃれな店内にかわいいスイーツ！バンコクの映えカフェ5選【タイ バンコク】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "バンコクには個性豊かなカフェが勢揃い！古い建物を活用したリノベ系カフェや、モダンなシティ派カフェ、さらにはお花屋さんが営むボタニカルカフェや絶景自慢のロケーションカフェなど、さまざまな魅力をもつ映えカフェをピックアップ！（写真：カフェ・チュアンピサマイ）",
+    "c_metaTitle": "おしゃれな店内にかわいいスイーツ！バンコクの映えカフェ5選【タイ バンコク】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000143",
+    "name": "おしゃれな店内にかわいいスイーツ！バンコクの映えカフェ5選【タイ バンコク】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

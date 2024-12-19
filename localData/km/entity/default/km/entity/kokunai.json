@@ -1,0 +1,70 @@
+{
+  "$id": "kokunai",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_Tags": [
+      "JTBの一押しホテル",
+      "温泉",
+      "露天風呂",
+      "絶景",
+      "観光スポット",
+      "グルメ",
+      "おみやげ",
+      "モデルコース",
+      "アクティビティ",
+      "ラグジュアリー",
+      "女子旅",
+      "カフェ",
+      "街歩き"
+    ],
+    "c_ap_TagsLabel": "人気のタグ",
+    "c_latestArticleSectionTitle": "国内の新着記事",
+    "c_linkedArea01": [
+      "area_root"
+    ],
+    "c_linkedArea12": [
+      "tohoku",
+      "koshinetsu",
+      "tokai",
+      "hokkaido",
+      "kanto",
+      "hokuriku",
+      "chugoku",
+      "shikoku",
+      "kansai",
+      "kyushu",
+      "okinawa",
+      "kn_oth2"
+    ],
+    "c_metaDescription": "国内に関する記事をピックアップ！JTBニュースでは、国内で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 国内 | 旅行・おでかけ情報",
+    "c_news_AreaSearchLink": {
+      "label": "すべての国内の記事から探す",
+      "link": "https://www.jtb.co.jp/news/list/kokunai",
+      "linkType": "OTHER"
+    },
+    "c_news_AreaSearchTitle": "全国から探す",
+    "c_news_PopularAreas": [
+      "news_pa_hokkaido",
+      "news_pa_atami",
+      "news_pa_kusatsu",
+      "news_pa_kanazawa",
+      "news_pa_kyoto",
+      "news_pa_osaka",
+      "news_pa_nagoya",
+      "news_pa_fukuoka",
+      "news_pa_sendai",
+      "news_pa_aroundatami",
+      "news_pa_hiroshima",
+      "news_pa_yokohama"
+    ],
+    "c_news_PopularAreasTitle": "人気エリアから探す",
+    "c_rankedArticleSectionTitle": "国内の人気ランキング",
+    "name": "国内",
+    "slug": "kokunai"
+  },
+  "entityType": "ce_areaLevel1",
+  "folder": "ニュース記事",
+  "labels": []
+}

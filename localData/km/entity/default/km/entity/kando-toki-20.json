@@ -1,0 +1,39 @@
+{
+  "$id": "kando-toki-20",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/20_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d42.539745%2C140.859753",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "支笏洞爺国立公園内にある「昭和新山」は1943年（昭和18年）、有珠山の噴火により突如活動を始めました。田園地帯の真ん中にあった麦畑が爆発し、およそ2年にも渡る噴火と地震、隆起を繰り返した結果、標高407mにまで成長したのです。現在の標高はそれから落ち着き、398mとなっています。地元の郵便局長が作成した火山の詳細な観察記録「ミマツダイヤグラム」は、世界で初めて火山の成長の一部始終が記録された貴重な資料として有名です。1957年（昭和32年）には、国の特別天然記念物に指定されました。昭和新山駅から有珠山頂駅までのぼる有珠山ロープウェイからは、360度の大パノラマと共に、現在の火山の様子を見ることができます。また、昭和新山駅横の「昭和新山熊牧場」には、約１００頭のヒグマを間近に見られる特別観察室もあり、春には子熊のかわいらしい姿を見ることができます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/20.asp",
+    "name": "自然の驚異！昭和新山"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

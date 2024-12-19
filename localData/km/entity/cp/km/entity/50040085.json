@@ -1,0 +1,52 @@
+{
+  "$id": "cp_50040085",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_CTA2": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBdBG",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "～ご挨拶～\nJTB洛北阪急スクエア店は「洛北阪急スクエア」の地下1階にございます。お買い物のついでに、お立ちよりいただける便利な場所です。JRの切符や商品券から、海外ご出張のお手伝いやハネムーンも地元のお客さまの旅のお手伝いをいたします。少ない人数で営業しておりますので宿泊を伴うご旅行のご相談は「来店予約」をしていただけるとスムーズです。皆様からのご用命お待ちしております。",
+    "c_cp_DisplayName": "川端",
+    "c_cp_GeneralInfo": [
+      "●資格：世界遺産検定２級　京都検定2級/3級  総合旅行業務取扱管理者　クルーズコンサルタント　ハワイスペシャリスト上級/トラベルコーディネーター海外国内Ａ級/ウェディングコンサルタント/温泉ソムリエ"
+    ],
+    "c_cp_HiraganaName": "かわばた",
+    "c_cp_JobTitle": "JTB洛北阪急スクエア店 店長",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "alternateText": "JTBトラベルコンサルタント",
+      "height": 300,
+      "sourceUrl": "https://a.mktgcdn.com/p/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/400x300.jpg",
+      "thumbnails": [
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/400x300.jpg",
+          "width": 400
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/400x300.jpg",
+      "width": 400
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント | 川端",
+    "c_metaTitle": "JTBトラベルコンサルタント | 川端",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_50040085",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2023/04/06 JBX対応（リテール外転出）",
+    "name": "かわばた_50040085",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

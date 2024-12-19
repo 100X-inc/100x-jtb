@@ -1,0 +1,41 @@
+{
+  "$id": "kando-toki-7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/7_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.90677%2C144.79866",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "冬",
+      "太陽・星・月",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "まるで空にのぼっていくかのように、果てしなく続く道。国道334・244号線の全長約18kmの直線道路は「天に続く道」として有名です。名前の由来は、まっすぐな道がはるか遠くまで伸び、道の先が天まで続いているように見えることから、「天に続く道」と呼ばれています。国道334号線をウトロから斜里方面に向かって走り、峰浜で左折。ウナベツスキー場を左手に見ながら坂を上りきり、突き当たりを右折すると、目の前にこの不思議な「天に続く道」が現れます。斜里町方面から国道334号線を走り、「天に続く道」のスタート地点とは逆の方向から向かってやってくる方もいますが、それまで見ていた景色が一変し、目の前に突然「天に続く道」が現れる瞬間に感動したい方は、峰浜からの道順を進むのがオススメです。\n見所・お勧めポイント",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/7.asp",
+    "name": "知床斜里 天に続く道"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

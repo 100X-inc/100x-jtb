@@ -1,0 +1,160 @@
+{
+  "$id": "cp_11155025",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "北海道",
+    "c_cp_CTA1": {
+      "label": "田名部 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVe9x2c",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVe9x2c",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "街歩き散歩、ご当地グルメ、素敵な景色や、綺麗なお花が大好きで、写真を撮ることが得意です。\n国内・海外・クルーズ旅行、様々な旅へ行きました。\n一緒に旅してきたカメラと写真達が最高の宝物です。\n「旅行」は「夢」。\nお客様の「夢」を叶えることが出来るこの仕事が楽しくて大好きです。\nご一緒に「夢」の計画をし、笑顔溢れる想い出作りをお手伝いさせて頂きます。\nお気軽にどうぞ♪",
+    "c_cp_DisplayName": "田名部",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ旅行",
+      "ハネムーン",
+      "記念旅行",
+      "クルーズ",
+      "自然・山",
+      "寺社・教会",
+      "建築・史跡",
+      "動植物園・公園",
+      "美術鑑賞",
+      "世界遺産",
+      "テーマパーク",
+      "街あるき",
+      "ドライブ",
+      "グルメ",
+      "ショッピング",
+      "お酒",
+      "カフェ",
+      "ご当地グルメ",
+      "おみやげ",
+      "温泉・立ち寄り湯",
+      "お祭り",
+      "伝統工芸・民芸",
+      "音楽ライブ"
+    ],
+    "c_cp_GeneralInfo": [
+      "●資格：「アロハプログラム上級」、「おもてなし検定」、函館が大好き「はこだて検定」"
+    ],
+    "c_cp_HiraganaName": "たなべ",
+    "c_cp_JobTitle": "JTB函館五稜郭店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 3024,
+      "sourceUrl": "https://a.mktgcdn.com/p/RQyY57Ska02OmJx74qKqJ0GEO1HImVOMdKT6lR9plSQ/2268x3024.jpg",
+      "thumbnails": [
+        {
+          "height": 3024,
+          "url": "https://a.mktgcdn.com/p-sandbox/RQyY57Ska02OmJx74qKqJ0GEO1HImVOMdKT6lR9plSQ/2268x3024.jpg",
+          "width": 2268
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/RQyY57Ska02OmJx74qKqJ0GEO1HImVOMdKT6lR9plSQ/1425x1900.jpg",
+          "width": 1425
+        },
+        {
+          "height": 825,
+          "url": "https://a.mktgcdn.com/p-sandbox/RQyY57Ska02OmJx74qKqJ0GEO1HImVOMdKT6lR9plSQ/619x825.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/RQyY57Ska02OmJx74qKqJ0GEO1HImVOMdKT6lR9plSQ/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/RQyY57Ska02OmJx74qKqJ0GEO1HImVOMdKT6lR9plSQ/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/RQyY57Ska02OmJx74qKqJ0GEO1HImVOMdKT6lR9plSQ/2268x3024.jpg",
+      "width": 2268
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム",
+      "サイパン",
+      "オーストラリア"
+    ],
+    "c_cp_StrongAbroadArea2": [
+      "アメリカ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "イギリス",
+      "フランス",
+      "スペイン",
+      "イタリア",
+      "ドイツ",
+      "スイス",
+      "北欧",
+      "ギリシャ",
+      "クロアチア・スロベニア"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国",
+      "台湾",
+      "タイ",
+      "ベトナム",
+      "シンガポール",
+      "フィリピン"
+    ],
+    "c_cp_StrongAbroadArea5": [
+      "トルコ",
+      "エジプト"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道",
+      "東北全般"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "北陸全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "近畿全般"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "中国全般",
+      "四国全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "ハワイ渡航１０回以上",
+      "ラグジュアリーホテル",
+      "おしゃれグルメ",
+      "カメラ"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 田名部",
+    "c_metaTitle": "JTBトラベルコンサルタント | 田名部",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_11155025",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10032_函館五稜郭店",
+    "name": "たなべ_11155025",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

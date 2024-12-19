@@ -1,0 +1,382 @@
+{
+  "$id": "ap_osarea_0000005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 加川香菜子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "イラロストリートを挟んで2会場で開催されるマーケット。日陰が多く休憩スペースがあるエヴァ側、2023年4月に移転したダイヤモンドヘッド側、それぞれ異なる雰囲気が楽しめます。住所：919 Ala Moana Blvd. ＆ 1011 Ala Moana Blvd.開催日時：毎週土曜の8～12時 URL：www.farmloversmarkets.com/kakaako",
+        "image": {
+          "alternateText": "ハワイ産の食材を使ったり、エコ＆サステナブルにこだわるベンダーが並びます",
+          "height": 1536,
+          "sourceUrl": "https://a.mktgcdn.com/p/u15iB4cYZp-SCZSXiiywp-oNDWP7MgZp4QaNUu6SPVE/2048x1536.jpg",
+          "thumbnails": [
+            {
+              "height": 1536,
+              "url": "https://a.mktgcdn.com/p-sandbox/u15iB4cYZp-SCZSXiiywp-oNDWP7MgZp4QaNUu6SPVE/2048x1536.jpg",
+              "width": 2048
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/u15iB4cYZp-SCZSXiiywp-oNDWP7MgZp4QaNUu6SPVE/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/u15iB4cYZp-SCZSXiiywp-oNDWP7MgZp4QaNUu6SPVE/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/u15iB4cYZp-SCZSXiiywp-oNDWP7MgZp4QaNUu6SPVE/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/u15iB4cYZp-SCZSXiiywp-oNDWP7MgZp4QaNUu6SPVE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/u15iB4cYZp-SCZSXiiywp-oNDWP7MgZp4QaNUu6SPVE/2048x1536.jpg",
+          "width": 2048
+        },
+        "imageCaption": "ハワイ産の食材を使ったり、エコ＆サステナブルにこだわるベンダーが並びます",
+        "sectionTitle": "【カカアコ・ファーマーズマーケット（Kakaako Farmer\u0027s Market）】"
+      },
+      {
+        "description": "身体が目覚めるグリーンスムージーの専門店です。すっきりと飲みやすく、栄養たっぷりの1杯は16ozで$6と32ozで$11の2種類あります。ヘルシーな1杯で水分補給をしてくださいね。",
+        "image": {
+          "alternateText": "緑色のフードトラックが目印です",
+          "height": 496,
+          "sourceUrl": "https://a.mktgcdn.com/p/3Qg7ufU-zVzasvtwHQxmj8AJwcM3UxWnoFDBWS3fsug/661x496.jpg",
+          "thumbnails": [
+            {
+              "height": 496,
+              "url": "https://a.mktgcdn.com/p-sandbox/3Qg7ufU-zVzasvtwHQxmj8AJwcM3UxWnoFDBWS3fsug/661x496.jpg",
+              "width": 661
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/3Qg7ufU-zVzasvtwHQxmj8AJwcM3UxWnoFDBWS3fsug/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3Qg7ufU-zVzasvtwHQxmj8AJwcM3UxWnoFDBWS3fsug/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/3Qg7ufU-zVzasvtwHQxmj8AJwcM3UxWnoFDBWS3fsug/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3Qg7ufU-zVzasvtwHQxmj8AJwcM3UxWnoFDBWS3fsug/661x496.jpg",
+          "width": 661
+        },
+        "imageCaption": "緑色のフードトラックが目印です",
+        "sectionTitle": "オマオマン（’Ōma ’o Man）"
+      },
+      {
+        "description": "イスラエル出身のカップルが接客する中東料理の総菜が並ぶお店。ひよこ豆を使ったワッフル型の「ファラフェル」がかわいらしいです。",
+        "image": {
+          "alternateText": "ナチュラルテイストでかわいい雰囲気のお店（イメージ）",
+          "height": 467,
+          "sourceUrl": "https://a.mktgcdn.com/p/MCdtacr8VoVyOfxJsPeZWBXwGP8GfpJUy2AmmIS5QzY/700x467.jpg",
+          "thumbnails": [
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p-sandbox/MCdtacr8VoVyOfxJsPeZWBXwGP8GfpJUy2AmmIS5QzY/700x467.jpg",
+              "width": 700
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/MCdtacr8VoVyOfxJsPeZWBXwGP8GfpJUy2AmmIS5QzY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/MCdtacr8VoVyOfxJsPeZWBXwGP8GfpJUy2AmmIS5QzY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/MCdtacr8VoVyOfxJsPeZWBXwGP8GfpJUy2AmmIS5QzY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MCdtacr8VoVyOfxJsPeZWBXwGP8GfpJUy2AmmIS5QzY/700x467.jpg",
+          "width": 700
+        },
+        "imageCaption": "ナチュラルテイストでかわいい雰囲気のお店（イメージ）",
+        "sectionTitle": "サーファーズ・ワイフ（Surfers Wife）"
+      },
+      {
+        "description": "外はカリカリ、中はモチモチ食感で絶品のカヌレを専門に扱っています。ロコにも人気の味を、グルメみやげにするのもおしゃれですね。カヌレは1個$3.50で、好きなフレーバーを選べる9個入りのボックスは$27です。",
+        "image": {
+          "alternateText": "かわいらしいカヌレがずらりと並びます",
+          "height": 496,
+          "sourceUrl": "https://a.mktgcdn.com/p/fGtZ46_WXBvMdxFdlutuJoC6Biu_ecQzP-8xYt9h9n0/661x496.jpg",
+          "thumbnails": [
+            {
+              "height": 496,
+              "url": "https://a.mktgcdn.com/p-sandbox/fGtZ46_WXBvMdxFdlutuJoC6Biu_ecQzP-8xYt9h9n0/661x496.jpg",
+              "width": 661
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/fGtZ46_WXBvMdxFdlutuJoC6Biu_ecQzP-8xYt9h9n0/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/fGtZ46_WXBvMdxFdlutuJoC6Biu_ecQzP-8xYt9h9n0/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/fGtZ46_WXBvMdxFdlutuJoC6Biu_ecQzP-8xYt9h9n0/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fGtZ46_WXBvMdxFdlutuJoC6Biu_ecQzP-8xYt9h9n0/661x496.jpg",
+          "width": 661
+        },
+        "imageCaption": "かわいらしいカヌレがずらりと並びます",
+        "sectionTitle": "カヌレイ（Cane Lei）"
+      },
+      {
+        "description": "人気の食のセレクトショップでは、マーケット限定の自家製レモネード$4.75や焼き印入りの食パンなどを販売しています。「HAWAII」のロゴが入った、おみやげにも人気のトートなどもありますよ。",
+        "image": {
+          "alternateText": "日本でも人気のお店の、ハワイ限定商品を手に入れたい",
+          "height": 496,
+          "sourceUrl": "https://a.mktgcdn.com/p/3RbRpi3ImLJwdr5V34DbHOg4hljh28R-ORdEq2m1dtk/661x496.jpg",
+          "thumbnails": [
+            {
+              "height": 496,
+              "url": "https://a.mktgcdn.com/p-sandbox/3RbRpi3ImLJwdr5V34DbHOg4hljh28R-ORdEq2m1dtk/661x496.jpg",
+              "width": 661
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/3RbRpi3ImLJwdr5V34DbHOg4hljh28R-ORdEq2m1dtk/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3RbRpi3ImLJwdr5V34DbHOg4hljh28R-ORdEq2m1dtk/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/3RbRpi3ImLJwdr5V34DbHOg4hljh28R-ORdEq2m1dtk/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3RbRpi3ImLJwdr5V34DbHOg4hljh28R-ORdEq2m1dtk/661x496.jpg",
+          "width": 661
+        },
+        "imageCaption": "日本でも人気のお店の、ハワイ限定商品を手に入れたい",
+        "sectionTitle": "ディーン＆デルーカ ハワイ（DEAN \u0026 DELUCA HAWAII）"
+      },
+      {
+        "description": "ファーマーズマーケットの先駆け的な存在で、ホノルルを代表する朝市です。広大な敷地内に、農場直送の野菜やプレートランチ、ローカルフードなど、さまざまなベンダー（店舗）が並びます。約95店出店する朝市で、食事やみやげ探しを楽しんでくださいね。住所：4303 Diamond Head Rd.（カピオラニ・コミュニティ・カレッジ敷地内）開催日時：毎週土曜の7 時30分～11時 URL：www.hfbf.org",
+        "image": {
+          "alternateText": "正面入口横のインフォメーションセンターに会場MAPがあります",
+          "height": 570,
+          "sourceUrl": "https://a.mktgcdn.com/p/knHX-h1Fb9mCfmh9a7GlFWKXVIR8vCzZWs6BvBQIAOk/855x570.jpg",
+          "thumbnails": [
+            {
+              "height": 570,
+              "url": "https://a.mktgcdn.com/p-sandbox/knHX-h1Fb9mCfmh9a7GlFWKXVIR8vCzZWs6BvBQIAOk/855x570.jpg",
+              "width": 855
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/knHX-h1Fb9mCfmh9a7GlFWKXVIR8vCzZWs6BvBQIAOk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/knHX-h1Fb9mCfmh9a7GlFWKXVIR8vCzZWs6BvBQIAOk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/knHX-h1Fb9mCfmh9a7GlFWKXVIR8vCzZWs6BvBQIAOk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/knHX-h1Fb9mCfmh9a7GlFWKXVIR8vCzZWs6BvBQIAOk/855x570.jpg",
+          "width": 855
+        },
+        "imageCaption": "正面入口横のインフォメーションセンターに会場MAPがあります",
+        "sectionTitle": "【サタデー・ファーマーズ・マーケットKCC　（Saturday Farmer’s Market KCC）】"
+      },
+      {
+        "description": "ハワイのソーセージメーカーで、グリルで焼き上げるジューシーなジャンボソーセージが人気です。ブランチにぴったりのカレーソースがかかった「キングコング・ホットドッグ」$12などを豪快にほおばりましょう。",
+        "image": {
+          "alternateText": "キングコング・ホットドッグ$12",
+          "height": 522,
+          "sourceUrl": "https://a.mktgcdn.com/p/JuE4HS1ZLKR6b8PPNPHac_8WKWWz-wzcz1kc_rSyBRo/700x522.jpg",
+          "thumbnails": [
+            {
+              "height": 522,
+              "url": "https://a.mktgcdn.com/p-sandbox/JuE4HS1ZLKR6b8PPNPHac_8WKWWz-wzcz1kc_rSyBRo/700x522.jpg",
+              "width": 700
+            },
+            {
+              "height": 462,
+              "url": "https://a.mktgcdn.com/p-sandbox/JuE4HS1ZLKR6b8PPNPHac_8WKWWz-wzcz1kc_rSyBRo/619x462.jpg",
+              "width": 619
+            },
+            {
+              "height": 447,
+              "url": "https://a.mktgcdn.com/p-sandbox/JuE4HS1ZLKR6b8PPNPHac_8WKWWz-wzcz1kc_rSyBRo/600x447.jpg",
+              "width": 600
+            },
+            {
+              "height": 146,
+              "url": "https://a.mktgcdn.com/p-sandbox/JuE4HS1ZLKR6b8PPNPHac_8WKWWz-wzcz1kc_rSyBRo/196x146.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JuE4HS1ZLKR6b8PPNPHac_8WKWWz-wzcz1kc_rSyBRo/700x522.jpg",
+          "width": 700
+        },
+        "imageCaption": "キングコング・ホットドッグ$12",
+        "sectionTitle": "ククイ･ソーセージ（Kukui Sausage）"
+      },
+      {
+        "imageCaption": "※2023年4月末時点の情報です。営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2023-05-23",
+    "c_ap_HeroImage": {
+      "alternateText": "大人気！青空の下でのんびりショッピング 土曜の朝は2大ファーマーズマーケットへ　【ハワイ　ホノルル】",
+      "height": 778,
+      "sourceUrl": "https://a.mktgcdn.com/p/ekLA2rCtK0tlliNzSGqKTFLeX4dOZCx635WRlF6E03U/1166x778.jpg",
+      "thumbnails": [
+        {
+          "height": 778,
+          "url": "https://a.mktgcdn.com/p-sandbox/ekLA2rCtK0tlliNzSGqKTFLeX4dOZCx635WRlF6E03U/1166x778.jpg",
+          "width": 1166
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/ekLA2rCtK0tlliNzSGqKTFLeX4dOZCx635WRlF6E03U/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/ekLA2rCtK0tlliNzSGqKTFLeX4dOZCx635WRlF6E03U/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/ekLA2rCtK0tlliNzSGqKTFLeX4dOZCx635WRlF6E03U/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ekLA2rCtK0tlliNzSGqKTFLeX4dOZCx635WRlF6E03U/1166x778.jpg",
+      "width": 1166
+    },
+    "c_ap_HeroImageCaption": "サタデー・ファーマーズ・マーケットKCC",
+    "c_ap_LinkArticleSectionTitle": "ハワイのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "ハワイ旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hawaii/"
+      },
+      {
+        "linkText": "ハワイのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dHNL"
+      },
+      {
+        "linkText": "ハワイのホテル",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_ap_ShortDescription": "野菜やジャムなど、ハワイ産のグルメに出合えるファーマーズマーケットは滞在中ぜひ訪れたいスポット。ウォールアートで話題のエリア、カカアコのファーマーズマーケットと、ダイヤモンドヘッド近くで開催されるKCC。どちらも土曜の午前中に開催しているので好みに合いそうな方を選んでくださいね。（写真：サタデー・ファーマーズ・マーケットKCC）",
+    "c_ap_Tags": [
+      "ファーマーズマーケット",
+      "オーガニック",
+      "土曜日",
+      "サステナブル",
+      "ホノルル"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ",
+      "ウエディング",
+      "ハネムーン",
+      "記念旅行",
+      "街あるき",
+      "グルメ",
+      "ショッピング",
+      "ご当地グルメ",
+      "おみやげ",
+      "リゾート"
+    ],
+    "c_ap_Title": "大人気！青空の下でのんびりショッピング 土曜の朝は2大ファーマーズマーケットへ　【ハワイ　ホノルル】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "野菜やジャムなど、ハワイ産のグルメに出合えるファーマーズマーケットは滞在中ぜひ訪れたいスポット。ウォールアートで話題のエリア、カカアコのファーマーズマーケットと、ダイヤモンドヘッド近くで開催されるKCC。どちらも土曜の午前中に開催しているので好みに合いそうな方を選んでくださいね。（写真：サタデー・ファーマーズ・マーケットKCC）",
+    "c_metaTitle": "大人気！青空の下でのんびりショッピング 土曜の朝は2大ファーマーズマーケットへ　【ハワイ　ホノルル】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000005",
+    "c_searchArea1": [
+      "海外"
+    ],
+    "c_searchArea2": "ハワイ",
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：ハワイ",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "大人気！青空の下でのんびりショッピング 土曜の朝は2大ファーマーズマーケットへ　【ハワイ　ホノルル】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,51 @@
+{
+  "$id": "news_pa_kyoto",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kokunai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "京都",
+      "link": "https://www.jtb.co.jp/news/list/kokunai/kansai/kyoto",
+      "linkType": "URL"
+    },
+    "c_news_PopularAreasImage": {
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/JfbLN40pFzGAvbJBx1jS-xzP1h1WqKKDLAYwU5rk9Oo/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/83FAnuQsKYDMm0vqRIz2t5Gtzkg15GjgJDmiqyUnPpI/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/83FAnuQsKYDMm0vqRIz2t5Gtzkg15GjgJDmiqyUnPpI/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/83FAnuQsKYDMm0vqRIz2t5Gtzkg15GjgJDmiqyUnPpI/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/83FAnuQsKYDMm0vqRIz2t5Gtzkg15GjgJDmiqyUnPpI/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/83FAnuQsKYDMm0vqRIz2t5Gtzkg15GjgJDmiqyUnPpI/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/83FAnuQsKYDMm0vqRIz2t5Gtzkg15GjgJDmiqyUnPpI/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "京都"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

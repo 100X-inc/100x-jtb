@@ -1,0 +1,37 @@
+{
+  "$id": "news_pa_hakone",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "test_kokunai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "箱根",
+      "link": "https://www.jtb.co.jp/news/list/index.html?tag\u003d箱根",
+      "linkType": "URL"
+    },
+    "c_news_PopularAreasImage": {
+      "alternateText": "箱根",
+      "height": 120,
+      "sourceUrl": "https://a.mktgcdn.com/p/1UROFH9Dk2LooNTm7-maFNBclufV_1UoiaXPMpJyqXc/308x120.png",
+      "thumbnails": [
+        {
+          "height": 120,
+          "url": "https://a.mktgcdn.com/p-sandbox/1UROFH9Dk2LooNTm7-maFNBclufV_1UoiaXPMpJyqXc/308x120.png",
+          "width": 308
+        },
+        {
+          "height": 76,
+          "url": "https://a.mktgcdn.com/p-sandbox/1UROFH9Dk2LooNTm7-maFNBclufV_1UoiaXPMpJyqXc/196x76.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/1UROFH9Dk2LooNTm7-maFNBclufV_1UoiaXPMpJyqXc/308x120.png",
+      "width": 308
+    },
+    "name": "箱根"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

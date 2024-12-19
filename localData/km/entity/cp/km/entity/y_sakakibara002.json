@@ -1,0 +1,192 @@
+{
+  "$id": "cp_y_sakakibara002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_Articles": [
+      "ap_y_sakakibara002_001",
+      "ap_y_sakakibara002_002"
+    ],
+    "c_cp_ArticlesSectionTitle": "このコンサルタントの投稿記事",
+    "c_cp_CTA1": {
+      "label": "さかきばら のリモート相談予約はこちらから",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVyk",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "コンサルタント一覧",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_cp_Description": "連休があれば旅行に行きたくなるくらいの旅行好きです。\n国内はあと2県で47都道府県制覇、海外は15か国への渡航経験があります。\n★2024年は国内(北海道/京都/伊勢/沖縄)、ホノルルへは3回渡航しました★\n海外専門部署に長く所属しておりましたので、航空券単品からパッケージ商品まで幅広いご案内が可能です。\nご興味のある旅行先がございましたら、国内外問わずお気軽にご相談くださいませ♪",
+    "c_cp_DisplayName": "さかきばら",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "ハネムーン",
+      "記念旅行",
+      "寺社・教会",
+      "動植物園・公園",
+      "テーマパーク",
+      "街あるき",
+      "ドライブ",
+      "飛行機",
+      "グルメ",
+      "カフェ",
+      "ご当地グルメ"
+    ],
+    "c_cp_HeroImage": {
+      "height": 762,
+      "sourceUrl": "https://a.mktgcdn.com/p/nK6sD2xIh7JYPauW3w378RNEQkUQNNRzQisJS7otlwk/1000x762.jpg",
+      "thumbnails": [
+        {
+          "height": 762,
+          "url": "https://a.mktgcdn.com/p-sandbox/nK6sD2xIh7JYPauW3w378RNEQkUQNNRzQisJS7otlwk/1000x762.jpg",
+          "width": 1000
+        },
+        {
+          "height": 472,
+          "url": "https://a.mktgcdn.com/p-sandbox/nK6sD2xIh7JYPauW3w378RNEQkUQNNRzQisJS7otlwk/619x472.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/nK6sD2xIh7JYPauW3w378RNEQkUQNNRzQisJS7otlwk/591x450.jpg",
+          "width": 591
+        },
+        {
+          "height": 149,
+          "url": "https://a.mktgcdn.com/p-sandbox/nK6sD2xIh7JYPauW3w378RNEQkUQNNRzQisJS7otlwk/196x149.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/nK6sD2xIh7JYPauW3w378RNEQkUQNNRzQisJS7otlwk/1000x762.jpg",
+      "width": 1000
+    },
+    "c_cp_HiraganaName": "さかきばら",
+    "c_cp_JobTitle": "JTBリモートコンシェルジュ トラベルコンサルタント",
+    "c_cp_OverseasExpert": {
+      "area1": {
+        "rank": "bronze"
+      }
+    },
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 2301,
+      "sourceUrl": "https://a.mktgcdn.com/p/AxU-RBIjXuD3yyFYzINTIxuB_RUnEGJCl5HchjXJVWk/2240x2301.jpg",
+      "thumbnails": [
+        {
+          "height": 2301,
+          "url": "https://a.mktgcdn.com/p-sandbox/3iFF4RbKPx0V55UkoR5bm4f058XEBN0dbDCCzgR4Xa4/2240x2301.jpg",
+          "width": 2240
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/3iFF4RbKPx0V55UkoR5bm4f058XEBN0dbDCCzgR4Xa4/1850x1900.jpg",
+          "width": 1850
+        },
+        {
+          "height": 636,
+          "url": "https://a.mktgcdn.com/p-sandbox/3iFF4RbKPx0V55UkoR5bm4f058XEBN0dbDCCzgR4Xa4/619x636.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/3iFF4RbKPx0V55UkoR5bm4f058XEBN0dbDCCzgR4Xa4/438x450.jpg",
+          "width": 438
+        },
+        {
+          "height": 201,
+          "url": "https://a.mktgcdn.com/p-sandbox/3iFF4RbKPx0V55UkoR5bm4f058XEBN0dbDCCzgR4Xa4/196x201.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/3iFF4RbKPx0V55UkoR5bm4f058XEBN0dbDCCzgR4Xa4/2240x2301.jpg",
+      "width": 2240
+    },
+    "c_cp_Point": "150",
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム",
+      "オーストラリア"
+    ],
+    "c_cp_StrongAbroadArea2": [
+      "アメリカ",
+      "カナダ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "イギリス",
+      "フランス",
+      "スペイン",
+      "イタリア",
+      "ドイツ"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "香港・マカオ",
+      "台湾",
+      "タイ",
+      "ベトナム",
+      "インドネシア・バリ島",
+      "フィリピン"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "千葉県",
+      "東京都"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "石川県",
+      "福井県",
+      "山梨県",
+      "長野県",
+      "岐阜県",
+      "静岡県",
+      "愛知県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "三重県",
+      "滋賀県",
+      "京都府",
+      "大阪府"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "四国全般",
+      "島根県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般"
+    ],
+    "c_cp_Tags": [
+      "海外渡航歴15か国以上(2024年ホノルル3回渡航)",
+      "ホノルル線A380(3機)に搭乗しました",
+      "ハワイエキスパート",
+      "ヨーロッパとカナダ鉄道の乗車経験あり",
+      "国内45都道府県制覇",
+      "テーマパーク"
+    ],
+    "c_cp_UpdateComments": "2024年はハワイ 3回行きました！",
+    "c_metaDescription": "「JTBリモートコンシェルジュ」は、オンラインでの旅行相談・申込の専門店です。知識豊富なスタッフがご希望の旅をご提案します。 オンライ相談の予約も承ります。",
+    "c_metaTitle": "JTBリモートコンシェルジュ ｜  さかきばら（榊原） ｜ リモートトラベルコンシェルジュ | オンライン旅行相談",
+    "c_news_NewsList": [
+      "news_ap_area_0000030",
+      "news_ap_a_sato260_008",
+      "news_ap_y_sakakibara002_001",
+      "news_ap_y_sakakibara002_002"
+    ],
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_y_sakakibara002",
+    "c_responsibleService": [
+      "リモートコンシェルジュ",
+      "海外専門デスクスタッフ"
+    ],
+    "name": "y_sakakibara002",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

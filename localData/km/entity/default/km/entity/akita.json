@@ -1,0 +1,65 @@
+{
+  "$id": "akita",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "tohoku"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_area_0000042",
+      "news_ap_h_takeuchi111_003",
+      "news_ap_chiki_100110",
+      "news_ap_chiki_100205",
+      "news_ap_chiki_100111",
+      "news_ap_chiki_100112",
+      "news_ap_area_0000041",
+      "news_ap_s_suzuki146_005",
+      "news_ap_s_hirota001_003",
+      "news_ap_a_muto106_004",
+      "news_ap_a_muto106_005",
+      "news_ap_area_0000043"
+    ],
+    "c_metaDescription": "秋田に関する記事をピックアップ！JTBニュースでは、秋田で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 秋田 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "秋田",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/eLAhqC8EOJpYnsseg8RaQ7-r0_SWnqJvqkb1UuTR2pQ/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/_drP3gdJ1bMfdQXW8rVLiQj18qJv9rypwGWjll1V-QU/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/_drP3gdJ1bMfdQXW8rVLiQj18qJv9rypwGWjll1V-QU/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/_drP3gdJ1bMfdQXW8rVLiQj18qJv9rypwGWjll1V-QU/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/_drP3gdJ1bMfdQXW8rVLiQj18qJv9rypwGWjll1V-QU/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/_drP3gdJ1bMfdQXW8rVLiQj18qJv9rypwGWjll1V-QU/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/_drP3gdJ1bMfdQXW8rVLiQj18qJv9rypwGWjll1V-QU/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "秋田",
+    "slug": "kokunai/tohoku/akita"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "ニュース記事",
+  "labels": []
+}

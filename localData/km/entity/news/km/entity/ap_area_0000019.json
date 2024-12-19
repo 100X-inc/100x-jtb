@@ -1,0 +1,360 @@
+{
+  "$id": "news_ap_area_0000019",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "【長野県】豊かな自然が魅力的な長野の見どころ5エリアをご紹介！",
+      "height": 408,
+      "sourceUrl": "http://a.mktgcdn.com/p/jJzMjRyrVgvqzWUSyVDKMBfDwwnwr7xH5XmXhS0n6n4/612x408.jpg",
+      "thumbnails": [
+        {
+          "height": 408,
+          "url": "//a.mktgcdn.com/p-sandbox/UY34r8_s7J2hMkoKjHphQKoGEGSOqqAuBnBNEXJ8VdI/612x408.jpg",
+          "width": 612
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/UY34r8_s7J2hMkoKjHphQKoGEGSOqqAuBnBNEXJ8VdI/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/UY34r8_s7J2hMkoKjHphQKoGEGSOqqAuBnBNEXJ8VdI/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/UY34r8_s7J2hMkoKjHphQKoGEGSOqqAuBnBNEXJ8VdI/612x408.jpg",
+      "width": 612
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "長野旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/nagano/"
+      },
+      {
+        "linkText": "長野のホテル・旅館・宿おすすめランキング",
+        "uRL": "https://www.jtb.co.jp/ranking/kokunai/nagano/"
+      },
+      {
+        "linkText": "長野のJRツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_jr/a/nagano/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "長野県は、なんといっても豊かな自然が魅力的なエリアです。避暑地として名高い「軽井沢」に、高原リゾートとして人気を集めている「清里・諏訪」。北アルプスの雄大な自然を満喫できる「安曇野・白馬」など、どのエリアも自然の中でリフレッシュできるエリアばかりです。また、長野は歴史スポットも豊富で、「長野・戸隠」「松本・上河内・乗鞍」など、歴史好きにはたまらないエリアもあります。多彩な魅力がある長野の、主要エリアをご紹介します！",
+    "c_ap_Tags": [
+      "温泉",
+      "観光スポット",
+      "自然",
+      "軽井沢",
+      "清里",
+      "安曇野",
+      "松本",
+      "リモートコンシェルジュ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "ファミリー",
+      "自然・山",
+      "寺社・教会",
+      "街あるき"
+    ],
+    "c_ap_Title": "長野の観光見どころ5エリアを紹介！豊かな自然が魅力",
+    "c_linkedArea3News": [
+      "nagano"
+    ],
+    "c_metaDescription": "豊かな自然が魅力の長野。避暑地として名高い「軽井沢」「清里・諏訪」や北アルプスの雄大な自然を満喫できる「安曇野・白馬」など、どのエリアも自然の中でリフレッシュできるエリアばかり。「長野・戸隠」「松本・上河内・乗鞍」など、歴史好きに人気のエリアも。多彩な魅力がある長野の、主要エリアをご紹介します！",
+    "c_metaTitle": "長野の観光見どころ5エリアを紹介！豊かな自然が魅力",
+    "c_news_CTAs": [
+      {
+        "label": "この記事の投稿店舗にリモート相談予約をする",
+        "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+        "linkType": "URL"
+      },
+      {
+        "label": "長野の旅行・ツアー情報をみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/nagano/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "長野の観光スポットをもっとみる",
+        "link": "https://www.jtb.co.jp/kokunai-guide/list/index.html?area\u003d20\u0026feature\u003d0\u0026genre\u003d000",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "軽井沢のおすすめホテルをみる",
+          "link": "https://www.jtb.co.jp/ranking/kokunai/karuizawa/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "軽井沢ホテルロンギングハウスの魅力",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/koshinetsu/nagano/news_ap_chiki_100099",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "旧軽井沢銀座通りの楽しみ方をみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/koshinetsu/nagano/news_ap_area_0000021",
+          "linkType": "OTHER"
+        },
+        "cTA4": {
+          "label": "軽井沢の王道モデルコースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/koshinetsu/nagano/news_ap_area_0000020",
+          "linkType": "OTHER"
+        },
+        "description": "グルメからショッピングまで多彩に楽しめる、人気の避暑地軽井沢。古くから避暑地として知られていたこのエリアは、植物園や、美術館や文学館が点在しているほか、自然豊かなエリアでもあります。四季折々の自然の表情も美しく、夏だけでなく様々なタイミングで訪れてみたくなるエリア。",
+        "image": {
+          "alternateText": "見事な水鏡が楽しめる雲場池",
+          "height": 744,
+          "sourceUrl": "https://a.mktgcdn.com/p/xxM5EzL80YSJhKdY4dEKfoC0W-QYnsi9PPpUhVGOXwE/1116x744.jpg",
+          "thumbnails": [
+            {
+              "height": 744,
+              "url": "https://a.mktgcdn.com/p-sandbox/AoH0pOdX15ceRbBPWx1Rwb9MuLzU46DXAJi5H3F48jI/1116x744.jpg",
+              "width": 1116
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/AoH0pOdX15ceRbBPWx1Rwb9MuLzU46DXAJi5H3F48jI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/AoH0pOdX15ceRbBPWx1Rwb9MuLzU46DXAJi5H3F48jI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/AoH0pOdX15ceRbBPWx1Rwb9MuLzU46DXAJi5H3F48jI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AoH0pOdX15ceRbBPWx1Rwb9MuLzU46DXAJi5H3F48jI/1116x744.jpg",
+          "width": 1116
+        },
+        "imageCaption": "見事な水鏡が楽しめる雲場池",
+        "sectionLevel": "h2",
+        "sectionTitle": "【軽井沢】歴史ある憧れの避暑地"
+      },
+      {
+        "cTA1": {
+          "label": "清泉寮をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5103551/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "清里高原旅の魅力をチェック",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/koshinetsu/yamanashi/news_ap_chiki_100003",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "戸隠神社をみる",
+          "link": "https://www.jtb.co.jp/kokunai-guide/detail/index.html?spotID\u003d80018620",
+          "linkType": "OTHER"
+        },
+        "description": "八ヶ岳の山麓に広がる清里エリア。高原の豊かな自然が楽しめるのはもちろんのこと、古くから清里のシンボル的なスポットである清泉寮や、絶景が楽しめる清里テラスなど注目のスポットが多数点在するエリアです。諏訪エリアには信州最大の湖、諏訪湖があり、絶景や温泉が楽しめることで人気です。",
+        "image": {
+          "alternateText": "牧場グルメも楽しめる清泉寮",
+          "height": 1288,
+          "sourceUrl": "https://a.mktgcdn.com/p/HNmrcpToMnCfLZT0pvST4cE72mHDlUpa0sat1ZeJrm8/1924x1288.jpg",
+          "thumbnails": [
+            {
+              "height": 1288,
+              "url": "https://a.mktgcdn.com/p-sandbox/NJRBj40UeVAx1WAbEiHOkns84hHLJzjh_dzjttVMNb8/1924x1288.jpg",
+              "width": 1924
+            },
+            {
+              "height": 1272,
+              "url": "https://a.mktgcdn.com/p-sandbox/NJRBj40UeVAx1WAbEiHOkns84hHLJzjh_dzjttVMNb8/1900x1272.jpg",
+              "width": 1900
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/NJRBj40UeVAx1WAbEiHOkns84hHLJzjh_dzjttVMNb8/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 402,
+              "url": "https://a.mktgcdn.com/p-sandbox/NJRBj40UeVAx1WAbEiHOkns84hHLJzjh_dzjttVMNb8/600x402.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/NJRBj40UeVAx1WAbEiHOkns84hHLJzjh_dzjttVMNb8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NJRBj40UeVAx1WAbEiHOkns84hHLJzjh_dzjttVMNb8/1924x1288.jpg",
+          "width": 1924
+        },
+        "imageCaption": "牧場グルメも楽しめる清泉寮",
+        "sectionLevel": "h2",
+        "sectionTitle": "【清里・諏訪】高原の自然を満喫"
+      },
+      {
+        "cTA1": {
+          "label": "諏訪湖周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/A2702440/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "戸隠のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/200105/",
+          "linkType": "OTHER"
+        },
+        "description": "無宗派の名刹善光寺と、2000年以上の歴史を誇る戸隠神社は一生に一度は訪れたい2大聖地。信仰の2大聖地であり、歴史あるスポットでもあるこの2つ以外にも、志賀高原の湿地帯や野沢温泉等様々な見どころを持ったエリアです。",
+        "image": {
+          "alternateText": "戸隠神社は荘厳な佇まい",
+          "height": 324,
+          "sourceUrl": "https://a.mktgcdn.com/p/BbSSINrIwlkK36OBoVthMOspVbxYttmLayNIF0rtJVc/487x324.jpg",
+          "thumbnails": [
+            {
+              "height": 324,
+              "url": "https://a.mktgcdn.com/p-sandbox/ttRhyeZt1yGO-9UgWSl-wOEwUVjtS-CCKha0GKUnNQQ/487x324.jpg",
+              "width": 487
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/ttRhyeZt1yGO-9UgWSl-wOEwUVjtS-CCKha0GKUnNQQ/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ttRhyeZt1yGO-9UgWSl-wOEwUVjtS-CCKha0GKUnNQQ/487x324.jpg",
+          "width": 487
+        },
+        "imageCaption": "戸隠神社は荘厳な佇まい",
+        "sectionLevel": "h2",
+        "sectionTitle": "【長野・戸隠】信仰の2大聖地"
+      },
+      {
+        "cTA1": {
+          "label": "安曇野・白馬のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/2006/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "白馬岩岳マウンテンリゾートの山頂テラスをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/koshinetsu/nagano/news_ap_store_00002",
+          "linkType": "OTHER"
+        },
+        "description": "のどかな田園地帯が広がる安曇野は、目の前に北アルプスが広がる、自然の雄大さが感じられるエリア。また、スキーリゾートとして有名な白馬は、冬にスノースポーツが楽しめるだけでなく、夏にも大自然を体験であるアクティビティがずらり。季節を選ばず自然の中でアクティブな旅が楽しみたいなら、おすすめのエリアです。",
+        "image": {
+          "alternateText": "雄大な自然に圧倒される",
+          "height": 1872,
+          "sourceUrl": "https://a.mktgcdn.com/p/AC6kNPvM2JAOfqHuhAl8rHvR04ROHgtY8MlGqRhHrI0/2808x1872.jpg",
+          "thumbnails": [
+            {
+              "height": 1872,
+              "url": "https://a.mktgcdn.com/p-sandbox/HWO67QQEtpqACCNXy3q9Hv8pTDrwGxMPbxtZBTRECmE/2808x1872.jpg",
+              "width": 2808
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/HWO67QQEtpqACCNXy3q9Hv8pTDrwGxMPbxtZBTRECmE/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/HWO67QQEtpqACCNXy3q9Hv8pTDrwGxMPbxtZBTRECmE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/HWO67QQEtpqACCNXy3q9Hv8pTDrwGxMPbxtZBTRECmE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/HWO67QQEtpqACCNXy3q9Hv8pTDrwGxMPbxtZBTRECmE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HWO67QQEtpqACCNXy3q9Hv8pTDrwGxMPbxtZBTRECmE/2808x1872.jpg",
+          "width": 2808
+        },
+        "imageCaption": "雄大な自然に圧倒される",
+        "sectionLevel": "h2",
+        "sectionTitle": "【安曇野・白馬】北アルプスの雄大な自然"
+      },
+      {
+        "cTA1": {
+          "label": "松本・上河内のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/2002/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "乗鞍周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/A2402560/",
+          "linkType": "OTHER"
+        },
+        "description": "松本エリアは、何といっても国宝・松本城がある、歴史ロマンが感じられるエリア。国宝に選ばれている城は日本でも数少なく、そのひとつである松本城は見逃せません。また、少し足をのばせば、上高地や乗鞍岳でのハイキング、白骨温泉や飛騨温泉郷での湯めぐりなど、様々な楽しみ方ができるのも魅力です。",
+        "image": {
+          "alternateText": "上河内随一の絶景ポイント・河童橋",
+          "height": 1102,
+          "sourceUrl": "https://a.mktgcdn.com/p/rCR62a_xzqF6Cjpw43LZVakkgZp46_JGAMoWdCms-TE/1652x1102.jpg",
+          "thumbnails": [
+            {
+              "height": 1102,
+              "url": "https://a.mktgcdn.com/p-sandbox/nKegKz5yswpukkrYXI0JT8FzPuntt0Gmn3xbhtJ6-UU/1652x1102.jpg",
+              "width": 1652
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/nKegKz5yswpukkrYXI0JT8FzPuntt0Gmn3xbhtJ6-UU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/nKegKz5yswpukkrYXI0JT8FzPuntt0Gmn3xbhtJ6-UU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/nKegKz5yswpukkrYXI0JT8FzPuntt0Gmn3xbhtJ6-UU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nKegKz5yswpukkrYXI0JT8FzPuntt0Gmn3xbhtJ6-UU/1652x1102.jpg",
+          "width": 1652
+        },
+        "imageCaption": "上河内随一の絶景ポイント・河童橋",
+        "sectionLevel": "h2",
+        "sectionTitle": "【松本・上河内・乗鞍】歴史ロマンあふれる城下町"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_store_00002",
+      "news_ap_area_0000020",
+      "news_ap_area_0000021",
+      "news_ap_y_ishihara225_005"
+    ],
+    "c_news_FeaturedArticlesTitle": "長野県のその他の記事",
+    "c_news_PublicationDate": "2022-09-09",
+    "c_news_UpdateDate": "2024-06-27",
+    "c_news_ViewCount": "767",
+    "c_news_ViewCount1of2": "8",
+    "c_news_ViewCount2of2": "767",
+    "c_news_ViewCountNum": "767",
+    "c_news_ViewCountNumForSorting": "26",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/koshinetsu/nagano/news_ap_area_0000019",
+    "name": "長野の観光見どころ5エリアを紹介！豊かな自然が魅力",
+    "slug": "kokunai/koshinetsu/nagano/news_ap_area_0000019",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "リモコン記事"
+  ]
+}

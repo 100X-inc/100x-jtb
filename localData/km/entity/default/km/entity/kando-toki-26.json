@@ -1,0 +1,39 @@
+{
+  "$id": "kando-toki-26",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/26_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.732755%2C144.524009",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "海・湖・川・滝",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "斜里川上流にある高さ約3.7mの「さくらの滝」では、毎年約3000匹のサクラマスの遡上を見ることができます。川で生まれたヤマメ（北海道では“ヤマベ”と呼ぶ）は海に下り、やがて大きく成長するとサクラマスとなり、産卵のために川に戻ってきます。そして銀色に輝く体をくねらせながら大きく滝を飛び越え、生まれ育った故郷の川に帰るのですが、大きな滝を飛び越えることができるのはほんのわずかしかいません。けれど幅広い川の中、泡立つ水の流れに逆らってサクラマスが滝つぼからジャンプする姿は、生命の力強さにあふれています。6月のはじめには銀色だった魚の色が、8月の産卵時期が近付く頃には桜色がかった体色に変化する様子も見所です。なお、マスは通年禁漁なので、釣りをすることは禁止されています。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/26.asp",
+    "name": "斜里川上流さくらの滝 サクラマスの遡上"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

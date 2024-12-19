@@ -1,0 +1,69 @@
+{
+  "$id": "cp_21181013",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "滋賀県",
+    "c_cp_CTA1": {
+      "label": "澤辺 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVNgxq",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVe9xc",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "\u003cfont color\u003d\"red\"\u003eディズニーのご旅行はお任せください！\u003c/font\u003e\n\nテーマパークが得意ではございますが、それ以外にもお客様のご要望に合わせた提案をさせて頂きます。お気軽にお問い合わせくださいませ。",
+    "c_cp_DisplayName": "澤辺",
+    "c_cp_FieldOfExpertise": [
+      "テーマパーク"
+    ],
+    "c_cp_JobTitle": "JTBイオンモール草津店　トラベルコンサルタント",
+    "c_cp_OverseasExpert": {
+      "area7": {
+        "rank": "bronze"
+      }
+    },
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 125,
+      "sourceUrl": "https://a.mktgcdn.com/p/NwRvYCLCpC9aj2VafGccrLAR8i-acGCqhVb-KUYfrwk/200x125.jpg",
+      "thumbnails": [
+        {
+          "height": 125,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ac9R9ZxLog8ijbsCiK-nadxGWlJQEp0GejWvWhj-Huo/200x125.jpg",
+          "width": 200
+        },
+        {
+          "height": 123,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ac9R9ZxLog8ijbsCiK-nadxGWlJQEp0GejWvWhj-Huo/196x123.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Ac9R9ZxLog8ijbsCiK-nadxGWlJQEp0GejWvWhj-Huo/200x125.jpg",
+      "width": 200
+    },
+    "c_cp_Point": "1099",
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "東京都"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 澤辺",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 澤辺",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21181013",
+    "c_responsibleService": [
+      "海外専門デスクスタッフ",
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10294_イオンモール草津店",
+    "name": "さわべ ゆき_21181013",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

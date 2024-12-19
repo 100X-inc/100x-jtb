@@ -1,0 +1,48 @@
+{
+  "$id": "news_pa_atami",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kokunai",
+      "test_kokunai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "東京",
+      "link": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo",
+      "linkType": "URL"
+    },
+    "c_news_PopularAreasImage": {
+      "alternateText": "東京",
+      "height": 430,
+      "sourceUrl": "https://a.mktgcdn.com/p/Oovwy80wtfxZjSz0-l4zOFbvuzvhm2RMpnL5C4-8-bU/640x430.jpg",
+      "thumbnails": [
+        {
+          "height": 430,
+          "url": "https://a.mktgcdn.com/p-sandbox/Oovwy80wtfxZjSz0-l4zOFbvuzvhm2RMpnL5C4-8-bU/640x430.jpg",
+          "width": 640
+        },
+        {
+          "height": 416,
+          "url": "https://a.mktgcdn.com/p-sandbox/Oovwy80wtfxZjSz0-l4zOFbvuzvhm2RMpnL5C4-8-bU/619x416.jpg",
+          "width": 619
+        },
+        {
+          "height": 403,
+          "url": "https://a.mktgcdn.com/p-sandbox/Oovwy80wtfxZjSz0-l4zOFbvuzvhm2RMpnL5C4-8-bU/600x403.jpg",
+          "width": 600
+        },
+        {
+          "height": 132,
+          "url": "https://a.mktgcdn.com/p-sandbox/Oovwy80wtfxZjSz0-l4zOFbvuzvhm2RMpnL5C4-8-bU/196x132.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Oovwy80wtfxZjSz0-l4zOFbvuzvhm2RMpnL5C4-8-bU/640x430.jpg",
+      "width": 640
+    },
+    "name": "東京"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

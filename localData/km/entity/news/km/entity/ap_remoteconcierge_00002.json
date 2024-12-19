@@ -1,0 +1,253 @@
+{
+  "$id": "news_ap_remoteconcierge_00002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_HeroImage": {
+      "height": 969,
+      "sourceUrl": "http://a.mktgcdn.com/p/yqpFwdKKPSRm6Q70b9LutuY7H-6yWaJXJ-UA9RWk9FE/1200x969.jpg",
+      "thumbnails": [
+        {
+          "height": 969,
+          "url": "//a.mktgcdn.com/p-sandbox/Axtc3dQXxAPPwPFleTQn-axPhRMtGmAFfXk6nd2fHYY/1200x969.jpg",
+          "width": 1200
+        },
+        {
+          "height": 500,
+          "url": "//a.mktgcdn.com/p-sandbox/Axtc3dQXxAPPwPFleTQn-axPhRMtGmAFfXk6nd2fHYY/619x500.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "//a.mktgcdn.com/p-sandbox/Axtc3dQXxAPPwPFleTQn-axPhRMtGmAFfXk6nd2fHYY/557x450.jpg",
+          "width": 557
+        },
+        {
+          "height": 158,
+          "url": "//a.mktgcdn.com/p-sandbox/Axtc3dQXxAPPwPFleTQn-axPhRMtGmAFfXk6nd2fHYY/196x158.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/Axtc3dQXxAPPwPFleTQn-axPhRMtGmAFfXk6nd2fHYY/1200x969.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "文人に愛された宿で草津の湯を堪能",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "群馬旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/gunma/"
+      },
+      {
+        "linkText": "群馬県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/gunma/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "日本を代表する温泉地のひとつ、草津温泉。この草津に、慶長4年（1599）に創業した歴史深い宿が「草津温泉 望雲」です。俳人でもあった宿の七代目と親交があった小林一茶や、弥次喜多でおなじみの十返舎一九、新しいところでは高村光太郎夫妻や斎藤茂吉など、数々の文人たちがこの宿に逗留し、草津の湯を楽しんだという記録が残っています。\n明るく清潔感がある館内には、フラワーアーティストが手がけた生け花が随所に飾られ、華やかな空間を作り出しています。夕食は部屋食、または個室食事処で。プライベートな空間で美食をじっくりと楽しめます。2つの源泉から引く湯はもちろんかけ流し。名湯草津の湯とともに、大人の贅沢時間を味わえます。",
+    "c_ap_Tags": [
+      "温泉",
+      "草津温泉",
+      "老舗",
+      "源泉かけ流し",
+      "露天風呂",
+      "リモートコンシェルジュ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "夫婦旅",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "慶長4年創業、数々の文人に愛された老舗旅館【群馬県　草津温泉 望雲】",
+    "c_linkedArea3News": [
+      "gunma"
+    ],
+    "c_metaDescription": "日本を代表する温泉地のひとつ、草津温泉。この草津に、慶長4年（1599）に創業した歴史深い宿が「草津温泉 望雲」です。俳人でもあった宿の七代目と親交があった小林一茶や、弥次喜多でおなじみの十返舎一九、新しいと…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "慶長4年創業、数々の文人に愛された老舗旅館【群馬県　草津温泉 望雲】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "この記事の投稿店舗にリモート相談予約をする",
+        "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "自慢の温泉は、「西の河原源泉」と「万代鉱源泉」という2つの源泉から引湯しています。「西の河原源泉」はあたりがやわらかく、肌になじみやすい湯。「万代鉱源泉」は本白根山の奥深くで噴出している温泉で、高温でパワフルな泉質が特徴です。これらの源泉を露天風呂も含めて6つ湯船に引いていますが、なかでも「遊山の湯（ゆさんのゆ）」では、それぞれの湯を引いた湯船が2つ並んでいるので、湯の味わいを比べることができます。かけ流しの天然温泉を存分に堪能してください。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/jfjOcgzgToeHMgwGj2jae52l1unmLWXPKJE8h6OU_9U/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/UEur9TCKCQ0hKLavnn4HbCmLqy4Z5DbnUmfaUhkysP0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/UEur9TCKCQ0hKLavnn4HbCmLqy4Z5DbnUmfaUhkysP0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/UEur9TCKCQ0hKLavnn4HbCmLqy4Z5DbnUmfaUhkysP0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/UEur9TCKCQ0hKLavnn4HbCmLqy4Z5DbnUmfaUhkysP0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/UEur9TCKCQ0hKLavnn4HbCmLqy4Z5DbnUmfaUhkysP0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「万代の湯」の露天風呂。冬には雪見風呂を楽しむことも",
+        "sectionTitle": "6つの湯船に2つの源泉。天然温泉を心ゆくまで楽しむ"
+      },
+      {
+        "description": "本館と雲松庵にあるお部屋は、落ち着いた佇まいの和室が中心です。広縁の外に、花で彩られる自慢の庭園を望む部屋もあり、ゆったりとした気分で滞在を楽しめます。雲松庵には、洋室や和洋室もあります。より優雅に過ごしたいなら、西の河原源泉を引いた、天然温泉かけ流しの露天風呂付のお部屋がおすすめです。誰にも邪魔されずに湯浴みをお楽しみください。",
+        "image": {
+          "height": 966,
+          "sourceUrl": "http://a.mktgcdn.com/p/00OverjVIpAteHyeezvFleApyMS-MoJJq01sgzT5P4Q/1200x966.jpg",
+          "thumbnails": [
+            {
+              "height": 966,
+              "url": "//a.mktgcdn.com/p-sandbox/6vuEXORDOkdjuVSrSG9mw3ybid_K4fEGzLULHXUgUqU/1200x966.jpg",
+              "width": 1200
+            },
+            {
+              "height": 498,
+              "url": "//a.mktgcdn.com/p-sandbox/6vuEXORDOkdjuVSrSG9mw3ybid_K4fEGzLULHXUgUqU/619x498.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/6vuEXORDOkdjuVSrSG9mw3ybid_K4fEGzLULHXUgUqU/559x450.jpg",
+              "width": 559
+            },
+            {
+              "height": 158,
+              "url": "//a.mktgcdn.com/p-sandbox/6vuEXORDOkdjuVSrSG9mw3ybid_K4fEGzLULHXUgUqU/196x158.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/6vuEXORDOkdjuVSrSG9mw3ybid_K4fEGzLULHXUgUqU/1200x966.jpg",
+          "width": 1200
+        },
+        "imageCaption": "本館の「次の間付客室」",
+        "sectionTitle": "本館と雲松庵。老舗の宿で和の風情を楽しむ"
+      },
+      {
+        "description": "女性に人気なのが、常時100種類ほどから選べる色浴衣のサービスです。華やかな色合いのものから、シックで落ち着いたものまで、様々な色柄のなかからお気に入りの1枚を見つけてみてください。宿から草津温泉の中心「湯畑」までは歩いて5分ほど。お気に入りの色浴衣を着て、温泉街に出かけてみてはいかがでしょうか。",
+        "image": {
+          "height": 968,
+          "sourceUrl": "http://a.mktgcdn.com/p/jswjtqJdbzEREKWWZGynxBvIKcpQBlhQUAxK6C-TWm8/1200x968.jpg",
+          "thumbnails": [
+            {
+              "height": 968,
+              "url": "//a.mktgcdn.com/p-sandbox/wYsuAnLLrCWoDX6oqggTFh68HdHUcBBeYeDB_7AAik4/1200x968.jpg",
+              "width": 1200
+            },
+            {
+              "height": 499,
+              "url": "//a.mktgcdn.com/p-sandbox/wYsuAnLLrCWoDX6oqggTFh68HdHUcBBeYeDB_7AAik4/619x499.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/wYsuAnLLrCWoDX6oqggTFh68HdHUcBBeYeDB_7AAik4/558x450.jpg",
+              "width": 558
+            },
+            {
+              "height": 158,
+              "url": "//a.mktgcdn.com/p-sandbox/wYsuAnLLrCWoDX6oqggTFh68HdHUcBBeYeDB_7AAik4/196x158.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/wYsuAnLLrCWoDX6oqggTFh68HdHUcBBeYeDB_7AAik4/1200x968.jpg",
+          "width": 1200
+        },
+        "imageCaption": "色浴衣を着て華やかな気分に",
+        "sectionTitle": "お気に入りの色浴衣で温泉街をそぞろ歩く"
+      },
+      {
+        "description": "見た目も華やかな夕食は、地元の特産物などを使った会席料理です。3～4回に分けて運ばれてくる心のこもったお料理の数々に、会話も弾むことでしょう。別注料理をいろいろ選べるほか、飲み物も豊富。ケーキやフラワーアレンジメントの用意もしてくれるので、お祝いの旅にもおすすめです。早めに予約してくださいね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/WgKxPzv0r99MAgcYSDY_TmmTQgabuPxkEFg5UmL2jrM/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/LlKZp9XMpD86cxLUTBNTrd4hG27Ysbfeb8uS_zgSdlo/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/LlKZp9XMpD86cxLUTBNTrd4hG27Ysbfeb8uS_zgSdlo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/LlKZp9XMpD86cxLUTBNTrd4hG27Ysbfeb8uS_zgSdlo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/LlKZp9XMpD86cxLUTBNTrd4hG27Ysbfeb8uS_zgSdlo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/LlKZp9XMpD86cxLUTBNTrd4hG27Ysbfeb8uS_zgSdlo/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "夕食の一例",
+        "sectionTitle": "心のこもった会席料理で旬の素材を満喫"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_chiki_100118",
+      "news_ap_chiki_100001",
+      "news_ap_chiki_100119",
+      "news_ap_y_ichikawa501_009",
+      "news_ap_remoteconcierge_00003",
+      "news_ap_m_omatsu513_001",
+      "news_ap_y_ishihara225_023",
+      "news_ap_remoteconcierge_00001"
+    ],
+    "c_news_FeaturedArticlesTitle": "群馬県のその他の記事",
+    "c_news_PublicationDate": "2023-06-02",
+    "c_news_UpdateDate": "2023-06-02",
+    "c_news_ViewCount": "119",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "119",
+    "c_news_ViewCountNum": "119",
+    "c_news_ViewCountNumForSorting": "4",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kanto/gunma/news_ap_remoteconcierge_00002",
+    "name": "慶長4年創業、数々の文人に愛された老舗旅館【群馬県　草津温泉 望雲】",
+    "slug": "kokunai/kanto/gunma/news_ap_remoteconcierge_00002",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "リモコン記事"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "test_others",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea01": [
+      "test_area_root"
+    ],
+    "c_metaDescription": "テストその他に関する記事をピックアップ！JTBニュースでは、テストその他で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | テストその他 | 旅行・おでかけ情報",
+    "name": "テストその他",
+    "slug": "test_others"
+  },
+  "entityType": "ce_areaLevel1",
+  "folder": "level1",
+  "labels": []
+}

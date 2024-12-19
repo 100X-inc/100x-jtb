@@ -1,0 +1,54 @@
+{
+  "$id": "cp_16017602",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "大阪府",
+    "c_cp_CTA1": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBkBq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "高槻店を宜しくお願い致します。",
+    "c_cp_DisplayName": "店長 椿 悦子",
+    "c_cp_HiraganaName": "つばき えつこ",
+    "c_cp_JobTitle": "JTB高槻店 店長",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/NJLou2wKdTxNDNM_OPS3xvFsDM28PMcFDZfiY_JVgUI/600x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/NJLou2wKdTxNDNM_OPS3xvFsDM28PMcFDZfiY_JVgUI/600x800.jpg",
+          "width": 600
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/NJLou2wKdTxNDNM_OPS3xvFsDM28PMcFDZfiY_JVgUI/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/NJLou2wKdTxNDNM_OPS3xvFsDM28PMcFDZfiY_JVgUI/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/NJLou2wKdTxNDNM_OPS3xvFsDM28PMcFDZfiY_JVgUI/600x800.jpg",
+      "width": 600
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント | 店長 椿 悦子",
+    "c_metaTitle": "JTBトラベルコンサルタント | 店長 椿 悦子",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_16017602",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2024/03/31　JBX対応（リテール外転出）",
+    "name": "つばき えつこ_16017602",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

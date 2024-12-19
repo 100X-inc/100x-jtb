@@ -1,0 +1,465 @@
+{
+  "$id": "ap_osarea_0000140",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "タモンの最高立地に位置するリゾートホテルが2020年にリブランド。繁華街の中心＆ビーチの目の前という絶好のロケーションに加え、南国ムードあふれる屋外プールや洗練されたゲストルーム、充実のレストランで早くも人気を博しています。",
+        "image": {
+          "alternateText": "キッズプールも擁する屋外プール",
+          "height": 1758,
+          "sourceUrl": "https://a.mktgcdn.com/p/nfEVjz6AiJU0SIv4H6A0quy40K7wzCxuzUmwE3zhI9Q/2505x1758.jpg",
+          "thumbnails": [
+            {
+              "height": 1758,
+              "url": "https://a.mktgcdn.com/p-sandbox/UgYVcS8AVjeIBbJfE8onStX4CKPNKsBLRKdIhX0hdPs/2505x1758.jpg",
+              "width": 2505
+            },
+            {
+              "height": 1333,
+              "url": "https://a.mktgcdn.com/p-sandbox/UgYVcS8AVjeIBbJfE8onStX4CKPNKsBLRKdIhX0hdPs/1900x1333.jpg",
+              "width": 1900
+            },
+            {
+              "height": 434,
+              "url": "https://a.mktgcdn.com/p-sandbox/UgYVcS8AVjeIBbJfE8onStX4CKPNKsBLRKdIhX0hdPs/619x434.jpg",
+              "width": 619
+            },
+            {
+              "height": 421,
+              "url": "https://a.mktgcdn.com/p-sandbox/UgYVcS8AVjeIBbJfE8onStX4CKPNKsBLRKdIhX0hdPs/600x421.jpg",
+              "width": 600
+            },
+            {
+              "height": 138,
+              "url": "https://a.mktgcdn.com/p-sandbox/UgYVcS8AVjeIBbJfE8onStX4CKPNKsBLRKdIhX0hdPs/196x138.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/UgYVcS8AVjeIBbJfE8onStX4CKPNKsBLRKdIhX0hdPs/2505x1758.jpg",
+          "width": 2505
+        },
+        "imageCaption": "キッズプールも擁する屋外プール",
+        "sectionTitle": "デュシット ビーチリゾートグアム（Dusit Beach Resort Guam）"
+      },
+      {
+        "description": "隣接する同系列ホテル「デュシタニ グアム リゾート」と自由に行き来ができるというのも人気の秘密。プール施設の利用はもちろん、レストランやショップ、スパ利用時のルームチャージも可能です。全室改装されたゲストルームは、木目のフローリングやナチュラルなカラーリングが特徴で、窓の外の青い海を引き立たせています。Dusit Beach Resort Guam DATA住所：1255 Pale San Vitores Rd.客室数：604室",
+        "image": {
+          "alternateText": "バルコニー付きのデラックスオーシャンフロント",
+          "height": 2632,
+          "sourceUrl": "https://a.mktgcdn.com/p/IgLjjXbTBdeEOQvvq4gBzaGsDplGtnxkNZ_baaXEQPw/4340x2632.jpg",
+          "thumbnails": [
+            {
+              "height": 2632,
+              "url": "https://a.mktgcdn.com/p-sandbox/RfVGJDQ4RJCamEQhaQylOD7OkKVI0CdZ5THhnjDJyS0/4340x2632.jpg",
+              "width": 4340
+            },
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/RfVGJDQ4RJCamEQhaQylOD7OkKVI0CdZ5THhnjDJyS0/1900x1152.jpg",
+              "width": 1900
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/RfVGJDQ4RJCamEQhaQylOD7OkKVI0CdZ5THhnjDJyS0/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 364,
+              "url": "https://a.mktgcdn.com/p-sandbox/RfVGJDQ4RJCamEQhaQylOD7OkKVI0CdZ5THhnjDJyS0/600x364.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/RfVGJDQ4RJCamEQhaQylOD7OkKVI0CdZ5THhnjDJyS0/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RfVGJDQ4RJCamEQhaQylOD7OkKVI0CdZ5THhnjDJyS0/4340x2632.jpg",
+          "width": 4340
+        },
+        "imageCaption": "バルコニー付きのデラックスオーシャンフロント",
+        "sectionTitle": "クラウンプラザリゾートグアム（Crowne Plaza Resort Guam）"
+      },
+      {
+        "description": "「グアムで最もビーチに近い」と称されるビーチフロントのリゾートホテル。目の前に広がるマタパン・ビーチは、グアムの中心街であるタモン屈指の美しさを誇ります。スノーケリングをはじめとするビーチアクティビティが多彩で、のんびり派もアクティブ派も満足できること間違いなしの立地です。",
+        "image": {
+          "alternateText": "高層階のプレミアムオーシャンフロント",
+          "height": 3584,
+          "sourceUrl": "https://a.mktgcdn.com/p/zeZyC21lYHwptNhEItIEA6LnP3C65pFYc2i2tqY2W6E/5376x3584.jpg",
+          "thumbnails": [
+            {
+              "height": 3584,
+              "url": "https://a.mktgcdn.com/p-sandbox/rKs8E9BfVJzdGEG-B-xdUsvMUYfP6CfykLtrCv2lMAo/5376x3584.jpg",
+              "width": 5376
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/rKs8E9BfVJzdGEG-B-xdUsvMUYfP6CfykLtrCv2lMAo/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/rKs8E9BfVJzdGEG-B-xdUsvMUYfP6CfykLtrCv2lMAo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/rKs8E9BfVJzdGEG-B-xdUsvMUYfP6CfykLtrCv2lMAo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/rKs8E9BfVJzdGEG-B-xdUsvMUYfP6CfykLtrCv2lMAo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rKs8E9BfVJzdGEG-B-xdUsvMUYfP6CfykLtrCv2lMAo/5376x3584.jpg",
+          "width": 5376
+        },
+        "imageCaption": "高層階のプレミアムオーシャンフロント",
+        "sectionTitle": "リーガロイヤル・ラグーナ・グアム・リゾート（RIHGA Royal Laguna Guam Resort）"
+      },
+      {
+        "description": "2023年に大改装を経てリブランドオープンしたばかりで、ゲストルームをはじめとする館内は最新設備を備えたモダンな空間へと生まれ変わっています。ラグジュアリーなインフィニティプールや5軒あるレストラン＆バーなど、多彩なファシリティでおこもり滞在を満喫できます。Crowne Plaza Resort Guam DATA住所：801 Pale San Vitores Rd.客室数： 421室",
+        "image": {
+          "alternateText": "充実したアメニティを備えるバスルーム",
+          "height": 2688,
+          "sourceUrl": "https://a.mktgcdn.com/p/uzc5tHIER8lON49yEtbr6xJjszuZO4tEzIPHSkdS9DY/4032x2688.jpg",
+          "thumbnails": [
+            {
+              "height": 2688,
+              "url": "https://a.mktgcdn.com/p-sandbox/Tk40zO1zROUwgQWtktYlj974uGiQ2CnIKrv8AVlFxtA/4032x2688.jpg",
+              "width": 4032
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/Tk40zO1zROUwgQWtktYlj974uGiQ2CnIKrv8AVlFxtA/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Tk40zO1zROUwgQWtktYlj974uGiQ2CnIKrv8AVlFxtA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Tk40zO1zROUwgQWtktYlj974uGiQ2CnIKrv8AVlFxtA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Tk40zO1zROUwgQWtktYlj974uGiQ2CnIKrv8AVlFxtA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Tk40zO1zROUwgQWtktYlj974uGiQ2CnIKrv8AVlFxtA/4032x2688.jpg",
+          "width": 4032
+        },
+        "imageCaption": "充実したアメニティを備えるバスルーム",
+        "sectionTitle": "ホテル・ニッコー・グアム（Hotel Nikko Guam）"
+      },
+      {
+        "description": "グアム島中央部・タムニングの岬の先端に建つ、自然と調和した絶景リゾート。美しい中庭のラグーンやサンセットタイムの美景が自慢のインフィニティプール、全室オーシャンビューの客室など、館内の至る所で海や自然を感じることができます。ゲストルームは、グアム唯一と言われるテラスジャグジー付きのスイートをはじめとする全7タイプ。66㎡以上の広さを誇るスイートルームでぜいたくな時間を楽しみましょう。",
+        "image": {
+          "alternateText": "インフィニティプールからアガニア湾を一望",
+          "height": 2808,
+          "sourceUrl": "https://a.mktgcdn.com/p/xR7bWYSt6_l38eFPxu_Y3Bn9hl6cC2j6Qqy_9AtVFM4/4212x2808.jpg",
+          "thumbnails": [
+            {
+              "height": 2808,
+              "url": "https://a.mktgcdn.com/p-sandbox/5zQjfGGaIgqQC2-PhqXgoHcfCsC49BSz-mOJ0F0nMMg/4212x2808.jpg",
+              "width": 4212
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/5zQjfGGaIgqQC2-PhqXgoHcfCsC49BSz-mOJ0F0nMMg/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/5zQjfGGaIgqQC2-PhqXgoHcfCsC49BSz-mOJ0F0nMMg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/5zQjfGGaIgqQC2-PhqXgoHcfCsC49BSz-mOJ0F0nMMg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/5zQjfGGaIgqQC2-PhqXgoHcfCsC49BSz-mOJ0F0nMMg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5zQjfGGaIgqQC2-PhqXgoHcfCsC49BSz-mOJ0F0nMMg/4212x2808.jpg",
+          "width": 4212
+        },
+        "imageCaption": "インフィニティプールからアガニア湾を一望",
+        "sectionTitle": "ウェスティンリゾート グアム（Westin Resort Guam）"
+      },
+      {
+        "description": "2022年にシェラトンホテルから日系ホテルにリブランドしており、和食＆鉄板焼レストランがあるのも特徴。海にせり出した絶景のクリフバーやクラブルーム、クラブラウンジなどの新たな施設が続々とオープンしています。さらに初心者から楽しめるヨガ、ズンバ、フラダンス、ベリーダンスといった、宿泊者向けのアクティビティも随時開催。一日中ホテル内で過ごしても飽き足らないほどの充実ぶりです。RIHGA Royal Laguna Guam Resort DATA住所：470 Farenholt Ave.客室数： 318室",
+        "image": {
+          "alternateText": "湾に面して建ち、全てのゲストルームから海を望む",
+          "height": 534,
+          "sourceUrl": "https://a.mktgcdn.com/p/a_eUCqkvuvBx4fr9JKIcgRaRD49c0cQ-ECvb3fJa-Co/800x534.jpg",
+          "thumbnails": [
+            {
+              "height": 534,
+              "url": "https://a.mktgcdn.com/p-sandbox/HLD4nCcyxQejXo__Um7CgFBFRUOCGVldQQB-TuFeLU8/800x534.jpg",
+              "width": 800
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/HLD4nCcyxQejXo__Um7CgFBFRUOCGVldQQB-TuFeLU8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/HLD4nCcyxQejXo__Um7CgFBFRUOCGVldQQB-TuFeLU8/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/HLD4nCcyxQejXo__Um7CgFBFRUOCGVldQQB-TuFeLU8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HLD4nCcyxQejXo__Um7CgFBFRUOCGVldQQB-TuFeLU8/800x534.jpg",
+          "width": 800
+        },
+        "imageCaption": "高い技術と天然素材にこだわったアンサナ・スパ"
+      },
+      {
+        "description": "日系ホテルならではの手厚いホスピタリティが受けられると評判なのが、「ホテル・ニッコー・グアム」。日本人スタッフが常駐するほか、日本人シェフによるレストラン、授乳室やキッズルームなど、海外旅行に慣れていなくても安心してファミリーで楽しめるサービスが特徴です。タモン湾の北端にあり、プライベート感満点のビーチにアクセスしやすいのも魅力の1つ。絶好のスノーケリングスポットとして知られる海を満喫できます。",
+        "image": {
+          "alternateText": "オーシャンフロント・スイート。環境に配慮したアメニティが用意されている",
+          "height": 1092,
+          "sourceUrl": "https://a.mktgcdn.com/p/8BuotG-8wxTZLGwBtsMzLNrwWztnwD3-9eclT_prRlQ/1640x1092.jpg",
+          "thumbnails": [
+            {
+              "height": 1092,
+              "url": "https://a.mktgcdn.com/p-sandbox/5UDfK0H1WOHrehA45pQnfImGkzmJntmFrYasKCVwqXk/1640x1092.jpg",
+              "width": 1640
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/5UDfK0H1WOHrehA45pQnfImGkzmJntmFrYasKCVwqXk/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/5UDfK0H1WOHrehA45pQnfImGkzmJntmFrYasKCVwqXk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/5UDfK0H1WOHrehA45pQnfImGkzmJntmFrYasKCVwqXk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5UDfK0H1WOHrehA45pQnfImGkzmJntmFrYasKCVwqXk/1640x1092.jpg",
+          "width": 1640
+        },
+        "imageCaption": "湾に面して建ち、全てのゲストルームから海を望む"
+      },
+      {
+        "description": "全長72ｍのウォータースライダーを備えたプールエリアやビーチバーベキューレストラン、高い技術に定評のあるスパなど、文句なしのファシリティを思う存分堪能しましょう。Hotel Nikko Guam DATA住所：245 Gun Beach Rd.客室数： 470室",
+        "image": {
+          "height": 3398,
+          "sourceUrl": "https://a.mktgcdn.com/p/x90_Rmhe5Kg867OX2SxxreGUoZyVe4L8E6Rm3oZ-N8w/6496x3398.jpg",
+          "thumbnails": [
+            {
+              "height": 3398,
+              "url": "https://a.mktgcdn.com/p-sandbox/6YfGqepqq9PaC80nLP8Dvc8UcOD7QozgU2d93wQXEHU/6496x3398.jpg",
+              "width": 6496
+            },
+            {
+              "height": 994,
+              "url": "https://a.mktgcdn.com/p-sandbox/6YfGqepqq9PaC80nLP8Dvc8UcOD7QozgU2d93wQXEHU/1900x994.jpg",
+              "width": 1900
+            },
+            {
+              "height": 324,
+              "url": "https://a.mktgcdn.com/p-sandbox/6YfGqepqq9PaC80nLP8Dvc8UcOD7QozgU2d93wQXEHU/619x324.jpg",
+              "width": 619
+            },
+            {
+              "height": 314,
+              "url": "https://a.mktgcdn.com/p-sandbox/6YfGqepqq9PaC80nLP8Dvc8UcOD7QozgU2d93wQXEHU/600x314.jpg",
+              "width": 600
+            },
+            {
+              "height": 103,
+              "url": "https://a.mktgcdn.com/p-sandbox/6YfGqepqq9PaC80nLP8Dvc8UcOD7QozgU2d93wQXEHU/196x103.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6YfGqepqq9PaC80nLP8Dvc8UcOD7QozgU2d93wQXEHU/6496x3398.jpg",
+          "width": 6496
+        },
+        "imageCaption": "オーシャンフロント・スイート。環境に配慮したアメニティが用意されている"
+      },
+      {
+        "description": "世界40カ国以上に展開するハイブランドホテル、ウェスティンならではの上質なサービスが受けられるのがここ。閑静なタモン湾北部の海辺に溶け込むようにデザインされた敷地内には、ビーチに直接アクセスできる屋外プール、6つのレストラン＆バー、ロクシタンが手掛けるスパ、マジックショー会場など多彩な施設が用意されています。",
+        "image": {
+          "height": 4425,
+          "sourceUrl": "https://a.mktgcdn.com/p/vzxoXefhH7l0MMTyjCba-Y9Rkgfug-4CM2du1gVmj_0/6214x4425.jpg",
+          "thumbnails": [
+            {
+              "height": 4425,
+              "url": "https://a.mktgcdn.com/p-sandbox/vzxoXefhH7l0MMTyjCba-Y9Rkgfug-4CM2du1gVmj_0/6214x4425.jpg",
+              "width": 6214
+            },
+            {
+              "height": 1353,
+              "url": "https://a.mktgcdn.com/p-sandbox/vzxoXefhH7l0MMTyjCba-Y9Rkgfug-4CM2du1gVmj_0/1900x1353.jpg",
+              "width": 1900
+            },
+            {
+              "height": 441,
+              "url": "https://a.mktgcdn.com/p-sandbox/vzxoXefhH7l0MMTyjCba-Y9Rkgfug-4CM2du1gVmj_0/619x441.jpg",
+              "width": 619
+            },
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/vzxoXefhH7l0MMTyjCba-Y9Rkgfug-4CM2du1gVmj_0/600x427.jpg",
+              "width": 600
+            },
+            {
+              "height": 140,
+              "url": "https://a.mktgcdn.com/p-sandbox/vzxoXefhH7l0MMTyjCba-Y9Rkgfug-4CM2du1gVmj_0/196x140.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vzxoXefhH7l0MMTyjCba-Y9Rkgfug-4CM2du1gVmj_0/6214x4425.jpg",
+          "width": 6214
+        },
+        "imageCaption": "ビーチの目の前にあるプールエリア"
+      },
+      {
+        "description": "2021年に全室のリノベーションが完了したゲストルームは、ウェスティンホテルの代名詞である「ヘブンリーベッド」を完備。さらに対象の客室を選べば、グアム最大級の広さと充実度を誇るクラブラウンジを利用できるなど、ワンランク上のホテルステイを約束してくれます。Westin Resort GuamDATA住所：105 Gun Beach Rd.客室数：430室※2023年10月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。",
+        "image": {
+          "height": 4788,
+          "sourceUrl": "https://a.mktgcdn.com/p/dSv_cl3ekS_67pCxtGHS3ccKsSYydLjvoLTEJvb9pgk/6171x4788.jpg",
+          "thumbnails": [
+            {
+              "height": 4788,
+              "url": "https://a.mktgcdn.com/p-sandbox/dSv_cl3ekS_67pCxtGHS3ccKsSYydLjvoLTEJvb9pgk/6171x4788.jpg",
+              "width": 6171
+            },
+            {
+              "height": 1474,
+              "url": "https://a.mktgcdn.com/p-sandbox/dSv_cl3ekS_67pCxtGHS3ccKsSYydLjvoLTEJvb9pgk/1900x1474.jpg",
+              "width": 1900
+            },
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/dSv_cl3ekS_67pCxtGHS3ccKsSYydLjvoLTEJvb9pgk/619x480.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dSv_cl3ekS_67pCxtGHS3ccKsSYydLjvoLTEJvb9pgk/580x450.jpg",
+              "width": 580
+            },
+            {
+              "height": 152,
+              "url": "https://a.mktgcdn.com/p-sandbox/dSv_cl3ekS_67pCxtGHS3ccKsSYydLjvoLTEJvb9pgk/196x152.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dSv_cl3ekS_67pCxtGHS3ccKsSYydLjvoLTEJvb9pgk/6171x4788.jpg",
+          "width": 6171
+        },
+        "imageCaption": "非日常を満喫できる気品あふれる客室"
+      }
+    ],
+    "c_ap_DatePosted": "2023-04-01",
+    "c_ap_HeroImage": {
+      "alternateText": "最新ホテルも続々登場！ 施設充実のシーサイドリゾート5選【グアム】",
+      "height": 2592,
+      "sourceUrl": "https://a.mktgcdn.com/p/7pxYjf_FjBw79oIiHQA4RomVFivfyvNTw8Uuv_jcjPc/3888x2592.jpg",
+      "thumbnails": [
+        {
+          "height": 2592,
+          "url": "https://a.mktgcdn.com/p-sandbox/IORKZc0Z5H640ZpcGZq_Yh-ai2xvotklJHWwWEK28qc/3888x2592.jpg",
+          "width": 3888
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/IORKZc0Z5H640ZpcGZq_Yh-ai2xvotklJHWwWEK28qc/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/IORKZc0Z5H640ZpcGZq_Yh-ai2xvotklJHWwWEK28qc/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/IORKZc0Z5H640ZpcGZq_Yh-ai2xvotklJHWwWEK28qc/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/IORKZc0Z5H640ZpcGZq_Yh-ai2xvotklJHWwWEK28qc/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/IORKZc0Z5H640ZpcGZq_Yh-ai2xvotklJHWwWEK28qc/3888x2592.jpg",
+      "width": 3888
+    },
+    "c_ap_HeroImageCaption": "オーシャンビューのホテルはグアム滞在の醍醐味！",
+    "c_ap_LinkArticleSectionTitle": "グアムのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea1": [
+      "グアム"
+    ],
+    "c_ap_ShortDescription": "グアムでは近年、島の中心街であるタモンを中心に注目のホテルが続々とオープンしています。最新設備を備えたラグジュアリーホテルは、施設の充実度もサービスも言うことなし。\nビーチフロントの施設を選べば、南国ムード満点のプールやホテル前に広がる美しいビーチで南国気分を満喫できます。（写真：リーガロイヤル・ラグーナ・グアム・リゾート）",
+    "c_ap_Tags": [
+      "オーシャンビュー",
+      "ビーチフロント",
+      "ホテル"
+    ],
+    "c_ap_Title": "最新ホテルも続々登場！ 施設充実のシーサイドリゾート5選【グアム】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "グアムでは近年、島の中心街であるタモンを中心に注目のホテルが続々とオープンしています。最新設備を備えたラグジュアリーホテルは、施設の充実度もサービスも言うことなし。\nビーチフロントの施設を選べば、南国ムード満点のプールやホテル前に広がる美しいビーチで南国気分を満喫できます。（写真：リーガロイヤル・ラグーナ・グアム・リゾート）",
+    "c_metaTitle": "最新ホテルも続々登場！ 施設充実のシーサイドリゾート5選【グアム】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000140",
+    "name": "最新ホテルも続々登場！ 施設充実のシーサイドリゾート5選【グアム】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,60 @@
+{
+  "$id": "yamaguchi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "chugoku"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_y_ishihara225_030",
+      "news_ap_k_harada924_003",
+      "news_ap_y_shichi632_005",
+      "news_ap_y_shichi632_002",
+      "news_ap_a_murata303_002",
+      "news_ap_m_tachibana004_008",
+      "news_ap_h_furuta308_002"
+    ],
+    "c_metaDescription": "山口に関する記事をピックアップ！JTBニュースでは、山口で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 山口 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "山口",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/ootIMUVtsrLn3BlZikuSFIe2o6ScxDBUmqJjxE-PDcQ/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/yBA1am5Z9-UpPtVpVkJd9dAP2IGbsgDFw9LQJxwbW7U/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/yBA1am5Z9-UpPtVpVkJd9dAP2IGbsgDFw9LQJxwbW7U/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/yBA1am5Z9-UpPtVpVkJd9dAP2IGbsgDFw9LQJxwbW7U/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/yBA1am5Z9-UpPtVpVkJd9dAP2IGbsgDFw9LQJxwbW7U/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/yBA1am5Z9-UpPtVpVkJd9dAP2IGbsgDFw9LQJxwbW7U/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/yBA1am5Z9-UpPtVpVkJd9dAP2IGbsgDFw9LQJxwbW7U/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "山口",
+    "slug": "kokunai/chugoku/yamaguchi"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

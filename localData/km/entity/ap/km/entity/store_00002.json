@@ -1,0 +1,231 @@
+{
+  "$id": "ap_store_00002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBおいでなして長野（オンライン相談デスク）",
+      "link": "https://stores.jtb.co.jp/lc-0020",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://stores.jtb.co.jp/lc-0020",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "長野県北部の北アルプス山麓に位置する白馬村は、白馬八方尾根や白馬五竜など、数々の有名スキー場が集まるウインタースポーツのメッカです。さらに、小谷村と大町市とともに、国際山岳リゾート「HAKUBA VALLEY[ハクバ バレー]」を構成しているエリアの一つでもあります。そんな白馬村屈指のスキー場が「白馬岩岳スノーフィールド」。冬には25コースもあるゲレンデが多くのスキーヤーやスノーボーダーで賑わいます。そのスキー場が、グリーンシーズンは「白馬岩岳マウンテンリゾート」として開設していて、こちらもとても人気があり、登山客から家族連れまで多くの人々が訪れます。「岩茸山」とも呼ばれる標高1289mの白馬岩岳の山腹に広がるリゾート敷地内には、山頂までゴンドラリフト・ノアが架かり、トレッキングコースやねずこの森、グリーンパーク、岩岳の湯など、多彩な施設が整備されています。なかでも年間を通しておすすめなのが山頂の展望施設であるHAKUBA MOUNTAIN HARBORです。",
+        "image": {
+          "height": 827,
+          "sourceUrl": "https://a.mktgcdn.com/p/bMXZjutYOuAN1Pja7vmXz0BQlaNiRffq2uT2Db5drPM/667x827.jpg",
+          "thumbnails": [
+            {
+              "height": 827,
+              "url": "https://a.mktgcdn.com/p-sandbox/bMXZjutYOuAN1Pja7vmXz0BQlaNiRffq2uT2Db5drPM/667x827.jpg",
+              "width": 667
+            },
+            {
+              "height": 767,
+              "url": "https://a.mktgcdn.com/p-sandbox/bMXZjutYOuAN1Pja7vmXz0BQlaNiRffq2uT2Db5drPM/619x767.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/bMXZjutYOuAN1Pja7vmXz0BQlaNiRffq2uT2Db5drPM/363x450.jpg",
+              "width": 363
+            },
+            {
+              "height": 243,
+              "url": "https://a.mktgcdn.com/p-sandbox/bMXZjutYOuAN1Pja7vmXz0BQlaNiRffq2uT2Db5drPM/196x243.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bMXZjutYOuAN1Pja7vmXz0BQlaNiRffq2uT2Db5drPM/667x827.jpg",
+          "width": 667
+        },
+        "imageCaption": "北アルプスの景観を楽しめる山頂テラス。ぜひ行って絶景を体感してください",
+        "sectionTitle": "山頂から絶景を見渡せる展望施設「HAKUBA MOUNTAIN HARBOR」"
+      },
+      {
+        "description": "HAKUBA MOUNTAIN HARBORへはゴンドラリフト・ノアの山頂駅から徒歩8分ほど。空中に張り出すように造られたテラスのデッキに立つと、「白馬三山」と呼ばれる白馬岳、杓子岳、白馬鑓ヶ岳を含む北アルプスの大パノラマが、これでもかというほどの迫力をもって広がっています。まさに圧巻！2019年に氷河と認定された「唐松沢雪渓」も眺められますよ。さらに、ぜひ見ていただきたいのは、毎年10月頃に見られる北アルプス名物「三段紅葉」。三段紅葉というのは、「山頂の冠雪」、「山の中腹の紅葉」、「麓の樹木の緑」の白馬三山に見られる自然が織りなす美しいグラデーションです。ここでしか見られない景観で、本当に貴重なものだと思います。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/ksyV76cs0Cjkxk0EkrBF9HtRvXN9Vqvxjhup0FhY5Tg/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/ksyV76cs0Cjkxk0EkrBF9HtRvXN9Vqvxjhup0FhY5Tg/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/ksyV76cs0Cjkxk0EkrBF9HtRvXN9Vqvxjhup0FhY5Tg/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ksyV76cs0Cjkxk0EkrBF9HtRvXN9Vqvxjhup0FhY5Tg/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/ksyV76cs0Cjkxk0EkrBF9HtRvXN9Vqvxjhup0FhY5Tg/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ksyV76cs0Cjkxk0EkrBF9HtRvXN9Vqvxjhup0FhY5Tg/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ゴンドラリフト・ノアで北アルプスと紅葉を楽しむ",
+        "sectionTitle": "絶対見逃せない、北アルプスと紅葉のコラボ"
+      },
+      {
+        "description": "このテラスにはもう1つ、おすすめがあります。それはニューヨーク生まれのベーカリー「THE CITY BAKERY」があること。ニューヨークでも人気のベーカリーなだけあって、どれも食べ応えもあるしおいしい。「信州リンゴのアップルパイ」や「白馬豚のクロワッサンサンド」など、白馬ならではの食材を使ったここ限定のメニューはぜひ試して欲しいです。外のテラスで北アルプスを見ながら食べるのもよし、中のイートインコーナーで静かに食べるのもよし。でも、寒い日でも、やはり外のテラスで景色を眺めながら食べている方が多いですね。",
+        "image": {
+          "height": 842,
+          "sourceUrl": "https://a.mktgcdn.com/p/19JEl1A5ZlaGUgy6odUfuk5kNlxTMDpF8hZfpZYo700/716x842.jpg",
+          "thumbnails": [
+            {
+              "height": 842,
+              "url": "https://a.mktgcdn.com/p-sandbox/19JEl1A5ZlaGUgy6odUfuk5kNlxTMDpF8hZfpZYo700/716x842.jpg",
+              "width": 716
+            },
+            {
+              "height": 728,
+              "url": "https://a.mktgcdn.com/p-sandbox/19JEl1A5ZlaGUgy6odUfuk5kNlxTMDpF8hZfpZYo700/619x728.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/19JEl1A5ZlaGUgy6odUfuk5kNlxTMDpF8hZfpZYo700/383x450.jpg",
+              "width": 383
+            },
+            {
+              "height": 230,
+              "url": "https://a.mktgcdn.com/p-sandbox/19JEl1A5ZlaGUgy6odUfuk5kNlxTMDpF8hZfpZYo700/196x230.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/19JEl1A5ZlaGUgy6odUfuk5kNlxTMDpF8hZfpZYo700/716x842.jpg",
+          "width": 716
+        },
+        "imageCaption": "「THE CITY BAKERY」の白馬豚のクロワッサンサンド。この日は寒かったので中で温かく食べました",
+        "sectionTitle": "ニューヨーク生まれのベーカリーの味を山頂で"
+      },
+      {
+        "description": "2021年7月には、山頂エリアにワンちゃん専用の展望テラス「HAKUBA WAN ! TAIN HARBOR[ハクバ ワン！テン ハーバー]」が誕生。ドックランやワンちゃんと一緒に乗れるバギークルースもあって、ペットの設備が充実しています。山頂カフェレストランの「Hakuba Deli[ハクバ デリ]」には、なんとペット専用メニューもあるんですよ。山頂エリアへはゴンドラリフト・ノアに乗って行くのですが、徐々に周りに障害物がなくなり、絶景がたくさん見られるようになります。大自然のいろんな景色に次々に出合えるので映え写真も撮り放題。カメラ好きにはたまらない場所ですね。 アクティブ派にはトレッキングやアスレチック、トランポリンなど、たくさんのアクティビティが用意されています。「岩岳MTB PARK」もあるのでMTB持参で来てみてはいかがでしょうか。 ----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "sectionTitle": "ワンちゃん専用展望テラスは絶好のフォトスポット"
+      }
+    ],
+    "c_ap_DatePosted": "2021-10-06",
+    "c_ap_HeroImage": {
+      "alternateText": "北アルプスの絶景を一望、標高1289mの山頂テラス【長野県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 539,
+      "sourceUrl": "https://a.mktgcdn.com/p/zY3t4G7nJf_eKRZjwscBANx_ntmiUf3TmIWNz86Ly_w/913x539.jpg",
+      "thumbnails": [
+        {
+          "height": 539,
+          "url": "https://a.mktgcdn.com/p-sandbox/zY3t4G7nJf_eKRZjwscBANx_ntmiUf3TmIWNz86Ly_w/913x539.jpg",
+          "width": 913
+        },
+        {
+          "height": 365,
+          "url": "https://a.mktgcdn.com/p-sandbox/zY3t4G7nJf_eKRZjwscBANx_ntmiUf3TmIWNz86Ly_w/619x365.jpg",
+          "width": 619
+        },
+        {
+          "height": 354,
+          "url": "https://a.mktgcdn.com/p-sandbox/zY3t4G7nJf_eKRZjwscBANx_ntmiUf3TmIWNz86Ly_w/600x354.jpg",
+          "width": 600
+        },
+        {
+          "height": 116,
+          "url": "https://a.mktgcdn.com/p-sandbox/zY3t4G7nJf_eKRZjwscBANx_ntmiUf3TmIWNz86Ly_w/196x116.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/zY3t4G7nJf_eKRZjwscBANx_ntmiUf3TmIWNz86Ly_w/913x539.jpg",
+      "width": 913
+    },
+    "c_ap_LinkArticleSectionTitle": "長野県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "この記事の投稿店舗にリモート相談予約をする",
+        "uRL": "https://stores.jtb.co.jp/lc-0020"
+      },
+      {
+        "linkText": "長野旅行・ツアー・パックはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/nagano/"
+      },
+      {
+        "linkText": "長野県のホテル・旅館・宿はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/nagano/"
+      },
+      {
+        "linkText": "白馬岩岳マウンテンリゾートのチケットはこちら",
+        "uRL": "https://opt.jtb.co.jp/kokunai_opt/p/pJTB025646020/"
+      },
+      {
+        "linkText": "白馬村のホテル・旅館・宿はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/2048501/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "長野県"
+    ],
+    "c_ap_ShortDescription": "信州白馬村の「白馬岩岳マウンテンリゾート」。そこにある山頂テラス「HAKUBA MOUNTAIN HARBOR[ハクバ マウンテン ハーバー]」を、皆様はご存じですか？　春・夏・秋・冬、どの季節に行っても、北アルプスの圧巻のパノラマ景観を楽しめる絶景スポットです。",
+    "c_ap_Tags": [
+      "北アルプス",
+      "絶景",
+      "テラス",
+      "ゴンドラ"
+    ],
+    "c_ap_Theme": [
+      "自然・山",
+      "スポーツ観戦"
+    ],
+    "c_ap_Title": "北アルプスの絶景を一望、標高1289mの山頂テラス【長野県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "信州白馬村の「白馬岩岳マウンテンリゾート」。そこにある山頂テラス「HAKUBA MOUNTAIN HARBOR[ハクバ マウンテン ハーバー]」を、皆様はご存じですか？　春・夏・秋・冬、どの季節に行っても、北…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "北アルプスの絶景を一望、標高1289mの山頂テラス【長野県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_store_00002",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "長野県",
+    "c_searchTags": [
+      "中部・北陸：長野県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：長野県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "北アルプスの絶景を一望、標高1289mの山頂テラス【長野県】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

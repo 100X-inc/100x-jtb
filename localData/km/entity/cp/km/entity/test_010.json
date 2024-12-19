@@ -1,0 +1,125 @@
+{
+  "$id": "cp_test_010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_cp_Articles": [
+      "ap_chiki_100001"
+    ],
+    "c_cp_ArticlesSectionTitle": "このコンサルタントの投稿記事",
+    "c_cp_CTA1": {
+      "label": "リモート相談予約",
+      "link": "https://link.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNF1DN-qJBbQVBd",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "コンサルタント一覧",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_cp_CaseStudies": [
+      "ap_test_004",
+      "3511005588108258709"
+    ],
+    "c_cp_CaseStudySectionTitle": "BLOG",
+    "c_cp_Description": "年に最低でも3回以上は旅行をする旅好きで、一人で京都へ旅することは私のライフスタイルとして定着しました。\n歳を重ねるごとに、先人たちが築いてきた食・文化・伝統や何億年もかけてできた地球の神秘により魅力を感じるようになりました。遠出が難しい今は本やインターネットで情報収集をし、次の旅行へ向けて楽しんで予習をしています！旅は自分の悩みや憂鬱な気持ちを吹き飛ばしてくれる最高の栄養剤です！皆さんの旅行が何かのきっかけになるようなご提案ができるようお手伝いさせて頂きます。どうぞよろしくお願いいたします。",
+    "c_cp_DisplayName": "リモートコンシェルジュ　テスト１０",
+    "c_cp_EnrollmentArea": "大阪",
+    "c_cp_FieldOfExpertise": [
+      "ウエディング"
+    ],
+    "c_cp_GeneralInfo": [
+      "世界遺産検定1級",
+      "出身地：東京",
+      "趣味：神社仏閣訪問"
+    ],
+    "c_cp_HeroImage": {
+      "height": 617,
+      "sourceUrl": "https://a.mktgcdn.com/p/FcREcM2wKfaXx41_6-hgH7dlPu-LIss49GbwNrL-MRM/928x617.jpg",
+      "thumbnails": [
+        {
+          "height": 617,
+          "url": "https://a.mktgcdn.com/p-sandbox/FcREcM2wKfaXx41_6-hgH7dlPu-LIss49GbwNrL-MRM/928x617.jpg",
+          "width": 928
+        },
+        {
+          "height": 412,
+          "url": "https://a.mktgcdn.com/p-sandbox/FcREcM2wKfaXx41_6-hgH7dlPu-LIss49GbwNrL-MRM/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "https://a.mktgcdn.com/p-sandbox/FcREcM2wKfaXx41_6-hgH7dlPu-LIss49GbwNrL-MRM/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "https://a.mktgcdn.com/p-sandbox/FcREcM2wKfaXx41_6-hgH7dlPu-LIss49GbwNrL-MRM/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/FcREcM2wKfaXx41_6-hgH7dlPu-LIss49GbwNrL-MRM/928x617.jpg",
+      "width": 928
+    },
+    "c_cp_HiraganaName": "てすと",
+    "c_cp_JobTitle": "リモートコンシェルジュ",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 897,
+      "sourceUrl": "https://a.mktgcdn.com/p/QORxtvP1u215WbGnoBFpCiwzFcI_gbaSy1YkCc60e-s/855x897.jpg",
+      "thumbnails": [
+        {
+          "height": 897,
+          "url": "https://a.mktgcdn.com/p-sandbox/l1wHHAkGM4gOaipw3Vw_R3YaWfnozcEmPkuGt6moUC4/855x897.jpg",
+          "width": 855
+        },
+        {
+          "height": 649,
+          "url": "https://a.mktgcdn.com/p-sandbox/l1wHHAkGM4gOaipw3Vw_R3YaWfnozcEmPkuGt6moUC4/619x649.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/l1wHHAkGM4gOaipw3Vw_R3YaWfnozcEmPkuGt6moUC4/429x450.jpg",
+          "width": 429
+        },
+        {
+          "height": 206,
+          "url": "https://a.mktgcdn.com/p-sandbox/l1wHHAkGM4gOaipw3Vw_R3YaWfnozcEmPkuGt6moUC4/196x206.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/l1wHHAkGM4gOaipw3Vw_R3YaWfnozcEmPkuGt6moUC4/855x897.jpg",
+      "width": 855
+    },
+    "c_cp_StrongAbroadArea3": [
+      "フランス",
+      "スペイン"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "栃木県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "京都府",
+      "奈良県"
+    ],
+    "c_cp_Tags": [
+      "ウォーキング",
+      "トレッキング"
+    ],
+    "c_cp_UpdateComments": "新しい記事を公開しました！",
+    "c_cp_notificationBannerMultiText": "お知らせバナーが表示されます。",
+    "c_metaDescription": "JTB オンライン相談 | トラベルコンサルタント | 武田 和美 | 予約 リモートコンシェルジュ 旅行相談",
+    "c_metaTitle": "JTBリモートトラベルコンシェルジュ ｜ テストコンサルタント010",
+    "c_news_NewsList": [
+      "news_ap_chiki_100001"
+    ],
+    "c_responsibleService": [
+      "リモートコンシェルジュ"
+    ],
+    "name": "テストコンサルタント010",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-312",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/312_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d35.460751%2C136.959079",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "岐阜県",
+    "c_searchTags": [
+      "岐阜県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "秋に咲き誇る、美しく可憐なコスモス畑。岐阜県関市では、そんな秋の風物詩であるコスモスと、夏の象徴ともいえるヒマワリが競演する、すてきな景色を見ることができます。休耕田を利用して作られた関市東田原の花畑には、白やピンクのコスモスが咲き乱れ、その隣で秋に咲く秋ヒマワリが華やかな黄色のアクセントを添えており、目にも鮮やかな風景を演出しています。よく晴れた日には、青空を背景に風に揺れる花々の可憐な姿を眺めながら散歩が楽しめます。のどかな田園風景が華やかに色づく様子は、秋のこの時期だけのとっておき。また、薄く霧がかった朝には、地平線が朝霧にけぶる幻想的な景色の中、淡い金色の朝日に照らされるコスモス畑の姿を見ることができるかもしれません。\n見所・お勧めポイント",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/312.asp",
+    "name": "秋霞の中燃える"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

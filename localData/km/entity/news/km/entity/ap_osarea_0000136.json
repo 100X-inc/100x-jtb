@@ -1,0 +1,313 @@
+{
+  "$id": "news_ap_osarea_0000136",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_HeroImage": {
+      "height": 2551,
+      "sourceUrl": "http://a.mktgcdn.com/p/g2qOrnMriX1b5zoEmYMLdJy9JZeG8l35LgFF-69zwMo/1701x2551.jpg",
+      "thumbnails": [
+        {
+          "height": 2551,
+          "url": "//a.mktgcdn.com/p-sandbox/x_gAOxB94z640maagYk40F0kEx6xIDvkmYbxHaVTJGQ/1701x2551.jpg",
+          "width": 1701
+        },
+        {
+          "height": 1900,
+          "url": "//a.mktgcdn.com/p-sandbox/x_gAOxB94z640maagYk40F0kEx6xIDvkmYbxHaVTJGQ/1267x1900.jpg",
+          "width": 1267
+        },
+        {
+          "height": 928,
+          "url": "//a.mktgcdn.com/p-sandbox/x_gAOxB94z640maagYk40F0kEx6xIDvkmYbxHaVTJGQ/619x928.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "//a.mktgcdn.com/p-sandbox/x_gAOxB94z640maagYk40F0kEx6xIDvkmYbxHaVTJGQ/300x450.jpg",
+          "width": 300
+        },
+        {
+          "height": 294,
+          "url": "//a.mktgcdn.com/p-sandbox/x_gAOxB94z640maagYk40F0kEx6xIDvkmYbxHaVTJGQ/196x294.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/x_gAOxB94z640maagYk40F0kEx6xIDvkmYbxHaVTJGQ/1701x2551.jpg",
+      "width": 1701
+    },
+    "c_ap_HeroImageCaption": "ペストリーも充実のイレベンセスでおやつタイム",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "グアム旅行をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/guam/"
+      },
+      {
+        "linkText": "グアムのツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dGUM"
+      },
+      {
+        "linkText": "グアムの現地ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aGUM/bGU/"
+      },
+      {
+        "linkText": "グアムのホテルをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/02/70/?freeword\u003d%E3%82%B0%E3%82%A2%E3%83%A0\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d70"
+      },
+      {
+        "linkText": "グアムの航空券をみる",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/guam/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "コーヒーが自慢のカフェが続々とオープンしているグアム。こだわりのコーヒーを味わえるだけでなく、ペストリーやスイーツなどのフードメニューも充実しています。お店の雰囲気のよさも抜群で、SNSにアップしたくなること間違いなし。ショッピング途中の休憩に立ち寄りたい、人気の5軒をご紹介します。（写真：イレベンセス）",
+    "c_ap_Tags": [
+      "カフェ",
+      "スイーツ　",
+      "コーヒー"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "ひと休みしたいグアムのおすすめカフェ！おしゃれな雰囲気が魅力【グアム】",
+    "c_linkedArea3News": [
+      "guam"
+    ],
+    "c_metaDescription": "グアムでは、コーヒーが自慢のカフェが続々とオープン。こだわりのコーヒーだけでなく、ヘルシーな料理を提供するカフェグッチャをはじめフードメニューも充実しています。雰囲気のよさも抜群で、SNS映え間違いなし。ひと休みしたくなる人気のカフェをご紹介します。",
+    "c_metaTitle": "ひと休みしたいグアムのおすすめカフェ！おしゃれな雰囲気が魅力【グアム】",
+    "c_news_CTAs": [
+      {
+        "label": "グアムのホテルをみる",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/02/70/?freeword\u003d%E3%82%B0%E3%82%A2%E3%83%A0\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d70",
+        "linkType": "URL"
+      },
+      {
+        "label": "グアムの現地ツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aGUM/bGU/",
+        "linkType": "URL"
+      },
+      {
+        "label": "グアム旅行をみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/guam/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "グアムのおやつの定番！パンケーキBest5をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/guam/news_ap_osarea_0000052",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "朝から満喫！グアムの朝ごはんをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/guam/news_ap_osarea_0000139",
+          "linkType": "URL"
+        },
+        "description": "「イレベンセス」は、フォトグラファーとデザイナーのオーナーのセンスが光るフォトジェニックなカフェ。マイクロネシア・モール内にあり、ショッピングの合間の休憩スポットとして便利です。コーヒーや南国フルーツのジュースなどのドリンクメニューは見た目も洗練されていて、思わず写真を撮りたくなるほど。スコーン＄3.25やデニッシュ＄1.50、サンドイッチなど軽食メニューもぜひ試してみて。",
+        "image": {
+          "alternateText": "ピンクとグリーンを基調にしたおしゃれな店内",
+          "height": 1191,
+          "sourceUrl": "https://a.mktgcdn.com/p/-wwbiI_S1K5LnjdTAJK8sWBVN4nkV7D1kwqQk0sNR6s/1786x1191.jpg",
+          "thumbnails": [
+            {
+              "height": 1191,
+              "url": "https://a.mktgcdn.com/p-sandbox/EkG6DKE4dSYURZaH7tP0nKnSaPbHvsJGtOmOSn4yGG4/1786x1191.jpg",
+              "width": 1786
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/EkG6DKE4dSYURZaH7tP0nKnSaPbHvsJGtOmOSn4yGG4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/EkG6DKE4dSYURZaH7tP0nKnSaPbHvsJGtOmOSn4yGG4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/EkG6DKE4dSYURZaH7tP0nKnSaPbHvsJGtOmOSn4yGG4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EkG6DKE4dSYURZaH7tP0nKnSaPbHvsJGtOmOSn4yGG4/1786x1191.jpg",
+          "width": 1786
+        },
+        "imageCaption": "ピンクとグリーンを基調にしたおしゃれな店内",
+        "infoBlockLabel": "elevencesの情報",
+        "infoBlockText": "住所：088 W.Marine Corps Dr.(マイクロネシア・モール内)営業時間：10～20時（金・土曜は～21時）定休日：なし",
+        "sectionTitle": "イレベンセス（elevences）"
+      },
+      {
+        "description": "パリで修業を積んだパティシエが作る、本格的なスイーツやパンが評判のカフェ。人気メニューのマカロンアイスのほか、クロワッサンやパンオショコラなどパン類もあり、コーヒーとともに味わえます。",
+        "image": {
+          "alternateText": "アサイストーム＄6.95とツナサンドイッチ＄7.75",
+          "height": 1361,
+          "sourceUrl": "https://a.mktgcdn.com/p/h3mVSMQPcWRWkzVe9ixvwn7WXVXftIzbgJm4SMyCPsU/2041x1361.jpg",
+          "thumbnails": [
+            {
+              "height": 1361,
+              "url": "https://a.mktgcdn.com/p-sandbox/DjLyAgihZ9VkQxso7Juv4DH-12nTAHusBJR8T1FpxXU/2041x1361.jpg",
+              "width": 2041
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/DjLyAgihZ9VkQxso7Juv4DH-12nTAHusBJR8T1FpxXU/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/DjLyAgihZ9VkQxso7Juv4DH-12nTAHusBJR8T1FpxXU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/DjLyAgihZ9VkQxso7Juv4DH-12nTAHusBJR8T1FpxXU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/DjLyAgihZ9VkQxso7Juv4DH-12nTAHusBJR8T1FpxXU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DjLyAgihZ9VkQxso7Juv4DH-12nTAHusBJR8T1FpxXU/2041x1361.jpg",
+          "width": 2041
+        },
+        "imageCaption": "アサイストーム＄6.95とツナサンドイッチ＄7.75",
+        "infoBlockLabel": "Patisserie Pariscoの情報",
+        "infoBlockText": "住所：285 Farenhot Ave., C307営業時間：7～18時（日曜は8～17時）定休日：なし",
+        "sectionTitle": "パティスリー・パリスコ（Patisserie Parisco）"
+      },
+      {
+        "description": "アボカドトーストやアサイボウルなど、ヘルシーな料理を提供する「カフェグッチャ」。食の安全を通じて島の環境を守りたいという思いから、使用する食材はオーガニックなものにこだわっています。コーヒー豆の焙煎具合や抽出方法、ミルクの種類をカスタマイズできるビルドユアオウンは、コーヒー通の地元の人たちにも好評。南国リゾート感あふれるインテリアが素敵で、SNSでも注目を集めています。",
+        "image": {
+          "alternateText": "いつ訪れても地元の人々で賑わう人気店",
+          "height": 491,
+          "sourceUrl": "https://a.mktgcdn.com/p/CWwlxVUVaQugZqNTnX1p3JVALBwbWvYCr5lYHptdWkc/737x491.jpg",
+          "thumbnails": [
+            {
+              "height": 491,
+              "url": "https://a.mktgcdn.com/p-sandbox/8BOCxjphmk-Ck5SpGiUIHjoFkwD8ANwChQ_F-jS0e1k/737x491.jpg",
+              "width": 737
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/8BOCxjphmk-Ck5SpGiUIHjoFkwD8ANwChQ_F-jS0e1k/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/8BOCxjphmk-Ck5SpGiUIHjoFkwD8ANwChQ_F-jS0e1k/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/8BOCxjphmk-Ck5SpGiUIHjoFkwD8ANwChQ_F-jS0e1k/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8BOCxjphmk-Ck5SpGiUIHjoFkwD8ANwChQ_F-jS0e1k/737x491.jpg",
+          "width": 737
+        },
+        "imageCaption": "いつ訪れても地元の人々で賑わう人気店",
+        "infoBlockLabel": "Cafe Gudchの情報",
+        "infoBlockText": "住所：518 Pale San Vitores Rd Ste. 104営業時間：7～15時（土・日曜は～16時）定休日：月曜※2023年10月時点の情報です。",
+        "sectionTitle": "カフェグッチャ（Cafe Gudch）"
+      },
+      {
+        "image": {
+          "alternateText": "アボカドトースト＄11やチキンクロワッサン＄11など",
+          "height": 1985,
+          "sourceUrl": "https://a.mktgcdn.com/p/3uE5FFVrMUOml1bJ-tCsJ1Pm0Pt9lnMoQBWfThSPAZM/1323x1985.jpg",
+          "thumbnails": [
+            {
+              "height": 1985,
+              "url": "https://a.mktgcdn.com/p-sandbox/4rRuzyOZePfbhf7udHu8FIAyWtxSumIlbIvRr-b0VPg/1323x1985.jpg",
+              "width": 1323
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/4rRuzyOZePfbhf7udHu8FIAyWtxSumIlbIvRr-b0VPg/1266x1900.jpg",
+              "width": 1266
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/4rRuzyOZePfbhf7udHu8FIAyWtxSumIlbIvRr-b0VPg/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/4rRuzyOZePfbhf7udHu8FIAyWtxSumIlbIvRr-b0VPg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/4rRuzyOZePfbhf7udHu8FIAyWtxSumIlbIvRr-b0VPg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4rRuzyOZePfbhf7udHu8FIAyWtxSumIlbIvRr-b0VPg/1323x1985.jpg",
+          "width": 1323
+        },
+        "imageCaption": "アボカドトースト＄11やチキンクロワッサン＄11など"
+      },
+      {
+        "image": {
+          "alternateText": "壁にモンステラの絵が描かれた南国風の店内",
+          "height": 680,
+          "sourceUrl": "https://a.mktgcdn.com/p/ewmcafi1KxB3vcAoywcBqvoUnwRl96ymRxarFKmXbJk/1020x680.jpg",
+          "thumbnails": [
+            {
+              "height": 680,
+              "url": "https://a.mktgcdn.com/p-sandbox/IX-cjlz0FqbLjIZyr1CPpP7IDva1IYLJIRI1tzWdnD4/1020x680.jpg",
+              "width": 1020
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/IX-cjlz0FqbLjIZyr1CPpP7IDva1IYLJIRI1tzWdnD4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/IX-cjlz0FqbLjIZyr1CPpP7IDva1IYLJIRI1tzWdnD4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/IX-cjlz0FqbLjIZyr1CPpP7IDva1IYLJIRI1tzWdnD4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/IX-cjlz0FqbLjIZyr1CPpP7IDva1IYLJIRI1tzWdnD4/1020x680.jpg",
+          "width": 1020
+        },
+        "imageCaption": "壁にモンステラの絵が描かれた南国風の店内"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000138",
+      "news_ap_osarea_0000137",
+      "news_ap_osarea_0000140",
+      "news_ap_osarea_0000139"
+    ],
+    "c_news_FeaturedArticlesTitle": "グアムのその他の投稿記事",
+    "c_news_PublicationDate": "2023-12-14",
+    "c_news_UpdateDate": "2024-07-23",
+    "c_news_ViewCount": "666",
+    "c_news_ViewCount1of2": "4",
+    "c_news_ViewCount2of2": "666",
+    "c_news_ViewCountNum": "666",
+    "c_news_ViewCountNumForSorting": "36",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/guam/news_ap_osarea_0000136",
+    "name": "ひと休みしたいグアムのおすすめカフェ！おしゃれな雰囲気が魅力【グアム】",
+    "slug": "kaigai/beach_resort/guam/news_ap_osarea_0000136"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

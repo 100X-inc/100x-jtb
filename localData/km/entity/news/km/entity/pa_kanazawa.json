@@ -1,0 +1,52 @@
+{
+  "$id": "news_pa_kanazawa",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kokunai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "金沢",
+      "link": "https://www.jtb.co.jp/news/list/index.html?tag\u003d金沢",
+      "linkType": "URL"
+    },
+    "c_news_PopularAreasImage": {
+      "alternateText": "金沢",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/l-V-At15bgw3iEMwj0EuINrq5RF8wq1zwQnc41v5_DQ/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/OCkcJoXNnvlTCXJZzeOvXZvCzwzgwW10tqZ68hYp_Jg/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/OCkcJoXNnvlTCXJZzeOvXZvCzwzgwW10tqZ68hYp_Jg/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/OCkcJoXNnvlTCXJZzeOvXZvCzwzgwW10tqZ68hYp_Jg/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/OCkcJoXNnvlTCXJZzeOvXZvCzwzgwW10tqZ68hYp_Jg/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/OCkcJoXNnvlTCXJZzeOvXZvCzwzgwW10tqZ68hYp_Jg/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/OCkcJoXNnvlTCXJZzeOvXZvCzwzgwW10tqZ68hYp_Jg/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "金沢"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

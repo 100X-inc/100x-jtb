@@ -1,0 +1,268 @@
+{
+  "$id": "ap_a_ebe517_004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "三日入れば効果があると言われたことから「母畑温泉の三日湯」と呼ばれ、湯治場として多くの人の心と身体を癒してきました。露天風呂付きの大浴場「月待ちの湯」に加えて、2019年には「別館 帰郷邸」がオープン。稲荷山の花と緑を一望する「稲荷山 丘の湯」と「稲荷山 谷の湯」という2つの天望大露天風呂が加わりました。明るい時間は庭園を、夜は月や星を眺めながら、圧倒的な開放感のなか名湯を満喫できますよ。帰郷邸には4つの貸切風呂もあり、まるで絵画のような庭園を眺めながらプライベートな湯浴みを楽しめます。お湯はアルカリ性単純温泉。トロトロのお湯には美肌効果が期待できるため、女性には特におすすめです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/IuKFPu1HgmW5JqgFj9VGsgadUorVUMtkmUfB2HQv6tQ/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/IuKFPu1HgmW5JqgFj9VGsgadUorVUMtkmUfB2HQv6tQ/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/IuKFPu1HgmW5JqgFj9VGsgadUorVUMtkmUfB2HQv6tQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/IuKFPu1HgmW5JqgFj9VGsgadUorVUMtkmUfB2HQv6tQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/IuKFPu1HgmW5JqgFj9VGsgadUorVUMtkmUfB2HQv6tQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/IuKFPu1HgmW5JqgFj9VGsgadUorVUMtkmUfB2HQv6tQ/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "天望大露天風呂「稲荷山 丘の湯」",
+        "sectionTitle": "母畑温泉の三日湯で、トロトロの湯に癒やされる"
+      },
+      {
+        "description": "夕食は、山の幸・海の幸をふんだんに使った、八幡屋伝統の日本料理です。料理長自らが目利きして、納得した食材のみを使用するというこだわりようで、すべての素材が一番美味しい状態で提供されます。さまざまなプランのなかからお好みのお料理を選べます。また、すっぽん鍋や和牛ステーキなど追加料理も豊富です。アワビやロブスターなど高級食材を使ったお料理から、あんこう鍋など季節限定のものまで、お好みの味を追加するのもおすすめです。前日までに予約してくださいね。",
+        "image": {
+          "height": 1200,
+          "sourceUrl": "https://a.mktgcdn.com/p/k8BU7hz8JEOL8wOvKqPUqBjx4TRHeVB81kD_ZrKHJ1U/980x1200.jpg",
+          "thumbnails": [
+            {
+              "height": 1200,
+              "url": "https://a.mktgcdn.com/p-sandbox/k8BU7hz8JEOL8wOvKqPUqBjx4TRHeVB81kD_ZrKHJ1U/980x1200.jpg",
+              "width": 980
+            },
+            {
+              "height": 758,
+              "url": "https://a.mktgcdn.com/p-sandbox/k8BU7hz8JEOL8wOvKqPUqBjx4TRHeVB81kD_ZrKHJ1U/619x758.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/k8BU7hz8JEOL8wOvKqPUqBjx4TRHeVB81kD_ZrKHJ1U/368x450.jpg",
+              "width": 368
+            },
+            {
+              "height": 240,
+              "url": "https://a.mktgcdn.com/p-sandbox/k8BU7hz8JEOL8wOvKqPUqBjx4TRHeVB81kD_ZrKHJ1U/196x240.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/k8BU7hz8JEOL8wOvKqPUqBjx4TRHeVB81kD_ZrKHJ1U/980x1200.jpg",
+          "width": 980
+        },
+        "imageCaption": "八幡屋の伝統を受け継いだおもてなし御膳（一例）",
+        "sectionTitle": "伝統を守り続けて100余年。山海の幸を贅沢に"
+      },
+      {
+        "description": "お部屋は全部で145室。本館の「東月館」と「西月館」、そして2019年にオープンした帰郷邸「彩里」に、多彩なお部屋が揃っています。数寄屋造り風の「和室」や高級感あふれる和モダンの「和洋室」のほか、おもてなしの贅を尽くした「特別室」もあります。窓の外に広がる大自然のパノラマに阿武隈の四季を感じながら、ゆったりとくつろいでくださいね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/CziaZ8gRtsAi1rdxHu3TqutawxFzb6qj4bKLIoV6HOU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/CziaZ8gRtsAi1rdxHu3TqutawxFzb6qj4bKLIoV6HOU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/CziaZ8gRtsAi1rdxHu3TqutawxFzb6qj4bKLIoV6HOU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/CziaZ8gRtsAi1rdxHu3TqutawxFzb6qj4bKLIoV6HOU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/CziaZ8gRtsAi1rdxHu3TqutawxFzb6qj4bKLIoV6HOU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/CziaZ8gRtsAi1rdxHu3TqutawxFzb6qj4bKLIoV6HOU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "西月館の和室",
+        "sectionTitle": "窓の外には阿武隈の大自然。四季を感じるお部屋でくつろぐ"
+      },
+      {
+        "description": "玄関を抜けてまず驚くのが8層吹き抜けになったアトリウムロビーです。土・日曜には、中央の浮舞台で琴の演奏が出迎えてくれます。また、館内には母畑温泉や近隣の銘品が揃う売店や、夕食後のひとときを楽しませてくれる二次会処など、あらゆる施設が揃っています。夏にはプールもオープンするので、家族連れにも人気があります。どんな旅のスタイルでも楽しめるのも、八幡屋の魅力といえますね。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/htl/2531002/plan/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 1200,
+          "sourceUrl": "https://a.mktgcdn.com/p/5YZEn-yjEpRwSvxoKpPHZE_Xrow74T--o_rVV06ecyA/915x1200.jpg",
+          "thumbnails": [
+            {
+              "height": 1200,
+              "url": "https://a.mktgcdn.com/p-sandbox/5YZEn-yjEpRwSvxoKpPHZE_Xrow74T--o_rVV06ecyA/915x1200.jpg",
+              "width": 915
+            },
+            {
+              "height": 812,
+              "url": "https://a.mktgcdn.com/p-sandbox/5YZEn-yjEpRwSvxoKpPHZE_Xrow74T--o_rVV06ecyA/619x812.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/5YZEn-yjEpRwSvxoKpPHZE_Xrow74T--o_rVV06ecyA/343x450.jpg",
+              "width": 343
+            },
+            {
+              "height": 257,
+              "url": "https://a.mktgcdn.com/p-sandbox/5YZEn-yjEpRwSvxoKpPHZE_Xrow74T--o_rVV06ecyA/196x257.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5YZEn-yjEpRwSvxoKpPHZE_Xrow74T--o_rVV06ecyA/915x1200.jpg",
+          "width": 915
+        },
+        "imageCaption": "開放感抜群のアトリウムロビー",
+        "sectionTitle": "時が経つのも忘れそう。充実施設に大満足"
+      },
+      {
+        "description": "----------------------------------------------※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-03-15",
+    "c_ap_HeroImage": {
+      "alternateText": "お湯よし・食よし・おもてなしよし。自然に抱かれたおもてなしの宿【福島県　八幡屋】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/nYhazhNHC9D9zMl4tYWvg5D35QSrZ6AZMeY1yxNTs8A/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/nYhazhNHC9D9zMl4tYWvg5D35QSrZ6AZMeY1yxNTs8A/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/nYhazhNHC9D9zMl4tYWvg5D35QSrZ6AZMeY1yxNTs8A/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/nYhazhNHC9D9zMl4tYWvg5D35QSrZ6AZMeY1yxNTs8A/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/nYhazhNHC9D9zMl4tYWvg5D35QSrZ6AZMeY1yxNTs8A/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/nYhazhNHC9D9zMl4tYWvg5D35QSrZ6AZMeY1yxNTs8A/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "宿の全景。手前が2019年にオープンした帰郷邸",
+    "c_ap_LinkArticleSectionTitle": "福島県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "八幡屋 のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/2531002/plan/"
+      },
+      {
+        "linkText": "福島県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/fukushima/"
+      },
+      {
+        "linkText": "福島旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/fukushima/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea1": [
+      "東北全般",
+      "福島県"
+    ],
+    "c_ap_ShortDescription": "開湯はおよそ900 年前という母畑（ぼばた）温泉郷。そのなかでも、「お湯よし・食よし・おもてなしよし」の三拍子が揃っているのが100年の歴史を誇る「八幡屋（やはたや）」です。「プロが選ぶ日本のホテル・旅館 100 選」では常に上位に位置づけられており、 2022 年には総合 1 位に返り咲きました。\n充実した設備に加えて、絶景の天望大露天風呂や山海の幸を使ったお料理など、あらゆる場面で宿のこだわりが感じられます。\nのどかな自然に抱かれたおもてなしの宿で、最高の癒しを味わってみてください。",
+    "c_ap_Tags": [
+      "母畑温泉郷",
+      "老舗",
+      "絶景風呂"
+    ],
+    "c_ap_Theme": [
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "お湯よし・食よし・おもてなしよし。自然に抱かれたおもてなしの宿【福島県　八幡屋】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "開湯はおよそ900 年前という母畑（ぼばた）温泉郷。そのなかでも、「お湯よし・食よし・おもてなしよし」の三拍子が揃っているのが100年の歴史を誇る「八幡屋（やはたや）」です。「プロが選ぶ日本のホテル・旅館 1…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "お湯よし・食よし・おもてなしよし。自然に抱かれたおもてなしの宿【福島県　八幡屋】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_a_ebe517_004",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "東北全般, 福島県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "お湯よし・食よし・おもてなしよし。自然に抱かれたおもてなしの宿【福島県　八幡屋】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

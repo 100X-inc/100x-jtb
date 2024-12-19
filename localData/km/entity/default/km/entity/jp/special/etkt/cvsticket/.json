@@ -1,0 +1,20 @@
+{
+  "$id": "jp/special/etkt/cvsticket/",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_imageURL": "https://www.jtb.co.jp/main/img/popular/conbini_300_250.jpg",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchTags": [
+      "全国"
+    ],
+    "description": "コンビニで簡単に購入！手数料無料！",
+    "landingPageUrl": "https://www.jtb.co.jp/special/etkt/cvsticket/",
+    "name": "【知ってた？！JTBコンビニチケット】"
+  },
+  "entityType": "ce_plan",
+  "folder": "国内特集現地観光プランレジャーチケット定期観光バス",
+  "labels": []
+}

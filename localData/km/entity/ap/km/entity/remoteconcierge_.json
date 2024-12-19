@@ -1,0 +1,65 @@
+{
+  "$id": "ap_remoteconcierge_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_LinkArticleSectionTitle": "群馬県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "群馬旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/gunma/"
+      },
+      {
+        "linkText": "群馬県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/gunma/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_Title": "青畳の香り漂う純和風旅館で、和の趣を満喫【群馬県　お宿玉樹】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "青畳の香り漂う純和風旅館で、和の趣を満喫【群馬県　お宿玉樹】",
+    "c_metaTitle": "青畳の香り漂う純和風旅館で、和の趣を満喫【群馬県　お宿玉樹】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_remoteconcierge",
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "青畳の香り漂う純和風旅館で、和の趣を満喫【群馬県　お宿玉樹】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

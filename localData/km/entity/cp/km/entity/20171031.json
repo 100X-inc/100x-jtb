@@ -1,0 +1,57 @@
+{
+  "$id": "cp_20171031",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "岐阜県",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVeV_G",
+      "linkType": "URL"
+    },
+    "c_cp_DisplayName": "丸山",
+    "c_cp_HiraganaName": "まるやま",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 1024,
+      "sourceUrl": "https://a.mktgcdn.com/p/NM2LrpFATCbe7BnUtJMLQxFe6SW-ocRZtRmid-ahRgA/960x1024.jpg",
+      "thumbnails": [
+        {
+          "height": 1024,
+          "url": "https://a.mktgcdn.com/p-sandbox/LYvpn5WsNuxF46BKoBjL6s-d0lHmsEv03GC7Q1OUbgk/960x1024.jpg",
+          "width": 960
+        },
+        {
+          "height": 660,
+          "url": "https://a.mktgcdn.com/p-sandbox/LYvpn5WsNuxF46BKoBjL6s-d0lHmsEv03GC7Q1OUbgk/619x660.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/LYvpn5WsNuxF46BKoBjL6s-d0lHmsEv03GC7Q1OUbgk/422x450.jpg",
+          "width": 422
+        },
+        {
+          "height": 209,
+          "url": "https://a.mktgcdn.com/p-sandbox/LYvpn5WsNuxF46BKoBjL6s-d0lHmsEv03GC7Q1OUbgk/196x209.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/LYvpn5WsNuxF46BKoBjL6s-d0lHmsEv03GC7Q1OUbgk/960x1024.jpg",
+      "width": 960
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント | 丸山",
+    "c_metaTitle": "JTBトラベルコンサルタント | 丸山",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_20171031",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "岐阜店（フォルダなし）",
+    "name": "まるやま_20171031",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

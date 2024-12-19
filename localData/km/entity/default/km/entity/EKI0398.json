@@ -1,0 +1,260 @@
+{
+  "$id": "EKI0398",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "address": {
+      "city": "Nara-shi",
+      "countryCode": "JP",
+      "line1": "14 Tarui-cho",
+      "postalCode": "630-8218",
+      "region": "Nara"
+    },
+    "appleCompanyId": "1480313529409856512",
+    "c_1MenuLabel": "LFT Official Page",
+    "c_1MenuURL": "https://www.luggage-free-travel.com/travel/index.php",
+    "c_2MenuLabel": "Same-day Delivery Information",
+    "c_2MenuURL": "https://www.luggage-free-travel.com/5-1.html",
+    "c_3MenuLabel": "Frequently Asked Questions",
+    "c_3MenuURL": "https://faq.luggage-free-travel.com/allfaq",
+    "c_about_Section_Sub_font_color": "#740a0b",
+    "c_about_Section_Title_font_color": "#740a0b",
+    "c_about_Section_background": "#f3eee8",
+    "c_cTA1URL": "https://www.luggage-free-travel.com/travel/index.php",
+    "c_cTA1ラベル": "Book Online",
+    "c_cTA2ラベル": "TEL",
+    "c_cTA3URL": "https://www.luggage-free-travel.com/about.html",
+    "c_cTA3ラベル": "What\u0027s LFT?",
+    "c_cTA5URL": "[[c_pagesURL]]",
+    "c_cTA_Main_background": "#e2b343",
+    "c_cTA_Main_border": "#e2b343",
+    "c_cTA_Main_font_color": "#740a0b",
+    "c_cTA_Main_hover_background": "#e2b343",
+    "c_cTA_Main_hover_font_color": "#740a0b",
+    "c_cTA_Sub_background": "#f3eee8",
+    "c_cTA_Sub_border": "#e2b343",
+    "c_cTA_Sub_font_color": "#740a0b",
+    "c_cTA_Sub_hover_background": "#f3eee8",
+    "c_cTA_Sub_hover_font_color": "#740a0b",
+    "c_footer_Section_background": "#f3eee8",
+    "c_mobile_Menu_background": "#f3eee8",
+    "c_nAP_Section_Sub_font_color": "#740a0b",
+    "c_nearby_Section_Title_font_color": "#740a0b",
+    "c_nearby_Section_background": "#f3eee8",
+    "c_pagesSortGroup": "X",
+    "c_pagesURL": "https://locations.luggage-free-travel.com/EKI0398",
+    "c_plusJTBTitle": "[[c_lFT_外部リンクタイトル]]",
+    "c_plusJTBリンク1URL": "[[c_lFT_外部リンク1URL]]",
+    "c_plusJTBリンク1ラベル": "[[c_lFT_外部リンク1タイトル]]",
+    "c_plusJTBリンク2URL": "[[c_lFT_外部リンク2URL]]",
+    "c_plusJTBリンク2ラベル": "[[c_lFT_外部リンク2タイトル]]",
+    "c_plusJTBリンク3URL": "[[c_lFT_外部リンク3URL]]",
+    "c_plusJTBリンク3ラベル": "[[c_lFT_外部リンク3タイトル]]",
+    "c_promo1_Section_Title_font_color": "#740a0b",
+    "c_promo1_Section_background": "#f3eee8",
+    "c_promo2_Section_Title_font_color": "#740a0b",
+    "c_promo2_Section_background": "#ffffff",
+    "c_wed_Menu_background": "#e2b343",
+    "c_wed_Menu_border": "#e2b343",
+    "c_wed_Menu_font_color": "#740a0b",
+    "c_wed_Menu_font_color_on_light": "#740a0b",
+    "c_wed_Menu_light_background": "#f3eee8",
+    "c_店舗MetaDescription": "LFT is your personal baggage concierge as you tour Japan. See the details of delivery location here.",
+    "c_店舗MetaTitle": "[[name]] | LFT",
+    "c_店舗ページ生成": false,
+    "c_店舗営業時間追記0": "[[c_lFT_施設タイプ]]",
+    "c_店舗営業時間追記1": "Last reception time for Drop-off: 3:00PM",
+    "c_店舗営業時間追記2": "Closed:Year-end and New Year Holidays, days vary",
+    "closed": true,
+    "displayCoordinate": {
+      "latitude": 34.681937,
+      "longitude": 135.829423
+    },
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "09:30"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "09:30"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "09:30"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "09:30"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "09:30"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "09:30"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "09:30"
+          }
+        ]
+      }
+    },
+    "keywords": [
+      "luggage delivery",
+      "baggage delivery",
+      "LUGGAGE-FREE TRAVEL",
+      "LFT"
+    ],
+    "mainPhone": "+81368315692",
+    "name": "Yamato Transport Kuroneko Nara TABI Center (Kintetsu-Nara Station)【Closed from Dec 28 to Jan 5】",
+    "services": [
+      "luggage delivery",
+      "baggage delivery",
+      "LUGGAGE-FREE TRAVEL",
+      "LFT"
+    ],
+    "slug": "[[entityId]]",
+    "timezone": "Asia/Tokyo",
+    "websiteUrl": {
+      "url": "http://www.global-yamato.com/en/hands-free-travel/facilities/nara_kintetsu_station.html"
+    }
+  },
+  "entityType": "location",
+  "folder": "298832",
+  "labels": [
+    "label3ライセンスなし"
+  ],
+  "alternateProfiles": [
+    {
+      "locale": "ja_JP",
+      "content": {
+        "address": {
+          "city": "奈良市",
+          "countryCode": "JP",
+          "line1": "樽井町14",
+          "postalCode": "630-8218",
+          "region": "奈良県"
+        },
+        "c_cTA1ラベル": "オンライン予約",
+        "c_cTA3URL": "https://www.luggage-free-travel.com/jp/about.html",
+        "c_cTA3ラベル": "LFT とは？",
+        "c_店舗MetaDescription": "LFTは、日本を周遊する旅に最適な荷物のコンシェルジェサービス。配送可能エリアはこちら。",
+        "c_店舗営業時間追記1": "配送の最終受付時間: 3:00PM",
+        "c_店舗営業時間追記2": "年末年始休業",
+        "keywords": [
+          "荷物配送サービス",
+          "ラゲージフリートラベル",
+          "LFT"
+        ],
+        "name": "ヤマト運輸　クロネコならTABIセンター　（近鉄奈良駅）【12/28～1/5は休み】",
+        "websiteUrl": {
+          "url": "http://www.global-yamato.com/en/hands-free-travel/facilities/nara_kintetsu_station.html"
+        }
+      }
+    },
+    {
+      "locale": "ko",
+      "content": {
+        "address": {
+          "city": "나라시",
+          "countryCode": "JP",
+          "line1": "타루이마치 14",
+          "postalCode": "630-8218",
+          "region": "나라현"
+        },
+        "c_cTA1ラベル": "온라인 예약",
+        "c_cTA3URL": "https://www.luggage-free-travel.com/kr/about.html",
+        "c_cTA3ラベル": "LFT는 무엇입니까?",
+        "c_店舗MetaDescription": "LUGGAGE-FREE TRAVEL은 일본 관광여행 시 편리하고 쾌적한 수하물 컨시어지 서비스. 배송 위치에 대한 자세한 내용은 여기를 참조하십시오.",
+        "c_店舗MetaTitle": "[[name]] | LFT",
+        "c_店舗営業時間追記1": "배송 최종 접수 시간: 3:00PM",
+        "c_店舗営業時間追記2": "휴무: 연말 연시",
+        "keywords": [
+          "수하물 배달",
+          "LUGGAGE-FREE TRAVEL",
+          "LFT"
+        ],
+        "name": "야마토 운수 쿠로네코 나라  TABI 센터 (킨테츠 나라 역)【12/28〜1/5 휴업】"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {
+        "address": {
+          "city": "奈良市",
+          "countryCode": "JP",
+          "line1": "樽井町14",
+          "postalCode": "630-8218",
+          "region": "奈良县"
+        },
+        "c_cTA1ラベル": "网上预定",
+        "c_cTA3URL": "https://www.luggage-free-travel.com/sc/about.html",
+        "c_cTA3ラベル": "什么是LFT？",
+        "c_店舗MetaDescription": "LUGGAGE-FREE TRAVEL是环游日本之旅最佳的行李礼宾服务。在此处查看交货地点的详细信息。",
+        "c_店舗MetaTitle": "[[name]] | LFT",
+        "c_店舗営業時間追記1": "最后交货时间: 3:00PM",
+        "c_店舗営業時間追記2": "休息：新年假期",
+        "keywords": [
+          "行李运送",
+          "LUGGAGE-FREE TRAVEL",
+          "LFT"
+        ],
+        "name": "雅玛多运输 Kuroneko奈良TABI中心 (近铁奈良站)【从12月28日至1月5日休息】"
+      }
+    },
+    {
+      "locale": "zh_Hant",
+      "content": {
+        "address": {
+          "city": "奈良市",
+          "countryCode": "JP",
+          "line1": "樽井町14",
+          "postalCode": "630-8218",
+          "region": "奈良縣"
+        },
+        "c_cTA1ラベル": "網上預定",
+        "c_cTA3URL": "https://www.luggage-free-travel.com/tc/about.html",
+        "c_cTA3ラベル": "什麼是LFT？",
+        "c_店舗MetaDescription": "LUGGAGE-FREE TRAVEL是周遊日本最佳的行李管理服務。在此處查看交貨地點的詳細信息。",
+        "c_店舗MetaTitle": "[[name]] | LFT",
+        "c_店舗営業時間追記1": "最後交貨時間: 3:00PM",
+        "c_店舗営業時間追記2": "關閉:新年假期",
+        "keywords": [
+          "行李運送",
+          "LUGGAGE-FREE TRAVEL",
+          "LFT"
+        ],
+        "name": "雅瑪多運輸 Kuroneko奈良TABI中心 (近鐵奈良站)【從12月28日至1月5日休息】"
+      }
+    }
+  ]
+}

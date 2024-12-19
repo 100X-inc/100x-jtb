@@ -1,0 +1,101 @@
+{
+  "$id": "cp_15185101",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "石川県",
+    "c_cp_CTA1": {
+      "label": "山際 明日香 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVfkxKX",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVek_G",
+      "linkType": "URL"
+    },
+    "c_cp_Certification": [
+      "総合旅行業取扱管理者",
+      "ウエディングコンサルタント"
+    ],
+    "c_cp_Description": "御朱印集めにはまっています。\n国内旅行で旅しながら、美味しい物を食べ、その土地での寺社巡りが楽しみの1つです。\n\n海外はフランスとバリ島が好きで何度か訪れています。\nフランスの街並みを散策したり、バリ島のリゾートホテルでゆったり過ごしています。\n\nご旅行のご相談からワクワクと楽しめるようなお手伝いをさせて頂きます。",
+    "c_cp_DisplayName": "山際",
+    "c_cp_FieldOfExpertise": [
+      "母娘旅",
+      "ウエディング",
+      "ハネムーン",
+      "音楽ライブ"
+    ],
+    "c_cp_GeneralInfo": [
+      "資格：クルーズコンサルタント、ハワイスペシャリスト検定上級、オージースペシャリスト"
+    ],
+    "c_cp_HiraganaName": "やまぎわ",
+    "c_cp_JobTitle": "JTB金沢店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 1189,
+      "sourceUrl": "https://a.mktgcdn.com/p/XsqJTGbzvqGe7dRJSIfgGOTpyS0LFW5nYeZEbb_TBhw/960x1189.jpg",
+      "thumbnails": [
+        {
+          "height": 1189,
+          "url": "https://a.mktgcdn.com/p-sandbox/XsqJTGbzvqGe7dRJSIfgGOTpyS0LFW5nYeZEbb_TBhw/960x1189.jpg",
+          "width": 960
+        },
+        {
+          "height": 767,
+          "url": "https://a.mktgcdn.com/p-sandbox/XsqJTGbzvqGe7dRJSIfgGOTpyS0LFW5nYeZEbb_TBhw/619x767.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/XsqJTGbzvqGe7dRJSIfgGOTpyS0LFW5nYeZEbb_TBhw/363x450.jpg",
+          "width": 363
+        },
+        {
+          "height": 243,
+          "url": "https://a.mktgcdn.com/p-sandbox/XsqJTGbzvqGe7dRJSIfgGOTpyS0LFW5nYeZEbb_TBhw/196x243.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/XsqJTGbzvqGe7dRJSIfgGOTpyS0LFW5nYeZEbb_TBhw/960x1189.jpg",
+      "width": 960
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "フランス"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "インドネシア・バリ島",
+      "インド"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "京都府",
+      "大阪府"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "街歩き",
+      "御朱印巡り"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 山際 明日香",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 山際 明日香",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_15185101",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2024/03/25　JBX対応（産休）",
+    "name": "やまぎわ あすか_15185101",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

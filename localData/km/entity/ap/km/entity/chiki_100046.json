@@ -1,0 +1,241 @@
+{
+  "$id": "ap_chiki_100046",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター 北陸担当"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "お食事は、吹き抜けの開放感と七尾湾の景観を楽しめるレストラン「シーボー」にて。和・洋・中の約50種類の色とりどりのお料理や、ライブ感あふれるオープンキッチンのできたてアツアツの天ぷらや鉄板焼きなど、自分だけのオリジナルメニューを楽しめます。もちろん、食後のデザートビュッフェも充実。フルーツやプチケーキなど、この日ばかりは絶品スイーツを堪能してくださいね。朝食もビュッフェスタイルで。海を眺めながら、ちょっとリッチな朝ごはんで、贅沢な時間をゆったりとお楽しみください。",
+        "image": {
+          "height": 857,
+          "sourceUrl": "https://a.mktgcdn.com/p/YPI0HaELIY3KTXJqctMRarxtPBQUOuF2UTSMP8hU2qE/1200x857.jpg",
+          "thumbnails": [
+            {
+              "height": 857,
+              "url": "https://a.mktgcdn.com/p-sandbox/YPI0HaELIY3KTXJqctMRarxtPBQUOuF2UTSMP8hU2qE/1200x857.jpg",
+              "width": 1200
+            },
+            {
+              "height": 442,
+              "url": "https://a.mktgcdn.com/p-sandbox/YPI0HaELIY3KTXJqctMRarxtPBQUOuF2UTSMP8hU2qE/619x442.jpg",
+              "width": 619
+            },
+            {
+              "height": 429,
+              "url": "https://a.mktgcdn.com/p-sandbox/YPI0HaELIY3KTXJqctMRarxtPBQUOuF2UTSMP8hU2qE/600x429.jpg",
+              "width": 600
+            },
+            {
+              "height": 140,
+              "url": "https://a.mktgcdn.com/p-sandbox/YPI0HaELIY3KTXJqctMRarxtPBQUOuF2UTSMP8hU2qE/196x140.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YPI0HaELIY3KTXJqctMRarxtPBQUOuF2UTSMP8hU2qE/1200x857.jpg",
+          "width": 1200
+        },
+        "imageCaption": "健康にも気を使った色鮮やかな料理（一例）",
+        "sectionTitle": "新しい食事スタイル「おとなビュッフェ」で色鮮やかな料理を満喫"
+      },
+      {
+        "description": "スタンダードな「和室」や「和洋室」など、お部屋は全部で42室。全室オーシャンビューで、能登島やツインブリッジなど、風景画のような七尾湾を眺めながらゆったりと過ごせます。女性に特におすすめなのが「ヴィーナスフロア」のお部屋。パープルの色使いのインテリアやお気に入りの音楽、心地よいアロマの香りなど、お部屋には女性の五感をくすぐるアメニティやグッズがたくさん用意されています。さらに、七尾市出身の辻口博啓パティシエ「ル ミュゼ ドゥ アッシュ」のオリジナルスイーツをお部屋にご用意。女子旅やカップルでの旅行に、特に人気のあるお部屋です。",
+        "image": {
+          "height": 721,
+          "sourceUrl": "https://a.mktgcdn.com/p/6t7ARIxlTyb5zaqQsHpUStP0avyfz_Oea90sdHaS-Vo/1200x721.jpg",
+          "thumbnails": [
+            {
+              "height": 721,
+              "url": "https://a.mktgcdn.com/p-sandbox/6t7ARIxlTyb5zaqQsHpUStP0avyfz_Oea90sdHaS-Vo/1200x721.jpg",
+              "width": 1200
+            },
+            {
+              "height": 372,
+              "url": "https://a.mktgcdn.com/p-sandbox/6t7ARIxlTyb5zaqQsHpUStP0avyfz_Oea90sdHaS-Vo/619x372.jpg",
+              "width": 619
+            },
+            {
+              "height": 361,
+              "url": "https://a.mktgcdn.com/p-sandbox/6t7ARIxlTyb5zaqQsHpUStP0avyfz_Oea90sdHaS-Vo/600x361.jpg",
+              "width": 600
+            },
+            {
+              "height": 118,
+              "url": "https://a.mktgcdn.com/p-sandbox/6t7ARIxlTyb5zaqQsHpUStP0avyfz_Oea90sdHaS-Vo/196x118.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6t7ARIxlTyb5zaqQsHpUStP0avyfz_Oea90sdHaS-Vo/1200x721.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ヴィーナスフロアのお部屋",
+        "sectionTitle": "女性におすすめ！　五感をくすぐるヴィーナスフロア"
+      },
+      {
+        "description": "2つの大浴場では、古くから湯治場として親しまれてきた和倉温泉の湯をゆったりと楽しめます。6階にある「虹の湯」は女性用、5階の「海の湯」は男性用の大浴場で、いずれもゆったりとした広さの内湯と露天風呂を備えています。雄大な風景を眺めながら情緒あふれる旅のひとときを満喫できます。源泉100%の「飲み湯」コーナーもあるので、石川を代表する歴史あるお湯をぜひお試しくださいね。「虹の湯」にある女性専用のパウダールームも好評です。広々とした空間には無料のマッサージチェアも。湯上がりのひとときを存分にお楽しみください。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/htl/5343009/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/e1Js4YyG_UDg9Fvl2j4RJFHoglGlNo-ygLYUYX264_w/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/e1Js4YyG_UDg9Fvl2j4RJFHoglGlNo-ygLYUYX264_w/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/e1Js4YyG_UDg9Fvl2j4RJFHoglGlNo-ygLYUYX264_w/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/e1Js4YyG_UDg9Fvl2j4RJFHoglGlNo-ygLYUYX264_w/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/e1Js4YyG_UDg9Fvl2j4RJFHoglGlNo-ygLYUYX264_w/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/e1Js4YyG_UDg9Fvl2j4RJFHoglGlNo-ygLYUYX264_w/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "女性大浴場「虹の湯」の露天風呂",
+        "sectionTitle": "海を眺めながら名湯に浸かる。湯上がりは女性専用パウダールームで"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-06-18",
+    "c_ap_HeroImage": {
+      "alternateText": "ココロカラダに優しい宿で、新しい女性旅のスタイルを【石川県　虹と海】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 827,
+      "sourceUrl": "https://a.mktgcdn.com/p/Wui_eo6H8VDxy9TQ26JwyFPpGdEMHIjb2eNVLIGiGYA/1200x827.jpg",
+      "thumbnails": [
+        {
+          "height": 827,
+          "url": "https://a.mktgcdn.com/p-sandbox/Wui_eo6H8VDxy9TQ26JwyFPpGdEMHIjb2eNVLIGiGYA/1200x827.jpg",
+          "width": 1200
+        },
+        {
+          "height": 427,
+          "url": "https://a.mktgcdn.com/p-sandbox/Wui_eo6H8VDxy9TQ26JwyFPpGdEMHIjb2eNVLIGiGYA/619x427.jpg",
+          "width": 619
+        },
+        {
+          "height": 414,
+          "url": "https://a.mktgcdn.com/p-sandbox/Wui_eo6H8VDxy9TQ26JwyFPpGdEMHIjb2eNVLIGiGYA/600x414.jpg",
+          "width": 600
+        },
+        {
+          "height": 135,
+          "url": "https://a.mktgcdn.com/p-sandbox/Wui_eo6H8VDxy9TQ26JwyFPpGdEMHIjb2eNVLIGiGYA/196x135.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Wui_eo6H8VDxy9TQ26JwyFPpGdEMHIjb2eNVLIGiGYA/1200x827.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "カジュアルに過ごせる新感覚の宿",
+    "c_ap_LinkArticleSectionTitle": "石川県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "虹と海 のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/5343009/plan/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "和倉温泉の旅館・ホテル・宿おすすめランキング",
+        "uRL": "https://www.jtb.co.jp/ranking/kokunai/wakura_onsen/"
+      },
+      {
+        "linkText": "石川旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/ishikawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "北陸全般",
+      "石川県"
+    ],
+    "c_ap_ShortDescription": "和倉温泉がある七尾湾は、冬から夏にかけて虹がよく出るといわれています。「虹と海」は、暮らすような普段使いの感覚で、気軽に泊まれる新しいスタイルの宿です。\n和・洋・中、約50種の料理が並ぶ「おとなビュッフェ」の夕食や、七尾湾を一望する大浴場、全室オーシャンビューのお部屋など、海辺の温泉旅館の醍醐味がすべて詰まっているのも魅力です。さらに、グループやカップル、ご夫婦の利用スタイルに合わせたさまざまなプランが用意されており、スペシャルな演出やサービスを提案してくれます。旅のパートナーと、思い出に残るひとときをお過ごしくださいね。",
+    "c_ap_Tags": [
+      "和倉温泉",
+      "オーシャンビュー",
+      "おとなビュッフェ",
+      "女子旅"
+    ],
+    "c_ap_Theme": [
+      "母娘旅",
+      "グルメ",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "ココロカラダに優しい宿で、新しい女性旅のスタイルを【石川県　虹と海】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "和倉温泉がある七尾湾は、冬から夏にかけて虹がよく出るといわれています。「虹と海」は、暮らすような普段使いの感覚で、気軽に泊まれる新しいスタイルの宿です。\n和・洋・中、約50種の料理が並ぶ「おとなビュッフェ」の…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "ココロカラダに優しい宿で、新しい女性旅のスタイルを【石川県　虹と海】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100046",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北陸全般, 石川県",
+    "c_searchTags": [
+      "中部・北陸：北陸全般, 石川県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：北陸全般, 石川県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "ココロカラダに優しい宿で、新しい女性旅のスタイルを【石川県　虹と海】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

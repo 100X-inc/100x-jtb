@@ -1,0 +1,44 @@
+{
+  "$id": "taiwan",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "asia"
+    ],
+    "c_linkedArea3News": [
+      "news_web_kaigai_0003",
+      "news_web_kaigai_0004",
+      "news_ap_osarea_0000050",
+      "guide_0018",
+      "news_web_kaigai_0002",
+      "news_ap_osarea_0000023",
+      "news_ap_osarea_0000033",
+      "news_ap_osarea_0000028",
+      "news_ap_osarea_0000027",
+      "news_ap_osarea_0000026",
+      "news_ap_osarea_0000025",
+      "news_ap_osarea_0000039",
+      "news_ap_osarea_0000020",
+      "news_ap_osarea_0000031",
+      "news_ap_osarea_0000035",
+      "news_ap_osarea_0000038",
+      "news_ap_osarea_0000037",
+      "news_ap_osarea_0000022",
+      "news_ap_osarea_0000029",
+      "news_ap_osarea_0000024",
+      "news_ap_osarea_0000034",
+      "news_ap_osarea_0000021",
+      "news_ap_osarea_0000040",
+      "news_ap_osarea_0000032",
+      "news_ap_osarea_0000030"
+    ],
+    "c_metaDescription": "台湾に関する記事をピックアップ！JTBニュースでは、台湾で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 台湾 | 旅行・おでかけ情報",
+    "name": "台湾",
+    "slug": "kaigai/asia/taiwan"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

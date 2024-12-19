@@ -1,0 +1,29 @@
+{
+  "$id": "290611954263832169",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "address": {
+      "city": "船橋市",
+      "countryCode": "JP",
+      "line1": "本町1-3-1",
+      "line2": "船橋FACE3階",
+      "postalCode": "273-0005",
+      "region": "千葉県"
+    },
+    "addressHidden": false,
+    "appleCompanyId": "1480313529409856512",
+    "categoryIds": [
+      "1960",
+      "303"
+    ],
+    "name": "船橋店個人カレンダー",
+    "slug": "[[entityId]]",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "location",
+  "folder": "10105船橋店",
+  "labels": [
+    "label3ライセンスなし"
+  ]
+}

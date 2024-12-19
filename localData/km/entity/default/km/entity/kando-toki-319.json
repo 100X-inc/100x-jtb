@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-319",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/319_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.596469%2C142.427279",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "冬",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "四季折々に色鮮やかな美瑛ですが、実は冬も絶景の宝庫です。夏の豊かな緑が雪に覆われてしまった代わりに、青空と真っ白な雪原のコントラストが、北の大地の広大さを教えてくれます。どこまでも連なる丘は一面の銀世界となり、その中には時々キツネなどの動物を見かけることも。見渡す限り白と青の2色に染め上げられた世界では、大自然の雄大さをいっそう強く感じられます。セブンスターの木、ケンとメリーの木、新栄の丘展望公園など、有名スポットは駐車場が除雪されているので、カメラ片手に丘巡りをすることができます。気温がマイナス15～20℃ぐらいまで冷え込む朝には、空気中の水分が凍りつく“霧氷”が発生します。青空をバックに白い木々が美しく映える姿は絶景です。他にも、雪原に点々と続くキツネやウサギといった野生動物の足跡や、夕陽を浴びてピンクに染まる雪原など、冬ならでは楽しみを探しに行きませんか？\n写真提供：美瑛町",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/319.asp",
+    "name": "美瑛の丘　幻想的な冬景色"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

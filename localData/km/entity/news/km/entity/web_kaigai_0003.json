@@ -1,0 +1,1055 @@
+{
+  "$id": "news_web_kaigai_0003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1244,
+      "sourceUrl": "https://a.mktgcdn.com/p/tmB3huae4Sg5PURxgNeSUwgwfNldsYcbe5Sp6QC7vf0/1920x1244.jpg",
+      "thumbnails": [
+        {
+          "height": 1244,
+          "url": "https://a.mktgcdn.com/p-sandbox/MAA7bxfCawbArIK0vnMaYYpA6M0SFAhVm5JNLmG_Tj4/1920x1244.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1231,
+          "url": "https://a.mktgcdn.com/p-sandbox/MAA7bxfCawbArIK0vnMaYYpA6M0SFAhVm5JNLmG_Tj4/1900x1231.jpg",
+          "width": 1900
+        },
+        {
+          "height": 401,
+          "url": "https://a.mktgcdn.com/p-sandbox/MAA7bxfCawbArIK0vnMaYYpA6M0SFAhVm5JNLmG_Tj4/619x401.jpg",
+          "width": 619
+        },
+        {
+          "height": 389,
+          "url": "https://a.mktgcdn.com/p-sandbox/MAA7bxfCawbArIK0vnMaYYpA6M0SFAhVm5JNLmG_Tj4/600x389.jpg",
+          "width": 600
+        },
+        {
+          "height": 127,
+          "url": "https://a.mktgcdn.com/p-sandbox/MAA7bxfCawbArIK0vnMaYYpA6M0SFAhVm5JNLmG_Tj4/196x127.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/MAA7bxfCawbArIK0vnMaYYpA6M0SFAhVm5JNLmG_Tj4/1920x1244.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "台湾旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/taiwan/"
+      },
+      {
+        "linkText": "台湾行きのツアーを探す",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dept\u003dTYO\u0026sc.dest%5B0%5D.country\u003dTW\u0026sc.dest%5B0%5D.city\u003dTPE"
+      },
+      {
+        "linkText": "台湾のホテルをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/?freeword\u003d%E5%8F%B0%E6%B9%BE\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d176"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "グルメ、ショッピング、足つぼマッサージ……と観光客にとって魅力いっぱいの台湾。最近は、台北だけでなく、台中や高雄、台南まで足を延ばす旅行者も増えています。台湾に初めて訪れる初心者向けのおすすめスポットと基本情報をご紹介しましょう。",
+    "c_ap_Tags": [
+      "はじめてのアジア",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "【完全版】台湾で人気の観光スポット18選！定番スポットをご紹介",
+    "c_linkedArea3News": [
+      "taiwan"
+    ],
+    "c_metaDescription": "グルメ、ショッピング、足つぼマッサージ……と観光客にとって魅力いっぱいの台湾。最近は、台北だけでなく、台中や高雄、台南まで足を延ばす旅行者も増えています。台湾に初めて訪れる初心者向けのおすすめスポットと基本情報をご紹介しましょう。",
+    "c_metaTitle": "【完全版】台湾で人気の観光スポット18選！定番スポットをご紹介｜JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "台湾旅行を探す",
+        "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_web_kaigai_0004",
+        "linkType": "URL"
+      },
+      {
+        "label": "台湾行き航空券を探す",
+        "link": "https://www.jtb.co.jp/ovs_air_static/asia/taiwan/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "台北行きのツアーを探す",
+          "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dept\u003dTYO\u0026sc.dest%5B0%5D.country\u003dTW\u0026sc.dest%5B0%5D.city\u003dTPE",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "高雄のおすすめ観光地と人気ホテルをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_web_kaigai_0004",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "台北の王道モデルコースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000050",
+          "linkType": "OTHER"
+        },
+        "description": "日本との時差はマイナス１時間、日本が正午なら台湾は午前11時。言語は一般的に中国語（北京語）が使用されます。観光地やみやげ店、レストラン、ホテルでは日本語が通じる場合も多くあります。通貨は台湾元で、台湾銀行や大手ホテル、デパートなど、街中で両替が可能です。クレジットカードは屋台やローカル食堂、小売店をのぞき、レストランやショップで使える店は多いので、用意しておくと便利でしょう。チップの習慣はありません。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/OxPMXuxe3SvoYmy-U3SBq_-iOw5tiGpZln6AQTq7rSs/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/OxPMXuxe3SvoYmy-U3SBq_-iOw5tiGpZln6AQTq7rSs/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/OxPMXuxe3SvoYmy-U3SBq_-iOw5tiGpZln6AQTq7rSs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/OxPMXuxe3SvoYmy-U3SBq_-iOw5tiGpZln6AQTq7rSs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/OxPMXuxe3SvoYmy-U3SBq_-iOw5tiGpZln6AQTq7rSs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OxPMXuxe3SvoYmy-U3SBq_-iOw5tiGpZln6AQTq7rSs/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "©iStock.com/BigGabig",
+        "infoBlockLabel": "台北101の基本情報",
+        "infoBlockText": "アクセス：MRT「台北101／世貿」駅すぐ住所：台北市信義區信義路五段7號TEL：02-8101-8800営業時間：ショッピングモール　11:00〜21:30(日〜木曜日)／11:00〜22:00(金・土曜日、祝日)　　　　　展望台　10:00〜21:00（最終入場20:30）　　　　　※レストランは店舗により異なる休業日：なし（91階屋外展望デッキは天候による）料金：展望台600台湾元（6才以下、身長115cm以下無料）",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．台湾の人気観光エリア"
+      },
+      {
+        "cTA1": {
+          "label": "九份の現地ツアーを探す",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/?keyWord\u003d%25E4%25B9%259D%25E3%2581%25B5%25E3%2582%2593\u0026searchFlag\u003d1",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "台北で朝ごはんを食べるならこちら",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000028",
+          "linkType": "URL"
+        },
+        "description": "台湾の中心都市、台北（タイペイ）。人気の台湾スイーツはもちろん、屋台のB級グルメから一流レストランまで、あらゆる台湾グルメを堪能できる街です。観光や台湾雑貨のショッピングも楽しめて、公共交通機関も便利なので、台湾旅行ビギナーにもおすすめのエリアです。日本から台北への航空便は、市内の台北松山空港と、桃園市にある台湾桃園国際空港の2ヵ所に、各地からの直行便が就航しています。空港から市内へのアクセスは、MRT（地下鉄）、バス、タクシーなど予算や人数、目的地にあわせて選びましょう。市内移動はMRT（地下鉄）やバスのほか、レンタル自転車、タクシーも利用が可能です。「台北」駅から台湾高鉄（新幹線）や台湾鉄路、長距離バスも運行しているので、台中や台南、高雄、九份、花蓮への旅の起点にもなります。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/q0XfyGfkG1qwAAcHnplPOiMqqbuOM9U5wHe-L9ehaCU/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/q0XfyGfkG1qwAAcHnplPOiMqqbuOM9U5wHe-L9ehaCU/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/q0XfyGfkG1qwAAcHnplPOiMqqbuOM9U5wHe-L9ehaCU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/q0XfyGfkG1qwAAcHnplPOiMqqbuOM9U5wHe-L9ehaCU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/q0XfyGfkG1qwAAcHnplPOiMqqbuOM9U5wHe-L9ehaCU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/q0XfyGfkG1qwAAcHnplPOiMqqbuOM9U5wHe-L9ehaCU/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "©iStock.com/GoranQ",
+        "infoBlockLabel": "龍山寺の基本情報",
+        "infoBlockText": "アクセス：MRT「龍山寺」駅すぐ住所：台北市萬華區廣州街211號TEL：02-2302-5162営業時間：6:00～21:45休業日：なし",
+        "sectionLevel": "h3",
+        "sectionTitle": "台北　"
+      },
+      {
+        "cTA1": {
+          "label": "台中の現地ツアーを探す",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aASI/bTW/?keyWord\u003d%25E5%258F%25B0%25E4%25B8%25AD\u0026searchFlag\u003d1",
+          "linkType": "URL"
+        },
+        "description": "赤いぼんぼりが坂道を幻想的に照らし、映画のワンシーンを思わせる街・九份（ジウフェン/きゅうふん）。1989年、台湾映画「非情城市」の舞台になったことをきっかけに注目を集めました。近年、日本統治時代に建てられた古い街並みがテレビやガイドブックで紹介され、日本人観光客の定番スポットになっています。台北市内からは、路線バスや台湾鉄路を利用して60～90分前後です。台湾のレトロなおみやげを探したり、茶芸館で台湾茶のひとときを楽しんだり、楽しみ方は人それぞれ。街の風情に惹かれて移り住んだ陶芸家や画家の芸術作品も楽しめます。九份は台北市内に比べて、気温が低く雨量の多いエリア。雨具や羽織るものを用意しておくと安心です。また、石畳や坂道が多いので、かかとの高い靴はNG。履きなれた、滑りにくいシューズで出かけましょう。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/ASXC0frKyFKe_grAILyPv5nj4cMYksCZtRj9ADiu20k/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/ASXC0frKyFKe_grAILyPv5nj4cMYksCZtRj9ADiu20k/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ASXC0frKyFKe_grAILyPv5nj4cMYksCZtRj9ADiu20k/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ASXC0frKyFKe_grAILyPv5nj4cMYksCZtRj9ADiu20k/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ASXC0frKyFKe_grAILyPv5nj4cMYksCZtRj9ADiu20k/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ASXC0frKyFKe_grAILyPv5nj4cMYksCZtRj9ADiu20k/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "写真提供：台湾観光局",
+        "infoBlockLabel": "迪化街の基本情報",
+        "infoBlockText": "アクセス：MRT「北門」駅、または「大橋頭」駅から徒歩5分住所：台北市大同區迪化街",
+        "sectionLevel": "h3",
+        "sectionTitle": "九份　"
+      },
+      {
+        "cTA1": {
+          "label": "高雄行きのツアーを探す",
+          "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dept\u003dTYO\u0026sc.dest%5B0%5D.country\u003dTW\u0026sc.dest%5B0%5D.city\u003dKHH",
+          "linkType": "URL"
+        },
+        "description": "台湾第３の都市・台中（タイヂョン／たいちゅう）（※）は、タピオカミルクティーやパイナップルケーキなど、日本でも人気の台湾スイーツ発祥地です。気候がおだやかで、住みたい街としても人気です。ここ数年は高層ビルや大型ホテル、オペラハウスが続々とオープンし、台湾でも有数の勢いと活気のある街になりました。台中を訪れるなら、にぎやかな市内から少し足を延ばして、台湾のウユニ塩湖と言われる高美湿地（ガオメイシーディ）へのお出かけもおすすめ。水平線に沈む夕陽の絶景を眺めてみましょう。台中では2020年に地下鉄が開通予定ですが、市内移動は主にタクシーやバス利用となります。台北からは台湾高鉄（新幹線）で1時間ほどなので、日帰り旅行でも十分楽しむことができます。",
+        "image": {
+          "height": 728,
+          "sourceUrl": "https://a.mktgcdn.com/p/pewtk5nq3a8KEFZo3CCykOYvyHvQPPZuwsrneLqPvhQ/1092x728.jpg",
+          "thumbnails": [
+            {
+              "height": 728,
+              "url": "https://a.mktgcdn.com/p-sandbox/_ppyBgP_7xAx-RPm0KFtNU7prmgJJsDzbqt16xfUn4Q/1092x728.jpg",
+              "width": 1092
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/_ppyBgP_7xAx-RPm0KFtNU7prmgJJsDzbqt16xfUn4Q/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/_ppyBgP_7xAx-RPm0KFtNU7prmgJJsDzbqt16xfUn4Q/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/_ppyBgP_7xAx-RPm0KFtNU7prmgJJsDzbqt16xfUn4Q/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_ppyBgP_7xAx-RPm0KFtNU7prmgJJsDzbqt16xfUn4Q/1092x728.jpg",
+          "width": 1092
+        },
+        "imageCaption": "©iStock.com/shih-wei",
+        "infoBlockLabel": "士林夜市の基本情報",
+        "infoBlockText": "アクセス：MRT「劍潭」駅からすぐ住所：台北市士林區基河路101號営業時間：16:00～24:00ごろ休業日：店舗により異なる",
+        "sectionLevel": "h3",
+        "sectionTitle": "台中　"
+      },
+      {
+        "cTA1": {
+          "label": "台南行きのツアーを探す",
+          "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dTW\u0026sc.dest%5B0%5D.city\u003dTNN",
+          "linkType": "URL"
+        },
+        "description": "台湾有数の貿易港を擁する台湾第2の都市・高雄（カオシュン／たかお）は、台湾高鉄（新幹線）で台北から約2時間でアクセスできます。高雄国際空港には日本各地からの直行便も就航しているので、台湾南部を旅する起点にもおすすめです。高雄では日本統治時代に整備された旧市街が再開発され、駁二藝術區（ボーア―イース―チュー）などのアートスポットに生まれ変わりました。北東部の蓮池潭（リェンチータン）にはパワースポット・龍虎塔（ロンフーター）もあり、新旧のみどころ満載です。港町の高雄は海鮮料理が自慢で、高級店からリーズナブルな食堂まで選択肢がいっぱい。フェリーで５分ほどの旗津（チージン）に並ぶ海鮮料理店や六合夜市（リウハーイェシー）でも、高雄グルメを楽しむことができます。市内の移動は、空港や新幹線駅も網羅するMRT（地下鉄）が便利です。タクシーも併せて利用しましょう。",
+        "image": {
+          "height": 1018,
+          "sourceUrl": "https://a.mktgcdn.com/p/lLVBtD_kGlAgsR94378F0dxDXl6stGel1aIhL-ZFhUA/1536x1018.jpg",
+          "thumbnails": [
+            {
+              "height": 1018,
+              "url": "https://a.mktgcdn.com/p-sandbox/lLVBtD_kGlAgsR94378F0dxDXl6stGel1aIhL-ZFhUA/1536x1018.jpg",
+              "width": 1536
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/lLVBtD_kGlAgsR94378F0dxDXl6stGel1aIhL-ZFhUA/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/lLVBtD_kGlAgsR94378F0dxDXl6stGel1aIhL-ZFhUA/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/lLVBtD_kGlAgsR94378F0dxDXl6stGel1aIhL-ZFhUA/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lLVBtD_kGlAgsR94378F0dxDXl6stGel1aIhL-ZFhUA/1536x1018.jpg",
+          "width": 1536
+        },
+        "imageCaption": "写真提供：台湾観光局",
+        "infoBlockLabel": "饒河街夜市の基本情報",
+        "infoBlockText": "アクセス：MRT「松山」駅から徒歩３分住所：台北松山區饒河街営業時間：17:00～24:00ごろ休業日：店舗により異なる",
+        "sectionLevel": "h3",
+        "sectionTitle": "高雄　"
+      },
+      {
+        "cTA1": {
+          "label": "台湾・花蓮の行き方と楽しみ方をみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/TW/2015/02/hualien-sightseeing.html",
+          "linkType": "URL"
+        },
+        "description": "台湾の京都とも称される古都・台南（タイナン）は、台湾の歴史と文化が凝縮された街です。17世紀にオランダが侵攻し拠点を置いた台南から、台湾の歴史が始まりました。おすすめは赤嵌樓（チーカンラオ）や台南孔子廟（タイナンコンズミャオ）、林百貨（リンバイフォー）などの歴史建築や史跡めぐりと、古き良き台湾の気配が色濃く残る静かな路地裏散策。また、屋台や食堂の「小吃（シャオチー／軽食）」食べ歩きも、台南旅行の楽しみのひとつです。台北からは、台湾高鉄（新幹線）で約1時間半。市内移動は路線バスもありますが、旅行者には少しわかりにくい点もあるので、タクシー利用がおすすめです。流しのタクシーは少ないので、ホテルや林百貨などのタクシー乗り場利用のほか、配車アプリを利用できるようにインストールしておくと便利です。",
+        "image": {
+          "height": 1007,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZACXOi82ukqZHcL345eiGVI7pT3-LeC5gtIihN_ECJA/1536x1007.jpg",
+          "thumbnails": [
+            {
+              "height": 1007,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZACXOi82ukqZHcL345eiGVI7pT3-LeC5gtIihN_ECJA/1536x1007.jpg",
+              "width": 1536
+            },
+            {
+              "height": 406,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZACXOi82ukqZHcL345eiGVI7pT3-LeC5gtIihN_ECJA/619x406.jpg",
+              "width": 619
+            },
+            {
+              "height": 393,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZACXOi82ukqZHcL345eiGVI7pT3-LeC5gtIihN_ECJA/600x393.jpg",
+              "width": 600
+            },
+            {
+              "height": 128,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZACXOi82ukqZHcL345eiGVI7pT3-LeC5gtIihN_ECJA/196x128.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZACXOi82ukqZHcL345eiGVI7pT3-LeC5gtIihN_ECJA/1536x1007.jpg",
+          "width": 1536
+        },
+        "imageCaption": "©iStock.com/Mlenny",
+        "infoBlockLabel": "豎崎路の基本情報",
+        "infoBlockText": "アクセス：台北からバスや鉄道で約1時間30分住所：新北市瑞芳區豎崎路",
+        "sectionLevel": "h3",
+        "sectionTitle": "台南　"
+      },
+      {
+        "cTA1": {
+          "label": "台北の穴場観光地もみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_web_kaigai_0002",
+          "linkType": "URL"
+        },
+        "description": "台湾中東部に位置する花蓮（ファリェン／かれん）は、台湾きっての美しい景観を擁するエリアです。大部分が山岳地帯をしめる花蓮でおすすめの見どころは、なんとっても太魯閣渓谷（タイル―グーシーグー）。大理石の断崖絶壁が約20キロにわたってつづく圧倒的な眺めと、水や山の緑あふれる自然に癒される、花蓮ならではの神秘的な場所です。台北から花蓮へのアクセスは、台湾鉄路で2時間30分前後です。祝日や週末は混雑するので、予約は早めに手配しましょう。2020年には片道約３時間のバスが開通して、さらにアクセスが便利になりました。台北松山空港と花蓮空港を結ぶ国内線も就航しています。花蓮市内の移動はタクシーが中心。台北からのオプショナルツアーも多数探すことができます。",
+        "image": {
+          "height": 1030,
+          "sourceUrl": "https://a.mktgcdn.com/p/3AUVK4RKpR72zqBFC0YTWFwNiyioENk5PPs7Ykedpok/1536x1030.jpg",
+          "thumbnails": [
+            {
+              "height": 1030,
+              "url": "https://a.mktgcdn.com/p-sandbox/3AUVK4RKpR72zqBFC0YTWFwNiyioENk5PPs7Ykedpok/1536x1030.jpg",
+              "width": 1536
+            },
+            {
+              "height": 415,
+              "url": "https://a.mktgcdn.com/p-sandbox/3AUVK4RKpR72zqBFC0YTWFwNiyioENk5PPs7Ykedpok/619x415.jpg",
+              "width": 619
+            },
+            {
+              "height": 402,
+              "url": "https://a.mktgcdn.com/p-sandbox/3AUVK4RKpR72zqBFC0YTWFwNiyioENk5PPs7Ykedpok/600x402.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/3AUVK4RKpR72zqBFC0YTWFwNiyioENk5PPs7Ykedpok/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3AUVK4RKpR72zqBFC0YTWFwNiyioENk5PPs7Ykedpok/1536x1030.jpg",
+          "width": 1536
+        },
+        "imageCaption": "写真提供：林百貨",
+        "infoBlockLabel": "彩虹眷村の基本情報",
+        "infoBlockText": "アクセス：台湾鉄路「台中」駅から車で25分／台湾高鉄「台中」駅から車で10分住所：台中市南屯區春安路56巷25號営業時間：9:00～17:00（住宅街なので常識的な時間内が望ましい）休業日：なし（旧正月期間中は一般開放されません）",
+        "sectionLevel": "h3",
+        "sectionTitle": "花蓮　"
+      },
+      {
+        "cTA1": {
+          "label": "九份のおすすめスポットをもっとみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000021",
+          "linkType": "OTHER"
+        },
+        "description": "近代的なタワーから昔ながらの寺社、レトロな問屋街、にぎやかな夜市など、さまざまな表情を見せる台北。B級グルメからショッピング、足つぼマッサージまで楽しみ尽くしましょう！",
+        "image": {
+          "height": 1023,
+          "sourceUrl": "https://a.mktgcdn.com/p/mD-2dAZ0f4zImslF9i3j_C5kh_pwnCfjoJg3NZFzDjQ/1536x1023.jpg",
+          "thumbnails": [
+            {
+              "height": 1023,
+              "url": "https://a.mktgcdn.com/p-sandbox/mD-2dAZ0f4zImslF9i3j_C5kh_pwnCfjoJg3NZFzDjQ/1536x1023.jpg",
+              "width": 1536
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/mD-2dAZ0f4zImslF9i3j_C5kh_pwnCfjoJg3NZFzDjQ/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/mD-2dAZ0f4zImslF9i3j_C5kh_pwnCfjoJg3NZFzDjQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/mD-2dAZ0f4zImslF9i3j_C5kh_pwnCfjoJg3NZFzDjQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/mD-2dAZ0f4zImslF9i3j_C5kh_pwnCfjoJg3NZFzDjQ/1536x1023.jpg",
+          "width": 1536
+        },
+        "imageCaption": "©iStock.com/Mlenny",
+        "infoBlockLabel": "宮原眼科の基本情報",
+        "infoBlockText": "アクセス：台湾鉄路「台中」駅徒歩4分住所：台中市中區中山路20號TEL：04-2227-1927営業時間：10:00～22:00休業日：なし",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．台北のおすすめ観光地"
+      },
+      {
+        "cTA1": {
+          "label": "高雄のおすすめスポットをもっとみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_web_kaigai_0004",
+          "linkType": "URL"
+        },
+        "description": "「台北101（タイペイイーリンイー）」は、高さ508メートルを誇る、台北市のランドマークです。風水で縁起がいいとされる「竹」をモチーフにした巨大なタワーは、地下からてっぺんまで楽しみ方がいっぱい！　89階と91階には市内を一望するパノラマの展望台が、地下1階から地上5階までのショッピングモールには世界のブランドが集合しています。台北101には免税カウンターもあるので、ショッピングと観光を一挙に楽しみましょう。地下のフードコートには気軽な台湾B級グルメ、85階から86階に位置するレストラン街には、台湾の食通やセレブも足を運ぶ話題の店が目白押し。高層階から夜景を眺めるディナーも、旅ならではの醍醐味です。台北101で、きらめく台北旅行のクライマックスを楽しんでみては？",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/DCaSOtzb89AoMOHH-CYJ1iAaEQ3trWp9yHr2dQMlS0c/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/DCaSOtzb89AoMOHH-CYJ1iAaEQ3trWp9yHr2dQMlS0c/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/DCaSOtzb89AoMOHH-CYJ1iAaEQ3trWp9yHr2dQMlS0c/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/DCaSOtzb89AoMOHH-CYJ1iAaEQ3trWp9yHr2dQMlS0c/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/DCaSOtzb89AoMOHH-CYJ1iAaEQ3trWp9yHr2dQMlS0c/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DCaSOtzb89AoMOHH-CYJ1iAaEQ3trWp9yHr2dQMlS0c/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "写真提供：台湾観光局",
+        "infoBlockLabel": "逢甲夜市の基本情報",
+        "infoBlockText": "アクセス：台湾鉄路「台中」駅から車で20分住所：台中市西屯區文華路、逢甲路、福星路周辺営業時間：18:00～深夜休業日：店舗により異なる",
+        "sectionLevel": "h3",
+        "sectionTitle": "台北101　"
+      },
+      {
+        "cTA1": {
+          "label": "台湾の記事一覧はこちら",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan",
+          "linkType": "URL"
+        },
+        "description": "台北のパワースポット「龍山寺（ロンシャンスー／りゅうざんじ）」は、MRT「龍山寺」駅目の前にあります。恋愛運や縁結びの神様「月下老人」、受験の神様「文昌帝君」、三国志で有名な「関聖帝君」は勝負運、商売繁盛、金運や悪霊退散のご利益があるとされ、ご本尊には観音様がずらり。幸運や良縁を求めて多くの人々が訪れるスポットです。龍山寺の落成は1740年。280年もの歴史をもち、台湾の古跡に指定されています。第二次世界大戦中に爆撃を受けた台北で、龍山寺の観音像とここに避難した人々は無事だったことから、龍山寺は強いご加護のあるパワースポットと信じられているのだとか。中国の伽藍建築、神様に祈りをささげる人たち、お線香の香りと、南国の鮮やかな花や果物のお供え…台湾ならではのエキゾチックな空間へ、幸せを願いに出かけてみましょう。",
+        "image": {
+          "height": 1022,
+          "sourceUrl": "https://a.mktgcdn.com/p/BAFa_hUcK7_hoDgukaO3wwW6Q-alt12nda-PH-9-Nfs/1536x1022.jpg",
+          "thumbnails": [
+            {
+              "height": 1022,
+              "url": "https://a.mktgcdn.com/p-sandbox/BAFa_hUcK7_hoDgukaO3wwW6Q-alt12nda-PH-9-Nfs/1536x1022.jpg",
+              "width": 1536
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/BAFa_hUcK7_hoDgukaO3wwW6Q-alt12nda-PH-9-Nfs/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/BAFa_hUcK7_hoDgukaO3wwW6Q-alt12nda-PH-9-Nfs/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/BAFa_hUcK7_hoDgukaO3wwW6Q-alt12nda-PH-9-Nfs/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BAFa_hUcK7_hoDgukaO3wwW6Q-alt12nda-PH-9-Nfs/1536x1022.jpg",
+          "width": 1536
+        },
+        "imageCaption": "©iStock.com/Julien Viry",
+        "infoBlockLabel": "蓮池潭の基本情報",
+        "infoBlockText": "アクセス：台湾高鉄「左營」駅、またはMRT「新左營」駅から車で5分住所：高雄市左營區蓮潭路TEL：07-588-3242営業時間：24時間開放（龍虎塔は8:00～18:00）料金：入場無料※龍虎塔は2025年夏まで改修工事中",
+        "sectionLevel": "h3",
+        "sectionTitle": "龍山寺　"
+      },
+      {
+        "description": "台湾みやげをまとめ買いするなら、「迪化街（ディーフアージェ／てきかがい）」がおすすめ！ 迪化街は18世紀に生まれた、台湾最古の問屋街です。マンゴーのドライフルーツや漢方薬、からすみに台湾茶、ナイロンバッグにカラフルな台湾花布など、人気の台湾みやげがここ迪化街でそろいます。迪化街には、恋愛運のパワースポット霞海城隍廟（シャーハイチェンファンミャオ）も。台北有数の縁結びの神様・月下老人に、円満な恋愛や人間関係をお祈りしてみましょう。赤レンガに昔ながらの風情を残す迪化街には、かわいらしくリノベーションしたショップが増えています。老舗を受け継いだ次世代オーナーの若い感性で、台湾の昔ながらのアイテムをおしゃれにアレンジしているのも、迪化街ならではの魅力。古い建物を改装したリノベ—ションカフェも多いので、気になるお店を気軽にのぞいてみましょう。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/xe8SAg7PMPlo6sL31GsOQ3xdjEVGCkHO8CYgUYm_03I/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/xe8SAg7PMPlo6sL31GsOQ3xdjEVGCkHO8CYgUYm_03I/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/xe8SAg7PMPlo6sL31GsOQ3xdjEVGCkHO8CYgUYm_03I/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/xe8SAg7PMPlo6sL31GsOQ3xdjEVGCkHO8CYgUYm_03I/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/xe8SAg7PMPlo6sL31GsOQ3xdjEVGCkHO8CYgUYm_03I/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xe8SAg7PMPlo6sL31GsOQ3xdjEVGCkHO8CYgUYm_03I/1536x1024.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "六合夜市の基本情報",
+        "infoBlockText": "アクセス：MRT「美麗島」駅から徒歩２分住所：高雄市新興區六合二路営業時間：18:00～深夜休業日：店舗により異なる",
+        "sectionLevel": "h3",
+        "sectionTitle": "迪化街　"
+      },
+      {
+        "description": "台北で必須のアクティビティといえば夜市めぐり。台北最大規模をほこる「士林夜市（シーリンイェシー／しりんよいち）」は観光客にも人気です。士林夜市は大きくふたつのエリアに分かれており、まずはMRT「劍潭（ジェンタン）」駅前の士林市場へ。アーケードと地下に店舗が並んで、雨の日も安心です。地上では射的やスロットなどのゲーム、地下の美食區（グルメエリア）にはフルーツかき氷などのスイーツ系や台湾B級グルメの人気店が立ち並びます。イートインスペースがあるので、夜市グルメの食べ歩きをゆっくり楽しむことが出来ます。市場の裏手へ足を延ばすと、慈誠宮（ツーチェンゴン）を中心に屋外の屋台エリアが広がっています。名物のカステラや胡椒餅、ジャンボフライドチキンなど、熱々の屋台グルメをはしごしましょう。混雑する夜市では、バッグやカメラなど貴重品に注意してください。高額請求をする店もまれにあるので、まずは値段を確認してトラブル回避を。",
+        "image": {
+          "height": 749,
+          "sourceUrl": "https://a.mktgcdn.com/p/50Hsz00TLO4GkSoP22baX5jHERCj0l2NZBQpiYYiSlY/1124x749.jpg",
+          "thumbnails": [
+            {
+              "height": 749,
+              "url": "https://a.mktgcdn.com/p-sandbox/1nV8Gw5pjwkYkGN8DdxjXWTblZBTXm60aWKUHxw8aPk/1124x749.jpg",
+              "width": 1124
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/1nV8Gw5pjwkYkGN8DdxjXWTblZBTXm60aWKUHxw8aPk/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/1nV8Gw5pjwkYkGN8DdxjXWTblZBTXm60aWKUHxw8aPk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/1nV8Gw5pjwkYkGN8DdxjXWTblZBTXm60aWKUHxw8aPk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1nV8Gw5pjwkYkGN8DdxjXWTblZBTXm60aWKUHxw8aPk/1124x749.jpg",
+          "width": 1124
+        },
+        "infoBlockLabel": "光之穹頂の基本情報",
+        "infoBlockText": "アクセス：MRT「美麗島」駅構内住所：高雄市新興區中山一路115號 地下1階TEL：07-793-8888営業時間：5:55～24:25",
+        "sectionLevel": "h3",
+        "sectionTitle": "士林夜市　"
+      },
+      {
+        "description": "台北市内でSNS映えする夜市といえば、「饒河街夜市（ラオハージェイェシー）」です。MRT「松山」駅５番出口を出ると、荘厳な寺院・松山慈祐宮（ソンシャンツーヨウゴン）と、その真横には饒河街夜市のゲートが見えてきます。夕暮れにゲートと寺院がライトアップされると、にぎやかな夜市タイムのはじまり。フォトジェニックなネオンの輝きと屋台から漂う芳ばしい香りに、訪れるひとたちのテンションは高まります。饒河街夜市は全長約600メートルの一本道で、両脇と中央に屋台やお店がぎっしり並んでいます。漢方スープや胡椒餅、パパイヤミルク、臭豆腐などの台湾B級グルメのほか、ケバブや香港スイーツも地元の学生に人気です。2列の通路を一方通行で往復する流れにのれば、迷う心配はありません。雑貨の露店や占いブースなど思わず足をとめてしまう場所が多いので、松山慈祐宮を集合場所にしておけば自由行動も安心です。",
+        "image": {
+          "height": 690,
+          "sourceUrl": "https://a.mktgcdn.com/p/Fzxu8RPrgfewb_Y7_ju2FKJDV2JQ-_LhGCGfDk2ta3k/768x690.jpg",
+          "thumbnails": [
+            {
+              "height": 690,
+              "url": "https://a.mktgcdn.com/p-sandbox/VKXY7pLXlHOumyLGBeBPLFObBKADyK-y4MSUFIKS1OI/768x690.jpg",
+              "width": 768
+            },
+            {
+              "height": 556,
+              "url": "https://a.mktgcdn.com/p-sandbox/VKXY7pLXlHOumyLGBeBPLFObBKADyK-y4MSUFIKS1OI/619x556.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/VKXY7pLXlHOumyLGBeBPLFObBKADyK-y4MSUFIKS1OI/501x450.jpg",
+              "width": 501
+            },
+            {
+              "height": 176,
+              "url": "https://a.mktgcdn.com/p-sandbox/VKXY7pLXlHOumyLGBeBPLFObBKADyK-y4MSUFIKS1OI/196x176.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VKXY7pLXlHOumyLGBeBPLFObBKADyK-y4MSUFIKS1OI/768x690.jpg",
+          "width": 768
+        },
+        "infoBlockLabel": "赤嵌樓の基本情報",
+        "infoBlockText": "アクセス：99台江線バス「赤嵌樓」下車すぐ住所：台南市中西區民族路二段212號TEL：06-220-5647営業時間：8:30〜21:30料金：入場70台湾元",
+        "sectionLevel": "h3",
+        "sectionTitle": "饒河街夜市　"
+      },
+      {
+        "description": "日本統治時代に建てられた古い街並みがテレビやガイドブックで紹介され、今や日本人観光客の定番スポットになった九份。赤いぼんぼりが坂道を幻想的に照らす映画のワンシーンのような世界に迷い込みましょう！",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/NrOuKliaynhZjy5wj8RuoysuHwD0jjM8sEEPI9C5Wx4/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/NrOuKliaynhZjy5wj8RuoysuHwD0jjM8sEEPI9C5Wx4/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/NrOuKliaynhZjy5wj8RuoysuHwD0jjM8sEEPI9C5Wx4/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/NrOuKliaynhZjy5wj8RuoysuHwD0jjM8sEEPI9C5Wx4/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/NrOuKliaynhZjy5wj8RuoysuHwD0jjM8sEEPI9C5Wx4/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NrOuKliaynhZjy5wj8RuoysuHwD0jjM8sEEPI9C5Wx4/1536x1152.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "台南孔子廟の基本情報",
+        "infoBlockText": "アクセス：台湾鉄路「台南」駅から車で5分、市バス2番、観光バス88番「孔廟」下車すぐ住所：台南市中西區南門路2號TEL：06-221-4647営業時間：8:30〜17:30料金：大成殿入場25台湾元",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．九份のおすすめ観光地"
+      },
+      {
+        "description": "石畳の階段に赤いぼんぼりが幻想的に揺れており、「豎崎路（シューチールー）」には九份のイメージそのものの世界が広がっています。両側に茶藝館やみやげ店が並ぶ豎崎路は、九份を縦に貫くメインストリート。フォトジェニックな九份の写真を撮る人気ポイントは、阿妹茶樓（アメイチャーロウ）手前にある左側のスペースです。さらに下った昇平戯院（シォンピンシーユェン）前の広場から、階段を見上げるアングルもおすすめです。急斜面の階段が続く豎崎路には、九份老街の入り口・基山街から入る下りのコースが安心。おみやげや台湾スイーツ、昔ながらの商店街を眺めながら歩いて行くと、豎崎路へ右折する入口が現れます。ぼんぼりの明かりが灯るのは、冬季で17時ごろ、夏季は18時ごろから。この時間帯は観光客が最も多いので、混雑時は注意が必要です。貴重品はしっかりと持ち、必要最小限の荷物で出かけましょう。",
+        "image": {
+          "height": 325,
+          "sourceUrl": "https://a.mktgcdn.com/p/Q8n2hGafQYhcEr0lLTLBtgHn-Z4MuHPkrOiBPNtW6ow/487x325.jpg",
+          "thumbnails": [
+            {
+              "height": 325,
+              "url": "https://a.mktgcdn.com/p-sandbox/GNCDHXLrQAMbGLdpdIzZpKT8GQmNyHfwqqFgL1zzvAE/487x325.jpg",
+              "width": 487
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/GNCDHXLrQAMbGLdpdIzZpKT8GQmNyHfwqqFgL1zzvAE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/GNCDHXLrQAMbGLdpdIzZpKT8GQmNyHfwqqFgL1zzvAE/487x325.jpg",
+          "width": 487
+        },
+        "infoBlockLabel": "林百貨の基本情報",
+        "infoBlockText": "アクセス：台湾鉄路「台南」駅から車で5分、市バス1番か7番で「林百貨(中正路)」下車すぐ住所：台南市中西區忠義路二段63號TEL：06-221-3000営業時間：11:00〜21:00休業日：なし",
+        "sectionLevel": "h3",
+        "sectionTitle": "豎崎路　"
+      },
+      {
+        "description": "台湾第3の都市に成長した・台中は、タピオカミルクティーやパイナップルケーキなどの台湾スイーツ発祥地としても有名です。台湾リノベブームのさきがけといわれるスイーツ専門店の宮原眼科、フォトジェニック・スポットの彩虹眷村などがよく知られています。",
+        "image": {
+          "height": 653,
+          "sourceUrl": "https://a.mktgcdn.com/p/Hklc__DEdaetYsXwoayLbblFR1WR2F1JZS4Co9KsbsQ/979x653.jpg",
+          "thumbnails": [
+            {
+              "height": 653,
+              "url": "https://a.mktgcdn.com/p-sandbox/pbF5oiTFrqzgMTKCunlFh4EwA-Dk6Xdz3YByaRvslq8/979x653.jpg",
+              "width": 979
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/pbF5oiTFrqzgMTKCunlFh4EwA-Dk6Xdz3YByaRvslq8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/pbF5oiTFrqzgMTKCunlFh4EwA-Dk6Xdz3YByaRvslq8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/pbF5oiTFrqzgMTKCunlFh4EwA-Dk6Xdz3YByaRvslq8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/pbF5oiTFrqzgMTKCunlFh4EwA-Dk6Xdz3YByaRvslq8/979x653.jpg",
+          "width": 979
+        },
+        "infoBlockLabel": "太魯閣峡谷の基本情報",
+        "infoBlockText": "アクセス：台湾鉄路「花蓮」駅から車で35分住所：花蓮県秀林郷富世291號TEL：03-862-1100営業時間：24時間開放",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．台中のおすすめ観光地"
+      },
+      {
+        "description": "「彩虹眷村（ツァイホンジュェンツン／レインボービレッジ）」は、古い住宅村の壁や道路に素人のお爺さんが大胆に絵を描いて生まれ変わった、台中のフォトジェニック・スポット。海外からの観光客やアーティストも注目する場所です。この村は、かつて中国から台湾に渡った軍人や家族が暮らす「眷村（ジュェンツン）」と呼ばれる集落でした。ここで暮らしていた中国・広州出身の黃永阜（ホァンヨンフー）さんが「定年後の暇つぶしに」と壁や道路に絵を描き始めると、台湾から世界中で話題に。その虹のような彩りの色使いから「彩虹眷村」と呼ばれる観光名所になりました。彩虹眷村の小さな住宅や細い路地を歩くと、猫や犬、子供たちや恋人たちなど、まるで虹を見つけたときのような、ハッピーな気分になるイラストがあちこちに。彩虹眷村オリジナルグッズも買うことができます。",
+        "image": {
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/0hlldYXLpeS_wSWnPLEjPhmjlIfxoMHkfGD8EaxdTRQ/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/0hlldYXLpeS_wSWnPLEjPhmjlIfxoMHkfGD8EaxdTRQ/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/0hlldYXLpeS_wSWnPLEjPhmjlIfxoMHkfGD8EaxdTRQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/0hlldYXLpeS_wSWnPLEjPhmjlIfxoMHkfGD8EaxdTRQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/0hlldYXLpeS_wSWnPLEjPhmjlIfxoMHkfGD8EaxdTRQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0hlldYXLpeS_wSWnPLEjPhmjlIfxoMHkfGD8EaxdTRQ/1536x1025.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "松園別館の基本情報",
+        "infoBlockText": "アクセス：台湾鉄路「花蓮」駅から車で15分住所：花蓮縣花蓮市松園街65號TEL：038-356-510営業時間：9:00～18:00（最終入場17:30）休業日：毎月第2火曜日（7〜8月と祝日は無休）、大晦日料金：入場60台湾元",
+        "sectionLevel": "h3",
+        "sectionTitle": "彩虹眷村　"
+      },
+      {
+        "description": "宮原眼科（ゴンユェンイェンクー／みやはらがんか）は、日本人医師が1927年に建てた建築物をチーズケーキの名店・日出（ルーチュー）がリノベーションしたレトロなスイーツ専門店。台湾建築リノベ再開発ブームのさきがけとなったお店です。台中はパイナップルケーキやタピオカミルクティーなど、台湾を代表するスイーツが誕生した街。そんな台湾きってのスイーツの街・台中でも、ここ宮原眼科のパイナップルケーキは根強いファンを持っています。重いドアを開けて高い天井の店内に一歩足を踏み入れると、ゴージャスな昭和レトロの空間にタイムトリップできます。こちらの魅力は、色とりどりの台湾スイーツと季節ごとに替わるおしゃれな制服で迎えてくれるスタッフたちの笑顔。訪れた人がみな夢中になる、台中のパラダイスです。",
+        "image": {
+          "height": 1022,
+          "sourceUrl": "https://a.mktgcdn.com/p/N7edZeuqUlxmKTSfFn_x7fq_31CR_Z-49lOAksVWglE/1536x1022.jpg",
+          "thumbnails": [
+            {
+              "height": 1022,
+              "url": "https://a.mktgcdn.com/p-sandbox/N7edZeuqUlxmKTSfFn_x7fq_31CR_Z-49lOAksVWglE/1536x1022.jpg",
+              "width": 1536
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/N7edZeuqUlxmKTSfFn_x7fq_31CR_Z-49lOAksVWglE/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/N7edZeuqUlxmKTSfFn_x7fq_31CR_Z-49lOAksVWglE/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/N7edZeuqUlxmKTSfFn_x7fq_31CR_Z-49lOAksVWglE/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/N7edZeuqUlxmKTSfFn_x7fq_31CR_Z-49lOAksVWglE/1536x1022.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "東大門夜市の基本情報",
+        "infoBlockText": "アクセス：台湾鉄路「花蓮」駅から車で10分住所：花蓮県花蓮市中山路50號営業時間：18:00〜24:00ごろ休業日：店舗により異なる",
+        "sectionLevel": "h3",
+        "sectionTitle": "宮原眼科　"
+      },
+      {
+        "description": "「逢甲夜市（フォンジャーイェシー）」は、台中最大の夜市です。逢甲大学の周辺に広がる学生街の夜市なので、近隣の学生や地元の若い人たちで毎日にぎわいます。この逢甲夜市は、食べ物や雑貨、アクセサリーの種類も豊富。学生向けに値段が比較的リーズナブルなのも特徴です。逢甲夜市は台湾グルメの流行発信地ともいわれ、台中から台湾全国に人気が広がることも珍しくありません。そのため、新しい食のアイデアやまだ見ぬ美味しいものを求めて、この逢甲夜市には、台湾や海外からの観光客が多く訪れます。グルメ激戦地だけあって、逢甲夜市はお店の入れ替わりも激しいエリア。美味しそうなお店を見つけたら、一期一会のチャンスを逃さないように！",
+        "image": {
+          "height": 996,
+          "sourceUrl": "https://a.mktgcdn.com/p/owsEuJgPyyng6IaLzV4C16eExo-0eQzHPJYq6Iw60bE/1500x996.jpg",
+          "thumbnails": [
+            {
+              "height": 996,
+              "url": "https://a.mktgcdn.com/p-sandbox/h4zpAXIRzDuGwEfGM_m_urgwp9ln5R3cOMDBbSY1zQ0/1500x996.jpg",
+              "width": 1500
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/h4zpAXIRzDuGwEfGM_m_urgwp9ln5R3cOMDBbSY1zQ0/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/h4zpAXIRzDuGwEfGM_m_urgwp9ln5R3cOMDBbSY1zQ0/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/h4zpAXIRzDuGwEfGM_m_urgwp9ln5R3cOMDBbSY1zQ0/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/h4zpAXIRzDuGwEfGM_m_urgwp9ln5R3cOMDBbSY1zQ0/1500x996.jpg",
+          "width": 1500
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "逢甲夜市　"
+      },
+      {
+        "description": "台湾有数の貿易港を擁する台湾第三の都市・高雄。近年は、日本統治時代に整備された旧市街を再開発した駁二藝術區などのアートスポットが大人気です。北東部の蓮池潭にはパワースポット・龍虎塔（ロンフーター）もあります。",
+        "image": {
+          "height": 275,
+          "sourceUrl": "https://a.mktgcdn.com/p/E-UfYOjUT5k0vPyX0e56_R-fEN_2gMsDeYxTlXa7Vuk/413x275.jpg",
+          "thumbnails": [
+            {
+              "height": 275,
+              "url": "https://a.mktgcdn.com/p-sandbox/hoJRml4oCpRWPulo5EDN4nwISwTfJsthbut8KaVNsZI/413x275.jpg",
+              "width": 413
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/hoJRml4oCpRWPulo5EDN4nwISwTfJsthbut8KaVNsZI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hoJRml4oCpRWPulo5EDN4nwISwTfJsthbut8KaVNsZI/413x275.jpg",
+          "width": 413
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "5．高雄のおすすめ観光地"
+      },
+      {
+        "description": "高雄郊外に位置する「蓮池潭（リェンチータン／はすいけたん／ロータスレイク）」は、台湾南部を旅する人が必ず訪れるといわれる景勝地です。春から夏にかけて蓮の花が咲き乱れる池に蓮池潭には、パワースポットとしても知られる龍虎塔（ロンフーター）や、高さ22メートルの東南アジア最大級の水上神像・北極玄天上帝像がそびえ、湖畔ウェイクボードを楽しむ施設もあります。なかでも特に人気の高い龍虎塔は、1976年に建てられた7階建ての陶磁器の塔です。蓮池潭のほとりから龍虎塔にかかる九曲橋がジグザグの角を渡る形なのは、直進しかできないキョンシー（悪霊）避けのためなのだとか。向かって左の龍の口から入り虎の口から出ると、福が得られ凶を避けることができると言われています。塔の内壁は、観世物語をモチーフにした陶磁器の装飾。細いらせん階段で塔の上まで登ると、蓮池潭のパノラマが広がります。",
+        "image": {
+          "height": 1072,
+          "sourceUrl": "https://a.mktgcdn.com/p/OLIFIv79TSbvdis4iDFU-dVCb5DGKFzswjh8Ere_2tY/1536x1072.jpg",
+          "thumbnails": [
+            {
+              "height": 1072,
+              "url": "https://a.mktgcdn.com/p-sandbox/OLIFIv79TSbvdis4iDFU-dVCb5DGKFzswjh8Ere_2tY/1536x1072.jpg",
+              "width": 1536
+            },
+            {
+              "height": 432,
+              "url": "https://a.mktgcdn.com/p-sandbox/OLIFIv79TSbvdis4iDFU-dVCb5DGKFzswjh8Ere_2tY/619x432.jpg",
+              "width": 619
+            },
+            {
+              "height": 419,
+              "url": "https://a.mktgcdn.com/p-sandbox/OLIFIv79TSbvdis4iDFU-dVCb5DGKFzswjh8Ere_2tY/600x419.jpg",
+              "width": 600
+            },
+            {
+              "height": 137,
+              "url": "https://a.mktgcdn.com/p-sandbox/OLIFIv79TSbvdis4iDFU-dVCb5DGKFzswjh8Ere_2tY/196x137.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OLIFIv79TSbvdis4iDFU-dVCb5DGKFzswjh8Ere_2tY/1536x1072.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "蓮池潭　"
+      },
+      {
+        "description": "台湾でも古い歴史を持つ高雄の「六合夜市（リウハーイェシー／ろくごうよいち）」は、港町・高雄ならでは、豪快にシーフードを使う屋台の多さが特徴です。屋台の店先で氷の上に並ぶ大きなエビや貝類をその場で調理しています。六合夜市はにぎやかでありながら、道幅がゆったりしているのも大きな特徴です。台北など北部にはない広々とした空間が一本道で続き、食べ歩きやショッピング、写真を撮っても人とぶつかり合うことがないので、のんびり散策にもぴったりです。美しいステンドグラスが有名なMRT「美麗島」駅からすぐと、六合夜市はアクセスもとても便利。地元の人たちや観光客にもおすすめの夜市として、評価されています。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/Kv5_Tw66M8g5vMp4oU7c3mrQqamryYLwIwaadGo7e88/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/Kv5_Tw66M8g5vMp4oU7c3mrQqamryYLwIwaadGo7e88/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Kv5_Tw66M8g5vMp4oU7c3mrQqamryYLwIwaadGo7e88/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Kv5_Tw66M8g5vMp4oU7c3mrQqamryYLwIwaadGo7e88/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Kv5_Tw66M8g5vMp4oU7c3mrQqamryYLwIwaadGo7e88/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Kv5_Tw66M8g5vMp4oU7c3mrQqamryYLwIwaadGo7e88/1536x1024.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "六合夜市　"
+      },
+      {
+        "description": "六合夜市の最寄りにあるMRT「美麗島」駅の改札を出た途端、目の前にステンドグラスの柱と天井「光之穹頂（グァンジーチォンディン／ドーム オブ ライト）」が広がります。アメリカのメディアサイトMicで「ニューヨーカーが夢見る美しい地下鉄ランキング（2014年）」の第2位に選ばれた光之穹頂は、イタリア出身のビジュアルアーティスト、マエストロ・ナルキッソス・カグリアータによる作品です。愛と包容をテーマに「水」「土」「光」「火」の４つのパートで構成され、青い海から誕生する生命、人類の歴史と愛や喜びが描かれています。使用されたステンドグラスは4,500枚、直径30メートルにも及ぶステンドグラスは、公共施設アートとしても世界最大級。スマートフォンのカメラでも、驚くほど鮮明な色彩で撮影できます。フォトジェニックな光之穹頂は、高雄で必ず訪れたいスポットです。",
+        "image": {
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/kfdvCyeuPZtMDnrcIY3hmh-sfQHzWTSJP2sUL3TEnYg/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/kfdvCyeuPZtMDnrcIY3hmh-sfQHzWTSJP2sUL3TEnYg/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/kfdvCyeuPZtMDnrcIY3hmh-sfQHzWTSJP2sUL3TEnYg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/kfdvCyeuPZtMDnrcIY3hmh-sfQHzWTSJP2sUL3TEnYg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/kfdvCyeuPZtMDnrcIY3hmh-sfQHzWTSJP2sUL3TEnYg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kfdvCyeuPZtMDnrcIY3hmh-sfQHzWTSJP2sUL3TEnYg/1536x1025.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "光之穹頂　"
+      },
+      {
+        "description": "台湾の歴史と文化が凝縮された街・台南は、台湾の京都とも称される古都。赤嵌樓や台南孔子廟、林百貨などの歴史建築や史跡めぐりの後は、レトロな路地裏散歩や食べ歩きがおすすめです。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/hZib2IpVg602qleYSHRSitMo_CxqwUIV3FUGcTyLqmI/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/hZib2IpVg602qleYSHRSitMo_CxqwUIV3FUGcTyLqmI/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/hZib2IpVg602qleYSHRSitMo_CxqwUIV3FUGcTyLqmI/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/hZib2IpVg602qleYSHRSitMo_CxqwUIV3FUGcTyLqmI/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/hZib2IpVg602qleYSHRSitMo_CxqwUIV3FUGcTyLqmI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hZib2IpVg602qleYSHRSitMo_CxqwUIV3FUGcTyLqmI/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "6．台南のおすすめ観光地"
+      },
+      {
+        "description": "「赤嵌樓（チーカンラオ／せっかんろう）」は、古都・台南から始まった台湾の歴史を語る時に欠かせない文化資産です。台湾の国定古跡に指定されているこの赤嵌樓は、1953年に当時の台湾を統治していたオランダ人が建てた城閣であり、当時はプロビデンシャ城と呼ばれていました。その後1661年に軍人・鄭成功がオランダを撃退、ここに台湾の中央政府・承天府が置かれたのです。長い歴史の中で数回の修復や改築が行われた赤嵌樓では、1875年に建築された海神廟（ハイシェンミャオ）や、1886年に建てられた文昌閣（ウェンチャングー）など貴重な清代の歴史建築を現在も見ることができます。文昌閣には学問の神様・魁星爺（クェイシンイェ）が祀られ、台湾の受験の神様として、いまも多くの若者が合格祈願に訪れています。赤嵌樓周辺には台南名物の小吃が食べられる店も多く集まっているので、参観ついでに台南グルメも楽しんでみましょう。",
+        "image": {
+          "height": 1029,
+          "sourceUrl": "https://a.mktgcdn.com/p/-R6iivJDQ9mHEDXtpkL1Q4wA4XkT8TS3hr9-dbCC9oY/1536x1029.jpg",
+          "thumbnails": [
+            {
+              "height": 1029,
+              "url": "https://a.mktgcdn.com/p-sandbox/-R6iivJDQ9mHEDXtpkL1Q4wA4XkT8TS3hr9-dbCC9oY/1536x1029.jpg",
+              "width": 1536
+            },
+            {
+              "height": 415,
+              "url": "https://a.mktgcdn.com/p-sandbox/-R6iivJDQ9mHEDXtpkL1Q4wA4XkT8TS3hr9-dbCC9oY/619x415.jpg",
+              "width": 619
+            },
+            {
+              "height": 402,
+              "url": "https://a.mktgcdn.com/p-sandbox/-R6iivJDQ9mHEDXtpkL1Q4wA4XkT8TS3hr9-dbCC9oY/600x402.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/-R6iivJDQ9mHEDXtpkL1Q4wA4XkT8TS3hr9-dbCC9oY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-R6iivJDQ9mHEDXtpkL1Q4wA4XkT8TS3hr9-dbCC9oY/1536x1029.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "赤嵌樓　"
+      },
+      {
+        "description": "温かみのある独特な風合いの赤壁に囲まれた「台南孔子廟（タイナンコンズミャオ／たいなんこうしびょう）」。1665年に台湾で最初に建てられたこの孔子廟は、台南文化の中心地でもあります。門には「全臺首学」と額が掲げられ、台湾で初めての最高学府と呼ばれていました。長い歴史の中で30回以上も修復が行われ、現在の様子は台湾の日本統治時代、1917年に改装されたものです。台湾内に数多い孔子廟の中でも、優雅さとつつましさを感じさせる佇まいは群を抜いており、国定古跡に指定されています。一歩足を踏み入れると樹齢の長い南国の木々の緑の陰が、しっとりと落ち着いた空気を醸し出しています。徒歩圏内には臺南市美術館（タイナンシーメイシューグァン）の１館と２館、林百貨など、台南の見どころが多くあります。台南の歴史と文化に触れる旅の起点にするのもいいでしょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "台南孔子廟　"
+      },
+      {
+        "description": "レトロモダンなデパート「林百貨（リンバイフォー／はやしひゃっか）」は、台南で必見のリノベーションスポットです。第二次世界大戦前の1932年に、山口県出身の実業家・林方一氏が、台南の銀座と呼ばれた末広通りに創業し、当時最新のデザインが大きな話題になりました。2013年の再オープン後は、台湾各地のスイーツやお茶、雑貨などをセレクトした百貨店に。館内のエレベーターは移動階数を針で示すクラッシックな姿のまま、現在も使用されています。気温の高いこの街において、林百貨は涼しい休憩スポットとしても人気です。買い物ついでに店内のカフェでひと休みするのもいいでしょう。タクシーも捕まえやすいので、移動拠点としても便利です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "林百貨　"
+      },
+      {
+        "description": "花蓮は、台湾きっての美しい景観を擁するエリアです。見どころは、なんとっても太魯閣渓谷の圧倒的な眺め。日本統治時代の建造物が残る松園別館も必ず訪れたい名所です。",
+        "sectionLevel": "h2",
+        "sectionTitle": "7．花蓮のおすすめ観光地"
+      },
+      {
+        "description": "大理石の断崖絶壁が約20キロに渡って続く「太魯閣峡谷（ターイルーグーシァグー／たろこけいこく）」は、水の浸食によって成型された奇岩の壮大さと、流れる水や山の緑に癒される、花蓮ならではの神秘的な場所です。台湾原住民・タロコ族が山中で部族の暮らしを固く守っていたこの地域は、ほんの20年ほど前まで、外部の人には入りにくい場所でした。現在は、白大理石の獅子が並ぶ砂卡礑（サカタン）橋や砂卡礑遊歩道が整備され、ハイキングの名所になっています。山と水が織りなす大自然の力を五感で感じられる太魯閣峡谷は、台湾東部随一のパワースポットです。台風や大雨直後は落石の危険があるので、情報の確認が必要。初めての方は、台北発のオプショナルツアーを利用するのが安心です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "太魯閣峡谷　"
+      },
+      {
+        "description": "花蓮港を眺める高台にある「松園別館（ソンユェンビェグァン）」は、花蓮でも貴重な日本統治時代の折衷様式が完璧に保存されている場所です。青々とした松の木が茂る静かな園内から、遠く花蓮港と太平洋を見渡す松園別館。当時はここに花蓮港陸軍の最高司令部がおかれ、高官の休憩場所でもありました。松園別館は洋風建築に日本の瓦屋根を融合させた折衷形式が用いられ、厳粛な雰囲気の中にも、どこか昭和日本家屋の懐かしさを感じさせます。2003年からは一般開放が始まり、アートイベントなども開催され、台湾の芸術や人文歴史プラットフォームとして、いまもその凛とした姿を残しています。",
+        "sectionLevel": "h3",
+        "sectionTitle": "松園別館　"
+      },
+      {
+        "description": "花蓮の「東大門夜市（ドンダーメンイェシー）」は、台湾東部で最大規模を誇る夜市です。歴史はまだ新しく、福町夜市、原住民一條街、各省一條街（グーシェンイーテャオジエ）、自強夜市（ズーチャンイェシー）の４エリアをあわせ、2015年から東大門夜市として正式に運営を開始しました。エリアにはそれぞれ特色があり、たとえば原住民一條街では、その名の通り台湾原住民の食文化体験が可能。情人的眼涙（恋人の涙）とよばれる山菜や、近ごろ台湾全体に人気が広がりつつある馬告（マーガオ）という山胡椒など、花蓮の夜市ならではの味の出合いもあります。白と黒のモザイクタイルを敷き詰めた東大門夜市は道幅が広く、屋根付きのイートインコーナーが設けられているのも、新しい夜市らしい試みです。花蓮を訪れる観光客が安心して楽しめる台湾東部で一番人気の夜市です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "東大門夜市　"
+      },
+      {
+        "description": "魅力がいっぱいの台湾は、楽しみ方も十人十色です。まずは、スイーツやタピオカドリンクのスタンド、夜市のB級グルメから一流レストランまで、食のバラエティの豊かさに驚くことでしょう。続いて、かわいい台湾雑貨ショッピングにパワースポットめぐり、歴史散策や雄大な自然を堪能する旅もおすすめです。公共交通機関が発達している台湾は、北から南まで全土を快適に巡ることができます。街のあちこちに残る日本的な建築や家屋にも、きっと親しみを感じるでしょう。どこかで見たような懐かしさに足を止め、その場所から日本との歴史を知ることができるのも台湾旅行の醍醐味のひとつです。海に囲まれながら、自然も豊かな台湾で、のんびりと旅をしてみませんか？※2024年2月時点の情報です。内容は変更になることがあります。※1台湾元＝ 約4.75円（2024年2月末現在）※渡航制限等により航空便のスケジュールが変更となる場合がございます。最新のフライト情報をご確認ください。",
+        "sectionLevel": "h2",
+        "sectionTitle": "8．まとめ"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0002",
+      "news_web_kaigai_0004"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2020-10-06",
+    "c_news_UpdateDate": "2024-06-28",
+    "c_news_ViewCount": "19341",
+    "c_news_ViewCount2of2": "19341",
+    "c_news_ViewCountNum": "19341",
+    "c_news_ViewCountNumForSorting": "1143",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_web_kaigai_0003",
+    "c_relatedAreas": [
+      "taiwan"
+    ],
+    "name": "【決定版】台湾で人気の観光スポット18選！定番スポットをご紹介",
+    "slug": "kaigai/asia/taiwan/news_web_kaigai_0003",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

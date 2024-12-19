@@ -1,0 +1,42 @@
+{
+  "$id": "kando-toki-372",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/372_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d36.967211%2C138.751528",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "新潟県",
+    "c_searchTags": [
+      "新潟県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "冬",
+      "海・湖・川・滝",
+      "山・森・野・里",
+      "建物・景観"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "マ・ヤンソン／MADアーキテクツ「Tunnel of Light」（大地の芸術祭作品）\nマ・ヤンソン／MADアーキテクツ「Tunnel of Light」（大地の芸術祭作品） 提供：(一社)十日町市観光協会\nマ・ヤンソン／MADアーキテクツ「Tunnel of Light」（大地の芸術祭作品） 提供：(一社)十日町市観光協会",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/372.asp",
+    "name": "水鏡に映る清津峡（きよつきょう）の絶景"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

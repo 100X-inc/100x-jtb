@@ -1,0 +1,74 @@
+{
+  "$id": "cp_50120020",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "京都府",
+    "c_cp_CTA1": {
+      "label": "木下 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVqrxd",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBd_q",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "九州の田舎で生まれ育ちました！\n全体的にゆったりとした旅行が好きなので、クルーズ旅行がお勧めです！\nゆっくりお話ししながら旅の計画をしましょう♪\nご来店お待ちしております。",
+    "c_cp_DisplayName": "木下",
+    "c_cp_FieldOfExpertise": [
+      "クルーズ",
+      "飛行機"
+    ],
+    "c_cp_GeneralInfo": [
+      "●資格：ハワイスペシャリスト初級、世界遺産検定3級、京都・観光文化検定3級、クルーズコンサルタント"
+    ],
+    "c_cp_HiraganaName": "きのした",
+    "c_cp_JobTitle": "JTB京都伏見店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 1280,
+      "sourceUrl": "https://a.mktgcdn.com/p/_E36SeHwXgOr3kRIZyjjjH3tpd0vL2T_I5peT_ifTDc/960x1280.jpg",
+      "thumbnails": [
+        {
+          "height": 1280,
+          "url": "https://a.mktgcdn.com/p-sandbox/_E36SeHwXgOr3kRIZyjjjH3tpd0vL2T_I5peT_ifTDc/960x1280.jpg",
+          "width": 960
+        },
+        {
+          "height": 825,
+          "url": "https://a.mktgcdn.com/p-sandbox/_E36SeHwXgOr3kRIZyjjjH3tpd0vL2T_I5peT_ifTDc/619x825.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/_E36SeHwXgOr3kRIZyjjjH3tpd0vL2T_I5peT_ifTDc/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/_E36SeHwXgOr3kRIZyjjjH3tpd0vL2T_I5peT_ifTDc/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/_E36SeHwXgOr3kRIZyjjjH3tpd0vL2T_I5peT_ifTDc/960x1280.jpg",
+      "width": 960
+    },
+    "c_cp_StrongLocalArea6": [
+      "九州全般"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 木下",
+    "c_metaTitle": "JTBトラベルコンサルタント | 木下",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_50120020",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2023/07/23　JBX対応（産休）",
+    "name": "きのした_50120020",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

@@ -1,0 +1,473 @@
+{
+  "$id": "ap_chiki_100014",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター 西川"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "石和温泉のお湯は、その肌当たりの柔らかさが特徴のひとつです。その柔らかさ故に老若男女問わず、心ゆくまでじっくりとご入浴いただけます。また、銘石の宿かげつは24時間いつでもお好きなタイミングで大浴場を利用できるため、旅先のプランも立てやすくおすすめです。内風呂には、巨大な岩が壁一面に広がっており、まるで洞窟の中にいるような静かな時が流れます。また、お湯に浸かりながら露天風呂へと続く道があり、冬場でも凍えることなく露天風呂へ移動できます。露天風呂からは四季によって表情を変える庭園の景色を望みながらご入浴いただけます。お気に入りの巨石の岩影で、肩まで湯に浸かり、体の芯までゆっくり温まってください。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/87YXoRB49-QzQFqQglWzxhrVx1p5XnDP-mmk8_c320E/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/87YXoRB49-QzQFqQglWzxhrVx1p5XnDP-mmk8_c320E/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/87YXoRB49-QzQFqQglWzxhrVx1p5XnDP-mmk8_c320E/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/87YXoRB49-QzQFqQglWzxhrVx1p5XnDP-mmk8_c320E/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/87YXoRB49-QzQFqQglWzxhrVx1p5XnDP-mmk8_c320E/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/87YXoRB49-QzQFqQglWzxhrVx1p5XnDP-mmk8_c320E/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "大浴場（男湯）",
+        "sectionTitle": "24時間利用OK！ゆっくりとした時間が流れる宿自慢のお風呂"
+      },
+      {
+        "description": "銘石の宿かげつには、露天風呂付客室があり、庭園を望みながら優雅にお過ごしいただけます。朝の静かな庭も、夕暮れ時のノスタルジックな風景も、すべて独り占めすることができます。1階にある露天風呂付き客室には縁側もあり、担当者一押しです。そこに座ってただぼーっとするだけでも、心身ともに癒されます。そしてこの秋、露天風呂付き客室の一部がリニューアルされました！（他の露天風呂付き客室も一部年内に工事予定です。）これまでの和のテイストにモダンな要素を取り入れ、より快適にお過ごしいただける空間へと生まれ変わりました。これらの客室は大変人気のため、お早めにご予約されることをお勧めいたします！ぜひ一度癒しの時間を体験してみてください。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/evcrMNsGGb3TsBVy97UROsXThyTXY7_CUTE-JSV7xGs/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/evcrMNsGGb3TsBVy97UROsXThyTXY7_CUTE-JSV7xGs/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/evcrMNsGGb3TsBVy97UROsXThyTXY7_CUTE-JSV7xGs/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/evcrMNsGGb3TsBVy97UROsXThyTXY7_CUTE-JSV7xGs/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/evcrMNsGGb3TsBVy97UROsXThyTXY7_CUTE-JSV7xGs/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/evcrMNsGGb3TsBVy97UROsXThyTXY7_CUTE-JSV7xGs/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "露天風呂付き客室（和室、和洋室）",
+        "sectionTitle": "この秋リニューアル！担当者おすすめの露天風呂付き客室"
+      },
+      {
+        "description": "最後に、銘石の宿かげつの最大の特徴でもある日本庭園をご紹介いたします。敷地5000坪の中に、数十年の歳月を費やし全国各地から集めた巨岩、奇石、銘石が連なる壮観な日本庭園は一見の価値があります。時間をかけて散歩をするだけでも、リラックス効果絶大です！8千匹の鯉が悠々と遊ぶ池や、20もの滝を眺めることもでき、お宿の中で歴史ある日本文化に触れあうことができます。ちなみに担当者は散策に夢中になりすぎて迷子になってしまいました。それほど、広大で魅力的な日本庭園をぜひご自身の五感で体感してみてください。お庭では写真のように錦鯉にエサやりをすることができます！また、客室によってはお部屋からも鯉にエサをあげることもできます。ここ、「銘石の宿かげつ」でしか味わえない石和温泉のおもてなしと体験をぜひご堪能下さい！",
+        "image": {
+          "height": 1600,
+          "sourceUrl": "https://a.mktgcdn.com/p/0MXENi22ExiT2-OSgTXdSY1yIZpqd7KjSk1NOHsUE3A/1200x1600.jpg",
+          "thumbnails": [
+            {
+              "height": 1600,
+              "url": "https://a.mktgcdn.com/p-sandbox/0MXENi22ExiT2-OSgTXdSY1yIZpqd7KjSk1NOHsUE3A/1200x1600.jpg",
+              "width": 1200
+            },
+            {
+              "height": 825,
+              "url": "https://a.mktgcdn.com/p-sandbox/0MXENi22ExiT2-OSgTXdSY1yIZpqd7KjSk1NOHsUE3A/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/0MXENi22ExiT2-OSgTXdSY1yIZpqd7KjSk1NOHsUE3A/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/0MXENi22ExiT2-OSgTXdSY1yIZpqd7KjSk1NOHsUE3A/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0MXENi22ExiT2-OSgTXdSY1yIZpqd7KjSk1NOHsUE3A/1200x1600.jpg",
+          "width": 1200
+        },
+        "imageCaption": "眺めるだけで癒される広大な日本庭園と、錦鯉にエサやりをする担当者",
+        "sectionTitle": "迫力の日本庭園で思い思いの時間を"
+      },
+      {
+        "description": "----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/ma7jdfsOG22QhT5uohQMaWjJ73IJTeC5vDDbUkgzs9Y/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/ma7jdfsOG22QhT5uohQMaWjJ73IJTeC5vDDbUkgzs9Y/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/ma7jdfsOG22QhT5uohQMaWjJ73IJTeC5vDDbUkgzs9Y/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ma7jdfsOG22QhT5uohQMaWjJ73IJTeC5vDDbUkgzs9Y/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/ma7jdfsOG22QhT5uohQMaWjJ73IJTeC5vDDbUkgzs9Y/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ma7jdfsOG22QhT5uohQMaWjJ73IJTeC5vDDbUkgzs9Y/1200x900.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/dnGFk8gFmubHNAhI88lt0Stjn_FsTqWrr6OwrNBBAdY/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/dnGFk8gFmubHNAhI88lt0Stjn_FsTqWrr6OwrNBBAdY/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/dnGFk8gFmubHNAhI88lt0Stjn_FsTqWrr6OwrNBBAdY/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dnGFk8gFmubHNAhI88lt0Stjn_FsTqWrr6OwrNBBAdY/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/dnGFk8gFmubHNAhI88lt0Stjn_FsTqWrr6OwrNBBAdY/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dnGFk8gFmubHNAhI88lt0Stjn_FsTqWrr6OwrNBBAdY/1200x900.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/z1FcPzV5X01LfIpBrrYVj6PIHa8enJV0auQqtU76Hpc/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/z1FcPzV5X01LfIpBrrYVj6PIHa8enJV0auQqtU76Hpc/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/z1FcPzV5X01LfIpBrrYVj6PIHa8enJV0auQqtU76Hpc/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/z1FcPzV5X01LfIpBrrYVj6PIHa8enJV0auQqtU76Hpc/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/z1FcPzV5X01LfIpBrrYVj6PIHa8enJV0auQqtU76Hpc/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/z1FcPzV5X01LfIpBrrYVj6PIHa8enJV0auQqtU76Hpc/1200x900.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/GpebljMq41yZrX_dG4Kw9qsK-NVn_ikNZRkLfBe-9Q4/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/GpebljMq41yZrX_dG4Kw9qsK-NVn_ikNZRkLfBe-9Q4/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/GpebljMq41yZrX_dG4Kw9qsK-NVn_ikNZRkLfBe-9Q4/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/GpebljMq41yZrX_dG4Kw9qsK-NVn_ikNZRkLfBe-9Q4/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/GpebljMq41yZrX_dG4Kw9qsK-NVn_ikNZRkLfBe-9Q4/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/GpebljMq41yZrX_dG4Kw9qsK-NVn_ikNZRkLfBe-9Q4/1200x900.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/mvCsYqxH_nDmdD4AkjlasbbxSQoXq4_igFYszum3rEg/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/mvCsYqxH_nDmdD4AkjlasbbxSQoXq4_igFYszum3rEg/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/mvCsYqxH_nDmdD4AkjlasbbxSQoXq4_igFYszum3rEg/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/mvCsYqxH_nDmdD4AkjlasbbxSQoXq4_igFYszum3rEg/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/mvCsYqxH_nDmdD4AkjlasbbxSQoXq4_igFYszum3rEg/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/mvCsYqxH_nDmdD4AkjlasbbxSQoXq4_igFYszum3rEg/1200x900.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "image": {
+          "height": 1600,
+          "sourceUrl": "https://a.mktgcdn.com/p/FL9-EGAqZgY33G1NBjkzUjdXILDY2jzAqi8kdIA1X2A/1200x1600.jpg",
+          "thumbnails": [
+            {
+              "height": 1600,
+              "url": "https://a.mktgcdn.com/p-sandbox/FL9-EGAqZgY33G1NBjkzUjdXILDY2jzAqi8kdIA1X2A/1200x1600.jpg",
+              "width": 1200
+            },
+            {
+              "height": 825,
+              "url": "https://a.mktgcdn.com/p-sandbox/FL9-EGAqZgY33G1NBjkzUjdXILDY2jzAqi8kdIA1X2A/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/FL9-EGAqZgY33G1NBjkzUjdXILDY2jzAqi8kdIA1X2A/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/FL9-EGAqZgY33G1NBjkzUjdXILDY2jzAqi8kdIA1X2A/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FL9-EGAqZgY33G1NBjkzUjdXILDY2jzAqi8kdIA1X2A/1200x1600.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/3OFB40e-ltjp6PfnanLgrzWZ9zYmfzIWJJ-ABELlfSo/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/3OFB40e-ltjp6PfnanLgrzWZ9zYmfzIWJJ-ABELlfSo/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/3OFB40e-ltjp6PfnanLgrzWZ9zYmfzIWJJ-ABELlfSo/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3OFB40e-ltjp6PfnanLgrzWZ9zYmfzIWJJ-ABELlfSo/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/3OFB40e-ltjp6PfnanLgrzWZ9zYmfzIWJJ-ABELlfSo/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3OFB40e-ltjp6PfnanLgrzWZ9zYmfzIWJJ-ABELlfSo/1200x900.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/dT7zp_D348VxO6Os4ZsYI5ZjcCrM3Ny_rJT1wzKybIE/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/dT7zp_D348VxO6Os4ZsYI5ZjcCrM3Ny_rJT1wzKybIE/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/dT7zp_D348VxO6Os4ZsYI5ZjcCrM3Ny_rJT1wzKybIE/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dT7zp_D348VxO6Os4ZsYI5ZjcCrM3Ny_rJT1wzKybIE/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/dT7zp_D348VxO6Os4ZsYI5ZjcCrM3Ny_rJT1wzKybIE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dT7zp_D348VxO6Os4ZsYI5ZjcCrM3Ny_rJT1wzKybIE/1200x900.jpg",
+          "width": 1200
+        }
+      }
+    ],
+    "c_ap_DatePosted": "2021-11-19",
+    "c_ap_HeroImage": {
+      "alternateText": "首都圏から特急で1時間半！石和温泉「銘石の宿かげつ」【山梨県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 900,
+      "sourceUrl": "https://a.mktgcdn.com/p/xPD-svFwv_0f3CLnQsBLyDj7dGG567euFmNZwvUo3wk/1200x900.jpg",
+      "thumbnails": [
+        {
+          "height": 900,
+          "url": "https://a.mktgcdn.com/p-sandbox/xPD-svFwv_0f3CLnQsBLyDj7dGG567euFmNZwvUo3wk/1200x900.jpg",
+          "width": 1200
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/xPD-svFwv_0f3CLnQsBLyDj7dGG567euFmNZwvUo3wk/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/xPD-svFwv_0f3CLnQsBLyDj7dGG567euFmNZwvUo3wk/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/xPD-svFwv_0f3CLnQsBLyDj7dGG567euFmNZwvUo3wk/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/xPD-svFwv_0f3CLnQsBLyDj7dGG567euFmNZwvUo3wk/1200x900.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "銘石の宿かげつ自慢の大日本庭園",
+    "c_ap_LinkArticleSectionTitle": "山梨県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "「銘石の宿かげつ」の宿泊プランはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/4276010/plan/?hotellistsort\u003drecommend\u0026staynight\u003d1\u0026room\u003d1\u0026roomassign\u003dm0f0a0b0c0d0\u0026mapdisp\u003d0\u0026planinfokeywordon\u003d1\u0026tyfilteron\u003d1\u0026hotel\u003d4276010\u0026stayplacedisplay\u003d%E9%8A%98%E7%9F%B3%E3%81%AE%E5%AE%BF%E3%81%8B%E3%81%92%E3%81%A4\u0026temproomassign\u003d0"
+      },
+      {
+        "linkText": "石和温泉・笛吹市 の宿泊プランはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/190201/?stayplacedisplay\u003d%E7%9F%B3%E5%92%8C%E6%B8%A9%E6%B3%89%E3%83%BB%E7%AC%9B%E5%90%B9%E5%B8%82\u0026itemperpage\u003d20\u0026hotellistsort\u003drecommend\u0026staynight\u003d1\u0026room\u003d1\u0026mapdisp\u003d0\u0026planinfokeywordon\u003d1\u0026tyfilteron\u003d1\u0026temproomassign\u003d0"
+      },
+      {
+        "linkText": "山梨県の宿泊プランはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/yamanashi/?stayplacedisplay\u003d%E5%B1%B1%E6%A2%A8%E7%9C%8C\u0026staynight\u003d1\u0026room\u003d1\u0026temproomassign\u003d0"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "山梨県"
+    ],
+    "c_ap_ShortDescription": "石和温泉は山梨県笛吹市にある温泉街で、昭和36年にぶどう園から突如温泉が湧き出たことから発展を遂げました。今回は石和温泉街の中心に位置し、圧倒的存在感を誇る老舗旅館「銘石の宿かげつ」をご紹介いたします。敷地内には、巨石、奇石、銘石がいくつも設置された壮観な日本庭園が広がっており、一気に非日常な時間へと誘います。ここでしか味わえないお料理と「真心のおもてなし」をご堪能してみてはいかがでしょうか。",
+    "c_ap_Tags": [
+      "石和温泉",
+      "銘石の宿かげつ",
+      "ワイン",
+      "笛吹市"
+    ],
+    "c_ap_Theme": [
+      "夫婦旅",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "首都圏から特急で1時間半！石和温泉「銘石の宿かげつ」【山梨県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "石和温泉は山梨県笛吹市にある温泉街で、昭和36年にぶどう園から突如温泉が湧き出たことから発展を遂げました。今回は石和温泉街の中心に位置し、圧倒的存在感を誇る老舗旅館「銘石の宿かげつ」をご紹介いたします。敷地内…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "首都圏から特急で1時間半！石和温泉「銘石の宿かげつ」【山梨県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100014",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "山梨県",
+    "c_searchTags": [
+      "中部・北陸：山梨県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：山梨県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "首都圏から特急で1時間半！石和温泉「銘石の宿かげつ」【山梨県】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

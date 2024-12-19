@@ -1,0 +1,25 @@
+{
+  "$id": "defaultDirectory_dong_jing_du_pin_chuan_qu",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "2",
+    "dm_childEntityIds": [
+      "1044199750",
+      "1044199801"
+    ],
+    "dm_directoryChildren": [
+      "os-0116",
+      "os-0133"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_dong_jing_du"
+    ],
+    "name": "品川区",
+    "slug": "東京都/品川区"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

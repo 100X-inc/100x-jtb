@@ -1,0 +1,240 @@
+{
+  "$id": "ap_chiki_100003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター 山梨県担当 西川 晃平",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "清里駅から車で約10分、清里テラスは、清里エリアで一番標高の高い場所にあります。冬はスキー場として営業するマウンテンリゾートで、その施設内に2016年リニューアルし、春夏秋に絶景を楽しめる「清里テラス」が誕生いたしました。早速リフトに乗り、標高1,900mの特等席へ（大人1,800円、小学生 1,200円、3歳以上 1,000円）。ここのオススメポイントはワンちゃん用のペットキャリーがあることです！ここはペットと一緒に頂上まで行けるのが魅力のひとつなので、大切な愛犬との時間もお過ごしいただけます。テラスには「テラスカフェ」が併設されてますが、リフトに乗る前に「清里ベーカリー」でドリンク等を買ってしまってもOKです。リフトを登った先に広がる「八ヶ岳ブルー」で思いっきり癒されてください！",
+        "image": {
+          "height": 1050,
+          "sourceUrl": "https://a.mktgcdn.com/p/6Qkrne3tvqXfS_WiRpoQXjdXmAIH369mwTAO29wuavk/1600x1050.jpg",
+          "thumbnails": [
+            {
+              "height": 1050,
+              "url": "https://a.mktgcdn.com/p-sandbox/6Qkrne3tvqXfS_WiRpoQXjdXmAIH369mwTAO29wuavk/1600x1050.jpg",
+              "width": 1600
+            },
+            {
+              "height": 406,
+              "url": "https://a.mktgcdn.com/p-sandbox/6Qkrne3tvqXfS_WiRpoQXjdXmAIH369mwTAO29wuavk/619x406.jpg",
+              "width": 619
+            },
+            {
+              "height": 394,
+              "url": "https://a.mktgcdn.com/p-sandbox/6Qkrne3tvqXfS_WiRpoQXjdXmAIH369mwTAO29wuavk/600x394.jpg",
+              "width": 600
+            },
+            {
+              "height": 129,
+              "url": "https://a.mktgcdn.com/p-sandbox/6Qkrne3tvqXfS_WiRpoQXjdXmAIH369mwTAO29wuavk/196x129.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6Qkrne3tvqXfS_WiRpoQXjdXmAIH369mwTAO29wuavk/1600x1050.jpg",
+          "width": 1600
+        },
+        "imageCaption": "清里テラス（イメージ）",
+        "sectionTitle": "絶景パノラマ！富士山や野辺山高原を一望できる特等席、清里テラスへ"
+      },
+      {
+        "description": "お昼は清里では外せない絶品のカレーを。「清里高原萌木の村 ROCK」は、清里テラスから車で約10分ほどにあるレストランで、甲州ビーフと地元野菜をふんだんに使ったカレーは年間約15万食オーダーされるほどの大人気メニューです。他では味わえない「ROCKのカレー」は一度食べると忘れられないやみつき感があり、唯一無二の味の虜になります。また、ここROCKはもともと地元のクラフトマンが集まるレストランだったため、クラフトビールも有名です。長旅の休憩に\"ROCKのカレー\"とクラフトビールをぜひご賞味ください。",
+        "image": {
+          "height": 4032,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZEIx1kd_u5fmpeUz8JehOfQLXwrtXOsQqnZmyd-FEak/3024x4032.jpg",
+          "thumbnails": [
+            {
+              "height": 4032,
+              "url": "https://a.mktgcdn.com/p-sandbox/KBXK7WN2e8w2cPvj7m35FUCw-kPZhWw8qkpmcxr8GXk/3024x4032.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/KBXK7WN2e8w2cPvj7m35FUCw-kPZhWw8qkpmcxr8GXk/1425x1900.jpg",
+              "width": 1425
+            },
+            {
+              "height": 825,
+              "url": "https://a.mktgcdn.com/p-sandbox/KBXK7WN2e8w2cPvj7m35FUCw-kPZhWw8qkpmcxr8GXk/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/KBXK7WN2e8w2cPvj7m35FUCw-kPZhWw8qkpmcxr8GXk/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/KBXK7WN2e8w2cPvj7m35FUCw-kPZhWw8qkpmcxr8GXk/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KBXK7WN2e8w2cPvj7m35FUCw-kPZhWw8qkpmcxr8GXk/3024x4032.jpg",
+          "width": 3024
+        },
+        "imageCaption": "清里高原萌木の村ROCK　レストラン正面",
+        "sectionTitle": "仕入担当者一押しの清里グルメ！"
+      },
+      {
+        "description": "最後にご紹介するのは、清泉寮です。清里開拓の歴史と共に歩んできた清泉寮の赤い三角屋根は、清里のランドマークになっています。もともとキリスト教指導者研修施設として建設されましたが、現在ではどなたでも宿泊できる施設と生まれ変わりました。また、施設敷地内では宿泊以外にも体験や食事ができる場所も用意されており、必ず立ち寄ってみたい清里高原開拓のルーツとなっている場所です。そんな清泉寮の中でも、私が最もおすすめをしたいのが、写真のソフトクリームです。ジャージーミルクと八ヶ岳のおいしい水で作られるソフトクリームは、清里高原の隠れた名産品となっております。とにかく濃厚で美味しい絶品ソフトクリームをぜひ牧場を眺めながらご堪能下さい。----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "image": {
+          "height": 4032,
+          "sourceUrl": "https://a.mktgcdn.com/p/56BK8TUZ6_8zQ_FAu0wWJ8eE3hZfbYA-CUTvfHWrHog/3024x4032.jpg",
+          "thumbnails": [
+            {
+              "height": 4032,
+              "url": "https://a.mktgcdn.com/p-sandbox/bX7U7AjqKgz0qUGfttFTQXZlprjS_7Y0AN4QFYA48EY/3024x4032.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/bX7U7AjqKgz0qUGfttFTQXZlprjS_7Y0AN4QFYA48EY/1425x1900.jpg",
+              "width": 1425
+            },
+            {
+              "height": 825,
+              "url": "https://a.mktgcdn.com/p-sandbox/bX7U7AjqKgz0qUGfttFTQXZlprjS_7Y0AN4QFYA48EY/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/bX7U7AjqKgz0qUGfttFTQXZlprjS_7Y0AN4QFYA48EY/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/bX7U7AjqKgz0qUGfttFTQXZlprjS_7Y0AN4QFYA48EY/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bX7U7AjqKgz0qUGfttFTQXZlprjS_7Y0AN4QFYA48EY/3024x4032.jpg",
+          "width": 3024
+        },
+        "imageCaption": "清泉寮の絶品ソフトクリーム",
+        "sectionTitle": "気分はハイジ！？開放的な空間で絶品ソフトクリームを"
+      }
+    ],
+    "c_ap_DatePosted": "2021-09-28",
+    "c_ap_HeroImage": {
+      "alternateText": "自然に囲まれながら全身リフレッシュ！清里高原旅へのススメ【山梨県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 1050,
+      "sourceUrl": "https://a.mktgcdn.com/p/rR5NMAkznhvBJDvxqmnWlVvdI94ePWmx5_y00b0UmPM/1600x1050.jpg",
+      "thumbnails": [
+        {
+          "height": 1050,
+          "url": "https://a.mktgcdn.com/p-sandbox/rR5NMAkznhvBJDvxqmnWlVvdI94ePWmx5_y00b0UmPM/1600x1050.jpg",
+          "width": 1600
+        },
+        {
+          "height": 406,
+          "url": "https://a.mktgcdn.com/p-sandbox/rR5NMAkznhvBJDvxqmnWlVvdI94ePWmx5_y00b0UmPM/619x406.jpg",
+          "width": 619
+        },
+        {
+          "height": 394,
+          "url": "https://a.mktgcdn.com/p-sandbox/rR5NMAkznhvBJDvxqmnWlVvdI94ePWmx5_y00b0UmPM/600x394.jpg",
+          "width": 600
+        },
+        {
+          "height": 129,
+          "url": "https://a.mktgcdn.com/p-sandbox/rR5NMAkznhvBJDvxqmnWlVvdI94ePWmx5_y00b0UmPM/196x129.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/rR5NMAkznhvBJDvxqmnWlVvdI94ePWmx5_y00b0UmPM/1600x1050.jpg",
+      "width": 1600
+    },
+    "c_ap_HeroImageCaption": "清里テラス（イメージ）",
+    "c_ap_LinkArticleSectionTitle": "山梨県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "清里エリア宿泊先はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/190704/?stayplacedisplay\u003d%E6%B8%85%E9%87%8C\u0026staynight\u003d1\u0026room\u003d1\u0026temproomassign\u003d0"
+      },
+      {
+        "linkText": "八ヶ岳エリア宿泊先はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/?staynight\u003d1\u0026room\u003d1\u0026planinfokeyword\u003d%E5%85%AB%E3%83%B6%E5%B2%B3\u0026planinfokeywordon\u003d1\u0026temproomassign\u003d0"
+      },
+      {
+        "linkText": "山梨のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/yamanashi/?stayplacedisplay\u003d%E5%B1%B1%E6%A2%A8%E7%9C%8C\u0026itemperpage\u003d20\u0026hotellistsort\u003drecommend\u0026staynight\u003d1\u0026room\u003d1\u0026mapdisp\u003d0\u0026planinfokeywordon\u003d1\u0026tyfilteron\u003d1\u0026temproomassign\u003d0"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "山梨県"
+    ],
+    "c_ap_ShortDescription": "山梨県北部に位置する清里。大自然に囲まれたこのエリアには、都会の喧騒を忘れて優雅なひとときを過ごすことができるスポットがたくさんあります。山々に囲まれたのどかな道を爽快にドライブするもよし、木漏れ陽あふれる散策路をそぞろ歩くもよし。見つけたお店にふらっと立ち寄って、そのお店の人やモノと触れ合うのもまた楽しみのひとつです。美しい自然が生み出すエリアならでは旅の醍醐味。皆さまも日頃の疲れを大自然の中でリセットしてみてはいかがでしょうか。",
+    "c_ap_Tags": [
+      "清里",
+      "自然",
+      "癒し",
+      "ソフトクリーム",
+      "カレー"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "自然・山",
+      "ドライブ"
+    ],
+    "c_ap_Title": "自然に囲まれながら全身リフレッシュ！清里高原旅へのススメ【山梨県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "山梨県北部に位置する清里。大自然に囲まれたこのエリアには、都会の喧騒を忘れて優雅なひとときを過ごすことができるスポットがたくさんあります。山々に囲まれたのどかな道を爽快にドライブするもよし、木漏れ陽あふれる散…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "自然に囲まれながら全身リフレッシュ！清里高原旅へのススメ【山梨県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100003",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "山梨県",
+    "c_searchTags": [
+      "中部・北陸：山梨県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：山梨県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "自然に囲まれながら全身リフレッシュ！清里高原旅【山梨県】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

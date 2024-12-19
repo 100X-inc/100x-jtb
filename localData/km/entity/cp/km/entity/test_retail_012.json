@@ -1,0 +1,66 @@
+{
+  "$id": "cp_test_retail_012",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_Description": "これはテストです",
+    "c_cp_DisplayName": "リテールテスト12",
+    "c_cp_FieldOfExpertise": [
+      "記念旅行",
+      "クルーズ"
+    ],
+    "c_cp_JobTitle": "JTBトラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "alternateText": "JTBトラベルコンサルタント ｜ テストリテールコンサルタント012",
+      "height": 600,
+      "sourceUrl": "http://a.mktgcdn.com/p/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/800x600.jpg",
+      "thumbnails": [
+        {
+          "height": 600,
+          "url": "//a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/800x600.jpg",
+          "width": 800
+        },
+        {
+          "height": 464,
+          "url": "//a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "//a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "//a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/800x600.jpg",
+      "width": 800
+    },
+    "c_cp_StrongAbroadArea4": [
+      "中国",
+      "香港・マカオ"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道",
+      "青森県",
+      "福島県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ テストリテールコンサルタント012",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ テストリテールコンサルタント012",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_test_retail_012",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "name": "テストリテールコンサルタント012",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

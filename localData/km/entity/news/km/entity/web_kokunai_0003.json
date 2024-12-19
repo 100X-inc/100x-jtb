@@ -1,0 +1,611 @@
+{
+  "$id": "news_web_kokunai_0003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 529,
+      "sourceUrl": "https://a.mktgcdn.com/p/v2-o3Vw38YzXUaOw-V8_FywY3VGPDtjvPhJLieITrp0/801x529.jpg",
+      "thumbnails": [
+        {
+          "height": 529,
+          "url": "https://a.mktgcdn.com/p-sandbox/v2-o3Vw38YzXUaOw-V8_FywY3VGPDtjvPhJLieITrp0/801x529.jpg",
+          "width": 801
+        },
+        {
+          "height": 409,
+          "url": "https://a.mktgcdn.com/p-sandbox/v2-o3Vw38YzXUaOw-V8_FywY3VGPDtjvPhJLieITrp0/619x409.jpg",
+          "width": 619
+        },
+        {
+          "height": 396,
+          "url": "https://a.mktgcdn.com/p-sandbox/v2-o3Vw38YzXUaOw-V8_FywY3VGPDtjvPhJLieITrp0/600x396.jpg",
+          "width": 600
+        },
+        {
+          "height": 129,
+          "url": "https://a.mktgcdn.com/p-sandbox/v2-o3Vw38YzXUaOw-V8_FywY3VGPDtjvPhJLieITrp0/196x129.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/v2-o3Vw38YzXUaOw-V8_FywY3VGPDtjvPhJLieITrp0/801x529.jpg",
+      "width": 801
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "金沢のホテル・旅館を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/1701/"
+      },
+      {
+        "linkText": "石川県のホテル・旅館を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/ishikawa/"
+      },
+      {
+        "linkText": "新幹線・JR付きプランを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_jr/a/ishikawa/"
+      },
+      {
+        "linkText": "航空券付きプランを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_air/a/ishikawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "金沢周辺や石川県内には、和倉温泉・加賀温泉郷など温泉が豊富にあり、一度は泊まってみたい高級旅館が多く点在しています。\n\n観光だけでなく、お宿での時間を楽しむのも旅の醍醐味。美味しい料理に舌鼓したり、露天風呂付客室でゆっくりと日々の疲れを癒したりと、優雅な高級旅館ステイはいかがでしょうか。\n\nこちらでは、JTBがおすすめする金沢周辺や石川県内の高級旅館をご紹介します。\n自分へのご褒美に高級旅館へ泊まり、贅沢な金沢旅行を満喫しませんか？",
+    "c_ap_Tags": [
+      "温泉",
+      "カップル・夫婦",
+      "国内の宿",
+      "女子旅",
+      "露天風呂付き客室",
+      "高級旅館",
+      "金沢"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "金沢・石川の高級旅館8選～一度は泊まってみたい憧れの宿～",
+    "c_linkedArea3News": [
+      "ishikawa"
+    ],
+    "c_metaDescription": "金沢周辺や石川県内には、和倉温泉・加賀温泉郷など有名温泉地が多く、一度は泊まってみたい高級旅館がたくさん！ 観光だけでなく、お宿での時間を楽しむのも旅の醍醐味。美味しい料理に舌鼓したり、露天風呂付客室でゆっくりと日々の疲れを癒したりと、優雅な高級旅館ステイはいかがでしょうか。本記事では、JTBがおすすめする金沢周辺や石川県内の高級旅館をご紹介します。",
+    "c_metaTitle": "金沢・石川の高級旅館8選～一度は泊まってみたい憧れの宿～ | JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "金沢のホテル・旅館をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/1701/",
+        "linkType": "URL"
+      },
+      {
+        "label": "金沢のツアー・パックをみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/kanazawa/",
+        "linkType": "URL"
+      },
+      {
+        "label": "石川県の高級旅館・ホテルをみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/ishikawa/feature/premium/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "浅田屋の魅力",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5357020/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "浅田屋の宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5357020/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "浅田屋の新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5357020/plan/",
+          "linkType": "URL"
+        },
+        "cTA4": {
+          "label": "浅田屋の航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5357020/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357020/53570201100007197.jpg\" alt\u003d\"浅田屋\" style\u003d\"display: block; margin: auto;\" /\u003e浅田屋は、金沢駅からバスに乗り、「武蔵ヶ辻・近江町市場」を下車後、徒歩約3分のところにあります。近江町市場の隣に位置しながら、一歩旅館の中へ入ると閑静で落ち着いた雰囲気を味わうことができる料理旅館です。お客さまとのお話から観光の目的や趣向を推察し、老舗ならではの情報網とおもてなしで、観光のご紹介やお料理のアレンジをご提案します。",
+        "image": {
+          "height": 546,
+          "sourceUrl": "https://a.mktgcdn.com/p/snuJvrLGpKcVt0AvAN5vYEuXNmTcwvyzCbA5X9xZ8fU/798x546.jpg",
+          "thumbnails": [
+            {
+              "height": 546,
+              "url": "https://a.mktgcdn.com/p-sandbox/snuJvrLGpKcVt0AvAN5vYEuXNmTcwvyzCbA5X9xZ8fU/798x546.jpg",
+              "width": 798
+            },
+            {
+              "height": 424,
+              "url": "https://a.mktgcdn.com/p-sandbox/snuJvrLGpKcVt0AvAN5vYEuXNmTcwvyzCbA5X9xZ8fU/619x424.jpg",
+              "width": 619
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/snuJvrLGpKcVt0AvAN5vYEuXNmTcwvyzCbA5X9xZ8fU/600x411.jpg",
+              "width": 600
+            },
+            {
+              "height": 134,
+              "url": "https://a.mktgcdn.com/p-sandbox/snuJvrLGpKcVt0AvAN5vYEuXNmTcwvyzCbA5X9xZ8fU/196x134.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/snuJvrLGpKcVt0AvAN5vYEuXNmTcwvyzCbA5X9xZ8fU/798x546.jpg",
+          "width": 798
+        },
+        "imageCaption": "客室一例",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．金沢市の高級旅館"
+      },
+      {
+        "cTA1": {
+          "label": "金沢犀川温泉川端の湯宿滝亭の宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5357046/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "金沢犀川温泉川端の湯宿滝亭の新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5357046/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "金沢犀川温泉川端の湯宿滝亭の航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5357046/plan/",
+          "linkType": "URL"
+        },
+        "cTA4": {
+          "label": "まつさきの航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5364001/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357020/53570201300000002.jpg\" alt\u003d\"「浅田屋」客室\" style\u003d\"display: block; margin: auto;\" /\u003e客室はこだわりの坪庭を設え、全て秋田杉で造ったシンプルな数寄屋造り。高級旅館の主流の形ではなく、個人宅の客間に通された感じを大切にしています。輪島塗の電話器をはじめ、細部に至るまで日本製のもので揃えた調度品は、品の良さを感じます。",
+        "image": {
+          "height": 662,
+          "sourceUrl": "https://a.mktgcdn.com/p/1kE2fv93SGlj_QKSLuqxgrCTVj-jK8J9-j1BDi5wajU/802x662.jpg",
+          "thumbnails": [
+            {
+              "height": 662,
+              "url": "https://a.mktgcdn.com/p-sandbox/1kE2fv93SGlj_QKSLuqxgrCTVj-jK8J9-j1BDi5wajU/802x662.jpg",
+              "width": 802
+            },
+            {
+              "height": 511,
+              "url": "https://a.mktgcdn.com/p-sandbox/1kE2fv93SGlj_QKSLuqxgrCTVj-jK8J9-j1BDi5wajU/619x511.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1kE2fv93SGlj_QKSLuqxgrCTVj-jK8J9-j1BDi5wajU/545x450.jpg",
+              "width": 545
+            },
+            {
+              "height": 162,
+              "url": "https://a.mktgcdn.com/p-sandbox/1kE2fv93SGlj_QKSLuqxgrCTVj-jK8J9-j1BDi5wajU/196x162.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1kE2fv93SGlj_QKSLuqxgrCTVj-jK8J9-j1BDi5wajU/802x662.jpg",
+          "width": 802
+        },
+        "imageCaption": "お料理　一例",
+        "sectionLevel": "h3",
+        "sectionTitle": "浅田屋"
+      },
+      {
+        "cTA1": {
+          "label": "まつさきの魅力",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5364001/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5364001/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "まつさきの新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5364001/plan/",
+          "linkType": "URL"
+        },
+        "cTA4": {
+          "label": "たちばな四季亭の航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5367027/plan/",
+          "linkType": "URL"
+        },
+        "description": "北陸の豊富な食材を使った加賀料理を主軸としながらも時節の美味しいもの、それぞれの食材の美しさを最大限に引き出すと思われる調理方法など心を配りながらお料理をご提供いたします。また器も大切な演出と考え、加賀蒔絵の金沢漆器、九谷焼をはじめとして、骨董から現代作家ものまで、吟味したものを使いご提供いたします。",
+        "image": {
+          "height": 622,
+          "sourceUrl": "https://a.mktgcdn.com/p/dogSDj_rp8VDOqX8omll82q48YX_94qEtC2lAI69_Z0/824x622.jpg",
+          "thumbnails": [
+            {
+              "height": 622,
+              "url": "https://a.mktgcdn.com/p-sandbox/dogSDj_rp8VDOqX8omll82q48YX_94qEtC2lAI69_Z0/824x622.jpg",
+              "width": 824
+            },
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p-sandbox/dogSDj_rp8VDOqX8omll82q48YX_94qEtC2lAI69_Z0/619x467.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dogSDj_rp8VDOqX8omll82q48YX_94qEtC2lAI69_Z0/596x450.jpg",
+              "width": 596
+            },
+            {
+              "height": 148,
+              "url": "https://a.mktgcdn.com/p-sandbox/dogSDj_rp8VDOqX8omll82q48YX_94qEtC2lAI69_Z0/196x148.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dogSDj_rp8VDOqX8omll82q48YX_94qEtC2lAI69_Z0/824x622.jpg",
+          "width": 824
+        },
+        "imageCaption": "離れ　犀川　客室一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "「浅田屋」客室"
+      },
+      {
+        "cTA1": {
+          "label": "たちばな四季亭の魅力",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5367027/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "たちばな四季亭の宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5367027/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "たちばな四季亭の新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5367027/plan/",
+          "linkType": "URL"
+        },
+        "cTA4": {
+          "label": "あらや滔々庵の航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5367010/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357046/53570461000324834.jpg\" alt\u003d\"金沢犀川温泉川端の湯宿滝亭\" style\u003d\"display: block; margin: auto;\" /\u003e金沢犀川温泉川端の湯宿滝亭は、金沢駅からバスに乗り、「末バス停」を下車後、徒歩約12分のところにあります。緑深き閑静な空気に包まれた天然温泉の宿。静かな里山の集落を抜けると広がる田園風景の中に、隠れ里のようにひっそりとたたずんでいます。建物を囲むように広大な庭園があり、中に入ると滝亭の名前の由来ともなっているシンボル「宝生の滝」が勇壮な姿を見せています。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/xK5U9XI4x0D8FTu-Fmt4O8NJ6X0C1cxNeMsWnlakSdU/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/xK5U9XI4x0D8FTu-Fmt4O8NJ6X0C1cxNeMsWnlakSdU/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/xK5U9XI4x0D8FTu-Fmt4O8NJ6X0C1cxNeMsWnlakSdU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/xK5U9XI4x0D8FTu-Fmt4O8NJ6X0C1cxNeMsWnlakSdU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/xK5U9XI4x0D8FTu-Fmt4O8NJ6X0C1cxNeMsWnlakSdU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xK5U9XI4x0D8FTu-Fmt4O8NJ6X0C1cxNeMsWnlakSdU/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "露天風呂／イメージ",
+        "sectionLevel": "h4",
+        "sectionTitle": "五感で満足のできる浅田屋のお食事"
+      },
+      {
+        "cTA1": {
+          "label": "あらや滔々庵の魅力",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5367010/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "あらや滔々庵の宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5367010/plan?_gl\u003d1*14cpffh*_gcl_au*MTI1OTg0ODI4My4xNzEwMzk4NjA0*_ga*MTgzNTYyNzYzOS4xNjY4NDE0OTgx*_ga_KGZYYE4GBZ*MTcxMDQ3OTU2Mi41OS4xLjE3MTA0ODE0OTEuMC4wLjA.*_fplc*Q21oMTZDOUJLYXc0emRjeFJJczJFUE5WQUtiMnNZNHh2alVua2dLMzF0ZmF5S0ElMkZiWVdpQzlqSUtCdUFITHRRS1l1Qm9iciUyRiUyRiUyRk9HeGRzSnBIN2tHWlRxZDNFcTFDWUlseVUlMkZOQ3hHcVBReSUyQmpVSm5KNERpcnRTVzBOeHd3JTNEJTNE",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "あらや滔々庵の新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5367010/plan/",
+          "linkType": "URL"
+        },
+        "cTA4": {
+          "label": "花紫の航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5368026/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357046/53570460002054180.jpg\" alt\u003d\"「金沢犀川温泉川端の湯宿滝亭」客室\" style\u003d\"display: block; margin: auto;\" /\u003e客室は、趣の異なる客室棟3棟からなり、それぞれ違った魅力があります。もっとも人気なお部屋は、犀川に面した「離れ犀川」で、露天風呂付きのラグジュアリーな空間となっています。その眺めや設えは、日本の伝統を重んじた空間美を追求しています。「離れ犀川」にご宿泊の方専用のラウンジも設け、緑に囲まれた癒しの空間でコーヒーやジュースなどのフリードリンクサービスがあります。",
+        "image": {
+          "height": 1288,
+          "sourceUrl": "https://a.mktgcdn.com/p/AXVAR0M26FjoPSuJEYn9ABK8Cpoqlvqlew0KFRnMWfs/1320x1288.jpg",
+          "thumbnails": [
+            {
+              "height": 1288,
+              "url": "https://a.mktgcdn.com/p-sandbox/Wd3JfjtHef3Zd2M2qfKckXd38qJjYbzolWfSiH-fMNM/1320x1288.jpg",
+              "width": 1320
+            },
+            {
+              "height": 604,
+              "url": "https://a.mktgcdn.com/p-sandbox/Wd3JfjtHef3Zd2M2qfKckXd38qJjYbzolWfSiH-fMNM/619x604.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Wd3JfjtHef3Zd2M2qfKckXd38qJjYbzolWfSiH-fMNM/461x450.jpg",
+              "width": 461
+            },
+            {
+              "height": 191,
+              "url": "https://a.mktgcdn.com/p-sandbox/Wd3JfjtHef3Zd2M2qfKckXd38qJjYbzolWfSiH-fMNM/196x191.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Wd3JfjtHef3Zd2M2qfKckXd38qJjYbzolWfSiH-fMNM/1320x1288.jpg",
+          "width": 1320
+        },
+        "imageCaption": "白玉の間　客室一例",
+        "sectionLevel": "h3",
+        "sectionTitle": "金沢犀川温泉川端の湯宿滝亭"
+      },
+      {
+        "cTA1": {
+          "label": "花紫の魅力",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5368026/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "花紫の宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5368026/plan/?_gl\u003d1*1gr2ju*_gcl_au*MTI1OTg0ODI4My4xNzEwMzk4NjA0*_ga*MTgzNTYyNzYzOS4xNjY4NDE0OTgx*_ga_KGZYYE4GBZ*MTcxMDQ3OTU2Mi41OS4xLjE3MTA0ODE3NDMuMC4wLjA.*_fplc*Q21oMTZDOUJLYXc0emRjeFJJczJFUE5WQUtiMnNZNHh2alVua2dLMzF0ZmF5S0ElMkZiWVdpQzlqSUtCdUFITHRRS1l1Qm9iciUyRiUyRiUyRk9HeGRzSnBIN2tHWlRxZDNFcTFDWUlseVUlMkZOQ3hHcVBReSUyQmpVSm5KNERpcnRTVzBOeHd3JTNEJTNE",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "花紫の新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5368026/plan/",
+          "linkType": "URL"
+        },
+        "cTA4": {
+          "label": "かよう亭の航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5368013/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357046/53570461300000008.jpg\" alt\u003d\"滝を眺めることができる露天風呂\" style\u003d\"display: block; margin: auto;\" /\u003e温泉は、ナトリウム塩化物・炭酸水素塩泉の無色透明の湯が評判で、通称「つるつる温泉」とも呼ばれてきました。露天風呂からも滝を眺めることができ、爽快な音、お湯、滝亭自慢のお風呂をお楽しみください。",
+        "image": {
+          "height": 634,
+          "sourceUrl": "https://a.mktgcdn.com/p/oGfa_Z9aKvRhtczHSuc56dTmGR5uy52M5pr6-GcUIw0/827x634.jpg",
+          "thumbnails": [
+            {
+              "height": 634,
+              "url": "https://a.mktgcdn.com/p-sandbox/8z2qg8jIiLYcnDIKEQdGL0_Iok7ryXQ33k-Q65gxtV8/827x634.jpg",
+              "width": 827
+            },
+            {
+              "height": 475,
+              "url": "https://a.mktgcdn.com/p-sandbox/8z2qg8jIiLYcnDIKEQdGL0_Iok7ryXQ33k-Q65gxtV8/619x475.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/8z2qg8jIiLYcnDIKEQdGL0_Iok7ryXQ33k-Q65gxtV8/587x450.jpg",
+              "width": 587
+            },
+            {
+              "height": 150,
+              "url": "https://a.mktgcdn.com/p-sandbox/8z2qg8jIiLYcnDIKEQdGL0_Iok7ryXQ33k-Q65gxtV8/196x150.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8z2qg8jIiLYcnDIKEQdGL0_Iok7ryXQ33k-Q65gxtV8/827x634.jpg",
+          "width": 827
+        },
+        "imageCaption": "お料理　一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "「金沢犀川温泉川端の湯宿滝亭」客室"
+      },
+      {
+        "cTA1": {
+          "label": "かよう亭の魅力",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5368013/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "かよう亭の宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5368013/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "かよう亭の新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5368013/plan/",
+          "linkType": "URL"
+        },
+        "cTA4": {
+          "label": "厨八十八の航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5368032/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5364001/53640011100017381.jpg\" alt\u003d\"まつさき\" style\u003d\"display: block; margin: auto;\" /\u003eまつさきは、松任（まっとう）駅から送迎バスに乗り、約20分のところにあります。また小松駅・小松空港からの送迎バスも運行しております。敷地内に、四季折々の風情を醸し出す千五百坪の庭園を有する歴史ある宿です。温泉は、庭園の一部より掘り出された源泉で、白山連峰や庭園をのぞむ3つの展望露天風呂を有しています。",
+        "image": {
+          "height": 561,
+          "sourceUrl": "https://a.mktgcdn.com/p/A1UG6_BocTjIR7E_dUzq1kqpSw7RQAKkE0cmTO4ixms/843x561.jpg",
+          "thumbnails": [
+            {
+              "height": 561,
+              "url": "https://a.mktgcdn.com/p-sandbox/A1UG6_BocTjIR7E_dUzq1kqpSw7RQAKkE0cmTO4ixms/843x561.jpg",
+              "width": 843
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/A1UG6_BocTjIR7E_dUzq1kqpSw7RQAKkE0cmTO4ixms/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/A1UG6_BocTjIR7E_dUzq1kqpSw7RQAKkE0cmTO4ixms/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/A1UG6_BocTjIR7E_dUzq1kqpSw7RQAKkE0cmTO4ixms/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/A1UG6_BocTjIR7E_dUzq1kqpSw7RQAKkE0cmTO4ixms/843x561.jpg",
+          "width": 843
+        },
+        "imageCaption": "客室一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "滝を眺めることができる露天風呂"
+      },
+      {
+        "cTA1": {
+          "label": "厨八十八の魅力",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5368032/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "厨八十八の宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5368032/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "厨八十八の新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5368032/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5364001/53640011100017365.jpg\" alt\u003d\"「まつさき」客室\" style\u003d\"display: block; margin: auto;\" /\u003e源泉露天風呂付きの客室が豊富に揃う「まつさき」の客室。鳳凰のお部屋は、源泉のお湯を使用した内風呂と露天風呂を備えています。なかでも「鳳凰 和洋貴賓室」は、和室二部屋と、ベッドルーム、広縁などを備えた広々としたお部屋で、日常ではなかなか味わえない贅沢な時間を過ごせます。また「桃山庵 白玉の間」は、露天風呂がドアで仕切られ、内は内風呂として、外は庭園に囲まれた開放的な露天風呂となっています。",
+        "imageCaption": "お料理　一例",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．辰口温泉の高級旅館"
+      },
+      {
+        "description": "まつさきは、料亭旅館としても知られるほど、料理が自慢の旅館です。本館・新館とそれぞれの厨房で各料理長が日本海の幸や加賀野菜など旬の食材を使い、腕を振るう懐石料理が評判です。旬を大切にするために、板長自らが市場へ出向き吟味した、極上の日本海の幸や加賀野菜を用いて仕上げています。",
+        "imageCaption": "露天風呂付客室　一例",
+        "sectionLevel": "h3",
+        "sectionTitle": "まつさき"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5367027/53670271300000151.jpg\" alt\u003d\"たちばな四季亭\" style\u003d\"display: block; margin: auto;\" /\u003eたちばな四季亭は、加賀温泉駅から送迎バスに乗り、約15分のところにあります。山代温泉発祥の地である服部神社、薬王院の正面にある落ち着いた旅館。「ひらがなのおもてなし」を基本コンセプトとし、お客さまをあたたかくつつみこむおもてなしの「こころ」を大切にしています。館内は畳敷き桐敷きで、ご到着時から素足でくつろいでお過ごしになれます。",
+        "imageCaption": "コンフォートスイート　客室一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "「まつさき」客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5367027/53670270004098100.jpg\" alt\u003d\"「たちばな四季亭」客室\" style\u003d\"display: block; margin: auto;\" /\u003e加賀五彩のひとつ「草色」からインスピレーションを得て誕生した、「萌木色」をテーマにしたお部屋です。山代の1号源泉をお好きな時にお楽しみいただけるひのき露天風呂のほか、外の景色を眺めながらお寛ぎいただけるダイニングスペース、ツインベッドの華やかなヘッドボードなど、オリジナリティ溢れる洗練された客室でお寛ぎいただけます。",
+        "imageCaption": "露天風呂「ひらひら」",
+        "sectionLevel": "h4",
+        "sectionTitle": "料理が自慢の宿「まつさき」"
+      },
+      {
+        "description": "夕朝共、お部屋食が基本で（人数により個室会場になる場合があります。）、ゆったりとお食事がいただけます。地元橋立港や金沢能登で獲れた鮮魚と、加賀野菜など地元食材を中心とした多彩な加賀の味覚をお楽しみください。器は九谷焼を使用し、お料理の美しさが際立ちます。",
+        "imageCaption": "客室一例",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．山代温泉の高級旅館"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5367010/53670104000000001.jpg\" alt\u003d\"あらや滔々庵\" style\u003d\"display: block; margin: auto;\" /\u003eあらや滔々庵は、加賀温泉駅から送迎バスに乗り、約10分のところにあります。1日540石（約10万リットル）と山代随一の湯量を誇る源泉かけ流しの老舗宿です。山代温泉の中心にありながら、館内に入るととても静かな雰囲気が漂います。初期の陶芸作品といわれる赤絵皿など芸術家・北大路魯山人ゆかりの作品や、現代アートの数々が館内に展示されています。",
+        "imageCaption": "お料理　一例",
+        "sectionLevel": "h3",
+        "sectionTitle": "たちばな四季亭"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5367010/53670100001711300.jpg\" alt\u003d\"「あらや滔々庵」客室\" style\u003d\"display: block; margin: auto;\" /\u003e客室は、日本の伝統美に触れられる数寄屋風です。山庭に面しているため、山庭の新緑、紅葉、雪景色など、季節ごとの風情が感じられる贅沢な時間を過ごせます。露天風呂付き客室の露天風呂は源泉かけ流しです。",
+        "imageCaption": "客室　一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "「たちばな四季亭」客室"
+      },
+      {
+        "description": "薄暗い照明の黒い浴室内にたちこめる源泉のミスト。温めと熱めに設定された二つの浴室には交互に何度もお入りください。源泉を五感で感じ取っていただけるメディティエーション・バスです。",
+        "imageCaption": "料亭街「厨（くりや）」／イメージ",
+        "sectionLevel": "h4",
+        "sectionTitle": "多彩な加賀の味覚を楽しめるお食事"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5368026/53680260004908700.jpg\" alt\u003d\"花紫\" style\u003d\"display: block; margin: auto;\" /\u003e花紫は、加賀温泉駅から送迎バスに乗り、約15分のところにあります。伝統工芸をふんだんにしつらえた幻想的な空間が魅力で、料理とおもてなしが自慢のお宿です。花紫自慢の「アラカルト懐石」は、およそ50種類の季節のメニューから、お好みの献立をご自身でセレクトする懐石プランとなっています。海鮮づくしもよし、バランス重視もよし、あなただけの懐石料理をご堪能いただけます。（一部プランを除く）",
+        "sectionLevel": "h3",
+        "sectionTitle": "あらや滔々庵"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5368026/53680261100007544.jpg\" alt\u003d\"「花紫」客室\" style\u003d\"display: block; margin: auto;\" /\u003e客室は、日本の建築美を追求した材と本壁仕様で、数奇屋風のしつらえ。全てのお部屋から鶴仙渓が眺められ、やすらぎのひとときを心ゆくまで満喫できます。コンフォートスイート客室は、約170㎡の広さを誇り、上質な和紙を使用した和モダンテイストの客室です。客室内に源泉かけ流しの半露天風呂とミストサウナがあります。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「あらや滔々庵」客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5368026/53680261100007976.jpg\" alt\u003d\"最上階の展望露天風呂「ひらひら」 \"style\u003d\"display: block; margin: auto;\" /\u003e最上階の露天風呂「ひらひら」からは、美しい山並みと、眼下に北陸随一の渓谷美を誇る鶴仙渓が見渡せます。四季折々の美しい景色を堪能しながら、癒しの時間をお過ごしいただけます。湯上りラウンジでは、花紫オリジナルの梅ゼリーのサービスがあります。",
+        "sectionLevel": "h4",
+        "sectionTitle": "特別浴室「烏湯」"
+      },
+      {
+        "description": "かよう亭は、加賀温泉駅からバスに乗り、「山中温泉」下車後、徒歩約4分のところにあります。約１万坪の敷地の中にあり、館内は畳敷きの廊下で統一されています。到着時にアンティークカップでいただく自家製ミントティーは、旅の疲れを癒し、ゆったりとした時間を演出してくれます。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．山中温泉の高級旅館"
+      },
+      {
+        "description": "全10室の客室には、大きな窓から渓谷や樹木などの大自然の眺望を楽しめます。和室のお部屋は、12.5畳+次の間4.5畳と広々としたつくりとなっており、照明や障子などが情緒ある雰囲気を感じさせます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "花紫"
+      },
+      {
+        "description": "お食事は加賀の素材を大切にした会席料理。合鴨米・能登の卵・豆腐など生産者から直接仕入れ、素材の味が身体に染み渡ります。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「花紫」客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5368032/53680321300000043.jpg\" alt\u003d\"厨八十八\" style\u003d\"display: block; margin: auto;\" /\u003e厨八十八は、加賀温泉駅からバスに乗り、「山中温泉」下車後、タクシー約5分のところにあります。また加賀温泉駅からの送迎も運行しています。料理をする場所を意味する「厨」と、米の字から取った「八十八」にちなんで名付けられた料理自慢のお宿。ロビーの前面に広がるテラスには創業時より作っている田んぼがあり、四季折々の田園風景をお楽しみいただけるとともに、やすらぎに満ちた非日常空間が広がっています。",
+        "sectionLevel": "h4",
+        "sectionTitle": "最上階の展望露天風呂「ひらひら」"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5368032/53680321100007730.jpg\" alt\u003d\"「厨八十八」客室\" style\u003d\"display: block; margin: auto;\" /\u003eお部屋からは竹林の景色と渓谷のせせらぎがお楽しみいただけます。囲炉裏の間がついたお部屋は、竹林に面して囲炉裏が設けているため、心地いい風景と共にお茶やハーブティーをお楽しみください。",
+        "sectionLevel": "h3",
+        "sectionTitle": "かよう亭"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5368032/53680321100007600.jpg\" alt\u003d\"こだわりのお料理と「ご飯」\" style\u003d\"display: block; margin: auto;\" /\u003e夕食は、一品ずつ下ごしらえし、化学調味料を極力使わず、料理人の心遣いを丁寧に込めた月替りの献立です。オープン厨房の個室料亭「厨（くりや）」で、安全で本格的なお料理をお楽しみいただけます。「ご飯」は、美味しく召し上がっていただくために工夫を凝らして炊いています。特に朝食の陶器釜を使って炊き上げる釜焚きご飯は格別です。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「かよう亭」客室"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "優しい味付けが「かよう亭」の味"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "厨八十八"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "「厨八十八」客室"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "こだわりのお料理と「ご飯」"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kokunai_0010"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2021-08-23",
+    "c_news_UpdateDate": "2024-04-23",
+    "c_news_ViewCount": "5245",
+    "c_news_ViewCount2of2": "5245",
+    "c_news_ViewCountNum": "5245",
+    "c_news_ViewCountNumForSorting": "247",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/hokuriku/ishikawa/news_web_kokunai_0003",
+    "name": "金沢・石川の高級旅館8選～一度は泊まってみたい憧れの宿～",
+    "slug": "kokunai/hokuriku/ishikawa/news_web_kokunai_0003",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

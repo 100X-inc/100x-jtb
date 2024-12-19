@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_shen_nai_chuan_xian_chuan_qi_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247789"
+    ],
+    "dm_directoryChildren": [
+      "3951-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_shen_nai_chuan_xian"
+    ],
+    "name": "川崎市",
+    "slug": "神奈川県/川崎市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

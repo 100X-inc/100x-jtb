@@ -1,0 +1,22 @@
+{
+  "$id": "defaultDirectory_de_dao_xian",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1045019378"
+    ],
+    "dm_directoryChildren": [
+      "defaultDirectory_de_dao_xian_ban_ye_jun"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory"
+    ],
+    "name": "徳島県",
+    "slug": "徳島県"
+  },
+  "entityType": "ce_region",
+  "labels": []
+}

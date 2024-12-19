@@ -1,0 +1,59 @@
+{
+  "$id": "cp_14853078",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf7Bd",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "日頃より、JTBをご利用いただきまして誠にありがとうございます。\n皆様のご旅行がより思い出深いものになるようスタッフ一同、真心をこめてお手伝いさせていただきます。\n皆様のお越しをお待ちしております！",
+    "c_cp_DisplayName": "三浦",
+    "c_cp_HiraganaName": "みうら",
+    "c_cp_JobTitle": "JTB国会内店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 672,
+      "sourceUrl": "https://a.mktgcdn.com/p/vexzFTmJVhWdF0lA47DibwTD4HLujppuWDyVh6hZp_k/900x672.jpg",
+      "thumbnails": [
+        {
+          "height": 672,
+          "url": "https://a.mktgcdn.com/p-sandbox/FcAOD_XunWo6rMSLLAQHQ1StQJLmf3C5wYQPyJwFe78/900x672.jpg",
+          "width": 900
+        },
+        {
+          "height": 462,
+          "url": "https://a.mktgcdn.com/p-sandbox/FcAOD_XunWo6rMSLLAQHQ1StQJLmf3C5wYQPyJwFe78/619x462.jpg",
+          "width": 619
+        },
+        {
+          "height": 448,
+          "url": "https://a.mktgcdn.com/p-sandbox/FcAOD_XunWo6rMSLLAQHQ1StQJLmf3C5wYQPyJwFe78/600x448.jpg",
+          "width": 600
+        },
+        {
+          "height": 146,
+          "url": "https://a.mktgcdn.com/p-sandbox/FcAOD_XunWo6rMSLLAQHQ1StQJLmf3C5wYQPyJwFe78/196x146.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/FcAOD_XunWo6rMSLLAQHQ1StQJLmf3C5wYQPyJwFe78/900x672.jpg",
+      "width": 900
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 三浦",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 三浦",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_14853078",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10151_国会内店",
+    "name": "みうら_14853078",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

@@ -1,0 +1,29 @@
+{
+  "$id": "spain",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "europe"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_osarea_0000060",
+      "news_ap_osarea_0000061",
+      "news_ap_osarea_0000064",
+      "news_ap_osarea_0000074",
+      "news_ap_osarea_0000073",
+      "news_ap_osarea_0000071",
+      "news_ap_osarea_0000063",
+      "news_ap_osarea_0000075",
+      "news_ap_osarea_0000072",
+      "news_ap_osarea_0000062"
+    ],
+    "c_metaDescription": "お出かけの際は施設や自治体などの最新情報をご確認ください。",
+    "c_metaTitle": "JTBニュース | スペイン | 旅行・おでかけ情報",
+    "name": "スペイン",
+    "slug": "kaigai/europe/spain"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

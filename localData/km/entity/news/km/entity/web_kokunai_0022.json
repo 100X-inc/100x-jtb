@@ -1,0 +1,665 @@
+{
+  "$id": "news_web_kokunai_0022",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1247,
+      "sourceUrl": "https://a.mktgcdn.com/p/nJkTr26IALmvayW6HDXrFNQ8-qIuk2UsncvbQ0tJYzY/1870x1247.jpg",
+      "thumbnails": [
+        {
+          "height": 1247,
+          "url": "https://a.mktgcdn.com/p-sandbox/QGz22AbKeV_Q2RRAC6oGEElnySbIZ_m4hggFD01W8qI/1870x1247.jpg",
+          "width": 1870
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/QGz22AbKeV_Q2RRAC6oGEElnySbIZ_m4hggFD01W8qI/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/QGz22AbKeV_Q2RRAC6oGEElnySbIZ_m4hggFD01W8qI/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/QGz22AbKeV_Q2RRAC6oGEElnySbIZ_m4hggFD01W8qI/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/QGz22AbKeV_Q2RRAC6oGEElnySbIZ_m4hggFD01W8qI/1870x1247.jpg",
+      "width": 1870
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "沖縄の記事一覧はこちら",
+        "uRL": "https://www.jtb.co.jp/news/list/kokunai/okinawa"
+      },
+      {
+        "linkText": "沖縄の旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/"
+      },
+      {
+        "linkText": "沖縄のホテル・旅館・宿を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/"
+      },
+      {
+        "linkText": "沖縄のツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_air/a/okinawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "子連れでリゾートに行きたいと思ったら、「沖縄」を頭に浮かべる方は多いのではないでしょうか。温暖な気候でゆったりとした時間の流れる沖縄は、きっとお子様も大人も笑顔になれることでしょう。\n今回は、お子様もパパもママも「泊まってよかった！」と思えるような、子連れ沖縄旅行にオススメのホテル9選をご紹介いたします。",
+    "c_ap_Tags": [
+      "アクティビティ",
+      "ビーチ",
+      "スパ",
+      "リゾート",
+      "カフェ",
+      "プール",
+      "ビーチリゾート",
+      "国内の宿",
+      "子連れ",
+      "家族旅行",
+      "沖縄おすすめ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "子連れ歓迎！家族で楽しむ沖縄のおすすめホテル9選",
+    "c_linkedArea3News": [
+      "okinawa_all"
+    ],
+    "c_metaDescription": "子連れでも楽しめる沖縄のおすすめホテルをご紹介！パパもママも赤ちゃんも笑顔になれる、子連れ歓迎のホテルをピックアップしました。ホテルの選び方のポイントもチェックして、沖縄旅行を楽しみましょう！",
+    "c_metaTitle": "子連れ歓迎！家族で楽しむ沖縄のおすすめホテル9選｜JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "アクティビティ満載！「夏の家族旅行 沖縄」ツアーをみる",
+        "link": "https://www.jtb.co.jp/kokunai_air/t/sum_fam_okinawa/okinawa/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "「夏の家族旅行 沖縄」プランの魅力をみる",
+        "link": "https://dp.jtb.co.jp/lookjtb/dp/pamphlet/2024_ace_1442059/?_gl\u003d1*psclup*_gcl_aw*R0NMLjE3MTQ1NTMzOTUuQ2owS0NRancwTWV4QmhEM0FSSXNBRUkzV0hKOVBQQVk2aGE5aDJfQUhsdTJkVDJhQ3RVOGRxZXV0WEY2VVd4YkYzTGlkN29WNDVCNWR4TWFBczY1RUFMd193Y0I.*_gcl_au*MTg1ODExNDEwNi4xNzE2MTg0NDEw*_ga*ODU3NTAyODY0LjE3MDc5MDE0Njg.*_ga_KGZYYE4GBZ*MTcxNjUxNTE5Ni4yNi4xLjE3MTY1MTcxOTkuMC4wLjE0OTY0NTMyODU.*_fplc*V2RnTG4lMkZIVzFvS29EMyUyRllwR2FDdEFZbU1CcGc4Mk45bTV2RXJrSEVsNkZ2QWpoUEdSeG15R1NVdWhDM0MyVDlmekpBZmxvWVQlMkIyZ1glMkZ1TjcyZ1FybW40S3IzZmFYWUFMYlc2UjdFN285TXc5RmZMN2Vld0RRTUtXTTd1blElM0QlM0Q.#3",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "「夏の家族旅行 沖縄」プラン限定！割引クーポンをみる",
+        "link": "https://www.jtb.co.jp/myjtb/campaign/coupon/detail/2404okicn/page.asp",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "赤ちゃん旅行におすすめの宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai/theme/family/baby/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "赤ちゃん歓迎プランのある宿を予約する",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/feature/baby/",
+          "linkType": "OTHER"
+        },
+        "description": "リゾート地である沖縄には、魅力的なホテルがたくさんあります。ここでは、子連れ沖縄旅行のホテル選びのポイントをご紹介します。",
+        "image": {
+          "alternateText": "沖縄かりゆしビーチリゾート・オーシャンスパ",
+          "height": 433,
+          "sourceUrl": "https://a.mktgcdn.com/p/4jBHi10fyY6SbFtPu-UWthVUl3QsnI046AgWlaRk9Bo/745x433.jpg",
+          "thumbnails": [
+            {
+              "height": 433,
+              "url": "https://a.mktgcdn.com/p-sandbox/4jBHi10fyY6SbFtPu-UWthVUl3QsnI046AgWlaRk9Bo/745x433.jpg",
+              "width": 745
+            },
+            {
+              "height": 360,
+              "url": "https://a.mktgcdn.com/p-sandbox/4jBHi10fyY6SbFtPu-UWthVUl3QsnI046AgWlaRk9Bo/619x360.jpg",
+              "width": 619
+            },
+            {
+              "height": 349,
+              "url": "https://a.mktgcdn.com/p-sandbox/4jBHi10fyY6SbFtPu-UWthVUl3QsnI046AgWlaRk9Bo/600x349.jpg",
+              "width": 600
+            },
+            {
+              "height": 114,
+              "url": "https://a.mktgcdn.com/p-sandbox/4jBHi10fyY6SbFtPu-UWthVUl3QsnI046AgWlaRk9Bo/196x114.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4jBHi10fyY6SbFtPu-UWthVUl3QsnI046AgWlaRk9Bo/745x433.jpg",
+          "width": 745
+        },
+        "imageCaption": "※画像はイメージです",
+        "infoBlockLabel": "沖縄かりゆしビーチリゾート・オーシャンスパのお子様向けサービス・設備",
+        "infoBlockText": "1．ベビーパック：〇2．キッズルーム：〇3．JTBラウンジ：〇4．アクティビティ：〇",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．子連れ沖縄旅行のホテル選びのポイント"
+      },
+      {
+        "cTA1": {
+          "label": "JTBラウンジの詳細をみる",
+          "link": "https://www.jtb.co.jp/kokunai/area/okinawa/lounge/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "沖縄かりゆしビーチリゾート・オーシャンスパを予約する",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707006/plan/",
+          "linkType": "OTHER"
+        },
+        "description": "ついつい荷物が多くなってしまう子連れ旅行。お子様向けのアメニティやグッズが充実しているホテルを選ぶと、荷物を減らすことができます。年齢に合わせた離乳食を用意してくれたり、ベビールームがあったりと赤ちゃん連れ歓迎のホテルをチェックしてみましょう！",
+        "image": {
+          "alternateText": "オリエンタルホテル沖縄リゾート＆スパ",
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/9KZW7g85OfKDOV1nUTIRXDvdUpSRTlgbCJIMLXLW-7Y/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/9KZW7g85OfKDOV1nUTIRXDvdUpSRTlgbCJIMLXLW-7Y/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/9KZW7g85OfKDOV1nUTIRXDvdUpSRTlgbCJIMLXLW-7Y/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/9KZW7g85OfKDOV1nUTIRXDvdUpSRTlgbCJIMLXLW-7Y/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/9KZW7g85OfKDOV1nUTIRXDvdUpSRTlgbCJIMLXLW-7Y/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9KZW7g85OfKDOV1nUTIRXDvdUpSRTlgbCJIMLXLW-7Y/1024x683.jpg",
+          "width": 1024
+        },
+        "imageCaption": "※画像はイメージです",
+        "infoBlockLabel": "オリエンタルホテル沖縄リゾート＆スパのお子様向けサービス・設備",
+        "infoBlockText": "1．ベビーパック：〇2．キッズルーム：‐3．JTBラウンジ：〇4．アクティビティ：〇",
+        "sectionLevel": "h3",
+        "sectionTitle": "ポイント①：ホテルのお子様向けのアメニティをチェック！"
+      },
+      {
+        "cTA1": {
+          "label": "沖縄かりゆしビーチリゾート・オーシャンスパの魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707006/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ホテル日航アリビラを予約する",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8741001/plan/",
+          "linkType": "OTHER"
+        },
+        "description": "小さなお子様にとっては、移動するだけでも大きな負担となってしまうもの。その負担を減らし、家族みんなで楽しく過ごすには、ホテル内や近隣にお子様向けの施設があるホテルを選びましょう。ホテルにプールがある場合も、赤ちゃんや小さなお子様が一緒の場合、水深の浅いお子様用プールがあると安心です。室内プールやキッズルームがあれば、天候に左右されずに遊ぶことができます。また、パパとママが子連れで参加できないアクティビティに参加したいときや、買い物や食事をゆっくり楽しみたいときには、託児サービスがあるホテルを選んでみるのも1つの方法です。",
+        "image": {
+          "alternateText": "ホテル日航アリビラ",
+          "height": 433,
+          "sourceUrl": "https://a.mktgcdn.com/p/cvxN56hGfoX9z0z9MYFIaTzghmxrMRo7sWw2yKTMhTs/745x433.jpg",
+          "thumbnails": [
+            {
+              "height": 433,
+              "url": "https://a.mktgcdn.com/p-sandbox/cvxN56hGfoX9z0z9MYFIaTzghmxrMRo7sWw2yKTMhTs/745x433.jpg",
+              "width": 745
+            },
+            {
+              "height": 360,
+              "url": "https://a.mktgcdn.com/p-sandbox/cvxN56hGfoX9z0z9MYFIaTzghmxrMRo7sWw2yKTMhTs/619x360.jpg",
+              "width": 619
+            },
+            {
+              "height": 349,
+              "url": "https://a.mktgcdn.com/p-sandbox/cvxN56hGfoX9z0z9MYFIaTzghmxrMRo7sWw2yKTMhTs/600x349.jpg",
+              "width": 600
+            },
+            {
+              "height": 114,
+              "url": "https://a.mktgcdn.com/p-sandbox/cvxN56hGfoX9z0z9MYFIaTzghmxrMRo7sWw2yKTMhTs/196x114.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cvxN56hGfoX9z0z9MYFIaTzghmxrMRo7sWw2yKTMhTs/745x433.jpg",
+          "width": 745
+        },
+        "infoBlockLabel": "ホテル日航アリビラのお子様向けサービス・設備",
+        "infoBlockText": "1．ベビーパック：〇2．キッズルーム：‐3．JTBカフェ：〇4．アクティビティ：〇",
+        "sectionLevel": "h3",
+        "sectionTitle": "ポイント②：お子様用プールやキッズスペースなど子連れのお客様向けの施設をチェック！"
+      },
+      {
+        "cTA1": {
+          "label": "オリエンタルホテル沖縄リゾート＆スパを予約する",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8710010/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "カヌチャベイホテル＆ヴィラズの魅力を予約する",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8710007/plan/",
+          "linkType": "OTHER"
+        },
+        "description": "ホテル内の施設で見逃せないのがJTB専用ラウンジカフェです。JTBラウンジは、ラウンジ利用対象プランでお申し込みいただいたお客様限定で利用できる無料のホテル内の施設で、スイーツやドリンク、ハピーアワーなどホテル滞在中何度でも利用することができます。季節限定のケーキやオリジナルクレープなどスイーツが充実しているホテルや、ビールやワインなどお酒を楽しめるホテル、JTBラウンジ内にキッズコーナーがあるホテルや、ラウンジからの眺望が抜群のホテルなど、ホテルによって様々なラウンジが用意されています。遊んだ後のおやつや食後の休憩など、ちょっとした時間に贅沢なひとときを過ごせます。",
+        "image": {
+          "alternateText": "カヌチャベイホテル＆ヴィラズ",
+          "height": 433,
+          "sourceUrl": "https://a.mktgcdn.com/p/I7TSBvkw3xHR8Z-JmbpyhEBbDYoal1zfjx36mVCj2AE/745x433.jpg",
+          "thumbnails": [
+            {
+              "height": 433,
+              "url": "https://a.mktgcdn.com/p-sandbox/I7TSBvkw3xHR8Z-JmbpyhEBbDYoal1zfjx36mVCj2AE/745x433.jpg",
+              "width": 745
+            },
+            {
+              "height": 360,
+              "url": "https://a.mktgcdn.com/p-sandbox/I7TSBvkw3xHR8Z-JmbpyhEBbDYoal1zfjx36mVCj2AE/619x360.jpg",
+              "width": 619
+            },
+            {
+              "height": 349,
+              "url": "https://a.mktgcdn.com/p-sandbox/I7TSBvkw3xHR8Z-JmbpyhEBbDYoal1zfjx36mVCj2AE/600x349.jpg",
+              "width": 600
+            },
+            {
+              "height": 114,
+              "url": "https://a.mktgcdn.com/p-sandbox/I7TSBvkw3xHR8Z-JmbpyhEBbDYoal1zfjx36mVCj2AE/196x114.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/I7TSBvkw3xHR8Z-JmbpyhEBbDYoal1zfjx36mVCj2AE/745x433.jpg",
+          "width": 745
+        },
+        "infoBlockLabel": "カヌチャベイホテル＆ヴィラズのお子様向けサービス・設備",
+        "infoBlockText": "1．ベビーパック：〇2．キッズルーム：〇3．JTBラウンジ：〇4．アクティビティ：〇",
+        "sectionLevel": "h3",
+        "sectionTitle": "ポイント③：無料で楽しめるホテルのラウンジ・カフェも見逃せない！"
+      },
+      {
+        "cTA1": {
+          "label": "ホテル日航アリビラの魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8741001/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "リザンシーパークホテル谷茶ベイの魅力を予約する",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707010/plan/",
+          "linkType": "OTHER"
+        },
+        "description": "もう少し大きなお子様なら、お子様向けのアクティビティが充実しているホテルを選びましょう。イルカと触れあったり、琉球文化を体験したりと沖縄だからこそ体験できるアクティビティなら、楽しい旅の思い出も増やすことができます。ご家族みんなで参加するタイプのアクティビティや、お子様だけで参加するタイプのアクティビティと、ホテルによっても異なります。どんなアクティビティを体験したいか、家族みんなでホテルを選んでみてもいいですね。",
+        "image": {
+          "alternateText": "リザンシーパークホテル谷茶ベイ",
+          "height": 531,
+          "sourceUrl": "https://a.mktgcdn.com/p/QfbVmMJbtan4CkvD2cXoW2Fjq1BQ6o3nOeHu2bUL0Lg/800x531.jpg",
+          "thumbnails": [
+            {
+              "height": 531,
+              "url": "https://a.mktgcdn.com/p-sandbox/QfbVmMJbtan4CkvD2cXoW2Fjq1BQ6o3nOeHu2bUL0Lg/800x531.jpg",
+              "width": 800
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/QfbVmMJbtan4CkvD2cXoW2Fjq1BQ6o3nOeHu2bUL0Lg/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/QfbVmMJbtan4CkvD2cXoW2Fjq1BQ6o3nOeHu2bUL0Lg/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/QfbVmMJbtan4CkvD2cXoW2Fjq1BQ6o3nOeHu2bUL0Lg/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QfbVmMJbtan4CkvD2cXoW2Fjq1BQ6o3nOeHu2bUL0Lg/800x531.jpg",
+          "width": 800
+        },
+        "infoBlockLabel": "リザンシーパークホテル谷茶ベイのお子様向けサービス・設備",
+        "infoBlockText": "1．ベビーパック：‐2．キッズルーム：〇3．JTBラウンジ：〇4．アクティビティ：〇",
+        "sectionLevel": "h3",
+        "sectionTitle": "ポイント④：お子様が幼児以上ならホテルのアクティビティをチェック！"
+      },
+      {
+        "cTA1": {
+          "label": "カヌチャベイホテル＆ヴィラズの魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8710007/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ANAインターコンチネンタル万座ビーチリゾートの魅力を予約する",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707004/plan/",
+          "linkType": "OTHER"
+        },
+        "description": "沖縄県北部の恩納村にある「沖縄かりゆしビーチリゾート・オーシャンスパ」は、2種類の大展望風呂、屋内プールなどの施設が充実したリゾートホテルです。お子様が大喜びの約20種類のエアー遊具が連なるビーチアスレチック「かりゆしウォーターランド」や、1歳のお子様から乗ることができるチャイルドチューブなどのマリンスポーツ、シーサー絵付け教室や、さんご教室など、アクティビティや体験教室が豊富にあります。また、ホテル内には、お絵かきなどを楽しめるキッズスペースや、木製のおもちゃが揃うキッズスペース「ワンダールーム」があり、悪天候時でも館内で楽しむことができます。さらに、滞在中何度でも利用可能なエースJTB専用ラウンジにもキッズコーナーがあるので、小さな子供を連れていてもゆっくり過ごせます。ほかにも先述した「ベビーパック」サービスがあるため、赤ちゃん連れの旅行にぴったりのホテルです。",
+        "image": {
+          "alternateText": "ANAインターコンチネンタル万座ビーチリゾート",
+          "height": 433,
+          "sourceUrl": "https://a.mktgcdn.com/p/DCZ-wDPgET7hm8h7zSYi-FDX0GY_QlMsLzBTCWv4AcM/745x433.jpg",
+          "thumbnails": [
+            {
+              "height": 433,
+              "url": "https://a.mktgcdn.com/p-sandbox/DCZ-wDPgET7hm8h7zSYi-FDX0GY_QlMsLzBTCWv4AcM/745x433.jpg",
+              "width": 745
+            },
+            {
+              "height": 360,
+              "url": "https://a.mktgcdn.com/p-sandbox/DCZ-wDPgET7hm8h7zSYi-FDX0GY_QlMsLzBTCWv4AcM/619x360.jpg",
+              "width": 619
+            },
+            {
+              "height": 349,
+              "url": "https://a.mktgcdn.com/p-sandbox/DCZ-wDPgET7hm8h7zSYi-FDX0GY_QlMsLzBTCWv4AcM/600x349.jpg",
+              "width": 600
+            },
+            {
+              "height": 114,
+              "url": "https://a.mktgcdn.com/p-sandbox/DCZ-wDPgET7hm8h7zSYi-FDX0GY_QlMsLzBTCWv4AcM/196x114.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DCZ-wDPgET7hm8h7zSYi-FDX0GY_QlMsLzBTCWv4AcM/745x433.jpg",
+          "width": 745
+        },
+        "infoBlockLabel": "ANAインターコンチネンタル万座ビーチリゾートのお子様向けサービス・設備",
+        "infoBlockText": "1．ベビーパック：〇2．キッズルーム：〇3．JTBラウンジ：〇4．アクティビティ：〇",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．沖縄子連れ旅行に人気のホテル9選！プール付きホテルもご紹介"
+      },
+      {
+        "cTA1": {
+          "label": "リザンシーパークホテル谷茶ベイの魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707010/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "シェラトン沖縄サンマリーナリゾートを予約する",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707005/plan/",
+          "linkType": "OTHER"
+        },
+        "description": "恩納村にある「オリエンタルホテル沖縄リゾート\u0026スパ」は、全室オーシャンビューのリゾートホテルです。屋外のガーデンプールは沖縄最大級の広さを誇り、小さなお子様でも安心して遊べる深さ60cmの子供用プールや、浜辺の波打ち際をイメージしたプール、長さ47.5ｍのロングウォータースライダーが付いたプールや、深さ2.5mのプールなど、思いっきりプールを満喫することができます。また、ウォーターウォーカーやプールボートといったアクティビティや、浮き輪やLEDフロートのレンタルなど、プールを楽しむためのアイテムも充実しています。ホテル内のJTBラウンジでは、マンゴーやシークヮーサーといった南国フルーツを使ったアイスクリームやシャーベットを楽しむことができます。",
+        "image": {
+          "alternateText": "シェラトン沖縄サンマリーナリゾート",
+          "height": 1440,
+          "sourceUrl": "https://a.mktgcdn.com/p/j2Y45lw_wQQhUcMQNDv48CmgmrVqAGGtJONnvV56weU/1920x1440.jpg",
+          "thumbnails": [
+            {
+              "height": 1440,
+              "url": "https://a.mktgcdn.com/p-sandbox/j2Y45lw_wQQhUcMQNDv48CmgmrVqAGGtJONnvV56weU/1920x1440.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/j2Y45lw_wQQhUcMQNDv48CmgmrVqAGGtJONnvV56weU/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/j2Y45lw_wQQhUcMQNDv48CmgmrVqAGGtJONnvV56weU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/j2Y45lw_wQQhUcMQNDv48CmgmrVqAGGtJONnvV56weU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/j2Y45lw_wQQhUcMQNDv48CmgmrVqAGGtJONnvV56weU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/j2Y45lw_wQQhUcMQNDv48CmgmrVqAGGtJONnvV56weU/1920x1440.jpg",
+          "width": 1920
+        },
+        "infoBlockLabel": "シェラトン沖縄サンマリーナリゾートのお子様向けサービス・設備",
+        "infoBlockText": "1．ベビーパック：〇2．キッズルーム：〇3．JTBラウンジ：〇4．アクティビティ：〇",
+        "sectionLevel": "h3",
+        "sectionTitle": "沖縄かりゆしビーチリゾート・オーシャンスパ"
+      },
+      {
+        "cTA1": {
+          "label": "ANAインターコンチネンタル万座ビーチリゾートの魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707004/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ＡＮＡインターコンチネンタル石垣リゾートを予約する",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8724004/plan/",
+          "linkType": "OTHER"
+        },
+        "description": "「ホテル日航アリビラ」は、沖縄本島の中部にある読谷村にあります。ホテルの目の前にニライビーチが広がり、沖縄の特徴的な遠浅の海を体感できます。また屋内にはリラクゼーションプールもあります。プチ釣りやキッズセーリングなど、お子様が喜ぶアクティビティも満載です。レストランでは、和・洋・中のキッズメニューや離乳食メニューを揃えています。ほかにもお子様用アメニティをはじめ、ベビーカーやベビーベッド、ベッドガードなどの貸し出しサービスも充実しています。またJTBのベビーパック対象ホテルです。",
+        "image": {
+          "alternateText": "ANAインターコンチネンタル石垣リゾート",
+          "height": 433,
+          "sourceUrl": "https://a.mktgcdn.com/p/4QoR6AOZMZOInT4mhxGrPwBAuDO01M1M_8pyFTCAqSs/745x433.jpg",
+          "thumbnails": [
+            {
+              "height": 433,
+              "url": "https://a.mktgcdn.com/p-sandbox/4QoR6AOZMZOInT4mhxGrPwBAuDO01M1M_8pyFTCAqSs/745x433.jpg",
+              "width": 745
+            },
+            {
+              "height": 360,
+              "url": "https://a.mktgcdn.com/p-sandbox/4QoR6AOZMZOInT4mhxGrPwBAuDO01M1M_8pyFTCAqSs/619x360.jpg",
+              "width": 619
+            },
+            {
+              "height": 349,
+              "url": "https://a.mktgcdn.com/p-sandbox/4QoR6AOZMZOInT4mhxGrPwBAuDO01M1M_8pyFTCAqSs/600x349.jpg",
+              "width": 600
+            },
+            {
+              "height": 114,
+              "url": "https://a.mktgcdn.com/p-sandbox/4QoR6AOZMZOInT4mhxGrPwBAuDO01M1M_8pyFTCAqSs/196x114.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4QoR6AOZMZOInT4mhxGrPwBAuDO01M1M_8pyFTCAqSs/745x433.jpg",
+          "width": 745
+        },
+        "infoBlockLabel": "ANAインターコンチネンタル石垣リゾートのお子様向けサービス・設備",
+        "infoBlockText": "1．ベビーパック：〇2．キッズルーム：〇3．JTBラウンジ：〇4．アクティビティ：〇",
+        "sectionLevel": "h3",
+        "sectionTitle": "オリエンタルホテル沖縄リゾート＆スパ"
+      },
+      {
+        "cTA1": {
+          "label": "シェラトン沖縄サンマリーナリゾートの魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707005/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "はいむるぶしを予約する",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8728001/plan/",
+          "linkType": "OTHER"
+        },
+        "description": "沖縄本島北部の名護市にある「カヌチャベイホテル＆ヴィラズ」は、約80万坪の広大な敷地を誇るリゾートホテルです。約50m²以上の広々としたすべての客室は、靴を脱いであがるくつろぎスタイルなので、ハイハイをする赤ちゃん連れにも人気があります。敷地内にはビーチや三つのプール、ゴルフ場があり、多彩なアクティビティを楽しめます。ビーチサイドプールには、水深約50cmのお子様用プールがあります。また、ホテル内に託児サービスがあるので、ダイビングやシュノーケリングといった、対象年齢の高いアクティビティに参加したい場合は、小さなお子様を預けることもできます。",
+        "image": {
+          "alternateText": "はいむるぶし",
+          "height": 433,
+          "sourceUrl": "https://a.mktgcdn.com/p/5TTour5gk-ukrm-MWM7Cca_OCIlbKuqcypo6l0fgn70/745x433.jpg",
+          "thumbnails": [
+            {
+              "height": 433,
+              "url": "https://a.mktgcdn.com/p-sandbox/5TTour5gk-ukrm-MWM7Cca_OCIlbKuqcypo6l0fgn70/745x433.jpg",
+              "width": 745
+            },
+            {
+              "height": 360,
+              "url": "https://a.mktgcdn.com/p-sandbox/5TTour5gk-ukrm-MWM7Cca_OCIlbKuqcypo6l0fgn70/619x360.jpg",
+              "width": 619
+            },
+            {
+              "height": 349,
+              "url": "https://a.mktgcdn.com/p-sandbox/5TTour5gk-ukrm-MWM7Cca_OCIlbKuqcypo6l0fgn70/600x349.jpg",
+              "width": 600
+            },
+            {
+              "height": 114,
+              "url": "https://a.mktgcdn.com/p-sandbox/5TTour5gk-ukrm-MWM7Cca_OCIlbKuqcypo6l0fgn70/196x114.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5TTour5gk-ukrm-MWM7Cca_OCIlbKuqcypo6l0fgn70/745x433.jpg",
+          "width": 745
+        },
+        "infoBlockLabel": "はいむるぶしのお子様向けサービス・設備",
+        "infoBlockText": "1．ベビーパック：〇2．キッズルーム：‐3．JTBラウンジ：‐4．アクティビティ：〇",
+        "sectionLevel": "h3",
+        "sectionTitle": "ホテル日航アリビラ"
+      },
+      {
+        "cTA1": {
+          "label": "ＡＮＡインターコンチネンタル石垣リゾートの魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8724004/remarks/",
+          "linkType": "URL"
+        },
+        "description": "沖縄海岸国定公園にある「リザンシーパークホテル谷茶ベイ」は、全長800mの砂浜が目の前に広がるリゾートホテルです。小さなお子様でも参加できるマリンアクティビティから、本格的なマリンスポーツまで、マリン＆アクティビティメニューが盛りだくさん！ビーチを目の前にした屋外プール、屋内の温水プールのどちらにもお子様用の浅いプールがあります。また、JTBラウンジにはキッズコーナーがあり、小さな子連れでも安心です。",
+        "image": {
+          "alternateText": "沖縄満喫クーポンで訪れられる石垣島",
+          "height": 1266,
+          "sourceUrl": "https://a.mktgcdn.com/p/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+          "thumbnails": [
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/619x412.webp",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/600x400.webp",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/196x131.webp",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+          "width": 1900
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "カヌチャベイホテル＆ヴィラズ"
+      },
+      {
+        "cTA1": {
+          "label": "はいむるぶしの魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8728001/remarks/",
+          "linkType": "URL"
+        },
+        "description": "沖縄の景勝地「万座毛」を望む絶好のロケーションにある「ANAインターコンチネンタル万座ビーチリゾート」には、ビーチやガーデンプール、大浴場など家族で楽しめる施設が満載です。3月から11月には国内最大級の海上アスレチック「万座オーシャンパーク」がオープンしたり、多彩なマリンアクティビティがあったりと、ホテルでたっぷり遊ぶことができます。また、室内遊び施設「万座キッズプレイランド」は、玩具メーカーで有名な株式会社ボーネルンドが企画に携わっている施設で、天候を気にせず思いっきり遊ぶことができます。ホテル内にはエースJTB専用ラウンジもあり、フロントでは紙おむつやおしりふきがセットになったベビーパックのサービスも受けられます。",
+        "image": {
+          "alternateText": "JTBラウンジのイメージ",
+          "height": 1267,
+          "sourceUrl": "https://a.mktgcdn.com/p/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+          "thumbnails": [
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/619x413.webp",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/600x400.webp",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/196x131.webp",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+          "width": 1900
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "リザンシーパークホテル谷茶ベイ"
+      },
+      {
+        "cTA1": {
+          "label": "「沖縄満喫クーポン」を使える沖縄旅行を探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/feature/tabisugo/",
+          "linkType": "OTHER"
+        },
+        "description": "恩納村に位置する「シェラトン沖縄サンマリーナリゾート」は、目の前にエメラルドブルーのビーチが広がる大型リゾートホテルです。ビーチに隣接したガーデンプールには、全長83mのロングウォータースライダーや、全長31mのウォータースライダー、水深30cmのお子様用プールがあります。屋内プールにもお子様用プールを完備しています。ほかにも大浴場や貸切家族風呂、キッズプレイエリア「ザ・コーブ」など、家族で満喫できる施設がいっぱいです。また、アクティビティも充実しており、全長約250mの海上を滑走するジップラインはスリル満点です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ANAインターコンチネンタル万座ビーチリゾート"
+      },
+      {
+        "cTA1": {
+          "label": "JTBラウンジについてもっとみる",
+          "link": "https://www.jtb.co.jp/kokunai/area/okinawa/lounge/",
+          "linkType": "OTHER"
+        },
+        "description": "石垣島にある日本最南端の街、真栄里の砂浜が目の前に広がる「ANAインターコンチネンタル石垣リゾート」。タワーウィングとコーラルウィングの二つの客室棟にある客室は、すべて40m²以上の広さがあり、ゆったりとくつろぐことができます。ホテルの敷地内には、キッズプールとウォータースライダーを併設したアウトドアプール、通年で利用可能な石垣の海水を取り入れたインドアプール、ゴルフコースやテニスコートといったアクティビティなど、多彩なプログラムが揃っています。特に、トランポリンやシーソーなどが海の上に浮かぶアスレチック「マエサトオーシャンパーク」は、お子様に人気があります。また、4~12歳のお子様が利用できるキッズクラブでは、探検ツアーやシーサー作りといった、石垣島ならではの自然・文化を、遊びながら体験できるプログラムを楽しめます。ホテルでは、お子様用リゾートウェアやスリッパ、歯ブラシなどのアメニティや、ベッドガードやベビーカー、補助便座といった無料の貸し出しも充実しているのもうれしい点です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "シェラトン沖縄サンマリーナリゾート"
+      },
+      {
+        "cTA1": {
+          "label": "子連れにおすすめの沖縄ホテルをもっとみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/feature/family_p/",
+          "linkType": "OTHER"
+        },
+        "description": "「はいむるぶし」は、石垣島からフェリーで約30分の場所に位置する小浜島にあるリゾートホテルです。国内最大級のサンゴ礁の海に囲まれた、自然豊かな「はいむるぶし」では、親子で体験できるロデオボートやチューブライディングをはじめ、シュノーケルやフィッシング、カヤックなど多彩なアクティビティがあります。ホテルの屋外プールには、水深0.3mのお子様用プールがあります。また、お子様用のパジャマやスリッパ、ベビーカーや踏み台といった貸出用品も豊富なので、小さなお子様連れでも安心して過ごせます。ホテルの広大な敷地には、海や星空を楽しめるカフェ、大浴場や露天風呂、動物ふれあい広場や昆虫博物館など、魅力的なスポットがたくさんあり、毎日違った楽しみを味わうことができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ANAインターコンチネンタル石垣リゾート"
+      },
+      {
+        "description": "JTBでは、「旅の過ごし方対象プラン」で予約すると沖縄本島・離島合わせて32か所、滞在中に全施設1回ずつ利用できる「沖縄満喫クーポン」を利用できます。QRコードの提示だけで対象施設に入場できて便利。ナゴパイナップルパークやDINO恐竜PARK、おきなわワールドなど子どもが楽しめる施設が豊富なのがうれしいポイントです。石垣島や宮古島の施設も対象なので、長めの滞在で離島まで足を延ばしてみるのもおすすめですよ。32か所も含まれているので、1回の沖縄旅行で行きたいところすべてを観光できなかった方は、ぜひ次の沖縄旅行もJTBで予約して、「沖縄満喫クーポン」を活用してみてください！",
+        "sectionLevel": "h3",
+        "sectionTitle": "はいむるぶし"
+      },
+      {
+        "description": "「JTBラウンジ」があるホテルなら、いつでもラウンジでラグジュアリーなホテル滞在を楽しめるのも魅力。「JTBラウンジ」とは、ホテル滞在中なら毎日何度でも料金不要で利用できる、JTBのお客様専用のサービスです。スイーツ・ドリンク食べ飲み放題で、家族みんなが楽しめるサービスが満載！キッズスペースが完備されているホテルもあるので、思いっきり遊べますよ。例えば「ルネッサンスリゾート オキナワ」のJTBラウンジなら以下のような贅沢なサービス付き！・ホテル自慢のスイーツとソフトドリンクが食べ飲み放題・好みのトッピングでオリジナルクレープ作り・ハッピーアワーでアルコールドリンクとおつまみを味わえるホテルを出ることなくアルコールを楽しめるのは、パパ・ママにとって嬉しいですよね。ぜひ沖縄旅行の際はJTBで予約して、ホテルステイを楽しみましょう！",
+        "sectionLevel": "h2",
+        "sectionTitle": "【JTB沖縄旅行の魅力】「沖縄満喫クーポン」で32か所料金不要"
+      },
+      {
+        "description": "ゆったりとしたリゾートを親子で楽しめる子連れ沖縄旅行。お子様向けの施設やサービスがあるホテルや、お子様も大人も嬉しい無料でスイーツやドリンクが楽しめるラウンジがあるホテルを選ぶことで、笑顔の絶えない、素敵な思い出に残る旅行になるでしょう。ホテル選びを成功させて、沖縄旅行を思いっきり満喫しましょう。",
+        "sectionLevel": "h2",
+        "sectionTitle": "【JTB沖縄旅行の魅力】JTBラウンジ利用で快適なホテルステイ"
+      },
+      {
+        "sectionLevel": "h2",
+        "sectionTitle": "3．子連れの沖縄旅行は、ホテル選びが重要"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kokunai_0001",
+      "news_web_kokunai_0019",
+      "news_web_kokunai_0002",
+      "news_web_kokunai_0016",
+      "news_web_kokunai_0018"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2019-09-04",
+    "c_news_UpdateDate": "2024-05-24",
+    "c_news_ViewCount": "3786",
+    "c_news_ViewCount2of2": "3786",
+    "c_news_ViewCountNum": "3786",
+    "c_news_ViewCountNumForSorting": "212",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0022",
+    "name": "子連れ歓迎！家族で楽しむ沖縄のおすすめホテル9選",
+    "slug": "kokunai/okinawa/okinawa_all/news_web_kokunai_0022",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

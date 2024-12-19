@@ -1,0 +1,137 @@
+{
+  "$id": "cp_loyalstaff_26328933",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "愛知県",
+    "c_cp_CTA1": {
+      "label": "加藤 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVf7BDl",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "加藤の海外旅行相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVf7BDl",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "ゆったりとした自分の時間を持つことが出来るクルーズが好きで、今までに日本船2船と外国船に乗船しており、寄港地での街歩きやご当地グルメ、船上から見た数々のヨーロッパの風景は思い出深く残っております。クルーズやご旅行にかける皆様の想いを是非お聞かせください。\nご希望に叶うよう最適なプランをご提案させていただきます。",
+    "c_cp_DisplayName": "加藤",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "夫婦旅",
+      "グループ旅行",
+      "ハネムーン",
+      "クルーズ"
+    ],
+    "c_cp_GeneralInfo": [
+      "エリアスペシャリスト（ヨーロッパⅠ・Ⅲ ）",
+      "ハワイスペシャリスト上級",
+      "クルーズコンサルタント",
+      "好きな街：ブリュッセル、マルセイユ"
+    ],
+    "c_cp_HeroImage": {
+      "alternateText": "サグラダファミリア内部",
+      "height": 450,
+      "sourceUrl": "https://a.mktgcdn.com/p/8qOH0YXcTPthcw0YSvfy-eS3CYZdgVVcvEHUNlYL41c/600x450.jpg",
+      "thumbnails": [
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/8qOH0YXcTPthcw0YSvfy-eS3CYZdgVVcvEHUNlYL41c/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/8qOH0YXcTPthcw0YSvfy-eS3CYZdgVVcvEHUNlYL41c/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/8qOH0YXcTPthcw0YSvfy-eS3CYZdgVVcvEHUNlYL41c/600x450.jpg",
+      "width": 600
+    },
+    "c_cp_HiraganaName": "かとう",
+    "c_cp_JobTitle": "JTBロイヤルスタッフ（JTB名古屋松坂屋店 所属）",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 620,
+      "sourceUrl": "https://a.mktgcdn.com/p/AhC5NDh5l0RWEOjwfPBNpLuS4UcM17RhGicIqjzLzrw/620x620.jpg",
+      "thumbnails": [
+        {
+          "height": 620,
+          "url": "https://a.mktgcdn.com/p-sandbox/1KlcN0ttxAJbX8UW5JCXOLlvhCRycnGsq-7YmzAnntQ/620x620.jpg",
+          "width": 620
+        },
+        {
+          "height": 619,
+          "url": "https://a.mktgcdn.com/p-sandbox/1KlcN0ttxAJbX8UW5JCXOLlvhCRycnGsq-7YmzAnntQ/619x619.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/1KlcN0ttxAJbX8UW5JCXOLlvhCRycnGsq-7YmzAnntQ/450x450.jpg",
+          "width": 450
+        },
+        {
+          "height": 196,
+          "url": "https://a.mktgcdn.com/p-sandbox/1KlcN0ttxAJbX8UW5JCXOLlvhCRycnGsq-7YmzAnntQ/196x196.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/1KlcN0ttxAJbX8UW5JCXOLlvhCRycnGsq-7YmzAnntQ/620x620.jpg",
+      "width": 620
+    },
+    "c_cp_RoyalStaff": true,
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "北欧"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "香港・マカオ",
+      "シンガポール"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "宮城県",
+      "山形県"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "東京都"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "石川県",
+      "福井県",
+      "長野県",
+      "岐阜県",
+      "愛知県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "三重県"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "島根県",
+      "広島県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "長崎県",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "2024年6月ハワイに行ってきました",
+      "ハワイ島星空",
+      "北欧オーロラ"
+    ],
+    "c_metaDescription": "ゆったりとした自分の時間を持つことが出来るクルーズが好きで、今までに日本船2船と外国船に乗船しており、寄港地での街歩きやご当地グルメ、船上から見た数々のヨーロッパの風景は思い出深く残っております。クルーズやご…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "JTBロイヤルスタッフ 加藤（JTB名古屋松坂屋店 所属）",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_loyalstaff_26328933",
+    "c_responsibleService": [
+      "ロイヤルスタッフ"
+    ],
+    "c_v2Folder": "10267_名古屋松坂屋店",
+    "name": "LS_加藤",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

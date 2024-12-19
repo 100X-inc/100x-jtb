@@ -1,0 +1,787 @@
+{
+  "$id": "ap_yy_test01",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}\n.Core-imageDescription {\ncolor: brown;\n}\n.Promo-imageCaption {\ncolor: brown;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "YY"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "関東周辺から越後妻有地域（新潟県南部に位置する十日町市と津南町の妻有郷）へは、電車の場合、新幹線で越後湯沢駅経由〜北越急行ほくほく線で周辺の地域へということになる。しかし、大地の芸術際関連のアートは地域に散在しているため、車での移動がオススメ。今回は、越後湯沢駅で駅レンタカーを利用した。（越後湯沢駅の駅レンカウンターの隣にあるパン屋が美味しそうだったが、写真を取り忘れた...。）",
+        "image": {
+          "alternateText": "ほくほく街道",
+          "height": 2068,
+          "sourceUrl": "https://a.mktgcdn.com/p/OArvc31CW2lzQifYe-RQ9To-eUFJMHwy8U6zmTn_5PI/3024x2068.jpg",
+          "thumbnails": [
+            {
+              "height": 2068,
+              "url": "https://a.mktgcdn.com/p-sandbox/KAqLbBLcTyxccguyS8bKdkdkbdBIcoLa_igVRcSFUH4/3024x2068.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1299,
+              "url": "https://a.mktgcdn.com/p-sandbox/KAqLbBLcTyxccguyS8bKdkdkbdBIcoLa_igVRcSFUH4/1900x1299.jpg",
+              "width": 1900
+            },
+            {
+              "height": 423,
+              "url": "https://a.mktgcdn.com/p-sandbox/KAqLbBLcTyxccguyS8bKdkdkbdBIcoLa_igVRcSFUH4/619x423.jpg",
+              "width": 619
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/KAqLbBLcTyxccguyS8bKdkdkbdBIcoLa_igVRcSFUH4/600x410.jpg",
+              "width": 600
+            },
+            {
+              "height": 134,
+              "url": "https://a.mktgcdn.com/p-sandbox/KAqLbBLcTyxccguyS8bKdkdkbdBIcoLa_igVRcSFUH4/196x134.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KAqLbBLcTyxccguyS8bKdkdkbdBIcoLa_igVRcSFUH4/3024x2068.jpg",
+          "width": 3024
+        },
+        "imageCaption": "ほくほく線は乗れなかったけど、ほくほく街道は走れた",
+        "sectionTitle": "まずは、へぎ蕎麦"
+      },
+      {
+        "description": "最初の目的地は「『大地の芸術祭』の里 総合案内所」。そもそも何が見れるのか前調査の時間がなかったため。観光時に案内所に立ち寄るのは王道だよね。越後湯沢駅からは車で50分程度、その途中、蕎麦屋で昼食とした。",
+        "image": {
+          "alternateText": "ほくほく街道の田園地帯にぽつんとまつお",
+          "height": 2516,
+          "sourceUrl": "https://a.mktgcdn.com/p/EwXwOKfVRwhO3zXGmYQKi8GSJuGiKgQIhfWCzrf3_78/3024x2516.jpg",
+          "thumbnails": [
+            {
+              "height": 2516,
+              "url": "https://a.mktgcdn.com/p-sandbox/H6ml0sIz33BdxEB740cxfpqOeT8M56RB4P-u3WN9Loc/3024x2516.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1581,
+              "url": "https://a.mktgcdn.com/p-sandbox/H6ml0sIz33BdxEB740cxfpqOeT8M56RB4P-u3WN9Loc/1900x1581.jpg",
+              "width": 1900
+            },
+            {
+              "height": 515,
+              "url": "https://a.mktgcdn.com/p-sandbox/H6ml0sIz33BdxEB740cxfpqOeT8M56RB4P-u3WN9Loc/619x515.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/H6ml0sIz33BdxEB740cxfpqOeT8M56RB4P-u3WN9Loc/541x450.jpg",
+              "width": 541
+            },
+            {
+              "height": 163,
+              "url": "https://a.mktgcdn.com/p-sandbox/H6ml0sIz33BdxEB740cxfpqOeT8M56RB4P-u3WN9Loc/196x163.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/H6ml0sIz33BdxEB740cxfpqOeT8M56RB4P-u3WN9Loc/3024x2516.jpg",
+          "width": 3024
+        },
+        "imageCaption": "ほくほく街道の田園地帯にぽつんとまつお",
+        "sectionTitle": "『大地の芸術祭』の里 総合案内所周辺へ"
+      },
+      {
+        "description": "店内厨房では、地元のおばさまが大人数でテキパキ働く姿が。お店が 11時から14時までしか開いてないから集中力がすごいのか。とにかく、山菜の天ぷらが美味。そして、実はこの店の周辺にもアートが。",
+        "image": {
+          "alternateText": "店の前を飾る菊にローカル感が漂う",
+          "height": 3024,
+          "sourceUrl": "https://a.mktgcdn.com/p/8HY2ktrhIEvzkSWtKaleeHlTNgaOkirbbY_lfPgPK4Q/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "https://a.mktgcdn.com/p-sandbox/_-krpjPPFiBJjrwTSJflEAv1GXDtOxkNkzXSDrNAYdg/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/_-krpjPPFiBJjrwTSJflEAv1GXDtOxkNkzXSDrNAYdg/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/_-krpjPPFiBJjrwTSJflEAv1GXDtOxkNkzXSDrNAYdg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/_-krpjPPFiBJjrwTSJflEAv1GXDtOxkNkzXSDrNAYdg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/_-krpjPPFiBJjrwTSJflEAv1GXDtOxkNkzXSDrNAYdg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_-krpjPPFiBJjrwTSJflEAv1GXDtOxkNkzXSDrNAYdg/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "店の前を飾る菊にローカル感が漂う"
+      },
+      {
+        "description": "総合案内所は、ほくほく線の松代駅の裏にあった。正式名称は「まつだい雪国農耕文化村センター・農舞台」。Wikipedia によれば、建物や部屋それ自体が、複数の作家がデザインしたアート作品とのこと。建物の周りでも怪しげなオブジェに複数遭遇。",
+        "image": {
+          "alternateText": "期待どおりのへぎ蕎麦で満足。菊のお浸し？とクルミがあまり見たことない組み合わせ",
+          "height": 2191,
+          "sourceUrl": "https://a.mktgcdn.com/p/PpKmzvNFzhO0LM9P-C5KdoyixxqkWhGaYsSG_-icank/3024x2191.jpg",
+          "thumbnails": [
+            {
+              "height": 2191,
+              "url": "https://a.mktgcdn.com/p-sandbox/EmSPkO7SoKTXLCwxOy6-KUM-7hj0m3CEn_GFcGARa7g/3024x2191.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1377,
+              "url": "https://a.mktgcdn.com/p-sandbox/EmSPkO7SoKTXLCwxOy6-KUM-7hj0m3CEn_GFcGARa7g/1900x1377.jpg",
+              "width": 1900
+            },
+            {
+              "height": 448,
+              "url": "https://a.mktgcdn.com/p-sandbox/EmSPkO7SoKTXLCwxOy6-KUM-7hj0m3CEn_GFcGARa7g/619x448.jpg",
+              "width": 619
+            },
+            {
+              "height": 435,
+              "url": "https://a.mktgcdn.com/p-sandbox/EmSPkO7SoKTXLCwxOy6-KUM-7hj0m3CEn_GFcGARa7g/600x435.jpg",
+              "width": 600
+            },
+            {
+              "height": 142,
+              "url": "https://a.mktgcdn.com/p-sandbox/EmSPkO7SoKTXLCwxOy6-KUM-7hj0m3CEn_GFcGARa7g/196x142.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EmSPkO7SoKTXLCwxOy6-KUM-7hj0m3CEn_GFcGARa7g/3024x2191.jpg",
+          "width": 3024
+        },
+        "imageCaption": "期待どおりのへぎ蕎麦で満足。菊のお浸し？とクルミがあまり見たことない組み合わせ"
+      },
+      {
+        "description": "案内所の穏やかなおじさんによれば、急登があるが隣の山に登るとお城がありそこまでのルートにもオブジェがあるとのこと、運動がてら松代城をめざすことに。",
+        "image": {
+          "alternateText": "店の隣に巨大なバッタ。雪よけのために囲いが作られ始めていた。維持も大変である。稲穂がある時期に見たかった！",
+          "height": 3017,
+          "sourceUrl": "https://a.mktgcdn.com/p/Ql0tnnEfI6QBvcRc_U1IRNAPVR6L0GU21zJC6EgsX1k/3024x3017.jpg",
+          "thumbnails": [
+            {
+              "height": 3017,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nf8qJKOShqVfJSTiThvgQ8b5bE2YE3_mg9532kjN1K4/3024x3017.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1896,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nf8qJKOShqVfJSTiThvgQ8b5bE2YE3_mg9532kjN1K4/1900x1896.jpg",
+              "width": 1900
+            },
+            {
+              "height": 618,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nf8qJKOShqVfJSTiThvgQ8b5bE2YE3_mg9532kjN1K4/619x618.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nf8qJKOShqVfJSTiThvgQ8b5bE2YE3_mg9532kjN1K4/451x450.jpg",
+              "width": 451
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nf8qJKOShqVfJSTiThvgQ8b5bE2YE3_mg9532kjN1K4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Nf8qJKOShqVfJSTiThvgQ8b5bE2YE3_mg9532kjN1K4/3024x3017.jpg",
+          "width": 3024
+        },
+        "imageCaption": "店の隣に巨大なバッタ。雪よけのために囲いが作られ始めていた。維持も大変である。稲穂がある時期に見たかった！"
+      },
+      {
+        "description": "いや、おじさん、本当に急登でしたヨ。",
+        "image": {
+          "alternateText": "農舞台。壮観です。",
+          "height": 1849,
+          "sourceUrl": "https://a.mktgcdn.com/p/H2qDePhzLx_DLvm7WrtEeVmCFqJt6ftXc-WTdT-1n30/3024x1849.jpg",
+          "thumbnails": [
+            {
+              "height": 1849,
+              "url": "https://a.mktgcdn.com/p-sandbox/-ouLBnmjOD3OtE-I6qWxdei1VqjaLdPRmxhQNdCsSl4/3024x1849.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1162,
+              "url": "https://a.mktgcdn.com/p-sandbox/-ouLBnmjOD3OtE-I6qWxdei1VqjaLdPRmxhQNdCsSl4/1900x1162.jpg",
+              "width": 1900
+            },
+            {
+              "height": 378,
+              "url": "https://a.mktgcdn.com/p-sandbox/-ouLBnmjOD3OtE-I6qWxdei1VqjaLdPRmxhQNdCsSl4/619x378.jpg",
+              "width": 619
+            },
+            {
+              "height": 367,
+              "url": "https://a.mktgcdn.com/p-sandbox/-ouLBnmjOD3OtE-I6qWxdei1VqjaLdPRmxhQNdCsSl4/600x367.jpg",
+              "width": 600
+            },
+            {
+              "height": 120,
+              "url": "https://a.mktgcdn.com/p-sandbox/-ouLBnmjOD3OtE-I6qWxdei1VqjaLdPRmxhQNdCsSl4/196x120.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-ouLBnmjOD3OtE-I6qWxdei1VqjaLdPRmxhQNdCsSl4/3024x1849.jpg",
+          "width": 3024
+        },
+        "imageCaption": "農舞台。壮観です。"
+      },
+      {
+        "description": "あのお城の外見からは想像できませんよね、これ。こんな異世界の中におじさんが一人佇んでいる。「入場料500円です」と言われた時は、一瞬、未知の生物とコンタクトして彼らの言葉が脳に直接聞こえてる！？と気が動転してしまい、返事がすぐできなかった。",
+        "image": {
+          "alternateText": "自転車を自転車で回す中学生。後ろの自転車をブンブン回しておきながら、何事も何の感傷もなく階段を降りてきた姿が印象的だった。これが若さか。",
+          "height": 3024,
+          "sourceUrl": "https://a.mktgcdn.com/p/hsm3ezTuW2vEwaNx_k9DMdX1WHLLThrr3uP_K8KMSgo/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "https://a.mktgcdn.com/p-sandbox/eHJ_z9w43rELAogD8Hkw2w81cRBsltX55kXpvkzRyxQ/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/eHJ_z9w43rELAogD8Hkw2w81cRBsltX55kXpvkzRyxQ/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/eHJ_z9w43rELAogD8Hkw2w81cRBsltX55kXpvkzRyxQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/eHJ_z9w43rELAogD8Hkw2w81cRBsltX55kXpvkzRyxQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/eHJ_z9w43rELAogD8Hkw2w81cRBsltX55kXpvkzRyxQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/eHJ_z9w43rELAogD8Hkw2w81cRBsltX55kXpvkzRyxQ/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "自転車を自転車で回す中学生。後ろの自転車をブンブン回しておきながら、何事も何の感傷もなく階段を降りてきた姿が印象的だった。これが若さか。"
+      },
+      {
+        "description": "2階には黄金に輝く茶室（自分にはノアの方舟に見えた）があったが、チラ見しながら天守閣へ。そこには黄金の台座が。裸足にはきついな。",
+        "image": {
+          "alternateText": "geronpa、ゲロンパ？ 5、４、３の数字は我々に対するメッセージなのか？の謎に包まれる",
+          "height": 3024,
+          "sourceUrl": "https://a.mktgcdn.com/p/4w42gBtJRUTeS9aKs6iJtnLUWMKGRogfIeHgGrzdATk/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "https://a.mktgcdn.com/p-sandbox/D0sETwO8HWPPjzrHNbOnhB-kSb9lG9rl9NujLO0lMzY/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/D0sETwO8HWPPjzrHNbOnhB-kSb9lG9rl9NujLO0lMzY/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/D0sETwO8HWPPjzrHNbOnhB-kSb9lG9rl9NujLO0lMzY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/D0sETwO8HWPPjzrHNbOnhB-kSb9lG9rl9NujLO0lMzY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/D0sETwO8HWPPjzrHNbOnhB-kSb9lG9rl9NujLO0lMzY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/D0sETwO8HWPPjzrHNbOnhB-kSb9lG9rl9NujLO0lMzY/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "geronpa、ゲロンパ？ 5、４、３の数字は我々に対するメッセージなのか？の謎に包まれる"
+      },
+      {
+        "description": "\u003ca href\u003d\"https://test_consultants_jtb_co_jp.yextpages.net/ap_yy_test02\" style\u003d\"color:blue; text-decoration:underline; text-decoration-color:brown;\" target\u003d\"_blank\"\u003e第二部\u003c/a\u003eに続きます。",
+        "image": {
+          "alternateText": "先端恐怖症の人はダメ。",
+          "height": 3024,
+          "sourceUrl": "https://a.mktgcdn.com/p/j3mx8vRatLcezvqTxVKh4HTuMARsbWb74F5y5923Wtk/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "https://a.mktgcdn.com/p-sandbox/NhQn-JCaGi6Q4MPmpWB9OeDkzSXP2rvgzSHvlGoXb7c/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/NhQn-JCaGi6Q4MPmpWB9OeDkzSXP2rvgzSHvlGoXb7c/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/NhQn-JCaGi6Q4MPmpWB9OeDkzSXP2rvgzSHvlGoXb7c/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/NhQn-JCaGi6Q4MPmpWB9OeDkzSXP2rvgzSHvlGoXb7c/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/NhQn-JCaGi6Q4MPmpWB9OeDkzSXP2rvgzSHvlGoXb7c/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NhQn-JCaGi6Q4MPmpWB9OeDkzSXP2rvgzSHvlGoXb7c/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "先端恐怖症の人はダメ。"
+      },
+      {
+        "image": {
+          "alternateText": "ダメ絶対。",
+          "height": 3024,
+          "sourceUrl": "https://a.mktgcdn.com/p/tLre_vPS9tda_bXNFuchI2PZrWtJ4cwgXythJQNoAXQ/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "https://a.mktgcdn.com/p-sandbox/38Mar4wRDSLv0i4diutidyEXwWEMBxeeNBUa_iBtXLg/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/38Mar4wRDSLv0i4diutidyEXwWEMBxeeNBUa_iBtXLg/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/38Mar4wRDSLv0i4diutidyEXwWEMBxeeNBUa_iBtXLg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/38Mar4wRDSLv0i4diutidyEXwWEMBxeeNBUa_iBtXLg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/38Mar4wRDSLv0i4diutidyEXwWEMBxeeNBUa_iBtXLg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/38Mar4wRDSLv0i4diutidyEXwWEMBxeeNBUa_iBtXLg/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "ダメ絶対。"
+      },
+      {
+        "image": {
+          "alternateText": "とんぼ？",
+          "height": 2161,
+          "sourceUrl": "https://a.mktgcdn.com/p/OI3W8JNDO4o4Q6zMn1OsGpzk2Z6c0vL8F97gKiZNOWU/3024x2161.jpg",
+          "thumbnails": [
+            {
+              "height": 2161,
+              "url": "https://a.mktgcdn.com/p-sandbox/sjlE5gQ7K1B4wTYOgK7G_EUB1s1vr_9aDF-cKIV1guQ/3024x2161.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1358,
+              "url": "https://a.mktgcdn.com/p-sandbox/sjlE5gQ7K1B4wTYOgK7G_EUB1s1vr_9aDF-cKIV1guQ/1900x1358.jpg",
+              "width": 1900
+            },
+            {
+              "height": 442,
+              "url": "https://a.mktgcdn.com/p-sandbox/sjlE5gQ7K1B4wTYOgK7G_EUB1s1vr_9aDF-cKIV1guQ/619x442.jpg",
+              "width": 619
+            },
+            {
+              "height": 429,
+              "url": "https://a.mktgcdn.com/p-sandbox/sjlE5gQ7K1B4wTYOgK7G_EUB1s1vr_9aDF-cKIV1guQ/600x429.jpg",
+              "width": 600
+            },
+            {
+              "height": 140,
+              "url": "https://a.mktgcdn.com/p-sandbox/sjlE5gQ7K1B4wTYOgK7G_EUB1s1vr_9aDF-cKIV1guQ/196x140.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sjlE5gQ7K1B4wTYOgK7G_EUB1s1vr_9aDF-cKIV1guQ/3024x2161.jpg",
+          "width": 3024
+        },
+        "imageCaption": "とんぼ？"
+      },
+      {
+        "image": {
+          "alternateText": "息がきれて、まともに写真が撮れない",
+          "height": 3024,
+          "sourceUrl": "https://a.mktgcdn.com/p/I_gDS4jxC6WsgvQlk1KtMOtoaBzRQTzSJh6iDSFaqkI/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "https://a.mktgcdn.com/p-sandbox/LcoraqiiSFAdHvloL0DXZpOoXyjgFQnG4yK3qLhB5zM/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/LcoraqiiSFAdHvloL0DXZpOoXyjgFQnG4yK3qLhB5zM/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/LcoraqiiSFAdHvloL0DXZpOoXyjgFQnG4yK3qLhB5zM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/LcoraqiiSFAdHvloL0DXZpOoXyjgFQnG4yK3qLhB5zM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/LcoraqiiSFAdHvloL0DXZpOoXyjgFQnG4yK3qLhB5zM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/LcoraqiiSFAdHvloL0DXZpOoXyjgFQnG4yK3qLhB5zM/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "息がきれて、まともに写真が撮れない"
+      },
+      {
+        "image": {
+          "alternateText": "30分ほど上り、やっと山頂の松代城に到着！ん、中が変だぞ！？",
+          "height": 3024,
+          "sourceUrl": "https://a.mktgcdn.com/p/8_jIrUnyLSRGAVeBkNKoxbpZUBifxqiGgmT_gTeLYRQ/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "https://a.mktgcdn.com/p-sandbox/JRnspvCSZcr1sAN9tyrE79E0gtqUts5cZ72SVjUgKm8/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/JRnspvCSZcr1sAN9tyrE79E0gtqUts5cZ72SVjUgKm8/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/JRnspvCSZcr1sAN9tyrE79E0gtqUts5cZ72SVjUgKm8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/JRnspvCSZcr1sAN9tyrE79E0gtqUts5cZ72SVjUgKm8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/JRnspvCSZcr1sAN9tyrE79E0gtqUts5cZ72SVjUgKm8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JRnspvCSZcr1sAN9tyrE79E0gtqUts5cZ72SVjUgKm8/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "30分ほど上り、やっと山頂の松代城に到着！ん、中が変だぞ！？"
+      },
+      {
+        "image": {
+          "alternateText": "お城の中の謎の物体。ストライプの服着てくればよかった！",
+          "height": 3024,
+          "sourceUrl": "https://a.mktgcdn.com/p/pJEjnMSTXU71_UqMe2mluXBTMwKZPDNQ6y9PkMACV4s/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "https://a.mktgcdn.com/p-sandbox/PCta201_dIUj4UkSSlaSh0b_lprQHvHfrKLzfIu2pGY/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/PCta201_dIUj4UkSSlaSh0b_lprQHvHfrKLzfIu2pGY/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/PCta201_dIUj4UkSSlaSh0b_lprQHvHfrKLzfIu2pGY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/PCta201_dIUj4UkSSlaSh0b_lprQHvHfrKLzfIu2pGY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/PCta201_dIUj4UkSSlaSh0b_lprQHvHfrKLzfIu2pGY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PCta201_dIUj4UkSSlaSh0b_lprQHvHfrKLzfIu2pGY/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "お城の中の謎の物体。ストライプの服着てくればよかった！"
+      },
+      {
+        "image": {
+          "alternateText": "2階に挑む探検家（裸足で寒い）",
+          "height": 3024,
+          "sourceUrl": "https://a.mktgcdn.com/p/VHLt223ZXMV12tjWq2oBbmonLFZhHmif3-kEHfkBRb8/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "https://a.mktgcdn.com/p-sandbox/H1MJ9SxTvQhGC0h9XxIcnwq5YH6iO32hfCUE79OY4BQ/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/H1MJ9SxTvQhGC0h9XxIcnwq5YH6iO32hfCUE79OY4BQ/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/H1MJ9SxTvQhGC0h9XxIcnwq5YH6iO32hfCUE79OY4BQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/H1MJ9SxTvQhGC0h9XxIcnwq5YH6iO32hfCUE79OY4BQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/H1MJ9SxTvQhGC0h9XxIcnwq5YH6iO32hfCUE79OY4BQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/H1MJ9SxTvQhGC0h9XxIcnwq5YH6iO32hfCUE79OY4BQ/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "2階に挑む探検家（裸足で寒い）"
+      },
+      {
+        "image": {
+          "alternateText": "松代城は異世界です。",
+          "height": 3024,
+          "sourceUrl": "https://a.mktgcdn.com/p/4glJWqMqflo7IByVSDHaOfIZ0ZAhERVZg-wSE29LGi4/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "https://a.mktgcdn.com/p-sandbox/jEAGhH6pwxOpezo9z7QJxbWxn4YXGxpE34wwxZ9-QL0/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/jEAGhH6pwxOpezo9z7QJxbWxn4YXGxpE34wwxZ9-QL0/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/jEAGhH6pwxOpezo9z7QJxbWxn4YXGxpE34wwxZ9-QL0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/jEAGhH6pwxOpezo9z7QJxbWxn4YXGxpE34wwxZ9-QL0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/jEAGhH6pwxOpezo9z7QJxbWxn4YXGxpE34wwxZ9-QL0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jEAGhH6pwxOpezo9z7QJxbWxn4YXGxpE34wwxZ9-QL0/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "松代城は異世界です。"
+      },
+      {
+        "image": {
+          "alternateText": "すべてがアートに見える",
+          "height": 1701,
+          "sourceUrl": "https://a.mktgcdn.com/p/yOwj0DhGJ500TnEF7OwUmLsK-trIhPBhQwuAuZhHE1Y/3024x1701.jpg",
+          "thumbnails": [
+            {
+              "height": 1701,
+              "url": "https://a.mktgcdn.com/p-sandbox/MazBLoUKBgriqlvfcO840tak59H9KDp8NEkp3u83PEk/3024x1701.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p-sandbox/MazBLoUKBgriqlvfcO840tak59H9KDp8NEkp3u83PEk/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/MazBLoUKBgriqlvfcO840tak59H9KDp8NEkp3u83PEk/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/MazBLoUKBgriqlvfcO840tak59H9KDp8NEkp3u83PEk/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/MazBLoUKBgriqlvfcO840tak59H9KDp8NEkp3u83PEk/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MazBLoUKBgriqlvfcO840tak59H9KDp8NEkp3u83PEk/3024x1701.jpg",
+          "width": 3024
+        },
+        "imageCaption": "これは単なる送電盤の箱。もはや道端にあるものがすべてアートに思えてしまう...。"
+      }
+    ],
+    "c_ap_DatePosted": "2021-11-19",
+    "c_ap_DirectoryImage": {
+      "alternateText": "越後妻有アート散策",
+      "height": 1512,
+      "sourceUrl": "https://a.mktgcdn.com/p/eQsK6KZHGtLnIphvxq1PqlmVQije16tT_TF7chP4xzk/2268x1512.jpg",
+      "thumbnails": [
+        {
+          "height": 1512,
+          "url": "https://a.mktgcdn.com/p-sandbox/W17zrr9sup7Z7TwTkGxGnaF9UN9sQzRHVLQaeeNtFAE/2268x1512.jpg",
+          "width": 2268
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/W17zrr9sup7Z7TwTkGxGnaF9UN9sQzRHVLQaeeNtFAE/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/W17zrr9sup7Z7TwTkGxGnaF9UN9sQzRHVLQaeeNtFAE/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/W17zrr9sup7Z7TwTkGxGnaF9UN9sQzRHVLQaeeNtFAE/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/W17zrr9sup7Z7TwTkGxGnaF9UN9sQzRHVLQaeeNtFAE/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/W17zrr9sup7Z7TwTkGxGnaF9UN9sQzRHVLQaeeNtFAE/2268x1512.jpg",
+      "width": 2268
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "こんな感じのやつがちょいちょい出てきます",
+      "height": 1464,
+      "sourceUrl": "https://a.mktgcdn.com/p/FGLQqYYHoxrdLYT9RNer0Y9UVIVcR-V56nAIJd6gv1k/2268x1464.jpg",
+      "thumbnails": [
+        {
+          "height": 1464,
+          "url": "https://a.mktgcdn.com/p-sandbox/_iHPKrlFesACcIKH-Nvo_z2do3wLXynUzoMiKg9O0og/2268x1464.jpg",
+          "width": 2268
+        },
+        {
+          "height": 1226,
+          "url": "https://a.mktgcdn.com/p-sandbox/_iHPKrlFesACcIKH-Nvo_z2do3wLXynUzoMiKg9O0og/1900x1226.jpg",
+          "width": 1900
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/_iHPKrlFesACcIKH-Nvo_z2do3wLXynUzoMiKg9O0og/619x400.jpg",
+          "width": 619
+        },
+        {
+          "height": 387,
+          "url": "https://a.mktgcdn.com/p-sandbox/_iHPKrlFesACcIKH-Nvo_z2do3wLXynUzoMiKg9O0og/600x387.jpg",
+          "width": 600
+        },
+        {
+          "height": 127,
+          "url": "https://a.mktgcdn.com/p-sandbox/_iHPKrlFesACcIKH-Nvo_z2do3wLXynUzoMiKg9O0og/196x127.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/_iHPKrlFesACcIKH-Nvo_z2do3wLXynUzoMiKg9O0og/2268x1464.jpg",
+      "width": 2268
+    },
+    "c_ap_HeroImageCaption": "こんな感じのやつがちょいちょい出てきます",
+    "c_ap_LinkArticleSectionTitle": "関連記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "大地の芸術祭ページ",
+        "uRL": "https://www.echigo-tsumari.jp/"
+      },
+      {
+        "linkText": "東京でへぎ蕎麦なら築地内田",
+        "uRL": "https://goo.gl/maps/j8zKAMPvU2LQyqCcA"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連情報",
+    "c_ap_RelatedLocalArea3": [
+      "新潟県"
+    ],
+    "c_ap_ShortDescription": "当初 2021年７月25日（日）～９月12日（日）で予定されていた「大地の芸術祭 越後妻有アートトリエンナーレ2021」は、国内の緊急事態宣言もあり残念ながら来年2022夏季の開催へ延期されてしまった。だが、毎年行われているこの芸術祭のアート群は越後妻有地域のあちらこちらに点在しており、自由に鑑賞（※1）できる。\n\n11月上旬、来年を待つアートたちと残された紅葉に出会うべく、越後妻有（ECHIGO- TSUMARI）を散策してきた。\n\n（※1） 室内展示や場所によっては要確認。お問い合わせは、『大地の芸術祭』の里 総合案内所へ。",
+    "c_ap_Tags": [
+      "アート",
+      "散策",
+      "越後妻有"
+    ],
+    "c_ap_Theme": [
+      "建築・史跡",
+      "美術鑑賞"
+    ],
+    "c_ap_Title": "越後妻有アート散策〜第一部",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}\n.Core-imageDescription {\ncolor: brown;\n}\n.Promo-imageCaption {\ncolor: brown;\n}",
+    "c_metaDescription": "当初 2021年７月25日（日）～９月12日（日）で予定されていた「大地の芸術祭 越後妻有アートトリエンナーレ2021」は、国内の緊急事態宣言もあり残念ながら来年2022夏季の開催へ延期されてしまった。だが、毎年行われているこの芸術祭のアート群は越後妻有地域のあちらこちらに点在しており、自由に鑑賞できる。",
+    "c_metaTitle": "JTB | おすすめの旅 | 越後妻有アート散策〜第一部",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "新潟県",
+    "c_searchTags": [
+      "中部・北陸：新潟県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：新潟県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "越後妻有アート散策〜第一部",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

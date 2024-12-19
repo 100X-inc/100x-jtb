@@ -1,0 +1,41 @@
+{
+  "$id": "kando-toki-59",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/59_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d35.714218%2C140.865648",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "千葉県",
+    "c_searchTags": [
+      "千葉県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "冬",
+      "太陽・星・月",
+      "海・湖・川・滝"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "世界の旅人を魅了する西オーストラリア「ブルーム」の神秘として有名な『月への階段』・・・これを千葉県銚子で見ることができます。\n潮の引いた浜辺と海を照らす帯月（月明かりの反射）が、まるで月へ導く「階段」のように見える神秘的な自然現象。月光が海面、そして、波に濡れ鏡のように光る砂浜につながる様がとても美しいため、銚子市の中でも「君ヶ浜しおさい公園」がベストポジション。月の階段に加え犬吠埼灯台が白く輝き、満天の星空を眺めることもできるので大切な人とのひとときや女子会で。\n見所・お勧めポイント\n（つまり月の出時に景色が極力暗くなっているのがよい。）月の出時間から３０～４０分までがリミット。見学箇所は足場とトイレ・駐車場が完備されている君ヶ浜しおさい公園がベスト。\n背景\n関東最東端にある犬吠埼は、ユーラシア大陸最西端に位置するポルトガルのロカ岬と友好岬関係にあります。ポルトガルワインを片手に、夕べにかけて月の神秘的な美しさに魅せられるシチュエーションは至極の《瞬間》。\n日没後、月が海面から出てくる時間帯はオーロラ鑑賞ツアーにも似たワクワク感・期待感を感じられます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/59.asp",
+    "name": "銚子　君ヶ浜から眺める感動の瞬間「月への階段」"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

@@ -1,0 +1,54 @@
+{
+  "$id": "cp_13078001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "linkType": "URL"
+    },
+    "c_cp_DisplayName": "酒井",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/N3z0OLiiGEoGJ2yZfEjCtbsgvoEPKZbx9b3yhhfOKVc/1280x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/N3z0OLiiGEoGJ2yZfEjCtbsgvoEPKZbx9b3yhhfOKVc/1280x960.jpg",
+          "width": 1280
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/N3z0OLiiGEoGJ2yZfEjCtbsgvoEPKZbx9b3yhhfOKVc/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/N3z0OLiiGEoGJ2yZfEjCtbsgvoEPKZbx9b3yhhfOKVc/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/N3z0OLiiGEoGJ2yZfEjCtbsgvoEPKZbx9b3yhhfOKVc/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/N3z0OLiiGEoGJ2yZfEjCtbsgvoEPKZbx9b3yhhfOKVc/1280x960.jpg",
+      "width": 1280
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 酒井",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 酒井",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_13078001",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2023/05/29　JBX対応（リテール外転出者）",
+    "name": "さかい まさよ_13078001",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

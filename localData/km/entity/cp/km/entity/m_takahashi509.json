@@ -1,0 +1,107 @@
+{
+  "$id": "cp_m_takahashi509",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_cp_Articles": [
+      "ap_m_takahashi509_007",
+      "ap_m_takahashi509_006",
+      "ap_m_takahashi509_005",
+      "ap_m_takahashi509_001",
+      "ap_m_takahashi509_002",
+      "ap_m_takahashi509_003",
+      "ap_m_takahashi509_004"
+    ],
+    "c_cp_ArticlesSectionTitle": "このコンサルタントの投稿記事",
+    "c_cp_CTA1": {
+      "label": "高橋 まこ のリモート相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVf7",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "コンサルタント一覧",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_cp_Description": "旅行のご相談をさせていただくと、こちらまで一緒に旅行に行ったような気分になります。誰と、どこに、何をしに行くのか、旅行が終わった後、どんな思い出がつかれるのか。自分事のように「真剣に」ご旅行内容をご検討させていただければと思っています。",
+    "c_cp_DisplayName": "高橋 まこ",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー"
+    ],
+    "c_cp_GeneralInfo": [
+      "ゆかりの地：奈良、南紀",
+      "旅の思い出：沖縄の新婚旅行",
+      "お気に入りの旅の過ごし方：旅先のカフェでまったりすること"
+    ],
+    "c_cp_HiraganaName": "たかはし まこ",
+    "c_cp_JobTitle": "JTBリモートコンシェルジュ　トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "alternateText": "高橋",
+      "height": 503,
+      "sourceUrl": "https://a.mktgcdn.com/p/m-93nfw7y5cwXf12fHanwDgQNqQy9GSDjrekR_gpsgw/727x503.jpg",
+      "thumbnails": [
+        {
+          "height": 503,
+          "url": "https://a.mktgcdn.com/p-sandbox/m-93nfw7y5cwXf12fHanwDgQNqQy9GSDjrekR_gpsgw/727x503.jpg",
+          "width": 727
+        },
+        {
+          "height": 428,
+          "url": "https://a.mktgcdn.com/p-sandbox/m-93nfw7y5cwXf12fHanwDgQNqQy9GSDjrekR_gpsgw/619x428.jpg",
+          "width": 619
+        },
+        {
+          "height": 415,
+          "url": "https://a.mktgcdn.com/p-sandbox/m-93nfw7y5cwXf12fHanwDgQNqQy9GSDjrekR_gpsgw/600x415.jpg",
+          "width": 600
+        },
+        {
+          "height": 136,
+          "url": "https://a.mktgcdn.com/p-sandbox/m-93nfw7y5cwXf12fHanwDgQNqQy9GSDjrekR_gpsgw/196x136.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/m-93nfw7y5cwXf12fHanwDgQNqQy9GSDjrekR_gpsgw/727x503.jpg",
+      "width": 727
+    },
+    "c_cp_Point": "120",
+    "c_cp_StrongAbroadArea1": [
+      "グアム"
+    ],
+    "c_cp_StrongAbroadArea2": [
+      "アメリカ"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "滋賀県",
+      "京都府",
+      "大阪府",
+      "兵庫県",
+      "奈良県",
+      "和歌山県"
+    ],
+    "c_cp_Tags": [
+      "ファミリー",
+      "テーマパーク"
+    ],
+    "c_metaDescription": "「JTBリモートコンシェルジュ」は、オンラインでの旅行相談・申込の専門店です。知識豊富なスタッフがご希望の旅をご提案します。 オンライ相談の予約も承ります。",
+    "c_metaTitle": "JTBリモートコンシェルジュ ｜  高橋まこ ｜ リモートトラベルコンシェルジュ | オンライン旅行相談",
+    "c_news_NewsList": [
+      "news_ap_m_takahashi509_007",
+      "news_ap_m_takahashi509_006",
+      "news_ap_m_takahashi509_005",
+      "news_ap_m_takahashi509_001",
+      "news_ap_m_takahashi509_002",
+      "news_ap_m_takahashi509_003",
+      "news_ap_m_takahashi509_004"
+    ],
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_m_takahashi509",
+    "c_responsibleService": [
+      "リモートコンシェルジュ"
+    ],
+    "name": "m_takahashi509",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

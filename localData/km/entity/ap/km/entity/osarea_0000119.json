@@ -1,0 +1,389 @@
+{
+  "$id": "ap_osarea_0000119",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "「ヴィーズ・マーケット」は、ホイアンらしい古民家でベトナム料理を味わえるレストラン。店内はオープンキッチンが連なる市場のような造りになっていて、おしゃれな雰囲気のなかで食事が楽しめます。メニューはベトナム全土の郷土料理、約100種類。オープンキッチンで調理される工程が眺められるのもユニークです。",
+        "image": {
+          "alternateText": "ザボンのサラダ11万5000VND",
+          "height": 2496,
+          "sourceUrl": "https://a.mktgcdn.com/p/RmybhUbqf-Q-OgLXKZ45xepuzyhsctMbGQRAgg_IG7w/1664x2496.jpg",
+          "thumbnails": [
+            {
+              "height": 2496,
+              "url": "https://a.mktgcdn.com/p-sandbox/M8NcMwrRRI3tnH51Xj4AFPN__g1-ICy6Z4zTpCnOc94/1664x2496.jpg",
+              "width": 1664
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/M8NcMwrRRI3tnH51Xj4AFPN__g1-ICy6Z4zTpCnOc94/1267x1900.jpg",
+              "width": 1267
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/M8NcMwrRRI3tnH51Xj4AFPN__g1-ICy6Z4zTpCnOc94/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/M8NcMwrRRI3tnH51Xj4AFPN__g1-ICy6Z4zTpCnOc94/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/M8NcMwrRRI3tnH51Xj4AFPN__g1-ICy6Z4zTpCnOc94/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/M8NcMwrRRI3tnH51Xj4AFPN__g1-ICy6Z4zTpCnOc94/1664x2496.jpg",
+          "width": 1664
+        },
+        "imageCaption": "ザボンのサラダ11万5000VND",
+        "sectionTitle": "ヴィーズ・マーケット（Vy’s Market）"
+      },
+      {
+        "description": "お店はグエン・ホアン・ナイト・マーケットが開かれるアンホイ島にあるので、ナイト・マーケットとあわせてディナーで利用するのもおすすめ。毎晩18時30分からはクラシックギターの生演奏もあります。DATAVy’s Market住所：3 Nguyễn Hoàng営業時間：11～22時定休日：なし",
+        "image": {
+          "alternateText": "店の前の通りは毎晩ナイト・マーケットで賑わう",
+          "height": 624,
+          "sourceUrl": "https://a.mktgcdn.com/p/uUGDRMx83bs1e2eZEESMjUe5eis0JLHWfO7l3CAI7OM/936x624.jpg",
+          "thumbnails": [
+            {
+              "height": 624,
+              "url": "https://a.mktgcdn.com/p-sandbox/YQuYvRaatoG6CA65lZ30Iq8lsvinAR-kEivP7mI-zzA/936x624.jpg",
+              "width": 936
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/YQuYvRaatoG6CA65lZ30Iq8lsvinAR-kEivP7mI-zzA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/YQuYvRaatoG6CA65lZ30Iq8lsvinAR-kEivP7mI-zzA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/YQuYvRaatoG6CA65lZ30Iq8lsvinAR-kEivP7mI-zzA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YQuYvRaatoG6CA65lZ30Iq8lsvinAR-kEivP7mI-zzA/936x624.jpg",
+          "width": 936
+        },
+        "imageCaption": "店の前の通りは毎晩ナイト・マーケットで賑わう",
+        "sectionTitle": "カーゴ・クラブ・レストラン（Cargo Club Restaurant）"
+      },
+      {
+        "description": "「カーゴ・クラブ」はランチ、カフェ、ディナーとあらゆる時間に楽しめるオールデイのレストラン。トゥボン川とアンホイ島を見渡す開放的なテラス席があり、夕暮れどきもおすすめです。",
+        "image": {
+          "alternateText": "川沿いのバックダン通りにもテラス席がある",
+          "height": 2800,
+          "sourceUrl": "https://a.mktgcdn.com/p/YDydzfbvw8lAgqW1f7NMnDYaT_RPyMcyt0v7VRDBuQw/3734x2800.jpg",
+          "thumbnails": [
+            {
+              "height": 2800,
+              "url": "https://a.mktgcdn.com/p-sandbox/wzbEGJGik9k0Z6ZgJsOxrlKVEwMlbQhWEjUFy3dZfsg/3734x2800.jpg",
+              "width": 3734
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/wzbEGJGik9k0Z6ZgJsOxrlKVEwMlbQhWEjUFy3dZfsg/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/wzbEGJGik9k0Z6ZgJsOxrlKVEwMlbQhWEjUFy3dZfsg/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wzbEGJGik9k0Z6ZgJsOxrlKVEwMlbQhWEjUFy3dZfsg/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/wzbEGJGik9k0Z6ZgJsOxrlKVEwMlbQhWEjUFy3dZfsg/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wzbEGJGik9k0Z6ZgJsOxrlKVEwMlbQhWEjUFy3dZfsg/3734x2800.jpg",
+          "width": 3734
+        },
+        "imageCaption": "川沿いのバックダン通りにもテラス席がある",
+        "sectionTitle": "グエン・ホアン・ナイト・マーケット（Chợ Đêm Nguyễn Hoàng）"
+      },
+      {
+        "description": "メニューはホワイト・ローズや揚げワンタン10万5000VNDなどのホイアン名物はもちろん、定番のベトナム料理から洋食まで多彩。なかでもフランス人直伝のケーキは常時約20種類もあり、見た目もかわいいと評判です。DATACargo Club Restaurant住所：107-109 Nguyễn Thái Học営業時間：10～22時定休日：なし",
+        "image": {
+          "alternateText": "ホワイト・ローズ9万5000VND",
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/j3MYBRxgWF3ra6I5R36PIZFx9q6K9bDu2bEubCsIdVk/900x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vr1RWhOBwFsWwciv-EPWA8KndcshwpnOLRrVCgKDBKg/900x600.jpg",
+              "width": 900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vr1RWhOBwFsWwciv-EPWA8KndcshwpnOLRrVCgKDBKg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vr1RWhOBwFsWwciv-EPWA8KndcshwpnOLRrVCgKDBKg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vr1RWhOBwFsWwciv-EPWA8KndcshwpnOLRrVCgKDBKg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Vr1RWhOBwFsWwciv-EPWA8KndcshwpnOLRrVCgKDBKg/900x600.jpg",
+          "width": 900
+        },
+        "imageCaption": "ホワイト・ローズ9万5000VND",
+        "sectionTitle": "ホイアン市場（Chợ Hội An）"
+      },
+      {
+        "description": "昼間と夜でがらりと雰囲気が変わるのもホイアンの魅力です。夜はランタンに灯りがともり、建物がライトアップされ幻想的に。旧市街から橋を渡ったアンホイ島にあるグエンホアン通りでは、17時頃から毎晩ナイト・マーケットが開かれます。",
+        "image": {
+          "alternateText": "クレープや干しイカなどのグルメ屋台も",
+          "height": 832,
+          "sourceUrl": "https://a.mktgcdn.com/p/y78WbLkfx-fd97FStAbQFz-dMLyST_dLaQpBkazYNzA/1248x832.jpg",
+          "thumbnails": [
+            {
+              "height": 832,
+              "url": "https://a.mktgcdn.com/p-sandbox/gvC2zWc48zKQWXHN6ohHHd6VKjIj1Chk9TxvBlKyy64/1248x832.jpg",
+              "width": 1248
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/gvC2zWc48zKQWXHN6ohHHd6VKjIj1Chk9TxvBlKyy64/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/gvC2zWc48zKQWXHN6ohHHd6VKjIj1Chk9TxvBlKyy64/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/gvC2zWc48zKQWXHN6ohHHd6VKjIj1Chk9TxvBlKyy64/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gvC2zWc48zKQWXHN6ohHHd6VKjIj1Chk9TxvBlKyy64/1248x832.jpg",
+          "width": 1248
+        },
+        "imageCaption": "クレープや干しイカなどのグルメ屋台も"
+      },
+      {
+        "description": "通りにはみやげ物の露店がずらりと並び、籠バッグや刺繍小物、陶器などを購入できます。おみやげ用のランタンのお店が並ぶエリアは、フォトスポットとしても人気です。DATAChợ Đêm Nguyễn Hoàng住所：Nguyễn Hoàng営業時間：18時～23時ごろ定休日：なし",
+        "image": {
+          "alternateText": "折りたためておみやげにもぴったりなランタン5万VND",
+          "height": 1584,
+          "sourceUrl": "https://a.mktgcdn.com/p/xeliYYEUSmDlhLFqJg3Ql-Ydm2dOI33dUOBoe7ERmqs/1200x1584.jpg",
+          "thumbnails": [
+            {
+              "height": 1584,
+              "url": "https://a.mktgcdn.com/p-sandbox/KfD9gi30XmgiVpoqoInWMCzat6uMRprZUSNIscKLro0/1200x1584.jpg",
+              "width": 1200
+            },
+            {
+              "height": 817,
+              "url": "https://a.mktgcdn.com/p-sandbox/KfD9gi30XmgiVpoqoInWMCzat6uMRprZUSNIscKLro0/619x817.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/KfD9gi30XmgiVpoqoInWMCzat6uMRprZUSNIscKLro0/341x450.jpg",
+              "width": 341
+            },
+            {
+              "height": 259,
+              "url": "https://a.mktgcdn.com/p-sandbox/KfD9gi30XmgiVpoqoInWMCzat6uMRprZUSNIscKLro0/196x259.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KfD9gi30XmgiVpoqoInWMCzat6uMRprZUSNIscKLro0/1200x1584.jpg",
+          "width": 1200
+        },
+        "imageCaption": "折りたためておみやげにもぴったりなランタン5万VND"
+      },
+      {
+        "description": "ベトナムらしいおみやげをまとめ買いするなら、旧市街の東側にある「ホイアン市場」へ。黄色の外観がかわいい建物内には、地元の人たちが利用する生鮮品や日用品のお店から、プチプラな雑貨のお店まで勢揃い。",
+        "image": {
+          "alternateText": "ひと休みできる食堂エリア",
+          "height": 1200,
+          "sourceUrl": "https://a.mktgcdn.com/p/3sG1ewhbcLulzjxr9uD1DpmqlFSFEXK-KzgYKp35hFA/1800x1200.jpg",
+          "thumbnails": [
+            {
+              "height": 1200,
+              "url": "https://a.mktgcdn.com/p-sandbox/7mLzdaBuzvgZo_mOCg2t8iQBrkBt8hQVgtFIUEGeoR8/1800x1200.jpg",
+              "width": 1800
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/7mLzdaBuzvgZo_mOCg2t8iQBrkBt8hQVgtFIUEGeoR8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/7mLzdaBuzvgZo_mOCg2t8iQBrkBt8hQVgtFIUEGeoR8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/7mLzdaBuzvgZo_mOCg2t8iQBrkBt8hQVgtFIUEGeoR8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7mLzdaBuzvgZo_mOCg2t8iQBrkBt8hQVgtFIUEGeoR8/1800x1200.jpg",
+          "width": 1800
+        },
+        "imageCaption": "ひと休みできる食堂エリア"
+      },
+      {
+        "description": "おみやげにはプラ籠や刺繍入りのきんちゃく、食器などがおすすめ。コーヒーや調味料などのグルメみやげもあります。食堂エリアにはホイアンの名物料理やベトナムスイーツのお店もあり、ランチやカフェもOK。DATAChợ Hội An住所：Trần Phú営業時間：6～19時ごろ定休日：なし※2023年9月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。",
+        "image": {
+          "alternateText": "プラスチックの籠バッグはおみやげの定番",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/P9JZlaauV7ZKz1gvmaqGZiJUArHQcLl4ebOS7lfCY6E/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/AT88hmOJn96ZCLYxGF1fD3jJi1qzjWsrBLkrXzatnHw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/AT88hmOJn96ZCLYxGF1fD3jJi1qzjWsrBLkrXzatnHw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/AT88hmOJn96ZCLYxGF1fD3jJi1qzjWsrBLkrXzatnHw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/AT88hmOJn96ZCLYxGF1fD3jJi1qzjWsrBLkrXzatnHw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AT88hmOJn96ZCLYxGF1fD3jJi1qzjWsrBLkrXzatnHw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "プラスチックの籠バッグはおみやげの定番"
+      }
+    ],
+    "c_ap_DatePosted": "2023-11-24",
+    "c_ap_HeroImage": {
+      "alternateText": "ホイアン旧市街周辺でおいしいもの＆かわいいもの探し【ベトナム　ホイアン】",
+      "height": 3734,
+      "sourceUrl": "https://a.mktgcdn.com/p/yp2iAb3F3SyfxXEbBuWC6QDZIcAYF_nGB2_kvexUs88/2800x3734.jpg",
+      "thumbnails": [
+        {
+          "height": 3734,
+          "url": "https://a.mktgcdn.com/p-sandbox/Nynhc4i-3R1ewuzOKjBSlpnpkHe1r7LNxiBPRQ6vd8I/2800x3734.jpg",
+          "width": 2800
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/Nynhc4i-3R1ewuzOKjBSlpnpkHe1r7LNxiBPRQ6vd8I/1425x1900.jpg",
+          "width": 1425
+        },
+        {
+          "height": 825,
+          "url": "https://a.mktgcdn.com/p-sandbox/Nynhc4i-3R1ewuzOKjBSlpnpkHe1r7LNxiBPRQ6vd8I/619x825.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/Nynhc4i-3R1ewuzOKjBSlpnpkHe1r7LNxiBPRQ6vd8I/337x450.jpg",
+          "width": 337
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/Nynhc4i-3R1ewuzOKjBSlpnpkHe1r7LNxiBPRQ6vd8I/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Nynhc4i-3R1ewuzOKjBSlpnpkHe1r7LNxiBPRQ6vd8I/2800x3734.jpg",
+      "width": 2800
+    },
+    "c_ap_HeroImageCaption": "トゥボン川を望むレストランがおすすめ！",
+    "c_ap_LinkArticleSectionTitle": "ベトナムのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "ベトナム旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/vietnam/"
+      },
+      {
+        "linkText": "ダナンのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dSGN"
+      },
+      {
+        "linkText": "ダナンのホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/194/6297250/?freeword\u003d%E3%83%80%E3%83%8A%E3%83%B3%20%20%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d6297250"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea4": [
+      "ベトナム"
+    ],
+    "c_ap_ShortDescription": "世界文化遺産にも登録されているホイアン旧市街は、話題のレストランやカフェ、ショップが集まる賑やかなエリアです。さらに旧市街からアンホイ橋を渡ったアンホイ島にもお店が多数。歩いて回れる範囲にあるので、美しい街並みを眺めながら街歩きを楽しめます。ホイアンの名物料理を味わってお買い物をした後は、アンホイ島のナイト・マーケットへ。\n（写真：カーゴ・クラブ）",
+    "c_ap_Tags": [
+      "ホイアン",
+      "ナイト・マーケット",
+      "市場",
+      "ベトナム料理"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "一人旅",
+      "おみやげ"
+    ],
+    "c_ap_Title": "ホイアン旧市街周辺でおいしいもの＆かわいいもの探し【ベトナム　ホイアン】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "世界文化遺産にも登録されているホイアン旧市街は、話題のレストランやカフェ、ショップが集まる賑やかなエリアです。さらに旧市街からアンホイ橋を渡ったアンホイ島にもお店が多数。歩いて回れる範囲にあるので、美しい街並みを眺めながら街歩きを楽しめます。ホイアンの名物料理を味わってお買い物をした後は、アンホイ島のナイト・マーケットへ。\n（写真：カーゴ・クラブ）",
+    "c_metaTitle": "ホイアン旧市街周辺でおいしいもの＆かわいいもの探し【ベトナム　ホイアン】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000119",
+    "name": "ホイアン旧市街周辺でおいしいもの＆かわいいもの探し【ベトナム　ホイアン】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

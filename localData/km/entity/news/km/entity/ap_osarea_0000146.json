@@ -1,0 +1,299 @@
+{
+  "$id": "news_ap_osarea_0000146",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "新作ワインを堪能！　ホイリゲ4選【オーストリア ウィーン】",
+      "height": 996,
+      "sourceUrl": "http://a.mktgcdn.com/p/uOcyK2rgBdObJDPI-DNhK5dCWDc5BLPe87aAvq6HNr4/667x996.jpg",
+      "thumbnails": [
+        {
+          "height": 996,
+          "url": "//a.mktgcdn.com/p-sandbox/xw39CUFRRafaKQurdPHEqQJBhuIAZkgmGEFEOK1inNg/667x996.jpg",
+          "width": 667
+        },
+        {
+          "height": 924,
+          "url": "//a.mktgcdn.com/p-sandbox/xw39CUFRRafaKQurdPHEqQJBhuIAZkgmGEFEOK1inNg/619x924.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "//a.mktgcdn.com/p-sandbox/xw39CUFRRafaKQurdPHEqQJBhuIAZkgmGEFEOK1inNg/301x450.jpg",
+          "width": 301
+        },
+        {
+          "height": 293,
+          "url": "//a.mktgcdn.com/p-sandbox/xw39CUFRRafaKQurdPHEqQJBhuIAZkgmGEFEOK1inNg/196x293.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/xw39CUFRRafaKQurdPHEqQJBhuIAZkgmGEFEOK1inNg/667x996.jpg",
+      "width": 667
+    },
+    "c_ap_HeroImageCaption": "エスターハージーケラーの洞窟のような店内",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "オーストリアの旅行・ツアー情報をみる",
+        "uRL": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?houmen\u003d01\u0026kuni\u003dAT"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "中欧旅行・ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/central-europe/"
+      },
+      {
+        "linkText": "ウィーンのツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dVIE"
+      },
+      {
+        "linkText": "オーストリアのホテルをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/11/?freeword\u003d%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d11"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_Tags": [
+      "ウィーン",
+      "ホイリゲ",
+      "ワイン"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "ウィーンのホイリゲ4選！新作ワインを堪能【オーストリア】",
+    "c_linkedArea3News": [
+      "austria"
+    ],
+    "c_metaDescription": "ウィーン新酒を楽しめるお店「ホイリゲ」のおすすめ4選をご紹介します。その年にとれた新鮮なワインは絶品です。ぜひウィーン観光もあわせてお楽しみください。",
+    "c_metaTitle": "ウィーンのホイリゲ4選！新作ワインを堪能【オーストリア】",
+    "c_news_CTAs": [
+      {
+        "label": "海外旅行専門デスクへの相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top-overseas-desk",
+        "linkType": "URL"
+      },
+      {
+        "label": "オーストリアの旅行・ツアー情報をみる",
+        "link": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?houmen\u003d01\u0026kuni\u003dAT",
+        "linkType": "URL"
+      },
+      {
+        "label": "オーストリア行きの航空券をみる",
+        "link": "https://www.jtb.co.jp/ovs_air_static/europe/austria/",
+        "linkType": "URL"
+      },
+      {
+        "label": "オーストリアのホテルをみる",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/174/?freeword\u003d%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ウィーンの老舗カフェをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/europe/austria/news_ap_osarea_0000147",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "伝統料理を味わえるバイスルをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/europe/austria/news_ap_osarea_0000104",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "ウィーンの観光スポットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/europe/austria/news_ap_osarea_0000101",
+          "linkType": "OTHER"
+        },
+        "description": "ホイリゲとは、「今年の（heuer）」という言葉を語源とし、「その年にとれたワイン（新酒）」と、「新酒を供する居酒屋」という２つの意味を持つ言葉。ホイリゲの新酒は聖マルティン祭の11月11日に解禁となります。居酒屋という意味のホイリゲは、ブドウ農家に自家製ワインの販売許可を出したことが由来とされます。ホイリゲ（居酒屋）はウィーン市郊外、ウィーンの森とよばれるエリアのハイリゲンシュタットやグリンツィングに多く建ちますが、リンク（旧市街）内のホイリゲでも十分に堪能できます。",
+        "image": {
+          "alternateText": "仔牛のヴィーナーシュニツェル（写真右）€22.90",
+          "height": 1280,
+          "sourceUrl": "https://a.mktgcdn.com/p/flWMg9opQRehtBV1gzDp31WPeYX-W-Icocdkfbk-fMY/1015x1280.jpg",
+          "thumbnails": [
+            {
+              "height": 1280,
+              "url": "https://a.mktgcdn.com/p-sandbox/R6iotcuu3M0oGCCesOXh8Jqj4Z0Ec8YDes6soR0zgwg/1015x1280.jpg",
+              "width": 1015
+            },
+            {
+              "height": 781,
+              "url": "https://a.mktgcdn.com/p-sandbox/R6iotcuu3M0oGCCesOXh8Jqj4Z0Ec8YDes6soR0zgwg/619x781.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/R6iotcuu3M0oGCCesOXh8Jqj4Z0Ec8YDes6soR0zgwg/357x450.jpg",
+              "width": 357
+            },
+            {
+              "height": 247,
+              "url": "https://a.mktgcdn.com/p-sandbox/R6iotcuu3M0oGCCesOXh8Jqj4Z0Ec8YDes6soR0zgwg/196x247.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/R6iotcuu3M0oGCCesOXh8Jqj4Z0Ec8YDes6soR0zgwg/1015x1280.jpg",
+          "width": 1015
+        },
+        "imageCaption": "仔牛のヴィーナーシュニッツェル€22.90",
+        "infoBlockLabel": "Mayer am Pfarrplatz",
+        "infoBlockText": "住所：Pfarrplatz 2営業時間：3～10月12～23時、11～4月16～23時（日曜、祝日は12～23時）定休日：なし",
+        "sectionLevel": "h2",
+        "sectionTitle": "ウィーンの「ホイリゲ」とは？"
+      },
+      {
+        "description": "1683年から営業する伝説的なホイリゲが、「マイヤー・アム・プファールプラッツ」です。1817年にベートーヴェンが滞在し、交響曲第9番の構想を膨らませた部屋が現在も残されています。注文は、カウンターに並ぶ料理を指差しで選ぶ方式です。おすすめは仔牛のヴィーナーシュニッツェル。仔牛をたたいて薄く伸ばして揚げ焼きしたウィーン風カツレツです。",
+        "image": {
+          "alternateText": "つまみの盛り合わせ€18.90～（1人前～）",
+          "height": 1053,
+          "sourceUrl": "https://a.mktgcdn.com/p/yFQj9ymTK91XoaqWRzzg4Gjp8uNi7mF29H37UspOVWQ/1577x1053.jpg",
+          "thumbnails": [
+            {
+              "height": 1053,
+              "url": "https://a.mktgcdn.com/p-sandbox/5VDtufiugRyklwFXeslin9wfNDVpHFVwoX22YUQH6Es/1577x1053.jpg",
+              "width": 1577
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/5VDtufiugRyklwFXeslin9wfNDVpHFVwoX22YUQH6Es/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/5VDtufiugRyklwFXeslin9wfNDVpHFVwoX22YUQH6Es/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/5VDtufiugRyklwFXeslin9wfNDVpHFVwoX22YUQH6Es/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5VDtufiugRyklwFXeslin9wfNDVpHFVwoX22YUQH6Es/1577x1053.jpg",
+          "width": 1577
+        },
+        "imageCaption": "つまみの盛り合わせ€18.90～（1人前～）",
+        "infoBlockLabel": "Esterharzykeller",
+        "infoBlockText": "住所：Haarhof 1営業時間：16～22時LO（土・日曜、祝日は11時～）定休日：月曜",
+        "sectionLevel": "h2",
+        "sectionTitle": "ウィーンのおすすめホイリゲ4選"
+      },
+      {
+        "description": "ハンガリー出身の大貴族で、17世紀からブルゲンランド州でワインの生産も行っているエスターハージー家ゆかりのお店。同家のワインセラーだった12世紀の建物の地下を利用し、自社ワイナリーで造るオーストリア産ワインを提供します。洞窟のような店内には、立ち飲みのカウンターとテーブル席があります。いちおしのワインは、店オリジナルのハウスワイン白€2.20、赤€1.90。ハムやチーズ、サラダなど好きな料理を組み合わせられるつまみの盛り合わせと一緒にいただきましょう。料理はショーケースから選ぶスタイルです。",
+        "image": {
+          "alternateText": "肉団子・シュニッツェルなど、人気の肉の盛り合わせ、マルティンプレート",
+          "height": 1037,
+          "sourceUrl": "https://a.mktgcdn.com/p/Z9hNyQjJNuLo9u5yz2XjdtvNJ6gSpc5TbbYlwoN1ZRE/1555x1037.jpg",
+          "thumbnails": [
+            {
+              "height": 1037,
+              "url": "https://a.mktgcdn.com/p-sandbox/u7nqDup5lPVXBRRf3nWTXJeFZsMljaruki0ymUh9thY/1555x1037.jpg",
+              "width": 1555
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/u7nqDup5lPVXBRRf3nWTXJeFZsMljaruki0ymUh9thY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/u7nqDup5lPVXBRRf3nWTXJeFZsMljaruki0ymUh9thY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/u7nqDup5lPVXBRRf3nWTXJeFZsMljaruki0ymUh9thY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/u7nqDup5lPVXBRRf3nWTXJeFZsMljaruki0ymUh9thY/1555x1037.jpg",
+          "width": 1555
+        },
+        "imageCaption": "肉団子・シュニッツェルなど、人気の肉の盛り合わせ、マルティンプレート",
+        "infoBlockLabel": "Zum Martin Sepp",
+        "infoBlockText": "住所：Gobenzlgasse 34営業時間：12～23時定休日：1月1～13日",
+        "sectionLevel": "h3",
+        "sectionTitle": "マイヤー・アム・プファールプラッツ （Mayer am Pfarrplatz）"
+      },
+      {
+        "description": "素朴ながら高級感も感じられる有名店「ツム・マルティン・セップ」。昼間も営業しており、ランチにも使える便利なお店です。ワインは地元産、オーストリア産など種類豊富。なかでも、渋みとコクのある地元産ローター・ワインがおすすめ。肉団子、シュニッツェルなど人気の肉を盛り合わせた「マルティンプレート」と相性抜群です。民族衣装に身をまとったスタッフが注文を取りにきてくれるので、まずはドリンクをオーダーしましょう。19時からはアコーディオンが演奏され、ほろ酔い気分のお客さんを和ませてくれます。",
+        "image": {
+          "alternateText": "豚肉のヴィーナーシュニッツェルとポテトサラダ€12.30",
+          "height": 1110,
+          "sourceUrl": "https://a.mktgcdn.com/p/ijfoazped0yhiYu-TZPbCaCF0E6hSvlTi3JLP8btR7c/1125x1110.jpg",
+          "thumbnails": [
+            {
+              "height": 1110,
+              "url": "https://a.mktgcdn.com/p-sandbox/J0OeMC0akIRSuo6zFE9M4TC9GIqnWowBozd4vsBL43Q/1125x1110.jpg",
+              "width": 1125
+            },
+            {
+              "height": 611,
+              "url": "https://a.mktgcdn.com/p-sandbox/J0OeMC0akIRSuo6zFE9M4TC9GIqnWowBozd4vsBL43Q/619x611.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/J0OeMC0akIRSuo6zFE9M4TC9GIqnWowBozd4vsBL43Q/456x450.jpg",
+              "width": 456
+            },
+            {
+              "height": 193,
+              "url": "https://a.mktgcdn.com/p-sandbox/J0OeMC0akIRSuo6zFE9M4TC9GIqnWowBozd4vsBL43Q/196x193.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/J0OeMC0akIRSuo6zFE9M4TC9GIqnWowBozd4vsBL43Q/1125x1110.jpg",
+          "width": 1125
+        },
+        "imageCaption": "豚肉のヴィーナーシュニッツェルとポテトサラダ€12.30",
+        "infoBlockLabel": "Wolff",
+        "infoBlockText": "住所：Rathstraße 44-46 u. 50営業時間：11時30分～24時定休日：11～3月の平日（クリスマスは営業）",
+        "sectionLevel": "h3",
+        "sectionTitle": "エスターハージーケラー （Esterharzykeller）"
+      },
+      {
+        "description": "ワイン造りの名門ヴォルフ家が代々ブドウ栽培から醸造まで手掛けるお店「ヴォルフ」。創業は1609年で、オレンジ色の大きな屋敷が目印です。ショーケースに並んだ種類豊富な肉料理とサラダは、指差しでオーダーできます。おすすめ料理は、豚肉にきめ細かいパン粉をつけて揚げ焼きにしたカツレツ「豚肉のヴァーナーシュニッツェルとポテトサラダ」。ワインの味も確かで数々の“ヴィーナーワイン”の称号を得ています。※2023年3月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ツム・マルティン・セップ  (Zum Martin Sepp)"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "ヴォルフ（Wolff）"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000103",
+      "news_ap_osarea_0000105",
+      "news_ap_osarea_0000104",
+      "news_ap_osarea_0000101",
+      "news_ap_osarea_0000149",
+      "news_ap_osarea_0000102"
+    ],
+    "c_news_FeaturedArticlesTitle": "オーストリアのその他の投稿記事",
+    "c_news_PublicationDate": "2024-02-08",
+    "c_news_UpdateDate": "2024-08-13",
+    "c_news_ViewCount": "1046",
+    "c_news_ViewCount1of2": "2",
+    "c_news_ViewCount2of2": "1046",
+    "c_news_ViewCountNum": "1046",
+    "c_news_ViewCountNumForSorting": "41",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/europe/austria/news_ap_osarea_0000146",
+    "name": "ウィーンのホイリゲ4選！新作ワインを堪能【オーストリア】",
+    "slug": "kaigai/europe/austria/news_ap_osarea_0000146"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "k00015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_answer_HTML": "注文完了メールは、注文完了画面表示後すぐに送信されます。メールが届かない場合、いくつかの理由が考えられます。\u003cbr\u003e（以下参考例）\u003cbr\u003e・ご登録いただいたメールアドレスに誤りがある\u003cbr\u003e・お客様ご契約のメールサービス側の配信遅延\u003cbr\u003e・メール設定の受信制限（ドメイン指定受信設定※）をされている\u003cbr\u003e　※以下の送信元アドレスからのメールを受信できるようにドメインの受信をご設定ください。\u003cbr\u003e　　差出人ドメイン： @jtbgift.jtb.co.jp\u003cbr\u003e・迷惑メールに振り分けられているなど\u003cbr\u003e\u003cbr\u003e■ご予約内容の確認方法\u003cbr\u003e　メールが届かない場合、以下『メッセージボード』より注文内容をご確認いただけます。\u003cbr\u003e　\u003ca href\u003d\"https://jtbgift.jtb.co.jp/contact/login.php\" target\u003d\"_blank\"\u003eメッセージボードはこちら\u003c/a\u003e\u003cbr\u003e\u003cbr\u003e申込時にご入力いただいたお電話番号と注文番号を入力しログインしてください。\u003cbr\u003e注文番号については、PLUS JTBサービスセンターまでお問合せお願い致します。\u003cbr\u003e（お問合せ時はご注文者様氏名とお電話番号をお伝えください。）\u003cbr\u003ePLUS JTBサービスセンター 電話番号:050-3503-1764\u003cbr\u003e受付時間／10:00〜18:00（土日祝・年末年始 12/30〜1/3は除く）",
+    "landingPageUrl": "https://customerhelp.jtb.co.jp/s/article/k00015",
+    "name": "【JTBトラベルギフト・JTB旅行券(ナイストリップ)・JTB商品券(ナイスギフト)】インターネットで申込みしたが、注文完了メールが届きません。 注文ができているか心配です。",
+    "question": "【JTBトラベルギフト・JTB旅行券(ナイストリップ)・JTB商品券(ナイスギフト)】インターネットで申込みしたが、注文完了メールが届きません。 注文ができているか心配です。"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,336 @@
+{
+  "$id": "ap_chiki_100010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター 浅香"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "ホテルに入るとまず目を惹かれるのがこちらの煌びやかな吹き抜けのロビー。落ち着いたリゾート感と洗練されたラグジュアリー感で、一歩踏み入れるだけで非日常を感じることができます。また館内には日本を代表するコシノジュンコ氏によるアート作品が随所にあり、こちらも見どころです。そしてロビー横にあるのがフロントカウンター。楕円形をしているのが特徴的ですが、実は次に紹介する「ガーデン バー」は、このフロントカウンターとつながっており、ちょうどフロントの裏側にあるのです！これから詳しく紹介していきたいと思います。",
+        "image": {
+          "height": 996,
+          "sourceUrl": "https://a.mktgcdn.com/p/fEXDKHfrZFXAwve8-klKfrvrBaFBpGCcWAHRULrf7WQ/2482x996.jpg",
+          "thumbnails": [
+            {
+              "height": 996,
+              "url": "https://a.mktgcdn.com/p-sandbox/OvF4L2AZG7dCsjbsjEphjTBZGWyVR5_7MvZLLTXba8s/2482x996.jpg",
+              "width": 2482
+            },
+            {
+              "height": 762,
+              "url": "https://a.mktgcdn.com/p-sandbox/OvF4L2AZG7dCsjbsjEphjTBZGWyVR5_7MvZLLTXba8s/1900x762.jpg",
+              "width": 1900
+            },
+            {
+              "height": 248,
+              "url": "https://a.mktgcdn.com/p-sandbox/OvF4L2AZG7dCsjbsjEphjTBZGWyVR5_7MvZLLTXba8s/619x248.jpg",
+              "width": 619
+            },
+            {
+              "height": 241,
+              "url": "https://a.mktgcdn.com/p-sandbox/OvF4L2AZG7dCsjbsjEphjTBZGWyVR5_7MvZLLTXba8s/600x241.jpg",
+              "width": 600
+            },
+            {
+              "height": 79,
+              "url": "https://a.mktgcdn.com/p-sandbox/OvF4L2AZG7dCsjbsjEphjTBZGWyVR5_7MvZLLTXba8s/196x79.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OvF4L2AZG7dCsjbsjEphjTBZGWyVR5_7MvZLLTXba8s/2482x996.jpg",
+          "width": 2482
+        },
+        "imageCaption": "煌びやかロビーと楕円形が特徴的なフロント",
+        "sectionTitle": "一歩踏み入れると別世界！ロビーに広がる華やかな空間"
+      },
+      {
+        "description": "こちらが今回ご紹介する「ガーデン バー」。バーというと、なんだか少し閉鎖的な空間で入るのに少しためらってしまう方、気軽に利用できない方も多いかと思います。このガーデン バーはホテル1階のフロント裏に位置し開放感のある空間になっているので、誰でも気軽に利用できるのが嬉しいポイントです。こちらは宿泊者以外の方でもご利用いただけます。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/mdRj10ZZx-Kvod3TT2BmdqaOI9TYQEJk-geIOLlMNz0/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/mdRj10ZZx-Kvod3TT2BmdqaOI9TYQEJk-geIOLlMNz0/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/mdRj10ZZx-Kvod3TT2BmdqaOI9TYQEJk-geIOLlMNz0/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/mdRj10ZZx-Kvod3TT2BmdqaOI9TYQEJk-geIOLlMNz0/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/mdRj10ZZx-Kvod3TT2BmdqaOI9TYQEJk-geIOLlMNz0/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/mdRj10ZZx-Kvod3TT2BmdqaOI9TYQEJk-geIOLlMNz0/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ハイアット リージェンシー 東京ベイ自慢のワインセラー",
+        "sectionTitle": "本格的なメニューをカジュアルに楽しめる！「ガーデン バー」"
+      },
+      {
+        "description": "座席はカウンター席、テーブル席と2種類あり、バー全体のスペースはコンパクトながらもしっかりソーシャルディスタンスが保てます。テーブル席で落ち着いておしゃべりをしながら楽しむのも良し、カウンター席でバーテンダーのシェイクを目の前で見ながらお酒を楽しむのも良いですね！",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/rtqC3LjETqgFV72yn6g_MKAPfOQhSkd-sWbkQtBiR3U/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/rtqC3LjETqgFV72yn6g_MKAPfOQhSkd-sWbkQtBiR3U/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/rtqC3LjETqgFV72yn6g_MKAPfOQhSkd-sWbkQtBiR3U/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/rtqC3LjETqgFV72yn6g_MKAPfOQhSkd-sWbkQtBiR3U/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/rtqC3LjETqgFV72yn6g_MKAPfOQhSkd-sWbkQtBiR3U/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rtqC3LjETqgFV72yn6g_MKAPfOQhSkd-sWbkQtBiR3U/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ローズマリー ピニャ　コラーダ（税込1,500円）、ローズマリー モヒート（税込1,380円）、チョコレートスフレマロンピザ（税込2,070円）、ガーリックフライドポテト（税込1,000円）"
+      },
+      {
+        "description": "そしてガーデンバーでひときわ目を引くのがワインセラー！日本ワイン、フランスワインを中心に上質なワインを豊富に取り揃えており、現在約200種類あるのだとか。そして今後も種類を増やしていく予定とのこと…！5,000円のものから200万円以上する超高級ワイン、貴重なビンテージワインまで幅広いラインナップとなっており、ワイン好きの方にはもちろんのこと、これからお気に入りのワインを見つけたい方にもピッタリですね！",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/hqLf_Qson5wWilcqVm9mPw-AGnsXDfEIbELISfzIjpQ/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/hqLf_Qson5wWilcqVm9mPw-AGnsXDfEIbELISfzIjpQ/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/hqLf_Qson5wWilcqVm9mPw-AGnsXDfEIbELISfzIjpQ/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/hqLf_Qson5wWilcqVm9mPw-AGnsXDfEIbELISfzIjpQ/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/hqLf_Qson5wWilcqVm9mPw-AGnsXDfEIbELISfzIjpQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hqLf_Qson5wWilcqVm9mPw-AGnsXDfEIbELISfzIjpQ/1200x900.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "description": "さて、お待ちかねのドリンクとフード。今回いただいたドリンクは、ガーデン バーの看板メニュー、いわゆるシグネチャーカクテルの「ローズマリー モヒート」と「ローズマリー ピニャ　コラーダ」。「ローズマリー モヒート」はローズマリーとライムの爽やかな風味が最高！一気にリゾート気分になれます。一方、丸いグラスにパイナップルが添えられた「ローズマリー ピニャ コラーダ」は、ローズマリーとパイナップルの爽やかな風味にココナッツミルクの控え目な甘さがマッチ！そしてフードは「チョコレートスフレマロンピザ」(期間限定)と「ガーリックフライドポテト」。ピザはもちもちの生地にたっぷりのチョコとマロンクリーム、そして少し溶けたマシュマロの触感がたまりません･･･！また、定番メニューの中で一番人気というガーリックフライドポテトはガーリック味のカリカリの衣とほくほくのポテトが本当においしくて止まらない･･･！ 甘いピザとしょっぱいポテト、そして爽やかなカクテルという無限ループが出来上がりました。",
+        "image": {
+          "height": 1040,
+          "sourceUrl": "https://a.mktgcdn.com/p/1WknhbE8uXi-VSbF8paodn33a1G1bdZK94zCYIIMGKk/2200x1040.jpg",
+          "thumbnails": [
+            {
+              "height": 1040,
+              "url": "https://a.mktgcdn.com/p-sandbox/1WknhbE8uXi-VSbF8paodn33a1G1bdZK94zCYIIMGKk/2200x1040.jpg",
+              "width": 2200
+            },
+            {
+              "height": 898,
+              "url": "https://a.mktgcdn.com/p-sandbox/1WknhbE8uXi-VSbF8paodn33a1G1bdZK94zCYIIMGKk/1900x898.jpg",
+              "width": 1900
+            },
+            {
+              "height": 293,
+              "url": "https://a.mktgcdn.com/p-sandbox/1WknhbE8uXi-VSbF8paodn33a1G1bdZK94zCYIIMGKk/619x293.jpg",
+              "width": 619
+            },
+            {
+              "height": 284,
+              "url": "https://a.mktgcdn.com/p-sandbox/1WknhbE8uXi-VSbF8paodn33a1G1bdZK94zCYIIMGKk/600x284.jpg",
+              "width": 600
+            },
+            {
+              "height": 93,
+              "url": "https://a.mktgcdn.com/p-sandbox/1WknhbE8uXi-VSbF8paodn33a1G1bdZK94zCYIIMGKk/196x93.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1WknhbE8uXi-VSbF8paodn33a1G1bdZK94zCYIIMGKk/2200x1040.jpg",
+          "width": 2200
+        }
+      },
+      {
+        "description": "テーブル席では、迫力あるワインセラーを目の前に食事を楽しめるのも贅沢で良いですね。カジュアルに本格的なバーを楽しめますので、例えば周辺観光を楽しんだあとに立ち寄ったり、ホテルレストランでディナーの後のお楽しみとして、いつものご旅行やお出かけにご利用してみてはいかがでしょうか。----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "image": {
+          "height": 1324,
+          "sourceUrl": "https://a.mktgcdn.com/p/r7xLr-Nk01Ky0du1bZEDkYsYo8v2L_X8Hp6UJcjzSnM/1200x1324.jpg",
+          "thumbnails": [
+            {
+              "height": 1324,
+              "url": "https://a.mktgcdn.com/p-sandbox/r7xLr-Nk01Ky0du1bZEDkYsYo8v2L_X8Hp6UJcjzSnM/1200x1324.jpg",
+              "width": 1200
+            },
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/r7xLr-Nk01Ky0du1bZEDkYsYo8v2L_X8Hp6UJcjzSnM/619x683.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/r7xLr-Nk01Ky0du1bZEDkYsYo8v2L_X8Hp6UJcjzSnM/408x450.jpg",
+              "width": 408
+            },
+            {
+              "height": 216,
+              "url": "https://a.mktgcdn.com/p-sandbox/r7xLr-Nk01Ky0du1bZEDkYsYo8v2L_X8Hp6UJcjzSnM/196x216.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/r7xLr-Nk01Ky0du1bZEDkYsYo8v2L_X8Hp6UJcjzSnM/1200x1324.jpg",
+          "width": 1200
+        }
+      }
+    ],
+    "c_ap_DatePosted": "2021-11-02",
+    "c_ap_HeroImage": {
+      "alternateText": "都心近くでもリゾートステイ！ハイアット リージェンシー 東京ベイの「ガーデン バー」で過ごすひととき【千葉県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 941,
+      "sourceUrl": "https://a.mktgcdn.com/p/MyIVrq99mR_1bSK5Kq8kjvpV9LS85sRqUZrIrhf484A/2200x941.jpg",
+      "thumbnails": [
+        {
+          "height": 941,
+          "url": "https://a.mktgcdn.com/p-sandbox/MyIVrq99mR_1bSK5Kq8kjvpV9LS85sRqUZrIrhf484A/2200x941.jpg",
+          "width": 2200
+        },
+        {
+          "height": 813,
+          "url": "https://a.mktgcdn.com/p-sandbox/MyIVrq99mR_1bSK5Kq8kjvpV9LS85sRqUZrIrhf484A/1900x813.jpg",
+          "width": 1900
+        },
+        {
+          "height": 265,
+          "url": "https://a.mktgcdn.com/p-sandbox/MyIVrq99mR_1bSK5Kq8kjvpV9LS85sRqUZrIrhf484A/619x265.jpg",
+          "width": 619
+        },
+        {
+          "height": 257,
+          "url": "https://a.mktgcdn.com/p-sandbox/MyIVrq99mR_1bSK5Kq8kjvpV9LS85sRqUZrIrhf484A/600x257.jpg",
+          "width": 600
+        },
+        {
+          "height": 84,
+          "url": "https://a.mktgcdn.com/p-sandbox/MyIVrq99mR_1bSK5Kq8kjvpV9LS85sRqUZrIrhf484A/196x84.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/MyIVrq99mR_1bSK5Kq8kjvpV9LS85sRqUZrIrhf484A/2200x941.jpg",
+      "width": 2200
+    },
+    "c_ap_LinkArticleSectionTitle": "千葉県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ハイアット リージェンシー 東京ベイ　360°パノラマビューはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/book/360/tyo/4484013/index.asp"
+      },
+      {
+        "linkText": "ハイアット リージェンシー 東京ベイの宿泊プランはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/4484013/plan/"
+      },
+      {
+        "linkText": "舞浜・新浦安の宿泊プランはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/120105/?planinfokeyword\u003d\u0026area\u003d\u0026godate\u003d\u0026staynight\u003d\u0026roomassign\u003d\u0026room\u003d\u0026roomstyle\u003d\u0026mealtype\u003d\u0026kodawari\u003d\u0026stayplacedisplay\u003d%E6%9D%B1%E4%BA%AC%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%EF%BC%88R%29"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "千葉県"
+    ],
+    "c_ap_ShortDescription": "JR舞浜駅から1駅、新浦安エリアでは様々な個性的ホテルが立ち並んでいるのはご存知でしょうか？なかでも駅からバスで約10分、東京湾と緑豊かな自然に囲まれたベイエリアでは、都心近くにいながらリゾートステイを楽しめる「ハイアット リージェンシー 東京ベイ」が2021年7月にリブランドオープンし注目を集めています。今回はハイアット リージェンシー 東京ベイについて、ホテルの顔であるフロントとロビー、そしていつものホテルステイをさらに充実させる「ガーデン バー」でのひとときを紹介していきます。",
+    "c_ap_Tags": [
+      "リゾート",
+      "バー"
+    ],
+    "c_ap_Theme": [
+      "グループ",
+      "リゾート",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "都心近くでもリゾートステイ！ハイアット リージェンシー 東京ベイの「ガーデン バー」で過ごすひととき【千葉県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "JR舞浜駅から1駅、新浦安エリアでは様々な個性的ホテルが立ち並んでいるのはご存知でしょうか？なかでも駅からバスで約10分、東京湾と緑豊かな自然に囲まれたベイエリアでは、都心近くにいながらリゾートステイを楽しめ…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "都心近くでもリゾートステイ！ハイアット リージェンシー 東京ベイの「ガーデン バー」で過ごすひととき【千葉県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100010",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "千葉県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "ハイアット リージェンシー 東京ベイの「ガーデン バー」で過ごすひととき【千葉県】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

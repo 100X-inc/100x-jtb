@@ -1,0 +1,900 @@
+{
+  "$id": "news_web_kokunai_0015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1025,
+      "sourceUrl": "https://a.mktgcdn.com/p/YNFqIqHd6-XLDYGMGNxQIUcbLlQVhT_7j2JmiOoTRIE/1536x1025.jpg",
+      "thumbnails": [
+        {
+          "height": 1025,
+          "url": "https://a.mktgcdn.com/p-sandbox/YNFqIqHd6-XLDYGMGNxQIUcbLlQVhT_7j2JmiOoTRIE/1536x1025.jpg",
+          "width": 1536
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/YNFqIqHd6-XLDYGMGNxQIUcbLlQVhT_7j2JmiOoTRIE/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/YNFqIqHd6-XLDYGMGNxQIUcbLlQVhT_7j2JmiOoTRIE/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/YNFqIqHd6-XLDYGMGNxQIUcbLlQVhT_7j2JmiOoTRIE/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/YNFqIqHd6-XLDYGMGNxQIUcbLlQVhT_7j2JmiOoTRIE/1536x1025.jpg",
+      "width": 1536
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "石垣・宮古・西表島 おすすめ観光スポット30選",
+        "uRL": "https://www.jtb.co.jp/kokunai-guide/list/index.html?area\u003d4705\u0026feature\u003d0\u0026genre\u003d000"
+      },
+      {
+        "linkText": "宮古島の旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/s_miyakojima/"
+      },
+      {
+        "linkText": "宮古島のホテル・旅館・宿を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/470501/"
+      },
+      {
+        "linkText": "宮古島のツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_air/a/470501/"
+      },
+      {
+        "linkText": "島旅におすすめの離島をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai/theme/shimatabi/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "宮古島は沖縄本島の南西約300kmのところにある離島です。\n\n大小8つの有人島などからなる宮古群島の主島で、島を囲む透き通る海と真っ白な砂浜に、魅了される人がたくさんいます。宮古島に来たら絶対に訪れたいビーチと絶景スポットをご紹介します！",
+    "c_ap_Tags": [
+      "ビーチ",
+      "ビーチリゾート",
+      "沖縄おすすめ",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "宮古島のおすすめ観光スポットと過ごし方20選！宮古ブルーを満喫",
+    "c_linkedArea3News": [
+      "okinawa_all"
+    ],
+    "c_metaDescription": "【JTB】がおすすめする、宮古島観光で必ず訪れたいスポット！「宮古ブルー」を堪能できる美しい海・ビーチから、話題の３つの大橋、青の洞窟などの絶景スポットまで。アクティビティ体験やレンタカーでのドライブも人気な「宮古島観光」の多彩な魅力の数々を紹介いたします！",
+    "c_metaTitle": "宮古島のおすすめ観光スポットと過ごし方20選！宮古ブルーを満喫 | JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "宮古島の旅行を探す",
+        "link": "https://www.jtb.co.jp/kokunai/area/okinawa/s_miyakojima/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "宮古島の宿をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/470501/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "宮古島のおすすめホテルランキング",
+        "link": "https://www.jtb.co.jp/ranking/kokunai/miyako/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "八重干瀬周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/23443120/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "与那覇前浜ビーチの魅力をもっとみる",
+          "link": "https://www.jtb.co.jp/kando/detail/282.asp",
+          "linkType": "OTHER"
+        },
+        "description": "宮古島と聞いたら、青空の下に広がる透き通る青い海と白い砂浜を思い浮かべませんか。宮古島には高い山と川がないため、雨が降っても泥が海に流れることもなく、透明度の高い青い海が保たれています 。宮古ブルーの輝きを眺めながら、ゆったりリラクゼーションを楽しみましょう。",
+        "image": {
+          "alternateText": "フナクス海岸",
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/7wOAJUVJuMIxOBjWttuabiO5ILIHADlgqzS-n6auw2Q/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/7wOAJUVJuMIxOBjWttuabiO5ILIHADlgqzS-n6auw2Q/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/7wOAJUVJuMIxOBjWttuabiO5ILIHADlgqzS-n6auw2Q/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/7wOAJUVJuMIxOBjWttuabiO5ILIHADlgqzS-n6auw2Q/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/7wOAJUVJuMIxOBjWttuabiO5ILIHADlgqzS-n6auw2Q/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7wOAJUVJuMIxOBjWttuabiO5ILIHADlgqzS-n6auw2Q/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "divedog / PIXTA(ピクスタ)",
+        "infoBlockLabel": "八重干瀬の基本情報",
+        "infoBlockText": "アクセス：池間港から船で約20分住所：沖縄県宮古島市平良",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．宮古ブルーを堪能できる美しい海・ビーチ10選"
+      },
+      {
+        "cTA1": {
+          "label": "砂山ビーチ周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8723A95/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "伊良部大橋の魅力をもっとみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8723A96/",
+          "linkType": "OTHER"
+        },
+        "description": "日本最大級のサンゴ礁が広がる八重干瀬は、サンゴ礁が幾重にも重なっていることから、この名前が付けられました。水深1m前後から20mまで幅広く、波も穏やかなため、初心者や子どもでもシュノーケリングやダイビングに挑戦しやすい環境です。海に潜ると、色とりどりのかわいらしい熱帯魚に出合える、とっておきのスポットです。",
+        "image": {
+          "alternateText": "砂山ビーチ",
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/pwMcxE5pCqIHenlm3nYz0AUJmWH-q0uUa2HQAG3aEzA/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/pwMcxE5pCqIHenlm3nYz0AUJmWH-q0uUa2HQAG3aEzA/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/pwMcxE5pCqIHenlm3nYz0AUJmWH-q0uUa2HQAG3aEzA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/pwMcxE5pCqIHenlm3nYz0AUJmWH-q0uUa2HQAG3aEzA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/pwMcxE5pCqIHenlm3nYz0AUJmWH-q0uUa2HQAG3aEzA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/pwMcxE5pCqIHenlm3nYz0AUJmWH-q0uUa2HQAG3aEzA/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "7maru / PIXTA(ピクスタ)",
+        "infoBlockLabel": "フナクス海岸の基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約30分住所：沖縄県宮古島市平良池間",
+        "sectionLevel": "h3",
+        "sectionTitle": "八重干瀬"
+      },
+      {
+        "cTA1": {
+          "label": "渡口の浜周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/23443280/",
+          "linkType": "OTHER"
+        },
+        "description": "数年前までは、地元の人しか知らない隠れビーチのような存在だったフナクス海岸は、今やシュノーケリングスポットとして、宮古島内でも一番の人気を誇っています。ビーチ入り口には、階段代わりのコンクリートブロックが置かれており、通称「池間ブロック」とも呼ばれています。海を覗くと、手を伸ばせば触れられるほど、サンゴが間近に見られます。",
+        "image": {
+          "alternateText": "渡口の浜",
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/-fEqKbxSPSj6riBZ7P3lqJAUHS_30sL17AwPDRaruIo/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/-fEqKbxSPSj6riBZ7P3lqJAUHS_30sL17AwPDRaruIo/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/-fEqKbxSPSj6riBZ7P3lqJAUHS_30sL17AwPDRaruIo/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/-fEqKbxSPSj6riBZ7P3lqJAUHS_30sL17AwPDRaruIo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/-fEqKbxSPSj6riBZ7P3lqJAUHS_30sL17AwPDRaruIo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-fEqKbxSPSj6riBZ7P3lqJAUHS_30sL17AwPDRaruIo/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "柴道楽 / PIXTA(ピクスタ)",
+        "infoBlockLabel": "砂山ビーチの基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約20分住所：沖縄県宮古島市平良荷川取705",
+        "sectionLevel": "h3",
+        "sectionTitle": "フナクス海岸"
+      },
+      {
+        "cTA1": {
+          "label": "与那覇前浜ビーチ周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/23442590/",
+          "linkType": "OTHER"
+        },
+        "description": "木々に囲まれた砂の山道を歩くと、コバルトブルーのグラデーションが美しい白浜のビーチが現れます。ビーチのアイコンでもあるアーチ状の岩の前で、記念撮影もおすすめです。波の浸食によって、岩の間にすっぽりと穴が空いているのが、なんとも不思議な光景です。落石があるため、岩の下部分には入ることはできませんが、自然の神秘をひと目見に、ぜひ出かけてみてください。",
+        "image": {
+          "alternateText": "与那覇前浜",
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/YNFqIqHd6-XLDYGMGNxQIUcbLlQVhT_7j2JmiOoTRIE/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/YNFqIqHd6-XLDYGMGNxQIUcbLlQVhT_7j2JmiOoTRIE/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/YNFqIqHd6-XLDYGMGNxQIUcbLlQVhT_7j2JmiOoTRIE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/YNFqIqHd6-XLDYGMGNxQIUcbLlQVhT_7j2JmiOoTRIE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/YNFqIqHd6-XLDYGMGNxQIUcbLlQVhT_7j2JmiOoTRIE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YNFqIqHd6-XLDYGMGNxQIUcbLlQVhT_7j2JmiOoTRIE/1536x1025.jpg",
+          "width": 1536
+        },
+        "imageCaption": "divedog / PIXTA(ピクスタ)",
+        "infoBlockLabel": "渡口の浜の基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約45分住所：沖縄県宮古島市伊良部伊良部1391-1",
+        "sectionLevel": "h3",
+        "sectionTitle": "砂山ビーチ"
+      },
+      {
+        "cTA1": {
+          "label": "シギラベイサイドスイートアラマンダをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8723009/plan/",
+          "linkType": "OTHER"
+        },
+        "description": "渡口の浜は、裸足で走っても気持ちのいいほどサラサラで真っ白な砂浜が約800mも続く、弓状のビーチです。伊良部島の南西部に位置し、宮古島からは伊良部大橋を渡って行くことができます。売店やトイレにシャワーも完備されていて、夏には観光客で賑わいます。サンゴ礁がなく魚も少ないため、シュノーケルよりも木陰でビーチを眺め、空の高さを感じながら、のんびりと沖縄の景色を堪能するのがおすすめの過ごし方です。",
+        "image": {
+          "alternateText": "シギラビーチ",
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/Gj3NANQImEaBj5YluBHwhdYh5xRFI3nBQM7wUUzz1u0/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gj3NANQImEaBj5YluBHwhdYh5xRFI3nBQM7wUUzz1u0/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gj3NANQImEaBj5YluBHwhdYh5xRFI3nBQM7wUUzz1u0/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gj3NANQImEaBj5YluBHwhdYh5xRFI3nBQM7wUUzz1u0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gj3NANQImEaBj5YluBHwhdYh5xRFI3nBQM7wUUzz1u0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Gj3NANQImEaBj5YluBHwhdYh5xRFI3nBQM7wUUzz1u0/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "tenjou / PIXTA(ピクスタ)",
+        "infoBlockLabel": "与那覇前浜の基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約15分住所：沖縄県宮古島市下地与那覇1199",
+        "sectionLevel": "h3",
+        "sectionTitle": "渡口の浜"
+      },
+      {
+        "cTA1": {
+          "label": "イムギャーマリンガーデン周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5002320/",
+          "linkType": "OTHER"
+        },
+        "description": "「東洋一」とも称される、宮古島を代表する絶景ビーチです。透明度の高い青い海と、真っ白なパウダーサンドが特徴です。海の向こうには、宮古島と来間島（くりまじま）を結ぶ、緩やかな曲線が美しい来間大橋が望めます。沖の方まで水が浅く、比較的波も穏やかなため、海水浴を楽しむのもおすすめです。波打ち際を歩くだけでも、非日常を体感できることでしょう。",
+        "image": {
+          "alternateText": "イムギャーマリンガーデン",
+          "height": 1151,
+          "sourceUrl": "https://a.mktgcdn.com/p/zKdf804wgI-6we0LfaDVB4w9F6qmsOJfiJdx-2R2o-Y/1536x1151.jpg",
+          "thumbnails": [
+            {
+              "height": 1151,
+              "url": "https://a.mktgcdn.com/p-sandbox/zKdf804wgI-6we0LfaDVB4w9F6qmsOJfiJdx-2R2o-Y/1536x1151.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/zKdf804wgI-6we0LfaDVB4w9F6qmsOJfiJdx-2R2o-Y/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/zKdf804wgI-6we0LfaDVB4w9F6qmsOJfiJdx-2R2o-Y/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/zKdf804wgI-6we0LfaDVB4w9F6qmsOJfiJdx-2R2o-Y/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zKdf804wgI-6we0LfaDVB4w9F6qmsOJfiJdx-2R2o-Y/1536x1151.jpg",
+          "width": 1536
+        },
+        "imageCaption": "二匹の魚 / PIXTA(ピクスタ)",
+        "infoBlockLabel": "シギラビーチの基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約20分住所：沖縄県宮古島市上野新里1405-214",
+        "sectionLevel": "h3",
+        "sectionTitle": "与那覇前浜"
+      },
+      {
+        "cTA1": {
+          "label": "伊良部大橋の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8723A96/",
+          "linkType": "OTHER"
+        },
+        "description": "シギラビーチは、「シギラセブンマイルズリゾート」の敷地内にあります。ウミガメに会えるビーチとしても知られています。一般利用も可能な「シギラビーチハウス」では、マリンアクティビティに必要な用具のレンタルも行っています。リゾートのレジャープログラムなども併せて遊びの計画を立てると、さらに海を満喫できることでしょう。",
+        "image": {
+          "alternateText": "保良泉ビーチ",
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/QnTbl5MSPcnGXJK-0OucsK3VQOMzOEjw9XUAtoKrVlY/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/QnTbl5MSPcnGXJK-0OucsK3VQOMzOEjw9XUAtoKrVlY/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/QnTbl5MSPcnGXJK-0OucsK3VQOMzOEjw9XUAtoKrVlY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/QnTbl5MSPcnGXJK-0OucsK3VQOMzOEjw9XUAtoKrVlY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/QnTbl5MSPcnGXJK-0OucsK3VQOMzOEjw9XUAtoKrVlY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QnTbl5MSPcnGXJK-0OucsK3VQOMzOEjw9XUAtoKrVlY/1536x1025.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "イムギャーマリンガーデンの基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約25分住所：沖縄県宮古島市城辺友利605-2",
+        "sectionLevel": "h3",
+        "sectionTitle": "シギラビーチ"
+      },
+      {
+        "cTA1": {
+          "label": "来間島の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8723019/",
+          "linkType": "OTHER"
+        },
+        "description": "イムギャーマリンガーデンは、入江にあり、緑に囲まれた遊歩道が珍しい海浜公園です。イムギャー橋で区切られた内海は、「天然のプール」とも呼ばれ、波も穏やかなため、シュノーケリングも楽しめ、子ども連れの海水浴にも最適です。忘れず立ち寄りたいのは、牛のオブジェが目印の展望台です。見渡す限り青い海が広がる東シナ海の絶景を一望できます。",
+        "image": {
+          "alternateText": "吉野海岸",
+          "height": 1026,
+          "sourceUrl": "https://a.mktgcdn.com/p/dWgR6ifV1kqiuitfKlyhYKTIeoUWdDrLooei8kL8DKs/1536x1026.jpg",
+          "thumbnails": [
+            {
+              "height": 1026,
+              "url": "https://a.mktgcdn.com/p-sandbox/dWgR6ifV1kqiuitfKlyhYKTIeoUWdDrLooei8kL8DKs/1536x1026.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/dWgR6ifV1kqiuitfKlyhYKTIeoUWdDrLooei8kL8DKs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/dWgR6ifV1kqiuitfKlyhYKTIeoUWdDrLooei8kL8DKs/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/dWgR6ifV1kqiuitfKlyhYKTIeoUWdDrLooei8kL8DKs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dWgR6ifV1kqiuitfKlyhYKTIeoUWdDrLooei8kL8DKs/1536x1026.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "保良泉ビーチの基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約35分住所：沖縄県宮古島市城辺保良",
+        "sectionLevel": "h3",
+        "sectionTitle": "イムギャーマリンガーデン"
+      },
+      {
+        "description": "東平安名崎（ひがしへんなざき）の近くにあるビーチです。公園として整備されているので、設備も整っていて、遊びやすい環境です。また、保良泉の湧き水を利用したプールや、干潮時に楽しめる鍾乳洞の探検など、アクティビティがたくさんあります。いろいろな遊び方を一度に楽しみたい人はぜひ行ってみてください。",
+        "image": {
+          "alternateText": "新城海岸",
+          "height": 595,
+          "sourceUrl": "https://a.mktgcdn.com/p/9zusTRKu1Za21mie9i6s_YXICcIu3SCKO2OGvep7wPY/894x595.jpg",
+          "thumbnails": [
+            {
+              "height": 595,
+              "url": "https://a.mktgcdn.com/p-sandbox/AgWPc49wBClOqMFYtlph8JObzaCM2TdNGMBuI_g_KD8/894x595.jpg",
+              "width": 894
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/AgWPc49wBClOqMFYtlph8JObzaCM2TdNGMBuI_g_KD8/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/AgWPc49wBClOqMFYtlph8JObzaCM2TdNGMBuI_g_KD8/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/AgWPc49wBClOqMFYtlph8JObzaCM2TdNGMBuI_g_KD8/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AgWPc49wBClOqMFYtlph8JObzaCM2TdNGMBuI_g_KD8/894x595.jpg",
+          "width": 894
+        },
+        "infoBlockLabel": "吉野海岸の基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約30分住所：沖縄県宮古島市城辺吉野",
+        "sectionLevel": "h3",
+        "sectionTitle": "保良泉ビーチ"
+      },
+      {
+        "description": "吉野海岸は、東平安名崎の手前に位置しています。ビーチまでは急な坂道が続いているので、要注意です。波打ち際では、サンゴをすぐに発見できるほど、サンゴ礁が大接近しています。満潮になると、鮮やかな色合いの熱帯魚たちが、岩陰から出てくることもあります。 サンゴ礁で怪我する恐れがあるので、ウェットスーツやマリンシューズを着用して遊びに行きましょう。",
+        "image": {
+          "alternateText": "伊良部大橋",
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/-Yv1AkraHEOSfQ2LPjrz_gkCjJ0jbP3FG8CsETdFx9s/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/-Yv1AkraHEOSfQ2LPjrz_gkCjJ0jbP3FG8CsETdFx9s/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/-Yv1AkraHEOSfQ2LPjrz_gkCjJ0jbP3FG8CsETdFx9s/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/-Yv1AkraHEOSfQ2LPjrz_gkCjJ0jbP3FG8CsETdFx9s/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/-Yv1AkraHEOSfQ2LPjrz_gkCjJ0jbP3FG8CsETdFx9s/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-Yv1AkraHEOSfQ2LPjrz_gkCjJ0jbP3FG8CsETdFx9s/1536x1024.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "新城海岸の基本情報",
+        "infoBlockText": "アクセス：宮古空港から約30分住所：沖縄県宮古島市城辺新城",
+        "sectionLevel": "h3",
+        "sectionTitle": "吉野海岸"
+      },
+      {
+        "description": "宮古島の東側、吉野海岸の隣に位置する新城（あらぐすく）海岸です。移動販売の売店などもあるため、食事もビーチで楽しめます。宮古島は夏になると南風になりますが、ここは南風の影響を受けにくい立地のため、波が立ちにくく、海面が鏡のような状態になることも 。 年に1〜2日ほど、雲が海面に映ることもあります。絶景を見に、ぜひ訪れてみてはいかがでしょうか。",
+        "image": {
+          "alternateText": "通り池",
+          "height": 522,
+          "sourceUrl": "https://a.mktgcdn.com/p/dWR_sY-AuvExPVr7UX9SSdwcoLW5ygI5cGLMNmuNAw0/800x522.jpg",
+          "thumbnails": [
+            {
+              "height": 522,
+              "url": "https://a.mktgcdn.com/p-sandbox/dWR_sY-AuvExPVr7UX9SSdwcoLW5ygI5cGLMNmuNAw0/800x522.jpg",
+              "width": 800
+            },
+            {
+              "height": 404,
+              "url": "https://a.mktgcdn.com/p-sandbox/dWR_sY-AuvExPVr7UX9SSdwcoLW5ygI5cGLMNmuNAw0/619x404.jpg",
+              "width": 619
+            },
+            {
+              "height": 392,
+              "url": "https://a.mktgcdn.com/p-sandbox/dWR_sY-AuvExPVr7UX9SSdwcoLW5ygI5cGLMNmuNAw0/600x392.jpg",
+              "width": 600
+            },
+            {
+              "height": 128,
+              "url": "https://a.mktgcdn.com/p-sandbox/dWR_sY-AuvExPVr7UX9SSdwcoLW5ygI5cGLMNmuNAw0/196x128.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dWR_sY-AuvExPVr7UX9SSdwcoLW5ygI5cGLMNmuNAw0/800x522.jpg",
+          "width": 800
+        },
+        "infoBlockLabel": "伊良部大橋の基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約15分住所：沖縄県宮古島市平良",
+        "sectionLevel": "h3",
+        "sectionTitle": "新城海岸"
+      },
+      {
+        "description": "宮古群島には自然が造り作り出した景勝地がたくさんあります。その美しさは、写真の加工をしなくても伝わるほど！島から島へと架かる橋を渡り、極上の景色を体感しに車を走らせましょう。",
+        "image": {
+          "alternateText": "青の洞窟",
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/Th9ljLYbU-nlG_XP9E4Sj5ZyXJVzIvI2MtCbpOj1tFM/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/Th9ljLYbU-nlG_XP9E4Sj5ZyXJVzIvI2MtCbpOj1tFM/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/Th9ljLYbU-nlG_XP9E4Sj5ZyXJVzIvI2MtCbpOj1tFM/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Th9ljLYbU-nlG_XP9E4Sj5ZyXJVzIvI2MtCbpOj1tFM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Th9ljLYbU-nlG_XP9E4Sj5ZyXJVzIvI2MtCbpOj1tFM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Th9ljLYbU-nlG_XP9E4Sj5ZyXJVzIvI2MtCbpOj1tFM/800x533.jpg",
+          "width": 800
+        },
+        "infoBlockLabel": "通り池の基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約45分住所：沖縄県宮古島市伊良部佐和田",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．話題の大橋や青の洞窟も！宮古島の絶景スポット10選"
+      },
+      {
+        "description": "伊良部大橋は、宮古島と伊良部島を結ぶ全長3,540mの大橋です。無料で渡れる日本一長い橋です。船舶の往来のため、橋の中央部が高く緩やかなアーチを描く姿が特徴的です。橋のふもとにある「長山の浜」からは、大橋を下から見ることができます。橋を渡りきった後は車を止めて、浜に降り、今まで通ってきた道のりを振り返ってみてください。そのスケール感に圧倒されます！",
+        "image": {
+          "alternateText": "パンプキン鍾乳洞",
+          "height": 534,
+          "sourceUrl": "https://a.mktgcdn.com/p/ynWBgUPwnSHJyk-v1WbRs5B8RuZQd7NOrzMvYeDPO7M/800x534.jpg",
+          "thumbnails": [
+            {
+              "height": 534,
+              "url": "https://a.mktgcdn.com/p-sandbox/IKoTE2iCWKn4z5s6BeuexATesVicgfqBktAZ-Sghl48/800x534.jpg",
+              "width": 800
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/IKoTE2iCWKn4z5s6BeuexATesVicgfqBktAZ-Sghl48/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/IKoTE2iCWKn4z5s6BeuexATesVicgfqBktAZ-Sghl48/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/IKoTE2iCWKn4z5s6BeuexATesVicgfqBktAZ-Sghl48/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/IKoTE2iCWKn4z5s6BeuexATesVicgfqBktAZ-Sghl48/800x534.jpg",
+          "width": 800
+        },
+        "infoBlockLabel": "青の洞窟の基本情報",
+        "infoBlockText": "アクセス：伊良部島から各種アクティビティツアーを利用住所：沖縄県宮古島市伊良部前里添",
+        "sectionLevel": "h3",
+        "sectionTitle": "伊良部大橋"
+      },
+      {
+        "description": "伊良部島の隣の下地島（しもじしま）に、自然の神秘を感じられる双子の池が存在します。この２つの池は、水中でつながっているだけでなく、海にも通じています。池を上から眺めるのも美しいのですが、人気なのは海中をダイブして、池の穴を潜り、水の色がブルーからグリーンに変化していく幻想的な光景を体感することです。ダイバーにとっても憧れの地となっています。",
+        "image": {
+          "alternateText": "来間大橋",
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/2MnySkQxEI_AZF-o9GMDfDH7BFCeGG_WRYEYlwtqod8/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/2MnySkQxEI_AZF-o9GMDfDH7BFCeGG_WRYEYlwtqod8/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/2MnySkQxEI_AZF-o9GMDfDH7BFCeGG_WRYEYlwtqod8/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/2MnySkQxEI_AZF-o9GMDfDH7BFCeGG_WRYEYlwtqod8/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/2MnySkQxEI_AZF-o9GMDfDH7BFCeGG_WRYEYlwtqod8/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2MnySkQxEI_AZF-o9GMDfDH7BFCeGG_WRYEYlwtqod8/1536x1152.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "パンプキン鍾乳洞の基本情報",
+        "infoBlockText": "アクセス：宮古島から各種アクティビティツアーを利用住所：沖縄県宮古島市城辺",
+        "sectionLevel": "h3",
+        "sectionTitle": "通り池"
+      },
+      {
+        "description": "沖縄の青の洞窟といえば、本島にある真栄田岬（まえだみさき）が有名ですが、実は伊良部島にも存在します。洞窟の中は暗く視界が悪いですが、入り口を振り返って見てみると、青い光に包まれた美しい世界を目にすることができます。洞窟までは、ダイビングやシュノーケリングで行くことができます。洞窟の入り口がわかりづらいため、ツアーの利用を検討してみてください。",
+        "image": {
+          "alternateText": "竜宮城展望台",
+          "height": 534,
+          "sourceUrl": "https://a.mktgcdn.com/p/jW9J8roU5OyZLQkYdiLcuKq6bJxxhRUTF_0AbDnz7ts/800x534.jpg",
+          "thumbnails": [
+            {
+              "height": 534,
+              "url": "https://a.mktgcdn.com/p-sandbox/jW9J8roU5OyZLQkYdiLcuKq6bJxxhRUTF_0AbDnz7ts/800x534.jpg",
+              "width": 800
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/jW9J8roU5OyZLQkYdiLcuKq6bJxxhRUTF_0AbDnz7ts/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/jW9J8roU5OyZLQkYdiLcuKq6bJxxhRUTF_0AbDnz7ts/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/jW9J8roU5OyZLQkYdiLcuKq6bJxxhRUTF_0AbDnz7ts/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jW9J8roU5OyZLQkYdiLcuKq6bJxxhRUTF_0AbDnz7ts/800x534.jpg",
+          "width": 800
+        },
+        "infoBlockLabel": "来間大橋の基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約15分住所：沖縄県宮古島市下地",
+        "sectionLevel": "h3",
+        "sectionTitle": "青の洞窟"
+      },
+      {
+        "description": "保良泉ビーチの近くにある巨大な鍾乳石です。その形がかぼちゃに似ていることが名前の由来です。鍾乳石の上からダイブすると、願いごとが叶うと言われています。でも、あまりの高さに上に立つだけで精一杯になります。ぜひ勇気のある人はチャレンジしてみてください。洞窟へはカヤックなどでのツアーが催行されているので、そちらの利用がおすすめです。",
+        "image": {
+          "alternateText": "東平安名崎",
+          "height": 551,
+          "sourceUrl": "https://a.mktgcdn.com/p/QKXW9j1LbMiCFOgi17Zp02T5qyVSp-6VEVaZZt0VEZg/827x551.jpg",
+          "thumbnails": [
+            {
+              "height": 551,
+              "url": "https://a.mktgcdn.com/p-sandbox/HMCWYPK2zk0b6Ulpd75JBc8pIkMG3rm01jXB_LaSyuQ/827x551.jpg",
+              "width": 827
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/HMCWYPK2zk0b6Ulpd75JBc8pIkMG3rm01jXB_LaSyuQ/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/HMCWYPK2zk0b6Ulpd75JBc8pIkMG3rm01jXB_LaSyuQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/HMCWYPK2zk0b6Ulpd75JBc8pIkMG3rm01jXB_LaSyuQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HMCWYPK2zk0b6Ulpd75JBc8pIkMG3rm01jXB_LaSyuQ/827x551.jpg",
+          "width": 827
+        },
+        "infoBlockLabel": "竜宮城展望台の基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約25分住所：沖縄県宮古島市下地来間",
+        "sectionLevel": "h3",
+        "sectionTitle": "パンプキン鍾乳洞"
+      },
+      {
+        "description": "来間大橋は、橋から望むシービューが絶景と言われています。ぜひ歩道を歩いてみましょう。稀にウミガメやマンタを発見することもできるのだとか。島の途中には、スツール付きの展望台もあるので、ゆっくりひと休みもできます。欄干の外側には「黄昏シーサー」と呼ばれるシーサーがいます。沖縄の守り神と一緒に、宮古島の美しい風景を眺めましょう。",
+        "image": {
+          "alternateText": "島尻マングローブ",
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/2s_Dh283_rp3Z75oe0b0NCSJOafzf5aNRo3txyWiyCI/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/2s_Dh283_rp3Z75oe0b0NCSJOafzf5aNRo3txyWiyCI/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/2s_Dh283_rp3Z75oe0b0NCSJOafzf5aNRo3txyWiyCI/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/2s_Dh283_rp3Z75oe0b0NCSJOafzf5aNRo3txyWiyCI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/2s_Dh283_rp3Z75oe0b0NCSJOafzf5aNRo3txyWiyCI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2s_Dh283_rp3Z75oe0b0NCSJOafzf5aNRo3txyWiyCI/800x533.jpg",
+          "width": 800
+        },
+        "infoBlockLabel": "東平安名崎の基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約35分住所：沖縄県宮古島市城辺保良",
+        "sectionLevel": "h3",
+        "sectionTitle": "来間大橋"
+      },
+      {
+        "description": "サトウキビ畑が広がりのどかな雰囲気が漂う来間島には、竜宮城をイメージした展望台があります。３階建ての展望台からは、来間島内だけでなく、宮古島や「東洋一」とうたわれる与那覇前浜の美しい海まで、一望することができます。近くには、みやげ店やカフェもあるので、観光のひと休みにぜひ立ち寄ってみてください。",
+        "image": {
+          "alternateText": "西平安名崎",
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/PZVPBu4V4yKw1zUaIjx_HHAz9gjpMiOh9c-0qhXG44w/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/PZVPBu4V4yKw1zUaIjx_HHAz9gjpMiOh9c-0qhXG44w/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/PZVPBu4V4yKw1zUaIjx_HHAz9gjpMiOh9c-0qhXG44w/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/PZVPBu4V4yKw1zUaIjx_HHAz9gjpMiOh9c-0qhXG44w/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/PZVPBu4V4yKw1zUaIjx_HHAz9gjpMiOh9c-0qhXG44w/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PZVPBu4V4yKw1zUaIjx_HHAz9gjpMiOh9c-0qhXG44w/1536x1024.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "島尻マングローブの基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約20分住所：沖縄県宮古島市平良島尻",
+        "sectionLevel": "h3",
+        "sectionTitle": "竜宮城展望台"
+      },
+      {
+        "description": "東平安名崎（ひがしへんなざき）は宮古島の最東端に位置しています。淀みのない青い海を突き抜けるように、約2kmにもわたって細長い緑の岬が延びています。波と風の音を聞きながら、先端に立つ白い灯台を目指して、舗道を歩きましょう。岬の先端に向かって歩くと、右は太平洋、左は東シナ海となるのだそうです。都会の喧騒を忘れて、雄大な自然を満喫しに訪れてみてはいかがでしょうか。",
+        "image": {
+          "alternateText": "池間大橋",
+          "height": 735,
+          "sourceUrl": "https://a.mktgcdn.com/p/5VRyRXBNsIk3LaqI4quRToqkcwNUqZlpnBOesSCosws/1102x735.jpg",
+          "thumbnails": [
+            {
+              "height": 735,
+              "url": "https://a.mktgcdn.com/p-sandbox/_LfjYdNtEfQXB-e7BjKUr92ES6elYOOVTSbR9d87lWw/1102x735.jpg",
+              "width": 1102
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/_LfjYdNtEfQXB-e7BjKUr92ES6elYOOVTSbR9d87lWw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/_LfjYdNtEfQXB-e7BjKUr92ES6elYOOVTSbR9d87lWw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/_LfjYdNtEfQXB-e7BjKUr92ES6elYOOVTSbR9d87lWw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_LfjYdNtEfQXB-e7BjKUr92ES6elYOOVTSbR9d87lWw/1102x735.jpg",
+          "width": 1102
+        },
+        "infoBlockLabel": "西平安名崎の基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約30分住所：沖縄県宮古島市平良狩俣",
+        "sectionLevel": "h3",
+        "sectionTitle": "東平安名崎"
+      },
+      {
+        "description": "宮古島には、亜熱帯の特性を持つ環境が広がっています。マングローブとは、亜熱帯地方の汽水域に生息している植物の総称です。マングローブは「海の森」とも呼ばれ、色鮮やかで豊富な種類のカニや飛び回る美しい蝶など、様々な生き物が生息しています。水辺の遊歩道を歩きながら、雄大な自然の空間を体感しに行きましょう。",
+        "image": {
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/DDgNDTxXTQ13L-xEn3xDrnAJnjTv2ZPgGf_QwMf7xaU/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/DDgNDTxXTQ13L-xEn3xDrnAJnjTv2ZPgGf_QwMf7xaU/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/DDgNDTxXTQ13L-xEn3xDrnAJnjTv2ZPgGf_QwMf7xaU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/DDgNDTxXTQ13L-xEn3xDrnAJnjTv2ZPgGf_QwMf7xaU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/DDgNDTxXTQ13L-xEn3xDrnAJnjTv2ZPgGf_QwMf7xaU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DDgNDTxXTQ13L-xEn3xDrnAJnjTv2ZPgGf_QwMf7xaU/1536x1025.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "池間大橋の基本情報",
+        "infoBlockText": "アクセス：宮古空港から車で約35分住所：沖縄県宮古島市平良",
+        "sectionLevel": "h3",
+        "sectionTitle": "島尻マングローブ"
+      },
+      {
+        "description": "宮古島の北に突き出るように細長く延びた岬が、西平安名崎（にしへんなざき）です。シンボルとなっているのは、一列に並んだ白い風車3基で、沖縄の爽やかな風を受け、くるくると回る姿が印象的です。白い散歩道を歩いていくと東屋が見つかります。そこで一服しながら、夕暮れ時を待っていると、劇的なサンセットに出合えるでしょう。穏やかな景色に心を癒されましょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "西平安名崎"
+      },
+      {
+        "description": "宮古島と池間島を結ぶ全長1,425mの橋が池間大橋です。池間大橋周辺で特に訪れたいのは、大潮の干潮時の浜辺です。白い砂浜が浮かび上がり、透き通った海水の水色とのグラデーションが絶景で、まるで天国のようだと言われています。タイミングが合った際には、車からの景色を楽しむだけでなく、砂浜を歩いて、幻想的な風景を堪能してみましょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "池間大橋"
+      },
+      {
+        "description": "宮古島には、都会では見ることのできない高い空と、コバルトブルーの海が待っています。マリンアクティビティを楽しむのも、パラソルの下でのんびりと景色を眺めるのもおすすめです。宮古島ならではの時間を過ごしてみてください。※2024年2月時点の情報です。内容は変更になることがあります。",
+        "sectionLevel": "h3",
+        "sectionTitle": "3．まとめ"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kokunai_0004"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2020-08-25",
+    "c_news_UpdateDate": "2024-05-02",
+    "c_news_ViewCount": "1995",
+    "c_news_ViewCount2of2": "1995",
+    "c_news_ViewCountNum": "1995",
+    "c_news_ViewCountNumForSorting": "84",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0015",
+    "name": "宮古島のおすすめ観光スポットと過ごし方20選！宮古ブルーを満喫",
+    "slug": "kokunai/okinawa/okinawa_all/news_web_kokunai_0015",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

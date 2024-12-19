@@ -1,0 +1,270 @@
+{
+  "$id": "ap_k_harada924_003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "地下2000mから湧く自家源泉は、約2万年前から少しずつ地下に蓄えられた地下水です。ナトリウムや塩素、カルシウムなどのイオンが豊富に含まれていて、美肌だけでなく神経痛や関節痛などにも効果があるといわれています。この「古代の湯」を楽しめるのが、湯屋街「湯の丸」。時間帯で男女入れ替え制の「紅葉の湯」と「椿の湯」があり、それぞれに内湯や露天風呂など7数種類ずつの浴槽があります。全部入ると14種類もの湯巡りを楽しめるというわけです。このほか、2つの貸切風呂もあるので、家族やグループでプライベート感たっぷりに湯浴みを楽しみたい方はこちらもおすすめです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/9QPS9il69Zo8t5NhPG0XkgxbAnxmvKMRCW3wKGjOq4Q/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/9QPS9il69Zo8t5NhPG0XkgxbAnxmvKMRCW3wKGjOq4Q/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/9QPS9il69Zo8t5NhPG0XkgxbAnxmvKMRCW3wKGjOq4Q/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/9QPS9il69Zo8t5NhPG0XkgxbAnxmvKMRCW3wKGjOq4Q/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/9QPS9il69Zo8t5NhPG0XkgxbAnxmvKMRCW3wKGjOq4Q/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9QPS9il69Zo8t5NhPG0XkgxbAnxmvKMRCW3wKGjOq4Q/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "萩に古くから伝わる土塀をイメージした土塀露天風呂",
+        "sectionTitle": "湯屋街「湯の丸」で14種の湯めぐりを満喫"
+      },
+      {
+        "description": "夕食は、萩周辺でとれる山、海、野の旬素材を使った会席料理。2つの基本会席のほか、季節の会席もたくさん用意されています。秋から冬にかけては、日本海の海の幸がおいしい季節。名物・ふくをはじめとする新鮮な魚介類が会席料理を彩ります。「秋冬味覚気候」と題された夕食では、黒毛和牛や、とらふく白子鍋、あんこう鍋、ふく葱巻きなど、高級食材を惜しげもなく使った会席を選べます。「とらふくフルコース」や「ふくつくし会席」など、ふくにこだわったプランもあります。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/qHeAHipoR30hXpGXvdzKV1OQ3UkddwFPR2VWyvlNNRc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/qHeAHipoR30hXpGXvdzKV1OQ3UkddwFPR2VWyvlNNRc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/qHeAHipoR30hXpGXvdzKV1OQ3UkddwFPR2VWyvlNNRc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/qHeAHipoR30hXpGXvdzKV1OQ3UkddwFPR2VWyvlNNRc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/qHeAHipoR30hXpGXvdzKV1OQ3UkddwFPR2VWyvlNNRc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qHeAHipoR30hXpGXvdzKV1OQ3UkddwFPR2VWyvlNNRc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「とらふく30枚付き味わい会席」でふく料理を堪能",
+        "sectionTitle": "食材の宝庫・萩の旬を、繊細な会席料理で"
+      },
+      {
+        "description": "館内には和室や洋室、和洋室など、スタイルや広さが異なる様々なお部屋があります。市内側と山側にお部屋が並びますが、おすすめなのは市内側。特に上層階のお部屋からは、城下町の街並みの向こうに日本海という、贅沢な眺めを楽しめます。自分へのご褒美なら、本丸最上階8階「萩晴れフロア」にある特別和洋室はいかがでしょうか。4タイプのお部屋はすべて市内側にあり、萩市内の眺望が抜群です。展望風呂や半露天風呂付なので、お部屋で過ごす時間をよりいっそう楽しめます。また、萩晴れフロアには、和風モダンなインテリアでまとめられた次世代のコンセプトルームも。地元の写真家による萩の風景がモノトーンで飾られており、スタイリッシュなひとときを過ごせます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/WgqLdAE1Q4Y2fNisnxmzS19FeJRzgA0zvJnzdqEK30M/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/WgqLdAE1Q4Y2fNisnxmzS19FeJRzgA0zvJnzdqEK30M/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/WgqLdAE1Q4Y2fNisnxmzS19FeJRzgA0zvJnzdqEK30M/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/WgqLdAE1Q4Y2fNisnxmzS19FeJRzgA0zvJnzdqEK30M/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/WgqLdAE1Q4Y2fNisnxmzS19FeJRzgA0zvJnzdqEK30M/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WgqLdAE1Q4Y2fNisnxmzS19FeJRzgA0zvJnzdqEK30M/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "本丸最上階8階にある展望風呂付和洋室「綴」",
+        "sectionTitle": "上層階からの眺望もお楽しみ。多彩な客室でくつろぎのひとときを"
+      },
+      {
+        "description": "宿は標高172mの吾妻山の中腹にあり、滞在中にぜひ足を運んでいただきたいのが、その山頂にある奥萩展望台です。宿の敷地内にあるこの展望台へは、SL型シャトルバスが案内してくれます。片道8分ほどかけて上った後には、360度の眺望が待っています。昼の眺望のすばらしさはもちろん、夕景や夜景もロマンチック。展望台には足湯もあるので、足下を温めながら、萩の絶景を満喫してみてはいかがでしょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/8xFALNDjqmFGl2rXGOugd9zoSXVujxBVSl4PTyFGA4k/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/8xFALNDjqmFGl2rXGOugd9zoSXVujxBVSl4PTyFGA4k/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/8xFALNDjqmFGl2rXGOugd9zoSXVujxBVSl4PTyFGA4k/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/8xFALNDjqmFGl2rXGOugd9zoSXVujxBVSl4PTyFGA4k/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/8xFALNDjqmFGl2rXGOugd9zoSXVujxBVSl4PTyFGA4k/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8xFALNDjqmFGl2rXGOugd9zoSXVujxBVSl4PTyFGA4k/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "奥萩展望台にある展望足湯からの眺望。夕景がおすすめ",
+        "sectionTitle": "山頂から眺める城下町と日本海のパノラマに感動"
+      },
+      {
+        "description": "----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2021-12-11",
+    "c_ap_HeroImage": {
+      "alternateText": "城下町・萩の風情漂う湯宿で、名物ふく三昧【山口 萩本陣】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 899,
+      "sourceUrl": "https://a.mktgcdn.com/p/nDF3lV4wh9xYk9hxc7jfy8nkVRH_iQP1x0r7KeLWWe4/1200x899.jpg",
+      "thumbnails": [
+        {
+          "height": 899,
+          "url": "https://a.mktgcdn.com/p-sandbox/nDF3lV4wh9xYk9hxc7jfy8nkVRH_iQP1x0r7KeLWWe4/1200x899.jpg",
+          "width": 1200
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/nDF3lV4wh9xYk9hxc7jfy8nkVRH_iQP1x0r7KeLWWe4/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/nDF3lV4wh9xYk9hxc7jfy8nkVRH_iQP1x0r7KeLWWe4/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/nDF3lV4wh9xYk9hxc7jfy8nkVRH_iQP1x0r7KeLWWe4/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/nDF3lV4wh9xYk9hxc7jfy8nkVRH_iQP1x0r7KeLWWe4/1200x899.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "「萩本陣」は山の中腹に立つ",
+    "c_ap_LinkArticleSectionTitle": "山口県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "この記事の投稿者にリモート相談予約をする",
+        "uRL": "https://link.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNF1DN-qJBbQkBd"
+      },
+      {
+        "linkText": "萩本陣 のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/7233012/plan/"
+      },
+      {
+        "linkText": "山口県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/yamaguchi/"
+      },
+      {
+        "linkText": "山口旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/yamaguchi/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea5": [
+      "中国全般",
+      "山口県"
+    ],
+    "c_ap_ShortDescription": "毛利家の城下町として栄え、明治維新が始まった地としても知られる萩。吉田松陰ゆかりの「松下村塾」はじめ、数々の名所が点在する一角に「萩本陣」はあります。\n地下2000mから湧く自家源泉は、ナトリウムなどのイオン含有量が多く美肌の湯とも。湯屋街「湯の丸」では、館内にいながらにして14種の湯巡りを楽しめます。食事は、海、山、野の食材を贅沢に使った会席料理。四季折々の萩の旬を味分えます。山口ではふぐのことを「ふく」と呼びますが、冬は寒さで身が締まるまさに「ふく」の旬です。「ふく刺」「ふくちり」「ふく叩き」など、バリエーション豊かな冬の味覚が満載です。\n城下町を一望できる「奥萩展望台」までは、SL型シャトルバスによる送迎サービス（有料）も。足湯に浸かりながら、歴史のまちの大パノラマを楽しめますよ。",
+    "c_ap_Tags": [
+      "ふく料理",
+      "萩",
+      "眺望"
+    ],
+    "c_ap_Theme": [
+      "自然・山",
+      "歴史・地理",
+      "ご当地グルメ",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "城下町・萩の風情漂う湯宿で、名物ふく三昧【山口 萩本陣】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "毛利家の城下町として栄え、明治維新が始まった地としても知られる萩。吉田松陰ゆかりの「松下村塾」はじめ、数々の名所が点在する一角に「萩本陣」はあります。\n地下2000mから湧く自家源泉は、ナトリウムなどのイオン…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "城下町・萩の風情漂う湯宿で、名物ふく三昧【山口 萩本陣】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_k_harada924_003",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "中国全般, 山口県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：中国全般, 山口県",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：中国全般, 山口県",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "城下町・萩の風情漂う湯宿で、名物ふく三昧【山口県　萩本陣】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

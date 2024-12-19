@@ -1,0 +1,294 @@
+{
+  "$id": "news_ap_osarea_0000032",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "工場跡地などが最新カルチャー発信地に 台北のおしゃれリノベスポットへ【台湾　台北】",
+      "height": 379,
+      "sourceUrl": "http://a.mktgcdn.com/p/Vs85uC_Dg-cy9mXfae_QGdlp6KWNp2wWZUEW3ioClXg/569x379.jpg",
+      "thumbnails": [
+        {
+          "height": 379,
+          "url": "//a.mktgcdn.com/p-sandbox/Vs85uC_Dg-cy9mXfae_QGdlp6KWNp2wWZUEW3ioClXg/569x379.jpg",
+          "width": 569
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/Vs85uC_Dg-cy9mXfae_QGdlp6KWNp2wWZUEW3ioClXg/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/Vs85uC_Dg-cy9mXfae_QGdlp6KWNp2wWZUEW3ioClXg/569x379.jpg",
+      "width": 569
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "台北旅行を探す",
+        "uRL": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_web_kaigai_0004"
+      },
+      {
+        "linkText": "台湾行航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/asia/taiwan/"
+      },
+      {
+        "linkText": "台湾行のツアーを探す",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dept\u003dTYO\u0026sc.dest%5B0%5D.country\u003dTW\u0026sc.dest%5B0%5D.city\u003dTPE"
+      },
+      {
+        "linkText": "台湾のホテルをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/?freeword\u003d%E5%8F%B0%E6%B9%BE\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d176"
+      },
+      {
+        "linkText": "台北の現地ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bTW/cTPE/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "近年台湾では、古い建物の価値を見直す「文化創意」のムーブメントが起きています。歴史的建造物を保存しつつ、現代的な要素を取り入れて再生。新進気鋭アーティストの作品を展示したり、カフェやショップがオープンしたりと人気のスポットになっています。(写真：松山文創園区)",
+    "c_ap_Tags": [
+      "台北",
+      "リノベスポット",
+      "最新カルチャー",
+      "松山文創園区",
+      "華山1914文創園区"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ",
+      "建築・史跡",
+      "街あるき",
+      "グルメ",
+      "ショッピング",
+      "カフェ"
+    ],
+    "c_ap_Title": "工場跡地などが最新カルチャー発信地に 台北のおしゃれリノベスポットへ【台湾】",
+    "c_linkedArea3News": [
+      "taiwan"
+    ],
+    "c_metaDescription": "近年台湾では、古い建物の価値を見直す「文化創意」のムーブメントが起きています。歴史的建造物を保存しつつ、現代的な要素を取り入れて再生。新進気鋭アーティストの作品を展示したり、カフェやショップがオープンしたりと人気のスポットになっています。(写真：松山文創園区)",
+    "c_metaTitle": "工場跡地などが最新カルチャー発信地に 台北のおしゃれリノベスポットへ【台湾】",
+    "c_news_CTAs": [
+      {
+        "label": "海外旅行専門デスクへの相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top-overseas-desk",
+        "linkType": "URL"
+      },
+      {
+        "label": "JTB店舗・専門店への相談はこちら",
+        "link": "https://stores.jtb.co.jp/index.html",
+        "linkType": "URL"
+      },
+      {
+        "label": "リモートでの旅行相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#consultants",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "台北の夜市で食べ歩きする",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000023",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "台北の観光情報をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000020",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "台北の穴場スポットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_web_kaigai_0002",
+          "linkType": "OTHER"
+        },
+        "cTA4": {
+          "label": "台北の3泊4日モデルコースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000050",
+          "linkType": "OTHER"
+        },
+        "description": "今ではすっかり洗練された雰囲気に包まれた「松山文創園区」は、1937年に建てられたたばこ工場の跡地です。広大な敷地には当時、倉庫として使われていた建物や託児所など、さまざまな建物が立ち並び、池や噴水、美しいバロック様式の庭園など都会の真ん中にありながら、自然を満喫できるスポットになっています。建物内には、次世代を担う若者のアート作品などを展示していて、新旧が融合したアーティスティックな空間が広がっています。",
+        "image": {
+          "alternateText": "MITのグッズが豊富に揃う「水水生活×松菸小売所」などのショップが入る",
+          "height": 293,
+          "sourceUrl": "https://a.mktgcdn.com/p/YfJaj1zIl6UnTibJ0lAeP9FkRvaoSe_Fd58IGJAOwxM/439x293.jpg",
+          "thumbnails": [
+            {
+              "height": 293,
+              "url": "https://a.mktgcdn.com/p-sandbox/YfJaj1zIl6UnTibJ0lAeP9FkRvaoSe_Fd58IGJAOwxM/439x293.jpg",
+              "width": 439
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/YfJaj1zIl6UnTibJ0lAeP9FkRvaoSe_Fd58IGJAOwxM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YfJaj1zIl6UnTibJ0lAeP9FkRvaoSe_Fd58IGJAOwxM/439x293.jpg",
+          "width": 439
+        },
+        "imageCaption": "MITのグッズが豊富に揃う「水水生活×松菸小売所」などのショップが入る",
+        "infoBlockLabel": "【松山文創園区（ソンシャンウェンチュアンユエンチュ―）】",
+        "infoBlockText": "アクセス：板南線市政府駅から徒歩７分住所：光復南路133號営業時間：9～18時（屋外8〜22時）定休日：なし 料金:入場無料（一部施設を除く）",
+        "sectionTitle": "松山文創園区（ソンシャンウェンチュアンユエンチュ―）"
+      },
+      {
+        "description": "日本統治時代の1914年建造の酒造工場を改築した台湾リノベブームの先駆け的施設です。アートイベントやライブ会場として使われるなど、台湾の若者文化の発信地となっています。カフェやレストランも当時の建物を利用した空間にあり、フォトスポットにも事欠きません。",
+        "image": {
+          "alternateText": "建物は、細部までなるべく当時のものを保存。古い木材や屋根瓦まで現代風にアレンジして再利用されている(画像提供元：台灣文創發展有限公司)",
+          "height": 4151,
+          "sourceUrl": "https://a.mktgcdn.com/p/j5NHHH6l5ZWZ59Vz7t3gWRplESq6l8g9BwCLsVQQzbg/6226x4151.jpg",
+          "thumbnails": [
+            {
+              "height": 4151,
+              "url": "https://a.mktgcdn.com/p-sandbox/j5NHHH6l5ZWZ59Vz7t3gWRplESq6l8g9BwCLsVQQzbg/6226x4151.jpg",
+              "width": 6226
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/j5NHHH6l5ZWZ59Vz7t3gWRplESq6l8g9BwCLsVQQzbg/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/j5NHHH6l5ZWZ59Vz7t3gWRplESq6l8g9BwCLsVQQzbg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/j5NHHH6l5ZWZ59Vz7t3gWRplESq6l8g9BwCLsVQQzbg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/j5NHHH6l5ZWZ59Vz7t3gWRplESq6l8g9BwCLsVQQzbg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/j5NHHH6l5ZWZ59Vz7t3gWRplESq6l8g9BwCLsVQQzbg/6226x4151.jpg",
+          "width": 6226
+        },
+        "imageCaption": "建物は、細部までなるべく当時のものを保存。古い木材や屋根瓦まで現代風にアレンジして再利用されている(画像提供元：台灣文創發展有限公司)",
+        "infoBlockLabel": "【華山1914文創園区（ホアシャンイーチウイース―ウェンチュアンユエンチュー）】",
+        "infoBlockText": "アクセス：中和新蘆線・板南線忠孝新生駅から徒歩5分住所：八德路一段１號営業時間：店舗により異なる定休日：なし",
+        "sectionTitle": "華山1914文創園区（ホアシャンイーチウイース―ウェンチュアンユエンチュー）"
+      },
+      {
+        "description": "もとは、戦後に中国大陸から渡ってきた軍人とその家族が暮らすために作られた「眷村」の一つで、この一角は眷村の文化、歴史を伝えるため保存されました。敷地内の「眷村文物館」には、当時の家具などが展示され、人々の生活をうかがい知ることができます。現在は、カフェや雑貨を扱うショップなどが入居する複合施設として賑わっています。",
+        "image": {
+          "alternateText": "近代的なビルが立ち並ぶ地域に、ここだけ時間が止まったようなどこか懐かしさを感じる四四南村の集合住宅",
+          "height": 291,
+          "sourceUrl": "https://a.mktgcdn.com/p/OOxIWq3zvm_Ak9PGaje2xd5NoeTBhslb11F3sOOYp28/437x291.jpg",
+          "thumbnails": [
+            {
+              "height": 291,
+              "url": "https://a.mktgcdn.com/p-sandbox/OOxIWq3zvm_Ak9PGaje2xd5NoeTBhslb11F3sOOYp28/437x291.jpg",
+              "width": 437
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/OOxIWq3zvm_Ak9PGaje2xd5NoeTBhslb11F3sOOYp28/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OOxIWq3zvm_Ak9PGaje2xd5NoeTBhslb11F3sOOYp28/437x291.jpg",
+          "width": 437
+        },
+        "imageCaption": "近代的なビルが立ち並ぶ地域に、ここだけ時間が止まったようなどこか懐かしさを感じる四四南村の集合住宅",
+        "infoBlockLabel": "【四四南村（スースーナンツン）】",
+        "infoBlockText": "アクセス：淡水信義線台北101/世貿駅から徒歩3分住所：松勤街50號  営業時間：店舗により異なる定休日：施設により異なる",
+        "sectionTitle": "四四南村（スースーナンツン）"
+      },
+      {
+        "description": "「静心苑」は、日本統治時代に建てられた松山療養所所長宿舎と職員宿舎を改修した施設です。建物は、昭和初期に流行していた和洋折衷様式で、下見板張り（よろい張り）や二重梁など建物の構造も文化的に貴重なもの。館内には展示施設やカフェが入っています。靴を脱いで入苑するので、靴下を忘れないよう気をつけましょう。",
+        "image": {
+          "alternateText": "旧職員宿舎(2館)。建物細部の装飾も必見",
+          "height": 1984,
+          "sourceUrl": "https://a.mktgcdn.com/p/wsyk_sU8hI9jUsaBpYzj8qOQkmdVZSAT4D49-wcrNsQ/2976x1984.jpg",
+          "thumbnails": [
+            {
+              "height": 1984,
+              "url": "https://a.mktgcdn.com/p-sandbox/wsyk_sU8hI9jUsaBpYzj8qOQkmdVZSAT4D49-wcrNsQ/2976x1984.jpg",
+              "width": 2976
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/wsyk_sU8hI9jUsaBpYzj8qOQkmdVZSAT4D49-wcrNsQ/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/wsyk_sU8hI9jUsaBpYzj8qOQkmdVZSAT4D49-wcrNsQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/wsyk_sU8hI9jUsaBpYzj8qOQkmdVZSAT4D49-wcrNsQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/wsyk_sU8hI9jUsaBpYzj8qOQkmdVZSAT4D49-wcrNsQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wsyk_sU8hI9jUsaBpYzj8qOQkmdVZSAT4D49-wcrNsQ/2976x1984.jpg",
+          "width": 2976
+        },
+        "imageCaption": "旧職員宿舎(2館)。建物細部の装飾も必見",
+        "infoBlockLabel": "【静心苑（チンシンユエン）】",
+        "infoBlockText": "アクセス：板南線昆陽駅から徒歩3分住所：昆陽街164號/185號   営業時間：11～21時（2号館は13～17時）定休日：火曜 料金:入場無料",
+        "sectionTitle": "静心苑（チンシンユエン）"
+      },
+      {
+        "imageCaption": "※2023年3月末時点の情報です。営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000020",
+      "news_ap_osarea_0000021",
+      "news_ap_osarea_0000022",
+      "news_ap_osarea_0000023",
+      "news_ap_osarea_0000024",
+      "news_ap_osarea_0000025",
+      "news_ap_osarea_0000026",
+      "news_ap_osarea_0000027",
+      "news_ap_osarea_0000028",
+      "news_ap_osarea_0000029",
+      "news_ap_osarea_0000030",
+      "news_ap_osarea_0000031",
+      "news_ap_osarea_0000050",
+      "news_ap_osarea_0000033",
+      "news_ap_osarea_0000034",
+      "news_ap_osarea_0000035",
+      "news_ap_osarea_0000036",
+      "news_ap_osarea_0000037",
+      "news_ap_osarea_0000038",
+      "news_ap_osarea_0000039",
+      "news_ap_osarea_0000040"
+    ],
+    "c_news_FeaturedArticlesTitle": "台湾のその他の投稿記事",
+    "c_news_PublicationDate": "2023-05-01",
+    "c_news_UpdateDate": "2023-05-01",
+    "c_news_ViewCount": "472",
+    "c_news_ViewCount1of2": "2",
+    "c_news_ViewCount2of2": "472",
+    "c_news_ViewCountNum": "472",
+    "c_news_ViewCountNumForSorting": "32",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000032",
+    "name": "工場跡地などが最新カルチャー発信地に 台北のおしゃれリノベスポットへ【台湾】",
+    "slug": "kaigai/asia/taiwan/news_ap_osarea_0000032",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

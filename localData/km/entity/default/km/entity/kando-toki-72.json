@@ -1,0 +1,39 @@
+{
+  "$id": "kando-toki-72",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/72_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d32.631666%2C130.256356",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "長崎県",
+    "c_searchTags": [
+      "長崎県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "海・湖・川・滝",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "春から夏にかけて現れる、有明海・原城跡沖にぽっかりと浮かんだ浅瀬。その正体は、世界でも島原を含めて３ヶ所でしか見ることができないとても貴重な景色です。金平糖のような形の石灰藻が集まってできた白洲を歩くと、まるで海の真ん中を渡っているような気分を味わえます。\n背景\n「リソサムニューム」とは金平糖に似た塊を作る被覆性石灰藻（＝植物）のことで、時にはサンゴのような大きな塊も作ります。つぶてなどを覆うように着生した無数の石灰藻が群生した場所は「リソサムニューム」と呼ばれています。この石灰藻は薄紅色の藻でありながら、石灰質を藻の全体または組織に含んでいるため、遺骸となったり長時間空気に触れることで、美しい純白に変化します。春から夏にかけて姿を見せる島原のリソサムニュームは、その白く美しい姿から、地元では「白州の真砂」と呼ばれています。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/72.asp",
+    "name": "島原半島ジオパークに現れるリソサムニューム礁「白洲」"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

@@ -1,0 +1,85 @@
+{
+  "$id": "cp_10202026",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "京都府",
+    "c_cp_CTA1": {
+      "label": "垣坂 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVqrBG",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBd_q",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "素敵なご旅行になりますよう精一杯お手伝いさせて頂きますのでよろしくお願い致します！\nたくさんの方とお話出来る事を楽しみにしております♪",
+    "c_cp_DisplayName": "垣坂",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "母娘旅",
+      "夫婦旅",
+      "テーマパーク",
+      "街あるき",
+      "ドライブ"
+    ],
+    "c_cp_HiraganaName": "かきさか",
+    "c_cp_JobTitle": "JTB京都伏見店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 1082,
+      "sourceUrl": "https://a.mktgcdn.com/p/wCzYfC7rjwWptLRwWxXG8pVcOJeWqFVNk2qeoi3OMxk/940x1082.jpg",
+      "thumbnails": [
+        {
+          "height": 1082,
+          "url": "https://a.mktgcdn.com/p-sandbox/wCzYfC7rjwWptLRwWxXG8pVcOJeWqFVNk2qeoi3OMxk/940x1082.jpg",
+          "width": 940
+        },
+        {
+          "height": 713,
+          "url": "https://a.mktgcdn.com/p-sandbox/wCzYfC7rjwWptLRwWxXG8pVcOJeWqFVNk2qeoi3OMxk/619x713.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/wCzYfC7rjwWptLRwWxXG8pVcOJeWqFVNk2qeoi3OMxk/391x450.jpg",
+          "width": 391
+        },
+        {
+          "height": 226,
+          "url": "https://a.mktgcdn.com/p-sandbox/wCzYfC7rjwWptLRwWxXG8pVcOJeWqFVNk2qeoi3OMxk/196x226.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/wCzYfC7rjwWptLRwWxXG8pVcOJeWqFVNk2qeoi3OMxk/940x1082.jpg",
+      "width": 940
+    },
+    "c_cp_StrongLocalArea1": [
+      "山形県"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "石川県",
+      "福井県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "近畿全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 垣坂",
+    "c_metaTitle": "JTBトラベルコンサルタント | 垣坂",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_10202026",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2024/04/01　JBX対応（リテール外転出）",
+    "name": "かきさか _10202026",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

@@ -1,0 +1,247 @@
+{
+  "$id": "ap_s_murai092_006",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "由布院温泉は、湯平や塚原、庄内、挟間の5つの温泉地とともに、国民保養温泉地「湯布院温泉郷」として環境省に指定されている温泉です。温泉郷を代表する温泉で、JR由布院駅から金鱗湖に至る由布見通り・湯の坪街道を中心に、大小様々なお宿や個性的なショップ、観光スポットなどが点在します。温泉は、単純温泉をメインに約900もの源泉があり、湧出量ともに日本屈指。“自然と調和した温泉地”を謳うだけに、こちらのお宿のように、豊かな緑の中に点在するお宿はどこも洗練されたハイソな雰囲気が漂います。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/S7PZeQ7Ps4eXbtXfkbKFkwD1Z5tZ_KE69BjCMoGYztk/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/S7PZeQ7Ps4eXbtXfkbKFkwD1Z5tZ_KE69BjCMoGYztk/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/S7PZeQ7Ps4eXbtXfkbKFkwD1Z5tZ_KE69BjCMoGYztk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/S7PZeQ7Ps4eXbtXfkbKFkwD1Z5tZ_KE69BjCMoGYztk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/S7PZeQ7Ps4eXbtXfkbKFkwD1Z5tZ_KE69BjCMoGYztk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/S7PZeQ7Ps4eXbtXfkbKFkwD1Z5tZ_KE69BjCMoGYztk/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "シンプルモダンなベッドを備えた本館和洋室",
+        "sectionTitle": "湯量豊富な温泉は源泉数も全国屈指、「由布院温泉」は宿も自慢"
+      },
+      {
+        "description": "ロビー棟に繋がる本館宿泊棟14室と、離れ客室棟エリアに一戸建て12棟12室。本館の客室は、広々とした二間続きの和室とベッドを備えた和洋室の2タイプ。和の寛ぎが感じられるセンスのよいお部屋です。離れは全部が和洋室で、お風呂のないお部屋と、露天風呂と半露天風呂付きのお部屋の2タイプがあります。お風呂付きのお部屋にある檜の香りが漂う半露天風呂も、緑に囲まれた露天風呂ももちろん温泉で、贅沢なプライベート入浴が楽しめます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/HUKvZRddYBYwCAy_a1SU7HqJg6MkPmyI0krQjpJtPdg/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/HUKvZRddYBYwCAy_a1SU7HqJg6MkPmyI0krQjpJtPdg/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/HUKvZRddYBYwCAy_a1SU7HqJg6MkPmyI0krQjpJtPdg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/HUKvZRddYBYwCAy_a1SU7HqJg6MkPmyI0krQjpJtPdg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/HUKvZRddYBYwCAy_a1SU7HqJg6MkPmyI0krQjpJtPdg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HUKvZRddYBYwCAy_a1SU7HqJg6MkPmyI0krQjpJtPdg/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "由布岳を眺めて湯浴みを楽しめる露天風呂",
+        "sectionTitle": "心地よく過ごせる客室は、由布の緑の中に佇む離れが人気"
+      },
+      {
+        "description": "自慢の温泉は自家源泉の単純温泉。メタケイ酸を含んだ「美人の湯」です。源泉温度が70度ほどあるので加水をしていますが、掛け流しのフレッシュな温泉です。2021年リニューアルの大露天風呂「天心の大湯」は、壮大に聳え立つ由布岳を目の前にした岩露天風呂で、その景色はまさに圧巻。特に、夕暮れ時の由布岳の景観は本当に幻想的。半露天風呂の岩風呂や、檜の香りが満ちた屋内の檜風呂もあり、男女とも同じ造りでゆっくりと温泉浴が楽しめます。2棟ある貸切家族風呂は利用無料で、その広さは貸切風呂とは思えないほど。バリアフリー対応で、脱衣所にはベビーベッドも備えられているので三世代で一緒にどうぞ。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/dPRTfQs49KIyMkneSzPaY5sJ2c3ienvNwyFQc-ciedM/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/dPRTfQs49KIyMkneSzPaY5sJ2c3ienvNwyFQc-ciedM/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/dPRTfQs49KIyMkneSzPaY5sJ2c3ienvNwyFQc-ciedM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/dPRTfQs49KIyMkneSzPaY5sJ2c3ienvNwyFQc-ciedM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/dPRTfQs49KIyMkneSzPaY5sJ2c3ienvNwyFQc-ciedM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dPRTfQs49KIyMkneSzPaY5sJ2c3ienvNwyFQc-ciedM/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "冠地どりや豊後牛が味わえる邂逅会席（イメージ）",
+        "sectionTitle": "眺望抜群の露天風呂、檜の香りの内湯、美肌の湯にとっぷりと"
+      },
+      {
+        "description": "お食事は、敷地内に湧き出る「黒鉄水源」と「馬場水源」の2つの名水を使って調理したお料理を、個室の食事処でゆっくりと。地元の山の幸をはじめ、柔らかく旨みのある「おおいた冠地どり」や風味豊かで霜降りの「おおいた豊後牛」など、大分ならではのこだわりの食材を使った創作和会席です。プランによっては、めぐり逢いを大切にしたいという想いのこもった「邂逅会席」をご用意。季節ごとに旬の素材を使っているので、食事でも季節を楽しめます。和食の朝食は、地元の食材をメインに、品数が多くバランスのとれたメニュー内容。朝から元気に活動できようにという心遣いがうれしいですね。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai_hotel/htl/8413032/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "sectionTitle": "お客様との邂逅に思いを寄せて創り上げた和の会席を味わう"
+      },
+      {
+        "description": "----------------------------------------------※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-03-06",
+    "c_ap_HeroImage": {
+      "alternateText": "秀麗な由布岳を一望する大露天風呂、自慢の温泉が心を潤す【大分県　由布院 梅園 GARDEN RESORT】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/zdRdhh6GcatgL8ooWtEtLjuFkD_X8U2zf3ecWKz3IwY/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/zdRdhh6GcatgL8ooWtEtLjuFkD_X8U2zf3ecWKz3IwY/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/zdRdhh6GcatgL8ooWtEtLjuFkD_X8U2zf3ecWKz3IwY/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/zdRdhh6GcatgL8ooWtEtLjuFkD_X8U2zf3ecWKz3IwY/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/zdRdhh6GcatgL8ooWtEtLjuFkD_X8U2zf3ecWKz3IwY/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/zdRdhh6GcatgL8ooWtEtLjuFkD_X8U2zf3ecWKz3IwY/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "由布岳の麓、紅葉に包まれるハイセンスな温泉宿",
+    "c_ap_LinkArticleSectionTitle": "大分県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "由布院 梅園 GARDEN RESORT のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/8413032/plan/"
+      },
+      {
+        "linkText": "湯布院のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/4408/"
+      },
+      {
+        "linkText": "大分旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/oita/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea6": [
+      "九州全般",
+      "大分県"
+    ],
+    "c_ap_ShortDescription": "「豊後富士」の愛称で親しまれる標高1583mの秀麗な由布岳。「由布院 梅園 GARDEN RESORT」（旧：名苑と名水の宿 梅園）は、その由布岳南西麓に位置する由布院温泉のお宿の一つです。\n2021年にリニューアルオープンしたお宿では、温かいスタッフの笑顔に迎えられ、本館ロビーの木の優しい温もりにホッとひと息。約1万坪の敷地の半分を占める庭園の散策では、春には桜にウグイスの声、秋には紅に染まる木々の紅葉と、四季折々の自然に包まれて心がほどけて行くようです。雄大な由布岳を眺めての湯浴み、滋味に富んだ食材のお料理は味わいひとしおです。由布院に流れるゆったりとした時の流れの中で、“心も体も潤う”。そんな旅をこのお宿でどうぞ。",
+    "c_ap_Tags": [
+      "湯布院",
+      "由布岳",
+      "離れ",
+      "会席料理"
+    ],
+    "c_ap_Theme": [
+      "自然・山",
+      "ご当地グルメ",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "秀麗な由布岳を一望する大露天風呂、自慢の温泉が心を潤す【大分県　由布院 梅園 GARDEN RESORT】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "「豊後富士」の愛称で親しまれる標高1583mの秀麗な由布岳。「由布院 梅園 GARDEN RESORT」（旧：名苑と名水の宿 梅園）は、その由布岳南西麓に位置する由布院温泉のお宿の一つです。\n2021年にリニ…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "秀麗な由布岳を一望する大露天風呂、自慢の温泉が心を潤す【大分県　由布院 梅園 GARDEN RESORT】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_s_murai092_006",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "九州全般, 大分県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：九州全般, 大分県",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：九州全般, 大分県",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "秀麗な由布岳を一望する大露天風呂、自慢の温泉が心を潤す【大分県　由布院 梅園 GARDEN RESORT】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

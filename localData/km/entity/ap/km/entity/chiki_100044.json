@@ -1,0 +1,242 @@
+{
+  "$id": "ap_chiki_100044",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター 北陸仕入担当"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "料理旅館の名を冠するとおり、「加賀屋」の味を引き継ぐ洗練された加賀料理が自慢。そのときどきの四季の素材にこだわり、一品一品に真心が込められた創作割烹料理を満喫できます。「加賀屋」の名を全国に知らしめた伝統を受け継ぐ料理の数々を、心ゆくまで堪能してください。夕食はスタンダードな会席料理プランや、旬の味を凝縮した季節限定のプランなど。そのほか、一品料理も豊富です。のど黒、甘エビ、加賀野菜など、金沢の山海の旬をお好きなだけ味わってくださいね。",
+        "image": {
+          "height": 927,
+          "sourceUrl": "https://a.mktgcdn.com/p/iEc3gLID-NGUEhMw_uZHmCy4HO0s2Y_RHrcIo3rDcEU/1200x927.jpg",
+          "thumbnails": [
+            {
+              "height": 927,
+              "url": "https://a.mktgcdn.com/p-sandbox/iEc3gLID-NGUEhMw_uZHmCy4HO0s2Y_RHrcIo3rDcEU/1200x927.jpg",
+              "width": 1200
+            },
+            {
+              "height": 478,
+              "url": "https://a.mktgcdn.com/p-sandbox/iEc3gLID-NGUEhMw_uZHmCy4HO0s2Y_RHrcIo3rDcEU/619x478.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/iEc3gLID-NGUEhMw_uZHmCy4HO0s2Y_RHrcIo3rDcEU/583x450.jpg",
+              "width": 583
+            },
+            {
+              "height": 151,
+              "url": "https://a.mktgcdn.com/p-sandbox/iEc3gLID-NGUEhMw_uZHmCy4HO0s2Y_RHrcIo3rDcEU/196x151.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iEc3gLID-NGUEhMw_uZHmCy4HO0s2Y_RHrcIo3rDcEU/1200x927.jpg",
+          "width": 1200
+        },
+        "imageCaption": "素材の味を活かした旬の会席料理",
+        "sectionTitle": "受け継がれる加賀屋の味。美味を追求する料理人の真心がここに"
+      },
+      {
+        "description": "本館には、古きよき金沢の“和”にこだわった純和風のお部屋が18室。8畳から12.5畳の広さがあり、定員は2名から4名まで。格子や畳など、和の伝統文化を感じながらゆったりと滞在できます。記念日や誕生日などの特別な日なら、別館にある特別室「竹園」はいかがでしょうか。本間15畳とツインベッドルームがあり、和の風情と洋の機能性を兼ね備えた上品なお部屋です。わずか1室だけなので、早めの予約がおすすめです。",
+        "image": {
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/t1mDCuZOPwOebFpKAyKzudGcvCJxx3kzHor6l23y1GU/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/t1mDCuZOPwOebFpKAyKzudGcvCJxx3kzHor6l23y1GU/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/t1mDCuZOPwOebFpKAyKzudGcvCJxx3kzHor6l23y1GU/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/t1mDCuZOPwOebFpKAyKzudGcvCJxx3kzHor6l23y1GU/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/t1mDCuZOPwOebFpKAyKzudGcvCJxx3kzHor6l23y1GU/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/t1mDCuZOPwOebFpKAyKzudGcvCJxx3kzHor6l23y1GU/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "和室10畳のお部屋（例）",
+        "sectionTitle": "古きよき金沢の“和”にこだわった純和風客室"
+      },
+      {
+        "description": "宿には、趣の異なる浴場が2つ。男性用は樹齢2千年のヒノキを使った「古代檜風呂」。浴室には豊かな木の香りが満ちており、穏やかな気持ちで湯浴みを楽しめます。女性用は緑に包まれた「庭園風呂」。窓の外の箱庭を眺めながら、1日の疲れを癒やしてくださいね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/rrg0TJ0jOPvr_YIWlVRM388ZWHg8lVkXMwgNTkZamQ4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/rrg0TJ0jOPvr_YIWlVRM388ZWHg8lVkXMwgNTkZamQ4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/rrg0TJ0jOPvr_YIWlVRM388ZWHg8lVkXMwgNTkZamQ4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/rrg0TJ0jOPvr_YIWlVRM388ZWHg8lVkXMwgNTkZamQ4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/rrg0TJ0jOPvr_YIWlVRM388ZWHg8lVkXMwgNTkZamQ4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rrg0TJ0jOPvr_YIWlVRM388ZWHg8lVkXMwgNTkZamQ4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "檜の香りに包まれた男性大浴場",
+        "sectionTitle": "2種類の浴場でゆっくりとくつろぐ"
+      },
+      {
+        "description": "宿は、JR金沢駅から延びる金沢駅通りから少し入ったところにあります。兼六園や金沢21世紀美術館、ひがし茶屋街、近江町市場など、金沢の定番観光スポットへのアクセスも抜群です。チェックイン前に、あるいはチェックアウトの後に荷物を預けて、身軽に金沢の町歩きを楽しんでください。歴史の街・金沢の観光拠点としてもおすすめです。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/htl/5357015/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "sectionTitle": "JR金沢駅から徒歩3分。宿を拠点に古都金沢を散策"
+      }
+    ],
+    "c_ap_DatePosted": "2022-06-05",
+    "c_ap_HeroImage": {
+      "alternateText": "古都金沢で、「加賀屋」の味と加賀百万石の伝統料理を【石川県　料理旅館金沢茶屋】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 821,
+      "sourceUrl": "https://a.mktgcdn.com/p/Wci0fqc6IcS3HFC55e8PtmUL_ABS2FjU4sJ0ZZ1caH4/1200x821.jpg",
+      "thumbnails": [
+        {
+          "height": 821,
+          "url": "https://a.mktgcdn.com/p-sandbox/Wci0fqc6IcS3HFC55e8PtmUL_ABS2FjU4sJ0ZZ1caH4/1200x821.jpg",
+          "width": 1200
+        },
+        {
+          "height": 423,
+          "url": "https://a.mktgcdn.com/p-sandbox/Wci0fqc6IcS3HFC55e8PtmUL_ABS2FjU4sJ0ZZ1caH4/619x423.jpg",
+          "width": 619
+        },
+        {
+          "height": 411,
+          "url": "https://a.mktgcdn.com/p-sandbox/Wci0fqc6IcS3HFC55e8PtmUL_ABS2FjU4sJ0ZZ1caH4/600x411.jpg",
+          "width": 600
+        },
+        {
+          "height": 134,
+          "url": "https://a.mktgcdn.com/p-sandbox/Wci0fqc6IcS3HFC55e8PtmUL_ABS2FjU4sJ0ZZ1caH4/196x134.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Wci0fqc6IcS3HFC55e8PtmUL_ABS2FjU4sJ0ZZ1caH4/1200x821.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "金沢の玄関口・金沢駅から最も近い料理旅館",
+    "c_ap_LinkArticleSectionTitle": "石川県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "料理旅館金沢茶屋 のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/5357015/plan/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "金沢のホテル・旅館・宿おすすめランキング",
+        "uRL": "https://www.jtb.co.jp/ranking/kokunai/kanazawa/"
+      },
+      {
+        "linkText": "石川旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/ishikawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "北陸全般",
+      "石川県"
+    ],
+    "c_ap_ShortDescription": "JR金沢駅兼六園口から徒歩3分。「料理旅館金沢茶屋」は、古都金沢の中心地にある料理旅館です。こだわりの料理は、和倉温泉の名旅館「加賀屋」の伝統を受け継いだもの。旬の食材にこだわり抜いた加賀料理と、真心のこもったおもてなしを楽しめます。純和風の客室や、輪島塗をはじめとする館内を彩る伝統工芸品の数々が、歴史の深い町の旅情をかき立ててくれます。兼六園などの観光スポットにも近いので、観光の拠点にもぴったりの宿です。",
+    "c_ap_Tags": [
+      "金沢",
+      "加賀料理",
+      "純和風"
+    ],
+    "c_ap_Theme": [
+      "歴史・地理",
+      "街あるき",
+      "グルメ",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "古都金沢で、「加賀屋」の味と加賀百万石の伝統料理を【石川県　料理旅館金沢茶屋】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "JR金沢駅兼六園口から徒歩3分。「料理旅館金沢茶屋」は、古都金沢の中心地にある料理旅館です。こだわりの料理は、和倉温泉の名旅館「加賀屋」の伝統を受け継いだもの。旬の食材にこだわり抜いた加賀料理と、真心のこもっ…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "古都金沢で、「加賀屋」の味と加賀百万石の伝統料理を【石川県　料理旅館金沢茶屋】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100044",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北陸全般, 石川県",
+    "c_searchTags": [
+      "中部・北陸：北陸全般, 石川県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：北陸全般, 石川県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "古都金沢で、「加賀屋」の味と加賀百万石の伝統料理を【石川県　料理旅館金沢茶屋】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/1_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.434693%2C144.09242",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "海・湖・川・滝",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "阿寒湖は道東を代表する人気の観光地で、四季折々の自然美が訪れる人々の目を楽しませてくれます。冬に凍結する湖面も春になれば溶け、遊覧船の季節を迎えます。阿寒湖の観光遊覧船はGWから営業を開始しますが、営業開始前の約1週間には、阿寒湖の氷を割りながら船で遊覧する「砕氷帯観光遊覧」が行われます。\n見所・お勧めポイント\n日本で砕氷帯の遊覧ができるのは、ここ阿寒湖の観光遊覧船だけ。さらに阿寒の雄大な冬景色を見ながら、寒さを吹き飛ばす氷割（ざいわり）の迫力を間近に体感することができるのも、この約1週間だけです。氷は暖かくなるにつれて日に日に溶けていってしまうので、「砕氷帯観光遊覧」の運航開始後、できるだけ早い時期に行くのがおすすめです。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/1.asp",
+    "name": "春の訪れをつげる阿寒湖砕氷帯観光遊覧"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

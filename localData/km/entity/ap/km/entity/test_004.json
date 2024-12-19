@@ -1,0 +1,486 @@
+{
+  "$id": "ap_test_004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_ap_ArticleCategory": "実績",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ トラベルコンサルタント 橘 美由紀",
+      "link": "https://consultants.jtb.co.jp/cp_m_tachibana004",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "JR山手駅から徒歩6分ほどの場所にある「Little Village Cafe（リトルヴィレッジカフェ）」。おとぎ話に出てくるような、ツタが茂った素敵な店構えが目印です。",
+        "image": {
+          "height": 677,
+          "sourceUrl": "https://a.mktgcdn.com/p/rOp78ntytbKeMrnTlO9zGwZ6NXV26aS-22d73OOxqQE/976x677.jpg",
+          "thumbnails": [
+            {
+              "height": 677,
+              "url": "https://a.mktgcdn.com/p-sandbox/rOp78ntytbKeMrnTlO9zGwZ6NXV26aS-22d73OOxqQE/976x677.jpg",
+              "width": 976
+            },
+            {
+              "height": 429,
+              "url": "https://a.mktgcdn.com/p-sandbox/rOp78ntytbKeMrnTlO9zGwZ6NXV26aS-22d73OOxqQE/619x429.jpg",
+              "width": 619
+            },
+            {
+              "height": 416,
+              "url": "https://a.mktgcdn.com/p-sandbox/rOp78ntytbKeMrnTlO9zGwZ6NXV26aS-22d73OOxqQE/600x416.jpg",
+              "width": 600
+            },
+            {
+              "height": 136,
+              "url": "https://a.mktgcdn.com/p-sandbox/rOp78ntytbKeMrnTlO9zGwZ6NXV26aS-22d73OOxqQE/196x136.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rOp78ntytbKeMrnTlO9zGwZ6NXV26aS-22d73OOxqQE/976x677.jpg",
+          "width": 976
+        },
+        "imageCaption": "「桃と白あんのチーズケーキ」650円",
+        "sectionTitle": "アンティークな店構えがすでにかわいい。待ってる間も気分が高まる…！"
+      },
+      {
+        "description": "ご夫婦が営む「Little Village Cafe」は、アンティークなインテリアやドライフラワーが飾られており、8名のみが入れる小さめの店内ながらも落ち着ける空間となっています。",
+        "image": {
+          "height": 735,
+          "sourceUrl": "https://a.mktgcdn.com/p/jke8MHKeJFzeMinlr3-czGfeDpHQaTDZ-H9jEEeq_K8/990x735.jpg",
+          "thumbnails": [
+            {
+              "height": 735,
+              "url": "https://a.mktgcdn.com/p-sandbox/jke8MHKeJFzeMinlr3-czGfeDpHQaTDZ-H9jEEeq_K8/990x735.jpg",
+              "width": 990
+            },
+            {
+              "height": 460,
+              "url": "https://a.mktgcdn.com/p-sandbox/jke8MHKeJFzeMinlr3-czGfeDpHQaTDZ-H9jEEeq_K8/619x460.jpg",
+              "width": 619
+            },
+            {
+              "height": 445,
+              "url": "https://a.mktgcdn.com/p-sandbox/jke8MHKeJFzeMinlr3-czGfeDpHQaTDZ-H9jEEeq_K8/600x445.jpg",
+              "width": 600
+            },
+            {
+              "height": 146,
+              "url": "https://a.mktgcdn.com/p-sandbox/jke8MHKeJFzeMinlr3-czGfeDpHQaTDZ-H9jEEeq_K8/196x146.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jke8MHKeJFzeMinlr3-czGfeDpHQaTDZ-H9jEEeq_K8/990x735.jpg",
+          "width": 990
+        },
+        "imageCaption": "「桃のクリームソーダ」750円",
+        "sectionTitle": "胸キュンのプレートは、パティスリーさながらのレベルの高さ！"
+      },
+      {
+        "description": "席のかたわらには、オーダーしたスイーツやドリンクと一緒に写真が撮れるフォトブースも。このナチュラルテイストだけどちゃんとかわいい感じ…私たちの好みのツボにしっかりハマりますね…！※こちらのフォトブースはテーブル席利用者のみ利用可能",
+        "image": {
+          "height": 706,
+          "sourceUrl": "https://a.mktgcdn.com/p/-BEbG3f4-qnZVw6sMKgAKAHXWCNcn6QA-FhrCuuK_mM/992x706.jpg",
+          "thumbnails": [
+            {
+              "height": 706,
+              "url": "https://a.mktgcdn.com/p-sandbox/-BEbG3f4-qnZVw6sMKgAKAHXWCNcn6QA-FhrCuuK_mM/992x706.jpg",
+              "width": 992
+            },
+            {
+              "height": 441,
+              "url": "https://a.mktgcdn.com/p-sandbox/-BEbG3f4-qnZVw6sMKgAKAHXWCNcn6QA-FhrCuuK_mM/619x441.jpg",
+              "width": 619
+            },
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/-BEbG3f4-qnZVw6sMKgAKAHXWCNcn6QA-FhrCuuK_mM/600x427.jpg",
+              "width": 600
+            },
+            {
+              "height": 139,
+              "url": "https://a.mktgcdn.com/p-sandbox/-BEbG3f4-qnZVw6sMKgAKAHXWCNcn6QA-FhrCuuK_mM/196x139.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-BEbG3f4-qnZVw6sMKgAKAHXWCNcn6QA-FhrCuuK_mM/992x706.jpg",
+          "width": 992
+        },
+        "imageCaption": "「カスタードプリン」400円",
+        "sectionTitle": "お店オリジナルで焙煎するコーヒーのメニューも要チェックです"
+      },
+      {
+        "description": "みんなのお楽しみは、スイーツの盛り合わせプレート。2〜3種類のスイーツをオーダーすると、ひとつのプレートに盛り合わせてくれます。パティシエである奥さんが担当するスイーツには、旬のフルーツが活かされているのが特徴。今が旬の桃を使用したプレートは、9月くらいまで食べられる予定とのこと。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/T7Q8ryC1sUCMMnhmo1YazzQBdCaEiT8TvGRelMBpA9o/1200x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gdfn61LTLnBSbmKNpE_6lboBoi3Veb-d0NButDAJeA4/1200x600.jpg",
+              "width": 1200
+            },
+            {
+              "height": 310,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gdfn61LTLnBSbmKNpE_6lboBoi3Veb-d0NButDAJeA4/619x310.jpg",
+              "width": 619
+            },
+            {
+              "height": 300,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gdfn61LTLnBSbmKNpE_6lboBoi3Veb-d0NButDAJeA4/600x300.jpg",
+              "width": 600
+            },
+            {
+              "height": 98,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gdfn61LTLnBSbmKNpE_6lboBoi3Veb-d0NButDAJeA4/196x98.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Gdfn61LTLnBSbmKNpE_6lboBoi3Veb-d0NButDAJeA4/1200x600.jpg",
+          "width": 1200
+        },
+        "imageCaption": "Little Village Cafe"
+      },
+      {
+        "description": "「桃と白あんのチーズケーキ」には、大きめの桃がごろっと！しっとり食感のケーキはやさしい酸味と甘さがとてもまろやか。甘さ控えめなのにコクを感じる理由は、マスカルポーネに白あんを組み合わせているから。果肉や生地に練り込まれた桃のピューレとも相性バツグンで、パティスリーのようなレベルの高いスイーツです。「Little Village Cafe」には、フルーツにほっくりとした和の食材を組み合わせるスイーツが度々登場するそうで、楽しみにしているファンが多いそう。",
+        "image": {
+          "height": 624,
+          "sourceUrl": "https://a.mktgcdn.com/p/fZ-TjHz20iXFluagoDASSkDCFNs5WrwQ2UURBOY2iYU/989x624.jpg",
+          "thumbnails": [
+            {
+              "height": 624,
+              "url": "https://a.mktgcdn.com/p-sandbox/fZ-TjHz20iXFluagoDASSkDCFNs5WrwQ2UURBOY2iYU/989x624.jpg",
+              "width": 989
+            },
+            {
+              "height": 391,
+              "url": "https://a.mktgcdn.com/p-sandbox/fZ-TjHz20iXFluagoDASSkDCFNs5WrwQ2UURBOY2iYU/619x391.jpg",
+              "width": 619
+            },
+            {
+              "height": 379,
+              "url": "https://a.mktgcdn.com/p-sandbox/fZ-TjHz20iXFluagoDASSkDCFNs5WrwQ2UURBOY2iYU/600x379.jpg",
+              "width": 600
+            },
+            {
+              "height": 124,
+              "url": "https://a.mktgcdn.com/p-sandbox/fZ-TjHz20iXFluagoDASSkDCFNs5WrwQ2UURBOY2iYU/196x124.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fZ-TjHz20iXFluagoDASSkDCFNs5WrwQ2UURBOY2iYU/989x624.jpg",
+          "width": 989
+        },
+        "imageCaption": "「カフェラテ」450円／Little Village Cafe"
+      },
+      {
+        "description": "また、クリームソーダにも旬のフルーツが♪こちらの「桃のクリームソーダ」には、和歌山県産の白鳳という品種の桃シロップが使用されています。フルーツの自然な甘みとしゅわしゅわのサイダーは最高ののどごし！ピンク色のゼリーの彩りが見た目にも涼しげ。",
+        "image": {
+          "height": 613,
+          "sourceUrl": "https://a.mktgcdn.com/p/uV8XNs97ZbDhLetn4c-eW8zbzoPApfp8C5muVLVuXp0/973x613.jpg",
+          "thumbnails": [
+            {
+              "height": 613,
+              "url": "https://a.mktgcdn.com/p-sandbox/uV8XNs97ZbDhLetn4c-eW8zbzoPApfp8C5muVLVuXp0/973x613.jpg",
+              "width": 973
+            },
+            {
+              "height": 390,
+              "url": "https://a.mktgcdn.com/p-sandbox/uV8XNs97ZbDhLetn4c-eW8zbzoPApfp8C5muVLVuXp0/619x390.jpg",
+              "width": 619
+            },
+            {
+              "height": 378,
+              "url": "https://a.mktgcdn.com/p-sandbox/uV8XNs97ZbDhLetn4c-eW8zbzoPApfp8C5muVLVuXp0/600x378.jpg",
+              "width": 600
+            },
+            {
+              "height": 123,
+              "url": "https://a.mktgcdn.com/p-sandbox/uV8XNs97ZbDhLetn4c-eW8zbzoPApfp8C5muVLVuXp0/196x123.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uV8XNs97ZbDhLetn4c-eW8zbzoPApfp8C5muVLVuXp0/973x613.jpg",
+          "width": 973
+        }
+      },
+      {
+        "description": "みんな大好きな固めのプリン、ですが、一口運ぶと衝撃。卵本来の素材がしっかりと感じられ、まさに鮮やかな風味。控えめに言って、もう、めちゃくちゃおいしいです…！しっかりブリュレされ、パリパリとしたほろ苦のカラメルも最高！",
+        "image": {
+          "height": 713,
+          "sourceUrl": "https://a.mktgcdn.com/p/11gXErL1RojOhsEtuCR5Lcq2tsSkUHv587Z_SwWHVW0/966x713.jpg",
+          "thumbnails": [
+            {
+              "height": 713,
+              "url": "https://a.mktgcdn.com/p-sandbox/11gXErL1RojOhsEtuCR5Lcq2tsSkUHv587Z_SwWHVW0/966x713.jpg",
+              "width": 966
+            },
+            {
+              "height": 457,
+              "url": "https://a.mktgcdn.com/p-sandbox/11gXErL1RojOhsEtuCR5Lcq2tsSkUHv587Z_SwWHVW0/619x457.jpg",
+              "width": 619
+            },
+            {
+              "height": 443,
+              "url": "https://a.mktgcdn.com/p-sandbox/11gXErL1RojOhsEtuCR5Lcq2tsSkUHv587Z_SwWHVW0/600x443.jpg",
+              "width": 600
+            },
+            {
+              "height": 145,
+              "url": "https://a.mktgcdn.com/p-sandbox/11gXErL1RojOhsEtuCR5Lcq2tsSkUHv587Z_SwWHVW0/196x145.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/11gXErL1RojOhsEtuCR5Lcq2tsSkUHv587Z_SwWHVW0/966x713.jpg",
+          "width": 966
+        }
+      },
+      {
+        "description": "その時々の旬のフルーツを使用し、季節ごとに異なる味わいを楽しめる「Little Village Cafe」。こちらは昨年の秋に提供していたというスイーツプレート。りんごのクリームソーダにチーズケーキ、モンブランとお芋のプリン…とこちらもワクワクする見た目ですね♪今年はどんなスイーツになるのか、季節の訪れが待ち遠しくなります。",
+        "image": {
+          "height": 657,
+          "sourceUrl": "https://a.mktgcdn.com/p/0VTNLJgj8jg0HzxypauQvKMe3Fi-NNRSfySicsWiufM/989x657.jpg",
+          "thumbnails": [
+            {
+              "height": 657,
+              "url": "https://a.mktgcdn.com/p-sandbox/0VTNLJgj8jg0HzxypauQvKMe3Fi-NNRSfySicsWiufM/989x657.jpg",
+              "width": 989
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/0VTNLJgj8jg0HzxypauQvKMe3Fi-NNRSfySicsWiufM/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/0VTNLJgj8jg0HzxypauQvKMe3Fi-NNRSfySicsWiufM/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/0VTNLJgj8jg0HzxypauQvKMe3Fi-NNRSfySicsWiufM/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0VTNLJgj8jg0HzxypauQvKMe3Fi-NNRSfySicsWiufM/989x657.jpg",
+          "width": 989
+        }
+      },
+      {
+        "description": "お店には焙煎機があり、自家焙煎したコーヒーを使用したドリンクを提供しています。クリームソーダも注目を集めていますが、このコーヒーメニューの根強いファンも多いんです。",
+        "image": {
+          "height": 722,
+          "sourceUrl": "https://a.mktgcdn.com/p/16e9p7m96NpqEjA-vk_e3ho8RKeHaGE7tQp-XOKl-X8/980x722.jpg",
+          "thumbnails": [
+            {
+              "height": 722,
+              "url": "https://a.mktgcdn.com/p-sandbox/16e9p7m96NpqEjA-vk_e3ho8RKeHaGE7tQp-XOKl-X8/980x722.jpg",
+              "width": 980
+            },
+            {
+              "height": 456,
+              "url": "https://a.mktgcdn.com/p-sandbox/16e9p7m96NpqEjA-vk_e3ho8RKeHaGE7tQp-XOKl-X8/619x456.jpg",
+              "width": 619
+            },
+            {
+              "height": 442,
+              "url": "https://a.mktgcdn.com/p-sandbox/16e9p7m96NpqEjA-vk_e3ho8RKeHaGE7tQp-XOKl-X8/600x442.jpg",
+              "width": 600
+            },
+            {
+              "height": 144,
+              "url": "https://a.mktgcdn.com/p-sandbox/16e9p7m96NpqEjA-vk_e3ho8RKeHaGE7tQp-XOKl-X8/196x144.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/16e9p7m96NpqEjA-vk_e3ho8RKeHaGE7tQp-XOKl-X8/980x722.jpg",
+          "width": 980
+        }
+      },
+      {
+        "description": "ドリンクは主にご主人が担当。それぞれの豆のキャラクターを活かして、中煎りや深煎りに焙煎したコーヒー豆は、フィルターやエスプレッソ、水出しなどさまざまないれ方で楽しむことができますよ。",
+        "image": {
+          "height": 721,
+          "sourceUrl": "https://a.mktgcdn.com/p/hN_iQSwwAfjaINUCQm04TC4QtTxGq0cfNhOS-7lHTo8/979x721.jpg",
+          "thumbnails": [
+            {
+              "height": 721,
+              "url": "https://a.mktgcdn.com/p-sandbox/hN_iQSwwAfjaINUCQm04TC4QtTxGq0cfNhOS-7lHTo8/979x721.jpg",
+              "width": 979
+            },
+            {
+              "height": 456,
+              "url": "https://a.mktgcdn.com/p-sandbox/hN_iQSwwAfjaINUCQm04TC4QtTxGq0cfNhOS-7lHTo8/619x456.jpg",
+              "width": 619
+            },
+            {
+              "height": 442,
+              "url": "https://a.mktgcdn.com/p-sandbox/hN_iQSwwAfjaINUCQm04TC4QtTxGq0cfNhOS-7lHTo8/600x442.jpg",
+              "width": 600
+            },
+            {
+              "height": 144,
+              "url": "https://a.mktgcdn.com/p-sandbox/hN_iQSwwAfjaINUCQm04TC4QtTxGq0cfNhOS-7lHTo8/196x144.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hN_iQSwwAfjaINUCQm04TC4QtTxGq0cfNhOS-7lHTo8/979x721.jpg",
+          "width": 979
+        }
+      },
+      {
+        "description": "お店で使用しているコーヒー豆は購入も可能なので、おうちで「Little village cafe」の気分を楽しむこともできちゃいますね♪",
+        "image": {
+          "height": 693,
+          "sourceUrl": "https://a.mktgcdn.com/p/DtyCCan8SuK3zy68bvn284GcT-ot93ewdO1GQIpsQFg/979x693.jpg",
+          "thumbnails": [
+            {
+              "height": 693,
+              "url": "https://a.mktgcdn.com/p-sandbox/DtyCCan8SuK3zy68bvn284GcT-ot93ewdO1GQIpsQFg/979x693.jpg",
+              "width": 979
+            },
+            {
+              "height": 438,
+              "url": "https://a.mktgcdn.com/p-sandbox/DtyCCan8SuK3zy68bvn284GcT-ot93ewdO1GQIpsQFg/619x438.jpg",
+              "width": 619
+            },
+            {
+              "height": 425,
+              "url": "https://a.mktgcdn.com/p-sandbox/DtyCCan8SuK3zy68bvn284GcT-ot93ewdO1GQIpsQFg/600x425.jpg",
+              "width": 600
+            },
+            {
+              "height": 139,
+              "url": "https://a.mktgcdn.com/p-sandbox/DtyCCan8SuK3zy68bvn284GcT-ot93ewdO1GQIpsQFg/196x139.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DtyCCan8SuK3zy68bvn284GcT-ot93ewdO1GQIpsQFg/979x693.jpg",
+          "width": 979
+        }
+      },
+      {
+        "description": "毎日でも食べたくなるスイーツとドリンク。遠くからお客さんが訪れるのも納得です。最新のメニューや営業時間はインスタグラム（@little_village_cafe）でチェックできるので、こまめに覗いてみてくださいね。■Little village cafe（りとる ゔぃれっじ かふぇ）住所：神奈川県横浜市中区大和町1−13時間：11～17時（16時LO ※混雑状況により15時頃）※最新の営業時間は異なる場合があります定休日：水・木曜※2021年7月現在3名以上の来店は不可",
+        "image": {
+          "height": 718,
+          "sourceUrl": "https://a.mktgcdn.com/p/gkdX90mP0g0oRF-ZusKGCNWwrJ7VeQ5lvQZFnWp2NMQ/978x718.jpg",
+          "thumbnails": [
+            {
+              "height": 718,
+              "url": "https://a.mktgcdn.com/p-sandbox/gkdX90mP0g0oRF-ZusKGCNWwrJ7VeQ5lvQZFnWp2NMQ/978x718.jpg",
+              "width": 978
+            },
+            {
+              "height": 454,
+              "url": "https://a.mktgcdn.com/p-sandbox/gkdX90mP0g0oRF-ZusKGCNWwrJ7VeQ5lvQZFnWp2NMQ/619x454.jpg",
+              "width": 619
+            },
+            {
+              "height": 440,
+              "url": "https://a.mktgcdn.com/p-sandbox/gkdX90mP0g0oRF-ZusKGCNWwrJ7VeQ5lvQZFnWp2NMQ/600x440.jpg",
+              "width": 600
+            },
+            {
+              "height": 144,
+              "url": "https://a.mktgcdn.com/p-sandbox/gkdX90mP0g0oRF-ZusKGCNWwrJ7VeQ5lvQZFnWp2NMQ/196x144.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gkdX90mP0g0oRF-ZusKGCNWwrJ7VeQ5lvQZFnWp2NMQ/978x718.jpg",
+          "width": 978
+        }
+      }
+    ],
+    "c_ap_DatePosted": "2021-10-18",
+    "c_ap_HeroImage": {
+      "height": 600,
+      "sourceUrl": "https://a.mktgcdn.com/p/T7Q8ryC1sUCMMnhmo1YazzQBdCaEiT8TvGRelMBpA9o/1200x600.jpg",
+      "thumbnails": [
+        {
+          "height": 600,
+          "url": "https://a.mktgcdn.com/p-sandbox/Gdfn61LTLnBSbmKNpE_6lboBoi3Veb-d0NButDAJeA4/1200x600.jpg",
+          "width": 1200
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/Gdfn61LTLnBSbmKNpE_6lboBoi3Veb-d0NButDAJeA4/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/Gdfn61LTLnBSbmKNpE_6lboBoi3Veb-d0NButDAJeA4/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/Gdfn61LTLnBSbmKNpE_6lboBoi3Veb-d0NButDAJeA4/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Gdfn61LTLnBSbmKNpE_6lboBoi3Veb-d0NButDAJeA4/1200x600.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkArticleSectionTitle": "最近の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "「東京ベイホテル」のWebで予約できるプランはこちら",
+        "uRL": "https://www.maihamahotel.jp/"
+      },
+      {
+        "linkText": "「東京ベイホテル」のWebで予約できるプランはこちら",
+        "uRL": "https://www.maihamahotel.jp/"
+      },
+      {
+        "linkText": "「東京ベイホテル」のWebで予約できるプランはこちら",
+        "uRL": "https://www.maihamahotel.jp/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "神奈川県"
+    ],
+    "c_ap_ShortDescription": "横浜・山手の商店街に現れるおとぎ空間…みんなのお目当ては、旬のフルーツを使用したスイーツを盛り合わせたプレート！食べるのがもったいなく感じるほどに胸キュンなビジュアルで、「Little Village Cafe」には遠方からもお客さんが集まります。でも、わざわざ通いたくなるのはスイーツやドリンクのレベルも高いからこそ。本格派のメニューたちを紹介します。",
+    "c_ap_Tags": [
+      "横浜",
+      "スイーツ",
+      "女子旅"
+    ],
+    "c_ap_Title": "横浜・山手のアンティークな「Little Village Cafe（リトルヴィレッジカフェ）」がとにかくツボ！",
+    "c_metaDescription": "知識豊富なJTBスタッフのおすすめ記事をお楽しみいただけます。",
+    "c_metaTitle": "JTB リモートコンシェルジュ | おすすめ記事",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "神奈川県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "ブログサンプル：横浜山手～",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

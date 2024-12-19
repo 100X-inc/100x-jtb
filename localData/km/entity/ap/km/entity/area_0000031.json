@@ -1,0 +1,299 @@
+{
+  "$id": "ap_area_0000031",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ トラベルコンサルタント 村田 茜",
+      "link": "https://consultants.jtb.co.jp/cp_a_murata303",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿者にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVqi",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "石川県の県庁所在地である金沢には、美術や伝統工芸にまつわる施設が多く、近年では国内外の現代アートを集めた「金沢21世紀美術館」が注目を集めています。写真撮影可能な作品もあり、現代アートをフォトジェニックに思い出に残すことができます。。ほかにも江戸時代の情緒が漂う「ひがし茶屋街」や三大名園のひとつ「兼六園」もあり、カメラを片手に旅したくなるエリアです。",
+        "image": {
+          "alternateText": "着物を着て歩きたい「ひがし茶屋街」の街並み",
+          "height": 413,
+          "sourceUrl": "https://a.mktgcdn.com/p/_KrX-ISUnrOI4-kTyeR4868R2FJ61ngsuNnHcfJzW58/621x413.jpg",
+          "thumbnails": [
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/VDg1ccH7zZxgwlzGp6kauljPa_S2D1lKw9jeXhE6y1c/621x413.jpg",
+              "width": 621
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/VDg1ccH7zZxgwlzGp6kauljPa_S2D1lKw9jeXhE6y1c/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/VDg1ccH7zZxgwlzGp6kauljPa_S2D1lKw9jeXhE6y1c/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/VDg1ccH7zZxgwlzGp6kauljPa_S2D1lKw9jeXhE6y1c/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VDg1ccH7zZxgwlzGp6kauljPa_S2D1lKw9jeXhE6y1c/621x413.jpg",
+          "width": 621
+        },
+        "imageCaption": "着物を着て歩きたい「ひがし茶屋街」の街並み",
+        "sectionTitle": "【金沢】カメラ片手に訪れたい写真映えスポットがたくさん"
+      },
+      {
+        "description": "日本海 に突き出た能登半島は自然の宝庫。半島北部の輪島では日本海に面する海岸線沿いに雄大な風景を見ることができます。輪島で必ず訪れたいのが奥能登の代名詞のひとつ「白米千枚田」。大小さまざまな1004枚の田でできた広大な棚田で、田植えや稲刈りの時期によって風景が全く異なります。時期を変えて何度も訪れたくなるスポットです。また、200以上の露店が集まる日本三大朝市のひとつ「輪島朝市」もあることから、見て・食べて楽しめるエリアとなっています。",
+        "image": {
+          "alternateText": "最小の田はたったの50cm四方",
+          "height": 1066,
+          "sourceUrl": "https://a.mktgcdn.com/p/k8jLoHDv1CnseDsz5TWXISBdKUP5vM01lTVGCsej0Yg/1599x1066.jpg",
+          "thumbnails": [
+            {
+              "height": 1066,
+              "url": "https://a.mktgcdn.com/p-sandbox/JkIoCVKPBgiSGh8JVOipwY5jK6VXG0mowjOTG0xHC2M/1599x1066.jpg",
+              "width": 1599
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/JkIoCVKPBgiSGh8JVOipwY5jK6VXG0mowjOTG0xHC2M/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/JkIoCVKPBgiSGh8JVOipwY5jK6VXG0mowjOTG0xHC2M/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/JkIoCVKPBgiSGh8JVOipwY5jK6VXG0mowjOTG0xHC2M/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JkIoCVKPBgiSGh8JVOipwY5jK6VXG0mowjOTG0xHC2M/1599x1066.jpg",
+          "width": 1599
+        },
+        "imageCaption": "最小の田はたったの50cm四方",
+        "sectionTitle": "【輪島】どの季節でも美しい日本の原風景"
+      },
+      {
+        "description": "能登半島の東側に位置する七尾市には名湯「和倉温泉」のほか、世界最大の魚類・ジンベイザメを展示する「のとじま水族館」があります。水槽には高さの異なる8か所の観察スポットがあるため、いろいろな角度からジンベイザメを楽しむことも。水族館だけでなく、国内外のアーティストによるガラス作品が展示された「石川県能登ガラス美術館」や、明治初期～昭和40年代のおもちゃを1万点以上展示している「和倉昭和博物館とおもちゃ館」など他の観光スポットも満載",
+        "image": {
+          "alternateText": "海中散歩気分が味わえる「のと海遊回廊」",
+          "height": 415,
+          "sourceUrl": "https://a.mktgcdn.com/p/dJFu3cSEQU12wtdWbLD-Ah553-S4h7UKdevAl2DV6BY/622x415.jpg",
+          "thumbnails": [
+            {
+              "height": 415,
+              "url": "https://a.mktgcdn.com/p-sandbox/uAqLWOrmrUC87Zw98mW8KawrXIATUuxkKJstFNLUN3k/622x415.jpg",
+              "width": 622
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/uAqLWOrmrUC87Zw98mW8KawrXIATUuxkKJstFNLUN3k/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/uAqLWOrmrUC87Zw98mW8KawrXIATUuxkKJstFNLUN3k/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/uAqLWOrmrUC87Zw98mW8KawrXIATUuxkKJstFNLUN3k/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uAqLWOrmrUC87Zw98mW8KawrXIATUuxkKJstFNLUN3k/622x415.jpg",
+          "width": 622
+        },
+        "imageCaption": "海中散歩気分が味わえる「のと海遊回廊」",
+        "sectionTitle": "【和倉温泉・七尾】穏やかな海景色とレトロな雰囲気を残す温泉街"
+      },
+      {
+        "description": "能登半島基部に位置する羽咋周辺の沿岸には日本海の荒波が打ち寄せ、「巌門（がんもん）」など荘厳な地形を生み出しています。そこに立つと「身がやせる」思いをすることから「ヤセの断崖」の名がついた断崖絶壁は、映画の舞台としても知られています。 他にも、砂浜を車で走行できる道路「千里浜なぎさドライブウェイ」や、縁結びの神様である大國主神を祭る「氣多大社」などのスポットも外せません。",
+        "image": {
+          "alternateText": "浸食によって生まれた巨大な穴が有名な「巌門（がんもん）」",
+          "height": 574,
+          "sourceUrl": "https://a.mktgcdn.com/p/aP2x3Kc9wKhd6LWQ9SRexx5pv3y33M0vyDXKClKWOmo/861x574.jpg",
+          "thumbnails": [
+            {
+              "height": 574,
+              "url": "https://a.mktgcdn.com/p-sandbox/i2-FIDRnLIgXj2eVbrc5bpzbBGjB0bDfGVyeCwKDRQU/861x574.jpg",
+              "width": 861
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/i2-FIDRnLIgXj2eVbrc5bpzbBGjB0bDfGVyeCwKDRQU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/i2-FIDRnLIgXj2eVbrc5bpzbBGjB0bDfGVyeCwKDRQU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/i2-FIDRnLIgXj2eVbrc5bpzbBGjB0bDfGVyeCwKDRQU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/i2-FIDRnLIgXj2eVbrc5bpzbBGjB0bDfGVyeCwKDRQU/861x574.jpg",
+          "width": 861
+        },
+        "imageCaption": "浸食によって生まれた巨大な穴が有名な「巌門（がんもん）」",
+        "sectionTitle": "【羽咋】時間ごとに表情を変える雄大な自然たち"
+      },
+      {
+        "description": "温泉郷として有名な加賀ですが、点在する名湯だけでなく、自然が生み出した雄大な風景も堪能できるエリアです。切り立った美しい渓谷やそこに架かる橋はどれも一見の価値ありなので、温泉でゆっくり体を癒す前に景勝地を訪れるのもおすすめです。また、小松市にある那谷寺では重要文化財が5点あり、見ごたえ抜群。本殿では「胎内巡り」ができるので、心も体も清く生まれ変わってリフレッシュすることができます。",
+        "image": {
+          "alternateText": "「那谷寺」には縁結びのスポットも",
+          "height": 1139,
+          "sourceUrl": "https://a.mktgcdn.com/p/MfmN3FMpbpfYfwsln3RNlw98wqwmw5hVPgWWLrMCz-Q/1714x1139.jpg",
+          "thumbnails": [
+            {
+              "height": 1139,
+              "url": "https://a.mktgcdn.com/p-sandbox/M9lKg7o0Ko4rqm6k6oadip9LnmUdKdAB1zgNt6M2sNk/1714x1139.jpg",
+              "width": 1714
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/M9lKg7o0Ko4rqm6k6oadip9LnmUdKdAB1zgNt6M2sNk/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/M9lKg7o0Ko4rqm6k6oadip9LnmUdKdAB1zgNt6M2sNk/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/M9lKg7o0Ko4rqm6k6oadip9LnmUdKdAB1zgNt6M2sNk/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/M9lKg7o0Ko4rqm6k6oadip9LnmUdKdAB1zgNt6M2sNk/1714x1139.jpg",
+          "width": 1714
+        },
+        "imageCaption": "「那谷寺」には縁結びのスポットも",
+        "sectionTitle": "【加賀温泉郷・小松】見て・触れて楽しめる体験施設が集まる。ファミリーにおすすめのスポット"
+      },
+      {
+        "description": "●合わせて読みたい長野県の観光情報▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_area_0000032\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e【石川県】石川の定番スポットを押さえた王道の一泊二日モデルコース\u003c/a\u003e\u003c/span\u003e▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_area_0000033\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e【石川県】のどかさとたくましさを兼ね備えた日本の原風景「白米千枚田」の楽しみ方\u003c/a\u003e\u003c/span\u003e",
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-09-10",
+    "c_ap_HeroImage": {
+      "alternateText": "【石川県】必見の現代アートから自然の壮大さを肌で感じる絶景スポットまで！石川県の外せない定番エリアをご紹介",
+      "height": 1059,
+      "sourceUrl": "https://a.mktgcdn.com/p/hOR3a_2pEAQQcHYVa4DAa5fjzTD9NcDHBIlsNX7GqVM/1588x1059.jpg",
+      "thumbnails": [
+        {
+          "height": 1059,
+          "url": "https://a.mktgcdn.com/p-sandbox/9QC7fgpaMyJC4Hz2LdQJanJcf-xnn-hgutfo8ZN15-Y/1588x1059.jpg",
+          "width": 1588
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/9QC7fgpaMyJC4Hz2LdQJanJcf-xnn-hgutfo8ZN15-Y/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/9QC7fgpaMyJC4Hz2LdQJanJcf-xnn-hgutfo8ZN15-Y/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/9QC7fgpaMyJC4Hz2LdQJanJcf-xnn-hgutfo8ZN15-Y/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/9QC7fgpaMyJC4Hz2LdQJanJcf-xnn-hgutfo8ZN15-Y/1588x1059.jpg",
+      "width": 1588
+    },
+    "c_ap_LinkArticleSectionTitle": "石川県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "北陸全般",
+      "石川県"
+    ],
+    "c_ap_ShortDescription": "日本海沿岸に位置する石川県は、三大名園の「兼六園」や幾何学模様を織り成す「白米千枚田」など、 四季の移り変わりごとに新たな発見があるスポットがたくさんあります。他にも、現代アートで有名な「金沢21世紀美術館」や旅の疲れを癒す温泉地など、見どころが絶えません。石川県に点在する観光要素の多い5つのエリアをご紹介。旅のプランを決める際にぜひ役立ててください。",
+    "c_ap_Tags": [
+      "石川",
+      "金沢",
+      "能登",
+      "加賀温泉",
+      "小松"
+    ],
+    "c_ap_Theme": [
+      "自然・山",
+      "寺社・教会",
+      "建築・史跡",
+      "美術鑑賞",
+      "街あるき"
+    ],
+    "c_ap_Title": "必見の現代アートから自然の壮大さを肌で感じる絶景スポットまで！石川県の外せない定番エリアをご紹介【石川県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "日本海沿岸に位置する石川県は、三大名園の「兼六園」や幾何学模様を織り成す「白米千枚田」など、 四季の移り変わりごとに新たな発見があるスポットがたくさんあります。他にも、現代アートで有名な「金沢21世紀美術館」…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "【石川県】必見の現代アートから自然の壮大さを肌で感じる絶景スポットまで！石川県の外せない定番エリアをご紹介 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_area_0000031",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北陸全般, 石川県",
+    "c_searchTags": [
+      "中部・北陸：北陸全般, 石川県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：北陸全般, 石川県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "【石川県】必見の現代アートから自然の壮大さを肌で感じる絶景スポットまで！石川県の外せない定番エリアをご紹介",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

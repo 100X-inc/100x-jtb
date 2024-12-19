@@ -1,0 +1,87 @@
+{
+  "$id": "cp_21102304",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "京都府",
+    "c_cp_CTA1": {
+      "label": "西田 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVB9_q",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVe9_q",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "みなさまの笑顔のお役に立てるようつとめてまいります\nお気軽にご相談くださいませ\nご来店お待ち申し上げております",
+    "c_cp_DisplayName": "西田",
+    "c_cp_FieldOfExpertise": [
+      "自然・山",
+      "街あるき",
+      "ドライブ",
+      "グルメ"
+    ],
+    "c_cp_HiraganaName": "にしだ",
+    "c_cp_JobTitle": "JTBイオンモール北大路店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 1229,
+      "sourceUrl": "https://a.mktgcdn.com/p/-OgUdqQELyRCazfyo2ebpLHydjUBj0Dnh2tFqpRu3OQ/1280x1229.jpg",
+      "thumbnails": [
+        {
+          "height": 1229,
+          "url": "https://a.mktgcdn.com/p-sandbox/-OgUdqQELyRCazfyo2ebpLHydjUBj0Dnh2tFqpRu3OQ/1280x1229.jpg",
+          "width": 1280
+        },
+        {
+          "height": 594,
+          "url": "https://a.mktgcdn.com/p-sandbox/-OgUdqQELyRCazfyo2ebpLHydjUBj0Dnh2tFqpRu3OQ/619x594.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/-OgUdqQELyRCazfyo2ebpLHydjUBj0Dnh2tFqpRu3OQ/469x450.jpg",
+          "width": 469
+        },
+        {
+          "height": 188,
+          "url": "https://a.mktgcdn.com/p-sandbox/-OgUdqQELyRCazfyo2ebpLHydjUBj0Dnh2tFqpRu3OQ/196x188.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/-OgUdqQELyRCazfyo2ebpLHydjUBj0Dnh2tFqpRu3OQ/1280x1229.jpg",
+      "width": 1280
+    },
+    "c_cp_StrongLocalArea3": [
+      "長野県"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "中国全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般"
+    ],
+    "c_cp_Tags": [
+      "ハワイスペシャリスト上級",
+      "クルーズコンサルタント",
+      "ヨーロッパエリアスペシャリスト",
+      "山",
+      "自然",
+      "街歩き"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 西田",
+    "c_metaTitle": "JTBトラベルコンサルタント | 西田",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21102304",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10297_イオンモール北大路店",
+    "name": "にしだ_21102304",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

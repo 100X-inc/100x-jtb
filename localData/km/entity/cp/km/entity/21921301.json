@@ -1,0 +1,59 @@
+{
+  "$id": "cp_21921301",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "京都府",
+    "c_cp_CTA1": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBdxq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "いつもイオンモール京都五条店をご利用頂きありがとうございます。\n皆様のご来店を心よりお待ちしております。",
+    "c_cp_DisplayName": "石黒",
+    "c_cp_HiraganaName": "いしぐろ",
+    "c_cp_JobTitle": "JTBイオンモール京都五条店 店長",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 1134,
+      "sourceUrl": "https://a.mktgcdn.com/p/zFcodbM4aGX0zMz-DijlzyssDabstWjxtTMUouOPjao/960x1134.jpg",
+      "thumbnails": [
+        {
+          "height": 1134,
+          "url": "https://a.mktgcdn.com/p-sandbox/zFcodbM4aGX0zMz-DijlzyssDabstWjxtTMUouOPjao/960x1134.jpg",
+          "width": 960
+        },
+        {
+          "height": 731,
+          "url": "https://a.mktgcdn.com/p-sandbox/zFcodbM4aGX0zMz-DijlzyssDabstWjxtTMUouOPjao/619x731.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/zFcodbM4aGX0zMz-DijlzyssDabstWjxtTMUouOPjao/381x450.jpg",
+          "width": 381
+        },
+        {
+          "height": 232,
+          "url": "https://a.mktgcdn.com/p-sandbox/zFcodbM4aGX0zMz-DijlzyssDabstWjxtTMUouOPjao/196x232.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/zFcodbM4aGX0zMz-DijlzyssDabstWjxtTMUouOPjao/960x1134.jpg",
+      "width": 960
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント | 石黒",
+    "c_metaTitle": "JTBトラベルコンサルタント | 石黒",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21921301",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10303_イオンモール京都五条店",
+    "name": "いしぐろ_21921301",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

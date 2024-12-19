@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_da_ban_fu_da_ban_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247858"
+    ],
+    "dm_directoryChildren": [
+      "6881-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_da_ban_fu"
+    ],
+    "name": "大阪市",
+    "slug": "大阪府/大阪市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

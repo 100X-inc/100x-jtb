@@ -1,0 +1,101 @@
+{
+  "$id": "cp_14975007",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "神奈川県",
+    "c_cp_CTA1": {
+      "label": "青木の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVeVB2c",
+      "linkType": "OTHER"
+    },
+    "c_cp_CTA2": {
+      "label": "青木の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVeVB2c",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "またお願いしたい！と思っていただけるよう、自身の経験を基にご案内させていただきます。ご相談お待ちしております♪",
+    "c_cp_DisplayName": "青木",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー"
+    ],
+    "c_cp_GeneralInfo": [
+      "資格：ハワイスペシャリスト検定上級"
+    ],
+    "c_cp_HiraganaName": "あおき",
+    "c_cp_JobTitle": "JTBイオン厚木店　トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 3024,
+      "sourceUrl": "https://a.mktgcdn.com/p/6HYh20zMTRk4V4o3bEUXwXJNQQ_L46hh_ZNNpXdrBpU/3024x3024.jpg",
+      "thumbnails": [
+        {
+          "height": 3024,
+          "url": "https://a.mktgcdn.com/p-sandbox/6HYh20zMTRk4V4o3bEUXwXJNQQ_L46hh_ZNNpXdrBpU/3024x3024.jpg",
+          "width": 3024
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/6HYh20zMTRk4V4o3bEUXwXJNQQ_L46hh_ZNNpXdrBpU/1900x1900.jpg",
+          "width": 1900
+        },
+        {
+          "height": 619,
+          "url": "https://a.mktgcdn.com/p-sandbox/6HYh20zMTRk4V4o3bEUXwXJNQQ_L46hh_ZNNpXdrBpU/619x619.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/6HYh20zMTRk4V4o3bEUXwXJNQQ_L46hh_ZNNpXdrBpU/450x450.jpg",
+          "width": 450
+        },
+        {
+          "height": 196,
+          "url": "https://a.mktgcdn.com/p-sandbox/6HYh20zMTRk4V4o3bEUXwXJNQQ_L46hh_ZNNpXdrBpU/196x196.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/6HYh20zMTRk4V4o3bEUXwXJNQQ_L46hh_ZNNpXdrBpU/3024x3024.jpg",
+      "width": 3024
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "パラオ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "イタリア"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "近畿全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "ハワイスペシャリスト検定上級",
+      "イタリア",
+      "パラオ",
+      "ハワイ"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 青木",
+    "c_metaTitle": "JTBトラベルコンサルタント | 青木",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_14975007",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10192_イオン厚木店",
+    "name": "あおき_14975007",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

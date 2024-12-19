@@ -1,0 +1,362 @@
+{
+  "$id": "news_ap_area_0000013",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ トラベルコンサルタント 伴 美穂",
+      "link": "https://consultants.jtb.co.jp/cp_m_ban303",
+      "linkType": "URL"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "札幌",
+      "height": 1261,
+      "sourceUrl": "https://a.mktgcdn.com/p/9XvvQA02aDSTxZh9FwR9upTnOES-w_Zw2Yw4OCLzSoM/1891x1261.jpg",
+      "thumbnails": [
+        {
+          "height": 1261,
+          "url": "https://a.mktgcdn.com/p-sandbox/jOYDWB4n2kZ64eUat-JKOfDFnFjKAu918W_CEse0blg/1891x1261.jpg",
+          "width": 1891
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/jOYDWB4n2kZ64eUat-JKOfDFnFjKAu918W_CEse0blg/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/jOYDWB4n2kZ64eUat-JKOfDFnFjKAu918W_CEse0blg/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/jOYDWB4n2kZ64eUat-JKOfDFnFjKAu918W_CEse0blg/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/jOYDWB4n2kZ64eUat-JKOfDFnFjKAu918W_CEse0blg/1891x1261.jpg",
+      "width": 1891
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "北海道旅行を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/hokkaido/"
+      },
+      {
+        "linkText": "北海道のホテルを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/hokkaido/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "広大な北海道を旅するなら、エリアを定めてめぐるのが鉄則！絶景・観光・グルメのすべてが揃う「道央エリア」、函館を中心とした歴史ある街並みが魅力の「道南エリア」、富良野のラベンダー畑や美瑛の丘など美景が自慢の「道北エリア」、神秘的な湖や流氷などの大自然が堪能できる「道東エリア」。今回は、この4エリアの楽しみ方を紹介します。",
+    "c_ap_Tags": [
+      "函館",
+      "富良野",
+      "小樽",
+      "モデルプラン",
+      "観光スポット",
+      "自然"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "自然・山",
+      "街あるき",
+      "ショッピング",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "北海道のみどころ4大エリアを紹介！北の大地を満喫",
+    "c_linkedArea3News": [
+      "hokkaido_all"
+    ],
+    "c_metaDescription": "広大な北海道を旅するなら、エリアを定めてめぐるのが鉄則！絶景・観光・グルメのすべてが揃う「道央エリア」、函館を中心とした歴史ある街並みが魅力の「道南エリア」、富良野のラベンダー畑や美瑛の丘など美景が自慢の「道…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "北海道のみどころ4大エリアを紹介！北の大地を満喫",
+    "c_news_CTAs": [
+      {
+        "label": "この記事の投稿者にリモート相談予約をする",
+        "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVfs",
+        "linkType": "URL"
+      },
+      {
+        "label": "北海道旅行を探す",
+        "link": "https://www.jtb.co.jp/kokunai/area/hokkaido/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "北海道のホテルを探す",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/hokkaido/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "札幌旅行を探す",
+          "link": "https://www.jtb.co.jp/kokunai/area/sapporo/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "小樽旅行を探す",
+          "link": "https://www.jtb.co.jp/kokunai/area/otaru/",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "ニセコのホテルを探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/011001/",
+          "linkType": "OTHER"
+        },
+        "cTA4": {
+          "label": "洞爺湖のホテルを探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/011103/",
+          "linkType": "OTHER"
+        },
+        "description": "新千歳空港と札幌駅を擁し、北海道旅行の起点となるエリア。北海道を代表する都市である札幌に加え、レトロな建物が数多く残る港町・小樽や、地区の約95パーセントが森林という自然豊かな日高、ニセコや洞爺といったリゾートエリアなど、バラエティに富んだ観光スポットが魅力です。北海道の中央に位置し道内全域から食材が集まるという場所柄、グルメスポットも充実。スープカレーや締めパフェなど、北海道ならではのグルメは要チェックですよ！",
+        "image": {
+          "alternateText": "夕暮れに灯るガス灯が趣深い「小樽運河」",
+          "height": 1333,
+          "sourceUrl": "https://a.mktgcdn.com/p/rYaC8XlGbbRhDCOr2c_tcsjmrZ6yf9zCXKJk41B8spg/2000x1333.jpg",
+          "thumbnails": [
+            {
+              "height": 1333,
+              "url": "https://a.mktgcdn.com/p-sandbox/82A4L31F4uzPGPlCHA0j21uYBnS94YrC0O7oMSwiycw/2000x1333.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/82A4L31F4uzPGPlCHA0j21uYBnS94YrC0O7oMSwiycw/1900x1266.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/82A4L31F4uzPGPlCHA0j21uYBnS94YrC0O7oMSwiycw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/82A4L31F4uzPGPlCHA0j21uYBnS94YrC0O7oMSwiycw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/82A4L31F4uzPGPlCHA0j21uYBnS94YrC0O7oMSwiycw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/82A4L31F4uzPGPlCHA0j21uYBnS94YrC0O7oMSwiycw/2000x1333.jpg",
+          "width": 2000
+        },
+        "imageCaption": "夕暮れに灯るガス灯が趣深い「小樽運河」",
+        "sectionTitle": "【道央エリア】北海道の楽しみがすべて味わえるエリア"
+      },
+      {
+        "cTA1": {
+          "label": "函館旅行を探す",
+          "link": "https://www.jtb.co.jp/kokunai/area/hakodate/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "函館のおすすめ観光スポットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/hokkaido/hokkaido_all/news_ap_y_ichikawa501_008",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "旭山動物園の魅力を知る",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/hokkaido/hokkaido_all/news_ap_s_hirota001_006",
+          "linkType": "OTHER"
+        },
+        "cTA4": {
+          "label": "利尻・礼文のホテルを探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/010903/",
+          "linkType": "OTHER"
+        },
+        "description": "このエリアの中心は、異国情緒漂うロマンチックタウン・函館。江戸時代から国際貿易港として栄えてきた歴史をもち、ハイカラな洋館や教会など歴史的建築物が点在しています。フォトジェニックな街並みを散策しましょう。夜景の美しさでも知られ、「函館山」からの眺めも絶対に押さえておきたいところ。イカやカニ、ホッケなど近海の新鮮魚介、開港以来根付いている洋食、函館塩ラーメンなど、函館名物も存分に！",
+        "image": {
+          "alternateText": "函館山の眺望",
+          "height": 2067,
+          "sourceUrl": "https://a.mktgcdn.com/p/7TpqasksXQ7ud15ZdXq6LP018U0hzSznYc1JRcTClWw/3101x2067.jpg",
+          "thumbnails": [
+            {
+              "height": 2067,
+              "url": "https://a.mktgcdn.com/p-sandbox/M1ksaHtgqpdVo93AVWk_T3MRAZBNaAANWg7gf4f3Jgg/3101x2067.jpg",
+              "width": 3101
+            },
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/M1ksaHtgqpdVo93AVWk_T3MRAZBNaAANWg7gf4f3Jgg/1900x1266.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/M1ksaHtgqpdVo93AVWk_T3MRAZBNaAANWg7gf4f3Jgg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/M1ksaHtgqpdVo93AVWk_T3MRAZBNaAANWg7gf4f3Jgg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/M1ksaHtgqpdVo93AVWk_T3MRAZBNaAANWg7gf4f3Jgg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/M1ksaHtgqpdVo93AVWk_T3MRAZBNaAANWg7gf4f3Jgg/3101x2067.jpg",
+          "width": 3101
+        },
+        "imageCaption": "「ミシュラン・グリーンガイド・ジャポン」で三つ星に認定された函館山の眺望",
+        "sectionTitle": "【道南エリア】函館でロマンチックなムードを満喫"
+      },
+      {
+        "cTA1": {
+          "label": "富良野・美瑛のホテルを探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/011201/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "旭川のホテルを探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/0105/",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "阿寒湖のホテルを探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/010703/",
+          "linkType": "OTHER"
+        },
+        "cTA4": {
+          "label": "釧路のホテルを探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/010701/",
+          "linkType": "OTHER"
+        },
+        "description": "旭川や富良野、美瑛といった北海道有数の観光地を擁するこのエリアでは、雄大かつ美麗な自然風景が楽しめます。富良野のラベンダー畑が最盛期を迎える7月は、大勢の観光客でかなり込み合うので事前のプランニングが重要です。そのほか、“利尻富士”とも呼ばれる名峰「利尻岳」のある利尻島や、花の浮島と称される礼文島といった魅力的な島々もあり、絶景探しにピッタリ。人気の観光スポット「旭川動物園」と合わせて、美景めぐりを楽しむのがおすすめです。",
+        "image": {
+          "alternateText": "「釧路湿原」にある展望台からの景色",
+          "height": 2667,
+          "sourceUrl": "https://a.mktgcdn.com/p/AvlIFjniVj1x23i_OlpAWk8l1Ld0n9F8V-Wu850reqk/4000x2667.jpg",
+          "thumbnails": [
+            {
+              "height": 2667,
+              "url": "https://a.mktgcdn.com/p-sandbox/AvlIFjniVj1x23i_OlpAWk8l1Ld0n9F8V-Wu850reqk/4000x2667.jpg",
+              "width": 4000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/AvlIFjniVj1x23i_OlpAWk8l1Ld0n9F8V-Wu850reqk/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/AvlIFjniVj1x23i_OlpAWk8l1Ld0n9F8V-Wu850reqk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/AvlIFjniVj1x23i_OlpAWk8l1Ld0n9F8V-Wu850reqk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/AvlIFjniVj1x23i_OlpAWk8l1Ld0n9F8V-Wu850reqk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AvlIFjniVj1x23i_OlpAWk8l1Ld0n9F8V-Wu850reqk/4000x2667.jpg",
+          "width": 4000
+        },
+        "imageCaption": "ラベンダーが見頃を迎えると紫の絨毯が一面に広がります",
+        "sectionTitle": "【道北エリア】ここでしか見られない美しい景色に感動！"
+      },
+      {
+        "cTA1": {
+          "label": "知床旅行を探す",
+          "link": "https://www.jtb.co.jp/kokunai/area/shiretoko/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "知床の魅力を知る",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/hokkaido/hokkaido_all/news_ap_a_sato260_001",
+          "linkType": "OTHER"
+        },
+        "description": "スケールの大きい、勇壮な自然を楽しみたいという方には、道東エリアがうってつけ。知床五湖を散策したり、知床峠をドライブしたりすれば、手つかずの大自然を満喫できますよ。また、稀少な動植物が生息する日本最大の湿原「釧路湿原」や、高い透明度が作り出す青い湖面が美しい「摩周湖」、マリモで知られる「阿寒湖」など、神秘的な光景に出会える絶景スポットを巡るのもおすすめです。",
+        "image": {
+          "height": 514,
+          "sourceUrl": "https://a.mktgcdn.com/p/dp6ZgLl5sgxiH0iFpa_HjccblEr4UID8T8XcWztrri8/772x514.jpg",
+          "thumbnails": [
+            {
+              "height": 514,
+              "url": "https://a.mktgcdn.com/p-sandbox/CbNjWXJ6wd3_ZA1Yj_9kiKHteZSvzy6ZZaQShRWvemQ/772x514.jpg",
+              "width": 772
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/CbNjWXJ6wd3_ZA1Yj_9kiKHteZSvzy6ZZaQShRWvemQ/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/CbNjWXJ6wd3_ZA1Yj_9kiKHteZSvzy6ZZaQShRWvemQ/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/CbNjWXJ6wd3_ZA1Yj_9kiKHteZSvzy6ZZaQShRWvemQ/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/CbNjWXJ6wd3_ZA1Yj_9kiKHteZSvzy6ZZaQShRWvemQ/772x514.jpg",
+          "width": 772
+        },
+        "imageCaption": "「釧路湿原」にある展望台からの景色は雄大そのもの",
+        "sectionTitle": "【道東エリア】手つかずの大自然が生み出す絶景が見もの"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_k_takeda507_001",
+      "news_ap_store_00001",
+      "news_ap_a_sato260_001",
+      "news_ap_chiki_100089",
+      "news_ap_k_anzai602_008",
+      "news_ap_a_ebe517_006",
+      "news_ap_a_ebe517_007",
+      "news_ap_y_sonoda006_002",
+      "news_ap_y_sonoda006_001",
+      "news_ap_k_okada018_005",
+      "news_ap_k_okada018_006",
+      "news_ap_s_hirota001_005",
+      "news_ap_s_hirota001_006",
+      "news_ap_m_takasawa518_008",
+      "news_ap_m_takasawa518_009",
+      "news_ap_a_sato260_007",
+      "news_ap_y_sakakibara002_001",
+      "news_ap_y_sakakibara002_002",
+      "news_ap_y_ichikawa501_008",
+      "news_ap_y_ichikawa501_007",
+      "news_ap_area_0000015",
+      "news_ap_t_kodera531_008",
+      "news_ap_t_kodera531_007",
+      "news_ap_e_shinden034_003",
+      "news_ap_e_shinden034_002",
+      "news_ap_k_takeda507_008",
+      "news_ap_k_takeda507_007",
+      "news_ap_area_0000014",
+      "news_ap_s_suzuki146_008",
+      "news_ap_s_suzuki146_007"
+    ],
+    "c_news_FeaturedArticlesTitle": "北海道のその他の記事",
+    "c_news_PublicationDate": "2022-06-19",
+    "c_news_UpdateDate": "2024-11-25",
+    "c_news_ViewCount": "844",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "844",
+    "c_news_ViewCountNum": "844",
+    "c_news_ViewCountNumForSorting": "9",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/hokkaido/hokkaido_all/news_ap_area_0000013",
+    "name": "北海道のみどころ4大エリアを紹介！北の大地を満喫",
+    "slug": "kokunai/hokkaido/hokkaido_all/news_ap_area_0000013",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "リモコン記事"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "$id": "cp_32050071",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf-Bc",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "日頃よりJTB木場イトーヨーカドー店をご利用いただき誠にありがとうございます。\n\nご家族旅行からクル－ズ旅行・記念のご旅行まで、心に残る素晴らしい旅となります様、スタッフ一同精一杯お手伝いさせて頂きます。",
+    "c_cp_DisplayName": "中山",
+    "c_cp_HiraganaName": "なかやま",
+    "c_cp_JobTitle": "JTB木場イトーヨーカドー店 店長",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 890,
+      "sourceUrl": "https://a.mktgcdn.com/p/3bf-4c1HRO9v7xJ-4etFRsLn1lib6DLLvCV7oI8WADo/960x890.jpg",
+      "thumbnails": [
+        {
+          "height": 890,
+          "url": "https://a.mktgcdn.com/p-sandbox/DWHXrd3q3gVwueb-HE8rRKWTMqeHtTMf2wf41xdMuck/960x890.jpg",
+          "width": 960
+        },
+        {
+          "height": 574,
+          "url": "https://a.mktgcdn.com/p-sandbox/DWHXrd3q3gVwueb-HE8rRKWTMqeHtTMf2wf41xdMuck/619x574.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/DWHXrd3q3gVwueb-HE8rRKWTMqeHtTMf2wf41xdMuck/485x450.jpg",
+          "width": 485
+        },
+        {
+          "height": 182,
+          "url": "https://a.mktgcdn.com/p-sandbox/DWHXrd3q3gVwueb-HE8rRKWTMqeHtTMf2wf41xdMuck/196x182.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/DWHXrd3q3gVwueb-HE8rRKWTMqeHtTMf2wf41xdMuck/960x890.jpg",
+      "width": 960
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 中山",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 中山",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_32050071",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10160_木場イトーヨーカドー店",
+    "name": "なかやま_32050071",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

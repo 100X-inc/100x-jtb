@@ -1,0 +1,47 @@
+{
+  "$id": "news_pa_asia",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kaigai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "台湾",
+      "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan",
+      "linkType": "URL"
+    },
+    "c_news_PopularAreasImage": {
+      "alternateText": "台湾",
+      "height": 430,
+      "sourceUrl": "https://a.mktgcdn.com/p/9QtGrNpFlI3M2Y2Lihzyd2zKuIPnMtcf3TaX7kpN-rs/640x430.jpg",
+      "thumbnails": [
+        {
+          "height": 430,
+          "url": "https://a.mktgcdn.com/p-sandbox/9QtGrNpFlI3M2Y2Lihzyd2zKuIPnMtcf3TaX7kpN-rs/640x430.jpg",
+          "width": 640
+        },
+        {
+          "height": 416,
+          "url": "https://a.mktgcdn.com/p-sandbox/9QtGrNpFlI3M2Y2Lihzyd2zKuIPnMtcf3TaX7kpN-rs/619x416.jpg",
+          "width": 619
+        },
+        {
+          "height": 403,
+          "url": "https://a.mktgcdn.com/p-sandbox/9QtGrNpFlI3M2Y2Lihzyd2zKuIPnMtcf3TaX7kpN-rs/600x403.jpg",
+          "width": 600
+        },
+        {
+          "height": 132,
+          "url": "https://a.mktgcdn.com/p-sandbox/9QtGrNpFlI3M2Y2Lihzyd2zKuIPnMtcf3TaX7kpN-rs/196x132.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/9QtGrNpFlI3M2Y2Lihzyd2zKuIPnMtcf3TaX7kpN-rs/640x430.jpg",
+      "width": 640
+    },
+    "name": "台湾"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

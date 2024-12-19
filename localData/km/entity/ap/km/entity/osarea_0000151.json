@@ -1,0 +1,300 @@
+{
+  "$id": "ap_osarea_0000151",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 加川香菜子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "1994年にオープンした「ナイトサファリ」は、世界初の夜だけのサファリパーク。暗闇のなか、夜行性動物たちの真の姿を見られることが人気の秘訣です。ナイトサファリの楽しみ方は大きく分けて3つ。１つ目はトラムに乗って夜の動物園を見学する方法。30分ほどで園内を1周します。トラムには窓ガラスがないので、動物の鳴き声や熱気を間近で体験できますよ。",
+        "image": {
+          "alternateText": "マレー半島に生息するマレートラ。夜は一層感覚が鋭くなる",
+          "height": 607,
+          "sourceUrl": "https://a.mktgcdn.com/p/2M5xiGs8-Vg55wA1oK4TEMGdnEaMxI6RCpooHUk_940/912x607.jpg",
+          "thumbnails": [
+            {
+              "height": 607,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ng3NCXgSCORZnLyc68BxagcKmO25KFEqXEZy_AMYJ5M/912x607.jpg",
+              "width": 912
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ng3NCXgSCORZnLyc68BxagcKmO25KFEqXEZy_AMYJ5M/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ng3NCXgSCORZnLyc68BxagcKmO25KFEqXEZy_AMYJ5M/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ng3NCXgSCORZnLyc68BxagcKmO25KFEqXEZy_AMYJ5M/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ng3NCXgSCORZnLyc68BxagcKmO25KFEqXEZy_AMYJ5M/912x607.jpg",
+          "width": 912
+        },
+        "imageCaption": "マレー半島に生息するマレートラ。夜は一層感覚が鋭くなる",
+        "sectionTitle": "ナイトサファリ　（Night Safari）"
+      },
+      {
+        "description": "2つ目の楽しみ方は、徒歩での夜のジャングルの散策。ナイトサファリには柵がないため、臨場感は抜群です。4つあるトレイルコースのなかでも必見は、「フィッシング・キャット・トレイル」。ここはスナドリネコなどのネコ科や小動物たちが集まる楽園です。",
+        "image": {
+          "alternateText": "魚を手で捕まえるスゴ技をもつスナドリネコ",
+          "height": 414,
+          "sourceUrl": "https://a.mktgcdn.com/p/UeuBbWEfMiHecShCO9hHAbPBVPhSDpyTsalxN7rY7Dc/543x414.jpg",
+          "thumbnails": [
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/B8Q5L6GroPveMJT4TvfBqpPU7YCrxy-63ImcjD3RC84/543x414.jpg",
+              "width": 543
+            },
+            {
+              "height": 149,
+              "url": "https://a.mktgcdn.com/p-sandbox/B8Q5L6GroPveMJT4TvfBqpPU7YCrxy-63ImcjD3RC84/196x149.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/B8Q5L6GroPveMJT4TvfBqpPU7YCrxy-63ImcjD3RC84/543x414.jpg",
+          "width": 543
+        },
+        "imageCaption": "魚を手で捕まえるスゴ技をもつスナドリネコ",
+        "sectionTitle": "リバーワンダー （River Wonders）"
+      },
+      {
+        "description": "3つ目の楽しみ方はナイトショー。ハイエナやカワウソ、ピントロングといった動物たちが円形劇場で繰り広げる「クリーチャー・オブ・ザ・ナイト」は、大迫力で盛り上がること間違いなし。一通り楽しんだら、レストランでディナーやギフトショップでお買い物を楽しみましょう。Night SafariDATA住所：80 Mandai Lake Rd.営業時間：19時15分～24時（レストランやショップは18時30分～）定休日：なし料金：大人S$55、子供（3～12歳）S$38",
+        "image": {
+          "alternateText": "メインレストランの「ウルウル・サファリ」ではアルコールも提供",
+          "height": 491,
+          "sourceUrl": "https://a.mktgcdn.com/p/NSD3mnDd_TdbZSekF9Ex4bdj4bfgf1FJMvM1X7KFwV4/736x491.jpg",
+          "thumbnails": [
+            {
+              "height": 491,
+              "url": "https://a.mktgcdn.com/p-sandbox/9Ax7_FXFpqUq9DR2WzYlSZdhTbl4JfUJfdcQXyk2XKE/736x491.jpg",
+              "width": 736
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/9Ax7_FXFpqUq9DR2WzYlSZdhTbl4JfUJfdcQXyk2XKE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/9Ax7_FXFpqUq9DR2WzYlSZdhTbl4JfUJfdcQXyk2XKE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/9Ax7_FXFpqUq9DR2WzYlSZdhTbl4JfUJfdcQXyk2XKE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9Ax7_FXFpqUq9DR2WzYlSZdhTbl4JfUJfdcQXyk2XKE/736x491.jpg",
+          "width": 736
+        },
+        "imageCaption": "メインレストランの「ウルウル・サファリ」ではアルコールも提供",
+        "sectionTitle": "シンガポール動物園 （Singapore Zoo）"
+      },
+      {
+        "description": "「リバーワンダー」はアジア初の川をテーマにしたパーク。260種、1万1000を超える水生動物と陸生動物が暮らす大規模な動物園で、園内は3エリアに分かれています。おすすめの順路は「リバーズ・オブ・ザ・ワールド」から右回りに進むルート（所要約3時間）。ガンジス川に生息する大型ワニの「インドガビアル」、最大800Vの電気を生成する「電気ウナギ」など、世界の大河の生態系を再現したエリアを楽しみましょう。お次はジャイアントパンダが暮らす「ジャイアントパンダ・フォレスト」へ。2021年に生まれたジャイアントパンダ「LeLe（ルァルァ）」は園内屈指の人気者です。",
+        "image": {
+          "alternateText": "「ジャイアントパンダ・フォレスト」に住むレッサーパンダ",
+          "height": 227,
+          "sourceUrl": "https://a.mktgcdn.com/p/LJL0iOC5oErC9D0r7XXEourZ_1gNiYzPeU26hT2qv2c/341x227.jpg",
+          "thumbnails": [
+            {
+              "height": 227,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vpgxp7dGNJXkbV6KR58ZGqyShMmJaiznNnYYj1haGeI/341x227.jpg",
+              "width": 341
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vpgxp7dGNJXkbV6KR58ZGqyShMmJaiznNnYYj1haGeI/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Vpgxp7dGNJXkbV6KR58ZGqyShMmJaiznNnYYj1haGeI/341x227.jpg",
+          "width": 341
+        },
+        "imageCaption": "「ジャイアントパンダ・フォレスト」に住むレッサーパンダ"
+      },
+      {
+        "description": "最後は南米のアマゾン川をテーマとした「ワイルド・アマゾニア」へ。古代魚のピラルクやアロワナ、マナティの群れなどを観賞できます。ボートに乗ってジャガーやオオアリクイ、カピバラ、リスザルなどの陸上や樹上の動物たちを間近で観察できる「アマゾン・リバー・クエスト」への参加もぜひ。River WondersDATA住所：80 Mandai Lake Rd.営業時間：10～19時（最終入場18時。アマゾン・リバー・クエストの最終乗船は18時 ※チケット公式Webサイトから事前に購入）定休日：なし料金：大人S$42、子供S$30 ※アマゾン・リバー・クエスト(S$5)は別途",
+        "image": {
+          "alternateText": "ボートに乗って川岸の植物や動物を観察する「アマゾン・リバー・クエスト」",
+          "height": 823,
+          "sourceUrl": "https://a.mktgcdn.com/p/hpzMUqvdgx7n_Ana-qVZEubn9CHb1ZwJoZ-FlJkZyrs/1234x823.jpg",
+          "thumbnails": [
+            {
+              "height": 823,
+              "url": "https://a.mktgcdn.com/p-sandbox/JqxYL3vfuvSkXlabmN2jenHUM4OwSFgsBPwaHhwqPbM/1234x823.jpg",
+              "width": 1234
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/JqxYL3vfuvSkXlabmN2jenHUM4OwSFgsBPwaHhwqPbM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/JqxYL3vfuvSkXlabmN2jenHUM4OwSFgsBPwaHhwqPbM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/JqxYL3vfuvSkXlabmN2jenHUM4OwSFgsBPwaHhwqPbM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JqxYL3vfuvSkXlabmN2jenHUM4OwSFgsBPwaHhwqPbM/1234x823.jpg",
+          "width": 1234
+        },
+        "imageCaption": "ボートに乗って川岸の植物や動物を観察する「アマゾン・リバー・クエスト」"
+      },
+      {
+        "description": "シンガポール動物園は、約28万㎡という広大な敷地内に約300種、4200頭もの動物が生息する動物園。“オープン・ズー”をコンセプトとしており、柵や檻が少なく、自然に近い状態の動物たちを見られることが魅力です。特におすすめは、動物たちと一緒に朝食＆記念撮影ができる「ブレックファスト・イン・ザ・ワイルド」。オランウータンの親子がフルーツを食べている横で食事ができちゃいます。",
+        "image": {
+          "alternateText": "「アニマル・フィールディング」ではキリンにエサやりもできる",
+          "height": 370,
+          "sourceUrl": "https://a.mktgcdn.com/p/l5LEtPPmqbuHZgCDs9i95_qzEDNMedr75pzwfObzfwY/555x370.jpg",
+          "thumbnails": [
+            {
+              "height": 370,
+              "url": "https://a.mktgcdn.com/p-sandbox/yXHcmXTKl08IeH2mCUudrPFS5DDDkCBhqmugsEfkmrg/555x370.jpg",
+              "width": 555
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yXHcmXTKl08IeH2mCUudrPFS5DDDkCBhqmugsEfkmrg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yXHcmXTKl08IeH2mCUudrPFS5DDDkCBhqmugsEfkmrg/555x370.jpg",
+          "width": 555
+        },
+        "imageCaption": "「アニマル・フィーディング」ではキリンにエサやりもできる"
+      },
+      {
+        "description": "朝食のあとは、3大ショーを楽しみましょう。芸達者なアシカによるショー「スプラッシュ・サファリ」、動物たちにエサやりができる「アニマル・フィーディング」、ボルネオの住民たちと動物たちの姿を表現するショー「レインフォレスト・ファイト・バック」など、どれも見逃せません。Singapore ZooDATA住所：80 Mandai Lake Rd.営業時間：8時30分～18時（最終入場17時）定休日：なし料金：大人S$48、子供S$33。トラム料金は入場料に含まれる※2023年11月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。",
+        "image": {
+          "alternateText": "インドネシアの限られた列島にのみ生息する「コモドドラゴン」",
+          "height": 279,
+          "sourceUrl": "https://a.mktgcdn.com/p/OZK_3OgWef6ZfXPTsf8vCbhCBJXWtg7hEBH2hpsMwG4/418x279.jpg",
+          "thumbnails": [
+            {
+              "height": 279,
+              "url": "https://a.mktgcdn.com/p-sandbox/pvYVmVnwBoze6koZp3r_oMvPUUWmPGIk3lNnRKZZrWI/418x279.jpg",
+              "width": 418
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/pvYVmVnwBoze6koZp3r_oMvPUUWmPGIk3lNnRKZZrWI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/pvYVmVnwBoze6koZp3r_oMvPUUWmPGIk3lNnRKZZrWI/418x279.jpg",
+          "width": 418
+        },
+        "imageCaption": "インドネシアの限られた列島にのみ生息する「コモドドラゴン」"
+      }
+    ],
+    "c_ap_DatePosted": "2023-12-18",
+    "c_ap_HeroImage": {
+      "alternateText": "シンガポールが世界に誇る3大動物園【シンガポール】",
+      "height": 801,
+      "sourceUrl": "https://a.mktgcdn.com/p/UOK4LTlgqqxSle7Ocb4SFCw88eubeJ861EbfZNuwzBY/1200x801.jpg",
+      "thumbnails": [
+        {
+          "height": 801,
+          "url": "https://a.mktgcdn.com/p-sandbox/aUR3gBq1Vjui-p9Rf4xNjQARN7eHDDf1llDhcrF0YX8/1200x801.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/aUR3gBq1Vjui-p9Rf4xNjQARN7eHDDf1llDhcrF0YX8/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 401,
+          "url": "https://a.mktgcdn.com/p-sandbox/aUR3gBq1Vjui-p9Rf4xNjQARN7eHDDf1llDhcrF0YX8/600x401.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/aUR3gBq1Vjui-p9Rf4xNjQARN7eHDDf1llDhcrF0YX8/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/aUR3gBq1Vjui-p9Rf4xNjQARN7eHDDf1llDhcrF0YX8/1200x801.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "シンガポール動物園のシロサイ。体重は３tでサイのなかで最大",
+    "c_ap_LinkArticleSectionTitle": "シンガポールのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "シンガポール旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/singapore/"
+      },
+      {
+        "linkText": "シンガポールのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dSIN"
+      },
+      {
+        "linkText": "シンガポールのホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/161/?freeword\u003d%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d161"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea4": [
+      "シンガポール"
+    ],
+    "c_ap_ShortDescription": "シンガポールには、世界に誇る3つの動物園があります。夜行性動物の活発な姿を見られると評判の「ナイトサファリ」、川辺の生き物やレッサーパンダなどを観察できる「リバーワンダー」、動物たちと間近でふれあえる「シンガポール動物園」。いずれもシンガポールの郊外に位置しますが、3つの動物園は比較的近くにあるため、1日かけてすべて制覇しちゃいましょう。（写真：シンガポール動物園）",
+    "c_ap_Tags": [
+      "動物園",
+      "ナイトサファリ",
+      "サファリパーク"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "一人旅",
+      "グループ",
+      "動植物園・公園"
+    ],
+    "c_ap_Title": "シンガポールが世界に誇る3大動物園【シンガポール】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "シンガポールには、世界に誇る3つの動物園があります。夜行性動物の活発な姿を見られると評判の「ナイトサファリ」、川辺の生き物やレッサーパンダなどを観察できる「リバーワンダー」、動物たちと間近でふれあえる「シンガポール動物園」。いずれもシンガポールの郊外に位置しますが、3つの動物園は比較的近くにあるため、1日かけてすべて制覇しちゃいましょう。（写真：シンガポール動物園）",
+    "c_metaTitle": "シンガポールが世界に誇る3大動物園【シンガポール】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000151",
+    "name": "シンガポールが世界に誇る3大動物園【シンガポール】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

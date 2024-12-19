@@ -1,0 +1,290 @@
+{
+  "$id": "ap_chiki_100012",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター なつみ"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "開業当時より変わらぬ佇まいを残す本館は、1992年に横浜市認定歴史的建造物、また2007年に経済産業省が選んだ近代化産業遺産の認定を受けました。写真は、そんな歴史ある本館の客室、「本館グランドツイン」です。クラシックホテルならではの雰囲気を楽しみたいなら「本館」のお部屋がおすすめです。さて、ここからは館内ツアーで見学したスポットをご紹介します。（館内ツアーは、専用プランで宿泊を予約したお客様を対象に開催しています）",
+        "image": {
+          "height": 556,
+          "sourceUrl": "https://a.mktgcdn.com/p/w-bl3J5_DD46ljpuFiximbiuu9UDqK2HSuVa9KJc3BU/1487x556.jpg",
+          "thumbnails": [
+            {
+              "height": 556,
+              "url": "https://a.mktgcdn.com/p-sandbox/w-bl3J5_DD46ljpuFiximbiuu9UDqK2HSuVa9KJc3BU/1487x556.jpg",
+              "width": 1487
+            },
+            {
+              "height": 231,
+              "url": "https://a.mktgcdn.com/p-sandbox/w-bl3J5_DD46ljpuFiximbiuu9UDqK2HSuVa9KJc3BU/619x231.jpg",
+              "width": 619
+            },
+            {
+              "height": 224,
+              "url": "https://a.mktgcdn.com/p-sandbox/w-bl3J5_DD46ljpuFiximbiuu9UDqK2HSuVa9KJc3BU/600x224.jpg",
+              "width": 600
+            },
+            {
+              "height": 73,
+              "url": "https://a.mktgcdn.com/p-sandbox/w-bl3J5_DD46ljpuFiximbiuu9UDqK2HSuVa9KJc3BU/196x73.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/w-bl3J5_DD46ljpuFiximbiuu9UDqK2HSuVa9KJc3BU/1487x556.jpg",
+          "width": 1487
+        },
+        "imageCaption": "本館グランドツイン",
+        "sectionTitle": "歴史的建造物の本館館内ツアーに参加しました！"
+      },
+      {
+        "description": "まず、ホテルのシンボル的存在の「大階段」です。開業当時から変わらないイタリア製タイルに、ニューグランドブルーの絨毯が美しく重厚感があります。ホテル自慢の記念撮影スポットです。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/bkeHZKIDrHoItEUwOEjLuKLS_Je0sSc4i_x4uPd24hQ/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/bkeHZKIDrHoItEUwOEjLuKLS_Je0sSc4i_x4uPd24hQ/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/bkeHZKIDrHoItEUwOEjLuKLS_Je0sSc4i_x4uPd24hQ/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/bkeHZKIDrHoItEUwOEjLuKLS_Je0sSc4i_x4uPd24hQ/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/bkeHZKIDrHoItEUwOEjLuKLS_Je0sSc4i_x4uPd24hQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bkeHZKIDrHoItEUwOEjLuKLS_Je0sSc4i_x4uPd24hQ/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "大階段",
+        "sectionTitle": "ホテルニューグランドで誕生した発祥料理"
+      },
+      {
+        "description": "次に、大階段を上がってすぐ2階にある「ザ・ロビー」です。宿泊客以外も利用可能な「ザ・ロビー」は落ち着いた雰囲気で、日常を忘れさせてくれるようなゆったりとした時間が流れています。横浜観光の合間のひと休みに立ち寄ってみてはいかがでしょうか。そんな「ザ・ロビー」にはパワースポットがあります。それが、横浜家具のキングスチェアのひじ掛けに彫られている勝利の女神「ニケ」です。触ると幸せを運んでくれるそうです。訪れた際に、ぜひチェックしてみてください！",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/H4UOkWOS4J1vcsTR7l5sZs_HPbnN6TLeFLwV-CFostI/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/H4UOkWOS4J1vcsTR7l5sZs_HPbnN6TLeFLwV-CFostI/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/H4UOkWOS4J1vcsTR7l5sZs_HPbnN6TLeFLwV-CFostI/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/H4UOkWOS4J1vcsTR7l5sZs_HPbnN6TLeFLwV-CFostI/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/H4UOkWOS4J1vcsTR7l5sZs_HPbnN6TLeFLwV-CFostI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/H4UOkWOS4J1vcsTR7l5sZs_HPbnN6TLeFLwV-CFostI/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ザ・ロビー"
+      },
+      {
+        "description": "最後に、現在は宴会場として使われている「フェニックスルーム」と「レインボーボールルーム」です。「フェニックスルーム」は、ホテルのシンボルマークにもなっている不死鳥が名前の由来です。開業当時はメインダイニングとして、現在も幻のレストランとして、不定期でオープンしており、タイムスリップしたかのような空間で食事を楽しむことができます。「レインボーボールルーム」は、開業当時社交の場である舞踏会場として使用していました。見学と合わせて、ホテルのスタッフの方から歴史の話を聞くことできる館内ツアー、歴史に興味のある方はぜひ参加してみてください♪ 「ホテルニューグランド」の歴史を語る時に欠かせない人物、マッカーサー元帥の話も聞くことができます。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/wIlCB7vSDFp0aq9eZPvATeVjIb6yVVPLU5rJwDjoK_A/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/wIlCB7vSDFp0aq9eZPvATeVjIb6yVVPLU5rJwDjoK_A/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/wIlCB7vSDFp0aq9eZPvATeVjIb6yVVPLU5rJwDjoK_A/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wIlCB7vSDFp0aq9eZPvATeVjIb6yVVPLU5rJwDjoK_A/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/wIlCB7vSDFp0aq9eZPvATeVjIb6yVVPLU5rJwDjoK_A/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wIlCB7vSDFp0aq9eZPvATeVjIb6yVVPLU5rJwDjoK_A/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "フェニックスルーム"
+      },
+      {
+        "description": "「ホテルニューグランド」で誕生し、横浜から日本中へと広まったメニューは、今でも本館1階のコーヒーハウス「ザ・カフェ」で食べることができます。発祥料理の中でも一番人気の「シーフードドリア」は、大きくカットされた海老や帆立などがたっぷりと入っており、シーフードの旨味がぎゅっと詰まったドリアです。こんなに大きいシーフードが入ったドリアを食べたのは初めてで、とてもおいしかったのでおすすめです。「スパゲッティ・ナポリタン」は、もちもちとした麺が特徴的で、前の日に茹でて一晩寝かしているそうです。フレッシュなトマトを使ったトマトソースと、もちもちの麺が絶妙です。「プリン・ア・ラ・モード」は、ガラス製の器にプリンやフルーツ、アイスクリームなどが盛られています。フルーツはリンゴやキウイ、さくらんぼ、オレンジなど種類が多く、見た目も華やかで大満足なボリュームです。お友達とシェアして食べてもいいかもしれません。これらの料理がどのようにして「ホテルニューグランド」で誕生したのか、本館の歴史展示スペースに展示されています。「ザ・カフェ」へ行った際には、歴史展示スペースもチェックしてみてください。伝統料理3品を食べに、ぜひ「ザ・カフェ」へ行ってみてください♪",
+        "image": {
+          "height": 572,
+          "sourceUrl": "https://a.mktgcdn.com/p/D6MR-exwqD_uuk_ZZGzEfFF1SEwBNVJBA0Egj7HwhAo/1513x572.jpg",
+          "thumbnails": [
+            {
+              "height": 572,
+              "url": "https://a.mktgcdn.com/p-sandbox/D6MR-exwqD_uuk_ZZGzEfFF1SEwBNVJBA0Egj7HwhAo/1513x572.jpg",
+              "width": 1513
+            },
+            {
+              "height": 234,
+              "url": "https://a.mktgcdn.com/p-sandbox/D6MR-exwqD_uuk_ZZGzEfFF1SEwBNVJBA0Egj7HwhAo/619x234.jpg",
+              "width": 619
+            },
+            {
+              "height": 227,
+              "url": "https://a.mktgcdn.com/p-sandbox/D6MR-exwqD_uuk_ZZGzEfFF1SEwBNVJBA0Egj7HwhAo/600x227.jpg",
+              "width": 600
+            },
+            {
+              "height": 74,
+              "url": "https://a.mktgcdn.com/p-sandbox/D6MR-exwqD_uuk_ZZGzEfFF1SEwBNVJBA0Egj7HwhAo/196x74.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/D6MR-exwqD_uuk_ZZGzEfFF1SEwBNVJBA0Egj7HwhAo/1513x572.jpg",
+          "width": 1513
+        },
+        "imageCaption": "発祥料理（左：シーフードドリアとスパゲッティ・ナポリタン　右：プリン・ア・ラ・モード）"
+      },
+      {
+        "description": "----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2021-11-11",
+    "c_ap_HeroImage": {
+      "alternateText": "横浜唯一のクラシックホテル『ホテルニューグランド』【神奈川県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/_D5ZxomHujWG7tOoiTzSnmv2TrreoU4OxPLZew6s22k/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/_D5ZxomHujWG7tOoiTzSnmv2TrreoU4OxPLZew6s22k/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/_D5ZxomHujWG7tOoiTzSnmv2TrreoU4OxPLZew6s22k/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/_D5ZxomHujWG7tOoiTzSnmv2TrreoU4OxPLZew6s22k/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/_D5ZxomHujWG7tOoiTzSnmv2TrreoU4OxPLZew6s22k/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/_D5ZxomHujWG7tOoiTzSnmv2TrreoU4OxPLZew6s22k/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkArticleSectionTitle": "神奈川県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ホテルニューグランドのご予約はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/4238001/plan/?hotellistsort\u003drecommend\u0026staynight\u003d1\u0026room\u003d1\u0026roomassign\u003dm0f0a0b0c0d0\u0026mapdisp\u003d0\u0026planinfokeywordon\u003d1\u0026tyfilteron\u003d1\u0026hotel\u003d4238001\u0026stayplacedisplay\u003d%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "神奈川県"
+    ],
+    "c_ap_ShortDescription": "関東大震災後、1927年（昭和2年）に、ヨコハマのシンボルとして開業した「ホテルニューグランド」をご紹介します。海外からの要人の迎賓館として、マッカーサー元帥やチャーリー・チャップリン、ベーブ・ルースなど数多くの著名人に愛された日本有数のクラシックホテルです。訪れた頃は、ホテル目の前の山下公園にたくさんのバラが咲いており、とても綺麗でした。イチョウ並木もこれから紅葉し、黄色く色づくとのことです。",
+    "c_ap_Tags": [
+      "横浜",
+      "クラシックホテル",
+      "ホテルグルメ",
+      "館内ツアー"
+    ],
+    "c_ap_Theme": [
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "横浜唯一のクラシックホテル『ホテルニューグランド』【神奈川県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "関東大震災後、1927年（昭和2年）に、ヨコハマのシンボルとして開業した「ホテルニューグランド」をご紹介します。海外からの要人の迎賓館として、マッカーサー元帥やチャーリー・チャップリン、ベーブ・ルースなど数多…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "横浜唯一のクラシックホテル『ホテルニューグランド』【神奈川県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100012",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "神奈川県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "横浜唯一のクラシックホテル『ホテルニューグランド』【神奈川県】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

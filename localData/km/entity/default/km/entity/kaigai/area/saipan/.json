@@ -1,0 +1,27 @@
+{
+  "$id": "kaigai/area/saipan/",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_searchArea1": [
+      "海外"
+    ],
+    "description": "サイパン旅行ならJTBのサイパンツアー予約がおすすめ。サイパン観光は、碧い海とビーチ、ガラパンでの買い物、マニャガハ島でのマリンアクティビティ、世界的に有名なグロットでのダイビング・シュノーケリングなど見所満載。定番観光はもちろん、ホテル滞在も大満足！子連れ旅行に安心のPICや人気のハイアットなどおすすめ多数。JTBなら価格重視ツアーからハネムーン向けの高級ツアーまで、東京発・関空発・福岡発など各地発の多数のパッケージツアーがあるので、旅のスタイルや予算に応じて比較してみて！",
+    "displayCoordinate": {
+      "latitude": 15.2646907,
+      "longitude": 145.8147151
+    },
+    "keywords": [
+      "サイパン",
+      "旅行",
+      "ツアー",
+      "JTB"
+    ],
+    "landingPageUrl": "https://www.jtb.co.jp/kaigai/area/saipan/",
+    "name": "サイパン旅行・サイパンツアー"
+  },
+  "entityType": "ce_area2",
+  "folder": "海外ツアー",
+  "labels": []
+}

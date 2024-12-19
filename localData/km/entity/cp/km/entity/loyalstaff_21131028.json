@@ -1,0 +1,139 @@
+{
+  "$id": "cp_loyalstaff_21131028",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "大阪府",
+    "c_cp_CTA1": {
+      "label": "田丸 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVfdBVX",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBk_q",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "海外旅行が大好きで、1番心が動いた場所はカナダのバンフ国立公園です。\nハワイやバリ島での優雅なホテルステイや、パリやニューヨークなど都市での街歩き、そして台湾や韓国でのグルメ旅などなんでもお任せ下さい♪\nぜひご来店いただいた際にはご旅行で楽しみにされていることを教えてください！\nお客様のご期待にお応えするプランを提案できるよう精一杯務めさせて頂きます。\n皆様のご来店を心よりお待ちしております。",
+    "c_cp_DisplayName": "田丸",
+    "c_cp_FieldOfExpertise": [
+      "母娘旅",
+      "夫婦旅",
+      "ハネムーン",
+      "記念旅行",
+      "テーマパーク",
+      "ショッピング",
+      "温泉・立ち寄り湯",
+      "音楽ライブ"
+    ],
+    "c_cp_GeneralInfo": [
+      "エリアスペシャリスト（ヨーロッパⅡ）",
+      "ハワイスペシャリスト検定 ハープウ（上級）",
+      "クルーズアドバイザーコンサルタント",
+      "好きな街：シンガポール、バンフ、ホノルル"
+    ],
+    "c_cp_HeroImage": {
+      "height": 449,
+      "sourceUrl": "https://a.mktgcdn.com/p/k3XJoEqHRZ3uaHSmGNjtwR90c3DmI84BXNI4vevR5_Y/600x449.jpg",
+      "thumbnails": [
+        {
+          "height": 449,
+          "url": "https://a.mktgcdn.com/p-sandbox/k3XJoEqHRZ3uaHSmGNjtwR90c3DmI84BXNI4vevR5_Y/600x449.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/k3XJoEqHRZ3uaHSmGNjtwR90c3DmI84BXNI4vevR5_Y/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/k3XJoEqHRZ3uaHSmGNjtwR90c3DmI84BXNI4vevR5_Y/600x449.jpg",
+      "width": 600
+    },
+    "c_cp_HiraganaName": "たまる",
+    "c_cp_JobTitle": "JTBロイヤルスタッフ（JTBトラベルゲート大阪梅田 所属）",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 620,
+      "sourceUrl": "https://a.mktgcdn.com/p/C9rbWpn1yVjxVkyAD9BdwG1wpDw3QujPbAv2l4Yt30w/620x620.jpg",
+      "thumbnails": [
+        {
+          "height": 620,
+          "url": "https://a.mktgcdn.com/p-sandbox/q_xHghZDsKY21Dt4WvU0zuY4xyFEPyCZEllfOd8aDwY/620x620.jpg",
+          "width": 620
+        },
+        {
+          "height": 619,
+          "url": "https://a.mktgcdn.com/p-sandbox/q_xHghZDsKY21Dt4WvU0zuY4xyFEPyCZEllfOd8aDwY/619x619.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/q_xHghZDsKY21Dt4WvU0zuY4xyFEPyCZEllfOd8aDwY/450x450.jpg",
+          "width": 450
+        },
+        {
+          "height": 196,
+          "url": "https://a.mktgcdn.com/p-sandbox/q_xHghZDsKY21Dt4WvU0zuY4xyFEPyCZEllfOd8aDwY/196x196.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/q_xHghZDsKY21Dt4WvU0zuY4xyFEPyCZEllfOd8aDwY/620x620.jpg",
+      "width": 620
+    },
+    "c_cp_RoyalStaff": true,
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム",
+      "オーストラリア"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "フランス",
+      "イタリア"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国",
+      "台湾",
+      "シンガポール"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道",
+      "青森県"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "千葉県",
+      "東京都",
+      "神奈川県"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "北陸全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "近畿全般"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "四国全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "インスタ",
+      "ホノルル"
+    ],
+    "c_metaDescription": "海外旅行が大好きで、1番心が動いた場所はカナダのバンフ国立公園です。ハワイやバリ島での優雅なホテルステイや、パリやニューヨークなど都市での街歩き、そして台湾や韓国でのグルメ旅などなんでもお任せ下さい♪…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "JTBロイヤルスタッフ 田丸（JTBトラベルゲート大阪梅田 所属）",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_loyalstaff_21131028",
+    "c_responsibleService": [
+      "ロイヤルスタッフ"
+    ],
+    "c_v2Folder": "10317_トラベルゲート大阪梅田",
+    "name": "LS_田丸",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

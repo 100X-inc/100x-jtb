@@ -1,0 +1,351 @@
+{
+  "$id": "news_ap_osarea_0000051",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 加川香菜子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "グアムのサンセットとディナーを楽しもう！シービューダイニング5選【グアム】",
+      "height": 576,
+      "sourceUrl": "https://a.mktgcdn.com/p/8VJ3znSu9vPbztRW2JzWtl13_jT3jGK0EPYdQoS0xPY/1280x576.jpg",
+      "thumbnails": [
+        {
+          "height": 576,
+          "url": "https://a.mktgcdn.com/p-sandbox/pAH6seX52dVLqDwVfn8ctos7s96_4zc1ouruZRCJ0Oo/1280x576.jpg",
+          "width": 1280
+        },
+        {
+          "height": 279,
+          "url": "https://a.mktgcdn.com/p-sandbox/pAH6seX52dVLqDwVfn8ctos7s96_4zc1ouruZRCJ0Oo/619x279.jpg",
+          "width": 619
+        },
+        {
+          "height": 270,
+          "url": "https://a.mktgcdn.com/p-sandbox/pAH6seX52dVLqDwVfn8ctos7s96_4zc1ouruZRCJ0Oo/600x270.jpg",
+          "width": 600
+        },
+        {
+          "height": 88,
+          "url": "https://a.mktgcdn.com/p-sandbox/pAH6seX52dVLqDwVfn8ctos7s96_4zc1ouruZRCJ0Oo/196x88.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/pAH6seX52dVLqDwVfn8ctos7s96_4zc1ouruZRCJ0Oo/1280x576.jpg",
+      "width": 1280
+    },
+    "c_ap_HeroImageCaption": "オンザビーチのレストランは波音が心地よい",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "グアム旅行をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/guam/"
+      },
+      {
+        "linkText": "グアムのツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dGUM"
+      },
+      {
+        "linkText": "グアムの現地ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aGUM/bGU/"
+      },
+      {
+        "linkText": "グアムのホテルをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/02/70/?freeword\u003d%E3%82%B0%E3%82%A2%E3%83%A0\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d70"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "爽やかな潮風を感じて海を眺めながら食事をするのは南国リゾートならではのお楽しみ。日中は青い海と空を、夕方は美しいサンセットを楽しみながらお腹も満たせる、おすすめのシービューダイニングをご紹介します。サンセットタイムは人気なので予約をお忘れなく！（写真：ザ・ビーチレストラン＆バー）",
+    "c_ap_Tags": [
+      "サンセット",
+      "ビーチ",
+      "ダイニング",
+      "絶景"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "グループ",
+      "グルメ",
+      "お酒",
+      "リゾート"
+    ],
+    "c_ap_Title": "グアムのサンセットとディナーを楽しもう！シービューダイニング5選【グアム】",
+    "c_linkedArea3News": [
+      "guam"
+    ],
+    "c_metaDescription": "シービューダイニングで日中は青い海と空を、夕方は美しいサンセットを楽しみながらディナーを満喫しよう！最高級ホテル「デュシタニグアムリゾート」にあるタシグリルをはじめ、おすすめのレストラン・ダイニングをご紹介します。サンセットタイムは人気なので予約をお忘れなく！",
+    "c_metaTitle": "グアムのサンセットとディナーを楽しもう！シービューダイニング5選【グアム】",
+    "c_news_CTAs": [
+      {
+        "label": "グアムのホテルをみる",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/02/70/?freeword\u003d%E3%82%B0%E3%82%A2%E3%83%A0\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d70",
+        "linkType": "URL"
+      },
+      {
+        "label": "グアムの現地ツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aGUM/bGU/",
+        "linkType": "URL"
+      },
+      {
+        "label": "グアム旅行をみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/guam/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ビーチハウスグリルのBBQディナーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/prddetail/p200011777/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "デュシットビーチリゾートグアムをみる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/1740/?htlPlfId\u003daf6ca2d9454a4f3faf9dfa63204d2543\u0026htlSrhRstSeq\u003d2838\u0026chkinDt\u003d2024-08-21\u0026chkoutDt\u003d2024-08-22\u0026numRm\u003d1\u0026totalUser\u003d2\u0026adltNumRm1\u003d2\u0026adltNumRm2\u003d1\u0026adltNumRm3\u003d1\u0026adltNumRm4\u003d1\u0026chldNumRm1\u003d0\u0026chldNumRm2\u003d0\u0026chldNumRm3\u003d0\u0026chldNumRm4\u003d0\u0026chldAgeRm1\u003d0%2C0%2C0\u0026chldAgeRm2\u003d0%2C0%2C0\u0026chldAgeRm3\u003d0%2C0%2C0\u0026chldAgeRm4\u003d0%2C0%2C0\u0026directionNm\u003d\u0026countryNm\u003d%E3%82%B0%E3%82%A2%E3%83%A0\u0026cityNm\u003d\u0026cityRegionId\u003d",
+          "linkType": "URL"
+        },
+        "description": "タモン湾の最北、ガン・ビーチに面した「ザ・ビーチレストラン＆バー」は、歩けば波打ち際がすぐそばという絶好のロケーション。テーブル席やソファ席があり、目の前のパノラマビューを堪能しながら食事が楽しめます。メニューはハンバーガーやサンドイッチ、BBQプレートなどしっかり食べられるお食事系のほか、おつまみ系もスタンバイ。ビーチフロントのお店なので、遮るものが何もない最高のサンセットタイムを過ごすことができますよ。",
+        "image": {
+          "alternateText": "開放感あふれる雰囲気で食事やドリンクを満喫",
+          "height": 4500,
+          "sourceUrl": "https://a.mktgcdn.com/p/89RhLw3qjLxgakdZf9k2jPcfAtRVMe523eyGlu3KP9o/3000x4500.jpg",
+          "thumbnails": [
+            {
+              "height": 4500,
+              "url": "https://a.mktgcdn.com/p-sandbox/jZLXhBqc_geHJTZTDD7dZTcABMfYlwhlxiL6GHKb3zs/3000x4500.jpg",
+              "width": 3000
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/jZLXhBqc_geHJTZTDD7dZTcABMfYlwhlxiL6GHKb3zs/1267x1900.jpg",
+              "width": 1267
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/jZLXhBqc_geHJTZTDD7dZTcABMfYlwhlxiL6GHKb3zs/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/jZLXhBqc_geHJTZTDD7dZTcABMfYlwhlxiL6GHKb3zs/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/jZLXhBqc_geHJTZTDD7dZTcABMfYlwhlxiL6GHKb3zs/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jZLXhBqc_geHJTZTDD7dZTcABMfYlwhlxiL6GHKb3zs/3000x4500.jpg",
+          "width": 3000
+        },
+        "imageCaption": "開放感あふれる雰囲気で食事やドリンクを満喫",
+        "infoBlockLabel": "The Beach Restaurant \u0026 Barの情報",
+        "infoBlockText": "住所：Gun Beach, Rd.営業時間：16～22時（木・金曜は～翌1時、土曜は12時～翌1時、日曜は12時～）定休日：なし",
+        "sectionTitle": "ザ・ビーチレストラン＆バー　（The Beach Restaurant \u0026 Bar）"
+      },
+      {
+        "cTA1": {
+          "label": "デュシタニグアムリゾートをみる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/4506/?htlPlfId\u003daf6ca2d9454a4f3faf9dfa63204d2543\u0026htlSrhRstSeq\u003d3119\u0026chkinDt\u003d2024-08-21\u0026chkoutDt\u003d2024-08-22\u0026numRm\u003d1\u0026totalUser\u003d2\u0026adltNumRm1\u003d2\u0026adltNumRm2\u003d1\u0026adltNumRm3\u003d1\u0026adltNumRm4\u003d1\u0026chldNumRm1\u003d0\u0026chldNumRm2\u003d0\u0026chldNumRm3\u003d0\u0026chldNumRm4\u003d0\u0026chldAgeRm1\u003d0%2C0%2C0\u0026chldAgeRm2\u003d0%2C0%2C0\u0026chldAgeRm3\u003d0%2C0%2C0\u0026chldAgeRm4\u003d0%2C0%2C0\u0026directionNm\u003d\u0026countryNm\u003d%E3%82%B0%E3%82%A2%E3%83%A0\u0026cityNm\u003d\u0026cityRegionId\u003d",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "見るだけじゃもったいない！ダイビング・スノーケリングを体験",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/guam/news_ap_osarea_0000053",
+          "linkType": "URL"
+        },
+        "description": "タモンエリアで最も賑やかな「デュシットビーチリゾートグアム」周辺は、ビーチ沿いにはレストランやカフェが並んでいます。「ビーチ・ハウス・グリル」もそのひとつ。サンセット前からスタートする2部制のバーベキューディナーを提供していて、各テーブルの専用グリルで食材を焼いて、わいわい楽しむセルフスタイルです。＄60、＄90、＄110の3コースがあり、ロブスターやタイガーシュリンプ、ビーフテンダーロイン、チキンなど、シーフードもお肉も食べたい方には大満足の食材がずらり。さらに各コースには、前菜、サラダ、麺類、デザートなどのビュッフェが付いています。サンセットを眺めながらバーベキューを満喫するなら1部目の17時30分～の予約がマストです。",
+        "image": {
+          "alternateText": "美しいビーチを眺めながら至福のバーベキュー",
+          "height": 3235,
+          "sourceUrl": "https://a.mktgcdn.com/p/RUC5YBlkAT9YvgvXL-elCtflUmjf02vgGI1vLbBe4Ow/2588x3235.jpg",
+          "thumbnails": [
+            {
+              "height": 3235,
+              "url": "https://a.mktgcdn.com/p-sandbox/F-u2k1NOx9S5cAmy8Ke1h_Xue0zuugrMQg0qTMelaZA/2588x3235.jpg",
+              "width": 2588
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/F-u2k1NOx9S5cAmy8Ke1h_Xue0zuugrMQg0qTMelaZA/1520x1900.jpg",
+              "width": 1520
+            },
+            {
+              "height": 774,
+              "url": "https://a.mktgcdn.com/p-sandbox/F-u2k1NOx9S5cAmy8Ke1h_Xue0zuugrMQg0qTMelaZA/619x774.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/F-u2k1NOx9S5cAmy8Ke1h_Xue0zuugrMQg0qTMelaZA/360x450.jpg",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "https://a.mktgcdn.com/p-sandbox/F-u2k1NOx9S5cAmy8Ke1h_Xue0zuugrMQg0qTMelaZA/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/F-u2k1NOx9S5cAmy8Ke1h_Xue0zuugrMQg0qTMelaZA/2588x3235.jpg",
+          "width": 2588
+        },
+        "imageCaption": "美しいビーチを眺めながら至福のバーベキュー",
+        "infoBlockLabel": "Beach House Grillの情報",
+        "infoBlockText": "住所：1255 Pale San Vitores Rd. デュシットビーチリゾートグアム内営業時間：17時30分～19時、19時30分～21時の2部制定休日：なし",
+        "sectionTitle": "ビーチ・ハウス・グリル（Beach House Grill）"
+      },
+      {
+        "cTA1": {
+          "label": "グアムリーフホテルをみる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/3946/?htlPlfId\u003daf6ca2d9454a4f3faf9dfa63204d2543\u0026htlSrhRstSeq\u003d3281\u0026chkinDt\u003d2024-08-21\u0026chkoutDt\u003d2024-08-22\u0026numRm\u003d1\u0026totalUser\u003d2\u0026adltNumRm1\u003d2\u0026adltNumRm2\u003d1\u0026adltNumRm3\u003d1\u0026adltNumRm4\u003d1\u0026chldNumRm1\u003d0\u0026chldNumRm2\u003d0\u0026chldNumRm3\u003d0\u0026chldNumRm4\u003d0\u0026chldAgeRm1\u003d0%2C0%2C0\u0026chldAgeRm2\u003d0%2C0%2C0\u0026chldAgeRm3\u003d0%2C0%2C0\u0026chldAgeRm4\u003d0%2C0%2C0\u0026directionNm\u003d\u0026countryNm\u003d%E3%82%B0%E3%82%A2%E3%83%A0\u0026cityNm\u003d\u0026cityRegionId\u003d",
+          "linkType": "URL"
+        },
+        "description": "賑やかなタモンエリアの中心部にある「タシグリル」は、トロピカルガーデンとビーチに囲まれたエレガントな雰囲気が漂うビーチフロントのレストラン。昼から夜までの営業なので、ランチは青い海とビーチを、ディナーはサンセットを眺めながら食事が楽しめます。こちらのお店はシーフードのメニューが評判で、新鮮な魚介を多国籍風にアレンジした料理をオリジナルカクテルと一緒に味わうのがおすすめです。タモン湾が見渡せるビーチ側のテラス席は人気なので早めの予約がベター。",
+        "image": {
+          "alternateText": "アトランティックサーモン＄36、アヒツナポケ＄20、マンゴラーダ＄14",
+          "height": 3000,
+          "sourceUrl": "https://a.mktgcdn.com/p/hLT4w8u6CZRELpjcnh5r9qMSTxv8zg16P30-7GcB9bY/2000x3000.jpg",
+          "thumbnails": [
+            {
+              "height": 3000,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bs166Z9rY0-HcETgFWOS6QuTR5PYa6WNKEs1i2SZZs4/2000x3000.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bs166Z9rY0-HcETgFWOS6QuTR5PYa6WNKEs1i2SZZs4/1267x1900.jpg",
+              "width": 1267
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bs166Z9rY0-HcETgFWOS6QuTR5PYa6WNKEs1i2SZZs4/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bs166Z9rY0-HcETgFWOS6QuTR5PYa6WNKEs1i2SZZs4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bs166Z9rY0-HcETgFWOS6QuTR5PYa6WNKEs1i2SZZs4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Bs166Z9rY0-HcETgFWOS6QuTR5PYa6WNKEs1i2SZZs4/2000x3000.jpg",
+          "width": 2000
+        },
+        "imageCaption": "アトランティックサーモン＄36、アヒツナポケ＄20、マンゴラーダ＄14",
+        "infoBlockLabel": "Tasi Grillの情報",
+        "infoBlockText": "住所：1227 Pale San Vitores Rd.　デュシタニグアムリゾート内営業時間：11～21時定休日：なし",
+        "sectionTitle": "タシグリル（Tasi Grill）"
+      },
+      {
+        "cTA1": {
+          "label": "海の上でも楽しもう！人気アクティビティ・マリンスポーツをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/guam/news_web_kaigai_0011",
+          "linkType": "URL"
+        },
+        "description": "「グアムリーフホテル」のプールサイドにあるバー＆レストラン「センチュリーXXI」。昼間の爽やかなオーシャンビューも素晴らしいですが、ロマンティックなサンセットタイムが特におすすめです。オレンジ色から赤、紫と刻々と変化するドラマチックな夕日はもちろん、プールサイドの席からはタモン湾に立ち並ぶ、きらめくホテルの明かりも見ることができ華やかな雰囲気に包まれます。メニューは軽食からピザやパスタ、ステーキまでバリエーション豊富。特に自家製バンズを使ったハンバーガーが人気です。",
+        "image": {
+          "alternateText": "プールサイドバーではオリジナルカクテル＄12～が楽しめる",
+          "height": 504,
+          "sourceUrl": "https://a.mktgcdn.com/p/UtJOUUWFIQCo25RA77YaPiL7eZWdK0p5CptPA5R_nx4/757x504.jpg",
+          "thumbnails": [
+            {
+              "height": 504,
+              "url": "https://a.mktgcdn.com/p-sandbox/992D-SWRA6i5ntZvSzmdvl9RuBzcpB4rQgX4I4U5wzQ/757x504.jpg",
+              "width": 757
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/992D-SWRA6i5ntZvSzmdvl9RuBzcpB4rQgX4I4U5wzQ/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/992D-SWRA6i5ntZvSzmdvl9RuBzcpB4rQgX4I4U5wzQ/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/992D-SWRA6i5ntZvSzmdvl9RuBzcpB4rQgX4I4U5wzQ/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/992D-SWRA6i5ntZvSzmdvl9RuBzcpB4rQgX4I4U5wzQ/757x504.jpg",
+          "width": 757
+        },
+        "imageCaption": "プールサイドバーではオリジナルカクテル＄12～が楽しめる",
+        "infoBlockLabel": "Century XXIの情報",
+        "infoBlockText": "住所：1317 Pale San Vitores Rd. グアムリーフホテル内営業時間：11時～14時30分、16時～22時30分（22時LO）定休日：なし",
+        "sectionTitle": "センチュリーXXI（Century XXI）"
+      },
+      {
+        "description": "グアム国際空港近くの高台にある「キャピトルキッチン」はローカル注目のシービューダイニングです。シービューダイニングといえばタモンエリアにあるビーチフロントのお店が定番ですが、こちらのお店は高台にあるので、街並み越しに青い海を見渡すことができるグアムでは貴重なスポットです。ダイナミックな眺望が楽しめるテラス席のほか、大きなガラス張りの店内からも絶景を見られます。メニューはランチ、ディナーともに前菜、サラダ、メインが用意されていて、シェフのセンスが光る料理を眺めとともに堪能できますよ。",
+        "image": {
+          "alternateText": "フレッシュアイランドアヒポキ＄16など、創作料理が中心",
+          "height": 2700,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZiA8rlvu-8WnDAjI7mJ4l3bLn1KS5F1lXuAZJiZiIrk/1800x2700.jpg",
+          "thumbnails": [
+            {
+              "height": 2700,
+              "url": "https://a.mktgcdn.com/p-sandbox/iVnYgeIdaXuKDnyk9jvg3CTDSHVwCDfuTZYt40MlQeA/1800x2700.jpg",
+              "width": 1800
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/iVnYgeIdaXuKDnyk9jvg3CTDSHVwCDfuTZYt40MlQeA/1267x1900.jpg",
+              "width": 1267
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/iVnYgeIdaXuKDnyk9jvg3CTDSHVwCDfuTZYt40MlQeA/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/iVnYgeIdaXuKDnyk9jvg3CTDSHVwCDfuTZYt40MlQeA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/iVnYgeIdaXuKDnyk9jvg3CTDSHVwCDfuTZYt40MlQeA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iVnYgeIdaXuKDnyk9jvg3CTDSHVwCDfuTZYt40MlQeA/1800x2700.jpg",
+          "width": 1800
+        },
+        "imageCaption": "フレッシュアイランドアヒポキ＄16など、創作料理が中心",
+        "infoBlockLabel": "Capitol Kitchenの情報",
+        "infoBlockText": "住所：807 Rt 10A Tiyan Parkway East Airport Road.営業時間：11～14時、18～22時（日曜は～14時30分）定休日：なし※2023年5月時点の情報です。",
+        "sectionTitle": "キャピトルキッチン（Capitol Kitchen）"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000052",
+      "news_ap_osarea_0000053",
+      "news_ap_osarea_0000054",
+      "news_ap_osarea_0000055"
+    ],
+    "c_news_FeaturedArticlesTitle": "グアムのその他の投稿記事",
+    "c_news_PublicationDate": "2023-07-06",
+    "c_news_UpdateDate": "2024-07-22",
+    "c_news_ViewCount": "1219",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "1219",
+    "c_news_ViewCountNum": "1219",
+    "c_news_ViewCountNumForSorting": "61",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/guam/news_ap_osarea_0000051",
+    "name": "グアムのサンセットとディナーを楽しもう！シービューダイニング5選【グアム】",
+    "slug": "kaigai/beach_resort/guam/news_ap_osarea_0000051",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

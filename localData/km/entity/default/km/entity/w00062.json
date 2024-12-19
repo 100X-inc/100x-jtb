@@ -1,0 +1,14 @@
+{
+  "$id": "w00062",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": false,
+    "c_answer_HTML": "予約後、予約確認書が２通以上届いた場合、【お問い合わせ番号】をご確認下さい。\u003cbr\u003e異なる【お問い合わせ番号】の場合は、2件以上の予約が取れております。　　　\u003cbr\u003eご利用されないご予約（誤ってお申込みいただきましたご予約）のお取消につきましては、MyJTBページよりお客様ご自身でお取消のお手続きをお願い致します。お手続き時期により、所定の取消料が発生しますので予約詳細画面で必ずご確認ください。\u003cbr\u003e\u003cbr\u003e■『MyJTB（トラベルメンバー専用ページ）』ログインページ\u003cbr\u003ehttps://member.jtb.co.jp/myjtb/login.aspx?pn\u003d056\u0026amp;siteid\u003dmyreserved\u003cbr\u003e※「現在お申込み中の旅行」の予約詳細確認/取消ボタン押下後の次ページ、予約詳細画面にて予約内容を確認いただけます。",
+    "landingPageUrl": "https://customerhelp.jtb.co.jp/s/article/w00062",
+    "name": "【海外添乗員同行ツアー(全般)】予約後、同じ内容のメールが２通以上届いた場合",
+    "question": "【海外添乗員同行ツアー(全般)】予約後、同じ内容のメールが２通以上届いた場合"
+  },
+  "entityType": "faq",
+  "labels": []
+}

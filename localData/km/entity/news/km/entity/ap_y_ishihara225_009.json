@@ -1,0 +1,481 @@
+{
+  "$id": "news_ap_y_ishihara225_009",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 石原　優子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "原鶴温泉（はらづるおんせん）",
+      "height": 801,
+      "sourceUrl": "http://a.mktgcdn.com/p/InoZgVtGRmKpVakHyD6Yc36Ssw7W-LjeuZsWLKh3X9s/1200x801.jpg",
+      "thumbnails": [
+        {
+          "height": 801,
+          "url": "//a.mktgcdn.com/p-sandbox/InoZgVtGRmKpVakHyD6Yc36Ssw7W-LjeuZsWLKh3X9s/1200x801.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/InoZgVtGRmKpVakHyD6Yc36Ssw7W-LjeuZsWLKh3X9s/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 401,
+          "url": "//a.mktgcdn.com/p-sandbox/InoZgVtGRmKpVakHyD6Yc36Ssw7W-LjeuZsWLKh3X9s/600x401.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/InoZgVtGRmKpVakHyD6Yc36Ssw7W-LjeuZsWLKh3X9s/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/InoZgVtGRmKpVakHyD6Yc36Ssw7W-LjeuZsWLKh3X9s/1200x801.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "原鶴温泉（はらづるおんせん）",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "福岡県のホテル・旅館をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/fukuoka/"
+      },
+      {
+        "linkText": "福岡県の『温泉宿』をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/fukuoka/feature/k_onsen/"
+      },
+      {
+        "linkText": "福岡県のツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/fukuoka/"
+      },
+      {
+        "linkText": "温泉旅行におすすめの温泉宿・旅館・ホテル",
+        "uRL": "https://www.jtb.co.jp/onsen/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "周防灘、玄界灘、有明海の３つの海に囲まれた福岡県は、新鮮な魚介類がおいしい県。イチゴなどのフルーツ栽培も盛んで、博多ラーメンやもつ鍋などの郷土料理も楽しみです。大宰府などの歴史ポイントや「博多祇園山笠」、「博多どんたく」などの伝統ある祭りでもよく知られています。温泉としては、万葉集にも詠まれた二日市温泉など歴史ある温泉が人気です。そんな福岡県のおすすめ温泉地をご紹介します。",
+    "c_ap_Tags": [
+      "温泉",
+      "九州エリア",
+      "福岡県",
+      "博多",
+      "九州全般",
+      "北九州",
+      "温泉記事",
+      "温泉地まとめ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "温泉・立ち寄り湯"
+    ],
+    "c_ap_Title": "福岡県の人気温泉地 おすすめ9選",
+    "c_linkedArea3News": [
+      "fukuoka"
+    ],
+    "c_metaDescription": "福岡県の有名温泉地10選をご紹介！日帰りでも楽しめる温泉や、旅館でゆっくり過ごせる人気の温泉地、露天風呂からの景色が魅力の穴場温泉などもピックアップ！温泉街で散策を楽しむのもおすすめです。",
+    "c_metaTitle": "福岡県の人気温泉地 おすすめ9選｜JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "福岡県のホテル・旅館をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/fukuoka/",
+        "linkType": "URL"
+      },
+      {
+        "label": "福岡県のツアー・パックをみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/fukuoka/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "グリーンピア八女をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8157301/plan/",
+          "linkType": "URL"
+        },
+        "description": "標高460mの大自然の中、ホテル、コテージなど施設充実の温泉福岡県の南部に位置し、町の中央部を矢部川が流れる自然豊かな八女市黒木町の山間部にあるのが「グリーンピア八女」。地下1600mから湧き出る自家源泉の黒木温泉と、ホテル、コテージの宿泊施設、プール、テニスコート、フットサル場、体育館などが複合したレジャースポットだ。別棟となっている温泉施設「くつろぎの湯」は、2種類の大浴場・露天風呂からなり、日替わりで男女が交代する。また、夜の露天風呂から見える満天の星空も必見。大自然の中、肌にやさしいアルカリ性単純温泉の泉質の湯で、心も体もリフレッシュできる。日帰り入浴も可能だ(営業時間等は要確認)。",
+        "image": {
+          "alternateText": "黒木温泉(くろきおんせん)",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/UoFR9DZEAwwCFrQAUoN2j7F-zmwsWeV2j-rVjbrfkx0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/UoFR9DZEAwwCFrQAUoN2j7F-zmwsWeV2j-rVjbrfkx0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/UoFR9DZEAwwCFrQAUoN2j7F-zmwsWeV2j-rVjbrfkx0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/UoFR9DZEAwwCFrQAUoN2j7F-zmwsWeV2j-rVjbrfkx0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/UoFR9DZEAwwCFrQAUoN2j7F-zmwsWeV2j-rVjbrfkx0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/UoFR9DZEAwwCFrQAUoN2j7F-zmwsWeV2j-rVjbrfkx0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "黒木温泉(くろきおんせん)",
+        "infoBlockLabel": "黒木温泉の情報",
+        "infoBlockText": "所在地：福岡県八女市黒木町木屋10905泉温：33℃源泉：1湯量：120リットル／分飲用：不可泉質：アルカリ性単純温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性など宿泊施設数：1アクセス：（公共交通）ＪＲ羽犬塚駅から堀川バス黒木方面行きで40分、バス停：黒木営業所下車、タクシーで20分（車）九州道八女ICから国道442号、県道802号経由22km",
+        "sectionTitle": "黒木温泉"
+      },
+      {
+        "cTA1": {
+          "label": "休暇村 志賀島をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8113421/plan/",
+          "linkType": "URL"
+        },
+        "description": "福岡観光に最適の那珂川沿いに湧く温泉政令指定都市で九州最大の街・福岡市内にも、いくつかの温泉が湧出している。博多駅の南西約6km、那珂川中流域に湧く博多温泉には、ゴルフ練習場を併設する温泉宿「博多温泉 富士の苑」がある。博多の中心街から車で20分ほどの距離にありながら、高温で湯量豊富な温泉が湧出する。また、近くには共同浴場の「博多温泉 元湯」もある。福岡空港からも近く、福岡タワーや福岡PayPayドーム、屋台めぐりなど、福岡観光の拠点にもおすすめだ。",
+        "image": {
+          "alternateText": "博多温泉(はかたおんせん)",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/xDvF2DfT2wgwHapl4corMfSLB9SbxRmdEL_7vlB8EMc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/xDvF2DfT2wgwHapl4corMfSLB9SbxRmdEL_7vlB8EMc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/xDvF2DfT2wgwHapl4corMfSLB9SbxRmdEL_7vlB8EMc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/xDvF2DfT2wgwHapl4corMfSLB9SbxRmdEL_7vlB8EMc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/xDvF2DfT2wgwHapl4corMfSLB9SbxRmdEL_7vlB8EMc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xDvF2DfT2wgwHapl4corMfSLB9SbxRmdEL_7vlB8EMc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "博多温泉(はかたおんせん)",
+        "infoBlockLabel": "博多温泉の情報",
+        "infoBlockText": "所在地：福岡県福岡市南区三宅・横手泉温：45.5～58.6℃源泉：10湯量：施設により異なる飲用：可泉質：カルシウム・ナトリウム-塩化物泉など効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、慢性消化器病、打ち身、切り傷、やけど、慢性皮ふ病、痔疾、慢性婦人病など宿泊施設数：1アクセス：（公共交通）ＪＲ博多駅から車で20分（車）福岡都市高速野多目出入口から国道385号経由1km",
+        "sectionTitle": "博多温泉"
+      },
+      {
+        "cTA1": {
+          "label": "秋月温泉 料亭旅館 清流庵をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8156001/plan/",
+          "linkType": "URL"
+        },
+        "description": "霊峰 求菩提山の麓に湧く名泉古くより修行僧や山伏たちの修行の聖地として知られた福岡県豊前市・求菩提山。『日本書紀』にも記されたカラス天狗の伝説や山岳信仰の対象地として歴史深く、現代も雄大な大自然が一体に広がる。この地で唯一無二の“霊泉”と呼ばれる効能高い温泉が楽しめる湯宿「卜仙の郷[ぼくせんのさと]」。約2年間にわたる大掛かりなリニューアル工事が平成29年(2017)に完了し、今もなお貸切湯増設、ビアホール増設と進化しながら変わらぬ里山の風情に溶け込んでいる。温泉は四季折々の自然を感じる解放感抜群の露天風呂を始め、内湯、薬湯、水風呂、サウナと立寄り湯も楽しめる。九州で生け簀割烹店を営む「鷹勝」がプロデュースするレストランでは清流に育まれたご当地ならではの川魚をはじめ、旬の海の幸・山の幸・厳選された肉料理まで幅広い料理を楽しめる。定食、コース、一品料理と豊富なメニューを揃えている。近辺では、神が棲む森と呼ばれる求菩提山を巡るトレッキングや、黒田官兵衛ゆかりの地巡り、森林環境を利用して身心の健康維持・増進・疾病の予防を行う森林セラピーなどアクティビティも充実している。",
+        "image": {
+          "alternateText": "求菩提温泉(くぼておんせん)",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/syDOWlpZHmfzw7wITbnKdAc8S5svLzWBw7gOcp2jkmw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/syDOWlpZHmfzw7wITbnKdAc8S5svLzWBw7gOcp2jkmw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/syDOWlpZHmfzw7wITbnKdAc8S5svLzWBw7gOcp2jkmw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/syDOWlpZHmfzw7wITbnKdAc8S5svLzWBw7gOcp2jkmw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/syDOWlpZHmfzw7wITbnKdAc8S5svLzWBw7gOcp2jkmw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/syDOWlpZHmfzw7wITbnKdAc8S5svLzWBw7gOcp2jkmw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "求菩提温泉(くぼておんせん)",
+        "infoBlockLabel": "求菩提温泉の情報",
+        "infoBlockText": "所在地：福岡県豊前市篠瀬泉温：41℃源泉：1湯量：60リットル／分飲用：不可泉質：アルカリ性単純温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、打ち身、慢性消化器病、痔疾など宿泊施設数：1アクセス：（公共交通）ＪＲ宇島駅から豊前市営バス求菩提資料館前行きで40分、バス停：登山口下車、徒歩すぐ（車）東九州道豊前ICから国道10号、県道32号経由12km",
+        "sectionTitle": "求菩提温泉"
+      },
+      {
+        "cTA1": {
+          "label": "原鶴温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/4022803/",
+          "linkType": "URL"
+        },
+        "description": "休暇村　志賀島に湧出する温泉金印が発見されたことで知られる玄界灘に浮かぶ志賀島[しかのしま]に、唯一湧出する温泉で、「休暇村 志賀島」の大浴場に引かれている。平成17年(2005)に開湯した比較的に新しい温泉で、展望露天風呂からは玄界灘を一望できる。わずかに塩分を含む温泉は、保温力が高く体がぽかぽかと温まる。日帰り入浴も受付けている(営業時間等は要確認)。料理は玄界灘の海の幸も堪能できる。ドライブや海水浴などのレジャーのベースに利用したい。",
+        "image": {
+          "alternateText": "休暇村志賀島温泉金印の湯(きゅうかむらしかのしまおんせんきんいんのゆ)",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/pApVJrx7mvuSVVkM5S-fo10m-Xg3ylnYZLP7WPuJu9A/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/pApVJrx7mvuSVVkM5S-fo10m-Xg3ylnYZLP7WPuJu9A/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/pApVJrx7mvuSVVkM5S-fo10m-Xg3ylnYZLP7WPuJu9A/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/pApVJrx7mvuSVVkM5S-fo10m-Xg3ylnYZLP7WPuJu9A/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/pApVJrx7mvuSVVkM5S-fo10m-Xg3ylnYZLP7WPuJu9A/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/pApVJrx7mvuSVVkM5S-fo10m-Xg3ylnYZLP7WPuJu9A/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "休暇村志賀島温泉金印の湯(きゅうかむらしかのしまおんせんきんいんのゆ)",
+        "infoBlockLabel": "休暇村志賀島温泉金印の湯の情報",
+        "infoBlockText": "所在地：福岡県福岡市東区勝馬泉温：37.8℃源泉：1湯量：250リットル／分飲用：不可泉質：ナトリウム・カルシウム-塩化物強塩泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、打ち身、慢性消化器病、慢性皮ふ病、切り傷、やけど、痔疾、慢性婦人病、美肌など宿泊施設数：1アクセス：（公共交通）ＪＲ西戸崎駅から送迎車で15分(定時運行)（車）九州道古賀ICから国道3号・495号、県道59号・542号経由27km",
+        "sectionTitle": "休暇村志賀島温泉金印の湯"
+      },
+      {
+        "cTA1": {
+          "label": "筑後川温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/4022502/",
+          "linkType": "URL"
+        },
+        "description": "福岡の小京都に湧く一軒宿の温泉福岡の奥座敷であり、小京都とよばれる秋月。ここに秋月温泉を名乗る一軒宿の「秋月温泉 料亭旅館 清流庵」がある。約2400坪の敷地の中に客室はわずか6室。美しい日本庭園に囲まれ、各客室に専用温泉が引かれている。施設内には、岩盤浴・エステ室(要予約)もある。山懐に抱かれた静寂の宿で、四季の移ろいを眺めながらゆったりとくつろぎたい。",
+        "image": {
+          "alternateText": "秋月温泉(あきづきおんせん)",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/yqHPuMAGoqQttK8k719DdEW5pbM14C3MsnOeTZ40Srg/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/yqHPuMAGoqQttK8k719DdEW5pbM14C3MsnOeTZ40Srg/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/yqHPuMAGoqQttK8k719DdEW5pbM14C3MsnOeTZ40Srg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/yqHPuMAGoqQttK8k719DdEW5pbM14C3MsnOeTZ40Srg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yqHPuMAGoqQttK8k719DdEW5pbM14C3MsnOeTZ40Srg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yqHPuMAGoqQttK8k719DdEW5pbM14C3MsnOeTZ40Srg/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "秋月温泉(あきづきおんせん)",
+        "infoBlockLabel": "秋月温泉の情報",
+        "infoBlockText": "所在地：福岡県朝倉市秋月泉温：31.4℃源泉：1湯量：70リットル／分飲用：不可泉質：アルカリ性単純温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、打ち身など宿泊施設数：1アクセス：（公共交通）甘木鉄道甘木駅から甘木観光バス秋月行きで18分、バス停：秋月下車、徒歩10分（車）大分道甘木ICから国道322号経由10km",
+        "sectionTitle": "秋月温泉"
+      },
+      {
+        "cTA1": {
+          "label": "船小屋温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/4021102/",
+          "linkType": "URL"
+        },
+        "description": "伝統漁法・筑後川の鵜飼とダブル美肌の湯で知られる温泉傷を負った鶴が舞い降り、湯浴みをしていたことから発見されたという原鶴温泉。博多の奥座敷といわれ、九州一の大河・筑後川を望む風光明媚で情緒豊かな環境にある。また、原鶴は鵜飼の地としても有名。5月20日より9月末までの期間中は、屋形船で臨場感あふれる鵜飼を堪能できる。夏は目の前でカヤック、サップなど水上アクティビティも楽しめる。原鶴温泉の最大の自慢はその泉質。硫黄成分やミネラルがバランスよく含まれ、心地よい湯の香りで温泉のアロマテラピー効果を愉しむことができる。温泉施設は10軒ほどあり、日帰り入浴を楽しめる宿もある(営業時間等は要確認)。温泉でリラックスした後は、筑後川のほとりを散策してみよう。川面に映る夕陽もすばらしい。",
+        "image": {
+          "alternateText": "原鶴温泉(はらづるおんせん)",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/InoZgVtGRmKpVakHyD6Yc36Ssw7W-LjeuZsWLKh3X9s/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/InoZgVtGRmKpVakHyD6Yc36Ssw7W-LjeuZsWLKh3X9s/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/InoZgVtGRmKpVakHyD6Yc36Ssw7W-LjeuZsWLKh3X9s/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/InoZgVtGRmKpVakHyD6Yc36Ssw7W-LjeuZsWLKh3X9s/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/InoZgVtGRmKpVakHyD6Yc36Ssw7W-LjeuZsWLKh3X9s/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/InoZgVtGRmKpVakHyD6Yc36Ssw7W-LjeuZsWLKh3X9s/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "原鶴温泉(はらづるおんせん)",
+        "infoBlockLabel": "原鶴温泉の情報",
+        "infoBlockText": "所在地：福岡県朝倉市杷木志波、杷木久喜宮泉温：40～60℃源泉：22湯量：施設により異なる飲用：不可泉質：アルカリ性単純温泉、硫黄泉、炭酸水素塩泉など効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、打ち身、慢性消化器病、切り傷、やけど、慢性皮ふ病、痔疾、慢性婦人病、美肌など宿泊施設数：10アクセス：（公共交通）ＪＲ筑後吉井駅から車で5分（車）大分道杷木ICから国道386号経由4km",
+        "sectionTitle": "原鶴温泉"
+      },
+      {
+        "cTA1": {
+          "label": "二日市温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/4021702/",
+          "linkType": "URL"
+        },
+        "description": "国民保養温泉地にも選ばれる筑後川畔の温泉筑後川の河畔に湧く温泉で、6軒の宿泊施設がある。昭和43年(1968)に国民保養温泉地の指定を受けており、効能豊かなラジウムを含む温泉を湧出することで知られている。大半の宿で日帰り入浴も可能だ(営業時間等は要確認)。自然が豊富で春の菜の花の花見や夏の釣りなど、四季を通して楽しめる。周辺レジャーでは、イチゴ、モモ、ブドウ、ナシ、カキなど、観光農園のフルーツ狩りが人気。",
+        "image": {
+          "alternateText": "筑後川温泉(ちくごがわおんせん)",
+          "height": 3191,
+          "sourceUrl": "https://a.mktgcdn.com/p/w_6VorGmP2SGZItvo7wd2EHsKOtB7oA22CzbyE7eJpo/2128x3191.jpg",
+          "thumbnails": [
+            {
+              "height": 3191,
+              "url": "https://a.mktgcdn.com/p-sandbox/bDB9mLvMmAeEql98Kaa7hF9ynQe6u6-alxVK8dSNt1o/2128x3191.jpg",
+              "width": 2128
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/bDB9mLvMmAeEql98Kaa7hF9ynQe6u6-alxVK8dSNt1o/1267x1900.jpg",
+              "width": 1267
+            },
+            {
+              "height": 928,
+              "url": "https://a.mktgcdn.com/p-sandbox/bDB9mLvMmAeEql98Kaa7hF9ynQe6u6-alxVK8dSNt1o/619x928.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/bDB9mLvMmAeEql98Kaa7hF9ynQe6u6-alxVK8dSNt1o/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/bDB9mLvMmAeEql98Kaa7hF9ynQe6u6-alxVK8dSNt1o/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bDB9mLvMmAeEql98Kaa7hF9ynQe6u6-alxVK8dSNt1o/2128x3191.jpg",
+          "width": 2128
+        },
+        "imageCaption": "筑後川温泉(ちくごがわおんせん)",
+        "infoBlockLabel": "筑後川温泉の情報",
+        "infoBlockText": "所在地：福岡県うきは市浮羽町古川泉温：33～44℃源泉：7湯量：不明飲用：一部可泉質：アルカリ性単純温泉など効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、打ち身、慢性消化器病、慢性皮ふ病、切り傷、やけど、痛風、痔疾、慢性婦人病など宿泊施設数：6アクセス：（公共交通）ＪＲ筑後大石駅から車で5分（車）大分道杷木ICから国道386号、県道52号経由3km",
+        "sectionTitle": "筑後川温泉"
+      },
+      {
+        "description": "清流のそばに湧く炭酸含有量が日本有数の温泉福岡県南部を流れる、矢部川と松永川の合流地点近くに湧く温泉。日本屈指の炭酸含有量を誇る含鉄炭酸泉の鉱泉が湧出し、飲んで胃腸病や慢性便秘などに効能があるとされ、遠方から訪れる人も多い。船小屋鉱泉場で年中無料で飲むことができる。主要な温泉宿には、明治19年(1886)創業の老舗宿「ホテル樋口軒」があり、炭酸成分を含む温泉を矢部川を望む展望浴場にたたえている。日帰り温泉施設は、「川の駅 船小屋 恋ぼたる温泉館」が人気スポット。地元の農産物や魚介が並ぶ物産館、無料で利用できる足湯なども併設されている。最寄の筑後船小屋駅が九州新幹線の停車駅になったので、鉄道のアクセスもよくなった。",
+        "image": {
+          "alternateText": "船小屋温泉(ふなごやおんせん)",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Xd7nuOcolntwFBwtNC4LFzCN3vXUF9rJ9SMGUAM-cxQ/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xd7nuOcolntwFBwtNC4LFzCN3vXUF9rJ9SMGUAM-cxQ/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xd7nuOcolntwFBwtNC4LFzCN3vXUF9rJ9SMGUAM-cxQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xd7nuOcolntwFBwtNC4LFzCN3vXUF9rJ9SMGUAM-cxQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xd7nuOcolntwFBwtNC4LFzCN3vXUF9rJ9SMGUAM-cxQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Xd7nuOcolntwFBwtNC4LFzCN3vXUF9rJ9SMGUAM-cxQ/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "船小屋温泉(ふなごやおんせん)",
+        "infoBlockLabel": "船小屋温泉の情報",
+        "infoBlockText": "所在地：福岡県筑後市船小屋温泉泉温：施設により異なる源泉：不明湯量：施設により異なる飲用：鉱泉場にて可泉質：含鉄炭酸泉、二酸化炭素泉、温泉法上の温泉など効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、打ち身、心臓病、胃腸病、切り傷、糖尿病など宿泊施設数：3アクセス：（公共交通）ＪＲ筑後船小屋駅から西鉄バス船小屋行きで5分、バス停：終点下車（車）九州道八女ICから国道442号・209号経由5km",
+        "sectionTitle": "船小屋温泉"
+      },
+      {
+        "description": "多くの文人墨客が訪れた由緒正しき温泉万葉集にも詠まれた1300年以上の長い歴史を誇る温泉。奈良時代には大伴旅人や山上憶良、近代では夏目漱石や高浜虚子など、数多くの文人墨客が湯治に訪れたという。江戸時代には福岡藩御用達の温泉だった。温泉街にはリーズナブルな2軒の公衆浴場「博多湯」、「御前湯」もある。慶応元年(1865)創業の老舗宿「大丸別荘」は、約3500坪もある日本庭園を有し、皇室をはじめ著名人の利用も多い。高級旅館、温泉のあるビジネスホテルなど、7軒ほどの宿泊施設が温泉街に点在する。",
+        "image": {
+          "alternateText": "二日市温泉(ふつかいちおんせん)",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/t4augqytGKYHgr7tEXAgekaHPkupWqOXkTaK6I5rzIs/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/t4augqytGKYHgr7tEXAgekaHPkupWqOXkTaK6I5rzIs/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/t4augqytGKYHgr7tEXAgekaHPkupWqOXkTaK6I5rzIs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/t4augqytGKYHgr7tEXAgekaHPkupWqOXkTaK6I5rzIs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/t4augqytGKYHgr7tEXAgekaHPkupWqOXkTaK6I5rzIs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/t4augqytGKYHgr7tEXAgekaHPkupWqOXkTaK6I5rzIs/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "二日市温泉(ふつかいちおんせん)",
+        "infoBlockLabel": "二日市温泉の情報",
+        "infoBlockText": "所在地：福岡県筑紫野市湯町泉温：54℃など源泉：不明湯量：施設により異なる飲用：不可泉質：アルカリ性単純温泉、放射能泉効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、切り傷、やけど、打ち身、慢性消化器病、痔疾など宿泊施設数：7アクセス：（公共交通）ＪＲ二日市駅から車で5分（車）九州道筑紫野ICから県道31号経由2km",
+        "sectionTitle": "二日市温泉"
+      },
+      {
+        "imageCaption": "----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_y_ishihara225_010"
+    ],
+    "c_news_FeaturedArticlesTitle": "九州の温泉記事",
+    "c_news_PublicationDate": "2023-01-05",
+    "c_news_UpdateDate": "2024-05-31",
+    "c_news_ViewCount": "752",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "752",
+    "c_news_ViewCountNum": "752",
+    "c_news_ViewCountNumForSorting": "82",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kyushu/fukuoka/news_ap_y_ishihara225_009",
+    "name": "福岡県の人気温泉地 おすすめ9選",
+    "slug": "kokunai/kyushu/fukuoka/news_ap_y_ishihara225_009",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "温泉地"
+  ]
+}

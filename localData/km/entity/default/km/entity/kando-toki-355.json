@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-355",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/355_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d35.253045%2C136.7239603",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "愛知県",
+    "c_searchTags": [
+      "愛知県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "肌寒くなる晩秋の頃。祖父江町を訪れると、町のどこを歩いても色鮮やか黄色が目に飛び込んできます。町を彩る華やかな黄色の正体は、イチョウの木。町中に一万本以上のイチョウの木が植えられている祖父江町では、黄葉の季節、うっとりするほど美しい景色が訪れた人々を待ち受けています。樹齢100年を超える大木が町のあちらこちらに点在しており、町内を散策すれば、古くからこの地で、冬の季節風から家々を守るためにイチョウが植えられてきた歴史を感じることができるでしょう。中でも市の天然記念物である祐専寺境内の祐専寺イチョウは必見です。例年11月下旬から12月上旬にかけてのベストシーズンには「そぶえイチョウ黄葉まつり」も行われ、イチョウの黄葉とあわせてギンナンをはじめとした祖父江町の特産品を楽しめます。\n見所・お勧めポイント",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/355.asp",
+    "name": "黄金色に包まれる幻想風景　『そぶえイチョウ』"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

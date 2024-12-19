@@ -1,0 +1,39 @@
+{
+  "$id": "kando-toki-23",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/23_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.566416%2C145.221266",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "海・湖・川・滝"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "尾岱沼（おだいとう）の夏の風物詩は、打瀬舟での北海シマエビ漁です。6月下旬の解禁日から漁が始まり、早朝6時に白い帆を張った打瀬舟が出港していきます。初夏の風に真っ白な三角帆をはためかせながら水面を渡る打瀬船の姿は、美しいながらも北海エビ漁に適した大変効率的なものとなっています。打瀬舟は浅い海底の海草を傷つけないよう、帆で推進力を受けて進む伝統的な漁法で、海草の中に生息する北海シマエビを獲るための漁法として続けられてきました。水揚げされた北海シマエビはすぐに塩ゆでされ、昼には漁港の直売店に並びます。真っ赤になるまで茹で上げられた北海シマエビはしっかりとした塩味の中にうま味が詰まっており、獲れたての旬の味を堪能できます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/23.asp",
+    "name": "尾岱沼 打瀬舟北海シマエビ漁"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

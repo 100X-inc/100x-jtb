@@ -1,0 +1,44 @@
+{
+  "$id": "cp_20081005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_cp_DisplayName": "なかぎり",
+    "c_cp_Photo": {
+      "height": 2937,
+      "sourceUrl": "https://a.mktgcdn.com/p/slYBwFqRQOSoclBbH7gpCOERLDx076sWJKWggCWO4bs/2402x2937.jpg",
+      "thumbnails": [
+        {
+          "height": 2937,
+          "url": "https://a.mktgcdn.com/p-sandbox/slYBwFqRQOSoclBbH7gpCOERLDx076sWJKWggCWO4bs/2402x2937.jpg",
+          "width": 2402
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/slYBwFqRQOSoclBbH7gpCOERLDx076sWJKWggCWO4bs/1554x1900.jpg",
+          "width": 1554
+        },
+        {
+          "height": 757,
+          "url": "https://a.mktgcdn.com/p-sandbox/slYBwFqRQOSoclBbH7gpCOERLDx076sWJKWggCWO4bs/619x757.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/slYBwFqRQOSoclBbH7gpCOERLDx076sWJKWggCWO4bs/368x450.jpg",
+          "width": 368
+        },
+        {
+          "height": 240,
+          "url": "https://a.mktgcdn.com/p-sandbox/slYBwFqRQOSoclBbH7gpCOERLDx076sWJKWggCWO4bs/196x240.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/slYBwFqRQOSoclBbH7gpCOERLDx076sWJKWggCWO4bs/2402x2937.jpg",
+      "width": 2402
+    },
+    "name": "中切　奈緒美"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

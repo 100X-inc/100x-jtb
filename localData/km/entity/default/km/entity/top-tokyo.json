@@ -1,0 +1,246 @@
+{
+  "$id": "top-tokyo",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": "/* Tags #1321845 */\n#main \u003e div \u003e div:nth-child(3) \u003e div \u003e div \u003e p {\n  background-color: #FFFF33 !important;\n}\n\n.Hero-imageCaption {\ntext-shadow: 0 0 10px #010101;\n}\n\n/* バックグラウンドカラーを濃いめに */\n.Consultants-wrapper {\n    background-color: #f5f6f7;\n}\n.Locator-wrapper {\n    background-color: #f5f6f7;\n}\n.Teaser--article.Teaser--articleTop {\n    background-color: #f5f6f7;\n}\n.InfoItem {\n    background-color: #f5f6f7;\n}\n\n/* サブタイトルのラップ */\n.Consultants-subtitle {\nwhite-space: pre-wrap;\n}\n.Locator-subtitle {\nwhite-space: pre-wrap;\n}\n.Info-subtitle {\nwhite-space: pre-wrap;\n}\n\n\n/* Information セクションの画像をオリジナルのままの比率で表示 */\n.InfoItem-image {\n    height: unset;\n}\n\n/* アコーディオンタイトルのセンタリング */\n.FAQ-questionText {\n margin: auto;\nfont-size: 1.1rem;\n}\n\n/* FAQ のリンクの色 */\n.Consultants .FAQ--ace .FAQ-answerText a {\ncolor: #3498db;\n\n}\n\n/* スムーススクロール */\nhtml { \nscroll-behavior: smooth;\n}\n\n/* locator を hidden */\n#locator {\ndisplay: none;\n}",
+    "c_activeOnTops": true,
+    "c_cSSMobile": "/* 現在地が折り返さないように */\na.Locator-button.Locator-geolocate {\n  width: 6rem;\n}\n\n\n/* locator を hidden */\n#locator {\ndisplay: none;\n}",
+    "c_metaDescription": "JTB |オンラインでも、お店でも、あなたの旅をご提案します！",
+    "c_metaTitle": "JTB |オンラインでも、お店でも、あなたの旅をご提案します！",
+    "c_news_NewsList": [
+      "news_ap_store_00024",
+      "news_ap_store_00004",
+      "news_ap_store_00003",
+      "news_ap_store_00005",
+      "news_ap_store_00007",
+      "news_ap_store_00008",
+      "news_ap_store_00006",
+      "news_ap_store_00009",
+      "news_ap_store_00010",
+      "news_ap_store_00011",
+      "news_ap_store_000011",
+      "news_ap_store_00013",
+      "news_ap_store_00014",
+      "news_ap_store_00015",
+      "news_ap_store_00016",
+      "news_ap_store_00017",
+      "news_ap_store_00018",
+      "news_ap_store_00019",
+      "news_ap_store_00020",
+      "news_ap_store_00012"
+    ],
+    "c_pagesURL": "https://consultants.jtb.co.jp/top-tokyo",
+    "c_topBreadcrumb": {
+      "label": "大江戸スタッフ",
+      "link": "top-tokyo",
+      "linkType": "OTHER"
+    },
+    "c_topTemplate": "STANDARD",
+    "c_top_AnchorLinks": [
+      {
+        "link": "#consultants",
+        "linkType": "OTHER"
+      },
+      {
+        "link": "#articles",
+        "linkType": "OTHER"
+      },
+      {
+        "link": "https://www.jtb.co.jp/nihonnoshun/tokyoyokohama/",
+        "linkType": "URL"
+      },
+      {
+        "link": "#info",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_top_Articles": [
+      "ap_store_00024",
+      "ap_store_00004",
+      "ap_store_00003",
+      "ap_store_00005",
+      "ap_store_00007",
+      "ap_store_00008",
+      "ap_store_00006",
+      "ap_store_00009",
+      "ap_store_00010",
+      "ap_store_00011",
+      "ap_store_000011",
+      "ap_store_00013",
+      "ap_store_00014",
+      "ap_store_00015",
+      "ap_store_00016",
+      "ap_store_00017",
+      "ap_store_00018",
+      "ap_store_00019",
+      "ap_store_00020",
+      "ap_store_00012"
+    ],
+    "c_top_ArticlesButton1": {
+      "label": "記事をすべて見る",
+      "link": "/articles",
+      "linkType": "OTHER"
+    },
+    "c_top_ArticlesButton2": {
+      "link": "https://column.jtb.co.jp/",
+      "linkType": "URL"
+    },
+    "c_top_ArticlesSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e",
+    "c_top_ArticlesSectionTitle": "JTB大江戸デスクコンサルタントのおすすめモデルプラン",
+    "c_top_BannerBackgroundColor": "#FFFF33",
+    "c_top_Consultants": [
+      "cp_14075073",
+      "cp_14095072",
+      "cp_10202071",
+      "cp_14141661",
+      "cp_14181579",
+      "cp_14171528"
+    ],
+    "c_top_ConsultantsButton1": {
+      "label": "大江戸デスクコンサルタント一覧",
+      "linkType": "OTHER"
+    },
+    "c_top_ConsultantsSectionHTML": "\u003cscript\u003e\nwindow.addEventListener(\u0027load\u0027, function() {\n  atags \u003d document.querySelectorAll(\u0027.FAQ-answerText a[href^\u003d\"https:\"]\u0027);\n  atags.forEach(function(atag){atag.setAttribute(\u0027target\u0027, \u0027_blank\u0027);});\n});\n\u003c/script\u003e",
+    "c_top_ConsultantsSectionSubTitle": "東京の店舗に在籍する大江戸デスクコンサルタントが、旅行会社のスタッフならではの旅の目利きを生かしながら、東京・横浜の様々な魅力溢れる情報発信を行います！東京・横浜の観光に役立つ情報や、東京在住の方にもおすすめできる情報をご提供いたします。",
+    "c_top_ConsultantsSectionTitle": "JTB大江戸デスクコンサルタントのご紹介",
+    "c_top_HeroImage": {
+      "alternateText": "大江戸PCバナー",
+      "height": 339,
+      "sourceUrl": "https://a.mktgcdn.com/p/bTQpaon66wsbx3c3gn6Cd7ulvWMxMDAfCwPcwoP6yy8/1138x339.jpg",
+      "thumbnails": [
+        {
+          "height": 339,
+          "url": "https://a.mktgcdn.com/p-sandbox/jfshkySz7D5FLwcnbb48VPLLB4mP0mwZEE2IaLyEPOU/1138x339.jpg",
+          "width": 1138
+        },
+        {
+          "height": 184,
+          "url": "https://a.mktgcdn.com/p-sandbox/jfshkySz7D5FLwcnbb48VPLLB4mP0mwZEE2IaLyEPOU/619x184.jpg",
+          "width": 619
+        },
+        {
+          "height": 179,
+          "url": "https://a.mktgcdn.com/p-sandbox/jfshkySz7D5FLwcnbb48VPLLB4mP0mwZEE2IaLyEPOU/600x179.jpg",
+          "width": 600
+        },
+        {
+          "height": 58,
+          "url": "https://a.mktgcdn.com/p-sandbox/jfshkySz7D5FLwcnbb48VPLLB4mP0mwZEE2IaLyEPOU/196x58.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/jfshkySz7D5FLwcnbb48VPLLB4mP0mwZEE2IaLyEPOU/1138x339.jpg",
+      "width": 1138
+    },
+    "c_top_HeroImageMobile": {
+      "height": 705,
+      "sourceUrl": "https://a.mktgcdn.com/p/x4jhIT6bDwmDs5Mpxjsw5PCq4tSNd4978vfJ_FER8Fo/465x705.jpg",
+      "thumbnails": [
+        {
+          "height": 705,
+          "url": "https://a.mktgcdn.com/p-sandbox/x4jhIT6bDwmDs5Mpxjsw5PCq4tSNd4978vfJ_FER8Fo/465x705.jpg",
+          "width": 465
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/x4jhIT6bDwmDs5Mpxjsw5PCq4tSNd4978vfJ_FER8Fo/297x450.jpg",
+          "width": 297
+        },
+        {
+          "height": 297,
+          "url": "https://a.mktgcdn.com/p-sandbox/x4jhIT6bDwmDs5Mpxjsw5PCq4tSNd4978vfJ_FER8Fo/196x297.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/x4jhIT6bDwmDs5Mpxjsw5PCq4tSNd4978vfJ_FER8Fo/465x705.jpg",
+      "width": 465
+    },
+    "c_top_InfoSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_LocatorDefaultText": "住所、地名、駅名などを入力ください",
+    "c_top_LocatorDirectoryButton": {
+      "label": "都道府県・市区町村から店舗を探す",
+      "link": "https://stores.jtb.co.jp/",
+      "linkType": "URL"
+    },
+    "c_top_LocatorSearchBarSubTitle": "住所、地名、駅名などを入力ください",
+    "c_top_LocatorSearchBarTitle": "JTBの店舗検索",
+    "c_top_LocatorSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_PromotionBanners": [
+      {
+        "clickthroughUrl": "https://consultants.jtb.co.jp/top-tokyo#articles",
+        "description": "東京のおすすめモデルプラン",
+        "image": {
+          "alternateText": "JTB大江戸デスクコンサルタントのおすすめ投稿記事はこちら！",
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/qXviSEn1ZbbPbFF2UdItDTSfUZpLc5MPTksIp1rhbeU/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/qXviSEn1ZbbPbFF2UdItDTSfUZpLc5MPTksIp1rhbeU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/qXviSEn1ZbbPbFF2UdItDTSfUZpLc5MPTksIp1rhbeU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qXviSEn1ZbbPbFF2UdItDTSfUZpLc5MPTksIp1rhbeU/600x450.jpg",
+          "width": 600
+        }
+      },
+      {
+        "clickthroughUrl": "https://www.instagram.com/jtb_nihonnoshun/",
+        "description": "日本の旬SNSはこちら",
+        "image": {
+          "alternateText": "旬の東京・横浜の情報がいっぱい！SNS公開中",
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/h4dLiSzwUVfbDT08Ovj6eLyNiiSacIMh8R16gVtitoM/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/h4dLiSzwUVfbDT08Ovj6eLyNiiSacIMh8R16gVtitoM/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/h4dLiSzwUVfbDT08Ovj6eLyNiiSacIMh8R16gVtitoM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/h4dLiSzwUVfbDT08Ovj6eLyNiiSacIMh8R16gVtitoM/600x450.jpg",
+          "width": 600
+        }
+      },
+      {
+        "clickthroughUrl": "https://www.jtb.co.jp/nihonnoshun/tokyoyokohama/",
+        "description": "日本の旬　東京・横浜のご紹介",
+        "image": {
+          "alternateText": "日本の旬　東京・横浜",
+          "height": 203,
+          "sourceUrl": "https://a.mktgcdn.com/p/u7RKdb-2lIx8SR_stfbo_69vIuBoxrQIJ2x_SdK0fuU/360x203.png",
+          "thumbnails": [
+            {
+              "height": 203,
+              "url": "https://a.mktgcdn.com/p-sandbox/u7RKdb-2lIx8SR_stfbo_69vIuBoxrQIJ2x_SdK0fuU/360x203.png",
+              "width": 360
+            },
+            {
+              "height": 111,
+              "url": "https://a.mktgcdn.com/p-sandbox/u7RKdb-2lIx8SR_stfbo_69vIuBoxrQIJ2x_SdK0fuU/196x111.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/u7RKdb-2lIx8SR_stfbo_69vIuBoxrQIJ2x_SdK0fuU/360x203.png",
+          "width": 360
+        }
+      }
+    ],
+    "c_top_PromotionBannersSectionSubTitle": "JTBの東京店舗スタッフが東京の過ごし方を「旅のプロの目利」を生かしながら情報発信をします。",
+    "c_top_PromotionBannersSectionTitle": "～JTB大江戸デスクとは～",
+    "name": "TOP 大江戸スタッフ"
+  },
+  "entityType": "ce_tOP",
+  "labels": []
+}

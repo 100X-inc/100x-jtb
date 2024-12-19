@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_de_dao_xian_ban_ye_jun",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247656"
+    ],
+    "dm_directoryChildren": [
+      "6864-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_de_dao_xian"
+    ],
+    "name": "板野郡",
+    "slug": "徳島県/板野郡"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

@@ -1,0 +1,93 @@
+{
+  "$id": "cp_21179002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "兵庫県",
+    "c_cp_CTA1": {
+      "label": "井上 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVldBd",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBr_G",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "父が旅行好きで幼少期から様々な場所へ旅行へ連れて行ってもらいました。おかげで旅行が大好きに\nなりました。\n今までの旅行で一番の想い出は、学生時代に3か月ほどタイにバックパッカーに行き、命がけの経験\nをしたことです（笑）\n自身の経験も踏まえて、お客様のご要望に沿ったご旅行プランをご提案させていただきます。\nよろしくお願い致します。",
+    "c_cp_DisplayName": "井上",
+    "c_cp_FieldOfExpertise": [
+      "街あるき",
+      "鉄道",
+      "グルメ"
+    ],
+    "c_cp_GeneralInfo": [
+      "●資格：総合旅行業務取扱管理者、海外エキスパート2022：ハワイ、ハワイスペシャリスト検定：上級"
+    ],
+    "c_cp_HiraganaName": "いのうえ",
+    "c_cp_JobTitle": "JTB芦屋店 トラベルコンサルタント",
+    "c_cp_OverseasExpert": {
+      "area1": {
+        "rank": "silver"
+      }
+    },
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 600,
+      "sourceUrl": "https://a.mktgcdn.com/p/2Djv8wtS1E_nrh7uFrj45WWYNRG3MwJjDtur1ZW9RVA/480x600.jpg",
+      "thumbnails": [
+        {
+          "height": 600,
+          "url": "https://a.mktgcdn.com/p-sandbox/2Djv8wtS1E_nrh7uFrj45WWYNRG3MwJjDtur1ZW9RVA/480x600.jpg",
+          "width": 480
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/2Djv8wtS1E_nrh7uFrj45WWYNRG3MwJjDtur1ZW9RVA/360x450.jpg",
+          "width": 360
+        },
+        {
+          "height": 245,
+          "url": "https://a.mktgcdn.com/p-sandbox/2Djv8wtS1E_nrh7uFrj45WWYNRG3MwJjDtur1ZW9RVA/196x245.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/2Djv8wtS1E_nrh7uFrj45WWYNRG3MwJjDtur1ZW9RVA/480x600.jpg",
+      "width": 480
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "スペイン"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国",
+      "東南アジア全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "兵庫県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "【私にお任せ下さい！】　（直近の渡航先）ハワイ　ソウル　台湾（最近の渡航先）スペイン　トルコ　",
+      "グルメ",
+      "ゆったり旅"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 井上",
+    "c_metaTitle": "JTBトラベルコンサルタント | 井上",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21179002",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10338_芦屋店",
+    "name": "いのうえ_21179002",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

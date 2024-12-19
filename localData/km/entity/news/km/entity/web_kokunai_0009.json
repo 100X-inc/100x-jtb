@@ -1,0 +1,643 @@
+{
+  "$id": "news_web_kokunai_0009",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1280,
+      "sourceUrl": "https://a.mktgcdn.com/p/V8cKIu4O3cRmtr2SIKkwU20oRHC36SOtZVQkj9TkFfg/1920x1280.jpg",
+      "thumbnails": [
+        {
+          "height": 1280,
+          "url": "https://a.mktgcdn.com/p-sandbox/Of1NrZxxcexxuZdjtQx6YPJLx5DZBdsMkyvgXDKZvlo/1920x1280.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/Of1NrZxxcexxuZdjtQx6YPJLx5DZBdsMkyvgXDKZvlo/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/Of1NrZxxcexxuZdjtQx6YPJLx5DZBdsMkyvgXDKZvlo/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/Of1NrZxxcexxuZdjtQx6YPJLx5DZBdsMkyvgXDKZvlo/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/Of1NrZxxcexxuZdjtQx6YPJLx5DZBdsMkyvgXDKZvlo/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Of1NrZxxcexxuZdjtQx6YPJLx5DZBdsMkyvgXDKZvlo/1920x1280.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "沖縄離島の記事一覧はこちら",
+        "uRL": "https://article.jtb.co.jp/kokunai/okinawa/remote-island/"
+      },
+      {
+        "linkText": "慶良間諸島の旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/s_kerama-islands/"
+      },
+      {
+        "linkText": "慶良間諸島のホテル・旅館・宿を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/470402/"
+      },
+      {
+        "linkText": "慶良間諸島のツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_air/a/470402/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "沖縄本島の西、渡嘉敷（とかしき）島・座間味（ざまみ）島・阿嘉（あか）島・慶留間（げるま）島などで構成されるのが慶良間（けらま）諸島です。2014年に慶良間諸島国立公園に指定された、美しい海と豊かな自然を堪能することができます。那覇からフェリーで気軽に行けて、日帰りでも楽しむことができるのがポイントです。",
+    "c_ap_Tags": [
+      "ビーチ",
+      "ビーチリゾート",
+      "沖縄おすすめ",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "慶良間諸島 おすすめ観光スポット12選！渡嘉敷・座間味・阿嘉・慶留間",
+    "c_linkedArea3News": [
+      "okinawa_all"
+    ],
+    "c_metaDescription": "慶良間諸島観光ではずせないおすすめスポット！ケラマブルーで有名な、阿波連ビーチをはじめとした美しいビーチに絶景スポットの数々。慶良間諸島（渡嘉敷島・座間味島・阿嘉島・慶留間島）観光の多彩な魅力を紹介いたします！",
+    "c_metaTitle": "慶良間諸島 おすすめ観光スポット12選！渡嘉敷・座間味・阿嘉・慶留間",
+    "c_news_CTAs": [
+      {
+        "label": "慶良間諸島のホテル・旅館・宿をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/470402/",
+        "linkType": "URL"
+      },
+      {
+        "label": "慶良間諸島の旅行特集をみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/okinawa/s_kerama-islands/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "阿波連ビーチ周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/23443950/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "八重山諸島の中心地！石垣島のおすすめ観光スポットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0012",
+          "linkType": "URL"
+        },
+        "description": "慶良間諸島で最も大きな有人島が渡嘉敷島です。世界中からダイバーが訪れる美しい海が魅力で、色とりどりのサンゴも楽しめます。展望台から見える景色も一級品で、全身で自然を感じられます。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/9OynuV3WCj1RSRxIGU0o3aXaOMOOS2nLY1GJnvJaa0Y/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/9OynuV3WCj1RSRxIGU0o3aXaOMOOS2nLY1GJnvJaa0Y/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/9OynuV3WCj1RSRxIGU0o3aXaOMOOS2nLY1GJnvJaa0Y/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/9OynuV3WCj1RSRxIGU0o3aXaOMOOS2nLY1GJnvJaa0Y/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/9OynuV3WCj1RSRxIGU0o3aXaOMOOS2nLY1GJnvJaa0Y/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9OynuV3WCj1RSRxIGU0o3aXaOMOOS2nLY1GJnvJaa0Y/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "Photo Studio Sorisso 美ら島物語 / PIXTA(ピクスタ)",
+        "infoBlockLabel": "阿波連ビーチの基本情報",
+        "infoBlockText": "アクセス：渡嘉敷港から車で約12分住所：沖縄県島尻郡渡嘉敷村阿波連",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．渡嘉敷島で必ず行きたい観光スポット"
+      },
+      {
+        "cTA1": {
+          "label": "渡嘉志久ビーチ周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/J0057360/",
+          "linkType": "URL"
+        },
+        "description": "渡嘉敷島の中でも有名なのが阿波連ビーチ（あはれんびーち）です。島の南西部にあるこのビーチは、“ケラマブルー”と呼ばれる美しい青色の海が魅力です。白い砂浜からグラデーションで青色になっていくビーチの透明感は抜群で、それを目当てに夏場には多くの観光客が訪れ、賑わいを見せています。マリンアクティビティも人気です。シュノーケリングをすれば、海中で鮮やかなサンゴと無数の魚たちに出合えることでしょう。シュノーケリング以外にもSUP（スタンド・アップ・パドルボード）やバナナボートなども楽しめます。周辺に食事処があるのもうれしいところです。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/fYWxJ-K87mvyw5tB5x9niLoQgcBDQCso5Jx__noLwLI/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/fYWxJ-K87mvyw5tB5x9niLoQgcBDQCso5Jx__noLwLI/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/fYWxJ-K87mvyw5tB5x9niLoQgcBDQCso5Jx__noLwLI/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/fYWxJ-K87mvyw5tB5x9niLoQgcBDQCso5Jx__noLwLI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/fYWxJ-K87mvyw5tB5x9niLoQgcBDQCso5Jx__noLwLI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fYWxJ-K87mvyw5tB5x9niLoQgcBDQCso5Jx__noLwLI/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "akiko / PIXTA(ピクスタ)",
+        "infoBlockLabel": "渡嘉志久ビーチの基本情報",
+        "infoBlockText": "アクセス：渡嘉敷港から車で約11分住所：沖縄県渡嘉敷村渡嘉敷",
+        "sectionLevel": "h3",
+        "sectionTitle": "阿波連ビーチ"
+      },
+      {
+        "cTA1": {
+          "label": "阿波連園地周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/J0057363/",
+          "linkType": "URL"
+        },
+        "description": "港から山を越えた、島の西部に位置するのが渡嘉志久ビーチ（とかしくびーち）です。湾状になっているこのビーチはウミガメの餌場になっていることでも知られ、運がよければシュノーケリング中にウミガメと出合えるかもしれません。ビーチの周辺は閑静な環境のため、まるでプライベートビーチのように感じられることでしょう。夕暮れに訪れるビーチも絶景です。慶良間海峡に沈んでいく夕日はロマンチックで、特別な時間を過ごすことができるでしょう。満天の星が空にイルミネーションのような輝きをもたらす夜は、昼とは別の美しさがあります。",
+        "image": {
+          "height": 1020,
+          "sourceUrl": "https://a.mktgcdn.com/p/eh16q8hEz_PCz3fmmLls23WrwWisEULISa4qiQjhoxs/1536x1020.jpg",
+          "thumbnails": [
+            {
+              "height": 1020,
+              "url": "https://a.mktgcdn.com/p-sandbox/6pxlrgl-287Tgwj9KQqUecdAJ5ArWd4qlOPt8pO_5hA/1536x1020.jpg",
+              "width": 1536
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/6pxlrgl-287Tgwj9KQqUecdAJ5ArWd4qlOPt8pO_5hA/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/6pxlrgl-287Tgwj9KQqUecdAJ5ArWd4qlOPt8pO_5hA/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/6pxlrgl-287Tgwj9KQqUecdAJ5ArWd4qlOPt8pO_5hA/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6pxlrgl-287Tgwj9KQqUecdAJ5ArWd4qlOPt8pO_5hA/1536x1020.jpg",
+          "width": 1536
+        },
+        "imageCaption": "けーわい / PIXTA(ピクスタ )",
+        "infoBlockLabel": "阿波連園地の基本情報",
+        "infoBlockText": "アクセス：渡嘉敷港から車で約25分住所：沖縄県島尻郡渡嘉敷村阿波連",
+        "sectionLevel": "h3",
+        "sectionTitle": "渡嘉志久ビーチ"
+      },
+      {
+        "cTA1": {
+          "label": "港の見える丘展望台周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/23443990/",
+          "linkType": "URL"
+        },
+        "description": "渡嘉敷島の南端にある広場で、自然を感じる散策にぴったりなのが阿波連園地（あはれんえんち）です。海や山々の景色をゆっくり堪能できる東屋で休憩すれば、喧騒の日々を忘れることができるでしょう。遊歩道も整備されているので安心して散歩ができます。島の南端に位置しているので、時間帯によって東側では朝日を、西側では夕日を贅沢に味わうことができます。旅の日程に合わせて訪れましょう。阿波連の集落からは離れているのでレンタカーなどで訪れるのがおすすめです。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/-kyqWDhhn2zlERLMjrFwQHHom4iaFDyAboQT0VQQD4U/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/NXk3TdVPtjZ6F7gICcsGkM9ejXXUJEPEGZvJ838Ybp8/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/NXk3TdVPtjZ6F7gICcsGkM9ejXXUJEPEGZvJ838Ybp8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/NXk3TdVPtjZ6F7gICcsGkM9ejXXUJEPEGZvJ838Ybp8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/NXk3TdVPtjZ6F7gICcsGkM9ejXXUJEPEGZvJ838Ybp8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NXk3TdVPtjZ6F7gICcsGkM9ejXXUJEPEGZvJ838Ybp8/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "akiko / PIXTA(ピクスタ)",
+        "infoBlockLabel": "港の見える丘展望台の基本情報",
+        "infoBlockText": "アクセス：渡嘉敷港から車で約6分住所：沖縄県島尻郡渡嘉敷村渡嘉敷",
+        "sectionLevel": "h3",
+        "sectionTitle": "阿波連園地"
+      },
+      {
+        "cTA1": {
+          "label": "古座間味ビーチ周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/23444030/",
+          "linkType": "URL"
+        },
+        "description": "渡嘉敷港からほど近く、渡嘉敷集落や入出港するフェリーなどが一望できる人気のスポットが港の見える丘展望台です。港についたらまず訪れたいこのスポットは、他の展望台と異なり、集落の姿まで見渡すことができます。展望台からの眺めは昼と夜で姿を変えます。昼はまるで恋愛映画のワンシーンにいるかのようなエメラルドグリーンの海とフェリー、そして集落、夜は美しい星空を眺めることができます。展望台へは車をで行くことをおすすめします。",
+        "image": {
+          "height": 534,
+          "sourceUrl": "https://a.mktgcdn.com/p/3HXdYNL1mDDr3r3LkKyxfZBIQTdH89-UQHxlUoX_108/800x534.jpg",
+          "thumbnails": [
+            {
+              "height": 534,
+              "url": "https://a.mktgcdn.com/p-sandbox/3HXdYNL1mDDr3r3LkKyxfZBIQTdH89-UQHxlUoX_108/800x534.jpg",
+              "width": 800
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/3HXdYNL1mDDr3r3LkKyxfZBIQTdH89-UQHxlUoX_108/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/3HXdYNL1mDDr3r3LkKyxfZBIQTdH89-UQHxlUoX_108/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/3HXdYNL1mDDr3r3LkKyxfZBIQTdH89-UQHxlUoX_108/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3HXdYNL1mDDr3r3LkKyxfZBIQTdH89-UQHxlUoX_108/800x534.jpg",
+          "width": 800
+        },
+        "imageCaption": "Hiroko / PIXTA(ピクスタ)",
+        "infoBlockLabel": "古座間味ビーチの基本情報",
+        "infoBlockText": "アクセス：座間味港から車で約6分住所：沖縄県島尻郡座間味村座間味",
+        "sectionLevel": "h3",
+        "sectionTitle": "港の見える丘展望台"
+      },
+      {
+        "cTA1": {
+          "label": "阿嘉大橋周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5000940/",
+          "linkType": "URL"
+        },
+        "description": "那覇から日帰りで行くことが可能な気軽さと、阿嘉島（あかしま）や渡嘉敷島へのアクセスのよさから離島巡りが好きな観光客に人気なのが座間味島です。多くの観光客に認められたビーチと心地よい潮風に身を任せて、思いきり楽しみましょう。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/DecfE42hQ-BtvYHIzMKJOASTPc5xAsxOFvgodEURsaI/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/jcR0llnB43z2IJe5KYzV7idGRM-siTAchkWQhDkBLpg/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/jcR0llnB43z2IJe5KYzV7idGRM-siTAchkWQhDkBLpg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/jcR0llnB43z2IJe5KYzV7idGRM-siTAchkWQhDkBLpg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/jcR0llnB43z2IJe5KYzV7idGRM-siTAchkWQhDkBLpg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jcR0llnB43z2IJe5KYzV7idGRM-siTAchkWQhDkBLpg/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "akiko / PIXTA(ピクスタ)",
+        "infoBlockLabel": "阿真ビーチの基本情報",
+        "infoBlockText": "アクセス：座間味港から車で約4分住所：沖縄県島尻郡座間味村阿真",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．座間味島で必ず行きたい観光スポット"
+      },
+      {
+        "cTA1": {
+          "label": "高良家住宅周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5000970/",
+          "linkType": "URL"
+        },
+        "description": "座間味島で必ず訪れたいのが港から近くにある古座間味ビーチ（ふるざまみびーち）です。海外からの観光客も多く訪れるこのビーチは、圧倒的な透明度と鮮やかなサンゴを有していることでも有名です。夏場には多くの人が訪れ、カラフルなパラソルがリゾート感を演出してくれます。海水浴を楽しむ以外にも、マリンアクティビティのショップも充実。ダイビングやシュノーケリングスポットとしても人気です。また、パラソルなどはレンタルできるので、誰でも快適に楽しむことができます。",
+        "image": {
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/R9p3zUSGnOIBDq4gVFtBWx7fQYn_CvvoyZX9Pbts2G4/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/BC6BVnDMXRfc-Cn0m_OpAjucW4So9hL-CQ1w6d_m6gk/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/BC6BVnDMXRfc-Cn0m_OpAjucW4So9hL-CQ1w6d_m6gk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/BC6BVnDMXRfc-Cn0m_OpAjucW4So9hL-CQ1w6d_m6gk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/BC6BVnDMXRfc-Cn0m_OpAjucW4So9hL-CQ1w6d_m6gk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BC6BVnDMXRfc-Cn0m_OpAjucW4So9hL-CQ1w6d_m6gk/1536x1025.jpg",
+          "width": 1536
+        },
+        "imageCaption": "chokoneta / PIXTA(ピクスタ)",
+        "infoBlockLabel": "高月山展望台の基本情報",
+        "infoBlockText": "アクセス：座間味港から車で約5分住所：沖縄県島尻郡座間味村座間味",
+        "sectionLevel": "h3",
+        "sectionTitle": "古座間味ビーチ"
+      },
+      {
+        "cTA1": {
+          "label": "離島の王道！宮古島のおすすめ観光スポットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0015",
+          "linkType": "URL"
+        },
+        "description": "港から西側へ歩いて20分程度で行けるのが阿真ビーチ（あまびーち）です。世界的に貴重なサンゴ礁域としてラムサール条約に登録されたこのビーチは、古座間味ビーチと比べ、混雑も少なく静かなのが特徴です。遠浅のため、子供でも安心して海水浴を楽しめるのがうれしいところ。ビーチサイドは設備も整い、家族や友達同士でいろいろな楽しみ方ができます。昼はウミガメや熱帯魚に遭遇できると言われ、波の音がムードを醸し出す夕暮れには少しロマンチックな気分に浸るのもおすすめです。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/rcqoFzGJeG2o8Zg9CcquXniNk52gQMH2D6M8Co_HOUQ/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/rcqoFzGJeG2o8Zg9CcquXniNk52gQMH2D6M8Co_HOUQ/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/rcqoFzGJeG2o8Zg9CcquXniNk52gQMH2D6M8Co_HOUQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/rcqoFzGJeG2o8Zg9CcquXniNk52gQMH2D6M8Co_HOUQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/rcqoFzGJeG2o8Zg9CcquXniNk52gQMH2D6M8Co_HOUQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rcqoFzGJeG2o8Zg9CcquXniNk52gQMH2D6M8Co_HOUQ/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "windandsky / PIXTA(ピクスタ)",
+        "infoBlockLabel": "稲崎展望台の基本情報",
+        "infoBlockText": "アクセス：座間味港から車で約13分住所：沖縄県島尻郡座間味村座間味",
+        "sectionLevel": "h3",
+        "sectionTitle": "阿真ビーチ"
+      },
+      {
+        "description": "座間味島集落の東、標高137mの高月山にある展望台の絶景は島内きっての人気を誇ります。ふたつの展望台があり、ひとつは慶良間の海に浮かぶ島々を視界いっぱいに堪能でき、もうひとつは美しい古座間味ビーチを見ることができます。それぞれの景色のダイナミックさに思わず息を呑むことでしょう。遊歩道には、春にはケラマツツジが咲き、通年で咲くハイビスカスも南国の風を感じさせてくれます。車で訪れるのもよし、徒歩で時間をかけて向かうのもよし、どちらでも楽しむことができるスポットです。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/i1uYF7lncRHdRu7TgzFZ1iew8gfu0gmNsWjgxI44l9w/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/9hJl0ylcyzE8q3StOFiOTHULe9GMCKAgoAI3h4mFm4Q/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/9hJl0ylcyzE8q3StOFiOTHULe9GMCKAgoAI3h4mFm4Q/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/9hJl0ylcyzE8q3StOFiOTHULe9GMCKAgoAI3h4mFm4Q/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/9hJl0ylcyzE8q3StOFiOTHULe9GMCKAgoAI3h4mFm4Q/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9hJl0ylcyzE8q3StOFiOTHULe9GMCKAgoAI3h4mFm4Q/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "akiko / PIXTA(ピクスタ)",
+        "infoBlockLabel": "北浜ビーチの基本情報",
+        "infoBlockText": "アクセス：阿嘉港から車で約6分住所：沖縄県島尻郡座間味村阿嘉",
+        "sectionLevel": "h3",
+        "sectionTitle": "高月山展望台"
+      },
+      {
+        "description": "座間味島の北西部にあるのが稲崎展望台です。晴れていれば北西に渡名喜（となき）島、西に久米島、北に粟国（あぐに）島が見えることもあり、吹き抜ける風が気持ちいいロケーションです。冬季はホエールウォッチングの誘導場所としても知られ、ここからクジラを探し、無線でボートを誘導することから「クジラ展望台」とも呼ばれています。高月山展望台から見える海と異なるのは、海の荒々しさです。断崖に打ち寄せる波からは自然本来の脅威と雄大さを感じることができます。高月山展望台に行った後なら景色を比べて楽しめます。",
+        "image": {
+          "height": 1280,
+          "sourceUrl": "https://a.mktgcdn.com/p/V8cKIu4O3cRmtr2SIKkwU20oRHC36SOtZVQkj9TkFfg/1920x1280.jpg",
+          "thumbnails": [
+            {
+              "height": 1280,
+              "url": "https://a.mktgcdn.com/p-sandbox/Of1NrZxxcexxuZdjtQx6YPJLx5DZBdsMkyvgXDKZvlo/1920x1280.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/Of1NrZxxcexxuZdjtQx6YPJLx5DZBdsMkyvgXDKZvlo/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Of1NrZxxcexxuZdjtQx6YPJLx5DZBdsMkyvgXDKZvlo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Of1NrZxxcexxuZdjtQx6YPJLx5DZBdsMkyvgXDKZvlo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Of1NrZxxcexxuZdjtQx6YPJLx5DZBdsMkyvgXDKZvlo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Of1NrZxxcexxuZdjtQx6YPJLx5DZBdsMkyvgXDKZvlo/1920x1280.jpg",
+          "width": 1920
+        },
+        "imageCaption": "chokoneta / PIXTA(ピクスタ)",
+        "infoBlockLabel": "シロの像の基本情報",
+        "infoBlockText": "アクセス：阿嘉港から徒歩で約1分住所：沖縄県島尻郡座間味村阿嘉",
+        "sectionLevel": "h3",
+        "sectionTitle": "稲崎展望台"
+      },
+      {
+        "description": "阿嘉大橋でつながる阿嘉島と慶留間島（げるまじま）は、小さい島ながら美しい海や夕日を楽しめる隠れた人気スポットです。極上の海で羽を伸ばして、普段の疲れを癒しましょう。",
+        "image": {
+          "height": 534,
+          "sourceUrl": "https://a.mktgcdn.com/p/xfG2OToZgeeJkVA1_OSq4tjMFlccGivz00QmKVjtbxI/800x534.jpg",
+          "thumbnails": [
+            {
+              "height": 534,
+              "url": "https://a.mktgcdn.com/p-sandbox/xfG2OToZgeeJkVA1_OSq4tjMFlccGivz00QmKVjtbxI/800x534.jpg",
+              "width": 800
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/xfG2OToZgeeJkVA1_OSq4tjMFlccGivz00QmKVjtbxI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/xfG2OToZgeeJkVA1_OSq4tjMFlccGivz00QmKVjtbxI/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/xfG2OToZgeeJkVA1_OSq4tjMFlccGivz00QmKVjtbxI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xfG2OToZgeeJkVA1_OSq4tjMFlccGivz00QmKVjtbxI/800x534.jpg",
+          "width": 800
+        },
+        "imageCaption": "Photo Studio Sorisso 美ら島物語 / PIXTA(ピクスタ)",
+        "infoBlockLabel": "阿嘉大橋の基本情報",
+        "infoBlockText": "アクセス：阿嘉港から徒歩で約5分住所：沖縄県島尻郡座間味村阿嘉",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．阿嘉島・慶留間島で必ず行きたい観光スポット"
+      },
+      {
+        "description": "北浜と書いて、ニシバマ。ビーチの場所は、阿嘉島の東。こんがらがりそうですが、紛れもなく阿嘉島トップクラスの人気を誇るビーチです。真っ白な砂浜からグラデーションで透明度の高い青色に変わっていく海は、鳥肌が立つほど美しく神秘的です。マリンアクティビティとしてシュノーケリングも人気ですが、離島のなかでは混雑が少ないと言われているため、のんびり楽しめるのがうれしいところです。慶良間諸島ならではと言えるサンゴや鮮やかな熱帯魚をゆったりと眺めれば、自然と心が癒されるはずです。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/kHr0Bw9Ot8erEX1EeG-VFzVcZ58_f2oYQ_1wVnxpRnM/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/L4o1K7KOGyyToQvj0KY5qXgjL_ALirY0YcHjzZcqX9c/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/L4o1K7KOGyyToQvj0KY5qXgjL_ALirY0YcHjzZcqX9c/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/L4o1K7KOGyyToQvj0KY5qXgjL_ALirY0YcHjzZcqX9c/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/L4o1K7KOGyyToQvj0KY5qXgjL_ALirY0YcHjzZcqX9c/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/L4o1K7KOGyyToQvj0KY5qXgjL_ALirY0YcHjzZcqX9c/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "Hiroko / PIXTA(ピクスタ)",
+        "infoBlockLabel": "高良家の基本情報",
+        "infoBlockText": "アクセス：慶留間港から車で約1分住所：沖縄県島尻郡座間味村慶留間",
+        "sectionLevel": "h3",
+        "sectionTitle": "北浜ビーチ"
+      },
+      {
+        "description": "映画の主人公として、一躍人気となったのが阿嘉島の雄犬、シロの像です。シロが恋人のマリリンに会うため、阿嘉島から座間味島まで毎日のように泳いで会いにいったというストーリーはなんともハートフル。シロの像は阿嘉港にあり、視線は力強く座間味島を向いています。なんとその座間味島のウルノサチの岬にはマリリンの像が。マリリンも海の彼方を見つめ、美しい海を挟んで、2匹の犬が見つめ合っているのがとてもロマンチックです。恋愛のパワースポットとしてぜひ訪れたい場所です。",
+        "image": {
+          "height": 1026,
+          "sourceUrl": "https://a.mktgcdn.com/p/xgMue9yrbjPToYcm1XOcVfvlMjRIZIdLu728gDGbCQM/1536x1026.jpg",
+          "thumbnails": [
+            {
+              "height": 1026,
+              "url": "https://a.mktgcdn.com/p-sandbox/yPoKocA-egyzKH9q7BAI8ngWogb2p6APNuwVbtvgC_A/1536x1026.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/yPoKocA-egyzKH9q7BAI8ngWogb2p6APNuwVbtvgC_A/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/yPoKocA-egyzKH9q7BAI8ngWogb2p6APNuwVbtvgC_A/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yPoKocA-egyzKH9q7BAI8ngWogb2p6APNuwVbtvgC_A/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yPoKocA-egyzKH9q7BAI8ngWogb2p6APNuwVbtvgC_A/1536x1026.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "シロの像"
+      },
+      {
+        "description": "阿嘉港から徒歩すぐ、阿嘉島と慶留間島をつなぐ橋として、慶良間屈指の絶景が味わえるとの呼び声も高いのが阿嘉大橋（あかおおはし）です。その美しいフォルムも特徴的です。車で通り過ぎるのはもったいない、自転車や徒歩でゆっくり散歩するのにぴったりのスポットです。橋から望む景色は、贅沢の極み。山の緑、海と空の青、砂浜の白で描かれる風景は、想像を超える圧倒的な存在感です。透明度の高い海のおかげで、天候に恵まれれば橋からウミガメも見られるかもしれません。",
+        "sectionLevel": "h3",
+        "sectionTitle": "阿嘉大橋"
+      },
+      {
+        "description": "高良家（たからけ）は船頭主家（せんどうすーやー）と呼ばれる旧家で、19世紀後半の琉球王府時代末期に、公用船の船頭職を務めた仲村渠親雲上（なかんだかりぺーちん）が中国との貿易によって建築したといわれています。沖縄民家の原型を留めた貴重な史跡として国の重要文化財に指定されています。屋敷を囲む石垣や、外部からの視線をさえぎる目隠しであり、悪霊の入るのを防ぐためとも言われるヒンプンにはサンゴ石を用いた独自の積み方が見られ、赤瓦の屋根が特徴的です。まるで昔の沖縄にタイムスリップしたかのような気分を味わえることでしょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "高良家"
+      },
+      {
+        "description": "慶良間諸島に行くには、那覇からのフェリーか高速船が一般的です。時間もさほどかからないので、離島デビューの方にもおすすめです。沖縄本島よりも壮大な自然の中で、マリンアクティビティを楽しみましょう。\u003cspan style\u003d\"font-weight: bold\"\u003e◆渡嘉敷島への行き方\u003c/span\u003e那覇から渡嘉敷島へはフェリーで約1時間10分、高速船で約35分です。那覇にある泊ふ頭旅客ターミナル『とまりん』から発着し、チケットもここで買えます。フェリーでゆっくり風景を眺めるか、高速船ですぐに離島で楽しむかは旅のスケジュールによって調整しましょう。\u003cspan style\u003d\"font-weight: bold\"\u003e◆座間味島への行き方\u003c/span\u003e那覇から座間味島へはフェリーで約1時間30分〜2時間、高速船で約50分〜1時間10分かかります。こちらも『とまりん』でチケットを買って、あとは出発を待つだけ。高速船のほうが料金は高いので、お財布との相談になりそうです。\u003cspan style\u003d\"font-weight: bold\"\u003e◆阿嘉島・慶留間島への行き方\u003c/span\u003e那覇から阿嘉島へはフェリーで約1時間30分、高速船で約50分です。こちらも『とまりん』でチケットを買いましょう。那覇空港から『とまりん』へは、タクシーで約20分、モノレールで美栄橋駅まで約14分、そこから徒歩で約10分です。『とまりん』内にはコンビニやATMもあるので直前に何かあっても安心です。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．慶良間諸島へのアクセスをチェック！"
+      },
+      {
+        "description": "沖縄本島から離れた島々にも魅力はたくさん。沖縄本島を知り尽くした人も、はじめて沖縄を訪れる人も、他で味わえない特別な時間を過ごすことができるでしょう。※2020年8月時点の情報です。内容は変更になることがあります。",
+        "sectionLevel": "h2",
+        "sectionTitle": "5．まとめ"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kokunai_0011",
+      "news_web_kokunai_0015",
+      "news_web_kokunai_0012"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2020-10-01",
+    "c_news_UpdateDate": "2024-07-11",
+    "c_news_ViewCount": "3923",
+    "c_news_ViewCount2of2": "3923",
+    "c_news_ViewCountNum": "3923",
+    "c_news_ViewCountNumForSorting": "163",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0009",
+    "name": "慶良間諸島 おすすめ観光スポット12選！渡嘉敷・座間味・阿嘉・慶留間",
+    "slug": "kokunai/okinawa/okinawa_all/news_web_kokunai_0009",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

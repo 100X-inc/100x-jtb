@@ -1,0 +1,835 @@
+{
+  "$id": "os-0133",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "address": {
+      "city": "品川区",
+      "countryCode": "JP",
+      "line1": "東品川2-3-11",
+      "postalCode": "140-8602",
+      "region": "東京都"
+    },
+    "addressHidden": true,
+    "alternatePhone": "+815036140969",
+    "appleCompanyId": "1480313529409856512",
+    "c_00_イベントページ生成": false,
+    "c_01_イベントタブ説明": "お好みのイベントをクリックすると、詳細情報がご覧いただけます。\nイベントの参加予約は「イベント予約」または、「電話」でお申込みください。また、各種ご相談の来店予約は随時受付しております。",
+    "c_01_タブ名1": "店舗ニュース",
+    "c_01_タブ名2": "イベント",
+    "c_02_イベントなしメッセージ": "\u003cspan\u003e※ご相談は毎日承っております。\nお待たせしないためにもご来店は予約をお勧め致します。\n\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/theme/onlinetour/\"\u003eご予約はインターネット（24時間OK）から、\u003c/a\u003e\u003c/span\u003eまたはお電話（\u003cspan\u003e\u003ca href\u003d\"tel:03-5524-7431\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e03-5524-7431\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e）でどうぞ。\u003c/span\u003e",
+    "c_02_イベント予約ボタンラベル": "イベント予約",
+    "c_02_イベント予約説明": "イベントの参加予約は、\nイベント予約ボタンまたはお電話からお申込みください。",
+    "c_02_イベント予約電話": "03-5524-7431",
+    "c_02_デコレーション画像1": {
+      "image": {
+        "height": 995,
+        "sourceUrl": "http://a.mktgcdn.com/p/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/177x995.png",
+        "thumbnails": [
+          {
+            "height": 995,
+            "url": "http://a.mktgcdn.com/p-sandbox/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/177x995.png",
+            "width": 177
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/80x450.png",
+            "width": 80
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/71x400.png",
+            "width": 71
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/177x995.png",
+        "width": 177
+      }
+    },
+    "c_02_デコレーション画像2": {
+      "image": {
+        "height": 994,
+        "sourceUrl": "http://a.mktgcdn.com/p/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/178x994.png",
+        "thumbnails": [
+          {
+            "height": 994,
+            "url": "http://a.mktgcdn.com/p-sandbox/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/178x994.png",
+            "width": 178
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/81x450.png",
+            "width": 81
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/72x400.png",
+            "width": 72
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/178x994.png",
+        "width": 178
+      }
+    },
+    "c_03_法人支店取扱サービスリスト": [
+      {
+        "url": "http://www.jtb.co.jp/shop/othersite/jtbtabicard.asp?CODE\u003d1123\u0026P\u003d1",
+        "ラベル名": "JTB旅カード"
+      },
+      {
+        "url": "https://exchange.jtb.co.jp/Gaika/Main/Top.aspx?c\u003dW021113300",
+        "ラベル名": "JTBの外貨両替"
+      },
+      {
+        "url": "https://memb-web-moneytg.aplus.co.jp/TR001Action_doInit.action?kkkbn\u003dJT\u0026sscode\u003d1133",
+        "ラベル名": "世界のキャッシュカード"
+      },
+      {
+        "url": "http://www.worldsp.jp/?fromsite\u003d910709",
+        "ラベル名": "JTB世界のおみやげ"
+      },
+      {
+        "url": "http://www.jtb.co.jp/shop/othersite/jihoken.asp?SHITEN_CD\u003dj1133-0\u0026P\u003d1",
+        "ラベル名": "JTB旅行保険"
+      },
+      {
+        "url": "https://tabitabibank.jtb.co.jp/jtb/memberAffiliate.do?SiteCode\u003d1133",
+        "ラベル名": "JTB旅行積立"
+      }
+    ],
+    "c_03_配色_イベントタブフォント": "#e09191",
+    "c_03_配色_イベントタブ背景": "#ffeded",
+    "c_03_配色_イベントリスト背景": "#ffffff",
+    "c_03_配色_イベント予約ボタンアクティブフォント": "#ffffff",
+    "c_03_配色_イベント予約ボタンフォント": "#ffffff",
+    "c_03_配色_土曜タイトルフォント": "#96FFFF",
+    "c_03_配色_日付タイトルフォント": "#ffffff",
+    "c_03_配色_日付タイトル背景": "#664800",
+    "c_03_配色_日曜タイトルフォント": "#FF96B4",
+    "c_03_配色_月タブフォント": "#ffffff",
+    "c_03_配色_月タブ背景": "#664800",
+    "c_03_配色_祝日タイトルフォント": "#FF96B4",
+    "c_03_配色_選択月タブフォント": "#333333",
+    "c_03_配色_選択月タブ背景": "#ffffff",
+    "c_about_Section_Sub_font_color": "#e0211a",
+    "c_about_Section_Title_font_color": "#e0211a",
+    "c_about_Section_background": "#c0c0c0",
+    "c_altName": "JTBリモートコンシェルジュ カナダ専門デスク",
+    "c_anchor3": "ご利用方法",
+    "c_cTA0来店予約URL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfk",
+    "c_cTA0来店予約ラベル": "オンライン相談予約",
+    "c_cTA1URL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfk",
+    "c_cTA1ラベル": "オンライン相談を\u003cbr/\u003e予約する",
+    "c_cTA_Main_background": "#e0211a",
+    "c_cTA_Main_border": "#E09191",
+    "c_cTA_Main_font_color": "#FFFFFF",
+    "c_cTA_Main_hover_background": "#e0211a",
+    "c_cTA_Sub_hover_background": "#FFFFFF",
+    "c_footer_Section_background": "#e0211a",
+    "c_locDescript": "JTBリモートコンシェルジュ カナダ専門デスク",
+    "c_mobile_Menu_background": "#e0211a",
+    "c_nAP_Section_Sub_font_color": "#e0211a",
+    "c_nearby_Section_Title_font_color": "#FFFFFF",
+    "c_pagesEventsURL": "https://stores.jtb.co.jp/os-0133/events",
+    "c_pagesSortCode": "131091",
+    "c_pagesSortGroup": "X",
+    "c_pagesURL": "[[c_v2PagesURL]]",
+    "c_plusJTBTitle": "関連サービス・商品のご案内",
+    "c_plusJTBリンク1URL": "https://www.jtb.co.jp/theme/onlinetour/",
+    "c_plusJTBリンク1ラベル": "オンラインツアー",
+    "c_plusJTBリンク2URL": "https://www.jtb.co.jp/gift/",
+    "c_plusJTBリンク2ラベル": "ギフト券",
+    "c_plusJTBリンク3URL": "https://www.jtb.co.jp/myjtb/card/",
+    "c_plusJTBリンク3ラベル": "JTB旅カード",
+    "c_plusJTBリンク4URL": "https://www.jtb.co.jp/jihoken/kokunai/index.asp",
+    "c_plusJTBリンク4ラベル": "旅行保険（国内）",
+    "c_plusJTBリンク5URL": "https://www.jtb.co.jp/tabitabibank/",
+    "c_plusJTBリンク5ラベル": "旅行積立",
+    "c_plusJTBリンク6URL": "https://shopping.jtb.co.jp/",
+    "c_plusJTBリンク6ラベル": "JTBショッピング",
+    "c_plusJTBリンク7URL": "https://rurubu.jp/andmore",
+    "c_plusJTBリンク7ラベル": "るるぶ\u0026more",
+    "c_plusJTBリンク8URL": "https://tabinobi.jp/",
+    "c_plusJTBリンク8ラベル": "たびのび　ー旅行動画サイトー",
+    "c_promo1_Section_Title_font_color": "#e0211a",
+    "c_promo1_Section_background": "#c0c0c0",
+    "c_promo2_Section_Title_font_color": "#423c3c",
+    "c_promo2_Section_background": "#FFFFFF",
+    "c_socialFacebookURL": "https://www.facebook.com/jtb.jp",
+    "c_socialLINEURL": "https://line.me/ti/p/%40jtbhd",
+    "c_v2AboutLink1": {
+      "label": "オンラインツアー",
+      "link": "https://www.jtb.co.jp/theme/onlinetour/",
+      "linkType": "URL"
+    },
+    "c_v2AboutLink2": {
+      "label": "ギフト券",
+      "link": "https://www.jtb.co.jp/gift/",
+      "linkType": "URL"
+    },
+    "c_v2AboutLink3": {
+      "label": "JTB旅カード",
+      "link": "https://www.jtb.co.jp/myjtb/card/",
+      "linkType": "URL"
+    },
+    "c_v2AboutLink4": {
+      "label": "海外旅行保険",
+      "link": "https://tabiho.jp/tb/Start.do?EntranceType\u003d01\u0026KashoCode\u003d0013\u0026ProducerCode\u003d9PM\u0026BranchCode\u003dHM",
+      "linkType": "URL"
+    },
+    "c_v2AboutLink5": {
+      "label": "旅行積立",
+      "link": "https://www.jtb.co.jp/tabitabibank/",
+      "linkType": "URL"
+    },
+    "c_v2AboutLink6": {
+      "label": "JTBショッピング",
+      "link": "https://shopping.jtb.co.jp/",
+      "linkType": "URL"
+    },
+    "c_v2AboutSectionTitle": "[[name]]について",
+    "c_v2AdditionalHoursText": "[[additionalHoursText]]",
+    "c_v2AdditionalHoursText2": "休業日：12/30～1/3",
+    "c_v2AvailableService": [
+      "オンライン・リモートでの相談専門店"
+    ],
+    "c_v2CTAReservation": {
+      "label": "リモート相談を予約する\u003cstyle\u003e.About-map {display:none;} .Nearby {display: none;} .Hero-anchors {display:none;} .Hero-anchorsMobile{display:none;} .Core-title--address{display:none;} .c-address{display:none;} \u003c/style\u003e",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfk",
+      "linkType": "URL"
+    },
+    "c_v2CTATel1": {
+      "label": "●店舗の電話番号はこちら（来店予約、店舗で予約した旅行の変更や取消など）",
+      "link": "+815036140650",
+      "linkType": "PHONE"
+    },
+    "c_v2CTATel3": {
+      "label": "●お電話での連絡先",
+      "link": "+815036140650",
+      "linkType": "PHONE"
+    },
+    "c_v2LocationPhotoList": [
+      {
+        "image": {
+          "height": 438,
+          "sourceUrl": "https://a.mktgcdn.com/p/6VUvR4F4n8AZe0Nj2QM4LiQy5oFItZVeT0YO6djzrJw/600x438.png",
+          "thumbnails": [
+            {
+              "height": 438,
+              "url": "http://a.mktgcdn.com/p-sandbox/hL85t2uZwMtOfZneiZgFryiBqRgpCH-oL1avy51h0MI/600x438.png",
+              "width": 600
+            },
+            {
+              "height": 143,
+              "url": "http://a.mktgcdn.com/p-sandbox/hL85t2uZwMtOfZneiZgFryiBqRgpCH-oL1avy51h0MI/196x143.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/hL85t2uZwMtOfZneiZgFryiBqRgpCH-oL1avy51h0MI/600x438.png",
+          "width": 600
+        }
+      }
+    ],
+    "c_v2MetaDescription": "JTB　オンライン相談　予約　リモート　コンシェルジュ　旅行相談",
+    "c_v2MetaTitle": "JTBリモートコンシェルジュ カナダ専門デスク（オンライン相談専門店）",
+    "c_v2News1": {
+      "description": "【手順① まずはお電話をお願いします】\n・当店までお電話\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"tel:050-3614-0969\"\u003e050-3614-0969\u003c/a\u003e\u003c/span\u003e（営業時間10:00-20:30）をいただき、スタッフへ今すぐ相談したい旨をお伝えください。\n・お手元にインターネット接続可能なPCまたはスマートフォンなどをご用意ください。\n※事前予約優先のため、「今すぐリモート相談」は対応できない場合があります。\n※内容によってはそのままお電話でも相談できます。\n\n【手順② ルームキーをご案内します】\n・リモート相談ご希望の場合は相談ルームへ入室できるルームキー（8桁の数字）をお電話でご案内します。\n・この数字をメモ等に控えてお電話をお切りください。\n\n【手順③ ルームキーを入力して相談開始】\n・\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://jtb.rooms-online.jp/roomkey/jtb\"\u003eこちらの画面\u003c/a\u003e\u003c/span\u003eにアクセスして、先ほどのルームキーを入力してください。\n・ルームキーの認証が完了すると、そのままオンライン相談画面に繋がります。ご希望の旅行などをご自由にご相談ください。スタッフがご要望に沿った旅行プランを提案します。",
+      "endDate": "2022-10-11",
+      "image": {
+        "height": 363,
+        "sourceUrl": "https://a.mktgcdn.com/p/i5rPKzvymbUNXoKtSVafiKgRvMie1MwJp6W5tJlUOXY/600x363.jpg",
+        "thumbnails": [
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/i5rPKzvymbUNXoKtSVafiKgRvMie1MwJp6W5tJlUOXY/600x363.jpg",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/i5rPKzvymbUNXoKtSVafiKgRvMie1MwJp6W5tJlUOXY/196x119.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/i5rPKzvymbUNXoKtSVafiKgRvMie1MwJp6W5tJlUOXY/600x363.jpg",
+        "width": 600
+      },
+      "startDate": "2022-10-01",
+      "title": "今すぐリモート相談をご希望の場合"
+    },
+    "c_v2News2": {
+      "description": "神秘のオーロラが舞う大地、カナダへ！出発90日前までのお申し込みが断然お得な早得割引90設定あり！",
+      "endDate": "2023-02-28",
+      "image": {
+        "height": 298,
+        "sourceUrl": "https://a.mktgcdn.com/p/TgrSEQ0bpndMrr7sL6X8I7RUyxIob6yOkV7FDv_YLcc/531x298.jpg",
+        "thumbnails": [
+          {
+            "height": 298,
+            "url": "http://a.mktgcdn.com/p-sandbox/-Pn2H2fyQg9BkF2Vrlp0WzpCi6Yg7S24tKJXcxXpkLY/531x298.jpg",
+            "width": 531
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/-Pn2H2fyQg9BkF2Vrlp0WzpCi6Yg7S24tKJXcxXpkLY/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/-Pn2H2fyQg9BkF2Vrlp0WzpCi6Yg7S24tKJXcxXpkLY/531x298.jpg",
+        "width": 531
+      },
+      "startDate": "2022-09-16",
+      "title": "＜お待たせ！海外！＞冬のカナダ。オーロラツアー登場！",
+      "url": "https://dp.jtb.co.jp/lookjtb/dp/pamphlet/2022_ame_8473301/#1"
+    },
+    "c_v2News3": {
+      "description": "自然豊かで見所たっぷりのカナダ。\nカナダ渡航経験のあるスタッフが在籍しています。お気軽にご相談ください。",
+      "image": {
+        "height": 780,
+        "sourceUrl": "https://a.mktgcdn.com/p/amNBdUpRCbn-WqX5Ts_eKfGRl19PvvTKyCBe3108uuo/1168x780.jpg",
+        "thumbnails": [
+          {
+            "height": 780,
+            "url": "http://a.mktgcdn.com/p-sandbox/amNBdUpRCbn-WqX5Ts_eKfGRl19PvvTKyCBe3108uuo/1168x780.jpg",
+            "width": 1168
+          },
+          {
+            "height": 413,
+            "url": "http://a.mktgcdn.com/p-sandbox/amNBdUpRCbn-WqX5Ts_eKfGRl19PvvTKyCBe3108uuo/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 401,
+            "url": "http://a.mktgcdn.com/p-sandbox/amNBdUpRCbn-WqX5Ts_eKfGRl19PvvTKyCBe3108uuo/600x401.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p-sandbox/amNBdUpRCbn-WqX5Ts_eKfGRl19PvvTKyCBe3108uuo/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/amNBdUpRCbn-WqX5Ts_eKfGRl19PvvTKyCBe3108uuo/1168x780.jpg",
+        "width": 1168
+      },
+      "title": "＜お待たせ！海外＞カナダ　販売中"
+    },
+    "c_v2NewsSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2NewsSectionTitle": "店舗ニュース",
+    "c_v2PagesURL": "https://stores.jtb.co.jp/os-0133",
+    "c_v2Promo1": {
+      "description": "\u003cdiv style\u003d\"font-size:16px;\"\u003e\u003cspan style\u003d\"font-weight:bold;\"\u003e【手順① 相談日時を予約してください】\u003c/span\u003e\n・\u003cspan style\u003d\"border-bottom: solid 1px #3498DB; color:#3498DB;\"\u003e\u003ca href\u003d\"https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfk?_gl\u003d1*1tok2k4*_gcl_au*MTc4MjExNzkwNS4xNzAzNjM2MzI2\"\u003eこちらの相談予約画面\u003c/a\u003e\u003c/span\u003eにて、〇または△が付いている日程の中からご希望の日時をお選びください。\n\n\u003cspan style\u003d\"font-weight:bold;\"\u003e【手順② メールによる本人確認をお願いします】 \u003c/span\u003e\n・相談予約画面で登録いただいたメールアドレス宛に本人確認のためのメールをお送りします。\n・メール配信から10分以内に記載のURLにアクセスし、相談予約日時を確認のうえ相談予約を確定してください。\n\n\u003cspan style\u003d\"font-weight:bold;\"\u003e【手順③ 当日指定のURLへアクセス】\u003c/span\u003e\n・リモート相談予約確定後にご指定のメールアドレスへ当日アクセスいただくためのURLをお送りします。\n・時間になりましたらお客様のPC、タブレット、スマートフォンからお送りしたURLへアクセスしてください。\n・画面に繋がったらリモート相談を開始します。ご希望の旅行などをご自由にご相談ください。\n・開始時刻から10分以内に入室がない場合はキャンセルとさせていただきます。\u003c/div\u003e",
+      "image": {
+        "height": 430,
+        "sourceUrl": "https://a.mktgcdn.com/p/j2rVHcy6bU-gAkY0oV-hoN7QuUPgXiJZD_Dgpf6od_g/710x430.png",
+        "thumbnails": [
+          {
+            "height": 430,
+            "url": "http://a.mktgcdn.com/p-sandbox/j2rVHcy6bU-gAkY0oV-hoN7QuUPgXiJZD_Dgpf6od_g/710x430.png",
+            "width": 710
+          },
+          {
+            "height": 375,
+            "url": "http://a.mktgcdn.com/p-sandbox/j2rVHcy6bU-gAkY0oV-hoN7QuUPgXiJZD_Dgpf6od_g/619x375.png",
+            "width": 619
+          },
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/j2rVHcy6bU-gAkY0oV-hoN7QuUPgXiJZD_Dgpf6od_g/600x363.png",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/j2rVHcy6bU-gAkY0oV-hoN7QuUPgXiJZD_Dgpf6od_g/196x119.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/j2rVHcy6bU-gAkY0oV-hoN7QuUPgXiJZD_Dgpf6od_g/710x430.png",
+        "width": 710
+      },
+      "title": "\u003cspan style\u003d\"padding-top:12px; font-size:18px;\"\u003eリモート相談の予約手順のご案内\u003c/span\u003e"
+    },
+    "c_v2Promo2": {
+      "description": "\u003cdiv style\u003d\"font-size:16px;\"\u003e●リモート相談をご利用の際は事前に下記の点をご確認お願いします。\n\u003cp style\u003d\"margin-top:8px;\"\u003e・インターネット接続可能なPC、タブレット、スマートフォンなどをご用意ください。インターネット接続の通信費はお客様のご負担となります。\n・通信環境、及びデバイス、ブラウザのバージョン等によって画面や音声が不明瞭になる場合や、接続不良となる場合があります。\n・リモート相談では、株式会社Bloom Actが提供するオンライン商談ツール「ROOMS」を利用いたします。ブラウザからアクセスしますのでアプリ等のダウンロードの必要はありません。\n・推奨環境は以下となります。\n　Windows10…GoogleChrome/Edge 最新版\n　Mac…10.12以上、GoogleChrome/Safari 最新版\n　iOS…iOS12.2以上、safari 最新版\n　Android…Android7.0以上、GoogleChrome 最新版\n・ご相談内容は、正確性の確保とお客様サービス向上のため、録音及び録画する場合があります。 \u003c/p\u003e\u003c/div\u003e\n\n\u003cdiv style\u003d\"font-size:16px;\"\u003e●下記の商品や内容に関するご相談は本サービスの対象外です。ご了承ください。\n\u003cp style\u003d\"margin-top:8px;\"\u003e・日帰り旅行、JR・各社私鉄の乗車券特急券、国内航空券、その他チケット単品、ギフト券\n・すでに予約済みの旅行に関する問合せ\n・旅行に関連しないご相談 \n※一部お取り扱いのできない商品もあります。\n※なお、相談の際に、法令・公序良俗に反する行為、本サービスの運営を妨害するおそれのある行為、その他当社が不適切と判断する行為等があった場合には、相談を中止させていただきます。\u003c/p\u003e\u003c/div\u003e",
+      "image": {
+        "height": 430,
+        "sourceUrl": "https://a.mktgcdn.com/p/M-Ker1rnE9JQIUtyRuRvr4h0sFaaVuGODa1VT3t0Fps/710x430.png",
+        "thumbnails": [
+          {
+            "height": 430,
+            "url": "http://a.mktgcdn.com/p-sandbox/M-Ker1rnE9JQIUtyRuRvr4h0sFaaVuGODa1VT3t0Fps/710x430.png",
+            "width": 710
+          },
+          {
+            "height": 375,
+            "url": "http://a.mktgcdn.com/p-sandbox/M-Ker1rnE9JQIUtyRuRvr4h0sFaaVuGODa1VT3t0Fps/619x375.png",
+            "width": 619
+          },
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/M-Ker1rnE9JQIUtyRuRvr4h0sFaaVuGODa1VT3t0Fps/600x363.png",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/M-Ker1rnE9JQIUtyRuRvr4h0sFaaVuGODa1VT3t0Fps/196x119.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/M-Ker1rnE9JQIUtyRuRvr4h0sFaaVuGODa1VT3t0Fps/710x430.png",
+        "width": 710
+      },
+      "title": "\u003cspan style\u003d\"padding-top:12px; font-size:18px;\"\u003eリモート相談にあたり事前にご確認いただくこと\u003c/span\u003e"
+    },
+    "c_v2PromoSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2PromoSectionTitle": "リモート相談のご利用方法",
+    "c_v2StaffSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2StaffSectionTitle": "[[name]] 店舗スタッフの紹介",
+    "c_v2StoreManagerDescription": "株式会社JTB コンタクトセンター 050-3614-0969",
+    "c_v2Tel1": {
+      "number": "050-3614-0969"
+    },
+    "c_v2Tel3": {
+      "label": "●お電話での連絡先",
+      "number": "050-3614-0969"
+    },
+    "c_wd_post_news_1": false,
+    "c_wd_post_news_2": false,
+    "c_wd_post_news_3": false,
+    "c_wd_post_news_4": false,
+    "c_wd_post_news_5": false,
+    "c_wd_post_news_6": false,
+    "c_wd_post_news_7": false,
+    "c_wd_post_news_8": false,
+    "c_wed_Menu_background": "#e0211a",
+    "c_wed_Menu_border": "#E09191",
+    "c_wed_Menu_font_color": "#FFFFFF",
+    "c_wed_Menu_font_color_on_light": "#FFFFFF",
+    "c_wed_Menu_light_background": "#808080",
+    "c_おすすめ情報1タイトル": "オンライン相談を予約する",
+    "c_おすすめ情報1ボタンラベル": "オンライン相談予約",
+    "c_おすすめ情報1画像": {
+      "image": {
+        "height": 775,
+        "sourceUrl": "http://a.mktgcdn.com/p/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+        "thumbnails": [
+          {
+            "height": 775,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+            "width": 1141
+          },
+          {
+            "height": 420,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/619x420.jpg",
+            "width": 619
+          },
+          {
+            "height": 408,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/600x408.jpg",
+            "width": 600
+          },
+          {
+            "height": 133,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/196x133.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+        "width": 1141
+      }
+    },
+    "c_おすすめ情報1表示": true,
+    "c_おすすめ情報1説明": "【手順① 相談日時を予約してください】\n・\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfk\"\u003eこちらの相談予約画面\u003c/a\u003e\u003c/span\u003eにて、〇が付いている日程の中からご希望の日時で予約できます。\n\n【手順② メールによる本人確認をお願いします】\n・相談予約画面で登録いただいたメールアドレス宛に本人確認のためのメールをお送りします。\n・メールに記載のURLにアクセスし、相談予約日時を確認のうえ相談予約を確定してください。\n\n【手順③ 当日指定のURLへアクセス】\n・オンライン相談予約完了後にご指定のメールアドレスへ当日アクセスいただくためのURLをお送りします。\n・時間になりましたら、PC、スマートフォンなどからお送りしたURLへアクセスしてください。アプリ等のダウンロードは不要です。\n・スマートフォンの場合は予めカメラとマイクの機能を有効にしてからアクセスしてください。\n・画面に繋がったらオンライン相談を開始します。ご希望の旅行などをご自由にご相談ください。スタッフがご要望に沿った旅行プランをご提案します。",
+    "c_おすすめ情報2タイトル": "今すぐオンライン相談をする",
+    "c_おすすめ情報2ボタンURL": "https://jtb.rooms-online.jp/roomkey/jtb",
+    "c_おすすめ情報2ボタンラベル": "ルームキー入力画面",
+    "c_おすすめ情報2掲載始め": "2022-10-01",
+    "c_おすすめ情報2掲載終り": "2022-10-11",
+    "c_おすすめ情報2画像": {
+      "image": {
+        "height": 740,
+        "sourceUrl": "http://a.mktgcdn.com/p/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+        "thumbnails": [
+          {
+            "height": 740,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+            "width": 1190
+          },
+          {
+            "height": 385,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/619x385.jpg",
+            "width": 619
+          },
+          {
+            "height": 373,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/600x373.jpg",
+            "width": 600
+          },
+          {
+            "height": 122,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/196x122.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+        "width": 1190
+      }
+    },
+    "c_おすすめ情報2表示": true,
+    "c_おすすめ情報2説明": "\u003cp id\u003d\"rightnow\"\u003e今すぐオンライン相談したい場合の手順をご案内します。\u003c/p\u003e\n【手順① まずはお電話をお願いします】\n・当店までお電話\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"tel:050-3614-0650\"\u003e050-3614-0650\u003c/a\u003e\u003c/span\u003e（営業時間10:00-20:30）をいただき、スタッフへ今すぐ相談したい旨をお伝えください。\n・お手元にインターネット接続可能なPCまたはスマートフォンなどをご用意ください。\n※内容によってはそのままお電話でも相談できます。\n\n【手順② ルームキーをご案内します】\n・オンライン相談ご希望の場合は相談ルームへ入室できるルームキー（8桁の数字）をお電話でご案内します。\n・この数字をメモ等に控えてお電話をお切りください。\n\n【手順③ ルームキーを入力して相談開始】\n・\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://jtb.rooms-online.jp/roomkey/jtb\"\u003eこちらの画面\u003c/a\u003e\u003c/span\u003eにアクセスして、先ほどのルームキーを入力してください。\n・ルームキーの認証が完了すると、そのままオンライン相談画面に繋がります。ご希望の旅行などをご自由にご相談ください。スタッフがご要望に沿った旅行プランを提案します。",
+    "c_おすすめ情報3タイトル": "事前にご確認いただくこと",
+    "c_おすすめ情報3画像": {
+      "image": {
+        "height": 551,
+        "sourceUrl": "http://a.mktgcdn.com/p/OJCDyyzD6FtxERNTWbkJd_jUSZz9HIiVLTEMAWSYZzw/683x551.png",
+        "thumbnails": [
+          {
+            "height": 551,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/683x551.png",
+            "width": 683
+          },
+          {
+            "height": 499,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/619x499.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/558x450.png",
+            "width": 558
+          },
+          {
+            "height": 158,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/196x158.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/683x551.png",
+        "width": 683
+      }
+    },
+    "c_おすすめ情報3表示": true,
+    "c_おすすめ情報3説明": "●オンライン相談をご利用の際は事前に下記の点をご確認お願いします\n・インターネット接続可能なPC、スマートフォンなどをご用意ください。インターネット接続の通信費はお客様のご負担となります。\n・通信環境、及びデバイス、ブラウザのバージョン等によって画面や音声が不明瞭になる場合や、接続不良となる場合があります。\n・オンライン相談では、株式会社Bloom Actが提供するオンライン商談ツール「ROOMS」を利用いたします。ブラウザからアクセスしますのでアプリ等のダウンロードの必要はありません。\n・推奨環境は以下となります。\n　Windows10…GoogleChrome/Edge 最新版\n　Mac…10.12以上、GoogleChrome/Safari 最新版\n　iOS…iOS12.2以上、safari 最新版\n　Android…Android7.0以上、GoogleChrome 最新版\n・ご相談内容は、正確性の確保とお客様サービス向上のため、録音及び録画する場合があります。\n・オンライン相談は無料です。旅行に行くかどうか迷っている、必ず予約するとは限らないといった場合でもまずはお気軽にご相談ください。\n\n●下記の商品や内容に関するご相談は本サービスの対象外です。ご了承ください。\n・宿泊を伴わないJR・各社私鉄の乗車券特急券、国内航空券、その他チケット単品、ギフト券のみのご相談、お申込み\n・JTB店舗、JTBホームページ、るるぶトラベルで予約済みの旅行に関する問合せ\n・旅行に関連しないご相談\n※一部お取り扱いのできない商品もあります。\n※なお、相談の際に、法令・公序良俗に反する行為、本サービスの運営を妨害するおそれのある行為、その他当社が不適切と判断する行為等があった場合には、相談を中止させていただきます。",
+    "c_おすすめ情報タイトル": "\u003cp id\u003d\"flow\"\u003eオンライン相談のご利用方法\u003c/p\u003e",
+    "c_リモートパンくず": "オンライン相談専門店",
+    "c_住所非表示フラグ": true,
+    "c_地図非表示フラグ": true,
+    "c_店舗MetaDescription": "JTB　オンライン相談　予約　リモート　コンシェルジュ　旅行相談",
+    "c_店舗MetaTitle": "JTBリモートコンシェルジュ カナダ専門デスク（オンライン相談専門店）",
+    "c_店舗の特色フィルタ": [
+      "オンライン・リモートでの相談専門店"
+    ],
+    "c_店舗ニュース1タイトル": "今すぐオンライン相談をご希望の場合",
+    "c_店舗ニュース1掲載始め": "2022-10-01",
+    "c_店舗ニュース1掲載終り": "2022-10-11",
+    "c_店舗ニュース1画像": {
+      "image": {
+        "height": 363,
+        "sourceUrl": "https://a.mktgcdn.com/p/i5rPKzvymbUNXoKtSVafiKgRvMie1MwJp6W5tJlUOXY/600x363.jpg",
+        "thumbnails": [
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/i5rPKzvymbUNXoKtSVafiKgRvMie1MwJp6W5tJlUOXY/600x363.jpg",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/i5rPKzvymbUNXoKtSVafiKgRvMie1MwJp6W5tJlUOXY/196x119.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/i5rPKzvymbUNXoKtSVafiKgRvMie1MwJp6W5tJlUOXY/600x363.jpg",
+        "width": 600
+      }
+    },
+    "c_店舗ニュース1表示": true,
+    "c_店舗ニュース1説明": "【手順① まずはお電話をお願いします】\n・当店までお電話\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"tel:050-3614-0650\"\u003e050-3614-0650\u003c/a\u003e\u003c/span\u003e（営業時間10:00-20:30）をいただき、スタッフへ今すぐ相談したい旨をお伝えください。\n・お手元にインターネット接続可能なPCまたはスマートフォンなどをご用意ください。\n※事前予約優先のため、「今すぐオンライン相談」は対応できない場合があります。\n※内容によってはそのままお電話でも相談できます。\n\n【手順② ルームキーをご案内します】\n・オンライン相談ご希望の場合は相談ルームへ入室できるルームキー（8桁の数字）をお電話でご案内します。\n・この数字をメモ等に控えてお電話をお切りください。\n\n【手順③ ルームキーを入力して相談開始】\n・\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://jtb.rooms-online.jp/roomkey/jtb\"\u003eこちらの画面\u003c/a\u003e\u003c/span\u003eにアクセスして、先ほどのルームキーを入力してください。\n・ルームキーの認証が完了すると、そのままオンライン相談画面に繋がります。ご希望の旅行などをご自由にご相談ください。スタッフがご要望に沿った旅行プランを提案します。",
+    "c_店舗ニュース2URL": "https://dp.jtb.co.jp/lookjtb/dp/pamphlet/2022_ame_8473301/#1",
+    "c_店舗ニュース2タイトル": "＜お待たせ！海外！＞冬のカナダ。オーロラツアー登場！",
+    "c_店舗ニュース2掲載始め": "2022-09-16",
+    "c_店舗ニュース2掲載終り": "2023-02-28",
+    "c_店舗ニュース2画像": {
+      "image": {
+        "height": 298,
+        "sourceUrl": "https://a.mktgcdn.com/p/TgrSEQ0bpndMrr7sL6X8I7RUyxIob6yOkV7FDv_YLcc/531x298.jpg",
+        "thumbnails": [
+          {
+            "height": 298,
+            "url": "http://a.mktgcdn.com/p-sandbox/-Pn2H2fyQg9BkF2Vrlp0WzpCi6Yg7S24tKJXcxXpkLY/531x298.jpg",
+            "width": 531
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/-Pn2H2fyQg9BkF2Vrlp0WzpCi6Yg7S24tKJXcxXpkLY/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/-Pn2H2fyQg9BkF2Vrlp0WzpCi6Yg7S24tKJXcxXpkLY/531x298.jpg",
+        "width": 531
+      }
+    },
+    "c_店舗ニュース2表示": false,
+    "c_店舗ニュース2説明": "神秘のオーロラが舞う大地、カナダへ！出発90日前までのお申し込みが断然お得な早得割引90設定あり！",
+    "c_店舗ニュース3タイトル": "＜お待たせ！海外＞秋のカナダ　販売中",
+    "c_店舗ニュース3画像": {
+      "image": {
+        "height": 780,
+        "sourceUrl": "https://a.mktgcdn.com/p/amNBdUpRCbn-WqX5Ts_eKfGRl19PvvTKyCBe3108uuo/1168x780.jpg",
+        "thumbnails": [
+          {
+            "height": 780,
+            "url": "http://a.mktgcdn.com/p-sandbox/amNBdUpRCbn-WqX5Ts_eKfGRl19PvvTKyCBe3108uuo/1168x780.jpg",
+            "width": 1168
+          },
+          {
+            "height": 413,
+            "url": "http://a.mktgcdn.com/p-sandbox/amNBdUpRCbn-WqX5Ts_eKfGRl19PvvTKyCBe3108uuo/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 401,
+            "url": "http://a.mktgcdn.com/p-sandbox/amNBdUpRCbn-WqX5Ts_eKfGRl19PvvTKyCBe3108uuo/600x401.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p-sandbox/amNBdUpRCbn-WqX5Ts_eKfGRl19PvvTKyCBe3108uuo/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/amNBdUpRCbn-WqX5Ts_eKfGRl19PvvTKyCBe3108uuo/1168x780.jpg",
+        "width": 1168
+      }
+    },
+    "c_店舗ニュース3表示": false,
+    "c_店舗ニュース3説明": "憧れの秋の季節が到来しはじめたカナダ。\n10月にはカナダ旅行オンライン相談専門デスク　スタッフも渡航予定です。\n帰国後レポートもお楽しみに！！",
+    "c_店舗ニュース4表示": false,
+    "c_店舗ニュース5表示": false,
+    "c_店舗ニュース6表示": false,
+    "c_店舗ニュース7表示": false,
+    "c_店舗ニュース8表示": false,
+    "c_店舗ニュース9URL": "https://www.jtb.co.jp/operate/weather.asp",
+    "c_店舗ニュース9タイトル": "悪天候による影響について",
+    "c_店舗ニュース9掲載始め": "2021-03-01",
+    "c_店舗ニュース9掲載終り": "2021-04-01",
+    "c_店舗ニュース9画像": {
+      "image": {
+        "height": 496,
+        "sourceUrl": "http://a.mktgcdn.com/p/mQyqDun5jPwBuJJ-zt68shWUrCDL4Z39j0sXDdsGTCU/750x496.jpg",
+        "thumbnails": [
+          {
+            "height": 496,
+            "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/750x496.jpg",
+            "width": 750
+          },
+          {
+            "height": 409,
+            "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/619x409.jpg",
+            "width": 619
+          },
+          {
+            "height": 397,
+            "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/600x397.jpg",
+            "width": 600
+          },
+          {
+            "height": 130,
+            "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/196x130.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/750x496.jpg",
+        "width": 750
+      }
+    },
+    "c_店舗ニュース9表示": false,
+    "c_店舗ニュース9説明": "悪天候時の、ご対応について\n記載しております。",
+    "c_店舗ニュースタイトル": "店舗ニュース",
+    "c_店舗ページ生成": true,
+    "c_店舗営業時間追記2": "休業日：12/30～1/1",
+    "c_店舗営業時間追記3": "※1/2・1/3は18:00までの営業となります。",
+    "c_店舗外観写真": {
+      "image": {
+        "height": 438,
+        "sourceUrl": "https://a.mktgcdn.com/p/6VUvR4F4n8AZe0Nj2QM4LiQy5oFItZVeT0YO6djzrJw/600x438.png",
+        "thumbnails": [
+          {
+            "height": 438,
+            "url": "http://a.mktgcdn.com/p-sandbox/hL85t2uZwMtOfZneiZgFryiBqRgpCH-oL1avy51h0MI/600x438.png",
+            "width": 600
+          },
+          {
+            "height": 143,
+            "url": "http://a.mktgcdn.com/p-sandbox/hL85t2uZwMtOfZneiZgFryiBqRgpCH-oL1avy51h0MI/196x143.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/hL85t2uZwMtOfZneiZgFryiBqRgpCH-oL1avy51h0MI/600x438.png",
+        "width": 600
+      }
+    },
+    "c_店舗責任者": "株式会社JTB コンタクトセンター 050-3614-0650",
+    "c_経路検索ボタン非表示": true,
+    "c_近隣店舗非表示フラグ": true,
+    "c_電話番号3": "050-3614-0650",
+    "c_電話番号3ラベル": "●お電話での連絡先",
+    "description": "「JTBリモートコンシェルジュ」は、リモート相談・申込の専門店です。知識豊富なスタッフがご希望の旅をご提案します。",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_dong_jing_du",
+      "defaultDirectory_dong_jing_du_pin_chuan_qu"
+    ],
+    "facebookCallToAction": {
+      "type": "BOOK_NOW",
+      "value": "[[reservation.url]]"
+    },
+    "featuredMessage": {
+      "description": "リモート相談・お申込を承ります。知識豊富なスタッフがご希望の旅を提案します！",
+      "url": "https://stores.jtb.co.jp/os-0133"
+    },
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "20:30",
+            "start": "10:00"
+          }
+        ]
+      },
+      "holidayHours": [
+        {
+          "date": "2024-12-30",
+          "isClosed": true
+        },
+        {
+          "date": "2024-12-31",
+          "isClosed": true
+        },
+        {
+          "date": "2025-01-01",
+          "isClosed": true
+        },
+        {
+          "date": "2025-01-02",
+          "isClosed": true
+        },
+        {
+          "date": "2025-01-03",
+          "isClosed": true
+        }
+      ],
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "20:30",
+            "start": "10:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "20:30",
+            "start": "10:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "20:30",
+            "start": "10:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "20:30",
+            "start": "10:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "20:30",
+            "start": "10:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "20:30",
+            "start": "10:00"
+          }
+        ]
+      }
+    },
+    "instagramHandle": "jtb_jp",
+    "logo": {
+      "image": {
+        "height": 829,
+        "sourceUrl": "http://a.mktgcdn.com/p/8rF0yEISTHNSCg-3PRvEHGnXcvZ3mbWAkPDo22nulwY/829x829.png",
+        "thumbnails": [
+          {
+            "height": 829,
+            "url": "http://a.mktgcdn.com/p-sandbox/9jDW0TdvDeany1RPWt1xhYfdBPYnLjj64v_hoT7CcoI/829x829.png",
+            "width": 829
+          },
+          {
+            "height": 150,
+            "url": "http://a.mktgcdn.com/p-sandbox/9jDW0TdvDeany1RPWt1xhYfdBPYnLjj64v_hoT7CcoI/150x150.png",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "http://a.mktgcdn.com/p-sandbox/9jDW0TdvDeany1RPWt1xhYfdBPYnLjj64v_hoT7CcoI/94x94.png",
+            "width": 94
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/9jDW0TdvDeany1RPWt1xhYfdBPYnLjj64v_hoT7CcoI/829x829.png",
+        "width": 829
+      }
+    },
+    "mainPhone": "+815036140969",
+    "name": "JTBリモートコンシェルジュ カナダ専門デスク",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 203,
+          "sourceUrl": "https://a.mktgcdn.com/p/K4a4U1OquIrDcqB9A_k9zOqVSonNpWD9TCGJG7Z8a0I/360x203.jpg",
+          "thumbnails": [
+            {
+              "height": 203,
+              "url": "http://a.mktgcdn.com/p-sandbox/8oMAzDAcfuKhZpPdz28hrWMdEObrk8OMdd_4cceDYUs/360x203.jpg",
+              "width": 360
+            },
+            {
+              "height": 111,
+              "url": "http://a.mktgcdn.com/p-sandbox/8oMAzDAcfuKhZpPdz28hrWMdEObrk8OMdd_4cceDYUs/196x111.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/8oMAzDAcfuKhZpPdz28hrWMdEObrk8OMdd_4cceDYUs/360x203.jpg",
+          "width": 360
+        }
+      }
+    ],
+    "reservationUrl": {
+      "url": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfk"
+    },
+    "slug": "[[entityId]]",
+    "timezone": "Asia/Tokyo",
+    "twitterHandle": "JTB_jp",
+    "websiteUrl": {
+      "preferDisplayUrl": false,
+      "url": "https://stores.jtb.co.jp/os-0133"
+    }
+  },
+  "entityType": "location",
+  "folder": "396721",
+  "labels": [
+    "label3ライセンスなし"
+  ]
+}

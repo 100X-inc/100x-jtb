@@ -1,0 +1,417 @@
+{
+  "$id": "top-overseas-desk-old",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}\n\n.Promotions-subtitle {\ntext-decoration: unset;\n}\n\n.OnlineConsultation-subtitle {\ntext-decoration: unset;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}\n.Promotions-promo {\n    flex-wrap: wrap;\n}\n.Promotions-image {\n    width: unset;\n}\n.Promotions-subtitle {\ntext-decoration: unset;\n}\n\n.OnlineConsultation-subtitle {\ntext-decoration: unset;\n}",
+    "c_metaDescription": "JTB | お店でも、オンラインでも、あなたの旅をご提案します！",
+    "c_metaTitle": "JTB | お店でも、オンラインでも、あなたの旅をご提案します！",
+    "c_news_NewsList": [
+      "news_ap_s_hirota001_004",
+      "news_ap_chiki_100042",
+      "news_ap_chiki_100055",
+      "news_ap_y_ishihara225_002",
+      "news_ap_h_tominaga084_008",
+      "news_ap_k_harada924_007",
+      "news_ap_chiki_100054",
+      "news_ap_chiki_100053",
+      "news_ap_a_aoyama330_006",
+      "news_ap_m_takahashi509_007",
+      "news_ap_area_0000016",
+      "news_ap_n_morita323_007"
+    ],
+    "c_topBreadcrumb": {
+      "label": "海外旅行専門デスク",
+      "link": "top-overseas-desk",
+      "linkType": "OTHER"
+    },
+    "c_top_Articles": [
+      "ap_s_hirota001_004",
+      "ap_chiki_100042",
+      "ap_chiki_100055",
+      "ap_y_ishihara225_002",
+      "ap_h_tominaga084_008",
+      "ap_k_harada924_007",
+      "ap_chiki_100054",
+      "ap_chiki_100053",
+      "ap_a_aoyama330_006",
+      "ap_m_takahashi509_007",
+      "ap_area_0000016",
+      "ap_n_morita323_007"
+    ],
+    "c_top_ArticlesButton1": {
+      "label": "記事をすべて見る",
+      "link": "https://consultants.jtb.co.jp/articles",
+      "linkType": "URL"
+    },
+    "c_top_ArticlesSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e",
+    "c_top_ArticlesSectionSubTitle": "全国の旅のプロたちが日々記事を投稿します。旅行の参考にぜひ！\n投稿者のコンサルタントにオンラインで旅行相談することもできます",
+    "c_top_ArticlesSectionTitle": "JTBスタッフのおすすめ旅記事",
+    "c_top_BannerBackgroundColor": "#ffc300",
+    "c_top_Consultants": [
+      "cp_m_tachibana004",
+      "cp_m_takasawa518",
+      "cp_h_tominaga084",
+      "cp_y_kitano151",
+      "cp_k_okada018",
+      "cp_m_ban303",
+      "cp_k_takeda507",
+      "cp_y_hotate510",
+      "cp_a_muto106",
+      "cp_t_kodera531",
+      "cp_a_ebe517",
+      "cp_e_shinden034",
+      "cp_h_nakamura327"
+    ],
+    "c_top_ConsultantsButton1": {
+      "label": "すべての海外エキスパートを見る",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_top_ConsultantsSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e\n\u003cscript\u003e\nwindow.addEventListener(\u0027load\u0027, function() {\n  atags \u003d document.querySelectorAll(\u0027.FAQ-answerText a[href^\u003d\"https:\"]\u0027);\n  atags.forEach(function(atag){atag.setAttribute(\u0027target\u0027, \u0027_blank\u0027);});\n});\n\u003c/script\u003e",
+    "c_top_ConsultantsSectionSubTitle": "海外エキスパートゴールド社員について海外エキスパートゴールド社員について\n海外エキスパートゴールド社員について",
+    "c_top_ConsultantsSectionTitle": "海外エキスパートゴールド社員",
+    "c_top_HeroImage": {
+      "alternateText": "海外専門デスク　お客様の「行きたい旅を叶える」場所",
+      "height": 556,
+      "sourceUrl": "http://a.mktgcdn.com/p/1Q2iUkam6GNxDPUn6aa8rMHPTtw1gOEI1hDo42MPgZ4/1900x556.jpg",
+      "thumbnails": [
+        {
+          "height": 556,
+          "url": "//a.mktgcdn.com/p-sandbox/1Q2iUkam6GNxDPUn6aa8rMHPTtw1gOEI1hDo42MPgZ4/1900x556.jpg",
+          "width": 1900
+        },
+        {
+          "height": 181,
+          "url": "//a.mktgcdn.com/p-sandbox/1Q2iUkam6GNxDPUn6aa8rMHPTtw1gOEI1hDo42MPgZ4/619x181.jpg",
+          "width": 619
+        },
+        {
+          "height": 176,
+          "url": "//a.mktgcdn.com/p-sandbox/1Q2iUkam6GNxDPUn6aa8rMHPTtw1gOEI1hDo42MPgZ4/600x176.jpg",
+          "width": 600
+        },
+        {
+          "height": 57,
+          "url": "//a.mktgcdn.com/p-sandbox/1Q2iUkam6GNxDPUn6aa8rMHPTtw1gOEI1hDo42MPgZ4/196x57.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/1Q2iUkam6GNxDPUn6aa8rMHPTtw1gOEI1hDo42MPgZ4/1900x556.jpg",
+      "width": 1900
+    },
+    "c_top_HeroImageMobile": {
+      "height": 400,
+      "sourceUrl": "http://a.mktgcdn.com/p/uPyau5ySMlI8a8jl12O8UJiRTkE8B-I_XPmvwl0DZAE/375x400.jpg",
+      "thumbnails": [
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/uPyau5ySMlI8a8jl12O8UJiRTkE8B-I_XPmvwl0DZAE/375x400.jpg",
+          "width": 375
+        },
+        {
+          "height": 209,
+          "url": "//a.mktgcdn.com/p-sandbox/uPyau5ySMlI8a8jl12O8UJiRTkE8B-I_XPmvwl0DZAE/196x209.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/uPyau5ySMlI8a8jl12O8UJiRTkE8B-I_XPmvwl0DZAE/375x400.jpg",
+      "width": 375
+    },
+    "c_top_Info2": [
+      {
+        "cTA1": {
+          "label": "詳細はこちら",
+          "link": "https://www.jtb.co.jp/wed/",
+          "linkType": "OTHER"
+        },
+        "image": {
+          "alternateText": "JTBウエディングプラザ銀座本店",
+          "height": 400,
+          "sourceUrl": "http://a.mktgcdn.com/p/RK0CQ9gms2K6QeTOj_lTwetQKaf9xCvxL51EHyYWpUc/600x400.jpg",
+          "thumbnails": [
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/RK0CQ9gms2K6QeTOj_lTwetQKaf9xCvxL51EHyYWpUc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/RK0CQ9gms2K6QeTOj_lTwetQKaf9xCvxL51EHyYWpUc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/RK0CQ9gms2K6QeTOj_lTwetQKaf9xCvxL51EHyYWpUc/600x400.jpg",
+          "width": 600
+        },
+        "new": true
+      },
+      {
+        "cTA1": {
+          "label": "詳細はこちら",
+          "link": "https://www.jtb.co.jp/stores/jtbloungeplatinum/access_shibuya/",
+          "linkType": "OTHER"
+        },
+        "image": {
+          "height": 203,
+          "sourceUrl": "http://a.mktgcdn.com/p/MG2puHx7QQ2LPaI6wMIIgtjj6Oc60nru6BRQu0rz5Uo/360x203.jpg",
+          "thumbnails": [
+            {
+              "height": 203,
+              "url": "//a.mktgcdn.com/p-sandbox/MG2puHx7QQ2LPaI6wMIIgtjj6Oc60nru6BRQu0rz5Uo/360x203.jpg",
+              "width": 360
+            },
+            {
+              "height": 111,
+              "url": "//a.mktgcdn.com/p-sandbox/MG2puHx7QQ2LPaI6wMIIgtjj6Oc60nru6BRQu0rz5Uo/196x111.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/MG2puHx7QQ2LPaI6wMIIgtjj6Oc60nru6BRQu0rz5Uo/360x203.jpg",
+          "width": 360
+        },
+        "new": false
+      }
+    ],
+    "c_top_Info2SectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_Info2SectionTitle": "専門店に相談する",
+    "c_top_Info3": [
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; font-weight:bold; color:#3498DB;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j3354-0",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 400,
+          "sourceUrl": "http://a.mktgcdn.com/p/t1JsUCszhN0NDeN_dAookt7V1up26Y-pcwYVzEEIZIw/533x400.jpg",
+          "thumbnails": [
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/omZoHwfdux-Obn46tsPRWRdqx4L-oVWD1tRssmqccac/533x400.jpg",
+              "width": 533
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/omZoHwfdux-Obn46tsPRWRdqx4L-oVWD1tRssmqccac/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/omZoHwfdux-Obn46tsPRWRdqx4L-oVWD1tRssmqccac/533x400.jpg",
+          "width": 533
+        },
+        "title": "上野マルイ店"
+      },
+      {
+        "cTA1": {
+          "label": "店舗ホームページはこちら",
+          "link": "https://stores.jtb.co.jp/j3336-0",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 449,
+          "sourceUrl": "http://a.mktgcdn.com/p/A_ZYdZ7MuXhQWufrn7xkEbpr6Gmlx2APT2RtV11xOvQ/599x449.png",
+          "thumbnails": [
+            {
+              "height": 449,
+              "url": "//a.mktgcdn.com/p-sandbox/A_ZYdZ7MuXhQWufrn7xkEbpr6Gmlx2APT2RtV11xOvQ/599x449.png",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/A_ZYdZ7MuXhQWufrn7xkEbpr6Gmlx2APT2RtV11xOvQ/196x147.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/A_ZYdZ7MuXhQWufrn7xkEbpr6Gmlx2APT2RtV11xOvQ/599x449.png",
+          "width": 599
+        },
+        "title": "北千住マルイ店"
+      },
+      {
+        "cTA1": {
+          "label": "店舗ホームページはこちら",
+          "link": "https://stores.jtb.co.jp/j3494-0",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "http://a.mktgcdn.com/p/wmImNqv3wQ-lKLCvx6cRQRlT33HN_Z4SG2QaeTGyPY0/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/dOt2vaC6g3xVKATSper2xnn7blJV9bi-Wak9NpLTbxA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/dOt2vaC6g3xVKATSper2xnn7blJV9bi-Wak9NpLTbxA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/dOt2vaC6g3xVKATSper2xnn7blJV9bi-Wak9NpLTbxA/600x450.jpg",
+          "width": 600
+        },
+        "title": "トラベルゲート有楽町"
+      },
+      {
+        "cTA1": {
+          "label": "店舗ホームページはこちら",
+          "link": "https://stores.jtb.co.jp/j3352-0",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "http://a.mktgcdn.com/p/FAXO4gi5yBb-fst_6YHeYdkIHZm_2xFVCYL9eY-orkk/600x450.png",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/FAXO4gi5yBb-fst_6YHeYdkIHZm_2xFVCYL9eY-orkk/600x450.png",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/FAXO4gi5yBb-fst_6YHeYdkIHZm_2xFVCYL9eY-orkk/196x147.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/FAXO4gi5yBb-fst_6YHeYdkIHZm_2xFVCYL9eY-orkk/600x450.png",
+          "width": 600
+        },
+        "title": "渋谷ヒカリエ シンクス店"
+      },
+      {
+        "cTA1": {
+          "label": "店舗ホームページはこちら",
+          "link": "https://stores.jtb.co.jp/j3334-2",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 337,
+          "sourceUrl": "http://a.mktgcdn.com/p/-LWF55gcVUALIv_3WyZYElzW0WjoDQL_vc-T9PR5vg8/449x337.jpg",
+          "thumbnails": [
+            {
+              "height": 337,
+              "url": "//a.mktgcdn.com/p-sandbox/a98Zy3tPJkXSXhQr8ih6LEOYgrdIlpTLjD5aq4A4uvI/449x337.jpg",
+              "width": 449
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/a98Zy3tPJkXSXhQr8ih6LEOYgrdIlpTLjD5aq4A4uvI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/a98Zy3tPJkXSXhQr8ih6LEOYgrdIlpTLjD5aq4A4uvI/449x337.jpg",
+          "width": 449
+        },
+        "title": "池袋パルコ店"
+      },
+      {
+        "cTA1": {
+          "label": "店舗ホームページはこちら",
+          "link": "https://stores.jtb.co.jp/j3927-0",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "http://a.mktgcdn.com/p/L_QE8sSUYkupWHHkPo-dDUjdaYG5Gq-iymeCq8QHR0s/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/XLC1cKaqHscWA4nYGq6kzNEhAg4X_kYTvu9kUcr27JU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/XLC1cKaqHscWA4nYGq6kzNEhAg4X_kYTvu9kUcr27JU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/XLC1cKaqHscWA4nYGq6kzNEhAg4X_kYTvu9kUcr27JU/600x450.jpg",
+          "width": 600
+        },
+        "title": "吉祥寺店"
+      },
+      {
+        "image": {
+          "height": 450,
+          "sourceUrl": "http://a.mktgcdn.com/p/od8qizUJatmuiNCwSmk7HidSWrPO6zs--1st326a0sw/600x450.png",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/od8qizUJatmuiNCwSmk7HidSWrPO6zs--1st326a0sw/600x450.png",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/od8qizUJatmuiNCwSmk7HidSWrPO6zs--1st326a0sw/196x147.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/od8qizUJatmuiNCwSmk7HidSWrPO6zs--1st326a0sw/600x450.png",
+          "width": 600
+        },
+        "title": "トラベルゲート立川"
+      }
+    ],
+    "c_top_OnlineConsultationButton1": {
+      "label": "オンライン相談を予約する",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "OTHER"
+    },
+    "c_top_OnlineConsultationSectionSubTitle": "「JTBリモートコンシェルジュ」は、オンラインでの旅行相談・申し込みの専門店です。\n知識豊富なスタッフがご希望の旅をご提案します！",
+    "c_top_OnlineConsultationSectionTitle": "top_Online Consultation Section Title",
+    "c_top_PromotionBanners": [
+      {
+        "clickthroughUrl": "https://stores.jtb.co.jp/j3361-0",
+        "description": "\u003cp style\u003d\"margin-bottom:12px; width:100%;\"\u003e\u003ca href\u003d\"https://stores.jtb.co.jp/j3361-0\" style\u003d\"font-size:100%; font-weight:bold; color:#3498DB;\"\u003eJTB トラベルゲート新宿マルイ本館\u003c/a\u003e\u003c/p\u003e\u003cp style\u003d\"font-size:90%;\"\u003eテキストテキストテキストテキストテキストテキストテキストテキストテキスト\u003c/p\u003e",
+        "image": {
+          "height": 331,
+          "sourceUrl": "http://a.mktgcdn.com/p/UdgAR9XQ2cwJB04BKs6A8ro-DUE5MffKpVv-eqOjcYM/420x331.jpg",
+          "thumbnails": [
+            {
+              "height": 331,
+              "url": "//a.mktgcdn.com/p-sandbox/UdgAR9XQ2cwJB04BKs6A8ro-DUE5MffKpVv-eqOjcYM/420x331.jpg",
+              "width": 420
+            },
+            {
+              "height": 154,
+              "url": "//a.mktgcdn.com/p-sandbox/UdgAR9XQ2cwJB04BKs6A8ro-DUE5MffKpVv-eqOjcYM/196x154.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/UdgAR9XQ2cwJB04BKs6A8ro-DUE5MffKpVv-eqOjcYM/420x331.jpg",
+          "width": 420
+        }
+      },
+      {
+        "clickthroughUrl": "https://stores.jtb.co.jp/j6627-1",
+        "description": "\u003cp style\u003d\"margin-bottom:12px; width:100%;\"\u003e\u003ca href\u003d\"https://stores.jtb.co.jp/j6627-1\" style\u003d\"font-size:100%; font-weight:bold; color:#3498DB;\"\u003eJTB トラベルゲート大阪梅田\u003c/a\u003e\u003c/p\u003e\u003cp style\u003d\"font-size:90%;\"\u003eテキストテキストテキストテキストテキストテキストテキスト\u003c/p\u003e",
+        "image": {
+          "height": 331,
+          "sourceUrl": "http://a.mktgcdn.com/p/cS7oIfv2NHAHjIFiH2NA4MnyDBzAyTVsalLmT-q4EYs/420x331.jpg",
+          "thumbnails": [
+            {
+              "height": 331,
+              "url": "//a.mktgcdn.com/p-sandbox/cS7oIfv2NHAHjIFiH2NA4MnyDBzAyTVsalLmT-q4EYs/420x331.jpg",
+              "width": 420
+            },
+            {
+              "height": 154,
+              "url": "//a.mktgcdn.com/p-sandbox/cS7oIfv2NHAHjIFiH2NA4MnyDBzAyTVsalLmT-q4EYs/196x154.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/cS7oIfv2NHAHjIFiH2NA4MnyDBzAyTVsalLmT-q4EYs/420x331.jpg",
+          "width": 420
+        }
+      }
+    ],
+    "c_top_PromotionBannersSectionSubTitle": "\u003cp style\u003d\"text-decoration: none!important;\"\u003eお客様が「行きたい、叶えたい」海外旅行への要望に対して、社内資格を有した、知識豊富なスタッフが、相談を承ります。\nスタッフが特に得意とする方面・目的を設定しておりますので、安心してご相談ください。\u003c/p\u003e",
+    "c_top_PromotionBannersSectionTitle": "～海外専門デスクとは～",
+    "name": "TEST TOP 海外専門デスク（テスト・本番はコンサルタントフォルダです）"
+  },
+  "entityType": "ce_tOP",
+  "labels": []
+}

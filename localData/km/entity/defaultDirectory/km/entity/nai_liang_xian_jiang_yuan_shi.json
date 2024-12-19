@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_nai_liang_xian_jiang_yuan_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247661"
+    ],
+    "dm_directoryChildren": [
+      "6733-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_nai_liang_xian"
+    ],
+    "name": "橿原市",
+    "slug": "奈良県/橿原市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

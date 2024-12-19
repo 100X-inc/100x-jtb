@@ -1,0 +1,365 @@
+{
+  "$id": "ap_chiki_100127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター なつみ"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "大浴場に向かう廊下は旅館のような雰囲気。女湯入口はパスワードを入力するとドアが開く仕様になっており、女性のお客様も安心してご利用いただけます。",
+        "image": {
+          "alternateText": "大浴場「時の湯」に向かう廊下",
+          "height": 708,
+          "sourceUrl": "https://a.mktgcdn.com/p/4aniB4V4MHOj1CIYHlkejZV-daO_wjwjUVHt1Q9ufUk/625x708.jpg",
+          "thumbnails": [
+            {
+              "height": 708,
+              "url": "https://a.mktgcdn.com/p-sandbox/Zw9MXdjGe8BgnE45E6SEyewTG_LvqafD8au8pNTQW6Q/625x708.jpg",
+              "width": 625
+            },
+            {
+              "height": 701,
+              "url": "https://a.mktgcdn.com/p-sandbox/Zw9MXdjGe8BgnE45E6SEyewTG_LvqafD8au8pNTQW6Q/619x701.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Zw9MXdjGe8BgnE45E6SEyewTG_LvqafD8au8pNTQW6Q/397x450.jpg",
+              "width": 397
+            },
+            {
+              "height": 222,
+              "url": "https://a.mktgcdn.com/p-sandbox/Zw9MXdjGe8BgnE45E6SEyewTG_LvqafD8au8pNTQW6Q/196x222.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Zw9MXdjGe8BgnE45E6SEyewTG_LvqafD8au8pNTQW6Q/625x708.jpg",
+          "width": 625
+        },
+        "imageCaption": "大浴場「時の湯」に向かう廊下",
+        "sectionTitle": "ホテルかずさやに宿泊したら、宿泊者専用の大浴場で1日の疲れを癒しましょう！"
+      },
+      {
+        "description": "「時の湯」は、世界的にも希少な「やすらぎの天然石」とも呼ばれている”十和田石”を使用した、緑色に輝く浴槽と江戸黒のタイルが印象的な和モダンでスタイリッシュな大浴場です。落ち着いた雰囲気の大浴場で、ゆっくりとくつろぐことが出来ます。※現在は新型コロナウイルス感染防止のため、ロッカーの数が半分ほど制限されております。",
+        "image": {
+          "alternateText": "大浴場「時の湯」",
+          "height": 390,
+          "sourceUrl": "https://a.mktgcdn.com/p/8wGQkEb1aBsrDs8o_XaQLLe_-IdfVxiJd4wMi6M6gR0/741x390.jpg",
+          "thumbnails": [
+            {
+              "height": 390,
+              "url": "https://a.mktgcdn.com/p-sandbox/8wGQkEb1aBsrDs8o_XaQLLe_-IdfVxiJd4wMi6M6gR0/741x390.jpg",
+              "width": 741
+            },
+            {
+              "height": 326,
+              "url": "https://a.mktgcdn.com/p-sandbox/8wGQkEb1aBsrDs8o_XaQLLe_-IdfVxiJd4wMi6M6gR0/619x326.jpg",
+              "width": 619
+            },
+            {
+              "height": 316,
+              "url": "https://a.mktgcdn.com/p-sandbox/8wGQkEb1aBsrDs8o_XaQLLe_-IdfVxiJd4wMi6M6gR0/600x316.jpg",
+              "width": 600
+            },
+            {
+              "height": 103,
+              "url": "https://a.mktgcdn.com/p-sandbox/8wGQkEb1aBsrDs8o_XaQLLe_-IdfVxiJd4wMi6M6gR0/196x103.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8wGQkEb1aBsrDs8o_XaQLLe_-IdfVxiJd4wMi6M6gR0/741x390.jpg",
+          "width": 741
+        },
+        "imageCaption": "大浴場「時の湯」",
+        "sectionTitle": "デラックスツインルームはファミリーやグループにおすすめ！"
+      },
+      {
+        "description": "ホテルかずさやは、四十八茶百鼠 (しじゅうはっちゃひゃくねず)の色味を活かした落ち着きのあるお部屋が特徴です。四十八茶百鼠とは・・・江戸時代の町人が工夫して編み出した、色の中に微妙な色調を生みだした「茶色系」「鼠色系」の染色のバリエーションを指す言葉で、少しくすんだまろやかな気品ある色味です。",
+        "image": {
+          "alternateText": "デラックスツインルーム",
+          "height": 1000,
+          "sourceUrl": "https://a.mktgcdn.com/p/3fcoJdmyEjGPFGrmlrgYwExguW9Gybqb4C5lRwSmakA/1000x1000.jpg",
+          "thumbnails": [
+            {
+              "height": 1000,
+              "url": "https://a.mktgcdn.com/p-sandbox/3fcoJdmyEjGPFGrmlrgYwExguW9Gybqb4C5lRwSmakA/1000x1000.jpg",
+              "width": 1000
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/3fcoJdmyEjGPFGrmlrgYwExguW9Gybqb4C5lRwSmakA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3fcoJdmyEjGPFGrmlrgYwExguW9Gybqb4C5lRwSmakA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/3fcoJdmyEjGPFGrmlrgYwExguW9Gybqb4C5lRwSmakA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3fcoJdmyEjGPFGrmlrgYwExguW9Gybqb4C5lRwSmakA/1000x1000.jpg",
+          "width": 1000
+        },
+        "imageCaption": "デラックスツインルーム",
+        "sectionTitle": "こだわりの「お江戸出汁しゃぶ」！"
+      },
+      {
+        "description": "デラックスツインルームは、二面採光のため朝気持ちよく起きることができる開放感のあるお部屋です。バスルーム・洗面台・お手洗いが別になっており、ファミリーやグループのご宿泊におすすめです。3名様ご利用時は、ソファをベッドとしてご利用いただけます。また、高層階のデラックスツインルームには調湿・消臭機能のあるシラス壁を導入しています。より快適な宿泊となること間違いなし！のお部屋です。",
+        "image": {
+          "alternateText": "シングルルーム",
+          "height": 387,
+          "sourceUrl": "https://a.mktgcdn.com/p/PU4BQRATgdCenY2WIXf82-noWenJZyHLc0ZWZ0595S4/789x387.jpg",
+          "thumbnails": [
+            {
+              "height": 387,
+              "url": "https://a.mktgcdn.com/p-sandbox/PU4BQRATgdCenY2WIXf82-noWenJZyHLc0ZWZ0595S4/789x387.jpg",
+              "width": 789
+            },
+            {
+              "height": 304,
+              "url": "https://a.mktgcdn.com/p-sandbox/PU4BQRATgdCenY2WIXf82-noWenJZyHLc0ZWZ0595S4/619x304.jpg",
+              "width": 619
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/PU4BQRATgdCenY2WIXf82-noWenJZyHLc0ZWZ0595S4/600x294.jpg",
+              "width": 600
+            },
+            {
+              "height": 96,
+              "url": "https://a.mktgcdn.com/p-sandbox/PU4BQRATgdCenY2WIXf82-noWenJZyHLc0ZWZ0595S4/196x96.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PU4BQRATgdCenY2WIXf82-noWenJZyHLc0ZWZ0595S4/789x387.jpg",
+          "width": 789
+        },
+        "imageCaption": "シングルルーム",
+        "sectionTitle": "館内すべてのお水がやさしく安心です！"
+      },
+      {
+        "description": "シングルルームは、おひとりでのご宿泊には十分な広さのお部屋です。デスクが広めなため、ビジネス利用にもおすすめです。シャワーブース付きとバスタブ付きの客室がございます。",
+        "image": {
+          "alternateText": "お江戸出汁しゃぶ",
+          "height": 585,
+          "sourceUrl": "https://a.mktgcdn.com/p/T0b4h1qwCAr0YNOGxoGGl-FKAidrKCFuNpbfLxZwX68/933x585.jpg",
+          "thumbnails": [
+            {
+              "height": 585,
+              "url": "https://a.mktgcdn.com/p-sandbox/T0b4h1qwCAr0YNOGxoGGl-FKAidrKCFuNpbfLxZwX68/933x585.jpg",
+              "width": 933
+            },
+            {
+              "height": 388,
+              "url": "https://a.mktgcdn.com/p-sandbox/T0b4h1qwCAr0YNOGxoGGl-FKAidrKCFuNpbfLxZwX68/619x388.jpg",
+              "width": 619
+            },
+            {
+              "height": 376,
+              "url": "https://a.mktgcdn.com/p-sandbox/T0b4h1qwCAr0YNOGxoGGl-FKAidrKCFuNpbfLxZwX68/600x376.jpg",
+              "width": 600
+            },
+            {
+              "height": 123,
+              "url": "https://a.mktgcdn.com/p-sandbox/T0b4h1qwCAr0YNOGxoGGl-FKAidrKCFuNpbfLxZwX68/196x123.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/T0b4h1qwCAr0YNOGxoGGl-FKAidrKCFuNpbfLxZwX68/933x585.jpg",
+          "width": 933
+        },
+        "imageCaption": "お江戸出汁しゃぶ",
+        "sectionTitle": "館内2階には日本橋やホテルの歴史が学べる「時の鐘通りミュージアム」がございます！"
+      },
+      {
+        "description": "日本橋にて創業320年を超えるにんべんの鰹節を存分に味わうことができる「お江戸出汁しゃぶ」。削りたての鰹節をまず一口。そして追い鰹をしてもう一口。一番出汁、二番出汁で、鰹節の旨味が凝縮されたお出汁を思う存分楽しむことが出来ます。食材は、厳選されたお肉やしゃきしゃきのレタス、カリウムやカルシウムなどのミネラルが豊富なおかひじきなど、こだわりがたくさん詰まっています。2名様からのお申込みなので、ご家族やご友人とお鍋を囲んで、栄養満点なしゃぶしゃぶを楽しんでみてはいかがでしょうか。",
+        "image": {
+          "alternateText": "良水工房",
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/SwZ-x_8Yce7_q9O18Fr4mzDNYXJQsCy5zSxg_U8UxHE/855x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/SwZ-x_8Yce7_q9O18Fr4mzDNYXJQsCy5zSxg_U8UxHE/855x1025.jpg",
+              "width": 855
+            },
+            {
+              "height": 742,
+              "url": "https://a.mktgcdn.com/p-sandbox/SwZ-x_8Yce7_q9O18Fr4mzDNYXJQsCy5zSxg_U8UxHE/619x742.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/SwZ-x_8Yce7_q9O18Fr4mzDNYXJQsCy5zSxg_U8UxHE/375x450.jpg",
+              "width": 375
+            },
+            {
+              "height": 235,
+              "url": "https://a.mktgcdn.com/p-sandbox/SwZ-x_8Yce7_q9O18Fr4mzDNYXJQsCy5zSxg_U8UxHE/196x235.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SwZ-x_8Yce7_q9O18Fr4mzDNYXJQsCy5zSxg_U8UxHE/855x1025.jpg",
+          "width": 855
+        },
+        "imageCaption": "良水工房"
+      },
+      {
+        "description": "良水工房を導入しており、館内のお水は水道水に含まれる「残留塩素」や「不純物」を低減しミネラル分は残したやさしくおいしいお水です。お肌にも髪にも優しいため、小さなお子様にも安心です。飲み水としてもご利用いただけます。",
+        "image": {
+          "alternateText": "時の鐘通りミュージアム",
+          "height": 524,
+          "sourceUrl": "https://a.mktgcdn.com/p/N_JJwPAPRROh0vPZK3Z5ybtUWhr33kwe4QGlZp79oKA/679x524.jpg",
+          "thumbnails": [
+            {
+              "height": 524,
+              "url": "https://a.mktgcdn.com/p-sandbox/N_JJwPAPRROh0vPZK3Z5ybtUWhr33kwe4QGlZp79oKA/679x524.jpg",
+              "width": 679
+            },
+            {
+              "height": 478,
+              "url": "https://a.mktgcdn.com/p-sandbox/N_JJwPAPRROh0vPZK3Z5ybtUWhr33kwe4QGlZp79oKA/619x478.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/N_JJwPAPRROh0vPZK3Z5ybtUWhr33kwe4QGlZp79oKA/583x450.jpg",
+              "width": 583
+            },
+            {
+              "height": 151,
+              "url": "https://a.mktgcdn.com/p-sandbox/N_JJwPAPRROh0vPZK3Z5ybtUWhr33kwe4QGlZp79oKA/196x151.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/N_JJwPAPRROh0vPZK3Z5ybtUWhr33kwe4QGlZp79oKA/679x524.jpg",
+          "width": 679
+        },
+        "imageCaption": "時の鐘通りミュージアム"
+      },
+      {
+        "description": "江戸の人々に時を知らせてきた日本橋「時の鐘」があったため、ホテルかずさやの前の道は「時の鐘通り」といいます。ミュージアムでは「時の鐘」で時を知らせてきた江戸の庶民の暮らしを学ことができます。歴史を感じ、当時の暮らしに想いを馳せてみてはいかがでしょうか。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/htl/4011035/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2023-02-07",
+    "c_ap_HeroImage": {
+      "alternateText": "江戸の伝統を引き継ぐ歴史あるホテル「ホテルかずさや」",
+      "height": 801,
+      "sourceUrl": "https://a.mktgcdn.com/p/OzYfeDxqb0F1mlVnxiFANlV7PYA3Ns6ETnsdunyqrJk/1200x801.jpg",
+      "thumbnails": [
+        {
+          "height": 801,
+          "url": "https://a.mktgcdn.com/p-sandbox/OzYfeDxqb0F1mlVnxiFANlV7PYA3Ns6ETnsdunyqrJk/1200x801.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/OzYfeDxqb0F1mlVnxiFANlV7PYA3Ns6ETnsdunyqrJk/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 401,
+          "url": "https://a.mktgcdn.com/p-sandbox/OzYfeDxqb0F1mlVnxiFANlV7PYA3Ns6ETnsdunyqrJk/600x401.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/OzYfeDxqb0F1mlVnxiFANlV7PYA3Ns6ETnsdunyqrJk/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/OzYfeDxqb0F1mlVnxiFANlV7PYA3Ns6ETnsdunyqrJk/1200x801.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkArticleSectionTitle": "東京都のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "「ホテルかずさや」のWebで予約できるプランはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/4011035/plan/?stayplacedisplay\u003d%E3%83%9B%E3%83%86%E3%83%AB%E3%81%8B%E3%81%9A%E3%81%95%E3%82%84\u0026suggestkeyword\u003d%E3%83%9B%E3%83%86%E3%83%AB%E3%81%8B%E3%81%9A%E3%81%95%E3%82%84\u0026godate\u003d\u0026checkindate\u003d\u0026staynight\u003d1\u0026dateunspecified\u003d1\u0026roomassign\u003dm2\u0026mealtype\u003d\u0026roomstyle\u003d\u0026kodawariyado\u003d\u0026room\u003d1"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "東京駅・銀座・お台場のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/1301/"
+      },
+      {
+        "linkText": "東京旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/tokyo/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "関東全般",
+      "東京都"
+    ],
+    "c_ap_ShortDescription": "今回宿泊したのは東京の日本橋にある「ホテルかずさや」。明治24年に上総屋旅館として創業した歴史あるホテルです。\nあたたかいおもてなしに触れたホテルステイの中でも、JTB担当者がおすすめしたいポイントをご紹介いたします。",
+    "c_ap_Tags": [
+      "大浴場",
+      "日本橋",
+      "時の鐘通り",
+      "江戸",
+      "歴史"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "街あるき",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "江戸の伝統を引き継ぐ歴史あるホテル「ホテルかずさや」【東京都 日本橋】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "今回宿泊したのは東京の日本橋にある「ホテルかずさや」。明治24年に上総屋旅館として創業した歴史あるホテルです。\nあたたかいおもてなしに触れたホテルステイの中でも、JTB担当者がおすすめしたいポイントをご紹介いたします。",
+    "c_metaTitle": "江戸の伝統を引き継ぐ歴史あるホテル「ホテルかずさや」【東京都 日本橋】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100127",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "関東全般, 東京都",
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "江戸の伝統を引き継ぐ歴史あるホテル「ホテルかずさや」【東京都 日本橋】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

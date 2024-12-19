@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_bei_hai_dao_dai_guang_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247872"
+    ],
+    "dm_directoryChildren": [
+      "1236-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_bei_hai_dao"
+    ],
+    "name": "帯広市",
+    "slug": "北海道/帯広市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

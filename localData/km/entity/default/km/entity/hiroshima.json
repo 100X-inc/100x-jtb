@@ -1,0 +1,76 @@
+{
+  "$id": "hiroshima",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "chugoku"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_chiki_100199",
+      "news_ap_chiki_100238",
+      "news_ap_chiki_100208",
+      "news_ap_chiki_100186",
+      "news_ap_y_ishihara225_032",
+      "news_ap_chiki_100228",
+      "news_ap_area_0000035",
+      "news_ap_chiki_100191",
+      "news_ap_chiki_100190",
+      "news_ap_chiki_100194",
+      "news_ap_chiki_100154",
+      "news_ap_area_0000034",
+      "news_ap_area_0000036",
+      "news_ap_chiki_100157",
+      "news_ap_y_shichi632_004",
+      "news_ap_h_tominaga084_008",
+      "news_ap_a_yoshida349_003",
+      "news_ap_chiki_100192",
+      "news_ap_k_sugino002_003",
+      "news_ap_a_aoyama330_006",
+      "news_ap_h_furuta308_005",
+      "news_ap_h_furuta308_007",
+      "news_ap_n_morita323_002"
+    ],
+    "c_metaDescription": "広島に関する記事をピックアップ！JTBニュースでは、広島で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 広島 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "広島",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/E5YTmqnQnSO-hInoHK1aBieOt4xTLs6kp1_FF6OEgGU/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZheEfVsDRof7O4W1hefrXvVZpso7nGiV-5EZT4TmZU0/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZheEfVsDRof7O4W1hefrXvVZpso7nGiV-5EZT4TmZU0/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZheEfVsDRof7O4W1hefrXvVZpso7nGiV-5EZT4TmZU0/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZheEfVsDRof7O4W1hefrXvVZpso7nGiV-5EZT4TmZU0/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZheEfVsDRof7O4W1hefrXvVZpso7nGiV-5EZT4TmZU0/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ZheEfVsDRof7O4W1hefrXvVZpso7nGiV-5EZT4TmZU0/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "広島",
+    "slug": "kokunai/chugoku/hiroshima"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

@@ -1,0 +1,135 @@
+{
+  "$id": "cp_32060040",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "神奈川県",
+    "c_cp_CTA1": {
+      "label": "加藤の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVBiBKl",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVedxc",
+      "linkType": "URL"
+    },
+    "c_cp_Certification": [
+      "総合旅行業取扱管理者"
+    ],
+    "c_cp_Description": "★スピーディーにご案内します★\nJTB小田原ダイナシティウエスト店のホームページをご覧くださいましてありがとうございます。\n\n【国内訪問歴】47都道府県\n【海外渡航歴】カナダ・アメリカ（本土・ハワイ）・グアム・イタリア・スペイン・シンガポール・台湾・タイ\n\n最近は家族で伊東温泉に宿泊してきました。伊東市は人口1,000人あたりのお菓子屋さんの数が日本随一で和菓子屋店から洋菓子店まで様々なスイーツが楽しめます。温泉や海産物以外も楽しめる伊東温泉や伊豆の宿泊はぜひ加藤までお申し付けください。\n\n国内は鉄道をはじめとした乗り物が大好きで、学生時代に47都道府県を鉄道や飛行機で訪れました。新幹線・特急列車（もちろん普通列車も！）を使った国内の鉄道周遊旅の相談はお任せください！お客様に合った乗継時間や提案をいたします。\n\n海外はカナダ、特にバンクーバーには何回も訪れています。移民の人が多く住むバンクーバーは各国の名物料理も楽しめます！\nまた同じ多民族国家のシンガポールも得意で仕事帰りに1泊3日でふらっと訪れたりしていました。\nバンクーバーとシンガポールはお任せください！\n\nお客様に合ったご提案が出来るようにお手伝いしますので皆さまのご来店心よりお待ちしております。",
+    "c_cp_DisplayName": "加藤",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "一人旅",
+      "鉄道",
+      "飛行機",
+      "お酒",
+      "温泉・立ち寄り湯",
+      "お祭り"
+    ],
+    "c_cp_GeneralInfo": [
+      "時刻表検定",
+      "ニュージランドスペシャリストブロンズ",
+      "ハワイスペシャリスト上級ハープウ"
+    ],
+    "c_cp_HiraganaName": "かとう",
+    "c_cp_JobTitle": "JTB小田原ダイナシティウエスト店　トラベルコンサルタント",
+    "c_cp_OverseasExpert": {
+      "area1": {
+        "rank": "bronze"
+      }
+    },
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 346,
+      "sourceUrl": "https://a.mktgcdn.com/p/URMawGhsJRRb2Xp0EET2lXMeDtjN792ytYYElYVCMhk/250x346.jpg",
+      "thumbnails": [
+        {
+          "height": 346,
+          "url": "https://a.mktgcdn.com/p-sandbox/URMawGhsJRRb2Xp0EET2lXMeDtjN792ytYYElYVCMhk/250x346.jpg",
+          "width": 250
+        },
+        {
+          "height": 271,
+          "url": "https://a.mktgcdn.com/p-sandbox/URMawGhsJRRb2Xp0EET2lXMeDtjN792ytYYElYVCMhk/196x271.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/URMawGhsJRRb2Xp0EET2lXMeDtjN792ytYYElYVCMhk/250x346.jpg",
+      "width": 250
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム"
+    ],
+    "c_cp_StrongAbroadArea2": [
+      "カナダ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "スペイン",
+      "イタリア"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "シンガポール"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道",
+      "東北全般",
+      "青森県",
+      "岩手県",
+      "宮城県",
+      "秋田県",
+      "山形県",
+      "福島県"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般",
+      "茨城県",
+      "栃木県",
+      "群馬県",
+      "埼玉県",
+      "千葉県",
+      "東京都",
+      "神奈川県"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "静岡県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "大阪府"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "島根県",
+      "広島県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "宮崎県",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "ハワイスペシャリスト",
+      "アロハプログラム　ハープウ（上級）保持者",
+      "ニュージーランドブロンズスペシャリスト",
+      "ハワイ",
+      "バンクーバー",
+      "シンガポール",
+      "JR",
+      "鉄道",
+      "飛鳥Ⅱクルーズ"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 加藤",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 加藤",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_32060040",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10204_小田原ダイナシティウエスト店",
+    "name": "かとう ゆういち_32060040",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

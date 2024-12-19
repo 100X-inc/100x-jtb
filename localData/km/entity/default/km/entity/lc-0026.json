@@ -1,0 +1,1097 @@
+{
+  "$id": "lc-0026",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "additionalHoursText": "受付終了時間　各閉店時間の60分前となります。",
+    "address": {
+      "city": "京都市",
+      "countryCode": "JP",
+      "line1": "四条通り寺町西入奈良物町373",
+      "line2": "HI-REKSビル",
+      "postalCode": "600-8004",
+      "region": "京都府",
+      "sublocality": "下京区"
+    },
+    "addressHidden": false,
+    "appleCompanyId": "1480313529409856512",
+    "c_00_イベントページ生成": true,
+    "c_01_イベントタブ説明": "お好みのイベントをクリックすると、詳細情報がご覧いただけます。\nイベントの参加予約は「イベント予約」または、「電話」でお申込みください。また、各種ご相談の来店予約は随時受付しております。",
+    "c_01_タブ名1": "店舗ニュース",
+    "c_01_タブ名2": "イベント",
+    "c_02_イベントなしメッセージ": "\u003cspan\u003e※ご相談は毎日承っております。\nお待たせしないためにもご来店は予約をお勧め致します。\n\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"[[c_plusJTBリンク1URL]]\"\u003eご予約はインターネット（24時間OK）から、\u003c/a\u003e\u003c/span\u003eまたはお電話（\u003cspan\u003e\u003ca href\u003d\"tel:[[c_02_イベント予約電話]]\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e[[c_02_イベント予約電話]]\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e）でどうぞ。\u003c/span\u003e",
+    "c_02_イベント予約ボタンラベル": "イベント予約",
+    "c_02_イベント予約説明": "イベントの参加予約は、\nイベント予約ボタンまたはお電話からお申込みください。",
+    "c_02_イベント予約電話": "03-5524-7431",
+    "c_02_デコレーション画像1": {
+      "image": {
+        "height": 995,
+        "sourceUrl": "http://a.mktgcdn.com/p/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/177x995.png",
+        "thumbnails": [
+          {
+            "height": 995,
+            "url": "http://a.mktgcdn.com/p-sandbox/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/177x995.png",
+            "width": 177
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/80x450.png",
+            "width": 80
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/71x400.png",
+            "width": 71
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/177x995.png",
+        "width": 177
+      }
+    },
+    "c_02_デコレーション画像2": {
+      "image": {
+        "height": 994,
+        "sourceUrl": "http://a.mktgcdn.com/p/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/178x994.png",
+        "thumbnails": [
+          {
+            "height": 994,
+            "url": "http://a.mktgcdn.com/p-sandbox/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/178x994.png",
+            "width": 178
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/81x450.png",
+            "width": 81
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/72x400.png",
+            "width": 72
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/178x994.png",
+        "width": 178
+      }
+    },
+    "c_03_法人支店取扱サービスリスト": [
+      {
+        "url": "http://www.jtb.co.jp/shop/othersite/jtbtabicard.asp?CODE\u003d1123\u0026P\u003d1",
+        "ラベル名": "JTB旅カード"
+      },
+      {
+        "url": "https://exchange.jtb.co.jp/Gaika/Main/Top.aspx?c\u003dW021113300",
+        "ラベル名": "JTBの外貨両替"
+      },
+      {
+        "url": "https://memb-web-moneytg.aplus.co.jp/TR001Action_doInit.action?kkkbn\u003dJT\u0026sscode\u003d1133",
+        "ラベル名": "世界のキャッシュカード"
+      },
+      {
+        "url": "http://www.worldsp.jp/?fromsite\u003d910709",
+        "ラベル名": "JTB世界のおみやげ"
+      },
+      {
+        "url": "http://www.jtb.co.jp/shop/othersite/jihoken.asp?SHITEN_CD\u003dj1133-0\u0026P\u003d1",
+        "ラベル名": "JTB旅行保険"
+      },
+      {
+        "url": "https://tabitabibank.jtb.co.jp/jtb/memberAffiliate.do?SiteCode\u003d1133",
+        "ラベル名": "JTB旅行積立"
+      }
+    ],
+    "c_03_配色_イベントタブフォント": "#e09191",
+    "c_03_配色_イベントタブ背景": "#ffeded",
+    "c_03_配色_イベントリスト背景": "#ffffff",
+    "c_03_配色_イベント予約ボタンアクティブフォント": "#ffffff",
+    "c_03_配色_イベント予約ボタンフォント": "#ffffff",
+    "c_03_配色_土曜タイトルフォント": "#96FFFF",
+    "c_03_配色_日付タイトルフォント": "#ffffff",
+    "c_03_配色_日付タイトル背景": "#664800",
+    "c_03_配色_日曜タイトルフォント": "#FF96B4",
+    "c_03_配色_月タブフォント": "#ffffff",
+    "c_03_配色_月タブ背景": "#664800",
+    "c_03_配色_祝日タイトルフォント": "#FF96B4",
+    "c_03_配色_選択月タブフォント": "#333333",
+    "c_03_配色_選択月タブ背景": "#ffffff",
+    "c_08_法人支店おすすめセクション": [
+      {
+        "画像": {
+          "image": {
+            "height": 640,
+            "sourceUrl": "http://a.mktgcdn.com/p/QJySZx0bC5nx9f1hXRDJg-RBXSNs-ELFixDhtRVwhXQ/960x640.jpg",
+            "thumbnails": [
+              {
+                "height": 640,
+                "url": "http://a.mktgcdn.com/p-sandbox/QJySZx0bC5nx9f1hXRDJg-RBXSNs-ELFixDhtRVwhXQ/960x640.jpg",
+                "width": 960
+              },
+              {
+                "height": 413,
+                "url": "http://a.mktgcdn.com/p-sandbox/QJySZx0bC5nx9f1hXRDJg-RBXSNs-ELFixDhtRVwhXQ/619x413.jpg",
+                "width": 619
+              },
+              {
+                "height": 400,
+                "url": "http://a.mktgcdn.com/p-sandbox/QJySZx0bC5nx9f1hXRDJg-RBXSNs-ELFixDhtRVwhXQ/600x400.jpg",
+                "width": 600
+              },
+              {
+                "height": 131,
+                "url": "http://a.mktgcdn.com/p-sandbox/QJySZx0bC5nx9f1hXRDJg-RBXSNs-ELFixDhtRVwhXQ/196x131.jpg",
+                "width": 196
+              }
+            ],
+            "url": "http://a.mktgcdn.com/p-sandbox/QJySZx0bC5nx9f1hXRDJg-RBXSNs-ELFixDhtRVwhXQ/960x640.jpg",
+            "width": 960
+          }
+        }
+      }
+    ],
+    "c_2MenuLabel": "JTBおこしやす京都 オリジナルツアー",
+    "c_2MenuURL": "https://stores.jtb.co.jp/lc-0026#osusume",
+    "c_3MenuLabel": "JTBの京都旅行・ツアー・パック",
+    "c_3MenuURL": "https://www.jtb.co.jp/kokunai/area/kyoto/",
+    "c_about_Section_Sub_font_color": "#e0211a",
+    "c_about_Section_Title_font_color": "#e0211a",
+    "c_about_Section_background": "#c0c0c0",
+    "c_altName": "JTBおこしやす京都（オンライン相談専門デスク / JTBトラベルゲート京都四条＆JTB京都駅前店内）",
+    "c_cTA0来店予約ラベル": "オンライン相談予約",
+    "c_cTA1ラベル": "オンライン相談を\u003cbr/\u003e予約する",
+    "c_cTA3ラベル": "（現在オンライン相談休止中です）",
+    "c_cTA5ラベル": "おすすめ情報はこちら",
+    "c_cTA_Main_background": "#e0211a",
+    "c_cTA_Main_border": "#E09191",
+    "c_cTA_Main_font_color": "#FFFFFF",
+    "c_cTA_Main_hover_background": "#e0211a",
+    "c_cTA_Sub_hover_background": "#FFFFFF",
+    "c_footer_Section_background": "#e0211a",
+    "c_locDescript": "JTBおこしやす京都（オンライン相談専門デスク / JTBトラベルゲート京都四条＆JTB京都駅前店内）",
+    "c_mobile_Menu_background": "#e0211a",
+    "c_nAP_Section_Sub_font_color": "#e0211a",
+    "c_nearby_Section_Title_font_color": "#FFFFFF",
+    "c_pagesEventsURL": "https://stores.jtb.co.jp/lc-0026/events",
+    "c_pagesSortCode": "261068",
+    "c_pagesSortGroup": "X",
+    "c_pagesURL": "[[c_v2PagesURL]]",
+    "c_plusJTBTitle": "関連サービス・商品のご案内",
+    "c_plusJTBリンク1URL": "https://www.jtb.co.jp/theme/onlinetour/",
+    "c_plusJTBリンク1ラベル": "オンラインツアー",
+    "c_plusJTBリンク2URL": "https://www.jtb.co.jp/gift/",
+    "c_plusJTBリンク2ラベル": "ギフト券",
+    "c_plusJTBリンク3URL": "https://www.jtb.co.jp/myjtb/card/",
+    "c_plusJTBリンク3ラベル": "JTB旅カード",
+    "c_plusJTBリンク4URL": "https://www.jtb.co.jp/jihoken/kokunai/index.asp",
+    "c_plusJTBリンク4ラベル": "旅行保険（国内）",
+    "c_plusJTBリンク5URL": "https://www.jtb.co.jp/tabitabibank/",
+    "c_plusJTBリンク5ラベル": "旅行積立",
+    "c_plusJTBリンク6URL": "https://shopping.jtb.co.jp/",
+    "c_plusJTBリンク6ラベル": "JTBショッピング",
+    "c_plusJTBリンク7URL": "https://rurubu.jp/andmore",
+    "c_plusJTBリンク7ラベル": "るるぶ\u0026more",
+    "c_plusJTBリンク8URL": "https://tabinobi.jp/",
+    "c_plusJTBリンク8ラベル": "たびのび　ー旅行動画サイトー",
+    "c_promo1_Section_Title_font_color": "#e0211a",
+    "c_promo1_Section_background": "#c0c0c0",
+    "c_promo2_Section_Title_font_color": "#423c3c",
+    "c_promo2_Section_background": "#FFFFFF",
+    "c_socialFacebookURL": "https://www.facebook.com/jtb.jp",
+    "c_socialLINEURL": "https://line.me/ti/p/%40jtbhd",
+    "c_v2AboutLink1": {
+      "label": "オンラインツアー",
+      "link": "https://www.jtb.co.jp/theme/onlinetour/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink2": {
+      "label": "ギフト券",
+      "link": "https://www.jtb.co.jp/gift/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink3": {
+      "label": "JTB旅カード",
+      "link": "https://www.jtb.co.jp/myjtb/card/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink4": {
+      "label": "旅行保険（国内）",
+      "link": "https://www.jtb.co.jp/jihoken/kokunai/index.asp",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink5": {
+      "label": "旅行積立",
+      "link": "https://www.jtb.co.jp/tabitabibank/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink6": {
+      "label": "JTBショッピング",
+      "link": "https://shopping.jtb.co.jp/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutSectionTitle": "[[name]]について",
+    "c_v2AdditionalHoursText": "[[additionalHoursText]]",
+    "c_v2AdditionalHoursText2": "最終受付時間：閉店前60分",
+    "c_v2AdditionalHoursText3": "12/30－1/3のみ休業",
+    "c_v2AvailableService": [
+      "オンライン・リモートでの相談専門店"
+    ],
+    "c_v2CTAReservation": {
+      "link": "https://stores.jtb.co.jp/lc-0026#promo",
+      "linkType": "OTHER"
+    },
+    "c_v2CTASecondary1": {
+      "link": "https://jtb.rooms-online.jp/app/room/calendar/jtb",
+      "linkType": "OTHER"
+    },
+    "c_v2CTATel1": {
+      "label": "オンライン相談のご予約は24時間いつでもこのページからどうぞ。",
+      "linkType": "PHONE"
+    },
+    "c_v2CTATel2": {
+      "label": "＜ご注意＞ご出発地やご相談内容によっては当店でご予約を承れない場合があります",
+      "linkType": "PHONE"
+    },
+    "c_v2DomesticAirlineTicketsSubtitle": "※国内航空券の取扱いは店舗によって異なります。別途取扱料金を申し受けます（1区間あたり1,100円/人）",
+    "c_v2GiftCertificatesAndTravelCouponsSubtitle": "※商品の詳細は\u003ca href\u003d\"https://www.jtb.co.jp/gift/\" target\u003d\"_blank\"\u003eこちら\u003c/a\u003e（店頭支払方法は、現金のみ）",
+    "c_v2ImportantStoreInformationTag": {
+      "label": "ご来店前にお読みください",
+      "link": "#important-store-information",
+      "linkType": "OTHER"
+    },
+    "c_v2LocationPhotoList": [
+      {
+        "image": {
+          "height": 1086,
+          "sourceUrl": "https://a.mktgcdn.com/p/IiVe5BTNJ2F0qEtZ7Wx6YK_N-b-xcYNaNOsuNZWH_SM/1440x1086.jpg",
+          "thumbnails": [
+            {
+              "height": 1086,
+              "url": "http://a.mktgcdn.com/p-sandbox/IiVe5BTNJ2F0qEtZ7Wx6YK_N-b-xcYNaNOsuNZWH_SM/1440x1086.jpg",
+              "width": 1440
+            },
+            {
+              "height": 467,
+              "url": "http://a.mktgcdn.com/p-sandbox/IiVe5BTNJ2F0qEtZ7Wx6YK_N-b-xcYNaNOsuNZWH_SM/619x467.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/IiVe5BTNJ2F0qEtZ7Wx6YK_N-b-xcYNaNOsuNZWH_SM/597x450.jpg",
+              "width": 597
+            },
+            {
+              "height": 148,
+              "url": "http://a.mktgcdn.com/p-sandbox/IiVe5BTNJ2F0qEtZ7Wx6YK_N-b-xcYNaNOsuNZWH_SM/196x148.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/IiVe5BTNJ2F0qEtZ7Wx6YK_N-b-xcYNaNOsuNZWH_SM/1440x1086.jpg",
+          "width": 1440
+        }
+      }
+    ],
+    "c_v2MetaDescription": "JTB　オンライン相談　予約　リモート　おこしやす　京都　旅行相談",
+    "c_v2MetaTitle": "JTBおこしやす京都（オンライン相談専門デスク）",
+    "c_v2News1": {
+      "description": "🏮祇園祭という特別な日に「伝統的な京町家でのお食事」、「特等席での巡行見学」、「曳き初めへの参加」、「祇園囃子の演奏」、「後祭巡行への参加」など貴重な体験ができるプランです♬",
+      "endDate": "2023-07-21",
+      "image": {
+        "height": 720,
+        "sourceUrl": "https://a.mktgcdn.com/p/E9yTgm9YK1lUP3VyO5yzwNau5oN2vE6Wvowpi4cRlWY/960x720.jpg",
+        "thumbnails": [
+          {
+            "height": 720,
+            "url": "http://a.mktgcdn.com/p-sandbox/E9yTgm9YK1lUP3VyO5yzwNau5oN2vE6Wvowpi4cRlWY/960x720.jpg",
+            "width": 960
+          },
+          {
+            "height": 464,
+            "url": "http://a.mktgcdn.com/p-sandbox/E9yTgm9YK1lUP3VyO5yzwNau5oN2vE6Wvowpi4cRlWY/619x464.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/E9yTgm9YK1lUP3VyO5yzwNau5oN2vE6Wvowpi4cRlWY/600x450.jpg",
+            "width": 600
+          },
+          {
+            "height": 147,
+            "url": "http://a.mktgcdn.com/p-sandbox/E9yTgm9YK1lUP3VyO5yzwNau5oN2vE6Wvowpi4cRlWY/196x147.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/E9yTgm9YK1lUP3VyO5yzwNau5oN2vE6Wvowpi4cRlWY/960x720.jpg",
+        "width": 960
+      },
+      "startDate": "2023-07-05",
+      "title": "あなたと創る祇園祭2023～南観音山保存会と地域文化を考える～",
+      "url": "https://widgets.bokun.io/online-sales/37257da4-cd5a-4cbb-8575-92232d011032/product-list/67398?page\u003d1"
+    },
+    "c_v2News2": {
+      "description": "太秦映画村で開催の『江戸酒場 夜桜花吹雪』チケット　好評発売中！！\n\n開催日程\n４月６日(土),７日(日)18：00～21：00\n\n体験時間３時間\n\n「太秦江戸酒場　夜桜吹雪」入場券\n7,000円\n\n「太秦江戸酒場　夜桜吹雪」飲み放題セット付き入場券\n10,000円\n\n～イベント概要～\n\n桜吹雪舞う広大な江戸の町に、京都文化が終結！\n京都を代表する文化人たちによる実演・体験や、\n東映京都撮影所の俳優たちによる特別なショーの数々を楽しみながら、\n地酒や老舗料亭・名店のお料理に舌鼓を打つ、特別な大人のイベントです。\n\n詳しくはイベンホームページをご確認くださいませ！\n\nhttps://www.toei-eigamura.com/edosakaba/",
+      "endDate": "2024-04-05",
+      "image": {
+        "height": 3507,
+        "sourceUrl": "https://a.mktgcdn.com/p/JZKCa4XJLk1b7AtyLj-nuPKEz1FEeRQCJvhJSu-C7dE/2480x3507.jpg",
+        "thumbnails": [
+          {
+            "height": 3507,
+            "url": "http://a.mktgcdn.com/p-sandbox/JZKCa4XJLk1b7AtyLj-nuPKEz1FEeRQCJvhJSu-C7dE/2480x3507.jpg",
+            "width": 2480
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/JZKCa4XJLk1b7AtyLj-nuPKEz1FEeRQCJvhJSu-C7dE/1344x1900.jpg",
+            "width": 1344
+          },
+          {
+            "height": 875,
+            "url": "http://a.mktgcdn.com/p-sandbox/JZKCa4XJLk1b7AtyLj-nuPKEz1FEeRQCJvhJSu-C7dE/619x875.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/JZKCa4XJLk1b7AtyLj-nuPKEz1FEeRQCJvhJSu-C7dE/318x450.jpg",
+            "width": 318
+          },
+          {
+            "height": 277,
+            "url": "http://a.mktgcdn.com/p-sandbox/JZKCa4XJLk1b7AtyLj-nuPKEz1FEeRQCJvhJSu-C7dE/196x277.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/JZKCa4XJLk1b7AtyLj-nuPKEz1FEeRQCJvhJSu-C7dE/2480x3507.jpg",
+        "width": 2480
+      },
+      "startDate": "2024-02-22",
+      "title": "太秦映画村　「江戸酒場　夜桜吹雪」チケット好評発売中！！"
+    },
+    "c_v2News8": {
+      "description": "ふるぽでは、都道府県・市町村へ寄付した金額のうち、手数料2,000円を差し引いたほとんどが税金の控除という形で翌年戻ってきます。\nさらにお礼品として【ＪＴＢふるさと納税旅行クーポン】がもらえて、それを旅行代金に充当いただけます。\n\n☆JTBふるさと納税旅行クーポンの魅力☆\n●宿泊やJR・飛行機+宿・ホテルの旅に使用可能\n●全国130以上の市町村が参加(2021年3月時点)\n●有効期間は2年間。夏休みや年末年始などのピーク期にも使用可能\n●ふるさと納税は毎年寄付できるので、毎年旅行クーポンが利用できます\n\nそこで京都を旅する際には、ふるさと納税でもらえる旅行クーポンを利用してお得にご旅行を楽しみませんか？",
+      "endDate": "2023-03-31",
+      "image": {
+        "height": 203,
+        "sourceUrl": "https://a.mktgcdn.com/p/NEom6Kvpzr1HeJV3wj7IdTcWNd4wBfEqTVkRITf8Mss/360x203.jpg",
+        "thumbnails": [
+          {
+            "height": 203,
+            "url": "http://a.mktgcdn.com/p-sandbox/MbUcWMjH2LkT5q4WkgkR2mb72u373yGUx7iZeqrKBC0/360x203.jpg",
+            "width": 360
+          },
+          {
+            "height": 111,
+            "url": "http://a.mktgcdn.com/p-sandbox/MbUcWMjH2LkT5q4WkgkR2mb72u373yGUx7iZeqrKBC0/196x111.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/MbUcWMjH2LkT5q4WkgkR2mb72u373yGUx7iZeqrKBC0/360x203.jpg",
+        "width": 360
+      },
+      "startDate": "2022-02-17",
+      "title": "京都を旅するなら、JTBふるさと納税旅行クーポン",
+      "url": "https://furu-po.com/spage.php?nm\u003djtb_coupon"
+    },
+    "c_v2NewsSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2NewsSectionTitle": "★スタッフがこの夏にオススメするツアー情報★",
+    "c_v2NotificationBanner": "現地店舗のスタッフへのオンライン相談を通してご希望に叶う旅行を提案します！まずはオンライン相談のご予約をお願いします。",
+    "c_v2NotificationBannerEndDate": "2031-08-01",
+    "c_v2NotificationBannerStartDate": "2021-08-01",
+    "c_v2PagesURL": "https://stores.jtb.co.jp/lc-0026",
+    "c_v2Promo1": {
+      "image": {
+        "height": 775,
+        "sourceUrl": "http://a.mktgcdn.com/p/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+        "thumbnails": [
+          {
+            "height": 775,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+            "width": 1141
+          },
+          {
+            "height": 420,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/619x420.jpg",
+            "width": 619
+          },
+          {
+            "height": 408,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/600x408.jpg",
+            "width": 600
+          },
+          {
+            "height": 133,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/196x133.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+        "width": 1141
+      },
+      "title": "オンライン相談を予約する"
+    },
+    "c_v2Promo2": {
+      "endDate": "2021-06-01",
+      "image": {
+        "height": 740,
+        "sourceUrl": "http://a.mktgcdn.com/p/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+        "thumbnails": [
+          {
+            "height": 740,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+            "width": 1190
+          },
+          {
+            "height": 385,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/619x385.jpg",
+            "width": 619
+          },
+          {
+            "height": 373,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/600x373.jpg",
+            "width": 600
+          },
+          {
+            "height": 122,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/196x122.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+        "width": 1190
+      },
+      "startDate": "2021-04-01",
+      "title": "今すぐオンライン相談する"
+    },
+    "c_v2Promo3": {
+      "description": "●オンライン相談をご利用の際は事前に下記の点をご確認お願いします\n・インターネット接続可能なPC、スマートフォンなどをご用意ください。インターネット接続の通信費はお客様のご負担となります。\n・通信環境、及びデバイス、ブラウザのバージョン等によって画面や音声が不明瞭になる場合や、接続不良となる場合があります。\n・推奨環境は以下となります。\n　Windows10…GoogleChrome/Edge/InternetExplorer 最新版\n　Mac…Safari 最新版\n　iOS…iOS13/safari 最新版\n　Android…Android7.0/GoogleChrome　最新版\n・ご相談内容は、正確性の確保とお客様サービス向上のため、録音及び録画する場合があります。\n・オンライン相談は無料です。旅行に行くかどうか迷っている、必ず予約するとは限らないといった場合でもまずはお気軽にご相談ください。\n\n●下記の商品や内容に関するご相談は本サービスの対象外です。ご了承ください。\n・宿泊を伴わないJR・各社私鉄の乗車券特急券、国内航空券、ギフト券のみのご相談、お申込み\n・旅行に関連しないご相談",
+      "image": {
+        "height": 551,
+        "sourceUrl": "http://a.mktgcdn.com/p/OJCDyyzD6FtxERNTWbkJd_jUSZz9HIiVLTEMAWSYZzw/683x551.png",
+        "thumbnails": [
+          {
+            "height": 551,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/683x551.png",
+            "width": 683
+          },
+          {
+            "height": 499,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/619x499.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/558x450.png",
+            "width": 558
+          },
+          {
+            "height": 158,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/196x158.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/683x551.png",
+        "width": 683
+      },
+      "title": "事前にご確認いただくこと"
+    },
+    "c_v2PromoSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2PromoSectionTitle": "オンライン相談のご利用方法",
+    "c_v2RelatedLink2": {
+      "label": "JTBおこしやす京都 オリジナルツアー",
+      "link": "https://jtb.rooms-online.jp/app/assgin/entry/jtb",
+      "linkType": "OTHER"
+    },
+    "c_v2RelatedLink3": {
+      "label": "JTBの京都旅行・ツアー・パック",
+      "link": "https://www.jtb.co.jp/kokunai/area/kyoto/",
+      "linkType": "OTHER"
+    },
+    "c_v2ReservationForVisitSubtitle": "（予約ボタンからご予約ください）",
+    "c_v2StaffSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2StaffSectionTitle": "[[name]] 店舗スタッフの紹介",
+    "c_v2StoreManagerDescription": "総合旅行業務取扱管理者：平松　香　　当デスクは複数店舗で運営しています　今月の担当窓口店舗（JTBトラベルゲート京都四条　075-223-2732）",
+    "c_v2Tel1": {
+      "label": "オンライン相談のご予約は24時間いつでもこのページからどうぞ。"
+    },
+    "c_v2Tel2": {
+      "label": "＜ご注意＞ご出発地やご相談内容によっては当店でご予約を承れない場合があります"
+    },
+    "c_wd_post_news_1": false,
+    "c_wd_post_news_2": false,
+    "c_wd_post_news_3": false,
+    "c_wd_post_news_4": false,
+    "c_wd_post_news_5": false,
+    "c_wd_post_news_6": false,
+    "c_wd_post_news_7": false,
+    "c_wd_post_news_8": false,
+    "c_wed_Menu_background": "#e0211a",
+    "c_wed_Menu_border": "#E09191",
+    "c_wed_Menu_font_color": "#FFFFFF",
+    "c_wed_Menu_font_color_on_light": "#FFFFFF",
+    "c_wed_Menu_light_background": "#808080",
+    "c_おすすめ情報1タイトル": "オンライン相談を予約する",
+    "c_おすすめ情報1ボタンラベル": "オンライン相談予約",
+    "c_おすすめ情報1画像": {
+      "image": {
+        "height": 775,
+        "sourceUrl": "http://a.mktgcdn.com/p/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+        "thumbnails": [
+          {
+            "height": 775,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+            "width": 1141
+          },
+          {
+            "height": 420,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/619x420.jpg",
+            "width": 619
+          },
+          {
+            "height": 408,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/600x408.jpg",
+            "width": 600
+          },
+          {
+            "height": 133,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/196x133.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+        "width": 1141
+      }
+    },
+    "c_おすすめ情報1表示": true,
+    "c_おすすめ情報2タイトル": "今すぐオンライン相談する",
+    "c_おすすめ情報2ボタンラベル": "ルームキー入力画面",
+    "c_おすすめ情報2掲載始め": "2021-04-01",
+    "c_おすすめ情報2掲載終り": "2021-06-01",
+    "c_おすすめ情報2画像": {
+      "image": {
+        "height": 740,
+        "sourceUrl": "http://a.mktgcdn.com/p/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+        "thumbnails": [
+          {
+            "height": 740,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+            "width": 1190
+          },
+          {
+            "height": 385,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/619x385.jpg",
+            "width": 619
+          },
+          {
+            "height": 373,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/600x373.jpg",
+            "width": 600
+          },
+          {
+            "height": 122,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/196x122.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+        "width": 1190
+      }
+    },
+    "c_おすすめ情報2表示": false,
+    "c_おすすめ情報3タイトル": "事前にご確認いただくこと",
+    "c_おすすめ情報3画像": {
+      "image": {
+        "height": 551,
+        "sourceUrl": "http://a.mktgcdn.com/p/OJCDyyzD6FtxERNTWbkJd_jUSZz9HIiVLTEMAWSYZzw/683x551.png",
+        "thumbnails": [
+          {
+            "height": 551,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/683x551.png",
+            "width": 683
+          },
+          {
+            "height": 499,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/619x499.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/558x450.png",
+            "width": 558
+          },
+          {
+            "height": 158,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/196x158.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/683x551.png",
+        "width": 683
+      }
+    },
+    "c_おすすめ情報3表示": true,
+    "c_おすすめ情報3説明": "●オンライン相談をご利用の際は事前に下記の点をご確認お願いします\n・インターネット接続可能なPC、スマートフォンなどをご用意ください。インターネット接続の通信費はお客様のご負担となります。\n・通信環境、及びデバイス、ブラウザのバージョン等によって画面や音声が不明瞭になる場合や、接続不良となる場合があります。\n・推奨環境は以下となります。\n　Windows10…GoogleChrome/Edge/InternetExplorer 最新版\n　Mac…Safari 最新版\n　iOS…iOS13/safari 最新版\n　Android…Android7.0/GoogleChrome　最新版\n・ご相談内容は、正確性の確保とお客様サービス向上のため、録音及び録画する場合があります。\n・オンライン相談は無料です。旅行に行くかどうか迷っている、必ず予約するとは限らないといった場合でもまずはお気軽にご相談ください。\n\n●下記の商品や内容に関するご相談は本サービスの対象外です。ご了承ください。\n・宿泊を伴わないJR・各社私鉄の乗車券特急券、国内航空券、ギフト券のみのご相談、お申込み\n・旅行に関連しないご相談",
+    "c_おすすめ情報タイトル": "\u003cp id\u003d\"flow\"\u003eオンライン相談のご利用方法\u003c/p\u003e",
+    "c_スタッフ紹介20説明": "　",
+    "c_リモートパンくず": "JTB店舗一覧",
+    "c_住所非表示フラグ": true,
+    "c_地図非表示フラグ": true,
+    "c_店舗MetaDescription": "JTB　オンライン相談　予約　リモート　おこしやす　京都　旅行相談",
+    "c_店舗MetaTitle": "JTBおこしやす京都（オンライン相談専門デスク）",
+    "c_店舗お知らせ通常": "現地店舗のスタッフへのオンライン相談を通してご希望に叶う旅行を提案します！まずはオンライン相談のご予約をお願いします。",
+    "c_店舗お知らせ通常掲載始め": "2021-08-01",
+    "c_店舗お知らせ通常掲載終り": "2031-08-01",
+    "c_店舗の特色フィルタ": [
+      "オンライン・リモートでの相談専門店"
+    ],
+    "c_店舗ニュース1掲載始め": "2022-10-13",
+    "c_店舗ニュース1掲載終り": "2022-11-30",
+    "c_店舗ニュース1表示": true,
+    "c_店舗ニュース2URL": "https://www.jtb.co.jp/smartphone/kokunai/promotion/theme/tabinosugoshikata/21_firsthalf/keinaji/details.asp?areacd\u003dkeinaji\u0026plancd\u003d210110009",
+    "c_店舗ニュース2タイトル": "そうだ京都旅を愉しもう！『プライベートガイドと巡る ～一般非公開 名勝・重要文化財 京都大学清風荘 特別案内～』",
+    "c_店舗ニュース2掲載始め": "2021-04-01",
+    "c_店舗ニュース2掲載終り": "2021-08-19",
+    "c_店舗ニュース2画像": {
+      "image": {
+        "height": 919,
+        "sourceUrl": "https://a.mktgcdn.com/p/upAeY-L7HNp-rjJIN03HgQUMDXwn_OFJvqD3-t_5DxM/1378x919.jpg",
+        "thumbnails": [
+          {
+            "height": 919,
+            "url": "http://a.mktgcdn.com/p-sandbox/iuE2DaSA4EPqptyXINDOt7LwSOE7bha-Su513n5gLVM/1378x919.jpg",
+            "width": 1378
+          },
+          {
+            "height": 413,
+            "url": "http://a.mktgcdn.com/p-sandbox/iuE2DaSA4EPqptyXINDOt7LwSOE7bha-Su513n5gLVM/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/iuE2DaSA4EPqptyXINDOt7LwSOE7bha-Su513n5gLVM/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p-sandbox/iuE2DaSA4EPqptyXINDOt7LwSOE7bha-Su513n5gLVM/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/iuE2DaSA4EPqptyXINDOt7LwSOE7bha-Su513n5gLVM/1378x919.jpg",
+        "width": 1378
+      }
+    },
+    "c_店舗ニュース2表示": true,
+    "c_店舗ニュース2説明": "京都大学が所有する名勝・重要文化財隠れた名所を特別公開！\n\n清風荘は、元公爵西園寺公望の京都別邸として使用され、没後は京都帝国大学（現：京都大学）へ寄贈されたものです。庭園は7代目小川治兵衛の作庭で知られ「名勝清風荘庭園」として指定、建物のうち主屋・離れ等は2代目八木甚兵衛による建築で、「重要文化財（建造物）」として門を含む12棟が登録されています。広大な敷地には四季折々の美しい景色が溢れ、客間からは広い庭園が見渡せるなど、静寂なひとときをお過ごしいただけます。現在、学内利用に限定し一般公開されていませんが、当プラン限定で特別にご案内します。公望にまつわる建築技巧、庭園美をお楽しみください。\n\n設定期間\n2021年４月1日～9月30日（除外日：日・祝日、8月16日～18日）\n\n★★★JTBトラベルゲート京都四条・JTB京都駅前内の「京都デスク」へご来店ください！★★ ★\nご来店いただいたお客様限定で『プライベートガイドと巡る ～一般非公開 名勝・重要文化財 京都大学清風荘 特別案内～』が\n通常4日前までの予約受付→前日15時まで予約受付OK！！\n〇催行中止の場合はお受けできません　 \n〇決済方法は、クレジットカードのみでのお取り扱いとなります\n〇必ず、JTBトラベルゲート京都四条・JTB京都駅前店の店舗営業時間内にお立ち寄りいただき、お申込みください \n\n河原町にある観光中に便利なお店『JTBトラベルゲート京都四条 』はコチラ↓\nhttps://stores.jtb.co.jp/j6860-0?utm_source\u003dYext\u0026utm_medium\u003dYext\u0026utm_campaign\u003dListings \n\n京都駅すぐ、京都タワーは目の前『JTB京都駅前店』はコチラ↓　 \nhttps://stores.jtb.co.jp/j6623-0?utm_source\u003dYext\u0026utm_medium\u003dYext\u0026utm_campaign\u003dListings",
+    "c_店舗ニュース3URL": "https://www.jtb.co.jp/smartphone/kokunai/promotion/theme/tabinosugoshikata/21_firsthalf/keinaji/details.asp?areacd\u003dkeinaji\u0026plancd\u003d200110093",
+    "c_店舗ニュース3タイトル": "京都の季節＆芸術を愉しむならこれ！桃山絵画の巨匠 絵師・長谷川等伯の名作との出会い『プライベートガイド ～僧侶がご案内する智積院・国宝襖絵～』",
+    "c_店舗ニュース3掲載始め": "2021-04-01",
+    "c_店舗ニュース3掲載終り": "2021-09-30",
+    "c_店舗ニュース3画像": {
+      "image": {
+        "height": 919,
+        "sourceUrl": "https://a.mktgcdn.com/p/T-QTHrGRHtzhwMZ-_DpXjMU-bNvQkK5uwB28h4c4Ujk/1378x919.jpg",
+        "thumbnails": [
+          {
+            "height": 919,
+            "url": "http://a.mktgcdn.com/p-sandbox/YizZ1HE550Ai87spHBLn4StccbhWAxWNdQ3BxRG4e_0/1378x919.jpg",
+            "width": 1378
+          },
+          {
+            "height": 413,
+            "url": "http://a.mktgcdn.com/p-sandbox/YizZ1HE550Ai87spHBLn4StccbhWAxWNdQ3BxRG4e_0/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/YizZ1HE550Ai87spHBLn4StccbhWAxWNdQ3BxRG4e_0/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p-sandbox/YizZ1HE550Ai87spHBLn4StccbhWAxWNdQ3BxRG4e_0/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/YizZ1HE550Ai87spHBLn4StccbhWAxWNdQ3BxRG4e_0/1378x919.jpg",
+        "width": 1378
+      }
+    },
+    "c_店舗ニュース3表示": true,
+    "c_店舗ニュース3説明": "桃山絵画の巨匠 絵師・長谷川等伯の名作を読み解く\n\n真言宗智山派の総本山智積院には、大小の障壁画など国宝をはじめ、多くの宝物が伝えられています。中でも収蔵庫には長谷川等伯一門による桃山時代の数々の障壁画が大切に収められ、手の届きそうな距離から国宝襖絵をお楽しみいただけます。\n当プランでは僧侶自らがお客様をご案内しますので、絵と寺院のつながりや秘話などの造詣が深まることでしょう。桜、紫陽花、青もみじなど四季折々の風景をみせる庭園や境内も見どころです。\n\n設定期間\n2021年4月1日～9月30日（除外日：8月10日～16日、9月21日）\n\n\n★★★JTBトラベルゲート京都四条・JTB京都駅前内の「京都デスク」へご来店ください！ ★★★\nご来店いただいたお客様限定で『プライベートガイド ～僧侶がご案内する智積院・国宝襖絵～』が\n通常4日前までの予約受付→２日前まで予約受付OK！！\n〇催行中止の場合はお受けできません　\n〇決済方法は、クレジットカードのみでのお取り扱いとなります\n〇必ず、JTBトラベルゲート京都四条・JTB京都駅前店の店舗営業時間内にお立ち寄りいただき、お申込みください \n\n河原町にある観光中に便利なお店『JTBトラベルゲート京都四条 』はコチラ↓\nhttps://stores.jtb.co.jp/j6860-0?utm_source\u003dYext\u0026utm_medium\u003dYext\u0026utm_campaign\u003dListings \n\n京都駅すぐ、京都タワーは目の前『JTB京都駅前店』はコチラ↓　 \nhttps://stores.jtb.co.jp/j6623-0?utm_source\u003dYext\u0026utm_medium\u003dYext\u0026utm_campaign\u003dListings",
+    "c_店舗ニュース4URL": "https://exhibition.japan-ts.jp/personal/30/exhibitor-detail",
+    "c_店舗ニュース4タイトル": "＜3月26日・27日開催＞あの旅の祭典に「おこしやす京都」オンライン相談が登場！",
+    "c_店舗ニュース4掲載始め": "2022-02-20",
+    "c_店舗ニュース4掲載終り": "2022-03-27",
+    "c_店舗ニュース4画像": {
+      "image": {
+        "height": 533,
+        "sourceUrl": "https://a.mktgcdn.com/p/KdteZlmDfn-KDRoY6OanfBp3f7V_SORQfE0x1KBHHh0/800x533.png",
+        "thumbnails": [
+          {
+            "height": 533,
+            "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/800x533.png",
+            "width": 800
+          },
+          {
+            "height": 412,
+            "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/619x412.png",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/600x400.png",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/800x533.png",
+        "width": 800
+      }
+    },
+    "c_店舗ニュース4表示": false,
+    "c_店舗ニュース4説明": "今こそ旅の力で日本を元気にする展示会　　　　　　　　　　　　　　　　　　　　　　　　　\n「第１回　日本観光ショーケース in大阪・関西」日本中の観光地が一堂に出展する旅の祭典に、JTBのサービス体験ブースを出展します!!　ぜひ、ご視聴・ご参加くださいね♪　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n☆　JTBブースでの体験メニュー　☆　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　旅の予習「オンラインセミナー」や「オンライン旅行相談」を実際に体験・ご覧頂けます　　　　　　　　　　　　　　　　　　　　　　　　　\nお家からJTB旅行相談OK！来場者限定「JTBご当地オンライン相談」体験　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　人気の観光地のJTBスタッフが地元目線で、あなたの旅をプロデュース！\nJTBおこしやす京都　☆　京都お寺巡りに役立つ！特別情報をGET　☆　11:30頃～\n\n***********\n催事名 　：第1回 日本観光ショーケース in 大阪・関西\n会期：2022年3月25日（金）～27日（日）　　　　　　　　　　　　　　　　　　　　　　　　　\n※一般参加（上記、オンラインセミナー・旅行相談体験）は26日（土）・27日（日）のみ\n会場：インテックス大阪\n入場料：無料　\n主催：「日本観光ショーケース in 大阪・関西」実行委員会（株式会社マイナビ ほか)\n特別協力：（公財）大阪観光局\n※本展示会は、コロナウイルス感染症対策の一環として、来場事前登録制です。公式ホームページのトップ画面右上の「来場登録」より登録が必要です\n【ご注意・ご案内】\n・内容は急遽変更となる場合があります\n・開始、終了時間は変更となる場合があります　",
+    "c_店舗ニュース5URL": "https://www.jtb.co.jp/kokunai_hotel/htl/6230057/plan/?hotel\u003d6230057\u0026staynight\u003d1\u0026roomassign\u003d\u0026room\u003d1\u0026itemperpage\u003d20\u0026planlistsort\u003dhigh\u0026planinfokeywordon\u003d1\u0026stayplacedisplay\u003d%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E4%BA%AC%E9%83%BD\u0026tyfi",
+    "c_店舗ニュース5タイトル": "【申し込み締切迫る！】★秋の京都★貴重な体験プラン♪特別拝観「清水寺」＆夜間貸切体験「東寺」",
+    "c_店舗ニュース5掲載始め": "2021-08-01",
+    "c_店舗ニュース5掲載終り": "2021-11-23",
+    "c_店舗ニュース5画像": {
+      "image": {
+        "height": 408,
+        "sourceUrl": "https://a.mktgcdn.com/p/afJDfeYZjS5SRokXrwR1Jw0jlsw6O8TL_Qd8ph5QY9o/612x408.png",
+        "thumbnails": [
+          {
+            "height": 408,
+            "url": "http://a.mktgcdn.com/p-sandbox/afJDfeYZjS5SRokXrwR1Jw0jlsw6O8TL_Qd8ph5QY9o/612x408.png",
+            "width": 612
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/afJDfeYZjS5SRokXrwR1Jw0jlsw6O8TL_Qd8ph5QY9o/600x400.png",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p-sandbox/afJDfeYZjS5SRokXrwR1Jw0jlsw6O8TL_Qd8ph5QY9o/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/afJDfeYZjS5SRokXrwR1Jw0jlsw6O8TL_Qd8ph5QY9o/612x408.png",
+        "width": 612
+      }
+    },
+    "c_店舗ニュース5表示": false,
+    "c_店舗ニュース5説明": "秋の紅葉シーズンが近づいてきました。\nホテルモントレ京都宿泊者限定の秋の特別体験プランをご紹介します\n\n★世界文化遺産「清水寺」特別拝観付宿泊プラン\n　迎賓室での呈茶体験や非公開箇所を特別拝観、\nライトアップ開始の鐘撞きができる！！\n　対象：2021年11月25日～11月27日宿泊分\n★世界遺産「東寺」夜間貸切拝観付宿泊プラン\n　点灯の瞬間に立ち会える圧巻の景色を独占できるチャンス！\n　対象：2021年11月24日～11月27日宿泊分\n\n＜当プランはお客様ご自身でのご予約となります＞\n詳しくはこちらをご覧ください\nhttps://www.jtb.co.jp/kokunai_hotel/htl/6230057/plan/?hotel\u003d6230057\u0026staynight\u003d1\u0026roomassign\u003d\u0026room\u003d1\u0026itemperpage\u003d20\u0026planlistsort\u003dhigh\u0026planinfokeywordon\u003d1\u0026stayplacedisplay\u003d%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E4%BA%AC%E9%83%BD\u0026tyfilteron\u003d1\u0026temproomassign\u003d0\u0026reviewlistsort\u003darrival\u0026rvpage\u003d1\u0026rvcomment\u003d1\n\n人気宿泊プランのため、お早めにご予約ください！！",
+    "c_店舗ニュース6URL": "https://opt.jtb.co.jp/kokunai_opt/i/whole/?search_keyword2\u003d%94%E4%89b%8ER%83v%83%8C%83~%83A%83%80",
+    "c_店舗ニュース6タイトル": "「びわ湖のご来光と延暦寺の朝勤行」比叡山プレミアムツアー（精進料理・朝食付き）",
+    "c_店舗ニュース6掲載始め": "2021-11-25",
+    "c_店舗ニュース6掲載終り": "2022-01-26",
+    "c_店舗ニュース6画像": {
+      "image": {
+        "height": 1378,
+        "sourceUrl": "https://a.mktgcdn.com/p/zspHeo9aivmNWHhNFBBEvC-1sRrv88aNzv-odUT2Uvc/1837x1378.jpg",
+        "thumbnails": [
+          {
+            "height": 1378,
+            "url": "http://a.mktgcdn.com/p-sandbox/HVo-A-j4AWCPKOPKTwQeZQW84Pqovva_1VzqTWoU8xM/1837x1378.jpg",
+            "width": 1837
+          },
+          {
+            "height": 464,
+            "url": "http://a.mktgcdn.com/p-sandbox/HVo-A-j4AWCPKOPKTwQeZQW84Pqovva_1VzqTWoU8xM/619x464.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/HVo-A-j4AWCPKOPKTwQeZQW84Pqovva_1VzqTWoU8xM/600x450.jpg",
+            "width": 600
+          },
+          {
+            "height": 147,
+            "url": "http://a.mktgcdn.com/p-sandbox/HVo-A-j4AWCPKOPKTwQeZQW84Pqovva_1VzqTWoU8xM/196x147.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/HVo-A-j4AWCPKOPKTwQeZQW84Pqovva_1VzqTWoU8xM/1837x1378.jpg",
+        "width": 1837
+      }
+    },
+    "c_店舗ニュース6表示": false,
+    "c_店舗ニュース6説明": "長さ日本一の坂本ケーブルに乗り比叡山へ。壮大なびわ湖のご来光のご鑑賞から、延暦寺根本中堂にて朝勤行の特別参拝。最後に精進料理によるご朝食をお楽しみいただきます。身も心も生まれかわるような特別な朝を、ご体験ください。\n旅行代金・料金　\nおとな男性（18歳以上）：2,300円\nおとな女性（18歳以上）：2,300円\n小学生：1,800円\n\n開催日程\n2021年12/19（日）・26（日）\n2022年1/9（日）・10（祝・月）・168日）・23（日）・30（日）\n\n最少催行人員：2名　\n定員：50名\n※事前申込制（催行の3日前まで/先着順）\n※旅行代金はおひとりあたりの金額です。\n●旅行代金に含まれるもの\n・送迎バス代、坂本ケーブル往復乗車代、延暦寺巡拝料、朝食代\n\nデジタルパンフレットはこちら\nhttps://ebook.jtb.co.jp/book/?A5313#51",
+    "c_店舗ニュース7URL": "https://opt.jtb.co.jp/kokunai_opt/i/whole/?search_keyword2\u003d%8ER%93%E0%83K%83C%83h%83c%83A",
+    "c_店舗ニュース7タイトル": "【比叡山】＜山全体が境内＞「千日回峰行の道をあるく」山内ガイドツアー",
+    "c_店舗ニュース7掲載始め": "2021-11-25",
+    "c_店舗ニュース7掲載終り": "2021-12-23",
+    "c_店舗ニュース7画像": {
+      "image": {
+        "height": 1062,
+        "sourceUrl": "https://a.mktgcdn.com/p/h-G39YhEr2jExBArukIR0EeQyXJwe26fkBGGxyLtGno/1590x1062.jpg",
+        "thumbnails": [
+          {
+            "height": 1062,
+            "url": "http://a.mktgcdn.com/p-sandbox/h-G39YhEr2jExBArukIR0EeQyXJwe26fkBGGxyLtGno/1590x1062.jpg",
+            "width": 1590
+          },
+          {
+            "height": 413,
+            "url": "http://a.mktgcdn.com/p-sandbox/h-G39YhEr2jExBArukIR0EeQyXJwe26fkBGGxyLtGno/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 401,
+            "url": "http://a.mktgcdn.com/p-sandbox/h-G39YhEr2jExBArukIR0EeQyXJwe26fkBGGxyLtGno/600x401.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p-sandbox/h-G39YhEr2jExBArukIR0EeQyXJwe26fkBGGxyLtGno/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/h-G39YhEr2jExBArukIR0EeQyXJwe26fkBGGxyLtGno/1590x1062.jpg",
+        "width": 1590
+      }
+    },
+    "c_店舗ニュース7表示": false,
+    "c_店舗ニュース7説明": "山全体が境内と言われる比叡山。ガイドの案内により、境内のお堂はもちろん、豊かな自然と山道からの絶景を楽しむハイキングです。僧侶の厳しい修行として知られる千日回峰行のルートの一部も体験いただけます。\n\n旅行代金・料金\nおとな男性（18歳以上）：1,000円\nおとな女性（18歳以上）：1,000円\n小学生（10歳以上）：300円\n※旅行代金はおひとりあたりの金額です。\n●旅行代金に含まれるもの\n・延暦寺巡拝料、保険料、ガイド料\n最少催行人数　2名\n申込〆切：3日前 　まで\n\nデジタルパンフレットはこちら\nhttps://ebook.jtb.co.jp/book/?A5313#51",
+    "c_店舗ニュース8URL": "https://furu-po.com/spage.php?nm\u003djtb_coupon",
+    "c_店舗ニュース8タイトル": "京都を旅するなら、JTBふるさと納税旅行クーポン",
+    "c_店舗ニュース8掲載始め": "2022-02-17",
+    "c_店舗ニュース8掲載終り": "2023-03-31",
+    "c_店舗ニュース8画像": {
+      "image": {
+        "height": 203,
+        "sourceUrl": "https://a.mktgcdn.com/p/NEom6Kvpzr1HeJV3wj7IdTcWNd4wBfEqTVkRITf8Mss/360x203.jpg",
+        "thumbnails": [
+          {
+            "height": 203,
+            "url": "http://a.mktgcdn.com/p-sandbox/MbUcWMjH2LkT5q4WkgkR2mb72u373yGUx7iZeqrKBC0/360x203.jpg",
+            "width": 360
+          },
+          {
+            "height": 111,
+            "url": "http://a.mktgcdn.com/p-sandbox/MbUcWMjH2LkT5q4WkgkR2mb72u373yGUx7iZeqrKBC0/196x111.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/MbUcWMjH2LkT5q4WkgkR2mb72u373yGUx7iZeqrKBC0/360x203.jpg",
+        "width": 360
+      }
+    },
+    "c_店舗ニュース8表示": false,
+    "c_店舗ニュース8説明": "ふるぽでは、都道府県・市町村へ寄付した金額のうち、手数料2,000円を差し引いたほとんどが税金の控除という形で翌年戻ってきます。\nさらにお礼品として【ＪＴＢふるさと納税旅行クーポン】がもらえて、それを旅行代金に充当いただけます。\n\n☆JTBふるさと納税旅行クーポンの魅力☆\n●宿泊やJR・飛行機+宿・ホテルの旅に使用可能\n●全国130以上の市町村が参加(2021年3月時点)\n●有効期間は2年間。夏休みや年末年始などのピーク期にも使用可能\n●ふるさと納税は毎年寄付できるので、毎年旅行クーポンが利用できます\n\nそこで京都を旅する際には、ふるさと納税でもらえる旅行クーポンを利用してお得にご旅行を楽しみませんか？",
+    "c_店舗ニュース9URL": "https://www.jtb.co.jp/operate/weather.asp",
+    "c_店舗ニュース9タイトル": "悪天候による影響について",
+    "c_店舗ニュース9掲載始め": "2021-03-01",
+    "c_店舗ニュース9掲載終り": "2021-06-01",
+    "c_店舗ニュース9画像": {
+      "image": {
+        "height": 496,
+        "sourceUrl": "http://a.mktgcdn.com/p/mQyqDun5jPwBuJJ-zt68shWUrCDL4Z39j0sXDdsGTCU/750x496.jpg",
+        "thumbnails": [
+          {
+            "height": 496,
+            "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/750x496.jpg",
+            "width": 750
+          },
+          {
+            "height": 409,
+            "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/619x409.jpg",
+            "width": 619
+          },
+          {
+            "height": 397,
+            "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/600x397.jpg",
+            "width": 600
+          },
+          {
+            "height": 130,
+            "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/196x130.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/750x496.jpg",
+        "width": 750
+      }
+    },
+    "c_店舗ニュース9表示": false,
+    "c_店舗ニュース9説明": "悪天候時の、ご対応について\n記載しております。",
+    "c_店舗ニュースタイトル": "★オンライン予約相談満席となっております★ご迷惑をおかけして申し訳ございません",
+    "c_店舗ページ生成": true,
+    "c_店舗営業時間追記2": "最終受付時間：閉店前60分",
+    "c_店舗営業時間追記3": "12/30－1/3のみ休業",
+    "c_店舗外観写真": {
+      "image": {
+        "height": 1086,
+        "sourceUrl": "https://a.mktgcdn.com/p/IiVe5BTNJ2F0qEtZ7Wx6YK_N-b-xcYNaNOsuNZWH_SM/1440x1086.jpg",
+        "thumbnails": [
+          {
+            "height": 1086,
+            "url": "http://a.mktgcdn.com/p-sandbox/IiVe5BTNJ2F0qEtZ7Wx6YK_N-b-xcYNaNOsuNZWH_SM/1440x1086.jpg",
+            "width": 1440
+          },
+          {
+            "height": 467,
+            "url": "http://a.mktgcdn.com/p-sandbox/IiVe5BTNJ2F0qEtZ7Wx6YK_N-b-xcYNaNOsuNZWH_SM/619x467.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/IiVe5BTNJ2F0qEtZ7Wx6YK_N-b-xcYNaNOsuNZWH_SM/597x450.jpg",
+            "width": 597
+          },
+          {
+            "height": 148,
+            "url": "http://a.mktgcdn.com/p-sandbox/IiVe5BTNJ2F0qEtZ7Wx6YK_N-b-xcYNaNOsuNZWH_SM/196x148.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/IiVe5BTNJ2F0qEtZ7Wx6YK_N-b-xcYNaNOsuNZWH_SM/1440x1086.jpg",
+        "width": 1440
+      }
+    },
+    "c_店舗責任者": "総合旅行業務取扱管理者：平松　香　　　当デスクは複数店舗で運営しています　今月の担当窓口店舗（JTB京都駅前店　075-341-7142）",
+    "c_経路検索ボタン非表示": true,
+    "c_電話番号1ラベル": "オンライン相談のご予約は24時間いつでもこのページからどうぞ。",
+    "c_電話番号2ラベル": "＜ご注意＞ご出発地やご相談内容によっては当店でご予約を承れない場合があります",
+    "c_電話番号5ラベル": "　　　　　　　　　",
+    "categoryIds": [
+      "1084",
+      "1960"
+    ],
+    "description": "「京都検定」取得社員をはじめとした、JTB京都店舗社員が、旅館・ホテルなどの滞在先選びから、ご旅行中のおすすめプランなど、お客様に合わせたご旅行相談を承ります。\n※ご出発地などご旅行条件によっては、当店でご予約を承れない場合がありますのでご了承ください\n\n京都へお越しの際には、観光中に便利なJTBトラベルゲート京都四条（河原町・烏丸駅近く）やJTB京都駅前店（京都駅近く・京都タワー横）内にある「京都デスク」にもお立ち寄りください。\n※新型コロナウイルス感染拡大防止のため、当面の間、少人数のスタッフにて対応させいただきます。店内混雑防止の為、ご来店予約にご協力をお願い致します。（ご来店予約は当店ホームページより承ります。）",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_jing_du_fu",
+      "defaultDirectory_jing_du_fu_jing_du_shi"
+    ],
+    "facebookCallToAction": {
+      "type": "BOOK_NOW",
+      "value": "[[reservation.url]]"
+    },
+    "featuredMessage": {
+      "description": "「京都検定」合格者多数在中！オンラインで旅のご相談・お申込みを承ります。京都旅行はお任せください！",
+      "url": "http://www.jtb.co.jp"
+    },
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "10:30"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "10:30"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "10:30"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "10:30"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "10:30"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "10:30"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "10:30"
+          }
+        ]
+      }
+    },
+    "instagramHandle": "jtb_jp",
+    "logo": {
+      "image": {
+        "height": 829,
+        "sourceUrl": "http://a.mktgcdn.com/p/8rF0yEISTHNSCg-3PRvEHGnXcvZ3mbWAkPDo22nulwY/829x829.png",
+        "thumbnails": [
+          {
+            "height": 829,
+            "url": "http://a.mktgcdn.com/p-sandbox/9jDW0TdvDeany1RPWt1xhYfdBPYnLjj64v_hoT7CcoI/829x829.png",
+            "width": 829
+          },
+          {
+            "height": 150,
+            "url": "http://a.mktgcdn.com/p-sandbox/9jDW0TdvDeany1RPWt1xhYfdBPYnLjj64v_hoT7CcoI/150x150.png",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "http://a.mktgcdn.com/p-sandbox/9jDW0TdvDeany1RPWt1xhYfdBPYnLjj64v_hoT7CcoI/94x94.png",
+            "width": 94
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/9jDW0TdvDeany1RPWt1xhYfdBPYnLjj64v_hoT7CcoI/829x829.png",
+        "width": 829
+      }
+    },
+    "name": "JTBおこしやす京都（オンライン相談専門デスク）JTBトラベルゲート京都四条＆JTB京都駅前店内",
+    "paymentOptions": [
+      "ALIPAY",
+      "AMERICANEXPRESS",
+      "ANDROIDPAY",
+      "APPLEPAY",
+      "BANKPAY",
+      "CASH",
+      "CHECK",
+      "FINANCING",
+      "INVOICE",
+      "JCB",
+      "LINEPAY",
+      "MASTERCARD",
+      "Merpay",
+      "SUICA",
+      "TRAVELERSCHECK",
+      "TSCUBIC",
+      "VISA",
+      "WAON",
+      "Yucho Pay",
+      "dBarai"
+    ],
+    "priceRange": "TWO",
+    "reservationUrl": {
+      "url": "https://stores.jtb.co.jp/lc-0026#promo"
+    },
+    "slug": "[[entityId]]",
+    "timezone": "Asia/Tokyo",
+    "twitterHandle": "JTB_jp",
+    "yearEstablished": 1911
+  },
+  "entityType": "location",
+  "folder": "396721",
+  "labels": [
+    "label3ライセンスなし"
+  ]
+}

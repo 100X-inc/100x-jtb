@@ -1,0 +1,27 @@
+{
+  "$id": "kaigai/area/north-europe/",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_searchArea1": [
+      "海外"
+    ],
+    "description": "ノルウェー、フィンランド、スウェーデン、デンマーク、アイスランドなど北欧旅行ならJTBの北欧ツアー予約がおすすめ。北欧観光は、冬のオーロラ鑑賞、夏のフィヨルドクルーズなど、大自然を体感できる季節の楽しみはもちろん、絶景スポットのトロルの舌、サンタクロース村、ヘルシンキやオスロでの北欧デザイン雑貨のショッピングなど見所満載。JTBなら学生旅行にも嬉しい価格重視ツアーから添乗員つきツアー、ハネムーン向け高級ツアーまで、羽田発・関空発・福岡発など各地発の多数のパッケージツアーがあるので、旅のスタイルや予算に応じて比較してみて！",
+    "displayCoordinate": {
+      "latitude": 62.2786475,
+      "longitude": 12.3401709
+    },
+    "keywords": [
+      "北欧",
+      "旅行",
+      "ツアー",
+      "JTB"
+    ],
+    "landingPageUrl": "https://www.jtb.co.jp/kaigai/area/north-europe/",
+    "name": "北欧旅行・北欧ツアー"
+  },
+  "entityType": "ce_area2",
+  "folder": "海外ツアー",
+  "labels": []
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "defaultDirectory_zi_he_xian_cao_jin_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "2",
+    "dm_childEntityIds": [
+      "1044199966",
+      "1044247868"
+    ],
+    "dm_directoryChildren": [
+      "t6871-0",
+      "6871-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_zi_he_xian"
+    ],
+    "name": "草津市",
+    "slug": "滋賀県/草津市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

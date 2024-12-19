@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/3_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.598424%2C142.558943",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "遠くに雪を被った山峰を望みながら、どこまでも広がる北海道の大地。その大地を彩る緑と赤に色づいた木々。4月下旬～5月中旬の美瑛はまだ少し寒さが残るものの、この時期だけの自然風景を見ることができます。「春紅葉」とは、秋に気温が急激に下がることによって葉が色付く一般的な紅葉とは異なり、春の短い新緑の時期にだけ起きる自然現象のことを指します。春の訪れが遅い北海道では、光合成が本格化するまで木々の葉緑素が十分でないため、緑色がまだ薄く、木が持つ元来の色素(赤や黄）が見えてしまいます。このため春の若々しい新緑の木々の中に赤や黄色に色づいた木々が混じり合い、その情景を指して「春紅葉（はるこうよう）」と呼んでいます。\n見所・お勧めポイント\n四季の情景に恵まれた美瑛では、桜の時期の少し前に、遠くの山々にはまだ残雪の白さを見ることができ、手前の山には赤や黄色が萌黄色に混じりまるで秋のような景色が一面に広がります。パッチワークやパノラマ周辺には、カエデ類が少ないのであまり「春紅葉」が判りにくいのですが、丘を離れた山間にはカエデ類があるので黄緑・緑・赤等の木々を見つけることができます。JR富良野線美瑛駅から車で10分、赤羽の聖台ダムの「春紅葉」はおすすめです。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/3.asp",
+    "name": "美瑛 春紅葉"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

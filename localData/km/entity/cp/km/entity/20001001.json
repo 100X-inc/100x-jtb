@@ -1,0 +1,67 @@
+{
+  "$id": "cp_20001001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "愛知県",
+    "c_cp_CTA1": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVe-_q",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "名古屋松坂屋店をご利用いただきありがとうございます。\n名古屋松坂屋店は名古屋地区でも一番古く3世代でご利用いただいているお客様もいる歴史のある店舗です。\nそこで培った経験とお客様の声を大切にして皆様と旅をご案内しております。\nご来店お待ちしております。\n社員一同、お客様の実感価値を大切にご案内しております。",
+    "c_cp_DisplayName": "安藤",
+    "c_cp_FieldOfExpertise": [
+      "クルーズ"
+    ],
+    "c_cp_HiraganaName": "あんどう",
+    "c_cp_JobTitle": "JTB名古屋松坂屋店 店長",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 2448,
+      "sourceUrl": "https://a.mktgcdn.com/p/eaUtoSfCSJWWfgd5SWV-VOxD-2B45qzgkvEv4Lhrlq8/3264x2448.jpg",
+      "thumbnails": [
+        {
+          "height": 2448,
+          "url": "https://a.mktgcdn.com/p-sandbox/eaUtoSfCSJWWfgd5SWV-VOxD-2B45qzgkvEv4Lhrlq8/3264x2448.jpg",
+          "width": 3264
+        },
+        {
+          "height": 1425,
+          "url": "https://a.mktgcdn.com/p-sandbox/eaUtoSfCSJWWfgd5SWV-VOxD-2B45qzgkvEv4Lhrlq8/1900x1425.jpg",
+          "width": 1900
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/eaUtoSfCSJWWfgd5SWV-VOxD-2B45qzgkvEv4Lhrlq8/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/eaUtoSfCSJWWfgd5SWV-VOxD-2B45qzgkvEv4Lhrlq8/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/eaUtoSfCSJWWfgd5SWV-VOxD-2B45qzgkvEv4Lhrlq8/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/eaUtoSfCSJWWfgd5SWV-VOxD-2B45qzgkvEv4Lhrlq8/3264x2448.jpg",
+      "width": 3264
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 安藤",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 安藤",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_20001001",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10267_名古屋松坂屋店",
+    "name": "あんどう_20001001",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

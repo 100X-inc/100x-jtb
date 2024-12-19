@@ -1,0 +1,93 @@
+{
+  "$id": "cp_20131006",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_CTA1": {
+      "label": "木村 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVBs_2c",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVeVxd",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "ハネムーンから家族旅行まで！お客様のお声を聞くことを大切にしています。\n二児のママスタッフです。ハネムーンや子連れ旅行は何かと不安が多いと思います。\n目的やお子様の年齢に合ったご旅行をご提案できるよう日々勉強しておりますので、\nどんな事でもお気軽にお話しください！\nご相談心よりお待ちしております。",
+    "c_cp_DisplayName": "木村",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "ハネムーン",
+      "記念旅行"
+    ],
+    "c_cp_GeneralInfo": [
+      "●資格：ハワイスペシャリスト上級、トラベルコーディネーター海外・国内B級"
+    ],
+    "c_cp_HiraganaName": "きむら",
+    "c_cp_JobTitle": "JTB可児プラザパティオ店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 1000,
+      "sourceUrl": "https://a.mktgcdn.com/p/UtHBDlpfKyb0w9e4U2OGaG0-KmL5wnpZtFWGdBEjELQ/1135x1000.jpg",
+      "thumbnails": [
+        {
+          "height": 1000,
+          "url": "https://a.mktgcdn.com/p-sandbox/MPBrKjIVGgjVi8HIhDWuWxwB5Gg2tlVYF84NkSsUuOc/1135x1000.jpg",
+          "width": 1135
+        },
+        {
+          "height": 545,
+          "url": "https://a.mktgcdn.com/p-sandbox/MPBrKjIVGgjVi8HIhDWuWxwB5Gg2tlVYF84NkSsUuOc/619x545.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/MPBrKjIVGgjVi8HIhDWuWxwB5Gg2tlVYF84NkSsUuOc/511x450.jpg",
+          "width": 511
+        },
+        {
+          "height": 173,
+          "url": "https://a.mktgcdn.com/p-sandbox/MPBrKjIVGgjVi8HIhDWuWxwB5Gg2tlVYF84NkSsUuOc/196x173.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/MPBrKjIVGgjVi8HIhDWuWxwB5Gg2tlVYF84NkSsUuOc/1135x1000.jpg",
+      "width": 1135
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "千葉県"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "中部全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "大阪府"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "絶景",
+      "子連れ旅行"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 木村",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 木村",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_20131006",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2023/08/01　JBX対応（産休）",
+    "name": "きむら_20131006",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

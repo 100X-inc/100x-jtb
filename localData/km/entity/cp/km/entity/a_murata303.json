@@ -1,0 +1,104 @@
+{
+  "$id": "cp_a_murata303",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_Articles": [
+      "ap_a_murata303_003",
+      "ap_area_0000031",
+      "ap_a_murata303_002",
+      "ap_a_murata303_001"
+    ],
+    "c_cp_ArticlesSectionTitle": "このコンサルタントの投稿記事",
+    "c_cp_CTA1": {
+      "label": "村田 茜 のリモート相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVqi",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "コンサルタント一覧",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_cp_Description": "丁寧な接客で記念のご旅行や思い出となる大切なご旅行のお手伝いをさせて頂きます。",
+    "c_cp_DisplayName": "村田 茜",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "母娘旅",
+      "夫婦旅",
+      "寺社・教会",
+      "グルメ"
+    ],
+    "c_cp_HiraganaName": "むらた あかね",
+    "c_cp_JobTitle": "JTBリモートコンシェルジュ　トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 466,
+      "sourceUrl": "https://a.mktgcdn.com/p/dy5-85XzjNPz3Y81iT1iTdjYncyVPNdc3bqTPrFd6Z4/709x466.png",
+      "thumbnails": [
+        {
+          "height": 466,
+          "url": "https://a.mktgcdn.com/p-sandbox/dy5-85XzjNPz3Y81iT1iTdjYncyVPNdc3bqTPrFd6Z4/709x466.png",
+          "width": 709
+        },
+        {
+          "height": 407,
+          "url": "https://a.mktgcdn.com/p-sandbox/dy5-85XzjNPz3Y81iT1iTdjYncyVPNdc3bqTPrFd6Z4/619x407.png",
+          "width": 619
+        },
+        {
+          "height": 394,
+          "url": "https://a.mktgcdn.com/p-sandbox/dy5-85XzjNPz3Y81iT1iTdjYncyVPNdc3bqTPrFd6Z4/600x394.png",
+          "width": 600
+        },
+        {
+          "height": 129,
+          "url": "https://a.mktgcdn.com/p-sandbox/dy5-85XzjNPz3Y81iT1iTdjYncyVPNdc3bqTPrFd6Z4/196x129.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/dy5-85XzjNPz3Y81iT1iTdjYncyVPNdc3bqTPrFd6Z4/709x466.png",
+      "width": 709
+    },
+    "c_cp_Point": "109",
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "石川県",
+      "福井県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "三重県",
+      "京都府",
+      "兵庫県",
+      "和歌山県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_metaDescription": "「JTBリモートコンシェルジュ」は、オンラインでの旅行相談・申込の専門店です。知識豊富なスタッフがご希望の旅をご提案します。 オンライ相談の予約も承ります。",
+    "c_metaTitle": "JTBリモートコンシェルジュ ｜  村田 茜 ｜ リモートトラベルコンシェルジュ | オンライン旅行相談",
+    "c_news_NewsList": [
+      "news_ap_a_murata303_003",
+      "news_ap_area_0000031",
+      "news_ap_a_murata303_002",
+      "news_ap_a_murata303_001"
+    ],
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_a_murata303",
+    "c_responsibleService": [
+      "リモートコンシェルジュ"
+    ],
+    "c_v2Folder": "2024/03/04　JBX対応済（産休）",
+    "name": "a_murata303",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

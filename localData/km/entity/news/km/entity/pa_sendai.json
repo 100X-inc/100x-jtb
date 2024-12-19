@@ -1,0 +1,46 @@
+{
+  "$id": "news_pa_sendai",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kokunai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "仙台",
+      "link": "https://www.jtb.co.jp/news/list/index.html?tag\u003d%E4%BB%99%E5%8F%B0",
+      "linkType": "OTHER"
+    },
+    "c_news_PopularAreasImage": {
+      "height": 555,
+      "sourceUrl": "https://a.mktgcdn.com/p/F7OlryS7U99HnRx8oxstf9N8LtM9v6-ovBfFJmHHlUg/1200x555.jpg",
+      "thumbnails": [
+        {
+          "height": 555,
+          "url": "https://a.mktgcdn.com/p-sandbox/F7OlryS7U99HnRx8oxstf9N8LtM9v6-ovBfFJmHHlUg/1200x555.jpg",
+          "width": 1200
+        },
+        {
+          "height": 286,
+          "url": "https://a.mktgcdn.com/p-sandbox/F7OlryS7U99HnRx8oxstf9N8LtM9v6-ovBfFJmHHlUg/619x286.jpg",
+          "width": 619
+        },
+        {
+          "height": 278,
+          "url": "https://a.mktgcdn.com/p-sandbox/F7OlryS7U99HnRx8oxstf9N8LtM9v6-ovBfFJmHHlUg/600x278.jpg",
+          "width": 600
+        },
+        {
+          "height": 91,
+          "url": "https://a.mktgcdn.com/p-sandbox/F7OlryS7U99HnRx8oxstf9N8LtM9v6-ovBfFJmHHlUg/196x91.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/F7OlryS7U99HnRx8oxstf9N8LtM9v6-ovBfFJmHHlUg/1200x555.jpg",
+      "width": 1200
+    },
+    "name": "仙台"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

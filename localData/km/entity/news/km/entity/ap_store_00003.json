@@ -1,0 +1,889 @@
+{
+  "$id": "news_ap_store_00003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBトラベルゲート新宿マルイ本館　細貝・安藤/ JTB 新宿タカシマヤ店　戸塚",
+      "linkType": "OTHER"
+    },
+    "c_ap_HeroImage": {
+      "height": 800,
+      "sourceUrl": "http://a.mktgcdn.com/p/1nuvD25G3dFQVBfc1owz_CDGCon5NPkJ4kdVaMVg-mI/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "//a.mktgcdn.com/p-sandbox/1nuvD25G3dFQVBfc1owz_CDGCon5NPkJ4kdVaMVg-mI/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/1nuvD25G3dFQVBfc1owz_CDGCon5NPkJ4kdVaMVg-mI/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/1nuvD25G3dFQVBfc1owz_CDGCon5NPkJ4kdVaMVg-mI/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/1nuvD25G3dFQVBfc1owz_CDGCon5NPkJ4kdVaMVg-mI/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/1nuvD25G3dFQVBfc1owz_CDGCon5NPkJ4kdVaMVg-mI/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "台湾へのプチ旅行気分が味わえる「東京媽祖廟」",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "『日本の旬 東京・横浜』 宿泊パック・ツアー・体験予約はこちら",
+        "uRL": "https://www.jtb.co.jp/nihonnoshun/tokyoyokohama/"
+      },
+      {
+        "linkText": "JTBトラベルゲート新宿マルイ本館（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/j3361-0"
+      },
+      {
+        "linkText": "JTB 新宿タカシマヤ店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/t3734-0"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "東京にある人気パワースポットを巡るモデルコースをご紹介します。午前に「阿佐ヶ谷神明宮」、「東京大神宮」、午後に「赤城神社」、「花園神社」、「東京媽祖廟」の合計5カ所を訪れる、盛りだくさんのプランです。水辺のレストラン「CANAL CAFE」でのランチや、神楽坂散策も満喫！",
+    "c_ap_Tags": [
+      "神社",
+      "モデルコース",
+      "おみゃげ",
+      "街歩き",
+      "神社巡り",
+      "パワースポット",
+      "御朱印帳",
+      "神楽坂",
+      "お散歩",
+      "コリアンタウン",
+      "大江戸プラン"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "寺社・教会",
+      "建築・史跡",
+      "歴史・地理",
+      "街あるき",
+      "グルメ",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "東京の人気パワースポット・神社で御朱印巡り！半日モデルコース【神楽坂エリア】",
+    "c_linkedArea3News": [
+      "tokyo"
+    ],
+    "c_metaDescription": "東京にある人気パワースポット・神社を巡る半日モデルコースをご紹介します。「阿佐ヶ谷神明宮」、「東京大神宮」、「赤城神社」、「花園神社」、「東京媽祖廟」の5カ所で御朱印巡り！",
+    "c_metaTitle": "東京の人気パワースポット・神社で御朱印巡り！半日モデルコース【神楽坂エリア】",
+    "c_news_CTAs": [
+      {
+        "label": "JTB大江戸デスクホームページはこちら",
+        "link": "https://consultants.jtb.co.jp/top-tokyo",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "王道＆御朱印集めで東京を再発見！1日満喫コースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00004",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "あの漫画の聖地巡礼！亀有散策半日コースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00017",
+          "linkType": "URL"
+        },
+        "description": "JR阿佐ヶ谷駅のすぐそば、歩いて2分ほどの場所にある「阿佐ヶ谷神明宮」からコーススタート！こちらは「大和がさね」という御朱印や、「神（かん）むすび」というお守りが人気の神社です。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/S9oMsBcjLOcpLuFNrmatE27a9-983fGxv6MKcNtWLMs/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/S9oMsBcjLOcpLuFNrmatE27a9-983fGxv6MKcNtWLMs/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/S9oMsBcjLOcpLuFNrmatE27a9-983fGxv6MKcNtWLMs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/S9oMsBcjLOcpLuFNrmatE27a9-983fGxv6MKcNtWLMs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/S9oMsBcjLOcpLuFNrmatE27a9-983fGxv6MKcNtWLMs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/S9oMsBcjLOcpLuFNrmatE27a9-983fGxv6MKcNtWLMs/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "レースブレスレット型お守り「神（かん）むすび」はバッグチャームにしてもキュート",
+        "infoBlockLabel": "阿佐ヶ谷神明宮（あさがやしんめいぐう） の情報",
+        "infoBlockText": "電話：03-3330-4824 住所：東京都杉並区阿佐谷北1-25-5 料金：境内無料 時間：6～17時(4・5月は5時30分～17時30分、6～9月は5時～17時30分※6・7月の土・日曜・祝日は～18時、10月は5時30分～17時)。社務所は9～17時 休み：無休 アクセス：JR阿佐ケ谷駅から徒歩2分",
+        "sectionTitle": "「阿佐ヶ谷神明宮」から出発！（10：00）"
+      },
+      {
+        "description": "美しい図柄が目を引く「大和がさね」は、日本の伝統工芸品である美濃和紙に、鮮やかな刺繍を施した全国初の刺繍入り御朱印。今回は手に入れることができませんでしたが、桜やあじさい、天の川などを描いた特別なデザインの御朱印が、季節や時期により頒布されることもあるそうです。ホームページなどで、頒布時期を事前にチェックしてから足を運びましょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/w57HHfWDDBtNmUkwaDoY3RelsINK-laQF0WUoD_-UXk/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/w57HHfWDDBtNmUkwaDoY3RelsINK-laQF0WUoD_-UXk/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/w57HHfWDDBtNmUkwaDoY3RelsINK-laQF0WUoD_-UXk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/w57HHfWDDBtNmUkwaDoY3RelsINK-laQF0WUoD_-UXk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/w57HHfWDDBtNmUkwaDoY3RelsINK-laQF0WUoD_-UXk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/w57HHfWDDBtNmUkwaDoY3RelsINK-laQF0WUoD_-UXk/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "全国で唯一すべての災難厄事を取り除く「八難除」という御祈祷方法を行っている神社です",
+        "infoBlockLabel": "まめやの情報",
+        "infoBlockText": "電話：080-3517-0902 住所：東京都杉並区阿佐ヶ谷北2-12-7 時間：12～20時 休み：水曜 アクセス：JR阿佐ケ谷駅から徒歩2分",
+        "sectionTitle": "たい焼きを食べて小休止♪"
+      },
+      {
+        "description": "天照大御神を祭る本殿へのお参りを済ませたら、次のスポットへ行く前に、個性的なお店が集まる阿佐ヶ谷駅周辺を散策してみるのもおすすめです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/V9G4pG9Z-EOmTBBhPbDGAtAJ_b7xJtfXy2SSs34j6DM/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/V9G4pG9Z-EOmTBBhPbDGAtAJ_b7xJtfXy2SSs34j6DM/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/V9G4pG9Z-EOmTBBhPbDGAtAJ_b7xJtfXy2SSs34j6DM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/V9G4pG9Z-EOmTBBhPbDGAtAJ_b7xJtfXy2SSs34j6DM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/V9G4pG9Z-EOmTBBhPbDGAtAJ_b7xJtfXy2SSs34j6DM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/V9G4pG9Z-EOmTBBhPbDGAtAJ_b7xJtfXy2SSs34j6DM/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "波や月の絵馬がかわいい！",
+        "infoBlockLabel": "東京大神宮（とうきょうだいじんぐう）の情報",
+        "infoBlockText": "電話：03-3262-3566 住所：東京都千代田区富士見2-4-1 料金：境内無料 時間：6～21時(お守り授与は8～19時、ご朱印は9～17時) 休み：無休 アクセス：JR飯田橋駅から徒歩5分",
+        "sectionTitle": "「東京大神宮」で良縁祈願（11：30）"
+      },
+      {
+        "description": "「スターロード商店街」の一角にあるお店「たい焼き まめや」では、韓国式のたい焼き器で作る、外サクサク中もっちりのたい焼きが味わえます。小腹が空いたときのおやつに、ぜひ一匹食べてみてくださいね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/-d6ERbGf2xE7IvP6KucpAZF7-A0Yy2XfkIGesy_i8y0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/-d6ERbGf2xE7IvP6KucpAZF7-A0Yy2XfkIGesy_i8y0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/-d6ERbGf2xE7IvP6KucpAZF7-A0Yy2XfkIGesy_i8y0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/-d6ERbGf2xE7IvP6KucpAZF7-A0Yy2XfkIGesy_i8y0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/-d6ERbGf2xE7IvP6KucpAZF7-A0Yy2XfkIGesy_i8y0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-d6ERbGf2xE7IvP6KucpAZF7-A0Yy2XfkIGesy_i8y0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "定番の「つぶあん」150円や「カスタード」180円が人気です",
+        "infoBlockLabel": "CANAL CAFE（かなる かふぇ）の情報",
+        "infoBlockText": "電話：03-3260-8068 住所：東京都新宿区神楽坂1-9 時間：11時30分～22時 休み：第1・3月曜（祝日の場合は営業）",
+        "sectionTitle": "「CANAL CAFE」でランチ～神楽坂散策（12：30）"
+      },
+      {
+        "description": "阿佐ヶ谷駅から移動すること約30分、JR飯田橋駅から徒歩5分の場所にある「東京大神宮」に到着！伊勢神宮と同じ御祭神を祭っていることから、“東京のお伊勢さま”と称されるこの神社で、良縁を祈願しましょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/3LDf0cFy2KTNamYaIffojouUpo4ojzsjAqPd-XlSCFQ/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LDf0cFy2KTNamYaIffojouUpo4ojzsjAqPd-XlSCFQ/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LDf0cFy2KTNamYaIffojouUpo4ojzsjAqPd-XlSCFQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LDf0cFy2KTNamYaIffojouUpo4ojzsjAqPd-XlSCFQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LDf0cFy2KTNamYaIffojouUpo4ojzsjAqPd-XlSCFQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3LDf0cFy2KTNamYaIffojouUpo4ojzsjAqPd-XlSCFQ/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "おいしそうなたい焼き片手に阿佐ヶ谷の街をぶらぶら",
+        "infoBlockLabel": "毘沙門天 善國寺（びしゃもんてん ぜんこくじ）の情報",
+        "infoBlockText": "電話：03-5261-2080 住所：東京都新宿区神楽坂6-64雅庵神楽坂1階 時間：10時30分～19時 休み：無休 アクセス：東京メトロ東西線神楽坂駅から徒歩2分",
+        "sectionTitle": "「赤城神社」で自分用のお土産を（14：00）"
+      },
+      {
+        "description": "さらに、“結び”の働きを司る造化の三神も併せて祭られていることから、東京随一の縁結びのパワースポットともいわれています。日本で初めて神前結婚式を行ったのも、この東京大神宮なのだとか。“幸福が訪れる”という花言葉を持つスズランをかたどったお守り「縁結び鈴蘭守」や、恋愛・仕事・美容などの助言が記された「幸せ結びみくじ」をいただけば、きっと良縁に恵まれるはず！",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/8SlYKCBlug3RkbyHMcnkH6MZbNqdAYBwU5SI8l82mqo/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/8SlYKCBlug3RkbyHMcnkH6MZbNqdAYBwU5SI8l82mqo/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/8SlYKCBlug3RkbyHMcnkH6MZbNqdAYBwU5SI8l82mqo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/8SlYKCBlug3RkbyHMcnkH6MZbNqdAYBwU5SI8l82mqo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/8SlYKCBlug3RkbyHMcnkH6MZbNqdAYBwU5SI8l82mqo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8SlYKCBlug3RkbyHMcnkH6MZbNqdAYBwU5SI8l82mqo/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "写真は「令和4年幸せの四社巡り」でいただいた期間限定の御朱印です※現在は頒布終了",
+        "infoBlockLabel": "ハピマルフルーツ神楽坂 本店（はぴまるふるーつかぐらざか ほんてん）の情報",
+        "infoBlockText": "電話：03-3260-5071 住所：新宿区赤城元町1-10 料金：境内無料 時間：社務所9〜17時 休み：無休  アクセス：東京メトロ東西線神楽坂駅からすぐ",
+        "sectionTitle": "「花園神社」で写真撮影（15：00）"
+      },
+      {
+        "description": "そろそろお昼時、東京大神宮から飯田橋駅方面に戻り、都心とは思えない水辺の風景が楽しめる「CANAL CAFE」でランチを堪能しましょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/0EJ6nQtODiU4xt3irJwAZ-pWMnKxwLXoC6ijLUSDQW4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/0EJ6nQtODiU4xt3irJwAZ-pWMnKxwLXoC6ijLUSDQW4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/0EJ6nQtODiU4xt3irJwAZ-pWMnKxwLXoC6ijLUSDQW4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/0EJ6nQtODiU4xt3irJwAZ-pWMnKxwLXoC6ijLUSDQW4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/0EJ6nQtODiU4xt3irJwAZ-pWMnKxwLXoC6ijLUSDQW4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0EJ6nQtODiU4xt3irJwAZ-pWMnKxwLXoC6ijLUSDQW4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "よく当たると評判の「幸せ結びみくじ」をゲット",
+        "infoBlockLabel": "赤城神社（あかぎじんじゃ）の情報",
+        "infoBlockText": "電話：03-3209-5265 住所：東京都新宿区新宿5-17-3 料金：境内無料 時間：社務所8～20時  休み：無休 アクセス：各線新宿三丁目駅からすぐ",
+        "sectionTitle": "「東京媽祖廟」で台湾気分～新大久保でディナー（16：00）"
+      },
+      {
+        "description": "自然豊かな外濠に面したテラス席は水面とほぼ同じ高さにあり、水上に浮かびながら食事を味わっているような、不思議な感覚が体験できます。提供されているメニューは本格的なイタリアン。なかでも、本場ナポリのピッツァ専用小麦粉を使用し、モチモチとした食感に仕上げたピッツァが最高です。 ランチの腹ごなしもかねて、次の目的地である赤城神社までお散歩。1㎞に満たない距離ではありますが、道中の坂を上ればよい運動になりますよ。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/zUA5Y8cLK43dyAMy8GRyaNww_adt2ulHqDbB6tbaKAw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/zUA5Y8cLK43dyAMy8GRyaNww_adt2ulHqDbB6tbaKAw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/zUA5Y8cLK43dyAMy8GRyaNww_adt2ulHqDbB6tbaKAw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/zUA5Y8cLK43dyAMy8GRyaNww_adt2ulHqDbB6tbaKAw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/zUA5Y8cLK43dyAMy8GRyaNww_adt2ulHqDbB6tbaKAw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zUA5Y8cLK43dyAMy8GRyaNww_adt2ulHqDbB6tbaKAw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "境内には休憩できるスペースも用意されています",
+        "infoBlockLabel": "花園神社（はなぞのじんじゃ）の情報",
+        "infoBlockText": "電話：03-5348-5220 住所：東京都新宿区百人町1-24-12 料金：線香代200円～ 時間：9時～17時30分 休み：無休 アクセス：JR大久保駅からすぐ"
+      },
+      {
+        "description": "坂を上り切ったところにある「毘沙門天 善國寺」で、本堂の左右に鎮座する狛虎にご挨拶。寅の年、寅の月、寅の日、寅の刻に毘沙門天が誕生し、「寅毘沙」と呼ばれていることから、こちらの石虎が置かれているそうですよ。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/lUT7Qz_p9XlN_H1Vt6KFOYuiqh-MsS5yP_XVTRzyztk/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/lUT7Qz_p9XlN_H1Vt6KFOYuiqh-MsS5yP_XVTRzyztk/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/lUT7Qz_p9XlN_H1Vt6KFOYuiqh-MsS5yP_XVTRzyztk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/lUT7Qz_p9XlN_H1Vt6KFOYuiqh-MsS5yP_XVTRzyztk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/lUT7Qz_p9XlN_H1Vt6KFOYuiqh-MsS5yP_XVTRzyztk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lUT7Qz_p9XlN_H1Vt6KFOYuiqh-MsS5yP_XVTRzyztk/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "30分1000円でボートに乗ることもできます",
+        "infoBlockLabel": "東京媽祖廟（とうきょうまそびょう）の情報"
+      },
+      {
+        "description": "歩いて渇いた喉には、神楽坂通り沿いにある「ハピマルフルーツ神楽坂 本店」のドリンクがおすすめ。砂糖不使用・無加水・非加熱で作る「とろ生フルーツジュース」など、果物専門店ならではのフレッシュな一杯で、体と心を潤しましょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/YicXzpb0cSFQgFlOyOOwNKsYfiaOfKEu84tlS3Jwi8g/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/YicXzpb0cSFQgFlOyOOwNKsYfiaOfKEu84tlS3Jwi8g/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/YicXzpb0cSFQgFlOyOOwNKsYfiaOfKEu84tlS3Jwi8g/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/YicXzpb0cSFQgFlOyOOwNKsYfiaOfKEu84tlS3Jwi8g/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/YicXzpb0cSFQgFlOyOOwNKsYfiaOfKEu84tlS3Jwi8g/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YicXzpb0cSFQgFlOyOOwNKsYfiaOfKEu84tlS3Jwi8g/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「マルゲリータ」1470円など。窯焼きならではの香ばしい風味が最高！"
+      },
+      {
+        "description": "神楽坂散策を満喫したあとは、再びパワースポット巡りへ。“日本で一番おしゃれな神社”と称されることもある「赤城神社」を参拝しましょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/7IU6weGBHig5kLzb34I5KcRmhhuftwUnWh68c6GIFIc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/7IU6weGBHig5kLzb34I5KcRmhhuftwUnWh68c6GIFIc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/7IU6weGBHig5kLzb34I5KcRmhhuftwUnWh68c6GIFIc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/7IU6weGBHig5kLzb34I5KcRmhhuftwUnWh68c6GIFIc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/7IU6weGBHig5kLzb34I5KcRmhhuftwUnWh68c6GIFIc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7IU6weGBHig5kLzb34I5KcRmhhuftwUnWh68c6GIFIc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "善國寺にいるのは狛犬ならぬ“狛虎”"
+      },
+      {
+        "description": "社殿のデザインを監修したのは、国立競技場を手掛けたことでも有名な隈研吾氏。ガラス張りのモダンな社殿は必見です。学問芸術にご利益があるとされていることから、足を運ぶ芸能関係者が多いのだとか。また、境内にある「螢雪天神」には“学問の神様”として知られる菅原道真公を御祭神としていて、たくさんの受験生が合格祈願に訪れるスポットともなっています。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/l59Xlqy0WRpdtHOnAkLPVl2LyF1YRKtouLSwQzgaR6g/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/l59Xlqy0WRpdtHOnAkLPVl2LyF1YRKtouLSwQzgaR6g/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/l59Xlqy0WRpdtHOnAkLPVl2LyF1YRKtouLSwQzgaR6g/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/l59Xlqy0WRpdtHOnAkLPVl2LyF1YRKtouLSwQzgaR6g/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/l59Xlqy0WRpdtHOnAkLPVl2LyF1YRKtouLSwQzgaR6g/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/l59Xlqy0WRpdtHOnAkLPVl2LyF1YRKtouLSwQzgaR6g/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "左「原宿ベリースムージー」テイクアウト594円、右「とろ生フルーツジュース」テイクアウト540円"
+      },
+      {
+        "description": "雪うさぎが描かれた御朱印帳や、帳面に挟む栞として使える水引のお守り「あかぎ姫の縁結び」など、授与品も優れたデザインのものばかり。自分好みの一品をゲットして、大切に使いたいですね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/bbEegDIkGe6pHJTFmTlbYW5gFw8l8xL6z3DqCB7mbeM/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/bbEegDIkGe6pHJTFmTlbYW5gFw8l8xL6z3DqCB7mbeM/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/bbEegDIkGe6pHJTFmTlbYW5gFw8l8xL6z3DqCB7mbeM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/bbEegDIkGe6pHJTFmTlbYW5gFw8l8xL6z3DqCB7mbeM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/bbEegDIkGe6pHJTFmTlbYW5gFw8l8xL6z3DqCB7mbeM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bbEegDIkGe6pHJTFmTlbYW5gFw8l8xL6z3DqCB7mbeM/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "お得な「御朱印帳（御朱印込）と栞のセット」 を手に記念撮影"
+      },
+      {
+        "description": "「赤城神社」から25分ほど移動し、「花園神社」に到着！大都会・新宿の総鎮守として古来より信仰を集めてきたこの神社で、美しい切り絵の御朱印をいただきましょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/qXPVLwUBBi_v2z5yAqPRMGwpAEmozbVVoN48qi--ApI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/qXPVLwUBBi_v2z5yAqPRMGwpAEmozbVVoN48qi--ApI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/qXPVLwUBBi_v2z5yAqPRMGwpAEmozbVVoN48qi--ApI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/qXPVLwUBBi_v2z5yAqPRMGwpAEmozbVVoN48qi--ApI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/qXPVLwUBBi_v2z5yAqPRMGwpAEmozbVVoN48qi--ApI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qXPVLwUBBi_v2z5yAqPRMGwpAEmozbVVoN48qi--ApI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ガラス張りのおしゃれな社殿をぜひご自身の目でお確かめください"
+      },
+      {
+        "description": "境内の緑に映える、鮮やかな赤を基調とした拝殿や大鳥居など、写真に収めたいスポットがたくさん。とくに、境内中央にある「威徳稲荷神社」は、たくさんの鳥居が異世界へのトンネルのように並び、かなりフォトジェニックですよ。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/H7vtHSUafqP1nhuH2C_n9p5v5U4hHSbmqk8g1ETq8Xg/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/H7vtHSUafqP1nhuH2C_n9p5v5U4hHSbmqk8g1ETq8Xg/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/H7vtHSUafqP1nhuH2C_n9p5v5U4hHSbmqk8g1ETq8Xg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/H7vtHSUafqP1nhuH2C_n9p5v5U4hHSbmqk8g1ETq8Xg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/H7vtHSUafqP1nhuH2C_n9p5v5U4hHSbmqk8g1ETq8Xg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/H7vtHSUafqP1nhuH2C_n9p5v5U4hHSbmqk8g1ETq8Xg/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "愛らしい「うさぎみくじ」も人気。運命の1羽はどれでしょう？"
+      },
+      {
+        "description": "例年、11月の酉の日には「酉の市」が行われ、大勢の人で賑わいます。商売繫盛の縁起物である熊手が、ところ狭しと並ぶ光景は圧巻！タイミングを合わせて、訪れてみてはいかがでしょうか。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/xRS1tdXkSpczgxU0lxJly-x6Pe8Mul0Fl-Uv2MCfhQo/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/xRS1tdXkSpczgxU0lxJly-x6Pe8Mul0Fl-Uv2MCfhQo/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/xRS1tdXkSpczgxU0lxJly-x6Pe8Mul0Fl-Uv2MCfhQo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/xRS1tdXkSpczgxU0lxJly-x6Pe8Mul0Fl-Uv2MCfhQo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/xRS1tdXkSpczgxU0lxJly-x6Pe8Mul0Fl-Uv2MCfhQo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xRS1tdXkSpczgxU0lxJly-x6Pe8Mul0Fl-Uv2MCfhQo/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "まるで1枚のアート作品のような「切り絵御朱印」"
+      },
+      {
+        "description": "新宿駅から1駅、JR大久保駅南口からすぐの場所に「東京媽祖廟」というお寺があることをご存じでしょうか。こちらは、台湾及び中国沿海部を中心に信仰されている、航海や漁業の守護神・媽祖様を祭るお寺で、2013年に開廟されました。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/55J559XoVU5Jy1N93fmziH8lcuqy_HDV_-pkGnSNSNs/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/55J559XoVU5Jy1N93fmziH8lcuqy_HDV_-pkGnSNSNs/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/55J559XoVU5Jy1N93fmziH8lcuqy_HDV_-pkGnSNSNs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/55J559XoVU5Jy1N93fmziH8lcuqy_HDV_-pkGnSNSNs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/55J559XoVU5Jy1N93fmziH8lcuqy_HDV_-pkGnSNSNs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/55J559XoVU5Jy1N93fmziH8lcuqy_HDV_-pkGnSNSNs/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "豊かな自然の緑と大鳥居の赤のコントラストが見事です"
+      },
+      {
+        "description": "お寺の1階で、いただいた7本の線香に火をつけるところからお参りはスタート。線香の火が消えないように注意しながら、表にある香炉や、2～4階の各所にある香炉に1本ずつ供していきます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/tlKiOwAPTipWG44sxcvaJ6devL3CuPmBOq7IvOekFGE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/tlKiOwAPTipWG44sxcvaJ6devL3CuPmBOq7IvOekFGE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/tlKiOwAPTipWG44sxcvaJ6devL3CuPmBOq7IvOekFGE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/tlKiOwAPTipWG44sxcvaJ6devL3CuPmBOq7IvOekFGE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/tlKiOwAPTipWG44sxcvaJ6devL3CuPmBOq7IvOekFGE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/tlKiOwAPTipWG44sxcvaJ6devL3CuPmBOq7IvOekFGE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "神秘的な雰囲気が漂う「威徳稲荷神社」"
+      },
+      {
+        "description": "願い事をする前に、心の中で名前や住所を言わなければならなかったり、礼をする姿勢や回数が決まっていたりと、お参りの順序や作法は、細かく定められています。配布されているパンフレットを参考にしたり、廟内の係の方に案内を依頼したりして、正しく参拝できるよう心掛けましょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/BqB3uUwN_EleMjAhDyNzSBhLaZsFau7hG0EoBrsaO64/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/BqB3uUwN_EleMjAhDyNzSBhLaZsFau7hG0EoBrsaO64/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/BqB3uUwN_EleMjAhDyNzSBhLaZsFau7hG0EoBrsaO64/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/BqB3uUwN_EleMjAhDyNzSBhLaZsFau7hG0EoBrsaO64/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/BqB3uUwN_EleMjAhDyNzSBhLaZsFau7hG0EoBrsaO64/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BqB3uUwN_EleMjAhDyNzSBhLaZsFau7hG0EoBrsaO64/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ビルの間に佇むインパクト大なお寺です"
+      },
+      {
+        "description": "「東京媽祖廟」から5分ほど歩けば、新大久保駅に到着します。旅の締めくくりに、新大久保のコリアンタウンでショッピングやグルメを楽しんでみては？本格的な韓国料理をディナーで味わえば、きっと忘れられない一日になりますよ。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/MEsGZBbOmx4WZXuHCp1OzNZ-dDKHOiOHWsrVd7A5QL0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/MEsGZBbOmx4WZXuHCp1OzNZ-dDKHOiOHWsrVd7A5QL0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/MEsGZBbOmx4WZXuHCp1OzNZ-dDKHOiOHWsrVd7A5QL0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/MEsGZBbOmx4WZXuHCp1OzNZ-dDKHOiOHWsrVd7A5QL0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/MEsGZBbOmx4WZXuHCp1OzNZ-dDKHOiOHWsrVd7A5QL0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MEsGZBbOmx4WZXuHCp1OzNZ-dDKHOiOHWsrVd7A5QL0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "金運アップの特別な線香なども用意されています"
+      },
+      {
+        "description": "＜投稿者コメント＞ パワーをたっぷりもらえるおすすめコースです。神楽坂の小道をぶらり散歩♪ 御朱印集めやフォトジェニックスポットが満載！でも神頼みは真剣に！ 東京を訪れる皆様にたくさんの幸運が舞い込みますように。 そして願いが叶った際にはお礼参りでまた東京へお越しください。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/JX8wl9xy3UzLGEM668Ki_RK8uTXitXkcWhqqv5flWTA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/JX8wl9xy3UzLGEM668Ki_RK8uTXitXkcWhqqv5flWTA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/JX8wl9xy3UzLGEM668Ki_RK8uTXitXkcWhqqv5flWTA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/JX8wl9xy3UzLGEM668Ki_RK8uTXitXkcWhqqv5flWTA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/JX8wl9xy3UzLGEM668Ki_RK8uTXitXkcWhqqv5flWTA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JX8wl9xy3UzLGEM668Ki_RK8uTXitXkcWhqqv5flWTA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "神様の前では礼儀作法はしっかりと守りましょう"
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/sVY_D08mVBnkPROdK_OphHuVaxX24izYpxbytksxyY8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/sVY_D08mVBnkPROdK_OphHuVaxX24izYpxbytksxyY8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/sVY_D08mVBnkPROdK_OphHuVaxX24izYpxbytksxyY8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/sVY_D08mVBnkPROdK_OphHuVaxX24izYpxbytksxyY8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/sVY_D08mVBnkPROdK_OphHuVaxX24izYpxbytksxyY8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sVY_D08mVBnkPROdK_OphHuVaxX24izYpxbytksxyY8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "三日月形の木片を使う台湾式のおみくじも体験できます"
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/prEY7_v6O-TRM-7i-RNCplpS0SRKrPIlna_CbMdzPGs/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/prEY7_v6O-TRM-7i-RNCplpS0SRKrPIlna_CbMdzPGs/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/prEY7_v6O-TRM-7i-RNCplpS0SRKrPIlna_CbMdzPGs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/prEY7_v6O-TRM-7i-RNCplpS0SRKrPIlna_CbMdzPGs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/prEY7_v6O-TRM-7i-RNCplpS0SRKrPIlna_CbMdzPGs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/prEY7_v6O-TRM-7i-RNCplpS0SRKrPIlna_CbMdzPGs/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "最後は新大久保の通称「イケメン通り」を散策！"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。※上記記事に記載の金額はすべて税込みです。また各施設の入場料金は大人料金を記載しています。※定休日は原則として年末年始・お盆休み・ゴールデンウィークを省略しています。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_store_00004",
+      "news_ap_store_00005",
+      "news_ap_store_00007",
+      "news_ap_store_00006",
+      "news_ap_store_00008"
+    ],
+    "c_news_FeaturedArticlesTitle": "その他JTB大江戸デスクコンサルタントの投稿記事",
+    "c_news_PublicationDate": "2022-11-21",
+    "c_news_UpdateDate": "2024-07-09",
+    "c_news_ViewCount": "11620",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "11620",
+    "c_news_ViewCountNum": "11620",
+    "c_news_ViewCountNumForSorting": "778",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00003",
+    "name": "東京の人気パワースポット・神社で御朱印巡り！半日モデルコース【神楽坂エリア】",
+    "slug": "kokunai/kanto/tokyo/news_ap_store_00003",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

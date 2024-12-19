@@ -1,0 +1,269 @@
+{
+  "$id": "ap_s_hirota001_002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "寒い冬にありがたいのが温泉です。奥入瀬渓流を望む「渓流露天風呂」は大自然に囲まれた優しい湯。八甲田山から湧き出る温泉に浸かりながら、清らかな川のせせらぎに耳を傾ければ、日常の疲れがゆるゆるとほどけてくるのが感じられます。川を渡る風で、火照った体を冷ますのも格別ですよ。12月～3月には「氷瀑の湯」として、モノクロームの世界を楽しめます。ライトアップされた幻想的な夜も素敵ですが、朝靄に包まれた早朝も風情があります。夜と朝で全く雰囲気が異なるので、ぜひ両方楽しんでくださいね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Gef2nNavLJAmOPojRsMX7lyEq44Z9u9JwxFqJQ4qI0w/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gef2nNavLJAmOPojRsMX7lyEq44Z9u9JwxFqJQ4qI0w/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gef2nNavLJAmOPojRsMX7lyEq44Z9u9JwxFqJQ4qI0w/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gef2nNavLJAmOPojRsMX7lyEq44Z9u9JwxFqJQ4qI0w/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gef2nNavLJAmOPojRsMX7lyEq44Z9u9JwxFqJQ4qI0w/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Gef2nNavLJAmOPojRsMX7lyEq44Z9u9JwxFqJQ4qI0w/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ライトアップされた、冬限定の「氷瀑の湯」",
+        "sectionTitle": "八甲田山から湧き出る温泉で、雪見風呂を満喫"
+      },
+      {
+        "description": "夕食では、青森の旬の味覚をたっぷりと味わってください。宿には2つの食事どころがありますが、家族連れへのおすすめはビュッフェレストラン「青森りんごキッチン」です。青森の伝統工芸品「BUNAKO」を使ったリンゴの形のランプなど、リンゴをモチーフにしたインテリアが素敵な、明るくてかわいらしいレストランです。できたての料理を提供するライブキッチンもあり、子どもたちにも大好評です。青森名物のせんべい汁や、あつあつアップルパイのほか、ホタテ貝やイクラなどの魚介類もおなかいっぱい食べられますよ。しっとりと落ち着いた旅なら、フレンチレストラン「Sonore（ソノール）」もいいですね。旬の食材をふんだんに使った料理を銘醸ワインとともに味わえますよ。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/jWTDuMLpygeAJk8fwifZit10ZLyfm2yz66dtRi65dRw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/jWTDuMLpygeAJk8fwifZit10ZLyfm2yz66dtRi65dRw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/jWTDuMLpygeAJk8fwifZit10ZLyfm2yz66dtRi65dRw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/jWTDuMLpygeAJk8fwifZit10ZLyfm2yz66dtRi65dRw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/jWTDuMLpygeAJk8fwifZit10ZLyfm2yz66dtRi65dRw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jWTDuMLpygeAJk8fwifZit10ZLyfm2yz66dtRi65dRw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "リンゴをモチーフにしたインテリアの店内に、青森らしい食材を使った料理が並ぶ",
+        "sectionTitle": "リンゴがモチーフのインテリアに包まれて楽しいビュッフェタイムを"
+      },
+      {
+        "description": "2棟の建物にお部屋は187室。和室や洋室など、多彩なお部屋が揃っていますが、おすすめは渓流側のお部屋です。渓流を見下ろす「渓流和室」からは雄大な自然を身近に感じられます。窓の外に広がる自然を楽しめるよう、室内の設えはシンプルにデザインされています。特別な旅なら、3室限定の「渓流和室 露天風呂テラス付」や、4室限定の「渓流ツイン 半露天風呂付」 はいかがでしょうか。奥入瀬渓流を望みながら、いつでも好きなだけ湯浴みが楽しめます。このほかにも、「和室」や、「ツイン」「スーペリア」などの洋室タイプもあります。旅のスタイルに合わせて選んでくださいね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/eOM9Xr7HahMh2CRlaPZKARsajR6KQxNhCkuT5mGhwBw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/eOM9Xr7HahMh2CRlaPZKARsajR6KQxNhCkuT5mGhwBw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/eOM9Xr7HahMh2CRlaPZKARsajR6KQxNhCkuT5mGhwBw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/eOM9Xr7HahMh2CRlaPZKARsajR6KQxNhCkuT5mGhwBw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/eOM9Xr7HahMh2CRlaPZKARsajR6KQxNhCkuT5mGhwBw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/eOM9Xr7HahMh2CRlaPZKARsajR6KQxNhCkuT5mGhwBw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "湯浴みしながら渓流の眺めを楽しめる「渓流ツイン 半露天風呂付」",
+        "sectionTitle": "おすすめは渓流側。川のせせらぎを感じながら過ごす"
+      },
+      {
+        "description": "宿には様々なアクティビティが用意されており、冬のおすすめは宿泊者なら誰でも参加できる「冬の奥入瀬渓流ツアー」です。ホテル専用バスで周辺のみどころをスタッフが案内してくれます。下車して滝の近くまで歩いて行くこともできるので、記念写真をたくさん撮影してくださいね。ツアーは1時間ほどで、毎日5本ほど設定されています。ホテルのHPから予約できるのでぜひチェックしてください。ほかにも、「氷瀑ライトアップツアー」や有料の「八甲田山樹氷シャトルバス」など、冬ならではのアクティビティが盛りだくさん。たっぷりと時間をとって、冬の青森を満喫してください。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai_hotel/htl/2120007/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/EB9askMQYEnkCzZMJyqYSSlEWVbAlnKvXnd5nlvzkDU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/EB9askMQYEnkCzZMJyqYSSlEWVbAlnKvXnd5nlvzkDU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/EB9askMQYEnkCzZMJyqYSSlEWVbAlnKvXnd5nlvzkDU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/EB9askMQYEnkCzZMJyqYSSlEWVbAlnKvXnd5nlvzkDU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/EB9askMQYEnkCzZMJyqYSSlEWVbAlnKvXnd5nlvzkDU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EB9askMQYEnkCzZMJyqYSSlEWVbAlnKvXnd5nlvzkDU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "迫力ある氷瀑は、冬だけのお楽しみ",
+        "sectionTitle": "多彩なツアーが旅を彩る。冬だけしか見られない絶景に感動"
+      },
+      {
+        "description": "----------------------------------------------※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-02-14",
+    "c_ap_HeroImage": {
+      "alternateText": "冬もおすすめ！ 奥入瀬渓流のほとりに立つ唯一のリゾートホテル【青森県　星野リゾート　奥入瀬渓流ホテル】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/YU9MjK9GByt-nwWC6cGGnHGsPf2HE47YuKEDHq8ri3o/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/YU9MjK9GByt-nwWC6cGGnHGsPf2HE47YuKEDHq8ri3o/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/YU9MjK9GByt-nwWC6cGGnHGsPf2HE47YuKEDHq8ri3o/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/YU9MjK9GByt-nwWC6cGGnHGsPf2HE47YuKEDHq8ri3o/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/YU9MjK9GByt-nwWC6cGGnHGsPf2HE47YuKEDHq8ri3o/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/YU9MjK9GByt-nwWC6cGGnHGsPf2HE47YuKEDHq8ri3o/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "木々に囲まれたリゾートホテル",
+    "c_ap_LinkArticleSectionTitle": "青森県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "この記事の投稿者にリモート相談予約をする",
+        "uRL": "https://link.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNF1DN-qJBbQVxd"
+      },
+      {
+        "linkText": "星野リゾート　奥入瀬渓流ホテル のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/2120007/plan/"
+      },
+      {
+        "linkText": "青森県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/aomori/"
+      },
+      {
+        "linkText": "青森旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/aomori/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea1": [
+      "東北全般",
+      "青森県"
+    ],
+    "c_ap_ShortDescription": "春の新緑、秋の紅葉と、季節によって移り変わる渓流美で人気の奥入瀬渓流。「星野リゾート　奥入瀬渓流ホテル」はその河畔に立つ唯一のリゾートホテルです。宿の自慢は、同じ季節でも刻一刻と表情を変える渓谷美を、あますことなく堪能できること。渓流沿いの客室やロビー、テラスなどから、日本屈指の渓流美を楽しめます。\nそして、周囲が雪と氷に包まれる冬も、かなりおすすめです。ふだんは見事な渓流美を見下ろす露天風呂からの眺めも、冬になると一変します。再現された「氷瀑」を眺めながら、雪見風呂をお楽しみください。\n夕食は、「青森」を堪能できる2つのレストランで。銘醸ワインも揃うコース仕立てのフレンチレストランと、ライブキッチンがお楽しみのビュッフェレストラン。好みに合わせてお選びくださいね。",
+    "c_ap_Tags": [
+      "奥入瀬",
+      "星野リゾート",
+      "氷瀑"
+    ],
+    "c_ap_Theme": [
+      "温泉・立ち寄り湯",
+      "リゾート",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "冬もおすすめ！ 奥入瀬渓流のほとりに立つ唯一のリゾートホテル【青森県　星野リゾート　奥入瀬渓流ホテル】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "春の新緑、秋の紅葉と、季節によって移り変わる渓流美で人気の奥入瀬渓流。「星野リゾート　奥入瀬渓流ホテル」はその河畔に立つ唯一のリゾートホテルです。宿の自慢は、同じ季節でも刻一刻と表情を変える渓谷美を、あますこ…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "冬もおすすめ！ 奥入瀬渓流のほとりに立つ唯一のリゾートホテル【青森県　星野リゾート　奥入瀬渓流ホテル】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_s_hirota001_002",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "東北全般, 青森県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "冬もおすすめ！ 奥入瀬渓流のほとりに立つ唯一のリゾートホテル【青森県　星野リゾート　奥入瀬渓流ホテル】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

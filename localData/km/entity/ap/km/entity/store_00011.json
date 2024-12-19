@@ -1,0 +1,804 @@
+{
+  "$id": "ap_store_00011",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB ルミネ新宿select店　松下／JTB中野マルイ店　原／ JTB荻窪北口店　竹内"
+    },
+    "c_ap_CTA1": {
+      "label": "JTB大江戸デスクホームページはこちら",
+      "link": "https://consultants.jtb.co.jp/top-tokyo",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "今回のコースのスタート地点は「代々木公園」。「都会で一番広い空が見える森林公園」とも称される都会のオアシスで、のんびりと散策を楽しみましょう。",
+        "image": {
+          "alternateText": "＜02_代々木公園-中央広場キャプション＞",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/aBmef-A4u_4S7nLa6NKhsJhrzXkyBLFg1Etz_mSFbjA/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/aBmef-A4u_4S7nLa6NKhsJhrzXkyBLFg1Etz_mSFbjA/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/aBmef-A4u_4S7nLa6NKhsJhrzXkyBLFg1Etz_mSFbjA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/aBmef-A4u_4S7nLa6NKhsJhrzXkyBLFg1Etz_mSFbjA/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/aBmef-A4u_4S7nLa6NKhsJhrzXkyBLFg1Etz_mSFbjA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aBmef-A4u_4S7nLa6NKhsJhrzXkyBLFg1Etz_mSFbjA/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「中央広場」から見える空の広さに驚き！　写真提供：（公財）東京都公園協会",
+        "sectionTitle": "「代々木公園」でリラックス（9：30）"
+      },
+      {
+        "description": "草地の広場である「中央広場」は、周囲に視界を遮るビルなどがなく開放感抜群。隣接する「噴水池」では、大小3基の噴水や水回廊と、それを取り囲む鮮やかな緑が織りなす美しい風景を見ることができます。園内には自転車の貸し出しを行う「サイクリングセンター」があり、広大かつ自然豊かな敷地内でのサイクリングを楽しむこともできますよ。",
+        "image": {
+          "alternateText": "＜03_代々木公園-噴水池キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/oEd93IukESuwU3ugVESA2CiCRF7AsYxhm0T4LOuFKNA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/oEd93IukESuwU3ugVESA2CiCRF7AsYxhm0T4LOuFKNA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/oEd93IukESuwU3ugVESA2CiCRF7AsYxhm0T4LOuFKNA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/oEd93IukESuwU3ugVESA2CiCRF7AsYxhm0T4LOuFKNA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/oEd93IukESuwU3ugVESA2CiCRF7AsYxhm0T4LOuFKNA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oEd93IukESuwU3ugVESA2CiCRF7AsYxhm0T4LOuFKNA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "高さ15～30メートルの噴水が設置されている「噴水池」　写真提供：（公財）東京都公園協会",
+        "sectionTitle": "「明治神宮」で心を清める（10：30）"
+      },
+      {
+        "description": "お次は「代々木公園」のお隣にある「明治神宮」をお参り。引き続き、都心とは思えない豊かな緑を満喫しながら、境内を散策。",
+        "image": {
+          "alternateText": "「オリンピック記念宿舎」",
+          "height": 1200,
+          "sourceUrl": "https://a.mktgcdn.com/p/2AkEvvsft1cwrJmbNRs1BF7xKx9RZCZcRVYEXsd1CwI/1600x1200.jpg",
+          "thumbnails": [
+            {
+              "height": 1200,
+              "url": "https://a.mktgcdn.com/p-sandbox/2AkEvvsft1cwrJmbNRs1BF7xKx9RZCZcRVYEXsd1CwI/1600x1200.jpg",
+              "width": 1600
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/2AkEvvsft1cwrJmbNRs1BF7xKx9RZCZcRVYEXsd1CwI/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/2AkEvvsft1cwrJmbNRs1BF7xKx9RZCZcRVYEXsd1CwI/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/2AkEvvsft1cwrJmbNRs1BF7xKx9RZCZcRVYEXsd1CwI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2AkEvvsft1cwrJmbNRs1BF7xKx9RZCZcRVYEXsd1CwI/1600x1200.jpg",
+          "width": 1600
+        },
+        "imageCaption": "昭和39年（1964）の「東京オリンピック」で選手村として使われた時の「オリンピック記念宿舎」も現存　写真提供：（公財）東京都公園協会",
+        "sectionTitle": "「伊勢丹新宿店」でランチ＆ショッピング（12：00）"
+      },
+      {
+        "description": "「明治神宮」は明治天皇と昭憲皇太后を御祭神として祭る神社。全国から寄せられた約10万本の献木を植栽し、「永遠の杜」を目指して造られた広大な人工林が特徴です。境内には、明治天皇が昭憲皇太后のために整備された「御苑」のほか、「明治神宮ミュージアム」などもあり見どころ満載。参拝を済ませたら、じっくりと見て回りたいですね。",
+        "image": {
+          "alternateText": "＜05_参道と大鳥居キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/N8Vp1F26aSQYwDHOX2V39VWJkQmtdTx6k7GoFjv92XU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/N8Vp1F26aSQYwDHOX2V39VWJkQmtdTx6k7GoFjv92XU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/N8Vp1F26aSQYwDHOX2V39VWJkQmtdTx6k7GoFjv92XU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/N8Vp1F26aSQYwDHOX2V39VWJkQmtdTx6k7GoFjv92XU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/N8Vp1F26aSQYwDHOX2V39VWJkQmtdTx6k7GoFjv92XU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/N8Vp1F26aSQYwDHOX2V39VWJkQmtdTx6k7GoFjv92XU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "木造の明神鳥居としては日本最大の「大鳥居」を通って「本殿」へ",
+        "sectionTitle": "「ルミネtheよしもと」で大笑い！（16：00）"
+      },
+      {
+        "description": "自然に触れ、身も心もリフレッシュしたところで、そろそろお昼時。地下鉄に乗り、新宿三丁目駅のすぐ近くにある「伊勢丹新宿店」でランチを味わいましょう。本館7階には、さまざまな飲食店が一堂に会するレストラン街「イートパラダイス」があり、ランチスポットには困りません。",
+        "image": {
+          "alternateText": "＜06_御社殿キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/8LBMKYdyMEZTWtpQUHLDNPj-TSLlA-0egbrVg2Ro918/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/8LBMKYdyMEZTWtpQUHLDNPj-TSLlA-0egbrVg2Ro918/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/8LBMKYdyMEZTWtpQUHLDNPj-TSLlA-0egbrVg2Ro918/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/8LBMKYdyMEZTWtpQUHLDNPj-TSLlA-0egbrVg2Ro918/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/8LBMKYdyMEZTWtpQUHLDNPj-TSLlA-0egbrVg2Ro918/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8LBMKYdyMEZTWtpQUHLDNPj-TSLlA-0egbrVg2Ro918/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「本殿」で心静かにお参りしましょう",
+        "sectionTitle": "「新宿野村ビル 展望スペース」で夜景を満喫（18：00）"
+      },
+      {
+        "description": "“王道”がテーマの今回は、本館4階にあるカフェ「ル サロン ジャック・ボリー」をセレクト。ミシュランガイドで三つ星を獲得したレストラン「ロオジエ」で、エグゼクティブ・シェフを務めた経験をもつジャック・ボリー氏がプロデュースを手掛けています。伝統的なフランス料理の技術と、新しい感性が融合した珠玉のメニューを堪能しましょう。",
+        "image": {
+          "alternateText": "＜07_清正井キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Qmn0SOrUiTTUj5zOsIloKn4fbDbVIgLoDSw7t7Tt0rY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Qmn0SOrUiTTUj5zOsIloKn4fbDbVIgLoDSw7t7Tt0rY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Qmn0SOrUiTTUj5zOsIloKn4fbDbVIgLoDSw7t7Tt0rY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Qmn0SOrUiTTUj5zOsIloKn4fbDbVIgLoDSw7t7Tt0rY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Qmn0SOrUiTTUj5zOsIloKn4fbDbVIgLoDSw7t7Tt0rY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Qmn0SOrUiTTUj5zOsIloKn4fbDbVIgLoDSw7t7Tt0rY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「御苑」内には加藤清正が堀ったといわれる「清正井（きよまさのいど）」があります",
+        "sectionTitle": "「ニューヨーク グリル」でディナー～「パーク ハイアット 東京」にステイ（19：00）"
+      },
+      {
+        "description": "せっかく「伊勢丹新宿店」に足を運んだら、ショッピングも楽しみたいところ。本館1階にある「ISETAN Seed -Daily index-」には、各フロアから選ばれた約100ブランド、約1300点のアイテムを取り揃えるセレクトショップ。グルメやコスメ、雑貨などバラエティに富んだ商品が並んでいます。お隣には、季節に合わせたファッショングッズが新宿店全館から集結している「ISETAN Leaf -Seasonal index-」もあり、お買い物のワクワク感を存分に満喫することができますよ。",
+        "image": {
+          "alternateText": "＜08_店舗_伊勢丹新宿本店（昼）202111キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/YqEmadfjsFCkQZ5CpLN6ULRPXa2E_P1mu0KI-VJ5dcw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/YqEmadfjsFCkQZ5CpLN6ULRPXa2E_P1mu0KI-VJ5dcw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/YqEmadfjsFCkQZ5CpLN6ULRPXa2E_P1mu0KI-VJ5dcw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/YqEmadfjsFCkQZ5CpLN6ULRPXa2E_P1mu0KI-VJ5dcw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/YqEmadfjsFCkQZ5CpLN6ULRPXa2E_P1mu0KI-VJ5dcw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YqEmadfjsFCkQZ5CpLN6ULRPXa2E_P1mu0KI-VJ5dcw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "新宿を代表する百貨店「伊勢丹新宿店」で昼食♪"
+      },
+      {
+        "description": "「伊勢丹 新宿店」から歩くこと約7分、次の目的地である「LUMINE2」の7階「ルミネtheよしもと」に到着！こちらの劇場は、関東にある吉本興業の常設劇場のなかで最大のキャパシティを誇っています。",
+        "image": {
+          "alternateText": "＜09_le_salon_jacquesborie_009キャプション＞",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/YDTp4pZcd4g_hm8n7OgKCflk7YG0aee9YmYNGSZ_2iI/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/YDTp4pZcd4g_hm8n7OgKCflk7YG0aee9YmYNGSZ_2iI/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/YDTp4pZcd4g_hm8n7OgKCflk7YG0aee9YmYNGSZ_2iI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/YDTp4pZcd4g_hm8n7OgKCflk7YG0aee9YmYNGSZ_2iI/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/YDTp4pZcd4g_hm8n7OgKCflk7YG0aee9YmYNGSZ_2iI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YDTp4pZcd4g_hm8n7OgKCflk7YG0aee9YmYNGSZ_2iI/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "洗練された空間のなかで食事が楽しめる「ル サロン ジャック・ボリー」"
+      },
+      {
+        "description": "「ルミネtheよしもと」では、連日お笑いライブが行われています。旅の予定を組む前に、公式ホームページの「スケジュール」で出演者や公演内容をチェックしておくのがベター。お目当ての芸人を、生で見られるチャンスですよ。人気と実力を兼ね備えた芸人たちが繰り広げる、爆笑必至のステージをお楽しみあれ。",
+        "image": {
+          "alternateText": "＜10_ 22.11月.周年.7800.昼キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/nqPQ589MQIP2TbHv2mta1Lpbxtz0LO-SZ4lMZj3SdmU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/nqPQ589MQIP2TbHv2mta1Lpbxtz0LO-SZ4lMZj3SdmU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/nqPQ589MQIP2TbHv2mta1Lpbxtz0LO-SZ4lMZj3SdmU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/nqPQ589MQIP2TbHv2mta1Lpbxtz0LO-SZ4lMZj3SdmU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/nqPQ589MQIP2TbHv2mta1Lpbxtz0LO-SZ4lMZj3SdmU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nqPQ589MQIP2TbHv2mta1Lpbxtz0LO-SZ4lMZj3SdmU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「10周年記念ランチコース “レジェ”」7800円（サービス料10％別途）※写真のメニューは一例。メニューについては公式ホームページで要確認"
+      },
+      {
+        "description": "公演終了後にグッズを購入したら、15分ほど歩いて「新宿野村ビル」へ。ビル50階にある入場無料の展望スペースは、知る人ぞ知るビュースポット。地上200メートルの高さから望む、東京都心のネオンきらめく夜景は圧巻の美しさです。",
+        "image": {
+          "alternateText": "＜11_店舗_伊勢丹新宿店_本館1階雑貨-イセタンシードリーフ画像キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/vYt5y7VMmWDxs1B3hiaq-JYLPyXy7U4ZbdTgBrc_-ls/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/vYt5y7VMmWDxs1B3hiaq-JYLPyXy7U4ZbdTgBrc_-ls/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/vYt5y7VMmWDxs1B3hiaq-JYLPyXy7U4ZbdTgBrc_-ls/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/vYt5y7VMmWDxs1B3hiaq-JYLPyXy7U4ZbdTgBrc_-ls/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/vYt5y7VMmWDxs1B3hiaq-JYLPyXy7U4ZbdTgBrc_-ls/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vYt5y7VMmWDxs1B3hiaq-JYLPyXy7U4ZbdTgBrc_-ls/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "本館1階で隣り合う「Seed」と「Leaf」でお買い物を楽しみましょう"
+      },
+      {
+        "description": "床に設置されているモニターでは、東西南北を見渡した映像や景色の解説を見ることができます。また、49階と50階の間にある階段の壁では、プロジェクションマッピング作品を楽しむことも。壁に飾られた絵に映像が投影され、ロマンチックな物語が額縁を飛び越えて描き出されます（映像投影は17～23時限定）。",
+        "image": {
+          "alternateText": "＜12_NEW舞台写真キャプション＞",
+          "height": 802,
+          "sourceUrl": "https://a.mktgcdn.com/p/RGZG0wSy3sr7ULaocJucRw1fu1rPnBDngG2fqIZS-HI/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "https://a.mktgcdn.com/p-sandbox/RGZG0wSy3sr7ULaocJucRw1fu1rPnBDngG2fqIZS-HI/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/RGZG0wSy3sr7ULaocJucRw1fu1rPnBDngG2fqIZS-HI/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/RGZG0wSy3sr7ULaocJucRw1fu1rPnBDngG2fqIZS-HI/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/RGZG0wSy3sr7ULaocJucRw1fu1rPnBDngG2fqIZS-HI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RGZG0wSy3sr7ULaocJucRw1fu1rPnBDngG2fqIZS-HI/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "どんなライブが見られるだろうとドキドキ"
+      },
+      {
+        "description": "「新宿野村ビル」から歩くこと約15分、「パーク ハイアット 東京」の最上階・52階に位置する「ニューヨーク グリル」が本日のディナースポット。一面の窓から、眩しいほどに輝く夜の大都会が望める非日常的な空間のなか、絶品料理を堪能しましょう。",
+        "image": {
+          "alternateText": "＜13_ルミネポスター2022_横キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/CEo_6MPcJ2I8pJhRxi4C0lP4oZk01SLlamMkp8_aaX4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/CEo_6MPcJ2I8pJhRxi4C0lP4oZk01SLlamMkp8_aaX4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/CEo_6MPcJ2I8pJhRxi4C0lP4oZk01SLlamMkp8_aaX4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/CEo_6MPcJ2I8pJhRxi4C0lP4oZk01SLlamMkp8_aaX4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/CEo_6MPcJ2I8pJhRxi4C0lP4oZk01SLlamMkp8_aaX4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/CEo_6MPcJ2I8pJhRxi4C0lP4oZk01SLlamMkp8_aaX4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "公演にはテレビでおなじみの人気芸人や話題沸騰中の若手芸人も多数登場します"
+      },
+      {
+        "description": "オープンキッチンからはシェフたちの活気が届き、自ずと期待が高まります。提供されるのは、世界中のグルメが集うニューヨークをテーマにしたグリル料理。産地にこだわった食材を、シンプルかつ独創的なメニューに仕上げています。セレクトしたワインと一緒に味わって、至福のひと時を過ごしましょう。",
+        "image": {
+          "alternateText": "＜14_エンタメショップキャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/g6RADKA1OzgVPWfsG-fS-MhPVRJ-WMWbRFZPr5vN45U/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/g6RADKA1OzgVPWfsG-fS-MhPVRJ-WMWbRFZPr5vN45U/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/g6RADKA1OzgVPWfsG-fS-MhPVRJ-WMWbRFZPr5vN45U/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/g6RADKA1OzgVPWfsG-fS-MhPVRJ-WMWbRFZPr5vN45U/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/g6RADKA1OzgVPWfsG-fS-MhPVRJ-WMWbRFZPr5vN45U/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/g6RADKA1OzgVPWfsG-fS-MhPVRJ-WMWbRFZPr5vN45U/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "劇場併設のエンタメショップは品揃え豊富で、“推し”の芸人グッズをチェックできます"
+      },
+      {
+        "description": "「ニューヨーク グリル」での食事を満喫したら、そのまま「パーク ハイアット 東京」に宿泊するのもおすすめです。客室はすべて「新宿パークタワー」の42階以上。眼前に広がる大パノラマを眺めながらくつろげば、一日の疲れもすっかり癒やされますよ。",
+        "image": {
+          "alternateText": "＜15_展望スペースキャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/dIngx80dv11Wx773BFJghP9LZOPleOUtvJA53Iwk0bA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/dIngx80dv11Wx773BFJghP9LZOPleOUtvJA53Iwk0bA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/dIngx80dv11Wx773BFJghP9LZOPleOUtvJA53Iwk0bA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/dIngx80dv11Wx773BFJghP9LZOPleOUtvJA53Iwk0bA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/dIngx80dv11Wx773BFJghP9LZOPleOUtvJA53Iwk0bA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dIngx80dv11Wx773BFJghP9LZOPleOUtvJA53Iwk0bA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "天井の鏡面に反射したネオンが幻想的な光景を作り出しています"
+      },
+      {
+        "description": "●スポット情報 【代々木公園（よよぎこうえん）】電話：03-3469-6081住所：東京都渋谷区代々木神園町、神南二丁目料金：散策自由時間：散策自由休み：散策自由 アクセス：東京メトロ千代田線代々木公園駅から徒歩3分【明治神宮（めいじじんぐう）】電話：03-3379-5511（社務所）住所：東京都渋谷区代々木神園町1-1料金：志納（「御苑」入場は御苑維持協力金500円）時間：日の出時に開門、日の入り時に閉門（月により異なる）休み：無休アクセス：東京メトロ千代田線・副都心線明治神宮前〈原宿〉駅からすぐ【伊勢丹新宿店（いせたんしんじゅくてん）】電話：03-3352-1111（大代表）住所：東京都新宿区新宿3-14-1時間：10～20時※レストラン街「イートパラダイス」は11～22時休み：不定休アクセス：各線新宿三丁目駅からすぐ【ル サロン ジャック・ボリー（る さろん じゃっく・ぼりー）】電話：03-5363-5688住所：東京都新宿区新宿3-14-1伊勢丹新宿店 本館4階時間：10～20時 休み：伊勢丹新宿店に準ずる【ルミネtheよしもと（るみねざよしもと）】電話：03-5339-1112住所：東京都新宿区新宿3-38-2 ルミネ新宿店2 7階料金：公演により異なる時間：日により異なる 休み：不定休（ルミネ新宿店2休館日を除く）アクセス：各線新宿駅からすぐ【新宿野村ビル 展望スペース（しんじゅくのむらびる てんぼうすぺーす）】電話：03-3348-1662住所：東京都新宿区西新宿1-26-2料金：入館無料時間：11時30分～23時30分休み：無休アクセス：東京メトロ丸ノ内線西新宿駅から徒歩4分【ニューヨーク グリル（にゅーよーく ぐりる）】電話：03-5323-3458住所：東京都新宿区西新宿3-7-1-2 パーク ハイアット 東京 52階時間：11時30分～14時30分LO、17時30分～22時LO休み：無休アクセス：JR新宿駅から徒歩12分【パーク ハイアット 東京（ぱーく はいあっと とうきょう）】電話：03-5322-1234住所：東京都新宿区西新宿3-7-1-2料金：大人2名1室1泊11万円〜（料金は変動あり）時間：チェックイン15時 / チェックアウト12時（プランによって異なる）休み：無休アクセス：JR新宿駅から徒歩12分",
+        "image": {
+          "alternateText": "＜16_img03-4キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/1jsdQjDVBABiJwU1NBIAcRFQUNSbCBKj-DkUQWH7hOc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/1jsdQjDVBABiJwU1NBIAcRFQUNSbCBKj-DkUQWH7hOc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/1jsdQjDVBABiJwU1NBIAcRFQUNSbCBKj-DkUQWH7hOc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/1jsdQjDVBABiJwU1NBIAcRFQUNSbCBKj-DkUQWH7hOc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/1jsdQjDVBABiJwU1NBIAcRFQUNSbCBKj-DkUQWH7hOc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1jsdQjDVBABiJwU1NBIAcRFQUNSbCBKj-DkUQWH7hOc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "投影される映像は春夏秋冬にあわせて演出が変化します"
+      },
+      {
+        "image": {
+          "alternateText": "＜17_サンクンガーデン写真キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/NV3VVlJ8r_u3kJYrc8MsYITPBXxRuDpoIcWXkyg7W7U/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/NV3VVlJ8r_u3kJYrc8MsYITPBXxRuDpoIcWXkyg7W7U/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/NV3VVlJ8r_u3kJYrc8MsYITPBXxRuDpoIcWXkyg7W7U/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/NV3VVlJ8r_u3kJYrc8MsYITPBXxRuDpoIcWXkyg7W7U/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/NV3VVlJ8r_u3kJYrc8MsYITPBXxRuDpoIcWXkyg7W7U/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NV3VVlJ8r_u3kJYrc8MsYITPBXxRuDpoIcWXkyg7W7U/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "地下1階レストランゾーンにある「サンクンガーデン」も憩いの場として人気です"
+      },
+      {
+        "image": {
+          "alternateText": "＜18_Park Hyatt-1818キャプション＞",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/5HAsonKqD0f0SspiUlaXsmA05_vrqcqZLHtFsENw7Uw/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/5HAsonKqD0f0SspiUlaXsmA05_vrqcqZLHtFsENw7Uw/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/5HAsonKqD0f0SspiUlaXsmA05_vrqcqZLHtFsENw7Uw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/5HAsonKqD0f0SspiUlaXsmA05_vrqcqZLHtFsENw7Uw/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/5HAsonKqD0f0SspiUlaXsmA05_vrqcqZLHtFsENw7Uw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5HAsonKqD0f0SspiUlaXsmA05_vrqcqZLHtFsENw7Uw/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "煌びやかな東京の夜景が楽しめる「ニューヨーク グリル」"
+      },
+      {
+        "image": {
+          "alternateText": "＜19_cut-10_0483キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/KitJGzHpcsZDZbx_4KxwffvZKaDndytkslyG3POem6U/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/KitJGzHpcsZDZbx_4KxwffvZKaDndytkslyG3POem6U/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/KitJGzHpcsZDZbx_4KxwffvZKaDndytkslyG3POem6U/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/KitJGzHpcsZDZbx_4KxwffvZKaDndytkslyG3POem6U/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/KitJGzHpcsZDZbx_4KxwffvZKaDndytkslyG3POem6U/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KitJGzHpcsZDZbx_4KxwffvZKaDndytkslyG3POem6U/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ディナーコース「Chef\u0027s Signature」1万9800円～（サービス料15%別途。年末年始等は料金の変動あり）のメインディッシュ※写真はイメージ。メニュー内容はほぼ毎月変更"
+      },
+      {
+        "image": {
+          "alternateText": "＜20_Park Hyatt-1826キャプション＞",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/XVFuyS0KhJY84zsxC4BhWX9Wna8fnFMeEYsWIExG3Kw/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/XVFuyS0KhJY84zsxC4BhWX9Wna8fnFMeEYsWIExG3Kw/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/XVFuyS0KhJY84zsxC4BhWX9Wna8fnFMeEYsWIExG3Kw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/XVFuyS0KhJY84zsxC4BhWX9Wna8fnFMeEYsWIExG3Kw/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/XVFuyS0KhJY84zsxC4BhWX9Wna8fnFMeEYsWIExG3Kw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/XVFuyS0KhJY84zsxC4BhWX9Wna8fnFMeEYsWIExG3Kw/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "アメリカ産ワインを中心に常時約220種類、2000本以上のラインナップが揃っています"
+      },
+      {
+        "image": {
+          "alternateText": "＜21_ParkHyattTokyo_Exteriorキャプション＞",
+          "height": 985,
+          "sourceUrl": "https://a.mktgcdn.com/p/3ghCeewsFDNBR0fyVvq4fX9Mk6tqPYKQ2bV-KfE3PRk/1478x985.png",
+          "thumbnails": [
+            {
+              "height": 985,
+              "url": "https://a.mktgcdn.com/p-sandbox/3ghCeewsFDNBR0fyVvq4fX9Mk6tqPYKQ2bV-KfE3PRk/1478x985.png",
+              "width": 1478
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/3ghCeewsFDNBR0fyVvq4fX9Mk6tqPYKQ2bV-KfE3PRk/619x413.png",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/3ghCeewsFDNBR0fyVvq4fX9Mk6tqPYKQ2bV-KfE3PRk/600x400.png",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/3ghCeewsFDNBR0fyVvq4fX9Mk6tqPYKQ2bV-KfE3PRk/196x131.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3ghCeewsFDNBR0fyVvq4fX9Mk6tqPYKQ2bV-KfE3PRk/1478x985.png",
+          "width": 1478
+        },
+        "imageCaption": "「パーク ハイアット 東京」で清々しい朝を迎えてみては？"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。※上記記事に記載の金額はすべて税込みです。また各施設の入場料金は大人料金を記載しています。※定休日は原則として年末年始・お盆休み・ゴールデンウィークを省略しています。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-12-14",
+    "c_ap_HeroImage": {
+      "alternateText": "＜01_御社殿写真 (空撮)キャプション＞",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/7ARgiFGsLYOs8nICSd4-dQDs_O90PnC1FcuAIbVVPYI/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/7ARgiFGsLYOs8nICSd4-dQDs_O90PnC1FcuAIbVVPYI/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/7ARgiFGsLYOs8nICSd4-dQDs_O90PnC1FcuAIbVVPYI/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/7ARgiFGsLYOs8nICSd4-dQDs_O90PnC1FcuAIbVVPYI/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/7ARgiFGsLYOs8nICSd4-dQDs_O90PnC1FcuAIbVVPYI/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/7ARgiFGsLYOs8nICSd4-dQDs_O90PnC1FcuAIbVVPYI/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "都会の真ん中に緑が広がる「明治神宮」",
+    "c_ap_LinkArticleSectionTitle": "その他JTB大江戸デスクコンサルタントの投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフによる記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "JTB店舗・専門店への相談はこちらから",
+        "uRL": "https://consultants.jtb.co.jp/top#locator"
+      },
+      {
+        "linkText": "日本の旬 東京・横浜 宿泊パック・ツアー・体験予約はこちら",
+        "uRL": "https://www.jtb.co.jp/nihonnoshun/tokyoyokohama/"
+      },
+      {
+        "linkText": "JTB ルミネ新宿select店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/j3990-0"
+      },
+      {
+        "linkText": "JTB中野マルイ店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/j3911-0"
+      },
+      {
+        "linkText": "JTB荻窪北口店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/t3371-0"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "東京都"
+    ],
+    "c_ap_ShortDescription": "「代々木公園」や「明治神宮」などの自然豊かなスポットの散策から、「伊勢丹 新宿店」でのショッピング、「ルミネtheよしもと」でのお笑いライブ、「新宿野村ビル 展望スペース」での夜景と、渋谷＆新宿の王道スポットをとことん満喫！　おすすめのランチ＆ディナースポット「ル サロン ジャック・ボリー」、「ニューヨーク グリル」の情報もご紹介します！\n\n＜投稿者コメント＞\n「東京旅の中でしか出会えない」都心ならではの魅力的な観光プランをご紹介します。\n 都会の自然を満喫出来るパワースポットを参拝後は、話題のグルメや都心の絶景をぜひお楽しみください。\n毎日新しい発見がある東京へ、小旅行に出掛けてみませんか。また違った東京を発見できるかもしれません。",
+    "c_ap_Tags": [
+      "大江戸プラン",
+      "代々木公園",
+      "王道コース",
+      "夜景",
+      "ホテルステイ"
+    ],
+    "c_ap_Theme": [
+      "母娘旅",
+      "夫婦旅",
+      "自然・山",
+      "寺社・教会",
+      "建築・史跡",
+      "動植物園・公園",
+      "街あるき",
+      "グルメ",
+      "ショッピング",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "【渋谷～新宿エリア】夜景もグルメもお笑いも！よくばり王道モデルコース♪",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "「代々木公園」や「明治神宮」などの自然豊かなスポットの散策から、「伊勢丹 新宿店」でのショッピング、「ルミネtheよしもと」でのお笑いライブ、「新宿野村ビル 展望スペース」での夜景と、渋谷＆新宿の王道スポット…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "【渋谷～新宿エリア】夜景もグルメもお笑いも！よくばり王道モデルコース♪ | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_store_00011",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "東京都",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "【渋谷～新宿エリア】夜景もグルメもお笑いも！よくばり王道モデルコース♪",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

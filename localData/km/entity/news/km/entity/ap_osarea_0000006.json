@@ -1,0 +1,404 @@
+{
+  "$id": "news_ap_osarea_0000006",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 加川香菜子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "ハワイ版お弁当！テイクアウトできる お手軽プレートランチ【ハワイ ホノルル】",
+      "height": 1920,
+      "sourceUrl": "https://a.mktgcdn.com/p/07yKfj-T2kKHu1VpAcz0_idr5qOi7gHXXBlBKC8qe-s/2880x1920.jpg",
+      "thumbnails": [
+        {
+          "height": 1920,
+          "url": "https://a.mktgcdn.com/p-sandbox/07yKfj-T2kKHu1VpAcz0_idr5qOi7gHXXBlBKC8qe-s/2880x1920.jpg",
+          "width": 2880
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/07yKfj-T2kKHu1VpAcz0_idr5qOi7gHXXBlBKC8qe-s/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/07yKfj-T2kKHu1VpAcz0_idr5qOi7gHXXBlBKC8qe-s/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/07yKfj-T2kKHu1VpAcz0_idr5qOi7gHXXBlBKC8qe-s/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/07yKfj-T2kKHu1VpAcz0_idr5qOi7gHXXBlBKC8qe-s/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/07yKfj-T2kKHu1VpAcz0_idr5qOi7gHXXBlBKC8qe-s/2880x1920.jpg",
+      "width": 2880
+    },
+    "c_ap_HeroImageCaption": "ステーキ・シャック",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ハワイ旅行をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hawaii/"
+      },
+      {
+        "linkText": "ハワイの現地ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aHWI/"
+      },
+      {
+        "linkText": "ハワイのツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dHNL"
+      },
+      {
+        "linkText": "ハワイのホテルをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/"
+      },
+      {
+        "linkText": "ハワイの航空券をみる",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/hawaii/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "ご飯とおかずがひとつの盛り合わせになったプレートランチは、ハワイならではのグルメです。お肉にお魚と種類も豊富なので、選ぶのも楽しいですね。持ち帰り用のボックスで提供されることが多いですが、実はイートインもできるお店もあります。（写真：ステーキ・シャック）",
+    "c_ap_Tags": [
+      "お手軽ランチ",
+      "テイクアウト",
+      "イートイン",
+      "ホノルル",
+      "ワイキキ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ",
+      "ウエディング",
+      "ハネムーン",
+      "記念旅行",
+      "グルメ",
+      "ご当地グルメ",
+      "リゾート"
+    ],
+    "c_ap_Title": "ハワイ版お弁当！テイクアウトできる お手軽プレートランチ【ハワイ ホノルル】",
+    "c_linkedArea3News": [
+      "hawaii"
+    ],
+    "c_metaDescription": "ハワイならではのグルメ「プレートランチ」は、ハワイ版のお弁当！持ち帰り用のボックスでテイクアウトが多いですが、実はイートインもできるお店もあります。ホノルルのワイキキを中心にお店をピックアップしました！",
+    "c_metaTitle": "ハワイ版お弁当！テイクアウトできる お手軽プレートランチ【ハワイ ホノルル】",
+    "c_news_CTAs": [
+      {
+        "label": "ハワイのホテルをみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/",
+        "linkType": "URL"
+      },
+      {
+        "label": "ハワイの現地ツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aHWI/",
+        "linkType": "URL"
+      },
+      {
+        "label": "ハワイ旅行をみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/hawaii/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "有名店で楽しもう！極上ステーキ4選をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000007",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "肉厚ジューシーなバーガーにかぶりつこう！ベストバーガー5選をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000003",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "ハワイの定番！おすすめロコモコをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000008",
+          "linkType": "URL"
+        },
+        "description": "本格派ステーキをお手頃なプレートでいただくなら、ワイキキのこちらのお店へ。おすすめのメニューは毎日店内でカットしているNYステーキとモチコチキンとのコンビネーションプレート。ステーキソースもお店自家製のオリジナルソースです。醤油ベースのさっぱり味のステーキソースが絶妙ですよ。半オープンエアなフードコート内にあるので、一人でもグループでも利用しやすいです。",
+        "image": {
+          "alternateText": "ステーキ\u0026モチコチキン$21.75",
+          "height": 853,
+          "sourceUrl": "https://a.mktgcdn.com/p/KraI6M6V7rE1VGV0h1_SWoByMMo5cn32noMspgHldJw/1280x853.jpg",
+          "thumbnails": [
+            {
+              "height": 853,
+              "url": "https://a.mktgcdn.com/p-sandbox/KraI6M6V7rE1VGV0h1_SWoByMMo5cn32noMspgHldJw/1280x853.jpg",
+              "width": 1280
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/KraI6M6V7rE1VGV0h1_SWoByMMo5cn32noMspgHldJw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/KraI6M6V7rE1VGV0h1_SWoByMMo5cn32noMspgHldJw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/KraI6M6V7rE1VGV0h1_SWoByMMo5cn32noMspgHldJw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KraI6M6V7rE1VGV0h1_SWoByMMo5cn32noMspgHldJw/1280x853.jpg",
+          "width": 1280
+        },
+        "imageCaption": "ステーキ\u0026モチコチキン$21.75",
+        "infoBlockLabel": "Champion’s Steak \u0026 Seafoodの情報",
+        "infoBlockText": "住所：2201 Kalakaua Ave.ロイヤル・ハワイアン・センターB館2F　パイナ・ラナイ・フードコート内営業時間：10～21時 定休日：なし",
+        "sectionTitle": "チャンピオンズ・ステーキ＆シーフード　（Champion’s Steak \u0026 Seafood）"
+      },
+      {
+        "description": "のんびりビーチを眺めながらがっつりステーキが食べたい！というときにぴったりなのが、ワイキキのビーチ沿いに立つこちらのお店。オーダーを受けてから好みの焼き加減に仕上げるステーキや、こだわりのタレに漬け込んだチキンプレートなど、メニューはどれもシンプルでおいしさが際立ちます。自家製ソースと相性抜群のステーキを、海を眺めながらガブリといただきましょう。",
+        "image": {
+          "alternateText": "ステーキプレート $17.85(10oz)",
+          "height": 2380,
+          "sourceUrl": "https://a.mktgcdn.com/p/isAZAHRNp0CgKqzuPeS0kGFmMvqWY9gVXpl19LsfmVA/1602x2380.jpg",
+          "thumbnails": [
+            {
+              "height": 2380,
+              "url": "https://a.mktgcdn.com/p-sandbox/isAZAHRNp0CgKqzuPeS0kGFmMvqWY9gVXpl19LsfmVA/1602x2380.jpg",
+              "width": 1602
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/isAZAHRNp0CgKqzuPeS0kGFmMvqWY9gVXpl19LsfmVA/1279x1900.jpg",
+              "width": 1279
+            },
+            {
+              "height": 920,
+              "url": "https://a.mktgcdn.com/p-sandbox/isAZAHRNp0CgKqzuPeS0kGFmMvqWY9gVXpl19LsfmVA/619x920.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/isAZAHRNp0CgKqzuPeS0kGFmMvqWY9gVXpl19LsfmVA/303x450.jpg",
+              "width": 303
+            },
+            {
+              "height": 291,
+              "url": "https://a.mktgcdn.com/p-sandbox/isAZAHRNp0CgKqzuPeS0kGFmMvqWY9gVXpl19LsfmVA/196x291.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/isAZAHRNp0CgKqzuPeS0kGFmMvqWY9gVXpl19LsfmVA/1602x2380.jpg",
+          "width": 1602
+        },
+        "imageCaption": "ステーキプレート $17.85(10oz)",
+        "infoBlockLabel": "Steak Shackの情報",
+        "infoBlockText": "住所：2161 Kalia Rd.　ワイキキ・ショア byアウトリガー内営業時間：10時30分～19時30分（金～日曜は～19時45分）定休日：なし",
+        "sectionTitle": "ステーキ・シャック　（Steak Shack）"
+      },
+      {
+        "description": "日本のハワイ情報番組で司会を務めていたサムさんのお店で、ワイキキにあります。エビやビーフ、チキン、アヒ（マグロ）、ヴィーガンの豆腐といった食材を、数種類あるオリジナルソースから好みの味付けを選ぶことができます。人気メニューは、ピリ辛ソースがクセになる「スパイシーガーリックシュリンプ」や、レモンバター醤油味の「エビの祭り風ソース」。エビは丁寧に殻が剥いてあるので食べやすいです。",
+        "image": {
+          "alternateText": "スパイシーガーリックシュリンプ $20",
+          "height": 1844,
+          "sourceUrl": "https://a.mktgcdn.com/p/oF6t-9hSV0Z4pI-oluS_2iOy3l1Sk3lxI5deNf3sjBM/1513x1844.jpg",
+          "thumbnails": [
+            {
+              "height": 1844,
+              "url": "https://a.mktgcdn.com/p-sandbox/oF6t-9hSV0Z4pI-oluS_2iOy3l1Sk3lxI5deNf3sjBM/1513x1844.jpg",
+              "width": 1513
+            },
+            {
+              "height": 754,
+              "url": "https://a.mktgcdn.com/p-sandbox/oF6t-9hSV0Z4pI-oluS_2iOy3l1Sk3lxI5deNf3sjBM/619x754.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/oF6t-9hSV0Z4pI-oluS_2iOy3l1Sk3lxI5deNf3sjBM/369x450.jpg",
+              "width": 369
+            },
+            {
+              "height": 239,
+              "url": "https://a.mktgcdn.com/p-sandbox/oF6t-9hSV0Z4pI-oluS_2iOy3l1Sk3lxI5deNf3sjBM/196x239.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oF6t-9hSV0Z4pI-oluS_2iOy3l1Sk3lxI5deNf3sjBM/1513x1844.jpg",
+          "width": 1513
+        },
+        "imageCaption": "スパイシーガーリックシュリンプ $20",
+        "infoBlockLabel": "Sam’s Kitchenの情報",
+        "infoBlockText": "住所：353 Royal Hawaiian Ave. 営業時間：10時～翌1時 定休日：なし",
+        "sectionTitle": "サムズ・キッチン（Sam’s Kitchen）"
+      },
+      {
+        "description": "シーフード自慢のプレートランチなら、ニミッツにあるレストランへ。このお店の特徴はなんといっても、隣が魚市場であること。そのため、新鮮な魚介を楽しめます。夜はテーブルサービスですが、昼はセルフサービスで、オリジナリティあふれる魚系プレートランチを提供しています。たっぷりのカニ肉をコロッケにしてグリーンサラダの上にのせた「クラブケーキ・サラダ」などが人気メニューです。",
+        "image": {
+          "alternateText": "クラブケーキ・サラダ$17.50（ディナー時は$20）",
+          "height": 421,
+          "sourceUrl": "https://a.mktgcdn.com/p/8Yzxl7Xx34msYC24nKz58dxSYtcH0yxN2KyzSNF_p5Q/421x421.jpg",
+          "thumbnails": [
+            {
+              "height": 421,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y5sEiddSLqdg9Cyt7jNozurRv7I-V3vKh1jqClS1WXo/421x421.jpg",
+              "width": 421
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y5sEiddSLqdg9Cyt7jNozurRv7I-V3vKh1jqClS1WXo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Y5sEiddSLqdg9Cyt7jNozurRv7I-V3vKh1jqClS1WXo/421x421.jpg",
+          "width": 421
+        },
+        "imageCaption": "クラブケーキ・サラダ$17.50（ディナー時は$20）",
+        "infoBlockLabel": "Nico\u0027s Pier 38の情報",
+        "infoBlockText": "住所：1129 N.Nimitz Hwy.営業時間：6時30分～21時（日曜は10時～）定休日：なし URL：nicospier38.com",
+        "sectionTitle": "ニコス・ピア38　（Nico\u0027s Pier 38）"
+      },
+      {
+        "description": "日本人シェフが腕を振るい、どれもおいしいと評判のプレートランチ店、パイオニア・サルーン。その2号店が、ウォールアートで知られるカカアコの商業施設、ソルト・アット・アワ・カカアコ内にあります。ロコにも大評判で、店内は混み合っていることが多いため、テイクアウトがおすすめです。開放的なテラス席もありますよ。香ばしくてジューシーなチキンの唐揚げがメインの「モチコ・チキン」は、＋$1でシソワカメご飯に変更もできます。",
+        "image": {
+          "alternateText": "モチコ・チキン$14",
+          "height": 639,
+          "sourceUrl": "https://a.mktgcdn.com/p/eFJerGvMCKv3K1i_7b8WHw43rhq7qG1iAHmdXxHY-Qg/900x639.jpg",
+          "thumbnails": [
+            {
+              "height": 639,
+              "url": "https://a.mktgcdn.com/p-sandbox/eFJerGvMCKv3K1i_7b8WHw43rhq7qG1iAHmdXxHY-Qg/900x639.jpg",
+              "width": 900
+            },
+            {
+              "height": 439,
+              "url": "https://a.mktgcdn.com/p-sandbox/eFJerGvMCKv3K1i_7b8WHw43rhq7qG1iAHmdXxHY-Qg/619x439.jpg",
+              "width": 619
+            },
+            {
+              "height": 426,
+              "url": "https://a.mktgcdn.com/p-sandbox/eFJerGvMCKv3K1i_7b8WHw43rhq7qG1iAHmdXxHY-Qg/600x426.jpg",
+              "width": 600
+            },
+            {
+              "height": 139,
+              "url": "https://a.mktgcdn.com/p-sandbox/eFJerGvMCKv3K1i_7b8WHw43rhq7qG1iAHmdXxHY-Qg/196x139.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/eFJerGvMCKv3K1i_7b8WHw43rhq7qG1iAHmdXxHY-Qg/900x639.jpg",
+          "width": 900
+        },
+        "imageCaption": "モチコ・チキン$14",
+        "infoBlockLabel": "Pioneer Saloon Kakaakoの情報",
+        "infoBlockText": "住所：675 Auahi St. ソルト・アット・アワ・カカアコ内営業時間：11～20時 定休日：日曜",
+        "sectionTitle": "パイオニア・サルーン カカアコ　（Pioneer Saloon Kakaako）"
+      },
+      {
+        "description": "オアフ島随一のグルメエリア・カパフルの中でも、ロコが集まる老舗店といえばこちら。紙皿で提供されるプレートランチは、どのメニューもずっしりと感じるほどの量。名物はグレービーソースが絶品の「ロコモコ」$10.50です。少しスパイスを利かせたグレービーソースがやみつきになるおいしさです。ほかに「ミックスプレート」や「ボーンレスチキングレービープレート」も人気。ボリューミーなのでシェアして食べてもいいですね。",
+        "image": {
+          "alternateText": "ボーンレスチキングレービープレート$11.50(左上)、ミックスプレート$12.50(右下)",
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/tB0znbazH_xHZOU7_5VeTh4xgZC86GA6__EIf91BkoM/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/tB0znbazH_xHZOU7_5VeTh4xgZC86GA6__EIf91BkoM/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/tB0znbazH_xHZOU7_5VeTh4xgZC86GA6__EIf91BkoM/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/tB0znbazH_xHZOU7_5VeTh4xgZC86GA6__EIf91BkoM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/tB0znbazH_xHZOU7_5VeTh4xgZC86GA6__EIf91BkoM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/tB0znbazH_xHZOU7_5VeTh4xgZC86GA6__EIf91BkoM/1200x799.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ボーンレスチキングレービープレート$11.50(左上)、ミックスプレート$12.50(右下)",
+        "infoBlockLabel": "Rainbow drive-inの情報",
+        "infoBlockText": "住所：3308 Kanaina Ave.営業時間：7～21時定休日：なし",
+        "sectionTitle": "レインボー・ドライブイン（Rainbow drive-in）"
+      },
+      {
+        "description": "チャイナタウンでポキ丼と刺身の店を経営する日本人兄弟が、夕方からワイキキで営業するテイクアウトのポキ専門店。開店前には毎日行列ができる人気店です。冷凍ものは使用しないという、ハイグレードな味が人気の秘密。「チラシ＆スパイシーポケ コンボ」は、人気の2種類を合わせ盛りにしたメニュー。鮮度にこだわる刺身が絶品です。",
+        "image": {
+          "alternateText": "チラシ＆スパイシーポケ コンボ$18.95～",
+          "height": 242,
+          "sourceUrl": "https://a.mktgcdn.com/p/ecETME6QYL7_Qw8TjoWeJp--EWOgO-70CiK8SrUCvvU/351x242.jpg",
+          "thumbnails": [
+            {
+              "height": 242,
+              "url": "https://a.mktgcdn.com/p-sandbox/ecETME6QYL7_Qw8TjoWeJp--EWOgO-70CiK8SrUCvvU/351x242.jpg",
+              "width": 351
+            },
+            {
+              "height": 135,
+              "url": "https://a.mktgcdn.com/p-sandbox/ecETME6QYL7_Qw8TjoWeJp--EWOgO-70CiK8SrUCvvU/196x135.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ecETME6QYL7_Qw8TjoWeJp--EWOgO-70CiK8SrUCvvU/351x242.jpg",
+          "width": 351
+        },
+        "imageCaption": "チラシ＆スパイシーポケ コンボ$18.95～",
+        "infoBlockLabel": "Maguro Brothers Waikikiの情報",
+        "infoBlockText": "住所：2250 Kalakaua Ave, ワイキキ・ショッピングプラザB1階, Honolulu, HI 96815営業時間：17～20時定休日：日曜",
+        "sectionTitle": "マグロブラザース（ワイキキ店）（Maguro Brothers Waikiki）"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000001",
+      "news_ap_osarea_0000002",
+      "news_ap_osarea_0000003",
+      "news_ap_osarea_0000004",
+      "news_ap_osarea_0000005",
+      "news_ap_osarea_0000007",
+      "news_ap_osarea_0000008",
+      "news_ap_osarea_0000009",
+      "news_ap_osarea_0000010",
+      "news_ap_osarea_0000011",
+      "news_ap_osarea_0000012",
+      "news_ap_osarea_0000013",
+      "news_ap_osarea_0000014",
+      "news_ap_osarea_0000015",
+      "news_ap_osarea_0000016",
+      "news_ap_osarea_0000017",
+      "news_ap_osarea_0000018",
+      "news_ap_osarea_0000019"
+    ],
+    "c_news_FeaturedArticlesTitle": "ハワイのその他の投稿記事",
+    "c_news_PublicationDate": "2023-05-24",
+    "c_news_UpdateDate": "2024-08-15",
+    "c_news_ViewCount": "551",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "551",
+    "c_news_ViewCountNum": "551",
+    "c_news_ViewCountNumForSorting": "61",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000006",
+    "name": "ハワイ版お弁当！テイクアウトできる お手軽プレートランチ【ハワイ ホノルル】",
+    "slug": "kaigai/beach_resort/hawaii/news_ap_osarea_0000006",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "$id": "ap_chiki_100118",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター　群馬担当　牧"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "とにかく豊富なアクティビティが魅力のホテル。どんな遊びができるか紹介しましょう。まず、屋内施設で人気なのが、プ-ル＆温泉を楽しめるリラクセーション施設「テルメテルメ」です。屋内プールや夏季限定の屋外プール、運動浴プールなどを備えた「プールゾーン」と、温泉やミストサウナなどがある「温泉・サウナゾーン」があり、プールと温泉を存分に楽しめちゃいます。さらに、ボウリング場やビリヤード、卓球などのインドアアクティビティもあるので、雨の日でも安心です。屋外に用意されているのは、テニスコートやパターゴルフ、アイアンゴルフ、アーチェリーなど。冬季限定のレンタルソリやレンタルスノーシュー、さらに温泉街散策ガイドや自然ガイドなどのプログラムも。宿泊者限定の「遊び放題リゾートパスポート」があれば、これらが全部無料で楽しめるんです（一部有料）。一部、利用制限があるものもありますが、もうこれだけで1日じゃ遊び切れないことがおわかりいただけるかと思います。",
+        "image": {
+          "alternateText": "テルメテルメの温水プール",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/AJerMVg5bqWyKajsvBljW-m04AcqTmuY2GRMStOTIzI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/AJerMVg5bqWyKajsvBljW-m04AcqTmuY2GRMStOTIzI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/AJerMVg5bqWyKajsvBljW-m04AcqTmuY2GRMStOTIzI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/AJerMVg5bqWyKajsvBljW-m04AcqTmuY2GRMStOTIzI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/AJerMVg5bqWyKajsvBljW-m04AcqTmuY2GRMStOTIzI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AJerMVg5bqWyKajsvBljW-m04AcqTmuY2GRMStOTIzI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "テルメテルメの温水プール",
+        "sectionTitle": "1日じゃ足りない！　遊び放題リゾートパスポートで隅々まで遊び尽くす"
+      },
+      {
+        "description": "お部屋は、タワー館とウィング館、シャトー館の3棟にわかれています。さらに別棟のログハウスもあります。ふたりの旅に最適なのはシンプルなタワー館の洋室。3名以上のファミリーなら、ちょっと広めのウィング館の和洋室やシャトー館のジャグジースーペリアがおすすめです。ホテル本館からは離れた別棟のログハウスも、広いお部屋でのんびり過ごせていいですね。旅のスタイルに合わせてお好みのお部屋を選んでください。",
+        "image": {
+          "alternateText": "ファミリーにおすすめのウイング館のお部屋（一例）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/vw0jdm3IK6Ruz7MEDhfQdueeHW8GrYgC2xVhlY_F8pY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/vw0jdm3IK6Ruz7MEDhfQdueeHW8GrYgC2xVhlY_F8pY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/vw0jdm3IK6Ruz7MEDhfQdueeHW8GrYgC2xVhlY_F8pY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/vw0jdm3IK6Ruz7MEDhfQdueeHW8GrYgC2xVhlY_F8pY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/vw0jdm3IK6Ruz7MEDhfQdueeHW8GrYgC2xVhlY_F8pY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vw0jdm3IK6Ruz7MEDhfQdueeHW8GrYgC2xVhlY_F8pY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ファミリーにおすすめのウイング館のお部屋（一例）",
+        "sectionTitle": "お部屋のタイプも豊富。目的に合わせて自在に選べます"
+      },
+      {
+        "description": "温泉は、本館地下1階にある「温泉大浴場」と「露天風呂」へ。他にも「テルメテルメ」内の「テルメテルメ浴場」と「わたの湯」があり、ホテル内で3湯の湯めぐりが叶います。大浴場や露天風呂に引いているのは、草津温泉のシンボル「湯畑」の源泉です。この湯を引いているのが老舗の証。伝統の草津の湯をたっぷりと堪能してくださいね。テルメテルメ浴場の湯は、草津源泉の中でも湯量が多く比較的刺激度の高い「万代鉱源泉」から。わたの湯は、乳白色で肌あたりが柔らかい、草津温泉の中でも希少な源泉です。3つの温泉に浸かってみて、肌あたりなどを比べてみてください。",
+        "image": {
+          "alternateText": "湯畑の湯を引いた露天風呂",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/ILDNmVGW_F9eTjAMBB6bdSR0iiCclxySeo3upF1e3uE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/ILDNmVGW_F9eTjAMBB6bdSR0iiCclxySeo3upF1e3uE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ILDNmVGW_F9eTjAMBB6bdSR0iiCclxySeo3upF1e3uE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ILDNmVGW_F9eTjAMBB6bdSR0iiCclxySeo3upF1e3uE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ILDNmVGW_F9eTjAMBB6bdSR0iiCclxySeo3upF1e3uE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ILDNmVGW_F9eTjAMBB6bdSR0iiCclxySeo3upF1e3uE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "湯畑の湯を引いた露天風呂",
+        "sectionTitle": "3つの源泉から引く草津の湯。「湯畑」の湯を引いているのが老舗の証！"
+      },
+      {
+        "description": "夕食は地元食材を取り入れたオリジナルメニューを、4つの食事処で楽しめます。なかでも2つのレストランで提供されるブッフェは、子どもたちに大人気です。「ガーデンカフェ パティオ」「ブッフェダイニング 白根」では、季節折々、旬の食材や地元食材をふんだんに使用したバラエティ豊かな食をブッフェスタイルで楽しめます。「メインダイニング ホリホック」は、本格派フランス料理のレストラン。格式と伝統を受け継いだ、彩り豊かな料理をワインとともに味わえます。和食なら「和食処　葵・浅間宴会場」へ。和の伝統を感じながら季節感あふれるひと皿ひと皿を楽しんでください。温泉に料理、そして多彩なアクティビティを存分に楽しめる森の温泉リゾートホテル。家族の誰もが笑顔になれる、そんな魅力的なホテルをぜひ訪れてみてください。",
+        "image": {
+          "alternateText": "夕食は好きなだけ食べられるブッフェが大人気（イメージ）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/baRkN6U01TeKtRVFON4tIoVgFHlNci6ZBIDY0lSxrTo/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/baRkN6U01TeKtRVFON4tIoVgFHlNci6ZBIDY0lSxrTo/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/baRkN6U01TeKtRVFON4tIoVgFHlNci6ZBIDY0lSxrTo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/baRkN6U01TeKtRVFON4tIoVgFHlNci6ZBIDY0lSxrTo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/baRkN6U01TeKtRVFON4tIoVgFHlNci6ZBIDY0lSxrTo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/baRkN6U01TeKtRVFON4tIoVgFHlNci6ZBIDY0lSxrTo/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "夕食は好きなだけ食べられるブッフェが大人気（イメージ）",
+        "sectionTitle": "ブッフェに和洋のコース。旬の食材をさまざまなスタイルで"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-12-31",
+    "c_ap_HeroImage": {
+      "alternateText": "広大な自然に囲まれた森の温泉リゾート",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/n-HsnzmSn6Pi5gaWFebZ5388N0y3CyV-LU7VQ_0YRt0/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/n-HsnzmSn6Pi5gaWFebZ5388N0y3CyV-LU7VQ_0YRt0/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/n-HsnzmSn6Pi5gaWFebZ5388N0y3CyV-LU7VQ_0YRt0/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/n-HsnzmSn6Pi5gaWFebZ5388N0y3CyV-LU7VQ_0YRt0/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/n-HsnzmSn6Pi5gaWFebZ5388N0y3CyV-LU7VQ_0YRt0/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/n-HsnzmSn6Pi5gaWFebZ5388N0y3CyV-LU7VQ_0YRt0/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "広大な自然に囲まれた森の温泉リゾート",
+    "c_ap_LinkArticleSectionTitle": "他の群馬県の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "草津温泉ホテルヴィレッジの宿泊プラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/3237001/plan/"
+      },
+      {
+        "linkText": "群馬旅行のツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/gunma/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "群馬県"
+    ],
+    "c_ap_ShortDescription": "歴史ある温泉地として知られる草津温泉。その中心地である湯畑から徒歩20分ほどの森の中に「草津温泉ホテルヴィレッジ」はあります。3棟の客室棟や別棟のログハウス、プール＆温泉リラクセーション施設「テルメテルメ」などを備えた一大温泉リゾートで、温泉だけでなく多彩なアクティビティを楽しめるのが大きな魅力。草津温泉の湯に癒やされながら思い切り遊べるので、ファミリーやカップルなどに大人気なんです。今回は、その魅力をたっぷりと紹介します。",
+    "c_ap_Tags": [
+      "温泉リゾート",
+      "草津温泉",
+      "アクティビティ",
+      "リラクゼーション"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "母娘旅",
+      "夫婦旅",
+      "グループ",
+      "テーマパーク",
+      "スポーツ観戦",
+      "温泉・立ち寄り湯",
+      "リゾート",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "充実のアミューズメント施設で、草津温泉を遊び尽くそう！\n【群馬　草津温泉ホテルヴィレッジ】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "歴史ある温泉地として知られる草津温泉。その中心地である湯畑から徒歩20分ほどの森の中に「草津温泉ホテルヴィレッジ」はあります。3棟の客室棟や別棟のログハウス、プール＆温泉リラクセーション施設「テルメテルメ」な…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "充実のアミューズメント施設で、草津温泉を遊び尽くそう！\n【群馬　草津温泉ホテルヴィレッジ】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100118",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "群馬県",
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "充実のアミューズメント施設で、草津温泉を遊び尽くそう！ 【群馬　草津温泉ホテルヴィレッジ】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

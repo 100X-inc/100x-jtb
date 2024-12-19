@@ -1,0 +1,362 @@
+{
+  "$id": "ap_osarea_0000063",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 加川香菜子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "最初にご紹介するのは、バルセロナ屈指の人気バル「カル・ペップ」。カリスマシェフ、ペップ氏の料理を味わうために世界中からお客さんが訪れます。狭い路地が網目のように伸びるボルン地区に位置しながら、このお店は広場に面しているため比較的わかりやすい場所にあります。",
+        "image": {
+          "alternateText": "料理とともにカウンター席でバルならではの活気も味わいたい",
+          "height": 983,
+          "sourceUrl": "https://a.mktgcdn.com/p/qmPhZxa0WNBDVqVhBTfiSpLMtI0ye1_GMWQDDs5k5z8/1472x983.jpg",
+          "thumbnails": [
+            {
+              "height": 983,
+              "url": "https://a.mktgcdn.com/p-sandbox/DZ1NKzY7tPhHLsxgDeg847Y6aihONLNWltYh-3y1w5Y/1472x983.jpg",
+              "width": 1472
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/DZ1NKzY7tPhHLsxgDeg847Y6aihONLNWltYh-3y1w5Y/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/DZ1NKzY7tPhHLsxgDeg847Y6aihONLNWltYh-3y1w5Y/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/DZ1NKzY7tPhHLsxgDeg847Y6aihONLNWltYh-3y1w5Y/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DZ1NKzY7tPhHLsxgDeg847Y6aihONLNWltYh-3y1w5Y/1472x983.jpg",
+          "width": 1472
+        },
+        "imageCaption": "料理とともにカウンター席でバルならではの活気も味わいたい",
+        "sectionTitle": "カル・ペップ（Cal Pep）"
+      },
+      {
+        "description": "はまぐりと生ハムを炒めた「アルメハス・コン・ハモン」は、ニンニクとパセリの風味が利いていて美味。スペイン名物のトロトロのトルティージャも、日本人好みの味に仕上がっています。いずれの料理も文句なしのクオリティで、満足いくこと間違いないでしょう。DATACal Pep住所：Pl. de Les Olles 8営業時間：13時～15時30分、19時30分～23時30分定休日：日曜、月曜の昼",
+        "image": {
+          "alternateText": "アルメハス・コン・ハモン€18.50",
+          "height": 1182,
+          "sourceUrl": "https://a.mktgcdn.com/p/DIQqrZafjSYh5eMxnf6m3ad6wOsE2e11YLP6VyZaToA/1772x1182.jpg",
+          "thumbnails": [
+            {
+              "height": 1182,
+              "url": "https://a.mktgcdn.com/p-sandbox/1aaOPOjiOVJVVymTr0hDrKsbi1H4zxvOo-EeJV8wQr4/1772x1182.jpg",
+              "width": 1772
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/1aaOPOjiOVJVVymTr0hDrKsbi1H4zxvOo-EeJV8wQr4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/1aaOPOjiOVJVVymTr0hDrKsbi1H4zxvOo-EeJV8wQr4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/1aaOPOjiOVJVVymTr0hDrKsbi1H4zxvOo-EeJV8wQr4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1aaOPOjiOVJVVymTr0hDrKsbi1H4zxvOo-EeJV8wQr4/1772x1182.jpg",
+          "width": 1772
+        },
+        "imageCaption": "アルメハス・コン・ハモン€18.50",
+        "sectionTitle": "イラティ（Irati）"
+      },
+      {
+        "description": "バケットの上にオリーブやアンチョビなどおつまみを乗せ、つまようじを刺した一口料理、それがピンチョスです。60種にもおよぶ種類豊富なピンチョスを楽しむことができるのが、ランブラス通りからゴシック地区に入ってすぐのところにある「イラティ」。野菜のテリーヌにトマトジャムなどをかけた看板メニュー、「パステリータ・デベルデゥーラス」をはじめ、カウンターにズラリと並ぶバラエティ豊かなピンチョスを味わえます。DATAIrati住所： Cardenal Casañas 17 営業時間：12時～24時休日：なし",
+        "image": {
+          "alternateText": "カウンター席で立ちながら軽く一杯も、バルならではの楽しみ方",
+          "height": 1474,
+          "sourceUrl": "https://a.mktgcdn.com/p/JakWZhz-Tl0OYRQDZhoVHN4l-w2PvP1DRWnkz94y29s/2208x1474.jpg",
+          "thumbnails": [
+            {
+              "height": 1474,
+              "url": "https://a.mktgcdn.com/p-sandbox/kNDVbb3Q1VkRYkDM1usoj4K-5PDHDH4_xPB1oLjgr3M/2208x1474.jpg",
+              "width": 2208
+            },
+            {
+              "height": 1268,
+              "url": "https://a.mktgcdn.com/p-sandbox/kNDVbb3Q1VkRYkDM1usoj4K-5PDHDH4_xPB1oLjgr3M/1900x1268.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/kNDVbb3Q1VkRYkDM1usoj4K-5PDHDH4_xPB1oLjgr3M/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/kNDVbb3Q1VkRYkDM1usoj4K-5PDHDH4_xPB1oLjgr3M/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/kNDVbb3Q1VkRYkDM1usoj4K-5PDHDH4_xPB1oLjgr3M/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kNDVbb3Q1VkRYkDM1usoj4K-5PDHDH4_xPB1oLjgr3M/2208x1474.jpg",
+          "width": 2208
+        },
+        "imageCaption": "カウンター席で立ちながら軽く一杯も、バルならではの楽しみ方",
+        "sectionTitle": "タパス24（Tapas24）"
+      },
+      {
+        "description": "ミシュラン一つ星のシェフ、カルレス・アベジャン氏がプロデュースするバル「タパス24」。定番タパスはもちろんのこと、オリジナルの創作タパスも人気です。シェフの名を冠したタパス「ビキニ・カルレス・アベジャン」はイベリコ豚の生ハムとモッツァレラチーズを挟んだミニサンド。",
+        "image": {
+          "alternateText": "人気店ながら、こぢんまりとした隠れ家的雰囲気の店内",
+          "height": 991,
+          "sourceUrl": "https://a.mktgcdn.com/p/LsYilQ18ewXRolmBi_SuOnBFL_SFZ7tVePE6MEpTmO4/1490x991.jpg",
+          "thumbnails": [
+            {
+              "height": 991,
+              "url": "https://a.mktgcdn.com/p-sandbox/QynXWh3o8xgisoSzsiSf0beJWj3OQJ594lfuCfOnYlo/1490x991.jpg",
+              "width": 1490
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/QynXWh3o8xgisoSzsiSf0beJWj3OQJ594lfuCfOnYlo/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/QynXWh3o8xgisoSzsiSf0beJWj3OQJ594lfuCfOnYlo/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/QynXWh3o8xgisoSzsiSf0beJWj3OQJ594lfuCfOnYlo/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QynXWh3o8xgisoSzsiSf0beJWj3OQJ594lfuCfOnYlo/1490x991.jpg",
+          "width": 1490
+        },
+        "imageCaption": "人気店ながら、こぢんまりとした隠れ家的雰囲気の店内",
+        "sectionTitle": "タペオ(Tapeo)"
+      },
+      {
+        "description": "お店はグラシア通りの人気観光スポット、カサ・バトリョからすぐのところにあり、外のテラス席で街の空気を感じながらの食事もおすすめ。DATATapas24住所：C.de Diputació 269営業時間：12～24時定休日：なし",
+        "image": {
+          "alternateText": "黒と木目を基調としたシックな雰囲気の店内",
+          "height": 1901,
+          "sourceUrl": "https://a.mktgcdn.com/p/yskjJEdiQMpT1pr3iAYlRZbLPMd45GfFDaDqgvvbscg/1267x1901.jpg",
+          "thumbnails": [
+            {
+              "height": 1901,
+              "url": "https://a.mktgcdn.com/p-sandbox/V6B-7ObsL_uY9cDB-49bqBE6gKNd_ctpmyl260wRLBs/1267x1901.jpg",
+              "width": 1267
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/V6B-7ObsL_uY9cDB-49bqBE6gKNd_ctpmyl260wRLBs/1266x1900.jpg",
+              "width": 1266
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/V6B-7ObsL_uY9cDB-49bqBE6gKNd_ctpmyl260wRLBs/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/V6B-7ObsL_uY9cDB-49bqBE6gKNd_ctpmyl260wRLBs/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/V6B-7ObsL_uY9cDB-49bqBE6gKNd_ctpmyl260wRLBs/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/V6B-7ObsL_uY9cDB-49bqBE6gKNd_ctpmyl260wRLBs/1267x1901.jpg",
+          "width": 1267
+        },
+        "imageCaption": "おすすめメニューのビキニ・カルレス・アベジャン€12",
+        "sectionTitle": "パコ・メラルゴ（Paco Meralgo）"
+      },
+      {
+        "description": "バルセロナには賑やかで大衆的な雰囲気のバルが多い中、「タペオ」はモダンでスマートな雰囲気のバルです。「ピエ・デ・セルド・コン・ガンバ」€16は、やわらかく煮た豚足とエビのオリーブオイルがけ。そのほか、味付にウニを使用したフィデウア「フィデウア・デ・エリソ・コン・ガンバス」€20など、伝統の味に独創的なアレンジを加えたモダンスパニッシュ料理がこのお店の特徴です。　スペインでは、バルをハシゴすることを“タペオ”といいます。真向かいにある人気バル「チャンパニェット」をはじめ、周辺にはほかにもバルがいくつもあるので、ハシゴを楽しむのもオススメです。DATATapeo住所：C. Montcada 29 営業時間：12～24時定休日：なし",
+        "image": {
+          "height": 1378,
+          "sourceUrl": "https://a.mktgcdn.com/p/1pFB2awgIwP3fs96EaJiQnR9jz9le20LIz3pRnmiGFg/1837x1378.jpg",
+          "thumbnails": [
+            {
+              "height": 1378,
+              "url": "https://a.mktgcdn.com/p-sandbox/ptDzypiFaxW_QTqTl85zsxT7w7vn32gm9XjFE0nsB0s/1837x1378.jpg",
+              "width": 1837
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/ptDzypiFaxW_QTqTl85zsxT7w7vn32gm9XjFE0nsB0s/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ptDzypiFaxW_QTqTl85zsxT7w7vn32gm9XjFE0nsB0s/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/ptDzypiFaxW_QTqTl85zsxT7w7vn32gm9XjFE0nsB0s/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ptDzypiFaxW_QTqTl85zsxT7w7vn32gm9XjFE0nsB0s/1837x1378.jpg",
+          "width": 1837
+        },
+        "imageCaption": "黒と木目を基調としたシックな雰囲気の店内"
+      },
+      {
+        "description": "新市街、アシャンプラ地区にある実力派のバル「パコ・メラルゴ」。ミシュランガイドでも紹介されるほどの名店は地元客、観光客問わず賑わうので事前に予約しておきましょう。店内は高級感のあるモダンな雰囲気で統一されています。イカ墨でコーティングされた一口サイズのスペイン風コロッケ「クロケタス・デ・セピア“オバマ”」1個€2.95や、エビのアヒージョ「ガンバス・フレスカス・アル・アヒージョス」€30.5など海鮮、肉、野菜とジャンルを問わずさまざまなタパスが楽しめます。",
+        "image": {
+          "height": 1179,
+          "sourceUrl": "https://a.mktgcdn.com/p/yIUsVVub88XGe_pJDYV1iEYi4pyhYVJ_eAQHRj4LirE/1640x1179.jpg",
+          "thumbnails": [
+            {
+              "height": 1179,
+              "url": "https://a.mktgcdn.com/p-sandbox/RCbHp_VyB7hSGq_wxX_tUNqnUoxARtybN59fc5q_57w/1640x1179.jpg",
+              "width": 1640
+            },
+            {
+              "height": 445,
+              "url": "https://a.mktgcdn.com/p-sandbox/RCbHp_VyB7hSGq_wxX_tUNqnUoxARtybN59fc5q_57w/619x445.jpg",
+              "width": 619
+            },
+            {
+              "height": 431,
+              "url": "https://a.mktgcdn.com/p-sandbox/RCbHp_VyB7hSGq_wxX_tUNqnUoxARtybN59fc5q_57w/600x431.jpg",
+              "width": 600
+            },
+            {
+              "height": 141,
+              "url": "https://a.mktgcdn.com/p-sandbox/RCbHp_VyB7hSGq_wxX_tUNqnUoxARtybN59fc5q_57w/196x141.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RCbHp_VyB7hSGq_wxX_tUNqnUoxARtybN59fc5q_57w/1640x1179.jpg",
+          "width": 1640
+        },
+        "imageCaption": "大人気のお店なので、予約がベター"
+      }
+    ],
+    "c_ap_DatePosted": "2023-07-12",
+    "c_ap_HeroImage": {
+      "height": 3456,
+      "sourceUrl": "https://a.mktgcdn.com/p/uicSXyeJ28GZ0WLfaL4VsjTbaBsSaMvFzdVdsxG76Pc/4608x3456.jpg",
+      "thumbnails": [
+        {
+          "height": 3456,
+          "url": "https://a.mktgcdn.com/p-sandbox/uicSXyeJ28GZ0WLfaL4VsjTbaBsSaMvFzdVdsxG76Pc/4608x3456.jpg",
+          "width": 4608
+        },
+        {
+          "height": 1425,
+          "url": "https://a.mktgcdn.com/p-sandbox/uicSXyeJ28GZ0WLfaL4VsjTbaBsSaMvFzdVdsxG76Pc/1900x1425.jpg",
+          "width": 1900
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/uicSXyeJ28GZ0WLfaL4VsjTbaBsSaMvFzdVdsxG76Pc/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/uicSXyeJ28GZ0WLfaL4VsjTbaBsSaMvFzdVdsxG76Pc/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/uicSXyeJ28GZ0WLfaL4VsjTbaBsSaMvFzdVdsxG76Pc/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/uicSXyeJ28GZ0WLfaL4VsjTbaBsSaMvFzdVdsxG76Pc/4608x3456.jpg",
+      "width": 4608
+    },
+    "c_ap_HeroImageCaption": "にぎわう雰囲気そのものを楽しむのもバルめぐりの魅力",
+    "c_ap_LinkArticleSectionTitle": "スペインのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "スペイン旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/spain/"
+      },
+      {
+        "linkText": "バルセロナのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dBCN"
+      },
+      {
+        "linkText": "スペインのホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/166/?freeword\u003d%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d166"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea3": [
+      "スペイン",
+      "西欧全般"
+    ],
+    "c_ap_ShortDescription": "食の都・バルセロナを訪れたならば、“バル”は外せません。夕食前の軽く一杯に、または友人との会話を楽しみながら。人々の社交の場でもあるスペインのバルは日本の居酒屋とは異なり、その多くが午前中や正午から営業。バルで提供される食事のメインはタパスという小皿料理で、多くの料理を一度に楽しめる点も訪れる上でうれしいポイントです。今回はバルセロナに数あるバルのなかでも、比較的観光客が気軽に利用しやすいおすすめバルをご紹介します。（写真：カル・ペップ）",
+    "c_ap_Tags": [
+      "バルセロナ",
+      "バル",
+      "スペインバル",
+      "タペオ",
+      "ハシゴ"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "グループ",
+      "街あるき",
+      "グルメ",
+      "お酒",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "タパスはもちろん、人々の活気も楽しもう！ スペインの醍醐味！！おすすめバルinバルセロナ【スペイン　バルセロナ】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "食の都・バルセロナを訪れたならば、“バル”は外せません。夕食前の軽く一杯に、または友人との会話を楽しみながら。人々の社交の場でもあるスペインのバルは日本の居酒屋とは異なり、その多くが午前中や正午から営業。バルで提供される食事のメインはタパスという小皿料理で、多くの料理を一度に楽しめる点も訪れる上でうれしいポイントです。今回はバルセロナに数あるバルのなかでも、比較的観光客が気軽に利用しやすいおすすめバルをご紹介します。（写真：カル・ペップ）",
+    "c_metaTitle": "タパスはもちろん、人々の活気も楽しもう！ スペインの醍醐味！！おすすめバルinバルセロナ【スペイン　バルセロナ】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000063",
+    "c_searchArea1": [
+      "海外"
+    ],
+    "c_searchArea2": "スペイン, 西欧全般",
+    "name": "タパスはもちろん、人々の活気も楽しもう！ スペインの醍醐味！！おすすめバルinバルセロナ【スペイン　バルセロナ】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

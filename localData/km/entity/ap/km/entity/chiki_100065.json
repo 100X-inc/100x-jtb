@@ -1,0 +1,307 @@
+{
+  "$id": "ap_chiki_100065",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 川瀬"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "伊勢志摩は、豊富な山海の幸を皇室や朝廷に献上していた歴史をもつ食材の宝庫で、「御食国（みけつくに）」と呼ばれていました。そんな食材を贅沢に使った料理が、ホテルの自慢のひとつです。「メインダイニング シーホース」は、洗練されたインテリアのフレンチの店。水揚げされたばかりの旬の魚介類を使った色鮮やかな料理にシェフの感性が光り、アートのような美しさです。さまざまなコースが用意されているので、好みのメニューをチョイスしてください。「和食レストラン もんど岬」は、“リゾートWashoku”をコンセプトにした和食の店。料理人自らが、船で鳥羽市の答志島へ出向き、市場で競り落とした新鮮な魚介をふんだんに使っています。魚介以外にも、松阪牛や伊勢どりなどのブランド食材も使用。料理人に巧みに引き出された素材の味を、お楽しみください。",
+        "image": {
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/0K6kqS-QE3seFFcovGunbX-PjMf1xrO0GYlY-kY4EUs/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/0K6kqS-QE3seFFcovGunbX-PjMf1xrO0GYlY-kY4EUs/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/0K6kqS-QE3seFFcovGunbX-PjMf1xrO0GYlY-kY4EUs/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/0K6kqS-QE3seFFcovGunbX-PjMf1xrO0GYlY-kY4EUs/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/0K6kqS-QE3seFFcovGunbX-PjMf1xrO0GYlY-kY4EUs/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0K6kqS-QE3seFFcovGunbX-PjMf1xrO0GYlY-kY4EUs/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "メインダイニング シーホースで色鮮やかなフレンチを満喫",
+        "sectionTitle": "伊勢志摩の旬を料理人が巧みに調理。フレンチも和食も繊細で色鮮やか"
+      },
+      {
+        "description": "ホテルは、「オーシャンウィング」と「ハーバーウィング」の2棟からなり、それぞれに違った眺望を楽しめます。「ハーバービュー・ツイン」など、洋室タイプのお部屋が中心ですが、広々とした和室を備えた落ち着いた雰囲気の「ツイン＆タタミ」のお部屋も人気です。なかでもおすすめしたいのが、解放感あふれる「オーシャンビュー・スイート」。海側に設けられた大きな窓から鳥羽湾の眺望を楽しめます。そして、シャンプーやコンディショナー、ボディソープ、入浴剤は、「ミキモト コスメティックス」を用意。お肌もしっとり、豊潤な香りに包まれる至福の時間を過ごせます。",
+        "image": {
+          "height": 766,
+          "sourceUrl": "https://a.mktgcdn.com/p/ELDLT5jIlOZr1U3Jk5dNdY8bf8xC7-gLufhMvR6gmpM/1200x766.jpg",
+          "thumbnails": [
+            {
+              "height": 766,
+              "url": "https://a.mktgcdn.com/p-sandbox/ELDLT5jIlOZr1U3Jk5dNdY8bf8xC7-gLufhMvR6gmpM/1200x766.jpg",
+              "width": 1200
+            },
+            {
+              "height": 395,
+              "url": "https://a.mktgcdn.com/p-sandbox/ELDLT5jIlOZr1U3Jk5dNdY8bf8xC7-gLufhMvR6gmpM/619x395.jpg",
+              "width": 619
+            },
+            {
+              "height": 383,
+              "url": "https://a.mktgcdn.com/p-sandbox/ELDLT5jIlOZr1U3Jk5dNdY8bf8xC7-gLufhMvR6gmpM/600x383.jpg",
+              "width": 600
+            },
+            {
+              "height": 125,
+              "url": "https://a.mktgcdn.com/p-sandbox/ELDLT5jIlOZr1U3Jk5dNdY8bf8xC7-gLufhMvR6gmpM/196x125.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ELDLT5jIlOZr1U3Jk5dNdY8bf8xC7-gLufhMvR6gmpM/1200x766.jpg",
+          "width": 1200
+        },
+        "imageCaption": "広々としたオーシャンビュー・スイート（一例）",
+        "sectionTitle": "鳥羽湾を眺めながら過ごす開放的なひととき"
+      },
+      {
+        "description": "「パール・スパ」では、真珠を科学して開発された「ミキモト コスメティックス」オリジナルアイテムを用いたトリートメントが受けられます。アミノ酸やミネラル、コラーゲンなど、真珠とアコヤ貝からしか抽出できない独自の天然成分が、肌にうるおいを与えてくれます。フェイシャルからボディまでトリートメントは幅広く、宿泊とセットになったプランも。オールハンドによる贅沢なトリートメントで、心身をゆったりと解きほぐしてくださいね。完全予約制なので、ホテル予約の際に予約しておくと安心です。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/ffVH00J7Vmv4k68-Odf3rdXNonGgkF7977XdWaK6wOk/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/ffVH00J7Vmv4k68-Odf3rdXNonGgkF7977XdWaK6wOk/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ffVH00J7Vmv4k68-Odf3rdXNonGgkF7977XdWaK6wOk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ffVH00J7Vmv4k68-Odf3rdXNonGgkF7977XdWaK6wOk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ffVH00J7Vmv4k68-Odf3rdXNonGgkF7977XdWaK6wOk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ffVH00J7Vmv4k68-Odf3rdXNonGgkF7977XdWaK6wOk/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "PEARL SPA by MIKIMOTO COSMETICS",
+        "sectionTitle": "リゾートエリアでは日本初！本格真珠スパで心も体も満たされる"
+      },
+      {
+        "description": "オーシャンウィングの2階にある「カフェラウンジ」は、大きながガラス窓の向こうに鳥羽湾が広がる絶景ラウンジ。香り高いコーヒーやスイーツとともに、くつろぎのひとときを過ごせます。ここでぜひ食べていただきたいのが、ホテル自慢のチーズケーキ。しっとりとした舌触りとまろやかな甘蜜、濃厚なチーズのハーモニーは、創業以来受け継がれる味。メディアに取り上げられることも多く、遠方からこれを求めて訪れる人も。そのほかのメニューも豊富で、どれもが美味しそう。どれを買うか迷う時間も、リゾートのお楽しみですね。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/htl/6112001/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 706,
+          "sourceUrl": "https://a.mktgcdn.com/p/Hbu5T8IlGG7wp7H7aNOA4IuUqfAXNZtQkLnT0I7FgZI/1200x706.jpg",
+          "thumbnails": [
+            {
+              "height": 706,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hbu5T8IlGG7wp7H7aNOA4IuUqfAXNZtQkLnT0I7FgZI/1200x706.jpg",
+              "width": 1200
+            },
+            {
+              "height": 364,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hbu5T8IlGG7wp7H7aNOA4IuUqfAXNZtQkLnT0I7FgZI/619x364.jpg",
+              "width": 619
+            },
+            {
+              "height": 353,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hbu5T8IlGG7wp7H7aNOA4IuUqfAXNZtQkLnT0I7FgZI/600x353.jpg",
+              "width": 600
+            },
+            {
+              "height": 115,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hbu5T8IlGG7wp7H7aNOA4IuUqfAXNZtQkLnT0I7FgZI/196x115.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Hbu5T8IlGG7wp7H7aNOA4IuUqfAXNZtQkLnT0I7FgZI/1200x706.jpg",
+          "width": 1200
+        },
+        "imageCaption": "明るく解放感抜群の、絶景カフェラウンジ",
+        "sectionTitle": "思わずうっとり！海を目前にいただく絶品チーズケーキ"
+      },
+      {
+        "image": {
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/JtDLddst9J52xJMjO9YO4H9MTPgV_J6ifAv-8i0l_R0/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/JtDLddst9J52xJMjO9YO4H9MTPgV_J6ifAv-8i0l_R0/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/JtDLddst9J52xJMjO9YO4H9MTPgV_J6ifAv-8i0l_R0/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/JtDLddst9J52xJMjO9YO4H9MTPgV_J6ifAv-8i0l_R0/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/JtDLddst9J52xJMjO9YO4H9MTPgV_J6ifAv-8i0l_R0/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JtDLddst9J52xJMjO9YO4H9MTPgV_J6ifAv-8i0l_R0/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "チーズケーキセット（イメージ）"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-07-24",
+    "c_ap_HeroImage": {
+      "alternateText": "伊勢志摩の迎賓館として数々のVIPをおもてなし。「真珠の海」に抱かれる正統派リゾート【三重県　鳥羽国際ホテル】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 720,
+      "sourceUrl": "https://a.mktgcdn.com/p/h0arJ4WCvU_UMSGyUAdj1TlflLZrrWl8tMOrTBQhdw4/1200x720.jpg",
+      "thumbnails": [
+        {
+          "height": 720,
+          "url": "https://a.mktgcdn.com/p-sandbox/h0arJ4WCvU_UMSGyUAdj1TlflLZrrWl8tMOrTBQhdw4/1200x720.jpg",
+          "width": 1200
+        },
+        {
+          "height": 371,
+          "url": "https://a.mktgcdn.com/p-sandbox/h0arJ4WCvU_UMSGyUAdj1TlflLZrrWl8tMOrTBQhdw4/619x371.jpg",
+          "width": 619
+        },
+        {
+          "height": 360,
+          "url": "https://a.mktgcdn.com/p-sandbox/h0arJ4WCvU_UMSGyUAdj1TlflLZrrWl8tMOrTBQhdw4/600x360.jpg",
+          "width": 600
+        },
+        {
+          "height": 118,
+          "url": "https://a.mktgcdn.com/p-sandbox/h0arJ4WCvU_UMSGyUAdj1TlflLZrrWl8tMOrTBQhdw4/196x118.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/h0arJ4WCvU_UMSGyUAdj1TlflLZrrWl8tMOrTBQhdw4/1200x720.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "海に囲まれた緑豊かなロケーション",
+    "c_ap_LinkArticleSectionTitle": "三重県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "鳥羽国際ホテル のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/6112001/plan/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "鳥羽のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/2402/"
+      },
+      {
+        "linkText": "三重旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/mie/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea4": [
+      "近畿全般",
+      "三重県"
+    ],
+    "c_ap_ShortDescription": "海に突き出た岬の高台に立つ「鳥羽国際ホテル」は、開業以来、国内外からのVIPを数多く迎えてきたリゾートホテルです。2010年のリニューアルオープン以降、継続的に改修が行われており、よりラグジュアリーな空間へと進化を続けています。\nホテルの自慢は、伝統と格式の上に積み重ねたホスピタリティあふれるサービスや、“真珠の海”鳥羽湾の眺望、そして地元の新鮮な魚介類をふんだんに使ったお料理などです。\n館内の時間も空間も、すべてが格調高く、上質な時間を過ごせます。伊勢神宮からのアクセスもいいので、お伊勢参りの拠点としても便利です。",
+    "c_ap_Tags": [
+      "伊勢志摩",
+      "海",
+      "ミキモト",
+      "チーズケーキ",
+      "アフタヌーンティ"
+    ],
+    "c_ap_Theme": [
+      "夫婦旅",
+      "自然・山",
+      "グルメ",
+      "リゾート",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "伊勢志摩の迎賓館として数々のVIPをおもてなし。「真珠の海」に抱かれる正統派リゾート【三重県　鳥羽国際ホテル】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "海に突き出た岬の高台に立つ「鳥羽国際ホテル」は、開業以来、国内外からのVIPを数多く迎えてきたリゾートホテルです。2010年のリニューアルオープン以降、継続的に改修が行われており、よりラグジュアリーな空間へと…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "伊勢志摩の迎賓館として数々のVIPをおもてなし。「真珠の海」に抱かれる正統派リゾート【三重県　鳥羽国際ホテル】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100065",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "近畿全般, 三重県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：近畿全般, 三重県",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：近畿全般, 三重県",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "伊勢志摩の迎賓館として数々のVIPをおもてなし。「真珠の海」に抱かれる正統派リゾート【三重県　鳥羽国際ホテル】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

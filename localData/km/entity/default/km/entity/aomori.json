@@ -1,0 +1,61 @@
+{
+  "$id": "aomori",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "tohoku"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_h_takeuchi111_002",
+      "news_ap_chiki_100108",
+      "news_ap_chiki_100113",
+      "news_ap_k_takeda507_006",
+      "news_ap_s_suzuki146_004",
+      "news_ap_s_hirota001_002",
+      "news_ap_k_takeda507_005",
+      "news_ap_k_sugino002_001"
+    ],
+    "c_metaDescription": "青森に関する記事をピックアップ！JTBニュースでは、青森で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 青森 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "青森",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/kzP3btAk54_XpL7ThkbcOKcOcqPEumBIRnPP1oz99_8/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/LVTTBIeJXUA9WnbeSCjoppqQua1r_T6BjKrC9LFql58/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/LVTTBIeJXUA9WnbeSCjoppqQua1r_T6BjKrC9LFql58/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/LVTTBIeJXUA9WnbeSCjoppqQua1r_T6BjKrC9LFql58/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/LVTTBIeJXUA9WnbeSCjoppqQua1r_T6BjKrC9LFql58/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/LVTTBIeJXUA9WnbeSCjoppqQua1r_T6BjKrC9LFql58/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/LVTTBIeJXUA9WnbeSCjoppqQua1r_T6BjKrC9LFql58/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "青森",
+    "slug": "kokunai/tohoku/aomori"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

@@ -1,0 +1,34 @@
+{
+  "$id": "test_kaigai_level2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea12": [
+      "test_kaigai"
+    ],
+    "c_linkedArea23": [
+      "test_kaigai_level3"
+    ],
+    "c_metaDescription": "テスト海外地域に関する記事をピックアップ！JTBニュースでは、テスト海外地域で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | テスト海外地域 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "テスト海外地域",
+      "height": 70,
+      "sourceUrl": "https://a.mktgcdn.com/p/fBj34O_vlGjU2-qyzyNa02Ywie9frmYs4SyGm4pSVw8/70x70.png",
+      "thumbnails": [
+        {
+          "height": 70,
+          "url": "https://a.mktgcdn.com/p-sandbox/9x6pMyV64iDkRRu33dlbScLiXV9Cqm2iWHMjkaPckaY/70x70.png",
+          "width": 70
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/9x6pMyV64iDkRRu33dlbScLiXV9Cqm2iWHMjkaPckaY/70x70.png",
+      "width": 70
+    },
+    "name": "テスト海外地域",
+    "slug": "test_kaigai/test_kaigai_level2"
+  },
+  "entityType": "ce_areaLevel2",
+  "folder": "level2",
+  "labels": []
+}

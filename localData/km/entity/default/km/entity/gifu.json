@@ -1,0 +1,69 @@
+{
+  "$id": "gifu",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "tokai"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_chiki_100202",
+      "news_ap_chiki_100211",
+      "news_ap_y_ishihara225_002",
+      "news_ap_chiki_100222",
+      "news_ap_chiki_100188",
+      "news_ap_chiki_100212",
+      "news_ap_chiki_100052",
+      "news_ap_chiki_100056",
+      "news_ap_chiki_100165",
+      "news_ap_chiki_100156",
+      "news_ap_chiki_100170",
+      "news_ap_chiki_100215",
+      "news_ap_chiki_100223",
+      "news_ap_chiki_100047",
+      "news_ap_chiki_100067",
+      "news_ap_chiki_100051"
+    ],
+    "c_metaDescription": "岐阜に関する記事をピックアップ！JTBニュースでは、岐阜で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 岐阜 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "岐阜",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/ycq1hwi8bcG9fpSYHXIgfAGq27AGPkFTeJ1uMtnHf4A/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/0JTtT7tS5jBwabDRZbWRfblmPsuvOduTeoKP6jxQZrg/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/0JTtT7tS5jBwabDRZbWRfblmPsuvOduTeoKP6jxQZrg/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/0JTtT7tS5jBwabDRZbWRfblmPsuvOduTeoKP6jxQZrg/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/0JTtT7tS5jBwabDRZbWRfblmPsuvOduTeoKP6jxQZrg/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/0JTtT7tS5jBwabDRZbWRfblmPsuvOduTeoKP6jxQZrg/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/0JTtT7tS5jBwabDRZbWRfblmPsuvOduTeoKP6jxQZrg/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "岐阜",
+    "slug": "kokunai/tokai/gifu"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

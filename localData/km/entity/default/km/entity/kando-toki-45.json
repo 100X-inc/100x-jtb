@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-45",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/45_kv_pc02.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d42.981039%2C144.385543",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "太陽・星・月"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "インドネシアのバリ島、フィリピンのマニラと並んで「世界三大夕日」と讃えられるのが、この釧路の夕日です。輝く空のグラデーションと沈みゆく夕日は、風情ある絵画のように訪れる人々の目を惹きつけます。港に浮かぶ漁船や空を飛ぶ鳥の影など、海辺の町ならではの雰囲気が、光と影によって織り成される夕暮れをいっそうドラマティックに演出してくれます。夕暮れ時の空は四季によって少しずつ異なる表情を見せますが、特に美しい夕日を眺めるのであれば、秋の釧路がおすすめです。空気が澄んだ秋には、よりくっきりとした夕日が沈みゆくさまを見ることができるでしょう。港のそばや橋の上、高台にある展望台など、夕日を眺められるビュースポットも町の各所にあり、さまざまな角度から夕日と町の影が描く絶景を楽しむことができます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/45.asp",
+    "name": "釧路の夕日"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

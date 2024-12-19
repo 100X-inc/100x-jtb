@@ -1,0 +1,83 @@
+{
+  "$id": "top-family-test",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Hero-imageCaption {\ntext-shadow: 0 0 10px #010101;\n}\n\n/* バックグラウンドカラーを濃いめに */\n.Consultants-wrapper {\n    background-color: #f5f6f7;\n}\n.Locator-wrapper {\n    background-color: #f5f6f7;\n}\n.Teaser--article.Teaser--articleTop {\n    background-color: #f5f6f7;\n}\n.InfoItem {\n    background-color: #f5f6f7;\n}\n\n/* サブタイトルのラップ */\n.Consultants-subtitle {\nwhite-space: pre-wrap;\n}\n.Locator-subtitle {\nwhite-space: pre-wrap;\n}\n.Info-subtitle {\nwhite-space: pre-wrap;\n}\n\n\n/* Information セクションの画像をオリジナルのままの比率で表示 */\n.InfoItem-image {\n    height: unset;\n}\n\n/* アコーディオンタイトルのセンタリング */\n.FAQ-questionText {\n margin: auto;\nfont-size: 1.1rem;\n}\n\n/* FAQ のリンクの色 */\n.Consultants .FAQ--ace .FAQ-answerText a {\ncolor: #3498db;\n\n}\n\n/* スムーススクロール */\nhtml { \nscroll-behavior: smooth;\n}\n\n/* locator を hidden */\n#locator {\ndisplay: none;\n}\n\n/* \n  下線部カラー：水色\n  下線部の太さ：細目\n*/\n.OnlineConsultation-subtitle,\n.Consultants-subtitle,\n.Articles-subtitle,\n.Info-subtitle \n{\n    text-decoration-color: skyblue;\n    text-decoration-thickness: 0.15rem;\n}",
+    "c_cSSMobile": "/* 現在地が折り返さないように */\na.Locator-button.Locator-geolocate {\n  width: 6rem;\n}\n\n\n/* locator を hidden */\n#locator {\ndisplay: none;\n}",
+    "c_metaDescription": "JTBスタッフが自らの体験にもとづくおすすめの旅やおでかけ先をご紹介。全国の旅のプロたちが日々記事を投稿します。ご旅行の参考にぜひ！ 投稿者のトラベルコンサルタントにオンラインでの旅行相談をすることもできます。",
+    "c_metaTitle": "JTB | ファミリースタッフ | ジェイティービー |",
+    "c_topBreadcrumb": {
+      "label": "ファミリースタッフ",
+      "link": "top-family",
+      "linkType": "OTHER"
+    },
+    "c_top_BannerBackgroundColor": "#FFF450",
+    "c_top_Consultants": [
+      "cp_test_011"
+    ],
+    "c_top_ConsultantsButton1": {
+      "label": "コンサルタント一覧はこちらから",
+      "link": "/family/",
+      "linkType": "OTHER"
+    },
+    "c_top_ConsultantsSectionHTML": "\u003cscript\u003e\nwindow.addEventListener(\u0027load\u0027, function() {\n  atags \u003d document.querySelectorAll(\u0027.FAQ-answerText a[href^\u003d\"https:\"]\u0027);\n  atags.forEach(function(atag){atag.setAttribute(\u0027target\u0027, \u0027_blank\u0027);});\n});\n\u003c/script\u003e",
+    "c_top_ConsultantsSectionSubTitle": "全国の中から選び抜かれたファミリースタッフは、まさに究極の旅の水先案内人。ファーストクラスのおもてなしで皆様のかけがえのないひと時のお手伝いをいたします。ファミリースタッフと共に至高の旅支度を始めませんか？",
+    "c_top_ConsultantsSectionTitle": "ファミリースタッフのご紹介",
+    "c_top_HeroImage": {
+      "height": 1434,
+      "sourceUrl": "https://a.mktgcdn.com/p/MRzE6u8XNqjcJtayeaOfivMldHxmfwSvsx88EjuS6Ck/2150x1434.jpg",
+      "thumbnails": [
+        {
+          "height": 1434,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/2150x1434.jpg",
+          "width": 2150
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/2150x1434.jpg",
+      "width": 2150
+    },
+    "c_top_HeroImageCaption": "ファミリースタッフがお客様の最適な旅を\nご提案いたします",
+    "c_top_HeroImageMobile": {
+      "height": 400,
+      "sourceUrl": "https://a.mktgcdn.com/p/DKAKy1MtWLAMbw9K-bW4SQPTxoMrokICxuYUUrnJ94o/600x400.jpg",
+      "thumbnails": [
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/DKAKy1MtWLAMbw9K-bW4SQPTxoMrokICxuYUUrnJ94o/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/DKAKy1MtWLAMbw9K-bW4SQPTxoMrokICxuYUUrnJ94o/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/DKAKy1MtWLAMbw9K-bW4SQPTxoMrokICxuYUUrnJ94o/600x400.jpg",
+      "width": 600
+    },
+    "name": "TOP TEST ファミリースタッフ"
+  },
+  "entityType": "ce_tOP",
+  "labels": []
+}

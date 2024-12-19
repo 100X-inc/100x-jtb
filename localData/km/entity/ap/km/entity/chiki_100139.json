@@ -1,0 +1,363 @@
+{
+  "$id": "ap_chiki_100139",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 沖縄県担当 中川 英樹"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "客室は3〜5階のスーペリアフロアルーム、6・7階のデラックスフロアルームなど、階層によってタイプが異なります。室内は明るい色調のファブリックでまとめられ、窓の外にはテラスと美しいハーバービュー、オーシャンビューが広がります。9・10階に位置するプレミアムクラブフロアには高級感のあるプレミアムクラブルーム、最上階の10階には高所からの絶景をはじめ、天蓋付きのベッドやビューバスなど。アジアンリゾートをイメージさせるスイートルームがあります。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZJ8pGWPLez99SwIo5FB0uDQvFmtkt8C7n2Q7zdNOMbU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/YC8GTnWL9QwDtbuLLY4D4rnTmXI60OViCrmdJN5fluw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/YC8GTnWL9QwDtbuLLY4D4rnTmXI60OViCrmdJN5fluw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/YC8GTnWL9QwDtbuLLY4D4rnTmXI60OViCrmdJN5fluw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/YC8GTnWL9QwDtbuLLY4D4rnTmXI60OViCrmdJN5fluw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YC8GTnWL9QwDtbuLLY4D4rnTmXI60OViCrmdJN5fluw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "高級感のあるプレミアムクラブフロアの客室",
+        "sectionTitle": "客室は明るく洗練された空間デザイン"
+      },
+      {
+        "description": "ワンランク上のステイを楽しむなら、プレミアムクラブフロアの客室に宿泊しましょう。最上階10階にあるプレミアムラウンジを利用でき、ハイシーズンでも専用デスクでゆったりとチェックイン。館内施設の予約やホテル外の観光までこちらで案内してくれます。クラブラウンジではドリンクと一緒にパンケーキや焼き菓子を楽しめるほか、カクテルタイムにはシェフ自慢の冷静オードブルとアルコールなど、多彩なフードプレゼンテーションを満喫できます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/RSjWEwDuOgFwcI2oSymL-cYD6PgFpdouLt853kxXBs4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/WOjnLiu3tO8nEcdE7q-FWb-dTgo0pBsTRDkDyh90Vlo/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/WOjnLiu3tO8nEcdE7q-FWb-dTgo0pBsTRDkDyh90Vlo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/WOjnLiu3tO8nEcdE7q-FWb-dTgo0pBsTRDkDyh90Vlo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/WOjnLiu3tO8nEcdE7q-FWb-dTgo0pBsTRDkDyh90Vlo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WOjnLiu3tO8nEcdE7q-FWb-dTgo0pBsTRDkDyh90Vlo/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "プレミアムクラブフロア宿泊者専用のラウンジ",
+        "sectionTitle": "極上のホテルステイを楽しめるプレミアムクラブフロア"
+      },
+      {
+        "description": "2022年には丸いプールが5つ連なった全長約70mのガーデンプールとともに、沖縄初の「虹のウォータースライダー」が登場！特殊技法で作られたナチュラルライトエフェクトスライダーは、外部からの自然光をスライダーに取り込み、滑走面に光の演出を照らし出す効果があります。色とりどりの光の輪をくぐり抜け、プールに飛び込む楽しいスライダーは子供たちにも大人気♪ガーデンプール以外にも、オールシーズン楽しめるインドアプールとジャクジープールも併設されています。",
+        "image": {
+          "height": 856,
+          "sourceUrl": "https://a.mktgcdn.com/p/JbgT3loPjPqN6D8dxLul9DtLjRo4lxcDgtrzMIQigFE/1200x856.jpg",
+          "thumbnails": [
+            {
+              "height": 856,
+              "url": "https://a.mktgcdn.com/p-sandbox/JbgT3loPjPqN6D8dxLul9DtLjRo4lxcDgtrzMIQigFE/1200x856.jpg",
+              "width": 1200
+            },
+            {
+              "height": 442,
+              "url": "https://a.mktgcdn.com/p-sandbox/JbgT3loPjPqN6D8dxLul9DtLjRo4lxcDgtrzMIQigFE/619x442.jpg",
+              "width": 619
+            },
+            {
+              "height": 428,
+              "url": "https://a.mktgcdn.com/p-sandbox/JbgT3loPjPqN6D8dxLul9DtLjRo4lxcDgtrzMIQigFE/600x428.jpg",
+              "width": 600
+            },
+            {
+              "height": 140,
+              "url": "https://a.mktgcdn.com/p-sandbox/JbgT3loPjPqN6D8dxLul9DtLjRo4lxcDgtrzMIQigFE/196x140.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JbgT3loPjPqN6D8dxLul9DtLjRo4lxcDgtrzMIQigFE/1200x856.jpg",
+          "width": 1200
+        },
+        "imageCaption": "トロピカルムードあふれるガーデンプール",
+        "sectionTitle": "チェックイン後はガーデンプールへ繰り出そう"
+      },
+      {
+        "description": "ガーデンプールの脇にある散策路を歩けば美々ビーチまではすぐ近く。目の前に広がる白浜のビーチでは多彩なアクティビティが楽しめます。定番のバナナボートやグラスボート、シーカヤックなど、ファミリーやグループで楽しめるマリンメニューが充実。美々ビーチ湾内で小さな生物を鑑賞する「クマノミウォッチングツアー」、クジラの化石が眠る岡波島での「無人島上陸ツアー」など趣向を凝らしたメニューも。子供たちだけでなく、大人にとっても忘れられない体験になること間違いなしです。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/puhAr5RY7331ml16v9UIjFX1pQ1qGI9Mk3KISkmxWMI/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/puhAr5RY7331ml16v9UIjFX1pQ1qGI9Mk3KISkmxWMI/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/puhAr5RY7331ml16v9UIjFX1pQ1qGI9Mk3KISkmxWMI/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/puhAr5RY7331ml16v9UIjFX1pQ1qGI9Mk3KISkmxWMI/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/puhAr5RY7331ml16v9UIjFX1pQ1qGI9Mk3KISkmxWMI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/puhAr5RY7331ml16v9UIjFX1pQ1qGI9Mk3KISkmxWMI/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "何度も滑りたくなる虹のウォータースライダー",
+        "sectionTitle": "エメラルドブルーの海でひと夏の体験を"
+      },
+      {
+        "description": "メインダイニングはオーシャンビューレストラン「レイール」です。大きな窓がとられたダイニングは明るく開放的で、青い海やサンセットを眺めながら食事ができます。ディナーはブッフェ形式で、沖縄料理をメインに、旬の食材をふんだんに使った和洋中のメニューが並びます。前菜からデザートまでバラエティ豊かで、ライブキッチンではシェフが目の前で肉料理や魚料理など美しい一皿を仕上げてくれます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/-OLblOBfIKm6wonlObVBN8VKNIwPWrfQR0LdixeKaXQ/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/-OLblOBfIKm6wonlObVBN8VKNIwPWrfQR0LdixeKaXQ/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/-OLblOBfIKm6wonlObVBN8VKNIwPWrfQR0LdixeKaXQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/-OLblOBfIKm6wonlObVBN8VKNIwPWrfQR0LdixeKaXQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/-OLblOBfIKm6wonlObVBN8VKNIwPWrfQR0LdixeKaXQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-OLblOBfIKm6wonlObVBN8VKNIwPWrfQR0LdixeKaXQ/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "シーカヤックから海中で泳ぐ魚たちを眺める",
+        "sectionTitle": "沖縄ならではの料理をブッフェスタイルで"
+      },
+      {
+        "description": "館内にはプールサイドレストラン「サザンテラス」もあり、ガーデンプールに面した開放的な空間で、沖縄ならではの食材を使ったサザンスタイルのリゾートディナーを堪能できます。ゴールデンウィークと夏期には屋外でガーデンBBQも開催。心地よい潮風を感じながら、新鮮な肉や海鮮を90分食べ放題ソフトドリンク飲み放題！ 家族やお友達と相談しながら、お好みのスタイルで沖縄のディナーを楽しみたいですね。",
+        "image": {
+          "height": 559,
+          "sourceUrl": "https://a.mktgcdn.com/p/84QmtscTwzNbBO5dRosYByX-kf6dTcSfSGqo6NHka7k/745x559.jpg",
+          "thumbnails": [
+            {
+              "height": 559,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LQZbJ2xCdPweR7V8qSm0Gw7uuYFSqTR41ntBffZAqw/745x559.jpg",
+              "width": 745
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LQZbJ2xCdPweR7V8qSm0Gw7uuYFSqTR41ntBffZAqw/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LQZbJ2xCdPweR7V8qSm0Gw7uuYFSqTR41ntBffZAqw/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LQZbJ2xCdPweR7V8qSm0Gw7uuYFSqTR41ntBffZAqw/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3LQZbJ2xCdPweR7V8qSm0Gw7uuYFSqTR41ntBffZAqw/745x559.jpg",
+          "width": 745
+        },
+        "imageCaption": "糸満ジャングルバギーツアーなど沖縄本島南部のアクティビティも用意",
+        "sectionTitle": "身体が元気になる色彩にこだわった朝食も"
+      },
+      {
+        "description": "早朝から大人気の「レイール」の朝食ブッフェでは、沖縄名物の島豆腐や種類豊富なパン、目の前で焼き上げるオムレツや目玉焼きがいただけます。「",
+        "image": {
+          "height": 785,
+          "sourceUrl": "https://a.mktgcdn.com/p/wZ6AFkP4reQEs01XeCkrtDozAaLXQRiw5DXfuGKSdOE/1200x785.jpg",
+          "thumbnails": [
+            {
+              "height": 785,
+              "url": "https://a.mktgcdn.com/p-sandbox/V_7LolbmtF1DrsOO4GMBsZwAHtrq7EcfWuYAYpo09mU/1200x785.jpg",
+              "width": 1200
+            },
+            {
+              "height": 405,
+              "url": "https://a.mktgcdn.com/p-sandbox/V_7LolbmtF1DrsOO4GMBsZwAHtrq7EcfWuYAYpo09mU/619x405.jpg",
+              "width": 619
+            },
+            {
+              "height": 393,
+              "url": "https://a.mktgcdn.com/p-sandbox/V_7LolbmtF1DrsOO4GMBsZwAHtrq7EcfWuYAYpo09mU/600x393.jpg",
+              "width": 600
+            },
+            {
+              "height": 128,
+              "url": "https://a.mktgcdn.com/p-sandbox/V_7LolbmtF1DrsOO4GMBsZwAHtrq7EcfWuYAYpo09mU/196x128.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/V_7LolbmtF1DrsOO4GMBsZwAHtrq7EcfWuYAYpo09mU/1200x785.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ラフテーや沖縄そばなど郷土の味も満喫"
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/VWkhZrk2KPyncIT4gJ5Q0FIgNt_NWyFphfDa_ytu1yY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/VWkhZrk2KPyncIT4gJ5Q0FIgNt_NWyFphfDa_ytu1yY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/VWkhZrk2KPyncIT4gJ5Q0FIgNt_NWyFphfDa_ytu1yY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/VWkhZrk2KPyncIT4gJ5Q0FIgNt_NWyFphfDa_ytu1yY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/VWkhZrk2KPyncIT4gJ5Q0FIgNt_NWyFphfDa_ytu1yY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VWkhZrk2KPyncIT4gJ5Q0FIgNt_NWyFphfDa_ytu1yY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "焼きたての卵料理など和洋琉の料理をお好みで"
+      }
+    ],
+    "c_ap_DatePosted": "2023-06-09",
+    "c_ap_HeroImage": {
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/SasoNVR4B9A2fKvAy3ep8ezeOV-u2rsiRTEKwG4WKTY/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/O17ZaTGlh88uo8RD30AC3P1RG2g6ursKFJK8NEz_3X0/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/O17ZaTGlh88uo8RD30AC3P1RG2g6ursKFJK8NEz_3X0/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/O17ZaTGlh88uo8RD30AC3P1RG2g6ursKFJK8NEz_3X0/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/O17ZaTGlh88uo8RD30AC3P1RG2g6ursKFJK8NEz_3X0/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/O17ZaTGlh88uo8RD30AC3P1RG2g6ursKFJK8NEz_3X0/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "地元でも人気の美々ビーチに面したリゾートホテル",
+    "c_ap_LinkArticleSectionTitle": "沖縄県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "沖縄旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/"
+      },
+      {
+        "linkText": "沖縄県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_ShortDescription": "沖縄本島最南端にある糸満市にあり、那覇市や空港から車で約20分という便利な立地にあるリゾートホテル。目の前には白浜の美々ビーチとエメラルドグリーンの海が広がり、あまりの絶景に国内にいることを忘れてしまうほど。多彩なマリンメニューにも挑戦できますよ。",
+    "c_ap_Tags": [
+      "沖縄",
+      "ビーチ",
+      "ガーデンプール",
+      "ウォータースライダー",
+      "シーカヤック",
+      "ブッフェ"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "グループ",
+      "ご当地グルメ",
+      "リゾート",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "沖縄初の虹のスライダーが誕生！ビーチとプールでアクティブに過ごそう【サザンビーチホテル＆リゾート沖縄】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "沖縄本島最南端にある糸満市にあり、那覇市や空港から車で約20分という便利な立地にあるリゾートホテル。目の前には白浜の美々ビーチとエメラルドグリーンの海が広がり、あまりの絶景に国内にいることを忘れてしまうほど。…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "沖縄初の虹のスライダーが誕生！ビーチとプールでアクティブに過ごそう【サザンビーチホテル＆リゾート沖縄】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100139",
+    "name": "沖縄初の虹のスライダーが誕生！ビーチとプールでアクティブに過ごそう【サザンビーチホテル＆リゾート沖縄】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

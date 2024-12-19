@@ -1,0 +1,255 @@
+{
+  "$id": "ap_osarea_0000152",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "日本人オーナーがデザイン･開発した実用的な雑貨がたくさん揃う「メリッサ」。センス抜群のバティック小物やボックス入り菓子なども充実します。しろたんの着ぐるみをかぶったマーライオン「しろたん×マーライオン」は、キュートな瞳が印象的。レモングラスなどのお香と、スタンドのセット「マーライオンインセンススタンド」S$35はマーライオンの口から煙が出る面白グッズ。シンガポールの伝統的雑貨が集まるプラナカン･コーナーにも注目です。Melissa DATA住所：333A Orchard Rd. （4F）営業時間：11〜19時定休日：月曜",
+        "image": {
+          "alternateText": "しろたん×マーライオン（M）S$22",
+          "height": 1082,
+          "sourceUrl": "https://a.mktgcdn.com/p/-6ANCWShtohDFcmRBDLSTPwuXoj3FOIKKfStnAA8Fco/1354x1082.jpg",
+          "thumbnails": [
+            {
+              "height": 1082,
+              "url": "https://a.mktgcdn.com/p-sandbox/DlHJgffOVPkLjrJvVXaPfJ5SAhTGBKd4a1k2Ft8iI7k/1354x1082.jpg",
+              "width": 1354
+            },
+            {
+              "height": 495,
+              "url": "https://a.mktgcdn.com/p-sandbox/DlHJgffOVPkLjrJvVXaPfJ5SAhTGBKd4a1k2Ft8iI7k/619x495.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/DlHJgffOVPkLjrJvVXaPfJ5SAhTGBKd4a1k2Ft8iI7k/563x450.jpg",
+              "width": 563
+            },
+            {
+              "height": 157,
+              "url": "https://a.mktgcdn.com/p-sandbox/DlHJgffOVPkLjrJvVXaPfJ5SAhTGBKd4a1k2Ft8iI7k/196x157.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DlHJgffOVPkLjrJvVXaPfJ5SAhTGBKd4a1k2Ft8iI7k/1354x1082.jpg",
+          "width": 1354
+        },
+        "imageCaption": "しろたん×マーライオン（M）S$22",
+        "sectionTitle": "メリッサ　（Melissa）"
+      },
+      {
+        "description": "「オンレウォ」は、デザイナーのユージーンさんが手がけるファブリック専門店。シンガポールの建物や街並み、お菓子などをデザインに取り入れた、カラフルでスタイリッシュな品がそろいます。おすすめはシルク・スカーフS$148や、プラナカン･タイル、シンガポール植物園などをモチーフにしたクッション・カバーS$55、色使いがキュートなコースター（４枚セット）S$30など。軽いので、おみやげとして持ち運ぶのにも便利です。OnlewoDATA住所：17 Joo Chiat Place営業時間：10時30分〜17時30分定休日：日・月曜",
+        "image": {
+          "alternateText": "ガラス入りの花S$34〜",
+          "height": 318,
+          "sourceUrl": "https://a.mktgcdn.com/p/vwAtl1dMkSGJt5P05E4_LCA7G3dZAOd7993ktMPPSxk/477x318.jpg",
+          "thumbnails": [
+            {
+              "height": 318,
+              "url": "https://a.mktgcdn.com/p-sandbox/JcuoPys7qWojT_vMe3RdtkMVWc5P07ORkyf6omCQdxQ/477x318.jpg",
+              "width": 477
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/JcuoPys7qWojT_vMe3RdtkMVWc5P07ORkyf6omCQdxQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JcuoPys7qWojT_vMe3RdtkMVWc5P07ORkyf6omCQdxQ/477x318.jpg",
+          "width": 477
+        },
+        "imageCaption": "店内にはさまざまなファブリック製品が揃う",
+        "sectionTitle": "オンレウォ （Onlewo）"
+      },
+      {
+        "description": "バイヤーがセレクトしたシンガポール･モチーフの雑貨が豊富に揃うお店。どれも日本人好みのラインナップです。ポーチや食器などのほか、｢シンガポール･メモリーズ｣の香水、コスメなど地元ブランドの商品もたくさんあります。日本人デザイナーのブランド｢NINA｣で大人気のショルダーバッグなど、思い思いの品をセレクトしましょう。Re-Style GiftDATA住所：350 Orchard Rd.（2F）営業時間：11〜19時　定休日：なし",
+        "image": {
+          "height": 794,
+          "sourceUrl": "https://a.mktgcdn.com/p/R0V4saH2oQkWlrJF4PA1d6t7o4hB7P3XMYQt7r7Zt3U/573x794.jpg",
+          "thumbnails": [
+            {
+              "height": 794,
+              "url": "https://a.mktgcdn.com/p-sandbox/ebM9l5H4cV1LW4veLIQJmSTpzmepIHZ22dKQ685X29E/573x794.jpg",
+              "width": 573
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ebM9l5H4cV1LW4veLIQJmSTpzmepIHZ22dKQ685X29E/325x450.jpg",
+              "width": 325
+            },
+            {
+              "height": 272,
+              "url": "https://a.mktgcdn.com/p-sandbox/ebM9l5H4cV1LW4veLIQJmSTpzmepIHZ22dKQ685X29E/196x272.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ebM9l5H4cV1LW4veLIQJmSTpzmepIHZ22dKQ685X29E/573x794.jpg",
+          "width": 573
+        },
+        "imageCaption": "ショルダーバッグS$182",
+        "sectionTitle": "リ-スタイル・ギフト　（Re-Style Gift）"
+      },
+      {
+        "description": "OUEダウンタウン内にあり、アクセサリーや雑貨、文房具などギフト向け商品を扱うセレクトショップ「エッセンシャル・エクストラ・ギフト・ストア」。デザイン重視で高品質な商品が揃い、女性に人気です。上品で使い勝手のいい動物柄のバッグ(小)S$40や、ライオンやペンギンといった動物のかわいらしい手作りピンS$22〜など、ほかにはない個性派のアクセサリーが豊富です。Essential Extra Gift StoreDATA住所：OUE Downtown Gallery #01- 39/40, 6A ShentonWay営業時間：10〜19時(土曜は〜17時)　定休日：日曜、祝日",
+        "image": {
+          "height": 1732,
+          "sourceUrl": "https://a.mktgcdn.com/p/j6MGxj6_n1_1_BedZ__UsRE1TeBnv4AWNxjX4xrAxls/1965x1732.jpg",
+          "thumbnails": [
+            {
+              "height": 1732,
+              "url": "https://a.mktgcdn.com/p-sandbox/yLSqF8-0IhExbJTvQC-YvPsQuEHv4NKLvJKv53b7sxQ/1965x1732.jpg",
+              "width": 1965
+            },
+            {
+              "height": 1675,
+              "url": "https://a.mktgcdn.com/p-sandbox/yLSqF8-0IhExbJTvQC-YvPsQuEHv4NKLvJKv53b7sxQ/1900x1675.jpg",
+              "width": 1900
+            },
+            {
+              "height": 546,
+              "url": "https://a.mktgcdn.com/p-sandbox/yLSqF8-0IhExbJTvQC-YvPsQuEHv4NKLvJKv53b7sxQ/619x546.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/yLSqF8-0IhExbJTvQC-YvPsQuEHv4NKLvJKv53b7sxQ/511x450.jpg",
+              "width": 511
+            },
+            {
+              "height": 173,
+              "url": "https://a.mktgcdn.com/p-sandbox/yLSqF8-0IhExbJTvQC-YvPsQuEHv4NKLvJKv53b7sxQ/196x173.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yLSqF8-0IhExbJTvQC-YvPsQuEHv4NKLvJKv53b7sxQ/1965x1732.jpg",
+          "width": 1965
+        },
+        "imageCaption": "動物の手作りピアスS$36",
+        "sectionTitle": "エッセンシャル・エクストラ・ギフト・ストア　（Essential Extra Gift Store）"
+      },
+      {
+        "description": "「ガーデンズショップ＠ナッシム・ゲート」は植物園の中にあり、植物モチーフの上品なデザインの商品が数多く揃います。置くだけで部屋に高級感を与えてくれる「ガラス入りの花」や、色鮮やかなプラナカンの伝統的なタイルをデザインした九谷焼の「プレート」S$48など、お気に入りを見つけましょう。ナッシム・ゲート本店には、シンガポールの老舗紅茶店の「1872クリッパー・ティー」も出店しているので、お買い物後にこだわりの紅茶を味わってはいかがでしょうか。Gardens Shop@Nassim Gate DATA住所：1 Cluny Rd.営業時間：8時30分〜19時定休日：なし※2023年11月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。",
+        "image": {
+          "height": 4019,
+          "sourceUrl": "https://a.mktgcdn.com/p/hjrLyGs3z4jLoVx3nfTUqn9pz3j8OzjAfO2l0fESdwA/2953x4019.jpg",
+          "thumbnails": [
+            {
+              "height": 4019,
+              "url": "https://a.mktgcdn.com/p-sandbox/7CmHkqLYk6dcNhUdJ7_GT3u-SrPbYZuCPnTjD7j23qE/2953x4019.jpg",
+              "width": 2953
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/7CmHkqLYk6dcNhUdJ7_GT3u-SrPbYZuCPnTjD7j23qE/1396x1900.jpg",
+              "width": 1396
+            },
+            {
+              "height": 842,
+              "url": "https://a.mktgcdn.com/p-sandbox/7CmHkqLYk6dcNhUdJ7_GT3u-SrPbYZuCPnTjD7j23qE/619x842.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/7CmHkqLYk6dcNhUdJ7_GT3u-SrPbYZuCPnTjD7j23qE/331x450.jpg",
+              "width": 331
+            },
+            {
+              "height": 267,
+              "url": "https://a.mktgcdn.com/p-sandbox/7CmHkqLYk6dcNhUdJ7_GT3u-SrPbYZuCPnTjD7j23qE/196x267.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7CmHkqLYk6dcNhUdJ7_GT3u-SrPbYZuCPnTjD7j23qE/2953x4019.jpg",
+          "width": 2953
+        },
+        "imageCaption": "ガラス入りの花S$34〜",
+        "sectionTitle": "ガーデンズショップ＠ナッシム・ゲート　（Gardens Shop@Nassim Gate）"
+      }
+    ],
+    "c_ap_DatePosted": "2023-04-01",
+    "c_ap_HeroImage": {
+      "height": 761,
+      "sourceUrl": "https://a.mktgcdn.com/p/SctsYafRT57ltnndzjZTF2-6xcml8waBuTQGdH7dU5Y/960x761.jpg",
+      "thumbnails": [
+        {
+          "height": 761,
+          "url": "https://a.mktgcdn.com/p-sandbox/sWFFM6T_vrBll1vZBaJNhLXDqv_DOfkrOp8-9GOl02g/960x761.jpg",
+          "width": 960
+        },
+        {
+          "height": 491,
+          "url": "https://a.mktgcdn.com/p-sandbox/sWFFM6T_vrBll1vZBaJNhLXDqv_DOfkrOp8-9GOl02g/619x491.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/sWFFM6T_vrBll1vZBaJNhLXDqv_DOfkrOp8-9GOl02g/568x450.jpg",
+          "width": 568
+        },
+        {
+          "height": 155,
+          "url": "https://a.mktgcdn.com/p-sandbox/sWFFM6T_vrBll1vZBaJNhLXDqv_DOfkrOp8-9GOl02g/196x155.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/sWFFM6T_vrBll1vZBaJNhLXDqv_DOfkrOp8-9GOl02g/960x761.jpg",
+      "width": 960
+    },
+    "c_ap_HeroImageCaption": "ガーデンズショップ＠ナッシム・ゲートの店内",
+    "c_ap_LinkArticleSectionTitle": "シンガポールのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea4": [
+      "シンガポール"
+    ],
+    "c_ap_ShortDescription": "多様な人々が住むシンガポールには、東西をミックスした個性派の雑貨が揃います。シンガポールの象徴・マーライオンの雑貨や、伝統文化であるプラナカンのアーティスト雑貨など、どれも魅力的なものばかり。かわいい雑貨をおみやげにまとめ買いしちゃいましょう！（写真：ガーデンズショップ＠ナッシム・ゲート）",
+    "c_ap_Tags": [
+      "プラナカン",
+      "まとめ買い",
+      "雑貨"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "一人旅",
+      "グループ",
+      "ショッピング"
+    ],
+    "c_ap_Title": "ポップ＆キュートなシンガポール雑貨のお店【シンガポール】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "多様な人々が住むシンガポールには、東西をミックスした個性派の雑貨が揃います。シンガポールの象徴・マーライオンの雑貨や、伝統文化であるプラナカンのアーティスト雑貨など、どれも魅力的なものばかり。かわいい雑貨をおみやげにまとめ買いしちゃいましょう！（写真：ガーデンズショップ＠ナッシム・ゲート）",
+    "c_metaTitle": "ポップ＆キュートなシンガポール雑貨のお店【シンガポール】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000152",
+    "name": "ポップ＆キュートなシンガポール雑貨のお店【シンガポール】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,62 @@
+{
+  "$id": "cp_13128010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfr_q",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "【ご挨拶】\n日頃よりJTB日本橋コレド室町店をご利用いただきまして誠にありがとうございます。\n当店では国内旅行・海外旅行・ハネムーン・クルーズまで経験豊富なスタッフがお客様のご希望に合った最適なプランをご提案いたします。\nみなさまのご来店をお待ちしております。",
+    "c_cp_DisplayName": "中島",
+    "c_cp_JobTitle": "JTB日本橋コレド室町店 店長",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 1280,
+      "sourceUrl": "https://a.mktgcdn.com/p/itg-YEYB0ZsJO93RclPhIZC9M2AZvb9NElJkn-LwTYY/960x1280.jpg",
+      "thumbnails": [
+        {
+          "height": 1280,
+          "url": "https://a.mktgcdn.com/p-sandbox/itg-YEYB0ZsJO93RclPhIZC9M2AZvb9NElJkn-LwTYY/960x1280.jpg",
+          "width": 960
+        },
+        {
+          "height": 825,
+          "url": "https://a.mktgcdn.com/p-sandbox/itg-YEYB0ZsJO93RclPhIZC9M2AZvb9NElJkn-LwTYY/619x825.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/itg-YEYB0ZsJO93RclPhIZC9M2AZvb9NElJkn-LwTYY/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/itg-YEYB0ZsJO93RclPhIZC9M2AZvb9NElJkn-LwTYY/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/itg-YEYB0ZsJO93RclPhIZC9M2AZvb9NElJkn-LwTYY/960x1280.jpg",
+      "width": 960
+    },
+    "c_cp_Point": "1321",
+    "c_cp_Tags": [
+      "ハワイスペシャリスト上級"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 中島",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 中島",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_13128010",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10147_日本橋コレド室町店",
+    "name": "なかじま _13128010",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

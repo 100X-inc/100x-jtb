@@ -1,0 +1,608 @@
+{
+  "$id": "news_web_kaigai_0017",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 833,
+      "sourceUrl": "https://a.mktgcdn.com/p/57dkrcgDMIKBju0Zb8PVt8f9-gsDQuqLAKD-SRI5_P4/1920x833.jpg",
+      "thumbnails": [
+        {
+          "height": 833,
+          "url": "https://a.mktgcdn.com/p-sandbox/57dkrcgDMIKBju0Zb8PVt8f9-gsDQuqLAKD-SRI5_P4/1920x833.jpg",
+          "width": 1920
+        },
+        {
+          "height": 824,
+          "url": "https://a.mktgcdn.com/p-sandbox/57dkrcgDMIKBju0Zb8PVt8f9-gsDQuqLAKD-SRI5_P4/1900x824.jpg",
+          "width": 1900
+        },
+        {
+          "height": 269,
+          "url": "https://a.mktgcdn.com/p-sandbox/57dkrcgDMIKBju0Zb8PVt8f9-gsDQuqLAKD-SRI5_P4/619x269.jpg",
+          "width": 619
+        },
+        {
+          "height": 260,
+          "url": "https://a.mktgcdn.com/p-sandbox/57dkrcgDMIKBju0Zb8PVt8f9-gsDQuqLAKD-SRI5_P4/600x260.jpg",
+          "width": 600
+        },
+        {
+          "height": 85,
+          "url": "https://a.mktgcdn.com/p-sandbox/57dkrcgDMIKBju0Zb8PVt8f9-gsDQuqLAKD-SRI5_P4/196x85.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/57dkrcgDMIKBju0Zb8PVt8f9-gsDQuqLAKD-SRI5_P4/1920x833.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "スイスの旅行情報をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/switzerland/"
+      },
+      {
+        "linkText": "スイスの添乗員同行ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?brand\u003d00LK,02RR,01CZ\u0026houmen\u003d01\u0026kuni\u003dCH\u0026vacantseat\u003d1"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_Tags": [
+      "リゾート",
+      "グルメ",
+      "おみゃげ",
+      "世界遺産",
+      "スイス",
+      "ヨーロッパ",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "スイス観光【現地スタッフが選ぶ】おすすめスポット＆旅の過ごし方",
+    "c_linkedArea3News": [
+      "switzerland"
+    ],
+    "c_metaDescription": "JTB現地スタッフがおすすめする、スイスの観光情報をご紹介します。マッターホルンやツェルマットなど大自然が作る絶景スポットが魅力。世界的名峰に挑戦するハイキングコースや、登山列車の情報もお届けします。旅のプロが厳選した、スイス観光を満喫するための過ごし方をぜひ参考にしてみてください！",
+    "c_metaTitle": "スイス観光【現地スタッフが選ぶ】おすすめスポット＆旅の過ごし方",
+    "c_news_CTAs": [
+      {
+        "label": "スイス旅行・ツアー情報をみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/switzerland/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "スイス行きの航空券をみる",
+        "link": "https://www.jtb.co.jp/ovs_air_static/europe/switzerland/zurich/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "スイスのホテルをみる",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/174/?freeword\u003d%E3%82%B9%E3%82%A4%E3%82%B9",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "マッターホルン観光のツアーをみる",
+          "link": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?brand\u003d00LK%2c02RR%2c01CZ\u0026departure\u003dNRT%2cHND%2cTYO\u0026houmen\u003d01\u0026kuni\u003dCH\u0026vacantseat\u003d1",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "ツェルマット観光のツアーをみる",
+          "link": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?brand\u003d00LK%2c02RR%2c01CZ\u0026departure\u003dNRT%2cHND%2cTYO\u0026houmen\u003d01\u0026kuni\u003dCH\u0026vacantseat\u003d1",
+          "linkType": "OTHER"
+        },
+        "description": "日本との時差はマイナス8時間、日本が正午のときにスイスは午前4時。ただし、サマータイム期間（3月最終日曜日～10月最終日曜日）はマイナス7時間です。6～9月頃が夏で、湿度も低く過ごしやすいと言えます。しかし天候が崩れると、寒さを感じるほど気温が下降することもあり、カーディガンや薄いセーターなどの準備が必要です。11～4月頃が冬で、平地でも気温が零度以下にまで下がります。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/5BE8m-diA7xnLCZC8vp2O2O308q768VvIC00iA_sF3Q/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/5BE8m-diA7xnLCZC8vp2O2O308q768VvIC00iA_sF3Q/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/5BE8m-diA7xnLCZC8vp2O2O308q768VvIC00iA_sF3Q/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/5BE8m-diA7xnLCZC8vp2O2O308q768VvIC00iA_sF3Q/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/5BE8m-diA7xnLCZC8vp2O2O308q768VvIC00iA_sF3Q/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5BE8m-diA7xnLCZC8vp2O2O308q768VvIC00iA_sF3Q/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "photo by Rhaetische Bahn/Andrea Badrutt",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．スイスの基本情報"
+      },
+      {
+        "cTA1": {
+          "label": "ユングフラウ観光のツアーをみる",
+          "link": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?brand\u003d00LK%2c02RR%2c01CZ\u0026departure\u003dNRT%2cHND%2cTYO\u0026houmen\u003d01\u0026kuni\u003dCH\u0026vacantseat\u003d1",
+          "linkType": "OTHER"
+        },
+        "description": "スイスといえばアルプス。4000メートル級の山々を眺めながらのハイキングは、その景色に感動すること間違いありません。スイス各地にたくさんのハイキングコースがありますが、道が整備されているところが多く、案内板も要所要所に設置されているなど、初心者からでも安心して楽しめるコースも多いです。おすすめはやはり、日本人にもおなじみのマッターホルンをのぞむツェルマット、そしてアイガー・メンヒ・ユングフラウの三山を一望できるユングフラウ地方です。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/HvMnYNOPacfLjIMc86lfVwpHIJQAJAVYMwA36nnfZks/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/HvMnYNOPacfLjIMc86lfVwpHIJQAJAVYMwA36nnfZks/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/HvMnYNOPacfLjIMc86lfVwpHIJQAJAVYMwA36nnfZks/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/HvMnYNOPacfLjIMc86lfVwpHIJQAJAVYMwA36nnfZks/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/HvMnYNOPacfLjIMc86lfVwpHIJQAJAVYMwA36nnfZks/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HvMnYNOPacfLjIMc86lfVwpHIJQAJAVYMwA36nnfZks/1536x1152.jpg",
+          "width": 1536
+        },
+        "imageCaption": "©swiss-saiki",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．スイスの名峰とハイキングエリア"
+      },
+      {
+        "cTA1": {
+          "label": "ツェルマットのホテルをみる",
+          "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/174/4300/?freeword\u003d%E3%83%84%E3%82%A7%E3%83%AB%E3%83%9E%E3%83%83%E3%83%88",
+          "linkType": "OTHER"
+        },
+        "description": "3つの湖面に映る逆さマッターホルンを巡るハイキング（初級：ブラウヘルド～シュテリー湖～グリンジー湖～ライ湖～スネガ）逆さマッターホルンに出会うためには、マッターホルンが姿を見せている事はもちろん、時間帯や湖面に波が立っていない事などいくつかの条件が必要になります。比較的条件が整いやすい午前中に出発すれば、3つすべての湖において逆さマッターホルンを楽しめるかもしれません。また、7月中旬～8月中旬の時期は野生のエーデルワイスに出会えるチャンスも多いコースです。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/dflD5EgsSWagLHu7OBNJCE9nJ-wAdpH1bYVT2O5440Y/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/dflD5EgsSWagLHu7OBNJCE9nJ-wAdpH1bYVT2O5440Y/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/dflD5EgsSWagLHu7OBNJCE9nJ-wAdpH1bYVT2O5440Y/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/dflD5EgsSWagLHu7OBNJCE9nJ-wAdpH1bYVT2O5440Y/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/dflD5EgsSWagLHu7OBNJCE9nJ-wAdpH1bYVT2O5440Y/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dflD5EgsSWagLHu7OBNJCE9nJ-wAdpH1bYVT2O5440Y/1536x1024.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "マッターホルンをのぞむハイキングコース"
+      },
+      {
+        "cTA1": {
+          "label": "サースフェーのホテルをみる",
+          "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/174/4300/?freeword\u003d%E3%82%B5%E3%83%BC%E3%82%B9%E3%83%95%E3%82%A7%E3%83%BC",
+          "linkType": "OTHER"
+        },
+        "description": "正面にアイガー・メンヒ・ユングフラウの三山を眺めながらの高山植物ハイキング（初級：メンリッヒェン～クライネシャイデック）2019年にリニューアルされたゴンドラでメンリッヒェン展望台へ。そこからはアイガー・メンヒ・ユングフラウの3山を目の前にしながら、壮大なアルプスの中を緩やかに下りながらクライネシャイデックを目指します。クライネシャイデックに到着した際のユングフラウ3山の大迫力は一見の価値ありです。",
+        "image": {
+          "height": 428,
+          "sourceUrl": "https://a.mktgcdn.com/p/1otYupqCjUR-Bvjm81YJiEe8oLPSi01nl8WMmJHP28k/640x428.jpg",
+          "thumbnails": [
+            {
+              "height": 428,
+              "url": "https://a.mktgcdn.com/p-sandbox/1otYupqCjUR-Bvjm81YJiEe8oLPSi01nl8WMmJHP28k/640x428.jpg",
+              "width": 640
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/1otYupqCjUR-Bvjm81YJiEe8oLPSi01nl8WMmJHP28k/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/1otYupqCjUR-Bvjm81YJiEe8oLPSi01nl8WMmJHP28k/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/1otYupqCjUR-Bvjm81YJiEe8oLPSi01nl8WMmJHP28k/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1otYupqCjUR-Bvjm81YJiEe8oLPSi01nl8WMmJHP28k/640x428.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ユングフラウ三山をのぞむハイキングコース"
+      },
+      {
+        "cTA1": {
+          "label": "ミューレンのホテルをみる",
+          "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/174/4300/?freeword\u003d%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%B3",
+          "linkType": "OTHER"
+        },
+        "description": "スイス旅行の醍醐味は、何といってもその絶景。各地を巡るレーティッシュ鉄道にも乗りながら、雄大なスイスの自然を心ゆくまでお楽しみください。",
+        "image": {
+          "height": 467,
+          "sourceUrl": "https://a.mktgcdn.com/p/VyDtYwL8o3QyJ2HtZmam-pysqwoteCGrkMKeYebVBtA/700x467.jpg",
+          "thumbnails": [
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p-sandbox/VyDtYwL8o3QyJ2HtZmam-pysqwoteCGrkMKeYebVBtA/700x467.jpg",
+              "width": 700
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/VyDtYwL8o3QyJ2HtZmam-pysqwoteCGrkMKeYebVBtA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/VyDtYwL8o3QyJ2HtZmam-pysqwoteCGrkMKeYebVBtA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/VyDtYwL8o3QyJ2HtZmam-pysqwoteCGrkMKeYebVBtA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VyDtYwL8o3QyJ2HtZmam-pysqwoteCGrkMKeYebVBtA/700x467.jpg",
+          "width": 700
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "3．スイスの世界遺産・観光名所"
+      },
+      {
+        "description": "「アルブラ線」では、美しい自然に村々が点在するのどかなアルブラ谷の情景を心ゆくまでお楽しみいただけます。高さ65mの印象的な「ランドヴァッサー橋」、ベルギューンからプレダまで約400mの高度差を調整する5つの「ループトンネル」、アルブラ峠を越える長さ5,866mもの「アルブラトンネル」など、まるで遊園地のアトラクションのような感覚で車窓からの絶景が楽しめるのも魅力の一つ。アルプスの豊かな自然を壊すことなく高度な技術によって築かれた路線は、鉄道技術の傑作ともうたわれています。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/rFs9zvhIj3aNZyScZGKrEToRruU6TsL5XGqt9ilRBbY/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/rFs9zvhIj3aNZyScZGKrEToRruU6TsL5XGqt9ilRBbY/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/rFs9zvhIj3aNZyScZGKrEToRruU6TsL5XGqt9ilRBbY/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/rFs9zvhIj3aNZyScZGKrEToRruU6TsL5XGqt9ilRBbY/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/rFs9zvhIj3aNZyScZGKrEToRruU6TsL5XGqt9ilRBbY/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rFs9zvhIj3aNZyScZGKrEToRruU6TsL5XGqt9ilRBbY/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ランドヴァッサー橋（アルブラ線）"
+      },
+      {
+        "description": "「ベルニナ線」は、雄大なスイスアルプスを通り抜け葡萄畑や栗林に覆われた谷を渡り、イタリアに至るまでのスイスを縦断する路線です。万年雪を冠った4,000m級のベルニナ山群の名峰や氷河が輝く風景は、まさに絶景。2,253mから429mまでの高低差を結ぶ、圧倒的な景色の連続は乗客を飽きさせません。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/n04nAtYGmn0D5lEXLE39KBonVb9StbXAjODXiSHQr-0/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/n04nAtYGmn0D5lEXLE39KBonVb9StbXAjODXiSHQr-0/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/n04nAtYGmn0D5lEXLE39KBonVb9StbXAjODXiSHQr-0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/n04nAtYGmn0D5lEXLE39KBonVb9StbXAjODXiSHQr-0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/n04nAtYGmn0D5lEXLE39KBonVb9StbXAjODXiSHQr-0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/n04nAtYGmn0D5lEXLE39KBonVb9StbXAjODXiSHQr-0/1536x1024.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ベルニナ線"
+      },
+      {
+        "description": "スイス南部のアルプスにあり、ユングフラウ、メンヒ、アイガーなどの山々に囲まれたヨーロッパ最長の氷河です。この絶景氷河を見学するための、2つのおすすめスポットをご紹介します。",
+        "image": {
+          "height": 427,
+          "sourceUrl": "https://a.mktgcdn.com/p/Qfv4h4QSIKGHzRQhSvJs_uZGohCJGgzhpUH0Xv9KZ_I/640x427.jpg",
+          "thumbnails": [
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/Qfv4h4QSIKGHzRQhSvJs_uZGohCJGgzhpUH0Xv9KZ_I/640x427.jpg",
+              "width": 640
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Qfv4h4QSIKGHzRQhSvJs_uZGohCJGgzhpUH0Xv9KZ_I/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Qfv4h4QSIKGHzRQhSvJs_uZGohCJGgzhpUH0Xv9KZ_I/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Qfv4h4QSIKGHzRQhSvJs_uZGohCJGgzhpUH0Xv9KZ_I/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Qfv4h4QSIKGHzRQhSvJs_uZGohCJGgzhpUH0Xv9KZ_I/640x427.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "アレッチ氷河"
+      },
+      {
+        "description": "登山列車でヨーロッパで最も標高の高いユングフラウヨッホ駅へ。エレベーターで3,571mのスフィンクス展望台からは一面氷の世界をお楽しみいただけます。",
+        "image": {
+          "height": 909,
+          "sourceUrl": "https://a.mktgcdn.com/p/YAr7v7a-BAs5U3zpt_kTWvm6noU1n-TZ7IYaZ4vPE28/1280x909.jpg",
+          "thumbnails": [
+            {
+              "height": 909,
+              "url": "https://a.mktgcdn.com/p-sandbox/YAr7v7a-BAs5U3zpt_kTWvm6noU1n-TZ7IYaZ4vPE28/1280x909.jpg",
+              "width": 1280
+            },
+            {
+              "height": 440,
+              "url": "https://a.mktgcdn.com/p-sandbox/YAr7v7a-BAs5U3zpt_kTWvm6noU1n-TZ7IYaZ4vPE28/619x440.jpg",
+              "width": 619
+            },
+            {
+              "height": 426,
+              "url": "https://a.mktgcdn.com/p-sandbox/YAr7v7a-BAs5U3zpt_kTWvm6noU1n-TZ7IYaZ4vPE28/600x426.jpg",
+              "width": 600
+            },
+            {
+              "height": 139,
+              "url": "https://a.mktgcdn.com/p-sandbox/YAr7v7a-BAs5U3zpt_kTWvm6noU1n-TZ7IYaZ4vPE28/196x139.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YAr7v7a-BAs5U3zpt_kTWvm6noU1n-TZ7IYaZ4vPE28/1280x909.jpg",
+          "width": 1280
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "ユングフラウヨッホ（トップ・オブ・ヨーロッパ）"
+      },
+      {
+        "description": "リーダーアルプよりロープウェイで、アレッチ氷河を望む絶景展望台のひとつモースフルー展望台へ。氷河の南側から、まさに氷の大河という美しい眺望が広がっています。",
+        "image": {
+          "height": 427,
+          "sourceUrl": "https://a.mktgcdn.com/p/OV4aeH9FPK5BH05VL1Ih_YvL2tF4ztLde7o--MvO4-o/640x427.jpg",
+          "thumbnails": [
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/OV4aeH9FPK5BH05VL1Ih_YvL2tF4ztLde7o--MvO4-o/640x427.jpg",
+              "width": 640
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/OV4aeH9FPK5BH05VL1Ih_YvL2tF4ztLde7o--MvO4-o/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/OV4aeH9FPK5BH05VL1Ih_YvL2tF4ztLde7o--MvO4-o/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/OV4aeH9FPK5BH05VL1Ih_YvL2tF4ztLde7o--MvO4-o/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OV4aeH9FPK5BH05VL1Ih_YvL2tF4ztLde7o--MvO4-o/640x427.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "モースフルー展望台"
+      },
+      {
+        "description": "ローザンヌからモントルー郊外まで、レマン湖の上にのびる丘陵にブドウ畑が続く美しい風景が2007年に文化遺産として登録されました。ブドウ農家が暮らす小さな村が織り成す景観の美しさだけではなく、ワインづくりの長い伝統と歴史を評価されて登録されております。秋の一面が黄金色に染まる絶景をはじめ、ブドウ畑の間を縫うようにつくられた小道を歩くハイキングもおすすめです。",
+        "image": {
+          "height": 427,
+          "sourceUrl": "https://a.mktgcdn.com/p/bn8V9ye1wPioejHCPD0Ayxr9v02eo6i0ER4eUGw63B4/640x427.jpg",
+          "thumbnails": [
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/bn8V9ye1wPioejHCPD0Ayxr9v02eo6i0ER4eUGw63B4/640x427.jpg",
+              "width": 640
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/bn8V9ye1wPioejHCPD0Ayxr9v02eo6i0ER4eUGw63B4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/bn8V9ye1wPioejHCPD0Ayxr9v02eo6i0ER4eUGw63B4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/bn8V9ye1wPioejHCPD0Ayxr9v02eo6i0ER4eUGw63B4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bn8V9ye1wPioejHCPD0Ayxr9v02eo6i0ER4eUGw63B4/640x427.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ラヴォ地区の葡萄畑（レマン湖）"
+      },
+      {
+        "description": "せっかくスイスに来たなら、大自然の中にあるホテルに宿泊したいですよね。スイスには、ガソリン車が乗り入れ禁止の【カーフリー・リゾート】の街もあり、アルプスの澄んだ空気の中での滞在をお楽しみいただけます。ここでは、観光の拠点にもおすすめな5つの街をご紹介します。",
+        "image": {
+          "height": 1026,
+          "sourceUrl": "https://a.mktgcdn.com/p/xswm3C9R5pENx3FoCHCTQbldnk2DCnH4yiOoSVPBg0s/1536x1026.jpg",
+          "thumbnails": [
+            {
+              "height": 1026,
+              "url": "https://a.mktgcdn.com/p-sandbox/xswm3C9R5pENx3FoCHCTQbldnk2DCnH4yiOoSVPBg0s/1536x1026.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/xswm3C9R5pENx3FoCHCTQbldnk2DCnH4yiOoSVPBg0s/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/xswm3C9R5pENx3FoCHCTQbldnk2DCnH4yiOoSVPBg0s/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/xswm3C9R5pENx3FoCHCTQbldnk2DCnH4yiOoSVPBg0s/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xswm3C9R5pENx3FoCHCTQbldnk2DCnH4yiOoSVPBg0s/1536x1026.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "4．スイスのカーフリー・リゾートに泊まる"
+      },
+      {
+        "description": "誰もが一度は訪れたい、言わずと知れた名峰マッターホルン麓の山岳リゾート。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ツェルマット"
+      },
+      {
+        "description": "スイス国内最高峰ドーム（4,545m）をはじめ、4,000m級の高峰が連なるミシャベル山群と氷河に囲まれたリゾート。",
+        "sectionLevel": "h3",
+        "sectionTitle": "サースフェー"
+      },
+      {
+        "description": "1,948mローヌ谷の上の高地に位置する山村で、アルプス初の世界遺産として有名なアレッチ氷河観光の拠点。",
+        "sectionLevel": "h3",
+        "sectionTitle": "リーダーアルプ"
+      },
+      {
+        "description": "ラウターブルンネン谷を見下ろすテラス状になった山の台地にある村で、名峰ユングフラウを望む村としても有名。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ウェンゲン"
+      },
+      {
+        "description": "ラウターブルンネン谷の崖の上にたたずむ、アイガー・メンヒ・ユングフラウの三山を望む山村。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ミューレン"
+      },
+      {
+        "description": "スイスの名物料理といえば、一番に思い浮かぶのはやはり「チーズフォンデュ」。ですが、様々な国に隣接するスイスでは、他にも地域ごとに多彩な料理を味わうことができます。ドイツ語圏エリアでは、肉類やジャガイモ、チーズを中心としたシンプルな料理や、短冊状に切ったジャガイモをフライパンでこんがり焼き上げた「レシュティ（Rösti）」がおすすめです。フランス語圏エリアには、フランス料理が楽しめるおしゃれなレストランがありますが、レマン湖で獲れた5cmほどの魚をフライにした料理「フィレ・ド・ペルシュ（Filet de Perche）」もぜひ召し上がっていただきたい一品です。イタリア語圏エリアでは、もちろんパスタなどの豊富なイタリア料理をたっぷりとお楽しみいただけます。そしてもう一つ、忘れてはならないのが「スイスワイン」です。生産量が少なく、ほとんどが国内で消費されているため、輸出されるのはごくわずかしかありません。スイスへお越しの際にはぜひ、お料理と一緒にスイスワインをお試しください。",
+        "sectionLevel": "h2",
+        "sectionTitle": "5．スイスのおすすめグルメ・料理"
+      },
+      {
+        "description": "春、スイスではサマータイム（3月最終日曜日から10月最終日曜日まで）が始まり、夜22時頃まで明るい季節となります。そのため、各地で夜間に催されるイベントも増えてきます。スイス連邦の建国記念日として全国共通の祝日となる8月1日は、各地でお祝いのイベントが開催されます。多くの街で民族音楽の演奏やパレードなど様々なイベントが開催されますが、各地で開催される花火大会は必見の価値があります。なかでも、ノイハウゼンにあるラインの滝では美しい花火が古くからの伝統となっており、あでやかな光に彩られた幻想的なライン川とヨーロッパ最大級の迫力ある滝を楽しみに、毎年、何千人という観客が集まることで有名です。",
+        "sectionLevel": "h2",
+        "sectionTitle": "6．スイスの現地スタッフ情報"
+      },
+      {
+        "description": "せっかくスイスに来たのなら、スイスらしいお土産をたくさん買っていきたいものです。そこで気をつけていただきたいのが、お店の営業日と時間。 スイスではほとんどの店が、日曜・祝日には閉まってしまいます。それぞれの場所や店舗で違いはありますが、一般的にお店の営業時間は平日8時30分～18時30分、土曜日は16時までとなっています。また、昼に1～2時間の休みをとるお店や、月曜の午前中に休むお店もあります。旅行計画を立てる際には、お店の営業時間を確認し、週末はハイキング等にあてて、お土産購入を兼ねた市街観光を平日にあてるといいかもしれません。※大きな土産物店などでは、観光客のために日曜も営業している場合もあります。また鉄道の駅構内にあるショップは開いていることが多いので便利です。大きな都市では週に一度、木曜日や金曜日など決まった曜日に、21時頃まで延長して営業しています。",
+        "sectionLevel": "h3",
+        "sectionTitle": "建国記念日イベント"
+      },
+      {
+        "description": "夏のスイス滞在には、周遊観光に便利な山岳交通パスがおすすめです！\u003cspan style\u003d\"color: #cf2e2e;\"\u003e（※2024年2月時点での情報のため、変更される可能性がございます）\u003c/span\u003e",
+        "sectionLevel": "h3",
+        "sectionTitle": "お土産ショップの営業時間"
+      },
+      {
+        "description": "スイス国内の主な鉄道、湖船、バスのネットワークを、通用期間内であれば何回でも乗り放題でご利用いただけるパスです。期間は連続する3日、4日、6日、8日、15日の5種類。切符を毎回購入する手間がなく、乗れば乗るほどお得になるので行動的な旅行者向き。※一部適用されない区間もございますのでご注意ください。",
+        "sectionLevel": "h3",
+        "sectionTitle": "山岳交通パス"
+      },
+      {
+        "description": "マッターホルン観光のベースとなるツェルマットを中心に、登山鉄道やロープウェイなどの山岳交通機関などが乗り放題となるパスになります。町中を走る路線バス（グリーンバス/レッドバス）も利用できますので、まさにツェルマット滞在には欠かせない1枚と言えるでしょう。",
+        "sectionLevel": "h4",
+        "sectionTitle": "スイストラベルパス"
+      },
+      {
+        "description": "ユングフラウエリアを自由自在にめぐる3～8日間のパス。ご滞在日数にあわせて使用期間を選べる、ユングフラウ地方の滞在にかかせないパスになります。主要な観光エクスカーションの交通機関に有効でハイキングやロングステイにもお勧めです。※アイガーグレッチャー駅⇔ユングフラウヨッホの区間は適用外となりますのでご注意ください。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ツェルマット・ピークパス"
+      },
+      {
+        "description": "このパス1枚でエンガディン地方（サンモリッツなど）にある魅力的なケーブルカーやロープウェイなどの山岳交通が乗り放題となる便利な交通パス。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ユングフラウ トラベルパス"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "ベルグバーネン・インクルーシブ"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0020",
+      "news_web_kaigai_0018",
+      "news_web_kaigai_0014",
+      "guide_0001"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2020-10-21",
+    "c_news_UpdateDate": "2024-06-27",
+    "c_news_ViewCount": "9711",
+    "c_news_ViewCount2of2": "9711",
+    "c_news_ViewCountNum": "9711",
+    "c_news_ViewCountNumForSorting": "515",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/europe/switzerland/news_web_kaigai_0017",
+    "c_relatedAreas": [
+      "switzerland"
+    ],
+    "name": "スイス観光【現地スタッフが選ぶ】おすすめスポット＆旅の過ごし方",
+    "slug": "kaigai/europe/switzerland/news_web_kaigai_0017",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

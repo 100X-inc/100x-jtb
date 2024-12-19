@@ -1,0 +1,19 @@
+{
+  "$id": "test_area_root",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea01": [
+      "test_kaigai",
+      "test_kokunai",
+      "test_others"
+    ],
+    "c_metaDescription": "「 {tag} {theme}」に関する記事をピックアップ！JTBニュースでは、{tag} {theme} についての観光情報をご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | {tag} {theme} |  旅行・おでかけ情報",
+    "c_news_BreadcrumbsName": "すべての記事一覧",
+    "name": "テストすべて",
+    "slug": "index.html"
+  },
+  "entityType": "ce_areaLevel0",
+  "labels": []
+}

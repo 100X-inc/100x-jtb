@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_shan_li_xian_zhong_ju_mo_jun",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247863"
+    ],
+    "dm_directoryChildren": [
+      "3333-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_shan_li_xian"
+    ],
+    "name": "中巨摩郡",
+    "slug": "山梨県/中巨摩郡"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

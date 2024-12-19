@@ -1,0 +1,502 @@
+{
+  "$id": "ap_area_0000042",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ トラベルコンサルタント 北野 有記",
+      "link": "https://consultants.jtb.co.jp/cp_y_kitano151",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿者にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVeg",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "旅のスタートは、なまはげで知られる男鹿半島から。標高355mの寒風山の山頂には展望台があり、日本海をはじめ、白神山地や鳥海山など360度のパノラマ風景を楽しめます。1階には売店とレストラン、2・3階には八郎潟や男鹿半島の歴史がわかる資料展示室も。寒風山パラグライダースクールでは体験飛行を実施。アクティブ派におすすめです。",
+        "image": {
+          "height": 346,
+          "sourceUrl": "https://a.mktgcdn.com/p/SZJHZVYwjZMyCr4b1NR52hNaJQG0A4V4GXli4ERNNeQ/518x346.jpg",
+          "thumbnails": [
+            {
+              "height": 346,
+              "url": "https://a.mktgcdn.com/p-sandbox/QDr9lJUOSL59H88uS71su9h6yKfBiaIsTk7pfoiTwO8/518x346.jpg",
+              "width": 518
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/QDr9lJUOSL59H88uS71su9h6yKfBiaIsTk7pfoiTwO8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QDr9lJUOSL59H88uS71su9h6yKfBiaIsTk7pfoiTwO8/518x346.jpg",
+          "width": 518
+        },
+        "imageCaption": "4階の展望室は床が約13分で1周する回転式",
+        "sectionTitle": "「寒風山回転展望台」から絶景を満喫（1日目　10：00）"
+      },
+      {
+        "description": "重要無形民俗文化財に指定されている「男鹿のナマハゲ」は、大みそかの夜に男鹿半島のほぼ全域で行われている民俗行事。「なまはげ館」では、大みそかの行事を記録した映像の上映や、150枚を超えるなまはげ面の展示などを行っています。売店ではオリジナルてぬぐいなど限定品も販売。おみやげにぴったりです。",
+        "image": {
+          "height": 624,
+          "sourceUrl": "https://a.mktgcdn.com/p/8jmVydNVZk0vqu7ZbHQrCTYKcfwUhpEDHxbYzsUpyYs/937x624.jpg",
+          "thumbnails": [
+            {
+              "height": 624,
+              "url": "https://a.mktgcdn.com/p-sandbox/IE6KSHM-Qf5WphwIiiiHlynMYhHgJ6C_2DFZIf2XJyY/937x624.jpg",
+              "width": 937
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/IE6KSHM-Qf5WphwIiiiHlynMYhHgJ6C_2DFZIf2XJyY/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/IE6KSHM-Qf5WphwIiiiHlynMYhHgJ6C_2DFZIf2XJyY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/IE6KSHM-Qf5WphwIiiiHlynMYhHgJ6C_2DFZIf2XJyY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/IE6KSHM-Qf5WphwIiiiHlynMYhHgJ6C_2DFZIf2XJyY/937x624.jpg",
+          "width": 937
+        },
+        "imageCaption": "市内各地区のなまはげ面が一堂に。1枚1枚表情が異なります",
+        "sectionTitle": "「なまはげ館」で男鹿の民俗行事を学ぶ（1日目　11：00）"
+      },
+      {
+        "description": "ランチは絶景を楽しみながら食事ができる「鵜ノ崎テラス」へ。もともとは男鹿の海産物を扱う直売所でしたが、2021年7月、カフェレストランにリニューアルしました。海鮮丼などで、男鹿で水揚げされた新鮮魚介を味わえます。テラス席もあり、目の前の鵜ノ崎海岸を眺めながら至福の時間を過ごせます。",
+        "image": {
+          "height": 416,
+          "sourceUrl": "https://a.mktgcdn.com/p/8qEseMdk-DIhk2QNVe4Kb7pCjeSVzF5FaxWpOGsOJQM/640x416.jpg",
+          "thumbnails": [
+            {
+              "height": 416,
+              "url": "https://a.mktgcdn.com/p-sandbox/8qEseMdk-DIhk2QNVe4Kb7pCjeSVzF5FaxWpOGsOJQM/640x416.jpg",
+              "width": 640
+            },
+            {
+              "height": 402,
+              "url": "https://a.mktgcdn.com/p-sandbox/8qEseMdk-DIhk2QNVe4Kb7pCjeSVzF5FaxWpOGsOJQM/619x402.jpg",
+              "width": 619
+            },
+            {
+              "height": 390,
+              "url": "https://a.mktgcdn.com/p-sandbox/8qEseMdk-DIhk2QNVe4Kb7pCjeSVzF5FaxWpOGsOJQM/600x390.jpg",
+              "width": 600
+            },
+            {
+              "height": 127,
+              "url": "https://a.mktgcdn.com/p-sandbox/8qEseMdk-DIhk2QNVe4Kb7pCjeSVzF5FaxWpOGsOJQM/196x127.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8qEseMdk-DIhk2QNVe4Kb7pCjeSVzF5FaxWpOGsOJQM/640x416.jpg",
+          "width": 640
+        },
+        "imageCaption": "人気の海鮮丼。麺類やデザート、ドリンクなど豊富なメニューも魅力",
+        "sectionTitle": "「鵜ノ崎テラス」で海鮮ランチ（1日目　12：00）"
+      },
+      {
+        "description": "お腹が満たされたら、「鵜ノ崎海岸」で絶景観賞を楽しみましょう。沖合200m先まで続く全国的にも珍しい遠浅の海岸で、その美しさは「秋田のウユニ塩湖」とも呼ばれるほど。水面に空が反射する様子は、風がなく、水面に波が立たない穏やかな晴天の日など、条件が整った場合のみ見られます。車を10分ほど走らせれば、ゴジラの横顔に似ているといわれる「ゴジラ岩」もあるので、合わせて楽しんでみてはいかがですか。",
+        "image": {
+          "height": 2667,
+          "sourceUrl": "https://a.mktgcdn.com/p/MOW5qYZaMDe6zuxzNNV7rwU9qFpNyuKq2FNecnhWuh4/4000x2667.jpg",
+          "thumbnails": [
+            {
+              "height": 2667,
+              "url": "https://a.mktgcdn.com/p-sandbox/MOW5qYZaMDe6zuxzNNV7rwU9qFpNyuKq2FNecnhWuh4/4000x2667.jpg",
+              "width": 4000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/MOW5qYZaMDe6zuxzNNV7rwU9qFpNyuKq2FNecnhWuh4/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/MOW5qYZaMDe6zuxzNNV7rwU9qFpNyuKq2FNecnhWuh4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/MOW5qYZaMDe6zuxzNNV7rwU9qFpNyuKq2FNecnhWuh4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/MOW5qYZaMDe6zuxzNNV7rwU9qFpNyuKq2FNecnhWuh4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MOW5qYZaMDe6zuxzNNV7rwU9qFpNyuKq2FNecnhWuh4/4000x2667.jpg",
+          "width": 4000
+        },
+        "imageCaption": "「日本の渚百選」にも選ばれている海岸",
+        "sectionTitle": "話題の絶景「鵜ノ崎海岸」を堪能（1日目　13：00）"
+      },
+      {
+        "description": "男鹿半島から車で約1時間、秋田市街地へ移動。千秋公園のお堀近くに立つ「秋田市文化創造館」でひと休み。こちらは旧秋田県立美術館を改修し、2021年3月にオープンした文化施設です。作品展やワークショップ、マルシェなど多彩なイベントが開催されているので、ふらっと訪れるだけでも興味のあるものに出会えるかもしれません。館内に設置されたさまざまな椅子やテラス席、千秋公園のベンチに座って、ひと息つくのもおすすめです。",
+        "image": {
+          "height": 2667,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZGC5eWelqBqDL9fdPJ-bc64bgw4uoziRB2q5NgimiTU/4000x2667.jpg",
+          "thumbnails": [
+            {
+              "height": 2667,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZGC5eWelqBqDL9fdPJ-bc64bgw4uoziRB2q5NgimiTU/4000x2667.jpg",
+              "width": 4000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZGC5eWelqBqDL9fdPJ-bc64bgw4uoziRB2q5NgimiTU/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZGC5eWelqBqDL9fdPJ-bc64bgw4uoziRB2q5NgimiTU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZGC5eWelqBqDL9fdPJ-bc64bgw4uoziRB2q5NgimiTU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZGC5eWelqBqDL9fdPJ-bc64bgw4uoziRB2q5NgimiTU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZGC5eWelqBqDL9fdPJ-bc64bgw4uoziRB2q5NgimiTU/4000x2667.jpg",
+          "width": 4000
+        },
+        "imageCaption": "特徴的な屋根と丸い窓が目を引きます",
+        "sectionTitle": "「秋田市文化創造館」に立ち寄り（1日目　14：30）"
+      },
+      {
+        "description": "秋田タウンでおみやげを選ぶなら、名園・千秋公園前にある「エリアなかいち」で。個性あふれる18のテナントが集まり、銘菓や伝統工芸品などさまざまな秋田みやげが揃っています。秋田犬に会える「秋田犬ステーション」では、かわいい秋田犬グッズなど最新のおみやげも。安藤忠雄氏が設計した「秋田県立美術館」なども要チェックです。※秋田犬ステーションは月・水・金曜休み（祝日は営業、秋田犬に会える日時はHPで要確認）1日目は、秋田駅前から車で1時間10分ほどの角館で宿泊。武家屋敷通り周辺には古民家や蔵を改装した宿が点在し、当時の面影を感じながらくつろぐことができます。",
+        "image": {
+          "height": 613,
+          "sourceUrl": "https://a.mktgcdn.com/p/MrVDG0IAS9xJeUoIyNDY5LXMd4kE4-m5vfC6nagUENk/859x613.png",
+          "thumbnails": [
+            {
+              "height": 613,
+              "url": "https://a.mktgcdn.com/p-sandbox/KEL0e7yCvfQMcMkqJ_vJz50v6Lp_OwR3Hv27z5jmjDk/859x613.png",
+              "width": 859
+            },
+            {
+              "height": 442,
+              "url": "https://a.mktgcdn.com/p-sandbox/KEL0e7yCvfQMcMkqJ_vJz50v6Lp_OwR3Hv27z5jmjDk/619x442.png",
+              "width": 619
+            },
+            {
+              "height": 428,
+              "url": "https://a.mktgcdn.com/p-sandbox/KEL0e7yCvfQMcMkqJ_vJz50v6Lp_OwR3Hv27z5jmjDk/600x428.png",
+              "width": 600
+            },
+            {
+              "height": 140,
+              "url": "https://a.mktgcdn.com/p-sandbox/KEL0e7yCvfQMcMkqJ_vJz50v6Lp_OwR3Hv27z5jmjDk/196x140.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KEL0e7yCvfQMcMkqJ_vJz50v6Lp_OwR3Hv27z5jmjDk/859x613.png",
+          "width": 859
+        },
+        "imageCaption": "「秋田犬 たれみみだいちゃん」のランチトート、モフマグなど",
+        "sectionTitle": "「エリアなかいち」でおみやげをゲット（1日目　15：30）"
+      },
+      {
+        "description": "2日目は「角館武家屋敷通り」からスタート。武家屋敷や蔵が現存するレトロな町並みを歩けば、タイムスリップした気分に浸れます。通りには食事処やカフェ、ショップが点在し、立ち寄りスポットも豊富です。角館は、季節ごとに表情がガラリと変わるのも魅力的。桜、新緑、紅葉、雪景色と、訪れるたびに新たな魅力に出会えます。",
+        "image": {
+          "height": 467,
+          "sourceUrl": "https://a.mktgcdn.com/p/uu64bzHqGu0K3llcZqh4XouLCf5dvXzuzFQP3xoFyuo/700x467.jpg",
+          "thumbnails": [
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p-sandbox/BkuTRt3fXEal2WHqUc8kMTQV_C7-Hom2ALL9NJRtk50/700x467.jpg",
+              "width": 700
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/BkuTRt3fXEal2WHqUc8kMTQV_C7-Hom2ALL9NJRtk50/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/BkuTRt3fXEal2WHqUc8kMTQV_C7-Hom2ALL9NJRtk50/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/BkuTRt3fXEal2WHqUc8kMTQV_C7-Hom2ALL9NJRtk50/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BkuTRt3fXEal2WHqUc8kMTQV_C7-Hom2ALL9NJRtk50/700x467.jpg",
+          "width": 700
+        },
+        "imageCaption": "「みちのくの小京都」と呼ばれる、情緒あふれる町並みを歩きましょう",
+        "sectionTitle": "「角館武家屋敷通り」で歴史散歩を満喫（2日目　10：30）"
+      },
+      {
+        "description": "角館でランチを済ませたら、車で約40分の「田沢湖」へ。水深423.4mの田沢湖は日本一の深さを誇る湖で、近年はアクティビティも充実しています。定番の田沢湖遊覧船をはじめ、カヤックなどのウォーターアクティビティ、予約制のプライベートサウナなど多彩。サウナでは、水風呂の代わりに田沢湖にダイブするというここならではの体験も！　大自然の中で整ってみては。",
+        "image": {
+          "height": 1335,
+          "sourceUrl": "https://a.mktgcdn.com/p/_QBLrW6UfVBc5N1xxhkFJ7xH36GMoTqaRCSe6oJvrXc/2000x1335.jpg",
+          "thumbnails": [
+            {
+              "height": 1335,
+              "url": "https://a.mktgcdn.com/p-sandbox/_QBLrW6UfVBc5N1xxhkFJ7xH36GMoTqaRCSe6oJvrXc/2000x1335.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1268,
+              "url": "https://a.mktgcdn.com/p-sandbox/_QBLrW6UfVBc5N1xxhkFJ7xH36GMoTqaRCSe6oJvrXc/1900x1268.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/_QBLrW6UfVBc5N1xxhkFJ7xH36GMoTqaRCSe6oJvrXc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/_QBLrW6UfVBc5N1xxhkFJ7xH36GMoTqaRCSe6oJvrXc/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/_QBLrW6UfVBc5N1xxhkFJ7xH36GMoTqaRCSe6oJvrXc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_QBLrW6UfVBc5N1xxhkFJ7xH36GMoTqaRCSe6oJvrXc/2000x1335.jpg",
+          "width": 2000
+        },
+        "imageCaption": "田沢湖のシンボル、金色に輝く「たつこ像」",
+        "sectionTitle": "神秘の湖「田沢湖」でリフレッシュ（2日目　14：00）"
+      },
+      {
+        "description": "2日目の夜は「乳頭温泉郷」でリラックス。全国から温泉ファンが訪れる山あいの温泉郷で、7つの名湯、タイプの異なる8つの一軒宿が点在し、好みの宿でゆっくり過ごすことができます。野趣あふれる露天風呂や、地元食材を盛り込んだ滋味深い料理などを楽しみながら、癒やしのひと時を。",
+        "image": {
+          "height": 1592,
+          "sourceUrl": "https://a.mktgcdn.com/p/fQ9SAVoSBNNf_YMG7-PY1IHwoKF1Wiuls0Mr5xy-O_4/2400x1592.jpg",
+          "thumbnails": [
+            {
+              "height": 1592,
+              "url": "https://a.mktgcdn.com/p-sandbox/SOkqL83ZT_dttt70la3Nf3XAPEK27Y9UZ_twbv-8YM0/2400x1592.jpg",
+              "width": 2400
+            },
+            {
+              "height": 1260,
+              "url": "https://a.mktgcdn.com/p-sandbox/SOkqL83ZT_dttt70la3Nf3XAPEK27Y9UZ_twbv-8YM0/1900x1260.jpg",
+              "width": 1900
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/SOkqL83ZT_dttt70la3Nf3XAPEK27Y9UZ_twbv-8YM0/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/SOkqL83ZT_dttt70la3Nf3XAPEK27Y9UZ_twbv-8YM0/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/SOkqL83ZT_dttt70la3Nf3XAPEK27Y9UZ_twbv-8YM0/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SOkqL83ZT_dttt70la3Nf3XAPEK27Y9UZ_twbv-8YM0/2400x1592.jpg",
+          "width": 2400
+        },
+        "imageCaption": "渓谷沿いの一軒宿「妙乃湯」の露天風呂",
+        "sectionTitle": "山あいの「乳頭温泉郷」でじっくり滞在（2日目　17：00）"
+      },
+      {
+        "description": "3日目は、乳頭温泉郷から車で1時間30分ほど南下して湯沢へ。湯沢は日本三大うどんのひとつにあげられる稲庭うどんの発祥地といわれ、江戸時代から伝わる味を楽しむことができます。今回は、万延元年（1860）創業の老舗「佐藤養助総本店」でランチ。手練りや手綯いなど職人技から生み出される、稲庭うどんならではの独特のコシとのど越しの良さを堪能。売店では直営店限定品をゲットしましょう。",
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://a.mktgcdn.com/p/FdygLJZnmnVzmaXkiUzjNS3wn93c0F7BaOfybJxoapU/960x640.jpg",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "https://a.mktgcdn.com/p-sandbox/WNParZg_gkhUGPxiwp645qg_DcPvtDStm2sdJg1aftc/960x640.jpg",
+              "width": 960
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/WNParZg_gkhUGPxiwp645qg_DcPvtDStm2sdJg1aftc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/WNParZg_gkhUGPxiwp645qg_DcPvtDStm2sdJg1aftc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/WNParZg_gkhUGPxiwp645qg_DcPvtDStm2sdJg1aftc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WNParZg_gkhUGPxiwp645qg_DcPvtDStm2sdJg1aftc/960x640.jpg",
+          "width": 960
+        },
+        "imageCaption": "醤油と胡麻味噌、2種類のツユで楽しめる二味せいろ",
+        "sectionTitle": "「佐藤養助総本店」で稲庭うどんランチ（3日目　12：00）"
+      },
+      {
+        "description": "旅の締めくくりは「佐藤養助総本店」から車で20分ほどの場所にある「横手市増田まんが美術館」。日本でも珍しく、マンガ原画をテーマにした美術館で、45万枚以上の原画収蔵数を誇ります。まずは巨大なマンガウォールがお出迎え。常時74人の漫画家の原画を展示している「マンガ展示室」や、原画の収蔵庫「マンガの蔵展示室」など、みどころが充実。土・日曜、祝日はワークショップも開催しています。",
+        "image": {
+          "height": 620,
+          "sourceUrl": "https://a.mktgcdn.com/p/3MT73ZNZOuEEpqBql4WRcbOml8-HDsH0QsL4UjqTbG0/1102x620.jpg",
+          "thumbnails": [
+            {
+              "height": 620,
+              "url": "https://a.mktgcdn.com/p-sandbox/x7j7LU-PZji5P4WayFiyhK9I9j42tmh162XL4Kvredg/1102x620.jpg",
+              "width": 1102
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/x7j7LU-PZji5P4WayFiyhK9I9j42tmh162XL4Kvredg/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/x7j7LU-PZji5P4WayFiyhK9I9j42tmh162XL4Kvredg/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/x7j7LU-PZji5P4WayFiyhK9I9j42tmh162XL4Kvredg/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/x7j7LU-PZji5P4WayFiyhK9I9j42tmh162XL4Kvredg/1102x620.jpg",
+          "width": 1102
+        },
+        "imageCaption": "初代名誉館長は横手市出身の漫画家・矢口高雄氏",
+        "sectionTitle": "「横手市増田まんが美術館」で原画鑑賞（3日目　13：30）"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2023-03-26",
+    "c_ap_HeroImage": {
+      "alternateText": "【男鹿半島～角館～横手】秋田の魅力まるわかり！2泊3日欲ばりモデルコース",
+      "height": 627,
+      "sourceUrl": "https://a.mktgcdn.com/p/fageIbnCItVL8ioHqIs_1YB5TKnMIiHQOQAcPp_b0qI/941x627.jpg",
+      "thumbnails": [
+        {
+          "height": 627,
+          "url": "https://a.mktgcdn.com/p-sandbox/A-Qm3jYxDNIOd6Zf0yF1x4tGe7cfs7g7EE3rAujjhm0/941x627.jpg",
+          "width": 941
+        },
+        {
+          "height": 412,
+          "url": "https://a.mktgcdn.com/p-sandbox/A-Qm3jYxDNIOd6Zf0yF1x4tGe7cfs7g7EE3rAujjhm0/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/A-Qm3jYxDNIOd6Zf0yF1x4tGe7cfs7g7EE3rAujjhm0/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/A-Qm3jYxDNIOd6Zf0yF1x4tGe7cfs7g7EE3rAujjhm0/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/A-Qm3jYxDNIOd6Zf0yF1x4tGe7cfs7g7EE3rAujjhm0/941x627.jpg",
+      "width": 941
+    },
+    "c_ap_HeroImageCaption": "なまはげの里・男鹿半島からスタート！",
+    "c_ap_LinkArticleSectionTitle": "秋田県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "秋田旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/akita/"
+      },
+      {
+        "linkText": "秋田県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/akita/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea1": [
+      "東北全般",
+      "秋田県"
+    ],
+    "c_ap_ShortDescription": "せっかく秋田を回るなら、2泊3日でじっくり楽しむのがベター。定番はもちろん、旬のスポットもおさえた大満足のモデルコースがこちら。絶景、グルメ、温泉と、秋田ならではの感動体験に浸れる3日間。ドライブしながら、秋田の魅力をご堪能あれ！",
+    "c_ap_Tags": [
+      "モデルプラン",
+      "絶景",
+      "海鮮",
+      "グルメ"
+    ],
+    "c_ap_Theme": [
+      "自然・山",
+      "街あるき",
+      "ドライブ",
+      "グルメ",
+      "ご当地グルメ",
+      "温泉・立ち寄り湯"
+    ],
+    "c_ap_Title": "【男鹿半島～角館～横手】秋田の魅力まるわかり！2泊3日欲ばりモデルコース",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "せっかく秋田を回るなら、2泊3日でじっくり楽しむのがベター。定番はもちろん、旬のスポットもおさえた大満足のモデルコースがこちら。絶景、グルメ、温泉と、秋田ならではの感動体験に浸れる3日間。ドライブしながら、秋田の魅力をご堪能あれ！",
+    "c_metaTitle": "【男鹿半島～角館～横手】秋田の魅力まるわかり！2泊3日欲ばりモデルコース | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_area_0000042",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "東北全般, 秋田県",
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "【男鹿半島～角館～横手】秋田の魅力まるわかり！2泊3日欲ばりモデルコース",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

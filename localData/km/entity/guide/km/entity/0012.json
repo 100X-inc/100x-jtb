@@ -1,0 +1,481 @@
+{
+  "$id": "guide_0012",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "alternateText": "ドイツで有名なお城",
+      "height": 952,
+      "sourceUrl": "https://a.mktgcdn.com/p/6-DB3xSIa99ImecYThhri3XC_nKSGpg3qV0MrS1tHUM/1200x952.webp",
+      "thumbnails": [
+        {
+          "height": 952,
+          "url": "https://a.mktgcdn.com/p-sandbox/6-DB3xSIa99ImecYThhri3XC_nKSGpg3qV0MrS1tHUM/1200x952.webp",
+          "width": 1200
+        },
+        {
+          "height": 491,
+          "url": "https://a.mktgcdn.com/p-sandbox/6-DB3xSIa99ImecYThhri3XC_nKSGpg3qV0MrS1tHUM/619x491.webp",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/6-DB3xSIa99ImecYThhri3XC_nKSGpg3qV0MrS1tHUM/567x450.webp",
+          "width": 567
+        },
+        {
+          "height": 155,
+          "url": "https://a.mktgcdn.com/p-sandbox/6-DB3xSIa99ImecYThhri3XC_nKSGpg3qV0MrS1tHUM/196x155.webp",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/6-DB3xSIa99ImecYThhri3XC_nKSGpg3qV0MrS1tHUM/1200x952.webp",
+      "width": 1200
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ドイツ旅行を探す",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/germany/"
+      },
+      {
+        "linkText": "ドイツ行きの航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/europe/germany/"
+      },
+      {
+        "linkText": "ドイツの現地オプショナルツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aEUR/bDE/"
+      },
+      {
+        "linkText": "ドイツの添乗員同行ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?houmen\u003d01\u0026kuni\u003dDE\u0026vacantseat\u003d1\u0026brand\u003d00LK%2c02RR%2c01CZ"
+      },
+      {
+        "linkText": "ヨーロッパ周遊バスツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/landcruise/index.html"
+      }
+    ],
+    "c_ap_PagesGeneration": true,
+    "c_ap_Title": "ドイツで有名なお城7選！庭園や宮殿も魅力",
+    "c_linkedArea3News": [
+      "germany"
+    ],
+    "c_metaDescription": "ドイツで有名なお城8選をご紹介します。中世の暮らしを垣間見れるドイツのお城は、観光の目玉！人気のノイシュバンシュタイン城やホーエンツォレルン城、ハイデルベルク城の三大名城もピックアップしました。ディスクリプションを入れる",
+    "c_metaTitle": "ドイツで有名なお城7選！庭園や宮殿も魅力",
+    "c_news_CTAs": [
+      {
+        "label": "ドイツ旅行を探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/germany/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "ドイツの添乗員同行ツアーを探す",
+        "link": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?houmen\u003d01\u0026kuni\u003dDE\u0026vacantseat\u003d1\u0026brand\u003d00LK%2c02RR%2c01CZ",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "ヨーロッパ周遊バスツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai_opt/landcruise/index.html",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ノイシュバンシュタイン城を巡る現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aEUR/bDE/cMUC/?keyWord\u003d%25E3%2583%258E%25E3%2582%25A4%25E3%2582%25B7%25E3%2583%25A5%25E3%2583%2590%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25B3\u0026searchFlag\u003d1",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "ノイシュバンシュタイン城を巡る添乗員同行ツアーをみる",
+          "link": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?brand\u003d00LK,02RR,01CZ\u0026houmen\u003d01\u0026kuni\u003dDE\u0026freeword\u003d%E3%83%8E%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%90%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3\u0026vacantseat\u003d1",
+          "linkType": "OTHER"
+        },
+        "description": "ドイツのバイエルン州に位置するノイシュバンシュタイン城は、1白い外観が特徴的な城で、19世紀に建てられました。世界的にも有名なお城で、観光客で賑わう名所。バイエルン王ルートヴィヒ2世によって建設され、芸術に対する強い情熱が感じられます。城は山の中腹に建てられ、遠くにアルプス山脈を望むことができますよ。「白鳥の城」や、シンデレラ城のモデルになった城とも言われるほど、童話の中から出てきたようなメルヘンな外観です。",
+        "image": {
+          "alternateText": "ノイシュバンシュタイン城外観",
+          "height": 952,
+          "sourceUrl": "https://a.mktgcdn.com/p/kwIDctv8j2JKFKeJ7xfEmMLwvfZbSHYSQwZvr6txiBo/1200x952.jpg",
+          "thumbnails": [
+            {
+              "height": 952,
+              "url": "https://a.mktgcdn.com/p-sandbox/kwIDctv8j2JKFKeJ7xfEmMLwvfZbSHYSQwZvr6txiBo/1200x952.jpg",
+              "width": 1200
+            },
+            {
+              "height": 491,
+              "url": "https://a.mktgcdn.com/p-sandbox/kwIDctv8j2JKFKeJ7xfEmMLwvfZbSHYSQwZvr6txiBo/619x491.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/kwIDctv8j2JKFKeJ7xfEmMLwvfZbSHYSQwZvr6txiBo/567x450.jpg",
+              "width": 567
+            },
+            {
+              "height": 155,
+              "url": "https://a.mktgcdn.com/p-sandbox/kwIDctv8j2JKFKeJ7xfEmMLwvfZbSHYSQwZvr6txiBo/196x155.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kwIDctv8j2JKFKeJ7xfEmMLwvfZbSHYSQwZvr6txiBo/1200x952.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "ノイシュバンシュタイン城"
+      },
+      {
+        "cTA1": {
+          "label": "ノイシュバンシュタイン城の魅力をもっと知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/DE/2023/05/414_247629_1683551618.html",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "ロマンチック街道のおすすめスポットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/europe/germany/news_ap_osarea_0000106",
+          "linkType": "OTHER"
+        },
+        "description": "ノイシュバンシュタイン城の見どころは、美しい建築と豪華な内装。城内には多くの部屋があり、どれもゴージャスです。部屋によってテーマが異なり、オペラ作品をモチーフした装飾が施されています。作品の背景を知っておくと、さらに理解が深まりますよ。",
+        "image": {
+          "alternateText": "ノイシュバンシュタイン城外観",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/AiANsQCGsEyiWL7M-qsbCr2hdS2QMOyI5u8qbkSwTCQ/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/AiANsQCGsEyiWL7M-qsbCr2hdS2QMOyI5u8qbkSwTCQ/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/AiANsQCGsEyiWL7M-qsbCr2hdS2QMOyI5u8qbkSwTCQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/AiANsQCGsEyiWL7M-qsbCr2hdS2QMOyI5u8qbkSwTCQ/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/AiANsQCGsEyiWL7M-qsbCr2hdS2QMOyI5u8qbkSwTCQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AiANsQCGsEyiWL7M-qsbCr2hdS2QMOyI5u8qbkSwTCQ/1200x801.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ノイシュバンシュタイン城のみどころ"
+      },
+      {
+        "cTA1": {
+          "label": "ミュンヘン旅行・ツアーを探す",
+          "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dDE\u0026sc.dest%5B0%5D.city\u003dMUC",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "ミュンヘンのホテルを探す",
+          "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/64/2452/?freeword\u003d%E3%83%9F%E3%83%A5%E3%83%B3%E3%83%98%E3%83%B3\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d2452",
+          "linkType": "OTHER"
+        },
+        "description": "ノイシュバンシュタイン城は、ミュンヘンから電車とバスを利用して訪れましょう！ミュンヘン中央駅から電車で約2時間でフッセン駅まで移動し、城の最寄り駅までバスに乗ります。バス停からは徒歩または馬車で城まで行けますよ。バス停からは急な坂道が続くため、体力が要りますが、ドイツの穏やかな山の風景を楽しめるのが魅力です。",
+        "image": {
+          "alternateText": "ノイシュバンシュタイン城を囲む山々",
+          "height": 783,
+          "sourceUrl": "https://a.mktgcdn.com/p/c2FqOhFoM528Vte1VtyDg4NYhzHmJgtTwN2GFyB-eyo/1200x783.jpg",
+          "thumbnails": [
+            {
+              "height": 783,
+              "url": "https://a.mktgcdn.com/p-sandbox/c2FqOhFoM528Vte1VtyDg4NYhzHmJgtTwN2GFyB-eyo/1200x783.jpg",
+              "width": 1200
+            },
+            {
+              "height": 404,
+              "url": "https://a.mktgcdn.com/p-sandbox/c2FqOhFoM528Vte1VtyDg4NYhzHmJgtTwN2GFyB-eyo/619x404.jpg",
+              "width": 619
+            },
+            {
+              "height": 392,
+              "url": "https://a.mktgcdn.com/p-sandbox/c2FqOhFoM528Vte1VtyDg4NYhzHmJgtTwN2GFyB-eyo/600x392.jpg",
+              "width": 600
+            },
+            {
+              "height": 128,
+              "url": "https://a.mktgcdn.com/p-sandbox/c2FqOhFoM528Vte1VtyDg4NYhzHmJgtTwN2GFyB-eyo/196x128.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/c2FqOhFoM528Vte1VtyDg4NYhzHmJgtTwN2GFyB-eyo/1200x783.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ノイシュバンシュタイン城の行き方"
+      },
+      {
+        "cTA1": {
+          "label": "ハイデルベルク城を巡る添乗員同行ツアーをみる",
+          "link": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?houmen\u003d01\u0026kuni\u003dDE\u0026freeword\u003d%E3%83%8F%E3%82%A4%E3%83%87%E3%83%AB%E3%83%99%E3%83%AB%E3%82%AF%E5%9F%8E\u0026vacantseat\u003d1\u0026brand\u003d00LK,02RR,01CZ",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "ハイデルベルクの魅力をもっと知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/DE/2020/12/414_469732_1607420450.html",
+          "linkType": "OTHER"
+        },
+        "description": "バーデン＝ヴュルテンベルク州に位置するリヒテンシュタイン城は、岩の上に建つ独特なロケーションが特徴です。どこまでも続く深い森をを背景に、まるで空中に浮かんでいるかのような景観が広がっています。19世紀に再建され、中世の騎士の城を模した外観と内装です。城内では中世の装飾や家具が見られ、一歩足を踏み入れると、まるでタイムスリップしたかのような体験ができますよ。城の周囲に広がる庭園は、四季折々の自然を楽しめる場所にもなっています。",
+        "image": {
+          "alternateText": "ホーエンツォレルン城",
+          "height": 872,
+          "sourceUrl": "https://a.mktgcdn.com/p/TPke4i9FWEbBdDwJFyLrgZ6FeUIaS6Hd1BtoSPUi1wE/1200x872.jpg",
+          "thumbnails": [
+            {
+              "height": 872,
+              "url": "https://a.mktgcdn.com/p-sandbox/TPke4i9FWEbBdDwJFyLrgZ6FeUIaS6Hd1BtoSPUi1wE/1200x872.jpg",
+              "width": 1200
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/TPke4i9FWEbBdDwJFyLrgZ6FeUIaS6Hd1BtoSPUi1wE/619x450.jpg",
+              "width": 619
+            },
+            {
+              "height": 436,
+              "url": "https://a.mktgcdn.com/p-sandbox/TPke4i9FWEbBdDwJFyLrgZ6FeUIaS6Hd1BtoSPUi1wE/600x436.jpg",
+              "width": 600
+            },
+            {
+              "height": 142,
+              "url": "https://a.mktgcdn.com/p-sandbox/TPke4i9FWEbBdDwJFyLrgZ6FeUIaS6Hd1BtoSPUi1wE/196x142.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/TPke4i9FWEbBdDwJFyLrgZ6FeUIaS6Hd1BtoSPUi1wE/1200x872.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "リヒテンシュタイン城"
+      },
+      {
+        "description": "リヒテンシュタイン城と同じくバーデン＝ヴュルテンベルク州にあるホーエンツォレルン城。800メートル以上もある高さの丘の上に建てられており、周囲は森に囲まれています。中世の騎士の城を思わせる無骨な外観に、内部は豪華な装飾と家具が展示されています。雲海の上に浮かぶ姿は「天空の城」と呼ばれるほど。結婚式場としても人気で、由緒のある古城です。",
+        "image": {
+          "alternateText": "ハイデルベルク城",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/JS5L42EzTvKohvUg4w-hzbTHdZ1hvLGBU9kZlaUs33o/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/JS5L42EzTvKohvUg4w-hzbTHdZ1hvLGBU9kZlaUs33o/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/JS5L42EzTvKohvUg4w-hzbTHdZ1hvLGBU9kZlaUs33o/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/JS5L42EzTvKohvUg4w-hzbTHdZ1hvLGBU9kZlaUs33o/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/JS5L42EzTvKohvUg4w-hzbTHdZ1hvLGBU9kZlaUs33o/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JS5L42EzTvKohvUg4w-hzbTHdZ1hvLGBU9kZlaUs33o/1200x801.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "ホーエンツォレルン城"
+      },
+      {
+        "description": "ハイデルベルクの街全体を見下ろすように佇むハイデルベルク城。長い間街のシンボルとなっている、歴史ある城です。中世から存在する城で、何度も破壊と再建を繰り返してきました。城内には様々な時代の建築様式が混ざり合っており、見応え十分！城からはネッカー川とハイデルベルクの街並みを一望でき、絶景スポットとしても人気ですよ。城の敷地内には庭園もあるので、散策しながら自然を楽しむのもおすすめです。",
+        "image": {
+          "alternateText": "シュヴェリーン城",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/luIAz-o2kjIrehI5Dnm8yaEX3S4jhIGSYVPiMNBQ6H4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/luIAz-o2kjIrehI5Dnm8yaEX3S4jhIGSYVPiMNBQ6H4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/luIAz-o2kjIrehI5Dnm8yaEX3S4jhIGSYVPiMNBQ6H4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/luIAz-o2kjIrehI5Dnm8yaEX3S4jhIGSYVPiMNBQ6H4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/luIAz-o2kjIrehI5Dnm8yaEX3S4jhIGSYVPiMNBQ6H4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/luIAz-o2kjIrehI5Dnm8yaEX3S4jhIGSYVPiMNBQ6H4/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "ハイデルベルク城"
+      },
+      {
+        "description": "ラインラント＝プファルツ州に位置するエルツ城は、中世の雰囲気を色濃く残す城です。12世紀に建設され、その後800年にわたり一族が居住していました。城内には当時の家具や装飾がそのまま残されており、中世の生活を垣間見ることができますよ。エルツ城は森に囲まれた岩の上に建てられているため、城から見える景色は絶景！エルツ川の渓谷が見え、四季折々の風景を楽しめます。美しい建築が評価され、ドイツの切手やコインにも描かれている、ドイツ人にはなじみの深い城です。",
+        "image": {
+          "alternateText": "ヴァルトブルク城",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/DUGUt5SLgmW0kukarRKjFyoWoa70Gh5OpvKkA9uzWQE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/DUGUt5SLgmW0kukarRKjFyoWoa70Gh5OpvKkA9uzWQE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/DUGUt5SLgmW0kukarRKjFyoWoa70Gh5OpvKkA9uzWQE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/DUGUt5SLgmW0kukarRKjFyoWoa70Gh5OpvKkA9uzWQE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/DUGUt5SLgmW0kukarRKjFyoWoa70Gh5OpvKkA9uzWQE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DUGUt5SLgmW0kukarRKjFyoWoa70Gh5OpvKkA9uzWQE/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "エルツ城"
+      },
+      {
+        "description": "ドイツ北部、メクレンブルク＝フォアポンメルン州のシュヴェリーンに位置するシュヴェリーン城は、綺麗な建築と湖畔の景観が魅力の城。シュヴェリーン湖にある1つの島に建ち、城からは美しい湖の景色が一望できます。19世紀に再建され、建築様式はルネサンス様式とバロック様式を融合したもの。現在は、場内の半分近くは州会議事堂として使用荒れています。対岸から眺めると、まるで湖に浮いているかのような景観を楽しめますよ。",
+        "image": {
+          "alternateText": "ドイツのお城",
+          "height": 681,
+          "sourceUrl": "https://a.mktgcdn.com/p/96HISqnt3x8dlNDd9bl9z1yltAYzHPZ2wLuy-Pt30fE/1200x681.jpg",
+          "thumbnails": [
+            {
+              "height": 681,
+              "url": "https://a.mktgcdn.com/p-sandbox/96HISqnt3x8dlNDd9bl9z1yltAYzHPZ2wLuy-Pt30fE/1200x681.jpg",
+              "width": 1200
+            },
+            {
+              "height": 351,
+              "url": "https://a.mktgcdn.com/p-sandbox/96HISqnt3x8dlNDd9bl9z1yltAYzHPZ2wLuy-Pt30fE/619x351.jpg",
+              "width": 619
+            },
+            {
+              "height": 341,
+              "url": "https://a.mktgcdn.com/p-sandbox/96HISqnt3x8dlNDd9bl9z1yltAYzHPZ2wLuy-Pt30fE/600x341.jpg",
+              "width": 600
+            },
+            {
+              "height": 111,
+              "url": "https://a.mktgcdn.com/p-sandbox/96HISqnt3x8dlNDd9bl9z1yltAYzHPZ2wLuy-Pt30fE/196x111.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/96HISqnt3x8dlNDd9bl9z1yltAYzHPZ2wLuy-Pt30fE/1200x681.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "シュヴェリーン城"
+      },
+      {
+        "description": "ヴァルトブルク城は、ドイツ中部のテューリンゲン州アイゼナハ市近郊の山頂に位置する城です。ドイツの歴史と文化において重要な役割を果たしてきたことから、世界遺産にも登録されています。特に、マルティン・ルターが聖書をドイツ語に翻訳した部屋が見どころ。プロテスタントの成立とドイツ語の発展に大きな影響を与えた歴史的な場所です。19世紀には、学生たちによるドイツ統一運動の舞台にもなりました。ドイツの哲学の精神に触れられる名所ですよ。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/8FrpbyrgmaKRJJbsCFsbyyxGPHp1VoiRqz2QVV12tV8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/8FrpbyrgmaKRJJbsCFsbyyxGPHp1VoiRqz2QVV12tV8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/8FrpbyrgmaKRJJbsCFsbyyxGPHp1VoiRqz2QVV12tV8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/8FrpbyrgmaKRJJbsCFsbyyxGPHp1VoiRqz2QVV12tV8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/8FrpbyrgmaKRJJbsCFsbyyxGPHp1VoiRqz2QVV12tV8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8FrpbyrgmaKRJJbsCFsbyyxGPHp1VoiRqz2QVV12tV8/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "ヴァルトブルク城"
+      },
+      {
+        "description": "ドイツには現在約3,000もの城があると言われていますが、その大きな理由が、長い歴史と独特の社会構造です。10世紀初頭にマジャール人の侵攻に備えてハインリヒ一世が実施した大規模な城塞建築が、建築ブームの始まりでした。また、選挙でえらばれる国王の権力が弱かったために諸侯たちが自由に城を建築できたことや、相続制度なども関係しています。男系の子孫全員に相続権があったため、領地が分割されるたびに新しい城が建てられました。そんな背景があり、一時期は2万もあったと言われているドイツの城は、中世の建築方法や生活様式を伝える貴重な文化財となっています。",
+        "image": {
+          "height": 751,
+          "sourceUrl": "https://a.mktgcdn.com/p/nkO3rLD1g4bmTNab84OBP9QdyqfawScL6WGjNl6z0EE/1200x751.jpg",
+          "thumbnails": [
+            {
+              "height": 751,
+              "url": "https://a.mktgcdn.com/p-sandbox/nkO3rLD1g4bmTNab84OBP9QdyqfawScL6WGjNl6z0EE/1200x751.jpg",
+              "width": 1200
+            },
+            {
+              "height": 387,
+              "url": "https://a.mktgcdn.com/p-sandbox/nkO3rLD1g4bmTNab84OBP9QdyqfawScL6WGjNl6z0EE/619x387.jpg",
+              "width": 619
+            },
+            {
+              "height": 376,
+              "url": "https://a.mktgcdn.com/p-sandbox/nkO3rLD1g4bmTNab84OBP9QdyqfawScL6WGjNl6z0EE/600x376.jpg",
+              "width": 600
+            },
+            {
+              "height": 123,
+              "url": "https://a.mktgcdn.com/p-sandbox/nkO3rLD1g4bmTNab84OBP9QdyqfawScL6WGjNl6z0EE/196x123.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nkO3rLD1g4bmTNab84OBP9QdyqfawScL6WGjNl6z0EE/1200x751.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "ドイツにお城が多い理由"
+      },
+      {
+        "description": "ドイツの三大名城は、ノイシュヴァンシュタイン城・ホーエンツォレルン城・ハイデルベルク城です。3つとも南ドイツに位置しているため、三大名城を一度に巡るのもおすすめです。周辺にはケルン大聖堂やロマンチック街道など観光名所が点在しているので、一緒に訪れてみましょう！ちなみにノイシュバンシュタイン城・ホーエンツォレルン城に加えて、エルツ城は「ドイツ三大美城」と呼ばれています。",
+        "sectionLevel": "h2",
+        "sectionTitle": "ドイツの三大名城は？"
+      }
+    ],
+    "c_news_PublicationDate": "2024-10-04",
+    "c_news_ViewCount": "651",
+    "c_news_ViewCount2of2": "651",
+    "c_news_ViewCountNum": "651",
+    "c_news_ViewCountNumForSorting": "151",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/europe/germany/guide_0012",
+    "c_relatedAreas": [
+      "germany"
+    ],
+    "name": "ドイツで有名なお城7選！庭園や宮殿も魅力",
+    "slug": "kaigai/europe/germany/guide_0012",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

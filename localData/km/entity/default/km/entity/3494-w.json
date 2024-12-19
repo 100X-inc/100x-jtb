@@ -1,0 +1,1350 @@
+{
+  "$id": "3494-w",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "additionalHoursText": "受付終了時間　各閉店時間の60分前となります。※店頭の混雑状況によっては時間を早めて受付終了させて頂く場合がございます。",
+    "address": {
+      "city": "渋谷区",
+      "countryCode": "JP",
+      "extraDescription": "（JTB 渋谷ヒカリエ シンクス店内）",
+      "line1": "渋谷2-21-1",
+      "line2": "ShinQs(シンクス)　4階",
+      "postalCode": "150-0002",
+      "region": "東京都"
+    },
+    "addressHidden": false,
+    "appleBusinessDescription": "【海外結婚式・挙式、国内リゾートウエディングなら、JTBウエディング！】 \n「リゾートウエディングをしたいけど、何から始めたらいいかわからない」「自分たちらしい結婚式にしたい！」そんな方は、JTBにお任せ！旅行＆挙式のプロが、世界中の魅力的な会場・プランから、おふたりにぴったりのウエディングをご提案いたします。もちろん、ウエディングフォト、新婚旅行のご相談も可能です。まずはお気軽に当店へお越しください。\n相談予約は、当店ウェブサイトから！最新キャンペーン・店舗イベント情報も随時発信いたします。",
+    "appleBusinessId": "1541297278883495936",
+    "appleCompanyId": "1480313529409856512",
+    "appleCoverPhoto": {
+      "alternateText": "ウエディングデスク渋谷ヒカリエ シンクス",
+      "height": 1050,
+      "sourceUrl": "https://a.mktgcdn.com/p/0obwargkG-VskSIn1rDUvzysMcU9mdLuKxhoM7OGI3A/1618x1050.jpg",
+      "thumbnails": [
+        {
+          "height": 1050,
+          "url": "http://a.mktgcdn.com/p-sandbox/0obwargkG-VskSIn1rDUvzysMcU9mdLuKxhoM7OGI3A/1618x1050.jpg",
+          "width": 1618
+        },
+        {
+          "height": 402,
+          "url": "http://a.mktgcdn.com/p-sandbox/0obwargkG-VskSIn1rDUvzysMcU9mdLuKxhoM7OGI3A/619x402.jpg",
+          "width": 619
+        },
+        {
+          "height": 389,
+          "url": "http://a.mktgcdn.com/p-sandbox/0obwargkG-VskSIn1rDUvzysMcU9mdLuKxhoM7OGI3A/600x389.jpg",
+          "width": 600
+        },
+        {
+          "height": 127,
+          "url": "http://a.mktgcdn.com/p-sandbox/0obwargkG-VskSIn1rDUvzysMcU9mdLuKxhoM7OGI3A/196x127.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/0obwargkG-VskSIn1rDUvzysMcU9mdLuKxhoM7OGI3A/1618x1050.jpg",
+      "width": 1618
+    },
+    "c_03_配色_イベントタブフォント": "#e09191",
+    "c_03_配色_イベントタブ背景": "#ffeded",
+    "c_03_配色_イベントリスト背景": "#ffffff",
+    "c_03_配色_イベント予約ボタンアクティブフォント": "#ffffff",
+    "c_03_配色_イベント予約ボタンフォント": "#ffffff",
+    "c_03_配色_土曜タイトルフォント": "#96FFFF",
+    "c_03_配色_日付タイトルフォント": "#ffffff",
+    "c_03_配色_日付タイトル背景": "#664800",
+    "c_03_配色_日曜タイトルフォント": "#FF96B4",
+    "c_03_配色_月タブフォント": "#ffffff",
+    "c_03_配色_月タブ背景": "#664800",
+    "c_03_配色_祝日タイトルフォント": "#FF96B4",
+    "c_03_配色_選択月タブフォント": "#333333",
+    "c_03_配色_選択月タブ背景": "#ffffff",
+    "c_1MenuLabel": "JTB Wedding Top",
+    "c_1MenuURL": "https://www.jtb.co.jp/wed/",
+    "c_3MenuLabel": "キャンペーン",
+    "c_3MenuURL": "https://www.jtb.co.jp/wed/campaign/",
+    "c_4MenuLabel": "プランを探す",
+    "c_4MenuURL": "https://www.jtb.co.jp/wed/plan/",
+    "c_5MenuLabel": "ウエディングフォト",
+    "c_5MenuURL": "https://www.jtb.co.jp/wed/photo/",
+    "c_6MenuLabel": "帰国後パーティ",
+    "c_6MenuURL": "https://www.jtb.co.jp/wed/party/",
+    "c_about_Section_Sub_font_color": "#E09191",
+    "c_about_Section_Title_font_color": "#E09191",
+    "c_about_Section_background": "#FEEEEE",
+    "c_altName": "JTBウエディングデスク渋谷ヒカリエ シンクス",
+    "c_cTA0来店予約URL": "https://www.jtb.co.jp/shop/form/reserveC/Index.aspx?SHITEN_CD\u003dj3494-0\u0026CGCD\u003dWED",
+    "c_cTA0来店予約ラベル": "相談予約（来店／オンライン）",
+    "c_cTA1URL": "https://www.jtb.co.jp/shop/form/reserveC/Index.aspx?SHITEN_CD\u003dj3494-0\u0026CGCD\u003dWED",
+    "c_cTA1ラベル": "11/14までの相談予約\u003cbr/\u003eはこちら",
+    "c_cTA2URL": "[[c_pagesURL]]",
+    "c_cTA2ラベル": "お問い合わせ",
+    "c_cTA3URL": "http://www.jtb.co.jp/shop/form/explain/entry/list.asp?SHITEN_CD\u003dj3494-0",
+    "c_cTA3ラベル": "イベント予約",
+    "c_cTA6URL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf-xG",
+    "c_cTA6ラベル": "11/15以降の相談予約はこちら",
+    "c_cTA_Main_background": "#E09191",
+    "c_cTA_Main_border": "#E09191",
+    "c_cTA_Main_font_color": "#FFFFFF",
+    "c_cTA_Main_hover_background": "#FEEEEE",
+    "c_cTA_Main_hover_font_color": "#E09191",
+    "c_cTA_Sub_background": "#FFFFFF",
+    "c_cTA_Sub_border": "#E09191",
+    "c_cTA_Sub_font_color": "#E09191",
+    "c_cTA_Sub_hover_background": "#FFFFFF",
+    "c_cTA_Sub_hover_font_color": "#E09191",
+    "c_footer_Section_background": "#E79494",
+    "c_locDescript": "渋谷ヒカリエ　シンクス店",
+    "c_mobile_Menu_background": "#E79494",
+    "c_nAP_Section_Sub_font_color": "#E09191",
+    "c_nearby_Section_Title_font_color": "#E09191",
+    "c_nearby_Section_background": "#FFFFFF",
+    "c_newsPDFCTA4": {
+      "label": "【ワタベウエディング】CPNチラシ",
+      "link": "https://a.mktgcdn.com/f/2016695/gunrTRMgTePAFErstMLjY9YdjUEx8ChFIDnFemmOzNw.pdf",
+      "linkType": "OTHER"
+    },
+    "c_organizationCode": "3494",
+    "c_pagesEventsURL": "https://stores.jtb.co.jp/3494-w/events",
+    "c_pagesSortCode": "131130",
+    "c_pagesSortGroup": "B",
+    "c_pagesURL": "[[c_v2PagesURL]]",
+    "c_plusJTBTitle": "アコガレの海外・国内リゾート挙式について",
+    "c_plusJTBリンク1URL": "https://www.jtb.co.jp/shop/form/reserveC/Index.aspx?SHITEN_CD\u003dj3494-0\u0026CGCD\u003dWED",
+    "c_plusJTBリンク3URL": "http://www.jtb.co.jp/shop/form/explain/entry/list.asp?SHITEN_CD\u003dj3494-0",
+    "c_plusJTBリンク5URL": "https://www.jtb.co.jp/wed/campaign/",
+    "c_plusJTBリンク5ラベル": "キャンペーン",
+    "c_plusJTBリンク6URL": "http://www.jtb.co.jp/wed/",
+    "c_plusJTBリンク6ラベル": "JTB Wedding Top",
+    "c_promo1_Section_Title_font_color": "#E09191",
+    "c_promo1_Section_background": "#FEEEEE",
+    "c_promo2_Section_Title_font_color": "#E09191",
+    "c_promo2_Section_background": "#FFFFFF",
+    "c_socialFacebookURL": "https://www.facebook.com/jtb.jp",
+    "c_socialLINEURL": "https://line.me/ti/p/%40jtbhd",
+    "c_socialNoteURL": "https://note.com/jtb_note",
+    "c_socialYouTubeURL": "https://www.youtube.com/channel/UCjDeNR2xFC4wFh3txHql20Q",
+    "c_v2AboutLink1": {
+      "label": "旅カード",
+      "link": "https://www.jtb.co.jp/myjtb/card/card_list.asp?CODE\u003d1374",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink2": {
+      "label": "ギフト券",
+      "link": "https://www.jtb.co.jp/gift/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink3": {
+      "label": "国内旅行保険",
+      "link": "https://dti.tabiho.jp/apply/#/?BranchCode\u003dHE\u0026ProducerCode\u003d9PM\u0026KashoCode\u003d3494\u0026EntranceType\u003d01\u0026BoshuKbn\u003d01",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink4": {
+      "label": "海外旅行保険",
+      "link": "https://tabiho.jp/tb/Start.do?EntranceType\u003d01\u0026KashoCode\u003d0013\u0026ProducerCode\u003d9PM\u0026BranchCode\u003dHM",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink5": {
+      "label": "旅行積立（たびたびバンク）",
+      "link": "https://www.jtb.co.jp/tabitabibank/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink6": {
+      "label": "海外・国内おみやげ",
+      "link": "https://shopping.jtb.co.jp/wsp/?reception\u003d915270",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutSectionTitle": "JTBウエディングデスク渋谷ヒカリエ シンクス  （JTB 渋谷ヒカリエ シンクス店内）",
+    "c_v2AdditionalHoursText": "[[additionalHoursText]]",
+    "c_v2AdditionalHoursText1": "受付終了時間　各閉店時間の60分前となります。※店頭の混雑状況によっては時間を早めて受付終了させて頂く場合がございます。",
+    "c_v2AvailableHoliday": [
+      "土曜",
+      "日曜",
+      "祝日"
+    ],
+    "c_v2AvailableService": [
+      "ウエディングコンサルタントのいるお店",
+      "来店予約を受付けているお店"
+    ],
+    "c_v2CTAGetDirection": {
+      "label": "アクセス"
+    },
+    "c_v2CTAGetDirectionMap": {
+      "label": "地図を見る",
+      "linkType": "OTHER"
+    },
+    "c_v2CTAReservation": {
+      "label": "相談予約\u003c/br\u003e（来店／リモート）",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf-xG",
+      "linkType": "OTHER"
+    },
+    "c_v2CTASecondary1": {
+      "label": "JTB Wedding Top",
+      "link": "https://www.jtb.co.jp/wed/",
+      "linkType": "OTHER"
+    },
+    "c_v2CTASecondary2": {
+      "label": "イベント予約",
+      "linkType": "OTHER"
+    },
+    "c_v2CTATel1": {
+      "label": "ウエディングのご相談・申込",
+      "link": "+81364193188",
+      "linkType": "PHONE"
+    },
+    "c_v2CTATel2": {
+      "label": "ウエディングのご相談・申込",
+      "linkType": "PHONE"
+    },
+    "c_v2DomesticAirlineTicketsSubtitle": "※国内航空券の取扱いは店舗によって異なります。別途取扱料金を申し受けます（1区間あたり1,100円/人）",
+    "c_v2GiftCertificatesAndTravelCouponsSubtitle": "※商品の詳細は\u003ca href\u003d\"https://www.jtb.co.jp/gift/\" target\u003d\"_blank\"\u003eこちら\u003c/a\u003e（店頭支払方法は、現金のみ）",
+    "c_v2ImportantStoreInformationTag": {
+      "label": "ご来店前にお読みください",
+      "link": "#important-store-information",
+      "linkType": "OTHER"
+    },
+    "c_v2LocationPhotoList": [
+      {
+        "description": "ウエディングデスク渋谷ヒカリエ シンクス",
+        "image": {
+          "alternateText": "ウエディングデスク渋谷ヒカリエ シンクス",
+          "height": 1080,
+          "sourceUrl": "https://a.mktgcdn.com/p/fo6N_fACiBi3_4DfJtYoVmNi-ZDeQnqEhg4pDFBDif0/1440x1080.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p-sandbox/fo6N_fACiBi3_4DfJtYoVmNi-ZDeQnqEhg4pDFBDif0/1440x1080.jpg",
+              "width": 1440
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p-sandbox/fo6N_fACiBi3_4DfJtYoVmNi-ZDeQnqEhg4pDFBDif0/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/fo6N_fACiBi3_4DfJtYoVmNi-ZDeQnqEhg4pDFBDif0/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p-sandbox/fo6N_fACiBi3_4DfJtYoVmNi-ZDeQnqEhg4pDFBDif0/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/fo6N_fACiBi3_4DfJtYoVmNi-ZDeQnqEhg4pDFBDif0/1440x1080.jpg",
+          "width": 1440
+        }
+      }
+    ],
+    "c_v2MetaDescription": "[[c_altName]] | [[address.region]] [[address.city]] [[address.line1]] - 海外結婚式・挙式、国内リゾートウエディングは【JTBウエディング】",
+    "c_v2MetaTitle": "[[c_altName]]: [[address.region]] [[address.city]]",
+    "c_v2News1": {
+      "description": "憧れのリゾートウディングをご検討のカップルの皆様へ💎\n\n11月10日（日）、当店にてリゾートウェディング個別相談会を開催いたします！\n\n当日は人気のウエディング会社ワタベウエディング専任スタッフへ直接ご相談いただけます！（※事前予約制）\n\nハワイ・グアム・沖縄・バリ・ヨーロッパ・オーストラリアなど、人気のリゾートからお二人にぴったりの会場をご紹介いたします🪄\n\n国内・海外挙式の準備や段取り、式場のご紹介など、リゾートウエディングに関して是非この機会にお気軽にご相談ください✨",
+      "endDate": "2024-11-10",
+      "image": {
+        "height": 2000,
+        "sourceUrl": "https://a.mktgcdn.com/p/ES6T2podqyFruq2HnRUDtZU-sL5CHMyqE3fK-b2fNpE/1414x2000.jpg",
+        "thumbnails": [
+          {
+            "height": 2000,
+            "url": "http://a.mktgcdn.com/p-sandbox/ES6T2podqyFruq2HnRUDtZU-sL5CHMyqE3fK-b2fNpE/1414x2000.jpg",
+            "width": 1414
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/ES6T2podqyFruq2HnRUDtZU-sL5CHMyqE3fK-b2fNpE/1343x1900.jpg",
+            "width": 1343
+          },
+          {
+            "height": 876,
+            "url": "http://a.mktgcdn.com/p-sandbox/ES6T2podqyFruq2HnRUDtZU-sL5CHMyqE3fK-b2fNpE/619x876.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/ES6T2podqyFruq2HnRUDtZU-sL5CHMyqE3fK-b2fNpE/318x450.jpg",
+            "width": 318
+          },
+          {
+            "height": 277,
+            "url": "http://a.mktgcdn.com/p-sandbox/ES6T2podqyFruq2HnRUDtZU-sL5CHMyqE3fK-b2fNpE/196x277.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/ES6T2podqyFruq2HnRUDtZU-sL5CHMyqE3fK-b2fNpE/1414x2000.jpg",
+        "width": 1414
+      },
+      "startDate": "2024-10-25",
+      "tags": [
+        "リゾートウエディング",
+        "ウエディング",
+        "リゾ婚",
+        "ハワイ",
+        "沖縄"
+      ],
+      "title": "★11/10(日)★ワタベウエディング×JTB　リゾートウェディング個別相談会開催のお知らせ",
+      "url": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf-xG?_gl\u003d1*jx3vyk*_gcl_au*OTcxNjI3OTg2LjE3MTQ1Mzc4MTQ."
+    },
+    "c_v2News2": {
+      "description": "アメリカ旅行をご検討中のみなさまへ「USディズニーリゾート」の最新情報をオンラインでお届け！\nUSディズニリゾートへ旅行をご検討中の皆様へ、朗報です！\n\n\u003cspan style\u003d\"Background:blue;color:white;\"\u003eUSディズニーリゾートのパーク情報、ホテル情報、楽しみ方や最新情報などの魅力をたっぷりとお伝えいたします！\u003c/span\u003e\n\nまた、フロリダにつきましては、実際に現地を訪れたばかりのJTBスタッフより、実際に撮影した写真を使って最新の見どころをお届けいたします。\n\nウエディングやハネムーン、ご家族旅行、学生旅行などなど、みなさまにお楽しみいただける内容です♪\n\n\u003cspan style\u003d\"Background:blue;color:white;\"\u003e日時\u003c/span\u003e\n11月9日（土）11:00～12:00　\n※オンラインでご参加いただけます。\n※お申込後ご参加用のURLをお送りいたします。\n\n\u003cspan style\u003d\"Background:blue;color:white;\"\u003eご紹介リゾート\u003c/span\u003e\n「フロリダ ウォルト・ディズニー・ワールド・リゾート」\n「カリフォルニア ディズニーランド・リゾート」\n「アウラニ・ディズニー・リゾート＆スパ 」\n\n\u003cspan style\u003d\"Background:blue;color:white;\"\u003e主催\u003c/span\u003e\nJTBウエディングプラザ銀座本店\n\n╋━━\n　成約特典\n　　　　━━━╋\n\nセミナーご視聴いただき、USディズニーリゾートを含むご旅行をお申込いただいたお客様へ先着順でプレゼントをご用意しております。",
+      "endDate": "2024-11-09",
+      "image": {
+        "height": 450,
+        "sourceUrl": "https://a.mktgcdn.com/p/JemdYQWsb6R_e1Z9rN7a4JEJfpXzBLG_06RBIc_ErOg/920x450.jpg",
+        "thumbnails": [
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/JemdYQWsb6R_e1Z9rN7a4JEJfpXzBLG_06RBIc_ErOg/920x450.jpg",
+            "width": 920
+          },
+          {
+            "height": 303,
+            "url": "http://a.mktgcdn.com/p-sandbox/JemdYQWsb6R_e1Z9rN7a4JEJfpXzBLG_06RBIc_ErOg/619x303.jpg",
+            "width": 619
+          },
+          {
+            "height": 293,
+            "url": "http://a.mktgcdn.com/p-sandbox/JemdYQWsb6R_e1Z9rN7a4JEJfpXzBLG_06RBIc_ErOg/600x293.jpg",
+            "width": 600
+          },
+          {
+            "height": 96,
+            "url": "http://a.mktgcdn.com/p-sandbox/JemdYQWsb6R_e1Z9rN7a4JEJfpXzBLG_06RBIc_ErOg/196x96.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/JemdYQWsb6R_e1Z9rN7a4JEJfpXzBLG_06RBIc_ErOg/920x450.jpg",
+        "width": 920
+      },
+      "startDate": "2024-10-15",
+      "tags": [
+        "フロリダ ウォルト・ディズニー・ワールド・リゾート",
+        "カリフォルニア ディズニーランド・リゾート",
+        "アウラニ・ディズニー・リゾート＆スパ"
+      ],
+      "title": "11月9日（土）開催「ディズニーオンラインセミナー」開催",
+      "url": "https://peatix.com/event/4132823"
+    },
+    "c_v2News3": {
+      "description": "【年末年始の営業について】\n12/29(木)～1/3(火)までお休みさせて頂きます\n\n休業期間中に、人員変更・取消などが発生した場合は、\nお客様ご自身で下記のお手続きをして頂きますようお願い申し上げます。\n\n【JR券・その他交通機関】\n座席指定特急券・乗車券類をお持ちのお客様は、列車出発時刻前までに運輸機関の最寄駅にて、取消を行ってください。但し、お支払い時クレジットカード・旅行券をご利用の場合は、最寄駅にて取消の証明を受けていただき、後日当店にてご返金となります。\nまた、エースJTB・サン＆サン（パッケージ商品）の特急券・乗車券類は最寄駅にて取消しの証明を受け、後日当店へご来店ください。\n駅にてJR乗車票をお引換のお客様は引換後、最寄駅にて「取消証明」を受け、後日当店へご来店ください。\nご乗車日より１ヶ月以内にご来店ください。\n宿泊関係は下記記載の方法に従って連絡をお願い致します。\n\n【航空券】\nご利用の各航空会社の予約センターに電話にて取消しをし、取消の証明として取消番号を控えておいてください。後日当店にて払い戻し致します。ご搭乗日より１０日以内にご来店ください。\n宿泊関係は下記記載の方法に従って連絡をお願い致します。\n\n　　全日空　　　　　０５７０－０２９－２２２\n　　スカイマーク　　０５７０－０５１－３３０\n　　日本航空 　　　   ０５７０－０２５－０７１\n　　ソラシドエア　　０５７０－０３７－２８３\n　　AIRDO 　 　　　 ０１２０－０５７－３３３\n    　スターフライヤ－０５７０－０７－３２００\n\n【宿泊関係】　\n人員変更、取消しは現地宿泊施設の予約係に直接ご連絡をお願いいたします。\n\nA．人員変更の場合\n① JTB宿泊確認票をお持ちのお客様\n宿泊料金が変更になる場合がございますので、宿泊施設係員にご確認の上、\n現地にてご清算お願いいたします。\n② エース旅程表（最終）、サン＆サン旅程表（最終）をお持ちのお客様\n現地にて、減員証明書をお受取り下さい。後日ご持参いただき店舗で精算させていただきます。\n③添乗員付きプランのお客様\n行程表記載の「エースお出かけダイヤル」にご出発前までにご連絡をお願い致します。\n\nB．お取消の場合〔宿泊確認票・エース・サン＆サン共通〕\nお取消された日付けと現地係員の名前を控えておいてください。後日、当店にて払戻し精算させていただきます。\nご宿泊日より１４日以内にご来店ください。\n\n【船舶・レンタカー・ハイヤー・食事・バスなど】\nご利用・ご予約の時間前までに直接関係機関へ取消しのご連絡をお願いいたします。\n\nエースＪＴＢ・サン＆サン（パッケージ商品）に関してましては\n別紙「ご旅行にあたっての注意事項」も併せてご確認下さい。\n\n【ルックＪＴＢをはじめとする海外パッケージツアー】\nお手元の日程表に記載がございます　緊急連絡先電話番号にご連絡をお願いいたします。各社ごとに対応可能なお時間が異なりますのでご容赦ください。\n\n【個人旅行・国際航空券（海外パッケージツアーではないもの）】\n各航空会社へご連絡をお願いいたします。\nご利用・ご予約の時間前までに直接航空会社へ取消しのご連絡をお願いいたします。\n\n【個人旅行・ホテル（海外パッケージツアーではないもの）】\nお手元の旅程表、バウチャー(宿泊確認票)に記載の電話番号にご連絡をお願いいたします。\n\n以上ご迷惑をお掛けいたしますが、宜しくお願い致します。\nご不明な点がございましたら、休業日前までにスタッフまでお問い合わせください。",
+      "endDate": "2023-01-04",
+      "startDate": "2022-12-08",
+      "title": "営業時間後・年末年始休業期間中に取消料発生日を迎えるお客様へのご案内"
+    },
+    "c_v2News4": {
+      "description": "ワタベウエディングからスペシャルフェアの延長が決定🎊\n\nハワイ・沖縄の指定挙式会場でご成約の方を対象に\nなんと挙式オプション🎁100,000円OFF🎁をプレゼント！\n\n〈対象期間〉\n挙式申込期間：2024年11月1日(金)～2024年12月30日(月)まで\n挙式対象期間：～2025年3月31日(月)まで\n\n〈対象商品〉\nルックJTB MySTYLE・エースJTB「沖縄ウエディング」・ワタベウェディング主催FIT商品（キャンペーン商品含む）\n※フォトプラン、カジュアルウェディング、おふたりさま婚、ハネムーン婚、基本挙式は除く\n\n＜注意事項＞\n■新規予約のお客様のみ対象となります。\n■各種キャンペーンと【併用可能】となります。\n■挙式オプション代金の総額が10万円に満たない場合、返金及び割引は出来ません。\n■本特典をご利用の場合、衣裳のお持込は不可となります。\n■オプション相談に当社サロンにお越しいただく際は、必ずこちらのチラシをお持ちください。\n\nこの機会に憧れのリゾート挙式を叶えませんか？\nご相談お待ちしております！",
+      "endDate": "2024-12-30",
+      "image": {
+        "height": 1269,
+        "sourceUrl": "https://a.mktgcdn.com/p/xlJ9WQX5J_TD2vvkxw6AaZG_qSGCHqiQ0JW9sE1KwRU/898x1269.png",
+        "thumbnails": [
+          {
+            "height": 1269,
+            "url": "http://a.mktgcdn.com/p-sandbox/xlJ9WQX5J_TD2vvkxw6AaZG_qSGCHqiQ0JW9sE1KwRU/898x1269.png",
+            "width": 898
+          },
+          {
+            "height": 875,
+            "url": "http://a.mktgcdn.com/p-sandbox/xlJ9WQX5J_TD2vvkxw6AaZG_qSGCHqiQ0JW9sE1KwRU/619x875.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/xlJ9WQX5J_TD2vvkxw6AaZG_qSGCHqiQ0JW9sE1KwRU/318x450.png",
+            "width": 318
+          },
+          {
+            "height": 277,
+            "url": "http://a.mktgcdn.com/p-sandbox/xlJ9WQX5J_TD2vvkxw6AaZG_qSGCHqiQ0JW9sE1KwRU/196x277.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/xlJ9WQX5J_TD2vvkxw6AaZG_qSGCHqiQ0JW9sE1KwRU/898x1269.png",
+        "width": 898
+      },
+      "pDF": {
+        "mimeType": "application/pdf",
+        "name": "【ワタベウエディング】CPNチラシ",
+        "size": "292862",
+        "sourceUrl": "https://a.mktgcdn.com/f/2016695/gunrTRMgTePAFErstMLjY9YdjUEx8ChFIDnFemmOzNw.pdf",
+        "url": "https://a.mktgcdn.com/f-sandbox/3326351/gunrTRMgTePAFErstMLjY9YdjUEx8ChFIDnFemmOzNw.pdf"
+      },
+      "startDate": "2024-11-01",
+      "tags": [
+        "ワタベウエディング",
+        "ハワイ",
+        "沖縄",
+        "リゾートウエディング"
+      ],
+      "title": "【ワタベウエディング】スペシャルフェアのご案内"
+    },
+    "c_v2News5": {
+      "description": "✨大人気のフォトウエディング✨\n\n挙式は恥ずかしいけれど記念に写真を残したい！\n挙式はする・したけれど、リゾート地で素敵な景色と一緒に前撮り・後撮りしたい♪\nフォトジェニックなワンシーンが残せる会場が良い…！\nせっかくのリゾート地、旅行も楽しみたい！！\n\nそんなお二人にピッタリな会場・プランをご紹介いたします！\n\nフォトウエディングも是非お気軽にご相談ください😊\n\n※事前のご来店予約をお願いいたします。",
+      "endDate": "2025-03-31",
+      "image": {
+        "height": 2000,
+        "sourceUrl": "https://a.mktgcdn.com/p/dIAkQUptwXpoxioPlfQYJIVFh105X2jOBAV12fL-gMU/1414x2000.jpg",
+        "thumbnails": [
+          {
+            "height": 2000,
+            "url": "http://a.mktgcdn.com/p-sandbox/dIAkQUptwXpoxioPlfQYJIVFh105X2jOBAV12fL-gMU/1414x2000.jpg",
+            "width": 1414
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/dIAkQUptwXpoxioPlfQYJIVFh105X2jOBAV12fL-gMU/1343x1900.jpg",
+            "width": 1343
+          },
+          {
+            "height": 876,
+            "url": "http://a.mktgcdn.com/p-sandbox/dIAkQUptwXpoxioPlfQYJIVFh105X2jOBAV12fL-gMU/619x876.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/dIAkQUptwXpoxioPlfQYJIVFh105X2jOBAV12fL-gMU/318x450.jpg",
+            "width": 318
+          },
+          {
+            "height": 277,
+            "url": "http://a.mktgcdn.com/p-sandbox/dIAkQUptwXpoxioPlfQYJIVFh105X2jOBAV12fL-gMU/196x277.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/dIAkQUptwXpoxioPlfQYJIVFh105X2jOBAV12fL-gMU/1414x2000.jpg",
+        "width": 1414
+      },
+      "startDate": "2024-10-25",
+      "tags": [
+        "フォトウエディング",
+        "ウエディングフォト",
+        "リゾート",
+        "ハワイ",
+        "グアム",
+        "沖縄"
+      ],
+      "title": "【ご相談受付中】フォトウエディングもJTBで！",
+      "url": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf-xG?_gl\u003d1*jx3vyk*_gcl_au*OTcxNjI3OTg2LjE3MTQ1Mzc4MTQ."
+    },
+    "c_v2News6": {
+      "description": "🌸新発売🌸OKINAWAご褒美フォトプラン📸🛩️\n\nおひとり様からご友人と、ウエディングドレスを着て、\nプロのフォトグラファーに撮影していたける新プランが出ました！\n沖縄旅行と一緒に、自分のスタイルで自分らしさを写真で残しませんか？\n\n■申込期間\n　2024年10月～\n\n■設定撮影期間\n　2024年10月～2025年12月31日\n\n■価格\n　￥59,000(税込)　※土日祝は+33,000円\n\n■撮影場所\n　下記2つのうち、ご希望のチャペルを選んで撮影できます。\n　1．ブルーインフィニティー(イ・ル・ドレ ウエディング)\n　2．シーシェルブルー(サザン ウエディング)\n\n■プラン内容\n・フォトグラファーによる撮影\n・写真データ50カット(ダウンロード)\n・着付け・ヘアメイク\n・衣裳レンタル1点・小物一式\n\n2人以上でお得に撮影できる割引プランもご用意！\n大好きな推しのグッズを持ち込んでの撮影や、ご旅行の記念にご友人・ご家族と一緒に思い出撮影もお勧めです👌\n\nご相談・お申込みは当店までお気軽にお問い合わせください♪",
+      "endDate": "2025-03-31",
+      "image": {
+        "height": 1115,
+        "sourceUrl": "https://a.mktgcdn.com/p/lymk2d7yYnbul_B_4tpYqI96CjNtSfDLaYg0IY742Us/791x1115.png",
+        "thumbnails": [
+          {
+            "height": 1115,
+            "url": "http://a.mktgcdn.com/p-sandbox/lymk2d7yYnbul_B_4tpYqI96CjNtSfDLaYg0IY742Us/791x1115.png",
+            "width": 791
+          },
+          {
+            "height": 873,
+            "url": "http://a.mktgcdn.com/p-sandbox/lymk2d7yYnbul_B_4tpYqI96CjNtSfDLaYg0IY742Us/619x873.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/lymk2d7yYnbul_B_4tpYqI96CjNtSfDLaYg0IY742Us/319x450.png",
+            "width": 319
+          },
+          {
+            "height": 276,
+            "url": "http://a.mktgcdn.com/p-sandbox/lymk2d7yYnbul_B_4tpYqI96CjNtSfDLaYg0IY742Us/196x276.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/lymk2d7yYnbul_B_4tpYqI96CjNtSfDLaYg0IY742Us/791x1115.png",
+        "width": 791
+      },
+      "startDate": "2024-10-20",
+      "tags": [
+        "沖縄",
+        "フォトプラン",
+        "限定",
+        "新発売"
+      ],
+      "title": "【新発売／取扱店舗限定商品】OKINAWAご褒美フォトプラン"
+    },
+    "c_v2NewsSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2NewsSectionTitle": "店舗ニュース・イベント",
+    "c_v2NotificationBanner": "営業時間は11：00～19：00（受付終了18：00）となります。ご不便をおかけしますが、何卒ご理解賜りますようお願い申し上げます。また、来店の際は事前の来店予約にご協力下さい。来店予約の無いお客様は長時間お待たせしてしまう恐れがございます。",
+    "c_v2NotificationBannerEndDate": "2023-03-31",
+    "c_v2NotificationBannerStartDate": "2021-09-09",
+    "c_v2PagesURL": "https://stores.jtb.co.jp/3494-w",
+    "c_v2Promo1": {
+      "description": "現在JTBでは「JTBウエディング・AutumnCampaign2024」を開催中です！人気の沖縄、ハワイをはじめ多数方面のお得な挙式プランをご用意しております♪組数限定でご用意しておりますので気になる方はお早めにお問合せ＆ご来店予約くださいませ。この機会をぜひお見逃しなく！\n\nお申込み期間：2024年8月20日～10月21日\n\nご相談は事前の来店予約がお勧めです。この機会をぜひお見逃しなく！\nご来店お待ちしております。\n\nキャンペーンの詳細は特集ページでチェック！\n　\u003cp\u003e≫\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/wed/plan/autumn-campaign-2024/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eJTBウエディング・AutumnCampaign2024\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e\u003c/p\u003e",
+      "endDate": "2024-10-20",
+      "image": {
+        "alternateText": "日頃の感謝を込めて♪ウエディングプラザ大阪10周年キャンペーン開催中！",
+        "height": 430,
+        "sourceUrl": "https://a.mktgcdn.com/p/BbW-gveeZ0k9KZlDTf0P2k0pa_GzOksVcjl-I-CFcZ8/710x430.jpg",
+        "thumbnails": [
+          {
+            "height": 430,
+            "url": "http://a.mktgcdn.com/p-sandbox/BbW-gveeZ0k9KZlDTf0P2k0pa_GzOksVcjl-I-CFcZ8/710x430.jpg",
+            "width": 710
+          },
+          {
+            "height": 375,
+            "url": "http://a.mktgcdn.com/p-sandbox/BbW-gveeZ0k9KZlDTf0P2k0pa_GzOksVcjl-I-CFcZ8/619x375.jpg",
+            "width": 619
+          },
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/BbW-gveeZ0k9KZlDTf0P2k0pa_GzOksVcjl-I-CFcZ8/600x363.jpg",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/BbW-gveeZ0k9KZlDTf0P2k0pa_GzOksVcjl-I-CFcZ8/196x119.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/BbW-gveeZ0k9KZlDTf0P2k0pa_GzOksVcjl-I-CFcZ8/710x430.jpg",
+        "width": 710
+      },
+      "startDate": "2024-06-21",
+      "tags": [
+        "お得なプラン",
+        "リゾート挙式"
+      ],
+      "title": "期間限定のお得なプラン・AutumnCampaign2024開催中！",
+      "url": "https://www.jtb.co.jp/wed/plan/autumn-campaign-2024/"
+    },
+    "c_v2Promo2": {
+      "description": "早期120日前申込がお得！「OKINAWAウエディング」クーポンを配布中。\n\n予約期間：2024年9月11日（水）～2025年6月30日（月）\n挙式期間：2025年1月1日（水）～2025年12月30日（火）\n\n\u003cfont color\u003d\"#cf000e\"\u003e≪120日前予約・沖縄ウエディング先着100組限定≫\u003c/font\u003e\n旅行代金50万円以上ご利用で20,000円引きクーポン\n対象方面：沖縄\n対象商品：「OKINAWAウエディング」の挙式プラン＋航空機付のJTBMySTYLE商品\n\n詳細は特集ページでチェック！\n　\u003cp\u003e≫\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/wed/coupon/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eウエディング クーポン特集\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e\u003c/p\u003e\n\nおふたりにぴったりなウエディング＆ハネムーンをご提案いたします！",
+      "endDate": "2025-06-26",
+      "image": {
+        "alternateText": "先着順！沖縄ウエディングで使えるクーポン配布中！",
+        "height": 430,
+        "sourceUrl": "https://a.mktgcdn.com/p/wRkm-JiPp61wvTy9WXThkZMeBewoF529_tnhYNXkZpk/710x430.jpg",
+        "thumbnails": [
+          {
+            "height": 430,
+            "url": "http://a.mktgcdn.com/p-sandbox/wRkm-JiPp61wvTy9WXThkZMeBewoF529_tnhYNXkZpk/710x430.jpg",
+            "width": 710
+          },
+          {
+            "height": 375,
+            "url": "http://a.mktgcdn.com/p-sandbox/wRkm-JiPp61wvTy9WXThkZMeBewoF529_tnhYNXkZpk/619x375.jpg",
+            "width": 619
+          },
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/wRkm-JiPp61wvTy9WXThkZMeBewoF529_tnhYNXkZpk/600x363.jpg",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/wRkm-JiPp61wvTy9WXThkZMeBewoF529_tnhYNXkZpk/196x119.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/wRkm-JiPp61wvTy9WXThkZMeBewoF529_tnhYNXkZpk/710x430.jpg",
+        "width": 710
+      },
+      "tags": [
+        "お得なクーポン",
+        "キャンペーン"
+      ],
+      "title": "先着順！沖縄ウエディングで使えるクーポン配布中！",
+      "url": "https://www.jtb.co.jp/wed/coupon/"
+    },
+    "c_v2Promo3": {
+      "description": "JTB×ワタベウェディングが、フォトジェニックな旅をしたいすべてのカップルにお届けする商品をご用意しました。\n\nずっと待ち焦がれた新婚旅行。\nやっぱり憧れ続けたウエディングドレス。\n人気のエリアのチャペルとビーチでウエディングフォトが叶います。おふたりの記念の時間を作るお手伝いをさせてください。\n\n詳細は特集ページでチェック！\n　\u003cp\u003e≫\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/wed/photo/chapel_and_beach_photo_plan/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e旅と一緒に、チャペル＆ビーチでフォトプラン特集\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e\u003c/p\u003e\n\nおふたりにぴったりなウエディング＆ハネムーンをご提案いたします！\nご相談は事前の来店予約がおすすめです。",
+      "endDate": "2024-12-25",
+      "image": {
+        "alternateText": "注目の商品！旅と一緒に、チャペル＆ビーチでフォトプラン",
+        "height": 430,
+        "sourceUrl": "https://a.mktgcdn.com/p/xqXV63JCijyt7R2yiGJaINgd2yTm5y46cq8IsZaU7-Q/710x430.jpg",
+        "thumbnails": [
+          {
+            "height": 430,
+            "url": "http://a.mktgcdn.com/p-sandbox/xqXV63JCijyt7R2yiGJaINgd2yTm5y46cq8IsZaU7-Q/710x430.jpg",
+            "width": 710
+          },
+          {
+            "height": 375,
+            "url": "http://a.mktgcdn.com/p-sandbox/xqXV63JCijyt7R2yiGJaINgd2yTm5y46cq8IsZaU7-Q/619x375.jpg",
+            "width": 619
+          },
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/xqXV63JCijyt7R2yiGJaINgd2yTm5y46cq8IsZaU7-Q/600x363.jpg",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/xqXV63JCijyt7R2yiGJaINgd2yTm5y46cq8IsZaU7-Q/196x119.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/xqXV63JCijyt7R2yiGJaINgd2yTm5y46cq8IsZaU7-Q/710x430.jpg",
+        "width": 710
+      },
+      "tags": [
+        "新婚旅行",
+        "ウエディングフォト"
+      ],
+      "title": "注目の商品！旅と一緒に、チャペル＆ビーチでフォトプラン",
+      "url": "https://www.jtb.co.jp/wed/photo/chapel_and_beach_photo_plan/"
+    },
+    "c_v2Promo4": {
+      "description": "\u003cfont color\u003d\"#cf000e\"\u003e≪12月迄の挙式限定！沖縄ウエディング応援クーポンを配布中！≫\u003c/font\u003e\n\n予約期間：2024年8月20日（火）～10月31日（木）\n挙式期間：2024年9月1日（日）～12月30日（月）\n旅行代金15万円以上ご利用で1組につき15,000円引きクーポンをプレゼント！\n\n対象商品等、詳細は特集ページでチェック！\n\u003cp\u003e≫\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/wed/coupon/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eウエディング クーポン特集\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e\u003c/p\u003e\n沖縄ウエディングの特集ページは\u003cp\u003e≫\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/wed/okinawa/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eこちら！\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e\u003c/p\u003e\nJTBなら、沖縄本島から離島まで多彩な挙式会場のご案内が可能です。\nおふたりにぴったりなウエディング＆ハネムーンをご提案いたします！",
+      "endDate": "2024-10-30",
+      "image": {
+        "alternateText": "いま人気の沖縄で叶えるリゾートウエディング",
+        "height": 430,
+        "sourceUrl": "https://a.mktgcdn.com/p/AP_JESXNmNErWz6NyG4kqPUDCmxOclNJ4HRrjxk34bM/710x430.jpg",
+        "thumbnails": [
+          {
+            "height": 430,
+            "url": "http://a.mktgcdn.com/p-sandbox/AP_JESXNmNErWz6NyG4kqPUDCmxOclNJ4HRrjxk34bM/710x430.jpg",
+            "width": 710
+          },
+          {
+            "height": 375,
+            "url": "http://a.mktgcdn.com/p-sandbox/AP_JESXNmNErWz6NyG4kqPUDCmxOclNJ4HRrjxk34bM/619x375.jpg",
+            "width": 619
+          },
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/AP_JESXNmNErWz6NyG4kqPUDCmxOclNJ4HRrjxk34bM/600x363.jpg",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/AP_JESXNmNErWz6NyG4kqPUDCmxOclNJ4HRrjxk34bM/196x119.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/AP_JESXNmNErWz6NyG4kqPUDCmxOclNJ4HRrjxk34bM/710x430.jpg",
+        "width": 710
+      },
+      "tags": [
+        "沖縄",
+        "お得なクーポン"
+      ],
+      "title": "いま人気の沖縄で叶えるリゾートウエディング",
+      "url": "https://www.jtb.co.jp/wed/okinawa/"
+    },
+    "c_v2Promo7": {
+      "description": "多くの先輩カップルが式場探しに活用するのがブライダルフェア。理想のリゾートウエディングを叶えるのにとても心強いイベントです。式場探しの最初の一歩はぜひJTBのブライダルフェアにご参加ください！\n\nブライダルフェアの内容一例\n・花嫁ヘアセットやドレス試着などの体験イベント\n・ウエディング会社スタッフとJTBスタッフに一度に相談できるコラボイベント\n・海外の式場と中継で繋がるオンライン式場見学\n・人気のドレス・タキシード＆アルバム展示\n\nフェアによっては来場特典や成約特典付きのケースもあるのでお見逃しなく♡\nフェア情報はタイトルをクリックしてチェックしてください♪",
+      "endDate": "2024-11-29",
+      "image": {
+        "alternateText": "メリット沢山！ブラダルフェアに参加しよう",
+        "height": 430,
+        "sourceUrl": "https://a.mktgcdn.com/p/_h9sozRSdOAIJvI5r9rSG0Vlkc0J5zM0klealCyuGYo/710x430.jpg",
+        "thumbnails": [
+          {
+            "height": 430,
+            "url": "http://a.mktgcdn.com/p-sandbox/_h9sozRSdOAIJvI5r9rSG0Vlkc0J5zM0klealCyuGYo/710x430.jpg",
+            "width": 710
+          },
+          {
+            "height": 375,
+            "url": "http://a.mktgcdn.com/p-sandbox/_h9sozRSdOAIJvI5r9rSG0Vlkc0J5zM0klealCyuGYo/619x375.jpg",
+            "width": 619
+          },
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/_h9sozRSdOAIJvI5r9rSG0Vlkc0J5zM0klealCyuGYo/600x363.jpg",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/_h9sozRSdOAIJvI5r9rSG0Vlkc0J5zM0klealCyuGYo/196x119.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/_h9sozRSdOAIJvI5r9rSG0Vlkc0J5zM0klealCyuGYo/710x430.jpg",
+        "width": 710
+      },
+      "tags": [
+        "ブライダルフェア",
+        "イベント"
+      ],
+      "title": "メリット沢山！ブラダルフェアに参加しよう",
+      "url": "https://www.jtb.co.jp/wed/campaign/#shutoken"
+    },
+    "c_v2Promo8": {
+      "description": "今のふたりだけの特別なロケーションフォトを撮影しませんか。JTBなら日本各地での撮影プランをご用意。ワンランク上の旅館・ホテルで贅沢な時間を過ごし、四季折々の瞬間を残しましょう。開放感のあるロケーション撮影だから自然な笑顔でリラックスした撮影が可能。ウエディングフォト商品はぜひご来店予約の上、ご相談ください。",
+      "endDate": "2024-11-29",
+      "image": {
+        "alternateText": "ウエディングフォト・ハネムーンフォト特集",
+        "height": 430,
+        "sourceUrl": "https://a.mktgcdn.com/p/u0tV7bb-4zYoU4GLkbjKdjkrakun8xcEBlwQAtETdg4/710x430.jpg",
+        "thumbnails": [
+          {
+            "height": 430,
+            "url": "http://a.mktgcdn.com/p-sandbox/u0tV7bb-4zYoU4GLkbjKdjkrakun8xcEBlwQAtETdg4/710x430.jpg",
+            "width": 710
+          },
+          {
+            "height": 375,
+            "url": "http://a.mktgcdn.com/p-sandbox/u0tV7bb-4zYoU4GLkbjKdjkrakun8xcEBlwQAtETdg4/619x375.jpg",
+            "width": 619
+          },
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/u0tV7bb-4zYoU4GLkbjKdjkrakun8xcEBlwQAtETdg4/600x363.jpg",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/u0tV7bb-4zYoU4GLkbjKdjkrakun8xcEBlwQAtETdg4/196x119.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/u0tV7bb-4zYoU4GLkbjKdjkrakun8xcEBlwQAtETdg4/710x430.jpg",
+        "width": 710
+      },
+      "tags": [
+        "ウエディングフォト",
+        "ハネムーン"
+      ],
+      "title": "ウエディングフォト・ハネムーンフォト特集",
+      "url": "https://www.jtb.co.jp/wed/photo/"
+    },
+    "c_v2PromoSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2PromoSectionTitle": "おすすめ情報",
+    "c_v2RelatedLink2": {
+      "label": "沖縄挙式プランを探す",
+      "link": "https://www.jtb.co.jp/wed/okinawa/",
+      "linkType": "OTHER"
+    },
+    "c_v2RelatedLink3": {
+      "label": "ハワイ挙式プランを探す",
+      "link": "https://www.jtb.co.jp/wed/hawaii/",
+      "linkType": "OTHER"
+    },
+    "c_v2RelatedLink5": {
+      "label": "ウエディングフォト",
+      "link": "https://www.jtb.co.jp/wed/photo/",
+      "linkType": "OTHER"
+    },
+    "c_v2RelatedLink6": {
+      "label": "帰国後パーティー",
+      "link": "https://www.jtb.co.jp/wed/party/",
+      "linkType": "OTHER"
+    },
+    "c_v2ReservationForVisitSubtitle": "（予約ボタンからご予約ください）",
+    "c_v2StaffSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2StaffSectionSubTitle": "クリックで、詳細を表示",
+    "c_v2StaffSectionTitle": "スタッフ紹介",
+    "c_v2StoreManagerDescription": "総合旅行業務取扱管理者：河辺　弘子",
+    "c_v2Tel1": {
+      "label": "ウエディング・ハネムーンのご相談・お申し込み",
+      "number": "03-6419-3188"
+    },
+    "c_v2Tel2": {
+      "label": "ウエディングのご相談・申込"
+    },
+    "c_wed_Menu_background": "#E79494",
+    "c_wed_Menu_border": "#E09191",
+    "c_wed_Menu_font_color": "#FFFFFF",
+    "c_wed_Menu_font_color_on_light": "#E09191",
+    "c_wed_Menu_light_background": "#FEEEEE",
+    "c_おすすめ情報1タイトル": "今こそ、ふたりだけの記念旅行を",
+    "c_おすすめ情報1ボタンURL": "https://www.jtb.co.jp/wed/photo/location//",
+    "c_おすすめ情報1ボタンラベル": "詳しくはこちら",
+    "c_おすすめ情報1掲載始め": "2022-10-11",
+    "c_おすすめ情報1掲載終り": "2023-02-28",
+    "c_おすすめ情報1画像": {
+      "clickthroughUrl": "https://www.jtb.co.jp/wed/photo/location/",
+      "image": {
+        "height": 430,
+        "sourceUrl": "https://a.mktgcdn.com/p/CKHR_w9VH6mZlJ5yTpNvqa6Ew-SHgb0iCp8P1ZFUZIo/710x430.jpg",
+        "thumbnails": [
+          {
+            "height": 430,
+            "url": "http://a.mktgcdn.com/p-sandbox/RYkcMooIrgBng-NXKYUd6wmsWNQMQetl8gZV-EJH1gg/710x430.jpg",
+            "width": 710
+          },
+          {
+            "height": 375,
+            "url": "http://a.mktgcdn.com/p-sandbox/RYkcMooIrgBng-NXKYUd6wmsWNQMQetl8gZV-EJH1gg/619x375.jpg",
+            "width": 619
+          },
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/RYkcMooIrgBng-NXKYUd6wmsWNQMQetl8gZV-EJH1gg/600x363.jpg",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/RYkcMooIrgBng-NXKYUd6wmsWNQMQetl8gZV-EJH1gg/196x119.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/RYkcMooIrgBng-NXKYUd6wmsWNQMQetl8gZV-EJH1gg/710x430.jpg",
+        "width": 710
+      }
+    },
+    "c_おすすめ情報1表示": true,
+    "c_おすすめ情報1説明": "今のふたりだけの特別なロケーションフォトを撮影しませんか。",
+    "c_おすすめ情報2タイトル": "ハワイツアー再開！2023年新商品も発売中",
+    "c_おすすめ情報2ボタンURL": "https://www.jtb.co.jp/wed/hawaii/",
+    "c_おすすめ情報2ボタンラベル": "ハワイ会場の取扱一覧はこちら",
+    "c_おすすめ情報2掲載終り": "2022-11-30",
+    "c_おすすめ情報2画像": {
+      "image": {
+        "height": 430,
+        "sourceUrl": "https://a.mktgcdn.com/p/1cbvp-p3p3aW7mOkvUa_CUAO2I_vPKB3Bvmmh2OLTWk/710x430.jpg",
+        "thumbnails": [
+          {
+            "height": 430,
+            "url": "http://a.mktgcdn.com/p-sandbox/1cbvp-p3p3aW7mOkvUa_CUAO2I_vPKB3Bvmmh2OLTWk/710x430.jpg",
+            "width": 710
+          },
+          {
+            "height": 375,
+            "url": "http://a.mktgcdn.com/p-sandbox/1cbvp-p3p3aW7mOkvUa_CUAO2I_vPKB3Bvmmh2OLTWk/619x375.jpg",
+            "width": 619
+          },
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/1cbvp-p3p3aW7mOkvUa_CUAO2I_vPKB3Bvmmh2OLTWk/600x363.jpg",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/1cbvp-p3p3aW7mOkvUa_CUAO2I_vPKB3Bvmmh2OLTWk/196x119.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/1cbvp-p3p3aW7mOkvUa_CUAO2I_vPKB3Bvmmh2OLTWk/710x430.jpg",
+        "width": 710
+      }
+    },
+    "c_おすすめ情報2表示": true,
+    "c_おすすめ情報2説明": "憧れのハワイ挙式を叶えるお手伝いをいたします。はじめの一歩のご相談はまずはJTBで。",
+    "c_おすすめ情報3タイトル": "いま人気の沖縄で叶えるリゾートウエディング",
+    "c_おすすめ情報3ボタンURL": "https://www.jtb.co.jp/wed/okinawa/",
+    "c_おすすめ情報3ボタンラベル": "沖縄会場の取扱一覧はこちら",
+    "c_おすすめ情報3掲載始め": "2022-09-30",
+    "c_おすすめ情報3掲載終り": "2023-03-31",
+    "c_おすすめ情報3画像": {
+      "clickthroughUrl": "https://www.jtb.co.jp/wed/okinawa/",
+      "image": {
+        "height": 430,
+        "sourceUrl": "https://a.mktgcdn.com/p/mfAt6LngG8rWhSbADUab_zJIT__vsAD0qCZuDH5hrRQ/710x430.jpg",
+        "thumbnails": [
+          {
+            "height": 430,
+            "url": "http://a.mktgcdn.com/p-sandbox/mfAt6LngG8rWhSbADUab_zJIT__vsAD0qCZuDH5hrRQ/710x430.jpg",
+            "width": 710
+          },
+          {
+            "height": 375,
+            "url": "http://a.mktgcdn.com/p-sandbox/mfAt6LngG8rWhSbADUab_zJIT__vsAD0qCZuDH5hrRQ/619x375.jpg",
+            "width": 619
+          },
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/mfAt6LngG8rWhSbADUab_zJIT__vsAD0qCZuDH5hrRQ/600x363.jpg",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/mfAt6LngG8rWhSbADUab_zJIT__vsAD0qCZuDH5hrRQ/196x119.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/mfAt6LngG8rWhSbADUab_zJIT__vsAD0qCZuDH5hrRQ/710x430.jpg",
+        "width": 710
+      }
+    },
+    "c_おすすめ情報3表示": true,
+    "c_おすすめ情報3説明": "JTBなら、沖縄本島から離島まで多彩な挙式会場のご案内が可能です。お気軽にご相談ください。",
+    "c_おすすめ情報タイトル": "おすすめ情報",
+    "c_店舗MetaDescription": "[[c_altName]] | [[address.region]] [[address.city]] [[address.line1]] - [[c_店舗ニュース1タイトル]] [[c_おすすめ情報1タイトル]]",
+    "c_店舗MetaTitle": "[[c_altName]] : [[address.region]] [[address.city]]",
+    "c_店舗お知らせ通常": "営業時間は11：00～19：00（受付終了18：30）となります。ご不便をおかけしますが、何卒ご理解賜りますようお願い申し上げます。また、来店の際は事前の来店予約にご協力下さい。来店予約の無いお客様は長時間お待たせしてしまう恐れがございます。",
+    "c_店舗お知らせ通常掲載始め": "2021-09-09",
+    "c_店舗お知らせ通常掲載終り": "2023-03-31",
+    "c_店舗の特色フィルタ": [
+      "ウェディングコンサルタントのいるお店",
+      "来店予約を受付けているお店"
+    ],
+    "c_店舗ニュース1タイトル": "お客様へのご案内",
+    "c_店舗ニュース1掲載始め": "2020-07-17",
+    "c_店舗ニュース1掲載終り": "2023-03-31",
+    "c_店舗ニュース1表示": true,
+    "c_店舗ニュース1説明": "平素よりJTBをご愛顧賜り誠にありがとうございます。\n当社は、お客様と従業員の安全と感染拡大防止に配慮しながら、営業を行っております。\n\n■店舗における感染防止対策の実施について\n・入口および店舗内に手指の消毒設備（アルコール等）の設置\n・店舗内におけるスタッフのマスクの着用\n・飛沫感染防止のためのカウンターパーテーションの設置\n・カウンター席間へのパーテーションの設置またはソーシャルディスタンスに配慮したカウンター席の設置\n・カウンターや椅子、パンフレットケースなどへのこまめな拭き取りによる除菌対応\n\n店内混雑を避けるため、当面の間、受付は事前にご来店予約をいただいたお客様を優先して対応させて頂いております。（ご来店予約は当店ホームページより承ります。）\n尚、ご来店の際には、マスクの着用、来店時の手指の消毒などにご協力を頂きますようお願い申し上げます。\n発熱等体調がすぐれないお客様はご来店をお控えください。\n何卒、ご理解およびご協力をよろしくお願いいたします。",
+    "c_店舗ニュース2URL": "https://www.jtb.co.jp/kokunai/goto/#refund",
+    "c_店舗ニュース2タイトル": "GoToトラベルキャンペーンでの還付手続きについて",
+    "c_店舗ニュース2掲載始め": "2020-08-24",
+    "c_店舗ニュース2掲載終り": "2020-09-15",
+    "c_店舗ニュース2画像": {
+      "clickthroughUrl": "https://www.jtb.co.jp/kokunai/goto/",
+      "image": {
+        "height": 203,
+        "sourceUrl": "https://a.mktgcdn.com/p/8erCSk1iAeLpnD-KuYID1wM6ngfUTprsjLakXq2tEuc/360x203.jpg",
+        "thumbnails": [
+          {
+            "height": 203,
+            "url": "http://a.mktgcdn.com/p-sandbox/hyCr85ZWzdGr_zzvN9N4IdXTgtMjbcshXtF87CV7gxw/360x203.jpg",
+            "width": 360
+          },
+          {
+            "height": 111,
+            "url": "http://a.mktgcdn.com/p-sandbox/hyCr85ZWzdGr_zzvN9N4IdXTgtMjbcshXtF87CV7gxw/196x111.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/hyCr85ZWzdGr_zzvN9N4IdXTgtMjbcshXtF87CV7gxw/360x203.jpg",
+        "width": 360
+      }
+    },
+    "c_店舗ニュース2表示": true,
+    "c_店舗ニュース2説明": "2020年7月26日以前に弊社店舗でご予約済み（またはご旅行後）のお客様の場合、\n条件を満たせばGoToトラベルキャンペーンでの旅行代金割引の還付対象となります。\n\n還付手続きの期間は下記を予定しております。\n　2020年8月26日（水）～2020年9月14日（月）\n　※申請はご旅行をお申し込みされた店舗で代行いたします。ご不明な点がございましたらお問合せください。\n\n対象となる条件や還付手続きの詳細は上記「GoToトラベルキャンペーンでの還付手続きについて」よりご確認ください。",
+    "c_店舗ニュース3タイトル": "営業時間後・年末年始休業期間中に取消料発生日を迎えるお客様へのご案内",
+    "c_店舗ニュース3掲載始め": "2021-11-22",
+    "c_店舗ニュース3掲載終り": "2022-01-03",
+    "c_店舗ニュース3表示": true,
+    "c_店舗ニュース3説明": "【年末年始の営業について】\n12月29日(水)～1月3日(月)まで休業致します。\n\nお急ぎの場合は下記内容をご確認いただき、お客様ご自身でご対応をお願いします。\nお客様にはご不便をおかけし大変申し訳ございません。\n何卒ご理解賜りますようお願い申し上げます。\n\n各関係機関へお客様ご自身でお申し出をお願いします。お申し出の際には、連絡日時・施設の担当者名をお控え下\nさい。お渡しした全ての切符日程表類をお早めに当店にお持ち下さい。詳細は最終旅程表に同封の「ご旅行にあたっ\nての注意事項」をご確認下さい。\n※関係機関への取消連絡や取消手続きをされなかった場合、払い戻しの権利放棄となり、一切の返金ができません。\n\n国内旅行（エースJTB・JTBダイナミックパッケージMySTYLE・サン＆サン）をお申し込み・ご購入のお客様\n１．個人型フリープラン（添乗員なし）の場合\n(1)「宿泊施設」「レンタカー」「船舶」「ハイヤー」\n各関係機関へ取消のお申し出をお願いします。\n(2)「JR」の（契）乗車券および「その他鉄道」のエース整理票\n各鉄道会社の最寄り駅にて係員より往復共に「取消証明」を受けて下さい。\n便・列車などの指定がない場合でも「旅行中止証明」が必要です。\n(3)ツアー用航空券の「eチケットお客様控え」\n取消連絡は不要です。ただし、フジドリームエアラインズをご利用プランのお客様は、0570-55-0489にてご自身で取消をお願いします。\n\n2．添乗員が同行する旅行の場合（現地係員がご案内する旅行も含む）\n(1)エースJTB最終行程表に記載されている「緊急連絡先」、「エースJTBお出かけダイヤル」へお申し出下さい。\nまた休業日明けに当店へご連絡下さい。\n(2)「JR」および「その他鉄道」の（契）乗車券をお持ちの場合\n最寄り駅にて係員より往復共に「取消証明」を受けて下さい。便・列車の指定がない場合でも「旅行中止証明」が必要です。\n(3)ツアー用航空券の「eチケットお客様控え」をお持ちの場合\n取消連絡は不要です。ただし、フジドリームエアラインズをご利用プランのお客様は、0570-55-0489にてご自身で取消をお\n願いします。\n\nチケット単品または手配旅行をお申し込み・ご購入のお客様\n■国内商品\n1．鉄道や高速バスの指定券・特急券\n（1）JR\n・変更：各鉄道会社の最寄駅へ切符をご持参のうえお申し出下さい。\n・取消：各鉄道会社の最寄り駅へ切符をご持参のうえ取消証明をお受け下さい。払戻につきまして、現金でご購入いただい\nた切符は、駅で払戻が可能です。旅行券・クレジットカードでご購入いただいた切符は、休業日明けに当店にて払\n戻致しますので、1月31日（日）までに取消証明済みの切符を当店にお持ちください。\n（2）JR以外\n・取消：各鉄道会社の最寄り駅や高速バスの予約センター・バスターミナルなどへ切符をご持参のうえ取消証明をお受け下\nさい。払戻しにつきましては、休業日明けに当店にて払戻し致しますので、利用日から1ヶ月以内に取消証明済み\nの切符を当店にお持ち下さい。\n\n2．航空券\n・変更：変更可能な航空券をお持ちの場合は、各航空会社予約センターへお電話でお申し出下さい。\n・取消：各航空会社予約センターへお電話にてお取消下さい。その際に「取消番号・払戻期限」をご確認下さい。休業日明\nけに当店にて払戻致しますので、払戻期限までに取消番号と「eチケットお客様控え」を当店にお持ち下さい。\n　　全日空\t０５７０－０２９－２２２　　\tスカイマーク　\t０５７０－０３９－２８３\n　　日本航空\t０５７０－０２５－０７１　　\tソラシドエア\t　　０５７０－０３７－２８３\n　　AIRDO \t０１２０－０５７－３３３\t\tスターフライヤ－\t０５７０－０７－３２００\n　　FDA　\t０５７０－５５－０４８９\n\n3．宿泊\n・変更：宿泊施設へ直接ご相談下さい。\n・取消：宿泊施設へ直接、取消をお申し出ください。払戻は、宿泊日より１ヶ月以内に宿泊確認票を当店にお持ち下さい。",
+    "c_店舗ニュース4表示": true,
+    "c_店舗ニュース5表示": true,
+    "c_店舗ニュース6表示": true,
+    "c_店舗ニュース7表示": true,
+    "c_店舗ニュース8表示": true,
+    "c_店舗ニュース9URL": "https://www.jtb.co.jp/operate/weather.asp",
+    "c_店舗ニュース9タイトル": "地震や悪天候に伴う欠航・遅延・運休について",
+    "c_店舗ニュース9表示": true,
+    "c_店舗ニュース9説明": "地震や悪天候に伴う欠航・遅延・運休等の対応について記載しております。",
+    "c_店舗ニュースタイトル": "店舗ニュース・イベント",
+    "c_店舗ページ生成": true,
+    "c_店舗休日": [
+      "土曜",
+      "日曜",
+      "祝日"
+    ],
+    "c_店舗営業時間追記0": "受付終了時間　各閉店時間の30分前となります。",
+    "c_店舗営業時間追記1": "受付終了時間　各閉店時間の30分前となります。",
+    "c_店舗外観写真": {
+      "image": {
+        "height": 320,
+        "sourceUrl": "http://a.mktgcdn.com/p/2UGDA7x5F0sN6mFlL8qbEZjsK1gEVA8s6QU9ojFPrhY/480x320.jpg",
+        "thumbnails": [
+          {
+            "height": 320,
+            "url": "http://a.mktgcdn.com/p-sandbox/2UGDA7x5F0sN6mFlL8qbEZjsK1gEVA8s6QU9ojFPrhY/480x320.jpg",
+            "width": 480
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p-sandbox/2UGDA7x5F0sN6mFlL8qbEZjsK1gEVA8s6QU9ojFPrhY/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/2UGDA7x5F0sN6mFlL8qbEZjsK1gEVA8s6QU9ojFPrhY/480x320.jpg",
+        "width": 480
+      }
+    },
+    "c_店舗責任者": "総合旅行業務取扱管理者：鈴木　佑侑",
+    "c_電話番号2ラベル": "ウエディングのご相談・申込",
+    "categoryIds": [
+      "1384835",
+      "1084",
+      "1960"
+    ],
+    "closed": false,
+    "description": "【海外結婚式・挙式、国内リゾートウエディングのご相談は、JTBウエディング！相談予約は、当店ウェブサイトから】\n\n「リゾートウエディングは気になるけど、何から始めたらいいかわからない…」「こだわりの式を実現したい！」そんな方は、JTBにお任せ！旅行＆挙式に精通したウエディングコンサルタントが、世界中の魅力的な会場・プランから、おふたりにぴったりのウエディングをご提案いたします。JTBならではの充実サポート完備で、おふたりも同行者の方々も安心です♪\n\nさらに、結婚式場やウエディングフォト、新婚旅行（ハネムーンツアー）のご相談も可能！「費用ってどれくらいかかるの？」といった素朴な疑問から、具体的なプランの検討まで…お気軽にご相談ください。\n\n≫　営業時間やご来店前のご案内のほか、最新キャンペーン・店舗イベント情報など、当店ウェブサイトも要チェック！\n【アクセス】\n・JR線(中央東口)・京王井の頭線「渋谷駅」と２階連絡通路直結\n・東京メトロ銀座線「渋谷駅」１階直結\n・東急東横線・田園都市線・東京メトロ半蔵門線・副都心線「渋谷駅」B5出口直結",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_dong_jing_du",
+      "defaultDirectory_dong_jing_du_shibui_gu_qu"
+    ],
+    "facebookCallToAction": {
+      "type": "BOOK_NOW",
+      "value": "[[reservation.url]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "sourceUrl": "http://a.mktgcdn.com/p/vafruIRlKe18mCJnJEpbA94-0UU2CBOk1Vj2C22bU3g/851x315.png",
+      "thumbnails": [
+        {
+          "height": 315,
+          "url": "http://a.mktgcdn.com/p-sandbox/73CJnTRFck5dyo3Vj-czdMKpBizj3BecXHcSbYG-zJg/851x315.png",
+          "width": 851
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/73CJnTRFck5dyo3Vj-czdMKpBizj3BecXHcSbYG-zJg/851x315.png",
+      "width": 851
+    },
+    "facebookDescriptor": "ウエディングプラザ渋谷ヒカリエ シンクス （ 渋谷ヒカリエ シンクス店内）",
+    "facebookName": "JTB",
+    "facebookOverrideCity": "Shibuya-ku",
+    "facebookPageUrl": "https://www.facebook.com/103155364680601",
+    "facebookParentPageId": "119682294718779",
+    "facebookProfilePhoto": {
+      "height": 404,
+      "sourceUrl": "http://a.mktgcdn.com/p/40P8avuMMkKHt9ca8aKx5Zqvq3RFdXsfXeY9kHlRRr8/404x404.jpg",
+      "thumbnails": [
+        {
+          "height": 404,
+          "url": "http://a.mktgcdn.com/p-sandbox/40P8avuMMkKHt9ca8aKx5Zqvq3RFdXsfXeY9kHlRRr8/404x404.jpg",
+          "width": 404
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/40P8avuMMkKHt9ca8aKx5Zqvq3RFdXsfXeY9kHlRRr8/404x404.jpg",
+      "width": 404
+    },
+    "facebookVanityUrl": "JTBWeddingplazashibuyahikarieshinkusu",
+    "featuredMessage": {
+      "description": "海外・国内リゾートウエディングなら、旅も挙式も JTBウエディングプラザ・デスクへ",
+      "url": "http://www.jtb.co.jp/wed/index.asp"
+    },
+    "googleAccountId": "111341930399341659688",
+    "googleCoverPhoto": {
+      "alternateText": "ウエディングデスク渋谷ヒカリエ シンクス",
+      "height": 1080,
+      "sourceUrl": "https://a.mktgcdn.com/p/kNvuXQlJVNc4lIUCmnJa736vZFMQ_2XN-hPRchZKPDM/1920x1080.jpg",
+      "thumbnails": [
+        {
+          "height": 1080,
+          "url": "http://a.mktgcdn.com/p-sandbox/kNvuXQlJVNc4lIUCmnJa736vZFMQ_2XN-hPRchZKPDM/1920x1080.jpg",
+          "width": 1920
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/kNvuXQlJVNc4lIUCmnJa736vZFMQ_2XN-hPRchZKPDM/1920x1080.jpg",
+      "width": 1920
+    },
+    "googlePlaceId": "ChIJ4QwatOSLGGARbadtkPkzk64",
+    "googleProfilePhoto": {
+      "height": 400,
+      "sourceUrl": "https://a.mktgcdn.com/p/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/400x400.png",
+      "thumbnails": [
+        {
+          "height": 400,
+          "url": "http://a.mktgcdn.com/p-sandbox/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/400x400.png",
+          "width": 400
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/400x400.png",
+      "width": 400
+    },
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "11:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "11:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "11:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "19:00",
+            "start": "11:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "11:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "11:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "11:00"
+          }
+        ]
+      }
+    },
+    "instagramHandle": "jtb_wedding",
+    "logo": {
+      "image": {
+        "height": 400,
+        "sourceUrl": "https://a.mktgcdn.com/p/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/400x400.png",
+        "thumbnails": [
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/400x400.png",
+            "width": 400
+          },
+          {
+            "height": 150,
+            "url": "http://a.mktgcdn.com/p-sandbox/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/150x150.png",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "http://a.mktgcdn.com/p-sandbox/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/94x94.png",
+            "width": 94
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/400x400.png",
+        "width": 400
+      }
+    },
+    "mainPhone": "+81364193188",
+    "name": "JTBウエディングデスク渋谷ヒカリエ シンクス",
+    "photoGallery": [
+      {
+        "description": "店舗外観",
+        "image": {
+          "height": 2560,
+          "sourceUrl": "https://a.mktgcdn.com/p/VmGo0n7vUyav_Nic5pbhftE5X0ltqrrXZ8SnnYk7JhI/1920x2560.jpg",
+          "thumbnails": [
+            {
+              "height": 2560,
+              "url": "http://a.mktgcdn.com/p-sandbox/VmGo0n7vUyav_Nic5pbhftE5X0ltqrrXZ8SnnYk7JhI/1920x2560.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1900,
+              "url": "http://a.mktgcdn.com/p-sandbox/VmGo0n7vUyav_Nic5pbhftE5X0ltqrrXZ8SnnYk7JhI/1425x1900.jpg",
+              "width": 1425
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p-sandbox/VmGo0n7vUyav_Nic5pbhftE5X0ltqrrXZ8SnnYk7JhI/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/VmGo0n7vUyav_Nic5pbhftE5X0ltqrrXZ8SnnYk7JhI/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p-sandbox/VmGo0n7vUyav_Nic5pbhftE5X0ltqrrXZ8SnnYk7JhI/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/VmGo0n7vUyav_Nic5pbhftE5X0ltqrrXZ8SnnYk7JhI/1920x2560.jpg",
+          "width": 1920
+        }
+      },
+      {
+        "description": "店内相談カウンター",
+        "image": {
+          "height": 1425,
+          "sourceUrl": "https://a.mktgcdn.com/p/97xy5-JUXCigFIvrJ9RuN2o0Yq8l0lVSBhWCrjQ4vUg/1920x1425.jpg",
+          "thumbnails": [
+            {
+              "height": 1425,
+              "url": "http://a.mktgcdn.com/p-sandbox/97xy5-JUXCigFIvrJ9RuN2o0Yq8l0lVSBhWCrjQ4vUg/1920x1425.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1410,
+              "url": "http://a.mktgcdn.com/p-sandbox/97xy5-JUXCigFIvrJ9RuN2o0Yq8l0lVSBhWCrjQ4vUg/1900x1410.jpg",
+              "width": 1900
+            },
+            {
+              "height": 459,
+              "url": "http://a.mktgcdn.com/p-sandbox/97xy5-JUXCigFIvrJ9RuN2o0Yq8l0lVSBhWCrjQ4vUg/619x459.jpg",
+              "width": 619
+            },
+            {
+              "height": 445,
+              "url": "http://a.mktgcdn.com/p-sandbox/97xy5-JUXCigFIvrJ9RuN2o0Yq8l0lVSBhWCrjQ4vUg/600x445.jpg",
+              "width": 600
+            },
+            {
+              "height": 145,
+              "url": "http://a.mktgcdn.com/p-sandbox/97xy5-JUXCigFIvrJ9RuN2o0Yq8l0lVSBhWCrjQ4vUg/196x145.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/97xy5-JUXCigFIvrJ9RuN2o0Yq8l0lVSBhWCrjQ4vUg/1920x1425.jpg",
+          "width": 1920
+        }
+      },
+      {
+        "description": "店舗外観",
+        "image": {
+          "height": 1425,
+          "sourceUrl": "https://a.mktgcdn.com/p/5v7Mvx5YVDdhWBrsvuEqHJcZuCz_m3esb1IiOptAnqM/1920x1425.jpg",
+          "thumbnails": [
+            {
+              "height": 1425,
+              "url": "http://a.mktgcdn.com/p-sandbox/5v7Mvx5YVDdhWBrsvuEqHJcZuCz_m3esb1IiOptAnqM/1920x1425.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1410,
+              "url": "http://a.mktgcdn.com/p-sandbox/5v7Mvx5YVDdhWBrsvuEqHJcZuCz_m3esb1IiOptAnqM/1900x1410.jpg",
+              "width": 1900
+            },
+            {
+              "height": 459,
+              "url": "http://a.mktgcdn.com/p-sandbox/5v7Mvx5YVDdhWBrsvuEqHJcZuCz_m3esb1IiOptAnqM/619x459.jpg",
+              "width": 619
+            },
+            {
+              "height": 445,
+              "url": "http://a.mktgcdn.com/p-sandbox/5v7Mvx5YVDdhWBrsvuEqHJcZuCz_m3esb1IiOptAnqM/600x445.jpg",
+              "width": 600
+            },
+            {
+              "height": 145,
+              "url": "http://a.mktgcdn.com/p-sandbox/5v7Mvx5YVDdhWBrsvuEqHJcZuCz_m3esb1IiOptAnqM/196x145.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/5v7Mvx5YVDdhWBrsvuEqHJcZuCz_m3esb1IiOptAnqM/1920x1425.jpg",
+          "width": 1920
+        }
+      },
+      {
+        "description": "店内ディスプレイ",
+        "image": {
+          "height": 2291,
+          "sourceUrl": "https://a.mktgcdn.com/p/Jx6U69xi_BM_7hwoXojfB4sZTNKtff70tR7ttE5bYPc/1920x2291.jpg",
+          "thumbnails": [
+            {
+              "height": 2291,
+              "url": "http://a.mktgcdn.com/p-sandbox/Jx6U69xi_BM_7hwoXojfB4sZTNKtff70tR7ttE5bYPc/1920x2291.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1900,
+              "url": "http://a.mktgcdn.com/p-sandbox/Jx6U69xi_BM_7hwoXojfB4sZTNKtff70tR7ttE5bYPc/1592x1900.jpg",
+              "width": 1592
+            },
+            {
+              "height": 739,
+              "url": "http://a.mktgcdn.com/p-sandbox/Jx6U69xi_BM_7hwoXojfB4sZTNKtff70tR7ttE5bYPc/619x739.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/Jx6U69xi_BM_7hwoXojfB4sZTNKtff70tR7ttE5bYPc/377x450.jpg",
+              "width": 377
+            },
+            {
+              "height": 234,
+              "url": "http://a.mktgcdn.com/p-sandbox/Jx6U69xi_BM_7hwoXojfB4sZTNKtff70tR7ttE5bYPc/196x234.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/Jx6U69xi_BM_7hwoXojfB4sZTNKtff70tR7ttE5bYPc/1920x2291.jpg",
+          "width": 1920
+        }
+      },
+      {
+        "description": "店舗外観",
+        "image": {
+          "height": 1439,
+          "sourceUrl": "https://a.mktgcdn.com/p/F31ID3mheJgUD8ereUTclMXm-W-09pyEayRKPTdAVKU/1920x1439.jpg",
+          "thumbnails": [
+            {
+              "height": 1439,
+              "url": "http://a.mktgcdn.com/p-sandbox/F31ID3mheJgUD8ereUTclMXm-W-09pyEayRKPTdAVKU/1920x1439.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1424,
+              "url": "http://a.mktgcdn.com/p-sandbox/F31ID3mheJgUD8ereUTclMXm-W-09pyEayRKPTdAVKU/1900x1424.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p-sandbox/F31ID3mheJgUD8ereUTclMXm-W-09pyEayRKPTdAVKU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/F31ID3mheJgUD8ereUTclMXm-W-09pyEayRKPTdAVKU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p-sandbox/F31ID3mheJgUD8ereUTclMXm-W-09pyEayRKPTdAVKU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/F31ID3mheJgUD8ereUTclMXm-W-09pyEayRKPTdAVKU/1920x1439.jpg",
+          "width": 1920
+        }
+      },
+      {
+        "description": "店内相談カウンター",
+        "image": {
+          "height": 1920,
+          "sourceUrl": "https://a.mktgcdn.com/p/UN4XrB0jXrnknp70m-fQrWyXDlwKty2ztPtIPsFdvVw/1920x1920.jpg",
+          "thumbnails": [
+            {
+              "height": 1920,
+              "url": "http://a.mktgcdn.com/p-sandbox/UN4XrB0jXrnknp70m-fQrWyXDlwKty2ztPtIPsFdvVw/1920x1920.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1900,
+              "url": "http://a.mktgcdn.com/p-sandbox/UN4XrB0jXrnknp70m-fQrWyXDlwKty2ztPtIPsFdvVw/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p-sandbox/UN4XrB0jXrnknp70m-fQrWyXDlwKty2ztPtIPsFdvVw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/UN4XrB0jXrnknp70m-fQrWyXDlwKty2ztPtIPsFdvVw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p-sandbox/UN4XrB0jXrnknp70m-fQrWyXDlwKty2ztPtIPsFdvVw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/UN4XrB0jXrnknp70m-fQrWyXDlwKty2ztPtIPsFdvVw/1920x1920.jpg",
+          "width": 1920
+        }
+      }
+    ],
+    "reservationUrl": {
+      "url": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf-xG"
+    },
+    "slug": "[[entityId]]",
+    "timezone": "Asia/Tokyo",
+    "websiteUrl": {
+      "preferDisplayUrl": false,
+      "url": "https://stores.jtb.co.jp/3494-w?utm_source\u003dYext\u0026utm_medium\u003dYext\u0026utm_campaign\u003dListings"
+    }
+  },
+  "entityType": "location",
+  "folder": "305734",
+  "labels": [
+    "label2閉店"
+  ]
+}

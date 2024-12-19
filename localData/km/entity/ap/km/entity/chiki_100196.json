@@ -1,0 +1,396 @@
+{
+  "$id": "ap_chiki_100196",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 東京都担当 谷口 莉沙"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "空港に到着した際のわくわく感、安心感をホテルでも楽しめる「ホテルメトロポリタン 羽田」。1階のエントランスや客室階の廊下は、空港の滑走路をイメージしたデザインになっています。フロントから繋がるエレベーターを降りた瞬間、“わっ！すごい！”という心の声が漏れてしまうほど。絨毯の色の濃淡は、タイヤの跡を表しているとのこと。なんとも細かいポイントにふっ、と気持ちが緩みます。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/OiFpgu4gUfqCQQ_sk_2JmBwRYfdzd5MSNkLR_nmU6U4/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/85Pvbkjkb6WACMCQQJdDQYS_96a1L3AgtTkSLq5Mo8M/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/85Pvbkjkb6WACMCQQJdDQYS_96a1L3AgtTkSLq5Mo8M/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/85Pvbkjkb6WACMCQQJdDQYS_96a1L3AgtTkSLq5Mo8M/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/85Pvbkjkb6WACMCQQJdDQYS_96a1L3AgtTkSLq5Mo8M/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/85Pvbkjkb6WACMCQQJdDQYS_96a1L3AgtTkSLq5Mo8M/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "フロアによって滑走路番号も異なる",
+        "sectionTitle": "心が躍る、空港を連想させるデザイン"
+      },
+      {
+        "description": "客室のタイプは13種類、ツインとダブルの客室が全237室あります。エアポートサイドの客室に入ると、大きな窓の向こうには空港の滑走路が広がっています。落ち着いた色合いのバーライクなハイカウンターの椅子に座り外を眺めていると、まるで滑走路の上に浮いているかのような感覚に。ハイカウンターにはUSBポートやコンセントがあるのでデスクワークにも便利です。また、ホテルではゆったり過ごしてほしいという想いから、ふわふわの今治タオルやバスバブルを全室に完備。ナイトウェアが上下セパレートなのも嬉しいポイントです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/nE2wgeiIm2oIwEImz1OB_Ofk4lYJOMes7iyOxWc_KE8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/PKr94eopXu8TXWVEvZiqfEQJ-lkU5U8DCXBf5NWTKgM/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/PKr94eopXu8TXWVEvZiqfEQJ-lkU5U8DCXBf5NWTKgM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/PKr94eopXu8TXWVEvZiqfEQJ-lkU5U8DCXBf5NWTKgM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/PKr94eopXu8TXWVEvZiqfEQJ-lkU5U8DCXBf5NWTKgM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PKr94eopXu8TXWVEvZiqfEQJ-lkU5U8DCXBf5NWTKgM/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "スタンダードツイン エアポートサイド",
+        "sectionTitle": "滑走路の上にいるような、唯一無二の眺め"
+      },
+      {
+        "description": "ベッドサイドの照明スイッチは、コックピットのトグルスイッチをイメージしているとのこと。細部までこだわっている”エアポートホテルらしさ\"を見つけると、なんだか嬉しい気持ちになります。そのほか、テレビ横のラックには、大田まちめぐり百景のイラストを採用したオリジナルポストカードもあり、地域との繋がりも感じることができる客室になっています。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/sP_jayX6tQBF9ryH6KtxKwbpAUjY8BHve9VEw_9Q_q0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/sP_jayX6tQBF9ryH6KtxKwbpAUjY8BHve9VEw_9Q_q0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/sP_jayX6tQBF9ryH6KtxKwbpAUjY8BHve9VEw_9Q_q0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/sP_jayX6tQBF9ryH6KtxKwbpAUjY8BHve9VEw_9Q_q0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/sP_jayX6tQBF9ryH6KtxKwbpAUjY8BHve9VEw_9Q_q0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sP_jayX6tQBF9ryH6KtxKwbpAUjY8BHve9VEw_9Q_q0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "飛行機の小さなイラストがかわいい",
+        "sectionTitle": "エアポートホテルらしさ、地域とのつながりを感じる"
+      },
+      {
+        "description": "ホテルの屋上階にある展望デッキ「THE ROOFTOP」からは、羽田空港はもちろん、都内や千葉の舞浜、横浜のみなとみらいまで360度のパノラマ風景を楽しむことができます。お好きなドリンクを片手にソファーに座り、行き交う飛行機を楽しむのもおすすめの過ごし方です。天気が良い日は富士山が見えることも！",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/s88hgsNg0JExhO1AnqKgs_4j0DI201YJ3NsZKkSlywI/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/P2z3fiSTPeS2uQgtMGkS_1-Z39hrepPKMXDwOshM3Yw/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/P2z3fiSTPeS2uQgtMGkS_1-Z39hrepPKMXDwOshM3Yw/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/P2z3fiSTPeS2uQgtMGkS_1-Z39hrepPKMXDwOshM3Yw/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/P2z3fiSTPeS2uQgtMGkS_1-Z39hrepPKMXDwOshM3Yw/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/P2z3fiSTPeS2uQgtMGkS_1-Z39hrepPKMXDwOshM3Yw/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "デッキへと続く階段、その先に広がっている景色を想像するとわくわくします",
+        "sectionTitle": "開放感のある屋上展望デッキ"
+      },
+      {
+        "description": "朝食はホテル5階レストラン「il CIELO HANEDA」にて50種類以上のビュッフェメニューが用意され、和食・洋食・中華のほかアジアンメニューも並び、朝から旅行気分を味わうことができます。自家製のジャムやドレッシング、産地直送の野菜を使ったメニューもあり、目移りしてしまうものばかり。おすすめはスイーツコーナーの\"江戸甘味処”！ 老舗和菓子店のあんこと白玉、蜜豆でオリジナルのあんみつを作ることができます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/ODhVCl3yil7dktFmB50NtKLLxNeUQOZPYej3Vo207Us/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hewt6VYRtlsYOAoxoTUvkG68D5VySlmfOrT3sZU7K48/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hewt6VYRtlsYOAoxoTUvkG68D5VySlmfOrT3sZU7K48/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hewt6VYRtlsYOAoxoTUvkG68D5VySlmfOrT3sZU7K48/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hewt6VYRtlsYOAoxoTUvkG68D5VySlmfOrT3sZU7K48/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Hewt6VYRtlsYOAoxoTUvkG68D5VySlmfOrT3sZU7K48/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "チェアやソファーがあるのでゆったり飛行機の発着を眺めましょう",
+        "sectionTitle": "朝から旅行気分を味わうことができるレストラン"
+      },
+      {
+        "description": "5階のロビーには、飛行機や滑走路をモチーフとしたアートワークや、大田区の町工場を彷彿とさせる作品がずらり。また、セルフチェックイン・アウト機を導入しており、フライト前の忙しい朝でもご自身のペースで手続きが可能！そのほか、宿泊者専用のフィットネスジムやコインランドリーも完備しており、長期滞在でも快適に過ごすことができます。",
+        "image": {
+          "height": 534,
+          "sourceUrl": "https://a.mktgcdn.com/p/5OrAZodHhv7oseBkB4AnyBlErQmZljj0tthTEiiUcT0/800x534.jpg",
+          "thumbnails": [
+            {
+              "height": 534,
+              "url": "https://a.mktgcdn.com/p-sandbox/vfPjcYzxdzZ_lS_HgSNwVewLcDWqNtP7RhAx_cXRkgI/800x534.jpg",
+              "width": 800
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/vfPjcYzxdzZ_lS_HgSNwVewLcDWqNtP7RhAx_cXRkgI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/vfPjcYzxdzZ_lS_HgSNwVewLcDWqNtP7RhAx_cXRkgI/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/vfPjcYzxdzZ_lS_HgSNwVewLcDWqNtP7RhAx_cXRkgI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vfPjcYzxdzZ_lS_HgSNwVewLcDWqNtP7RhAx_cXRkgI/800x534.jpg",
+          "width": 800
+        },
+        "imageCaption": "大きい窓の先には多摩川が広がっています",
+        "sectionTitle": "ローズゴールドとタキシードブラックを基調としたロビー"
+      },
+      {
+        "description": "空港や飛行機をオマージュするかのように細かい部分までこだわりがつまっている「ホテルメトロポリタン 羽田」は、旅の高揚感をより一層掻き立ててくれる、そんなホテルです。フライト前後の利用だけでなく、日々の疲れを癒しに、ぼーっと飛行機を眺めに利用するのもおすすめです。ホテルのテーマでもある「旅に寄り添う、おもてなし」を感じに、一度訪れてみてはいかがでしょうか。",
+        "image": {
+          "height": 534,
+          "sourceUrl": "https://a.mktgcdn.com/p/xOsDseIGR0paHQwgsRX-guQddbX4n4O16pFjQazq9PQ/800x534.jpg",
+          "thumbnails": [
+            {
+              "height": 534,
+              "url": "https://a.mktgcdn.com/p-sandbox/Z0DjSSgNqCMJaG9Aj0oa_-ZiYPmh8nUZT9x0pvAAaLY/800x534.jpg",
+              "width": 800
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Z0DjSSgNqCMJaG9Aj0oa_-ZiYPmh8nUZT9x0pvAAaLY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/Z0DjSSgNqCMJaG9Aj0oa_-ZiYPmh8nUZT9x0pvAAaLY/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Z0DjSSgNqCMJaG9Aj0oa_-ZiYPmh8nUZT9x0pvAAaLY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Z0DjSSgNqCMJaG9Aj0oa_-ZiYPmh8nUZT9x0pvAAaLY/800x534.jpg",
+          "width": 800
+        },
+        "imageCaption": "パンケーキにあんこを挟み、どら焼きにしても良さそう",
+        "sectionTitle": "行き交う飛行機を眺めながら、ちょっぴりひと休みしたくなるホテル"
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/cz2fJiRfC8PJCaV5e9pde6FH-t_BJ9ax3vao3R3BwZQ/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/5wn75_Ib0A6SZuwXsNGTowtJ95fEJs9qIWeYlxJU_PA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/5wn75_Ib0A6SZuwXsNGTowtJ95fEJs9qIWeYlxJU_PA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/5wn75_Ib0A6SZuwXsNGTowtJ95fEJs9qIWeYlxJU_PA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/5wn75_Ib0A6SZuwXsNGTowtJ95fEJs9qIWeYlxJU_PA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5wn75_Ib0A6SZuwXsNGTowtJ95fEJs9qIWeYlxJU_PA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "フロアタイルにも、飛行機\"らしさ\"が"
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/7MtfLGSRXmRkV5pTZzYiS9wZtlKTA8nG87lCjHu5mp4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/2g1fZP0UyMULVDEpGKtrHc7gTbnVJVviMbCq1Zc_A6U/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/2g1fZP0UyMULVDEpGKtrHc7gTbnVJVviMbCq1Zc_A6U/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/2g1fZP0UyMULVDEpGKtrHc7gTbnVJVviMbCq1Zc_A6U/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/2g1fZP0UyMULVDEpGKtrHc7gTbnVJVviMbCq1Zc_A6U/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2g1fZP0UyMULVDEpGKtrHc7gTbnVJVviMbCq1Zc_A6U/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "時間帯によってさまざまな飛行機を眺めることができる、贅沢な場所"
+      }
+    ],
+    "c_ap_DatePosted": "2024-02-15",
+    "c_ap_HeroImage": {
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/n7sibSLWOwDQDIJlLIbWLv__iBVy-GgKK3cJJYf8UV4/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/n7sibSLWOwDQDIJlLIbWLv__iBVy-GgKK3cJJYf8UV4/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/n7sibSLWOwDQDIJlLIbWLv__iBVy-GgKK3cJJYf8UV4/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/n7sibSLWOwDQDIJlLIbWLv__iBVy-GgKK3cJJYf8UV4/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/n7sibSLWOwDQDIJlLIbWLv__iBVy-GgKK3cJJYf8UV4/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/n7sibSLWOwDQDIJlLIbWLv__iBVy-GgKK3cJJYf8UV4/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "発展を続ける\"羽田イノベーションシティ\"の一角にあるホテルメトロポリタン 羽田",
+    "c_ap_LinkArticleSectionTitle": "東京都のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "東京旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/tokyo/"
+      },
+      {
+        "linkText": "東京都のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/tokyo/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "関東全般",
+      "東京都"
+    ],
+    "c_ap_ShortDescription": "京浜急行電鉄の天空橋駅より徒歩約1分、「先端」と「文化」が融合する街「羽田イノベーションシティ」に、「ホテルメトロポリタン 羽田」が2023年10月に開業しました。\n羽田空港のある場所は、かつて海苔養殖が行われていたのどかな漁師町。ふわりと包み込んでくれるような優しさは、この土地ならではかもしれません。\n出発前、到着後のひとやすみに「ホテルメトロポリタン 羽田」へ泊まってみませんか。",
+    "c_ap_Tags": [
+      "羽田空港",
+      "ワーケーション",
+      "シティホテル",
+      "ホテルビュッフェ",
+      "展望デッキ"
+    ],
+    "c_ap_Theme": [
+      "一人旅",
+      "夫婦旅",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "ほっと一息、バーライクな空間で過ごす非日常 「ホテルメトロポリタン 羽田」【東京都　ホテルメトロポリタン 羽田】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "京浜急行電鉄の天空橋駅より徒歩約1分、「先端」と「文化」が融合する街「羽田イノベーションシティ」に、「ホテルメトロポリタン 羽田」が2023年10月に開業しました。羽田空港のある場所は、かつて海苔養殖が行われ…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "ほっと一息、バーライクな空間で過ごす非日常 「ホテルメトロポリタン 羽田」【東京都　ホテルメトロポリタン 羽田】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100196",
+    "name": "ほっと一息、バーライクな空間で過ごす非日常 「ホテルメトロポリタン 羽田」【東京都　ホテルメトロポリタン 羽田】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

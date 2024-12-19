@@ -1,0 +1,422 @@
+{
+  "$id": "top-template-test",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}\n\n/* スムーススクロール */\nhtml { \nscroll-behavior: smooth;\n}\n\n/* Top Group Support 専用 */\n@media (min-width: 48rem) {\n    .OnlineConsultationButton--primary-link {\n        font-size: 120%;\n        padding: 2rem;\n        display: flex;\n        justify-content: center;\n        align-items: center;    \n    }\n    .Link-wrapper {\n        height: unset;\n    }\n    a.Button.ArticleSection-button.ArticleSection-primaryCTA {\n        font-size: 120%;\n        padding: 1.5rem;\n    }\n    a.Button.FloatingCTA-button.FloatingCTA-cta {\n        font-size: 120%;\n    }\n}\nh3.ArticleSection-subtitle {\n    font-size: 160%;\n}\n\n.ArticleSection-coverDetails {\n    font-size: 120%;\n}\n\ndiv#info2 {\n    margin-top: 2rem;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}\n.ObjectFit-image {\n  opacity: unset;\n}\n.AnchorLinks-links {\n  column-gap: 0.5rem;\n}",
+    "c_metaDescription": "Meta Description - TOPテンプレートテスト",
+    "c_metaTitle": "Meta Title - TOPテンプレートテスト",
+    "c_news_NewsList": [
+      "news_ap_osarea_0000030",
+      "news_ap_h_tominaga084_006"
+    ],
+    "c_topBreadcrumb": {
+      "label": "トップテンプレートテスト"
+    },
+    "c_topTemplate": "GROUPSUPPORT",
+    "c_top_BannerBackgroundColor": "#ff0000",
+    "c_top_ConsultantsSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e\n\u003cscript\u003e\nwindow.addEventListener(\u0027load\u0027, function() {\n  atags \u003d document.querySelectorAll(\u0027.FAQ-answerText a[href^\u003d\"https:\"]\u0027);\n  atags.forEach(function(atag){atag.setAttribute(\u0027target\u0027, \u0027_blank\u0027);});\n});\n\u003c/script\u003e",
+    "c_top_GroupSupportAnchorsTitle": "JTBがご提案・ご提供できるグループ旅行・団体向けのサービス事例",
+    "c_top_GroupSupportFloatingCTA": {
+      "label": "お問い合わせフォームから相談する",
+      "link": "https://reg34.smp.ne.jp/regist/is?SMPFORM\u003dpjod-ljlbmf-5bdba1c60f60a2e69611035337abb159",
+      "linkType": "OTHER"
+    },
+    "c_top_GroupSupportSection1Cover": {
+      "details": "社員旅行や宴会付き旅行・海外旅行はもちろん、周年・報奨旅行、パーティーやワーケーション、インバウンド（訪日外国人）、招待といった何からすればいいか分からない！というものもお任せ下さい！\n予算に合わせた方面・施設選定をさせて頂きます！",
+      "image": {
+        "height": 321,
+        "sourceUrl": "https://a.mktgcdn.com/p/92N849i29Tu-i2lu48J1esLsQXV2VK-VzQtdSrXi-Y0/480x321.png",
+        "thumbnails": [
+          {
+            "height": 321,
+            "url": "https://a.mktgcdn.com/p-sandbox/92N849i29Tu-i2lu48J1esLsQXV2VK-VzQtdSrXi-Y0/480x321.png",
+            "width": 480
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/92N849i29Tu-i2lu48J1esLsQXV2VK-VzQtdSrXi-Y0/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/92N849i29Tu-i2lu48J1esLsQXV2VK-VzQtdSrXi-Y0/480x321.png",
+        "width": 480
+      }
+    },
+    "c_top_GroupSupportSection1PrimaryCTA": {
+      "label": "お問い合わせフォームから相談する",
+      "link": "https://reg34.smp.ne.jp/regist/is?SMPFORM\u003dpjod-ljlbmf-5bdba1c60f60a2e69611035337abb159",
+      "linkType": "OTHER"
+    },
+    "c_top_GroupSupportSection1SubTitle": "団体旅行に悩む幹事様の強い味方！",
+    "c_top_GroupSupportSection1Title": "グループ旅行・行事",
+    "c_top_GroupSupportSection2Cover": {
+      "details": "JTBでは旅行のみならずイベントや会議も取り扱いしております。周年イベントやキックオフパーティー、グローバルミーティングに表彰、研修などの会議会場選定から運営、研修プランのご提案など、人の交わるご相談はお任せください。\n宿泊が伴わないケースも対応可能なケースもございます！",
+      "image": {
+        "height": 321,
+        "sourceUrl": "https://a.mktgcdn.com/p/9gCKUJiQwCTQbPRnEoN8X57geHa73dmvhSr2iuzAbhU/480x321.png",
+        "thumbnails": [
+          {
+            "height": 321,
+            "url": "https://a.mktgcdn.com/p-sandbox/9gCKUJiQwCTQbPRnEoN8X57geHa73dmvhSr2iuzAbhU/480x321.png",
+            "width": 480
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/9gCKUJiQwCTQbPRnEoN8X57geHa73dmvhSr2iuzAbhU/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/9gCKUJiQwCTQbPRnEoN8X57geHa73dmvhSr2iuzAbhU/480x321.png",
+        "width": 480
+      }
+    },
+    "c_top_GroupSupportSection2PrimaryCTA": {
+      "label": "お問い合わせフォームから相談する",
+      "link": "https://reg34.smp.ne.jp/regist/is?SMPFORM\u003dpjod-ljlbmf-5bdba1c60f60a2e69611035337abb159",
+      "linkType": "OTHER"
+    },
+    "c_top_GroupSupportSection2SubTitle": "JTB＝旅行だけのイメージではありませんか？",
+    "c_top_GroupSupportSection2Title": "会議・表彰・研修",
+    "c_top_GroupSupportSection3Cover": {
+      "image": {
+        "height": 641,
+        "sourceUrl": "https://a.mktgcdn.com/p/cSUy5rOaXhfm66G4hXqp8snR9hseBu4-5vR9PVJ9se4/960x641.png",
+        "thumbnails": [
+          {
+            "height": 641,
+            "url": "https://a.mktgcdn.com/p-sandbox/v0r0mkhpn8iy2sJt6Ra1Yclngc0cPsgH1eFVJVys3l0/960x641.png",
+            "width": 960
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/v0r0mkhpn8iy2sJt6Ra1Yclngc0cPsgH1eFVJVys3l0/619x413.png",
+            "width": 619
+          },
+          {
+            "height": 401,
+            "url": "https://a.mktgcdn.com/p-sandbox/v0r0mkhpn8iy2sJt6Ra1Yclngc0cPsgH1eFVJVys3l0/600x401.png",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/v0r0mkhpn8iy2sJt6Ra1Yclngc0cPsgH1eFVJVys3l0/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/v0r0mkhpn8iy2sJt6Ra1Yclngc0cPsgH1eFVJVys3l0/960x641.png",
+        "width": 960
+      }
+    },
+    "c_top_HeroCarousel": [
+      {
+        "alternateText": "社員旅行・イベントの幹事に！",
+        "height": 580,
+        "sourceUrl": "https://a.mktgcdn.com/p/DMWtcEKk8T4nTUiTDOLDJ5h1sgi4025V0Oz2Px490ck/870x580.png",
+        "thumbnails": [
+          {
+            "height": 580,
+            "url": "https://a.mktgcdn.com/p-sandbox/880ZNe2FebMlCNjlfQ3Wio1c5qXKbxp4apx7vjDNHFE/870x580.png",
+            "width": 870
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/880ZNe2FebMlCNjlfQ3Wio1c5qXKbxp4apx7vjDNHFE/619x413.png",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p-sandbox/880ZNe2FebMlCNjlfQ3Wio1c5qXKbxp4apx7vjDNHFE/600x400.png",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/880ZNe2FebMlCNjlfQ3Wio1c5qXKbxp4apx7vjDNHFE/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/880ZNe2FebMlCNjlfQ3Wio1c5qXKbxp4apx7vjDNHFE/870x580.png",
+        "width": 870
+      },
+      {
+        "alternateText": "大人数の旅行は",
+        "height": 580,
+        "sourceUrl": "https://a.mktgcdn.com/p/upxMe3YIUXWlN3eD_1E-k8BJ6Ns9XpJJ72hpxPeLarg/870x580.png",
+        "thumbnails": [
+          {
+            "height": 580,
+            "url": "https://a.mktgcdn.com/p-sandbox/nYKs6gPbUHQ1T0LSho-IlpVxaf85YtCqgTtQG8Q04nM/870x580.png",
+            "width": 870
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/nYKs6gPbUHQ1T0LSho-IlpVxaf85YtCqgTtQG8Q04nM/619x413.png",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p-sandbox/nYKs6gPbUHQ1T0LSho-IlpVxaf85YtCqgTtQG8Q04nM/600x400.png",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/nYKs6gPbUHQ1T0LSho-IlpVxaf85YtCqgTtQG8Q04nM/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/nYKs6gPbUHQ1T0LSho-IlpVxaf85YtCqgTtQG8Q04nM/870x580.png",
+        "width": 870
+      },
+      {
+        "alternateText": "研修・会議の内容を考えたい",
+        "height": 580,
+        "sourceUrl": "https://a.mktgcdn.com/p/5qVZJz9TFzvPgq-TEKfumZi2sGAiSmR7gLBj2j0S-fQ/870x580.png",
+        "thumbnails": [
+          {
+            "height": 580,
+            "url": "https://a.mktgcdn.com/p-sandbox/vuaTojq8Q903BRI0F_MuInJfe2n4MgcD9s2AQxX-KAA/870x580.png",
+            "width": 870
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/vuaTojq8Q903BRI0F_MuInJfe2n4MgcD9s2AQxX-KAA/619x413.png",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p-sandbox/vuaTojq8Q903BRI0F_MuInJfe2n4MgcD9s2AQxX-KAA/600x400.png",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/vuaTojq8Q903BRI0F_MuInJfe2n4MgcD9s2AQxX-KAA/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/vuaTojq8Q903BRI0F_MuInJfe2n4MgcD9s2AQxX-KAA/870x580.png",
+        "width": 870
+      },
+      {
+        "alternateText": "ワーケーションやオンラインイベント",
+        "height": 580,
+        "sourceUrl": "https://a.mktgcdn.com/p/dVcm4_y6PHwxHPY4hFCGFNLStRouS3D7bAPpi2ezkrY/870x580.png",
+        "thumbnails": [
+          {
+            "height": 580,
+            "url": "https://a.mktgcdn.com/p-sandbox/oks09NXiIrJIB1mWHmdCzTtNJ9txX6wo9oSeIc1uqiY/870x580.png",
+            "width": 870
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/oks09NXiIrJIB1mWHmdCzTtNJ9txX6wo9oSeIc1uqiY/619x413.png",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p-sandbox/oks09NXiIrJIB1mWHmdCzTtNJ9txX6wo9oSeIc1uqiY/600x400.png",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/oks09NXiIrJIB1mWHmdCzTtNJ9txX6wo9oSeIc1uqiY/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/oks09NXiIrJIB1mWHmdCzTtNJ9txX6wo9oSeIc1uqiY/870x580.png",
+        "width": 870
+      }
+    ],
+    "c_top_HeroCarouselMobile": [
+      {
+        "height": 580,
+        "sourceUrl": "https://a.mktgcdn.com/p/DMWtcEKk8T4nTUiTDOLDJ5h1sgi4025V0Oz2Px490ck/870x580.png",
+        "thumbnails": [
+          {
+            "height": 580,
+            "url": "https://a.mktgcdn.com/p-sandbox/880ZNe2FebMlCNjlfQ3Wio1c5qXKbxp4apx7vjDNHFE/870x580.png",
+            "width": 870
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/880ZNe2FebMlCNjlfQ3Wio1c5qXKbxp4apx7vjDNHFE/619x413.png",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p-sandbox/880ZNe2FebMlCNjlfQ3Wio1c5qXKbxp4apx7vjDNHFE/600x400.png",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/880ZNe2FebMlCNjlfQ3Wio1c5qXKbxp4apx7vjDNHFE/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/880ZNe2FebMlCNjlfQ3Wio1c5qXKbxp4apx7vjDNHFE/870x580.png",
+        "width": 870
+      },
+      {
+        "height": 580,
+        "sourceUrl": "https://a.mktgcdn.com/p/upxMe3YIUXWlN3eD_1E-k8BJ6Ns9XpJJ72hpxPeLarg/870x580.png",
+        "thumbnails": [
+          {
+            "height": 580,
+            "url": "https://a.mktgcdn.com/p-sandbox/nYKs6gPbUHQ1T0LSho-IlpVxaf85YtCqgTtQG8Q04nM/870x580.png",
+            "width": 870
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/nYKs6gPbUHQ1T0LSho-IlpVxaf85YtCqgTtQG8Q04nM/619x413.png",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p-sandbox/nYKs6gPbUHQ1T0LSho-IlpVxaf85YtCqgTtQG8Q04nM/600x400.png",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/nYKs6gPbUHQ1T0LSho-IlpVxaf85YtCqgTtQG8Q04nM/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/nYKs6gPbUHQ1T0LSho-IlpVxaf85YtCqgTtQG8Q04nM/870x580.png",
+        "width": 870
+      },
+      {
+        "height": 580,
+        "sourceUrl": "https://a.mktgcdn.com/p/5qVZJz9TFzvPgq-TEKfumZi2sGAiSmR7gLBj2j0S-fQ/870x580.png",
+        "thumbnails": [
+          {
+            "height": 580,
+            "url": "https://a.mktgcdn.com/p-sandbox/vuaTojq8Q903BRI0F_MuInJfe2n4MgcD9s2AQxX-KAA/870x580.png",
+            "width": 870
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/vuaTojq8Q903BRI0F_MuInJfe2n4MgcD9s2AQxX-KAA/619x413.png",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p-sandbox/vuaTojq8Q903BRI0F_MuInJfe2n4MgcD9s2AQxX-KAA/600x400.png",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/vuaTojq8Q903BRI0F_MuInJfe2n4MgcD9s2AQxX-KAA/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/vuaTojq8Q903BRI0F_MuInJfe2n4MgcD9s2AQxX-KAA/870x580.png",
+        "width": 870
+      }
+    ],
+    "c_top_Info": [
+      {
+        "cTA1": {
+          "label": "リンクボタン",
+          "link": "https://consultants.jtb.co.jp/articles",
+          "linkType": "OTHER"
+        },
+        "category": "テスト",
+        "description": "これはテストです",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/c35oWhlXExE5LvUmVIbvITIF-dsLtJmnyWDeiyVTTh0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/c35oWhlXExE5LvUmVIbvITIF-dsLtJmnyWDeiyVTTh0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/c35oWhlXExE5LvUmVIbvITIF-dsLtJmnyWDeiyVTTh0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/c35oWhlXExE5LvUmVIbvITIF-dsLtJmnyWDeiyVTTh0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/c35oWhlXExE5LvUmVIbvITIF-dsLtJmnyWDeiyVTTh0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/c35oWhlXExE5LvUmVIbvITIF-dsLtJmnyWDeiyVTTh0/1200x800.jpg",
+          "width": 1200
+        },
+        "title": "これはテストです"
+      }
+    ],
+    "c_top_Info2": [
+      {
+        "cTA1": {
+          "label": "03-5434-7591",
+          "link": "+81354347591",
+          "linkType": "PHONE"
+        },
+        "description": "営業時間：09:30～17:30※12/30～1/3、土日・祝日・振祝は休業",
+        "title": "東京グループ旅行センター"
+      },
+      {
+        "cTA1": {
+          "label": "052-571-6631",
+          "link": "+81525716631",
+          "linkType": "PHONE"
+        },
+        "description": "営業時間09:30～17:30※12/30～1/3、土日・祝日・振祝は休業",
+        "title": "名古屋グループ旅行センター"
+      },
+      {
+        "cTA1": {
+          "label": "06-6260-7591",
+          "link": "+81662607591",
+          "linkType": "PHONE"
+        },
+        "description": "営業時間：09:30～17:30※12/30～1/3、土日・祝日・振祝は休業",
+        "title": "大阪グループ旅行センター"
+      }
+    ],
+    "c_top_Info2SectionSubTitle": "各グループ旅行センターにお電話ください。オンライン相談も可能です。",
+    "c_top_Info2SectionTitle": "お電話のご相談なら",
+    "c_top_InfoSectionSubTitle": "サブタイトル",
+    "c_top_InfoSectionTitle": "SectionF",
+    "c_top_LocatorDefaultText": "住所、地名、駅名などを入力ください",
+    "c_top_LocatorDirectoryButton": {
+      "label": "都道府県・市区町村からお店を探す",
+      "link": "https://stores.jtb.co.jp/",
+      "linkType": "OTHER"
+    },
+    "c_top_LocatorSearchBarSubTitle": "住所、地名、駅名などを入力ください",
+    "c_top_LocatorSearchBarTitle": "JTBの店舗検索",
+    "c_top_LocatorSectionSubTitle": "お近くのJTB店舗をご案内します。\u003cbr\u003e来店しての相談や申し込みはもちろん、オンライン相談もできます。",
+    "c_top_LocatorSectionTitle": "店舗に行く・相談する",
+    "c_top_OnlineConsultationButton1": {
+      "label": "お問い合わせフォームから相談する",
+      "link": "https://test.consultants.jtb.co.jp.yextpages.net/top",
+      "linkType": "OTHER"
+    },
+    "c_top_OnlineConsultationSectionSubTitle": "最短1分でラクラク入力！担当者よりご連絡します！",
+    "c_top_OnlineConsultationSectionTitle": "幹事様・ご担当者様！まずはお気軽に！\nお問い合わせフォームからご相談ください",
+    "c_top_groupsupportanchors": [
+      {
+        "label": "グループ旅行・行事",
+        "link": "#section1",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "会議・表彰・研修",
+        "link": "#section2",
+        "linkType": "OTHER"
+      }
+    ],
+    "name": "トップテンプレートテスト"
+  },
+  "entityType": "ce_tOP",
+  "labels": []
+}

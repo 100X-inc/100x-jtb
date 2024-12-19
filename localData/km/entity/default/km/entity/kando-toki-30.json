@@ -1,0 +1,39 @@
+{
+  "$id": "kando-toki-30",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/30_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d44.032644%2C145.0827",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "知床連山のひとつ、知西別岳（ちにしべつだけ）の山頂近くに位置する「羅臼湖（らうすこ）」は、知床半島で最も大きな湖です。知床横断道路の見返り峠近くにある羅臼湖入口から羅臼湖歩道（登山道）を利用すれば、往復約3時間30分のトレッキングで、原始性の高い知床の自然を満喫できます。歩道入口からは、美しい湖沼群やハイマツの樹海、花畑が連続し、歩く人々の目を楽しませてくれます。湿原に囲まれた羅臼湖は雲上の別天地で、湖までのアプローチがおすすめです。とくに三の沼からの雄大な眺めは北海道一の絶景とうたわれるほど。風がない日であれば、知床半島で一番高い羅臼岳の姿が沼の水面にきれいに映し出され、言葉を失うほどの神々しさがあります。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/30.asp",
+    "name": "新緑＆紅葉の羅臼湖"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

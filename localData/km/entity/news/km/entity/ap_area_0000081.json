@@ -1,0 +1,276 @@
+{
+  "$id": "news_ap_area_0000081",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター",
+      "linkType": "URL"
+    },
+    "c_ap_HeroImage": {
+      "height": 683,
+      "sourceUrl": "https://a.mktgcdn.com/p/6EWA-0xprSyFSW_VAVvcpCBJxmyuA-2JQxJf0F5QMwA/1024x683.jpg",
+      "thumbnails": [
+        {
+          "height": 683,
+          "url": "https://a.mktgcdn.com/p-sandbox/6EWA-0xprSyFSW_VAVvcpCBJxmyuA-2JQxJf0F5QMwA/1024x683.jpg",
+          "width": 1024
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/6EWA-0xprSyFSW_VAVvcpCBJxmyuA-2JQxJf0F5QMwA/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/6EWA-0xprSyFSW_VAVvcpCBJxmyuA-2JQxJf0F5QMwA/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/6EWA-0xprSyFSW_VAVvcpCBJxmyuA-2JQxJf0F5QMwA/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/6EWA-0xprSyFSW_VAVvcpCBJxmyuA-2JQxJf0F5QMwA/1024x683.jpg",
+      "width": 1024
+    },
+    "c_ap_HeroImageCaption": "写真提供：やまなし観光推進機構",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://www.jtb.co.jp/news/list/index.html?tag\u003d%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "山梨旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/yamanashi/"
+      },
+      {
+        "linkText": "山梨県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/yamanashi/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": false,
+    "c_ap_ShortDescription": "富士山や南アルプス、八ヶ岳など雄大な山々に囲まれ、豊かな自然の恵みがいっぱいの山梨県。ワイナリー巡りが楽しい「勝沼・石和温泉」、一大レジャーエリア「富士山麓・河口湖・山中湖」、歴史スポットが点在する「甲府・昇仙峡」、高原リゾート「清里・小淵沢・白州」、古刹と名湯に癒やされる「身延・下部温泉」など、趣の異なる主要5エリアをご紹介します。",
+    "c_ap_Tags": [
+      "絶景",
+      "河口湖",
+      "山中湖",
+      "レジャー"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "ファミリー",
+      "自然・山",
+      "グルメ",
+      "温泉・立ち寄り湯"
+    ],
+    "c_ap_Title": "【山梨県】グルメに絶景、温泉まで自然の恵みが満載！山梨のみどころ5エリア紹介",
+    "c_metaDescription": "富士山や南アルプス、八ヶ岳など雄大な山々に囲まれ、豊かな自然の恵みがいっぱいの山梨県。ワイナリー巡りが楽しい「勝沼・石和温泉」、一大レジャーエリア「富士山麓・河口湖・山中湖」、歴史スポットが点在する「甲府・昇仙峡」、高原リゾート「清里・小淵沢・白州」、古刹と名湯に癒やされる「身延・下部温泉」など、趣の異なる主要5エリアをご紹介します。",
+    "c_metaTitle": "【山梨県】グルメに絶景、温泉まで自然の恵みが満載！山梨のみどころ5エリア紹介 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "リモートでの旅行相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#consultants",
+        "linkType": "URL"
+      },
+      {
+        "label": "JTB店舗・専門店への相談はこちら",
+        "link": "https://stores.jtb.co.jp/index.html",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "ブドウや桃などの果樹栽培が盛んな「勝沼」。日本有数のワインの産地としても知られ、個性豊かなワイナリーが点在しています。見学や試飲ができる場所も多く、いろいろなワイナリーを巡るのも楽しみ。フルーツ狩りや富士山や南アルプスを望む絶景スポットも外せません。観光の後は、「石和温泉」の宿に泊まって、旅の疲れを癒すのがおすすめです。",
+        "image": {
+          "height": 837,
+          "sourceUrl": "https://a.mktgcdn.com/p/QV0ykGwtOLjVQCicpHs80DNIgOtKTQsIfulgxBuDdGc/1200x837.jpg",
+          "thumbnails": [
+            {
+              "height": 837,
+              "url": "https://a.mktgcdn.com/p-sandbox/QV0ykGwtOLjVQCicpHs80DNIgOtKTQsIfulgxBuDdGc/1200x837.jpg",
+              "width": 1200
+            },
+            {
+              "height": 432,
+              "url": "https://a.mktgcdn.com/p-sandbox/QV0ykGwtOLjVQCicpHs80DNIgOtKTQsIfulgxBuDdGc/619x432.jpg",
+              "width": 619
+            },
+            {
+              "height": 419,
+              "url": "https://a.mktgcdn.com/p-sandbox/QV0ykGwtOLjVQCicpHs80DNIgOtKTQsIfulgxBuDdGc/600x419.jpg",
+              "width": 600
+            },
+            {
+              "height": 137,
+              "url": "https://a.mktgcdn.com/p-sandbox/QV0ykGwtOLjVQCicpHs80DNIgOtKTQsIfulgxBuDdGc/196x137.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QV0ykGwtOLjVQCicpHs80DNIgOtKTQsIfulgxBuDdGc/1200x837.jpg",
+          "width": 1200
+        },
+        "imageCaption": "富士山や甲府盆地を一望できる「山梨県笛吹川フルーツ公園」",
+        "sectionLevel": "h2",
+        "sectionTitle": "【勝沼・石和温泉】ワイナリー巡りの後は温泉でまったり"
+      },
+      {
+        "description": "山と湖に抱かれた一大レジャーエリア。ニューアトラクションも登場し進化を続ける「富士急ハイランド」は入園料が無料で、グルメやショッピングだけでも気軽に楽しめます。温泉宿や観光スポットが集まる「河口湖」や、ミュージアムや湖畔レジャーが楽しい「山中湖」には、富士山と湖の眺めを楽しめるカフェも多く立ち並んでいます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/1aySRlpy5Sv67hTHRBfe4C927KULM6uh8FF8HrDytUU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/0mql6BX485hf_cxfeHU74l6drBLsi3v4TKY0jjGurRA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/0mql6BX485hf_cxfeHU74l6drBLsi3v4TKY0jjGurRA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/0mql6BX485hf_cxfeHU74l6drBLsi3v4TKY0jjGurRA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/0mql6BX485hf_cxfeHU74l6drBLsi3v4TKY0jjGurRA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0mql6BX485hf_cxfeHU74l6drBLsi3v4TKY0jjGurRA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "“爽快MAX”なバイクライド型コースター「ZOKKON」",
+        "sectionLevel": "h2",
+        "sectionTitle": "【富士山麓・河口湖・山中湖】湖畔リゾートを楽しみつくす！"
+      },
+      {
+        "description": "戦国最強武将・武田信玄公のお膝元「甲府」には、武田氏ゆかりの史跡が点在。城下町としても栄えた地で、甲府駅前には、明治～昭和の町並みを再現した複合施設「甲州夢小路」や伝統工芸品を扱う店が並びます。山梨の二大郷土料理、ほうとうと甲府鳥もつ煮を食べられる飲食店も充実。国の特別名勝の渓谷「昇仙峡」ではハイキングも楽しめます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/XmL01oIKsQ-XXPkg8aOddZXCEqDmKiKLd3xJmmFlHvE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/FJINr-gCJHyPSXLEiF91AQWmkSENRNQVcH2RWqO7cfU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/FJINr-gCJHyPSXLEiF91AQWmkSENRNQVcH2RWqO7cfU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/FJINr-gCJHyPSXLEiF91AQWmkSENRNQVcH2RWqO7cfU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/FJINr-gCJHyPSXLEiF91AQWmkSENRNQVcH2RWqO7cfU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FJINr-gCJHyPSXLEiF91AQWmkSENRNQVcH2RWqO7cfU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "御祭神に武田信玄公をまつる「武田神社」",
+        "sectionLevel": "h2",
+        "sectionTitle": "【甲府・昇仙峡】グルメにみやげに…寄り道しながら歴史探訪"
+      },
+      {
+        "description": "避暑地としても人気の高原リゾート「清里・小淵沢」は、「清泉寮」をはじめ牧場やガーデン、ミュージアムなど豊かな自然が感じられる複合施設がたくさん。酪農や高原野菜栽培が盛んな地域で、レストランやベーカリーも豊富です。飲料の製造工場見学が人気の名水の里「白州」や、夏のひまわりで有名なフラワースポット「明野」へ足を延ばすのもおすすめです。",
+        "image": {
+          "height": 895,
+          "sourceUrl": "https://a.mktgcdn.com/p/BazzAYSbuX8B1r2tNX4QwRoTq6mYOQqdYDY8O-YxrT8/1200x895.jpg",
+          "thumbnails": [
+            {
+              "height": 895,
+              "url": "https://a.mktgcdn.com/p-sandbox/BazzAYSbuX8B1r2tNX4QwRoTq6mYOQqdYDY8O-YxrT8/1200x895.jpg",
+              "width": 1200
+            },
+            {
+              "height": 462,
+              "url": "https://a.mktgcdn.com/p-sandbox/BazzAYSbuX8B1r2tNX4QwRoTq6mYOQqdYDY8O-YxrT8/619x462.jpg",
+              "width": 619
+            },
+            {
+              "height": 448,
+              "url": "https://a.mktgcdn.com/p-sandbox/BazzAYSbuX8B1r2tNX4QwRoTq6mYOQqdYDY8O-YxrT8/600x448.jpg",
+              "width": 600
+            },
+            {
+              "height": 146,
+              "url": "https://a.mktgcdn.com/p-sandbox/BazzAYSbuX8B1r2tNX4QwRoTq6mYOQqdYDY8O-YxrT8/196x146.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BazzAYSbuX8B1r2tNX4QwRoTq6mYOQqdYDY8O-YxrT8/1200x895.jpg",
+          "width": 1200
+        },
+        "imageCaption": "牧歌的な風景が広がる清里のシンボル「清泉寮」",
+        "sectionLevel": "h2",
+        "sectionTitle": "【清里・小淵沢・白洲】高原リゾートでアートやグルメを満喫"
+      },
+      {
+        "description": "身延山の麓付近に位置する古刹「身延山久遠寺」は、日蓮宗の総本山としてあつく信仰されています。風情ある商店や旅館が並ぶ参道さんぽも楽しみ。名産の湯葉を食べられる飲食店も点在します。宿泊は、平安時代から湯治場として知られる「下部温泉」で。創業100年以上の老舗宿のほか、多種多様な浴槽が魅力の大型ホテルもあり、名湯をじっくり堪能できますよ。",
+        "image": {
+          "height": 797,
+          "sourceUrl": "https://a.mktgcdn.com/p/cPLlpuBx6HD45TUPQ3giXpghrUB9v2i7VP1O2myKu0g/1200x797.jpg",
+          "thumbnails": [
+            {
+              "height": 797,
+              "url": "https://a.mktgcdn.com/p-sandbox/VS_OxtSvqhfVHSRO7vbKz_yBox8ri0wknnTLJmY0ZpE/1200x797.jpg",
+              "width": 1200
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/VS_OxtSvqhfVHSRO7vbKz_yBox8ri0wknnTLJmY0ZpE/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/VS_OxtSvqhfVHSRO7vbKz_yBox8ri0wknnTLJmY0ZpE/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/VS_OxtSvqhfVHSRO7vbKz_yBox8ri0wknnTLJmY0ZpE/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VS_OxtSvqhfVHSRO7vbKz_yBox8ri0wknnTLJmY0ZpE/1200x797.jpg",
+          "width": 1200
+        },
+        "imageCaption": "身延エリアの代表的な名所、日蓮宗総本山の「身延山久遠寺」",
+        "sectionLevel": "h2",
+        "sectionTitle": "【身延・下部温泉】格式ある名刹と信玄公の隠し湯が有名"
+      }
+    ],
+    "c_news_PublicationDate": "2024-05-30",
+    "c_news_UpdateDate": "2024-05-30",
+    "c_news_ViewCount": "0",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/news_ap_area_0000081",
+    "name": "【山梨県】グルメに絶景、温泉まで自然の恵みが満載！山梨のみどころ5エリア紹介",
+    "slug": "news_ap_area_0000081",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "編集部記事"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "$id": "cp_50130032",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "長野県",
+    "c_cp_CTA1": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVeVBq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "店長の田中でございます。日頃より上田アリオ店をご愛顧いただき誠にありがとうございます。\nお客様のご期待、想像を越える旅のご提案ができるよう、スタッフ一同笑顔でお待ちしております。皆様のご来店をお待ち申し上げております。",
+    "c_cp_DisplayName": "田中",
+    "c_cp_HiraganaName": "たなか",
+    "c_cp_JobTitle": "JTB上田アリオ店　店長",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 640,
+      "sourceUrl": "https://a.mktgcdn.com/p/Wey0nCKM3j6s0nIbfM_ucg3qVbvBdorpq0fG5nDDLYU/480x640.jpg",
+      "thumbnails": [
+        {
+          "height": 640,
+          "url": "https://a.mktgcdn.com/p-sandbox/Wey0nCKM3j6s0nIbfM_ucg3qVbvBdorpq0fG5nDDLYU/480x640.jpg",
+          "width": 480
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/Wey0nCKM3j6s0nIbfM_ucg3qVbvBdorpq0fG5nDDLYU/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/Wey0nCKM3j6s0nIbfM_ucg3qVbvBdorpq0fG5nDDLYU/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Wey0nCKM3j6s0nIbfM_ucg3qVbvBdorpq0fG5nDDLYU/480x640.jpg",
+      "width": 480
+    },
+    "c_cp_Point": "1278",
+    "c_cp_StrongAbroadArea1": [
+      "オーストラリア"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国",
+      "シンガポール"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "近畿全般"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 田中",
+    "c_metaTitle": "JTBトラベルコンサルタント | 田中",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_50130032",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10229_上田アリオ店",
+    "name": "たなか たかし_50130032",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

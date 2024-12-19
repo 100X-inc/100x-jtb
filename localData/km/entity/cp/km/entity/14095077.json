@@ -1,0 +1,79 @@
+{
+  "$id": "cp_14095077",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "龍口の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVe7_KB",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfgBd",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "女の子の子供が二人おります。\n関東の観光やプール付きホテルでお探しでしたらご相談お待ちしております♪\n最近は沖縄にも行ってきたのでおすすめ観光地もご紹介いたします！",
+    "c_cp_DisplayName": "龍口",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "母娘旅"
+    ],
+    "c_cp_HiraganaName": "たつぐち",
+    "c_cp_JobTitle": "JTB北千住マルイ店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "alternateText": "JTBトラベルコンサルタント ｜",
+      "height": 640,
+      "sourceUrl": "https://a.mktgcdn.com/p/zj5cJVMIYr8YyAg-Ncks5DvuT1qLDYdEgFvqOb3PDmw/481x640.jpg",
+      "thumbnails": [
+        {
+          "height": 640,
+          "url": "https://a.mktgcdn.com/p-sandbox/zj5cJVMIYr8YyAg-Ncks5DvuT1qLDYdEgFvqOb3PDmw/481x640.jpg",
+          "width": 481
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/zj5cJVMIYr8YyAg-Ncks5DvuT1qLDYdEgFvqOb3PDmw/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/zj5cJVMIYr8YyAg-Ncks5DvuT1qLDYdEgFvqOb3PDmw/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/zj5cJVMIYr8YyAg-Ncks5DvuT1qLDYdEgFvqOb3PDmw/481x640.jpg",
+      "width": 481
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "ファミリー",
+      "子連れ",
+      "リゾート"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 龍口",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 龍口",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_14095077",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10121_北千住マルイ店",
+    "name": "たつぐち ありさ_14095077",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

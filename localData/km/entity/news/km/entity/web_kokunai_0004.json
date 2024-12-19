@@ -1,0 +1,1325 @@
+{
+  "$id": "news_web_kokunai_0004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 837,
+      "sourceUrl": "https://a.mktgcdn.com/p/qgKxVYtppeNQhxD4fuVTTYQerh-OCMxK5e0gFPNT-xs/1280x837.jpg",
+      "thumbnails": [
+        {
+          "height": 837,
+          "url": "https://a.mktgcdn.com/p-sandbox/JPKIWh4pxMpp1S2bFO1r9FJoLl7ifAMPir71mE6OoI0/1280x837.jpg",
+          "width": 1280
+        },
+        {
+          "height": 405,
+          "url": "https://a.mktgcdn.com/p-sandbox/JPKIWh4pxMpp1S2bFO1r9FJoLl7ifAMPir71mE6OoI0/619x405.jpg",
+          "width": 619
+        },
+        {
+          "height": 392,
+          "url": "https://a.mktgcdn.com/p-sandbox/JPKIWh4pxMpp1S2bFO1r9FJoLl7ifAMPir71mE6OoI0/600x392.jpg",
+          "width": 600
+        },
+        {
+          "height": 128,
+          "url": "https://a.mktgcdn.com/p-sandbox/JPKIWh4pxMpp1S2bFO1r9FJoLl7ifAMPir71mE6OoI0/196x128.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/JPKIWh4pxMpp1S2bFO1r9FJoLl7ifAMPir71mE6OoI0/1280x837.jpg",
+      "width": 1280
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "沖縄旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/"
+      },
+      {
+        "linkText": "沖縄リゾートホテル特集",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/hotel/"
+      },
+      {
+        "linkText": "高級旅館・高級ホテル",
+        "uRL": "https://www.jtb.co.jp/premium/"
+      },
+      {
+        "linkText": "オーシャンビューが楽しめる宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/feature/ocean_view/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "何度行っても満足な旅にしてくれる沖縄。そんな非日常を過ごすことができる沖縄には、高級リゾートホテルが多く点在し、どこに泊まろうかと迷ってしまう方も多いかと思います。そこで今回は、どちらかというと外出するよりも、ラグジュアリーなホテル滞在を存分に楽しみたい方におすすめの「沖縄の高級リゾートホテル」を厳選してご紹介します。贅沢な旅を実現してくれるホテル選びの参考にしてください。\n※この記事は2024年2月時点の情報です。情報は変動する可能性がございます。\n　詳細や最新情報は各施設のホームページを必ずご参照ください。",
+    "c_ap_Tags": [
+      "温泉",
+      "アクティビティ",
+      "ビーチ",
+      "ラグジュアリー",
+      "オーシャンビュー",
+      "スパ",
+      "リゾート",
+      "プール",
+      "朝食",
+      "インスタ映え",
+      "カップル旅行",
+      "国内の宿",
+      "女子旅",
+      "家族旅行",
+      "沖縄おすすめ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "沖縄の高級リゾートホテル23選～ワンランク上のラグジュアリーステイ～",
+    "c_linkedArea3News": [
+      "okinawa_all"
+    ],
+    "c_metaDescription": "何度行っても満足な旅にしてくれる沖縄。そんな非日常を過ごすことができる沖縄には、高級リゾートホテルが多く点在し、どこに泊まろうかと迷ってしまう方も多いかと思います。そこで今回は、どちらかというと外出するよりも、ラグジュアリーなホテル滞在を存分に楽しみたい方におすすめの「沖縄の高級リゾートホテル」を厳選してご紹介します。贅沢な旅を実現してくれるホテル選びの参考にしてください。",
+    "c_metaTitle": "沖縄の高級リゾートホテル23選～ワンランク上のラグジュアリーステイ～ | JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "沖縄の高級リゾートホテルをみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/feature/premium/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "リーガロイヤルグラン沖縄の紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8715082/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8715082/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/a/470101/?hotelid\u003d8715082",
+          "linkType": "URL"
+        },
+        "cTA4": {
+          "label": "那覇エリアの高級リゾートホテルを探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/4701/feature/premium/",
+          "linkType": "OTHER"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/XL/8/8715082/87150821000000194.jpg\" alt\u003d\" 【 リーガロイヤルグラン沖縄】国際通りも徒歩圏内のラグジュアリーホテル\"\u003e国際通りや県庁、オフィス街にも徒歩圏内、観光・ビジネスの拠点としてベストロケーションを誇るラグジュアリーホテルです。客室は全室35平米以上というゆとりある広さを持ち、シモンズ社やシーリー社のブランドベッドや洗い場付きのバスルームを完備。ご宿泊の全てのお客様を最上階ロビーフロアにて着席チェックインやウェルカムドリンクでお迎えするほか、お荷物のアップダウンサービスも。さらに、レンタカーでも安心のバレーパーキングサービス、ビジネス利用時に便利なシューシャインサービスも対応しています。",
+        "image": {
+          "alternateText": "沖縄満喫クーポンで訪れられる石垣島",
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/rTK3QPlHa-QH6PYyXBi8AzZmtysSnmLe7FxH8EkETLM/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/rTK3QPlHa-QH6PYyXBi8AzZmtysSnmLe7FxH8EkETLM/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/rTK3QPlHa-QH6PYyXBi8AzZmtysSnmLe7FxH8EkETLM/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/rTK3QPlHa-QH6PYyXBi8AzZmtysSnmLe7FxH8EkETLM/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/rTK3QPlHa-QH6PYyXBi8AzZmtysSnmLe7FxH8EkETLM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rTK3QPlHa-QH6PYyXBi8AzZmtysSnmLe7FxH8EkETLM/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "クラブデラックスオーシャン",
+        "infoBlockLabel": "リーガロイヤルグラン沖縄　アクセス",
+        "infoBlockText": "【住所】沖縄県那覇市旭町1-9【アクセス】那覇空港より車で5分モノレールで10分・ゆいレール旭橋駅や那覇バスターミナル直結",
+        "sectionLevel": "h3",
+        "sectionTitle": "【 リーガロイヤルグラン沖縄】国際通りも徒歩圏内のラグジュアリーホテル"
+      },
+      {
+        "cTA1": {
+          "label": "OKINAWA KARIYUSHI RESORT EXES NAHAの紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8715093/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8715093/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8715093/plan/",
+          "linkType": "URL"
+        },
+        "cTA4": {
+          "label": "名護の高級リゾートホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/470301/feature/premium/",
+          "linkType": "OTHER"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/XL/8/8715082/87150821300000148.jpg\" alt\u003d\" リーガロイヤルグラン沖縄 　客室\"\u003eグランスイート【禁煙】13階は、客室階のうち最上階に位置する52平米のジュニアスイートルームです。癒しとやすらぎを追求した格式高く落ち着いた空間のお部屋となっています。11～13階のプレミアフロアでは、ワンランク上のご滞在にふさわしい上質な限定特典も。",
+        "image": {
+          "alternateText": "JTBラウンジのイメージ",
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/5GQQAozBdzS42iLd3IghYwwyIM4FMb0C3N4Td00OlEo/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/5GQQAozBdzS42iLd3IghYwwyIM4FMb0C3N4Td00OlEo/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/5GQQAozBdzS42iLd3IghYwwyIM4FMb0C3N4Td00OlEo/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/5GQQAozBdzS42iLd3IghYwwyIM4FMb0C3N4Td00OlEo/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/5GQQAozBdzS42iLd3IghYwwyIM4FMb0C3N4Td00OlEo/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5GQQAozBdzS42iLd3IghYwwyIM4FMb0C3N4Td00OlEo/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "ビーチフロント棟エグゼクティブオーシャンスイート",
+        "infoBlockLabel": "プレミアムフロア特典",
+        "infoBlockText": "・通常より1時間早い14:00にチェックイン、通常より1時間遅い12:00にチェックアウトが可能です。・沖縄の島々の海から作られる海水塩をベースにしたバスソルトをご用意。・沖縄を感じる銘菓とお茶をこだわりのやちむんの茶器セットとともにご用意。・タルゴジャポン社製　基礎化粧品キット・ご滞在中、最上階のバーにてコーヒー若しくは、紅茶をご用意いたします。・ホテル最上階のバーにてウェルカムドリンクをご一泊につき1杯ご用意しております。・夕食時レストラン窓際席を優先ご予約受付(イベント開催日等は対象外)・シェフこだわりの沖縄産の食材をふんだんに使った種類豊富なご朝食を無料でおたのしみいただけます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "リーガロイヤルグラン沖縄 　客室"
+      },
+      {
+        "cTA1": {
+          "label": "ザ・ブセナテラス の紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8710008/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8710008/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8710008/plan/",
+          "linkType": "URL"
+        },
+        "cTA4": {
+          "label": "恩納村エリアの高級リゾートホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/470306/feature/premium/",
+          "linkType": "OTHER"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/Xl/8/8715082/87150821300000192.jpg\" alt\u003d\" ホテルスタッフ厳選のアメニティスタンド＆ドリンクのサービス\"\u003eご宿泊の皆様が対象の新サービス「リーガ・マルシェ」はホテルスタッフ厳選のアメニティスタンド＆ドリンクのサービスです。ご宿泊の皆様に、ご滞在中無料にてお楽しみいただけます。ホテルオリジナルアロマオイルとバスソルトをご自身で調合していただくアロマバスソルト、旅先にあると嬉しいスキンケアアイテム、全客室完備のコーヒーマシンで楽しめるコーヒーと、紅茶カプセルが用意されています。ご滞在の間ぜひお立ち寄りください。",
+        "image": {
+          "height": 864,
+          "sourceUrl": "https://a.mktgcdn.com/p/2qtVZTdw6bFMeDXzzrIvN4opScikqpG5y9nkwFKrLFs/1536x864.jpg",
+          "thumbnails": [
+            {
+              "height": 864,
+              "url": "https://a.mktgcdn.com/p-sandbox/2qtVZTdw6bFMeDXzzrIvN4opScikqpG5y9nkwFKrLFs/1536x864.jpg",
+              "width": 1536
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/2qtVZTdw6bFMeDXzzrIvN4opScikqpG5y9nkwFKrLFs/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/2qtVZTdw6bFMeDXzzrIvN4opScikqpG5y9nkwFKrLFs/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/2qtVZTdw6bFMeDXzzrIvN4opScikqpG5y9nkwFKrLFs/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2qtVZTdw6bFMeDXzzrIvN4opScikqpG5y9nkwFKrLFs/1536x864.jpg",
+          "width": 1536
+        },
+        "imageCaption": "プレミアムクラブフロアデラックスツイン",
+        "infoBlockLabel": "OKINAWA KARIYUSHI RESORT EXES NAHA アクセス",
+        "infoBlockText": "【住所】沖縄県那覇市泉崎1-11-5【アクセス】那覇空港からゆいレールで約12分。「旭橋駅」「県庁前駅」から徒歩約4分。那覇空港より車で、うみそらトンネルご利用の上　約10分（4.9km）",
+        "sectionLevel": "h4",
+        "sectionTitle": "ホテルスタッフ厳選のアメニティスタンド＆ドリンクのサービス"
+      },
+      {
+        "cTA1": {
+          "label": "ザ・テラスクラブ アット ブセナの紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8710016/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8710016/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8710016/plan/",
+          "linkType": "URL"
+        },
+        "cTA4": {
+          "label": "石垣島の高級リゾートホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/470503/feature/premium/",
+          "linkType": "OTHER"
+        },
+        "description": "沖縄県那覇市のメインストリート「国際通り」までは徒歩5分と、観光やお買い物にも便利。ホテルでゆったり過ごしながら、観光を楽しみたいお客様におすすめです。OKINAWA KARIYUSHI RESORT EXES NAHAは、「World Luxury Hotel Awards」にて「Luxury Design Hotel 部門」2020年アジア大陸賞、2020年World Luxury Restaurant Awards 「Teppanyaki-style Cuisine(鉄板焼) 」にてグローバル賞（最高賞）、「Okinawa Ryukyu Cuisine(琉球食)」にてグローバル賞（最高賞）を受賞したラグジュアリーホテルです。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/pRsQnLGK6S92uklXiFnFUU_EKyXihtfrhx-yWn3oE4M/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/pRsQnLGK6S92uklXiFnFUU_EKyXihtfrhx-yWn3oE4M/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/pRsQnLGK6S92uklXiFnFUU_EKyXihtfrhx-yWn3oE4M/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/pRsQnLGK6S92uklXiFnFUU_EKyXihtfrhx-yWn3oE4M/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/pRsQnLGK6S92uklXiFnFUU_EKyXihtfrhx-yWn3oE4M/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/pRsQnLGK6S92uklXiFnFUU_EKyXihtfrhx-yWn3oE4M/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "天候に左右されることなく、ゆったりとお楽しみいただける屋内プール",
+        "infoBlockLabel": "ザ・ブセナテラス　アクセス",
+        "infoBlockText": "【住所】沖縄県名護市字喜瀬1808【アクセス】那覇空港→空港リムジンバス那覇空港から約90分ザ・ブセナテラス下車→徒歩約0分那覇空港より車で国道58号線経由約90分",
+        "sectionLevel": "h3",
+        "sectionTitle": "【OKINAWA KARIYUSHI RESORT EXES NAHA】多数の受賞歴を持つ那覇市内のホテル"
+      },
+      {
+        "cTA1": {
+          "label": "ザ・リッツ・カールトン沖縄の紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8710017/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8710017/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8710017/plan/",
+          "linkType": "URL"
+        },
+        "cTA4": {
+          "label": "宮古島の高級リゾートホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/470501/feature/premium/",
+          "linkType": "OTHER"
+        },
+        "description": "EXESプールヴィラスイート（客室面積：57平米～、プールエリア26平米～）は、ホテル最上階、温水プライベートプール付きのお部屋です。デッキチェアでまどろんだり、時間を忘れて過ごす極上の時間をお過ごしください。また、事前予約で便利な空港送迎サービス付。さらに、客室特典として1階クラブラウンジのご利用が可能です（※ワインや泡盛など限定メニュー）。大人の隠れ家でプライベート感覚を満喫ください。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/232eWHthp_Xy-tNta3g0HIvVt1mGu5Hrv73F_uNH8pk/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/232eWHthp_Xy-tNta3g0HIvVt1mGu5Hrv73F_uNH8pk/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/232eWHthp_Xy-tNta3g0HIvVt1mGu5Hrv73F_uNH8pk/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/232eWHthp_Xy-tNta3g0HIvVt1mGu5Hrv73F_uNH8pk/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/232eWHthp_Xy-tNta3g0HIvVt1mGu5Hrv73F_uNH8pk/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/232eWHthp_Xy-tNta3g0HIvVt1mGu5Hrv73F_uNH8pk/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "ザ・ビーチハウス ワンベッドルーム",
+        "infoBlockLabel": "ザ・テラスクラブ アット ブセナ アクセス",
+        "infoBlockText": "【住所】沖縄県名護市喜瀬1750【アクセス】那覇空港より車で国道58号線経由約90分・沖縄自動車道利用で約75分・許田I.C.より国道58号線南下5分、または屋嘉I.C.より国道58号線北上約20分",
+        "sectionLevel": "h4",
+        "sectionTitle": "OKINAWA KARIYUSHI RESORT EXES NAHA　客室"
+      },
+      {
+        "cTA1": {
+          "label": "ハレクラニ沖縄の紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707025/remarks/?_gl\u003d1*1urug5g*_gcl_au*MTI1OTg0ODI4My4xNzEwMzk4NjA0*_ga*MTgzNTYyNzYzOS4xNjY4NDE0OTgx*_ga_KGZYYE4GBZ*MTcxMDQ4Njk1Ny42MC4xLjE3MTA0ODg3MTQuMC4wLjA.*_fplc*NDZBampMRlBrU3VUV2RSQTRqNWRiNk5DeG1EVEFtaSUyRkJoeUFmSkxHSmdsOVdxcHhZd1FQWjglMkI1Y1hEQnVJbjBLUk96bWhqaUF1JTJGR1ZKSWJ0ZEtoMjJYaUtrZUQ5R2lMV2xPTjlDQTFwQjNUYkRYeHppSUN3VGF0Nk9CQkFBJTNEJTNE",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707025/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8707025/plan/",
+          "linkType": "URL"
+        },
+        "description": "ホテル自慢の朝食は、全客室インルームダイニングでお召し上がりいただけます。琉球料理伝承人の称号を持つ料理長が提案する、今も昔も沖縄に伝わる「医食同源」の考えのもと、琉球の食材をふんだんに使った滋味あふれるバランスの取れた美味しい朝食をぜひお楽しみください。",
+        "image": {
+          "height": 1023,
+          "sourceUrl": "https://a.mktgcdn.com/p/RBBB-eXgAH26K6KPHXWfLgNbdmGGz0dLZ4fJWTmeU_c/1536x1023.jpg",
+          "thumbnails": [
+            {
+              "height": 1023,
+              "url": "https://a.mktgcdn.com/p-sandbox/WqqMz8leHjy2BCAHWPbXevfd0913qC3E0N3PPNuAKYA/1536x1023.jpg",
+              "width": 1536
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/WqqMz8leHjy2BCAHWPbXevfd0913qC3E0N3PPNuAKYA/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/WqqMz8leHjy2BCAHWPbXevfd0913qC3E0N3PPNuAKYA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/WqqMz8leHjy2BCAHWPbXevfd0913qC3E0N3PPNuAKYA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WqqMz8leHjy2BCAHWPbXevfd0913qC3E0N3PPNuAKYA/1536x1023.jpg",
+          "width": 1536
+        },
+        "imageCaption": "エグゼスフロアプレミアツイン",
+        "infoBlockLabel": "ザ・リッツ・カールトン沖縄　アクセス",
+        "infoBlockText": "【住所】沖縄県名護市喜瀬1343-1【アクセス】那覇空港→リムジンバスエアポートシャトル那覇空港（国内線）から美ら海水族館方面行き約105分かりゆしビーチ下車→徒歩約25分",
+        "sectionLevel": "h4",
+        "sectionTitle": "朝食は全室インルームダイニングで"
+      },
+      {
+        "cTA1": {
+          "label": "海の旅亭おきなわ名嘉真荘の紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707022/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707022/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8707022/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/XL/8/8710008/87100081300000035.jpg\" alt\u003d\" 【ザ・ブセナテラス】シンプルなデザインと海外のような開放的な空間\"\u003e「自然との調和/自然への回帰」をコンセプトに、光と風をふんだんに取り入れたオープンエアースタイルの設計思想に基づき、全館に自然との一体感を創出。自然そのものがインテリアとなるよう、シンプルなデザインの落ち着いた造りとなっています。加えて24時間対応のバトラーサービスをはじめとするおもてなし、多彩なレストランやショップ、マリンメニューが大人のためにリゾートライフを演出してくれます。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/-T1BsbSZ3kWrJB4KlZG8XzwrdfxGUzZeJMu0I_6KQ_U/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/-T1BsbSZ3kWrJB4KlZG8XzwrdfxGUzZeJMu0I_6KQ_U/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/-T1BsbSZ3kWrJB4KlZG8XzwrdfxGUzZeJMu0I_6KQ_U/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/-T1BsbSZ3kWrJB4KlZG8XzwrdfxGUzZeJMu0I_6KQ_U/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/-T1BsbSZ3kWrJB4KlZG8XzwrdfxGUzZeJMu0I_6KQ_U/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-T1BsbSZ3kWrJB4KlZG8XzwrdfxGUzZeJMu0I_6KQ_U/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "クラブデラックス",
+        "infoBlockLabel": "ハレクラニ沖縄　アクセス",
+        "infoBlockText": "【住所】沖縄県国頭郡恩納村名嘉真1967-1【アクセス】那覇空港より車で約75分（沖縄自動車道利用）",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．名護エリアの高級リゾートホテル"
+      },
+      {
+        "cTA1": {
+          "label": "ホテルモントレ沖縄スパ＆リゾートの紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707021/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707021/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8707021/plan/",
+          "linkType": "URL"
+        },
+        "description": "＜デラックスナチュラルオーシャンビュー/36平米＞テラスの向こうにコバルトブルーの海を眺めるオーシャンビュールームです。＜クラブフロア　デラックスエレガント/43平米＞ノースタワーの4・5階に位置するクラブフロア デラックスエレガントタイプのゲストルーム。全室オーシャンビューの開放感と、43平米のゆったりとした寛ぎの空間。クラブフロアでのサービスが、より洗練されたリゾートステイを実現させてくれます。＜クラブコテージ　ラグジュリアススイート /66平米＞一戸建てのヴィラ感覚でお寛ぎいただけるスイートルーム。光と風が通り抜けるオープンエアな空間、水がきらめくプライベートプール、すべてが洗練された贅沢な時間を奏でます。・クラブコテージのご利用は13歳以上となります（添い寝不可）・クラブコテージエリアはコテージご宿泊者専用となっております。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/BkNHTWsClxqsRAfZ_JFfOI9vXDOJq4DRsDXmOlLXSOY/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/BkNHTWsClxqsRAfZ_JFfOI9vXDOJq4DRsDXmOlLXSOY/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/BkNHTWsClxqsRAfZ_JFfOI9vXDOJq4DRsDXmOlLXSOY/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/BkNHTWsClxqsRAfZ_JFfOI9vXDOJq4DRsDXmOlLXSOY/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/BkNHTWsClxqsRAfZ_JFfOI9vXDOJq4DRsDXmOlLXSOY/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BkNHTWsClxqsRAfZ_JFfOI9vXDOJq4DRsDXmOlLXSOY/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "アリビラスイート　一例",
+        "infoBlockLabel": "海の旅亭おきなわ名嘉真荘　アクセス",
+        "infoBlockText": "【住所】沖縄県国頭郡恩納村字名嘉真855-1【アクセス】那覇空港→バス名護西空港線国内線ターミナル駅から名護バスターミナル行き約130分名嘉真駅下車→徒歩約5分那覇空港から沖縄自動車道 屋嘉I.C経由約90分",
+        "sectionLevel": "h3",
+        "sectionTitle": "【ザ・ブセナテラス】シンプルなデザインと海外のような開放的な空間"
+      },
+      {
+        "cTA1": {
+          "label": "ハイアットリージェンシー瀬良垣アイランド沖縄の紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707023/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707023/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8707023/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/XL/8/8710008/87100081300000035.jpg\" alt\u003d\" 南国の景色と美しい音色が極上の時間\"\u003e毎日、サンセットタイムにプールサイドにてサックスの生演奏を行っております。黄金色に染まった南国の風景とともにサックスの美しい音色をお楽しみいただけます。ホテルではカタマランヨットを有しています。マリンメニューとして、サンセットクルーズや季節限定でプラネットクルーズも運行しており、穏やかな海に囲まれた心地よさをご堪能いただけます（有料）。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/UW4Z6YuKILJWXkzw3Y05-3SzLwm0zFul3WBObghtti0/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/UW4Z6YuKILJWXkzw3Y05-3SzLwm0zFul3WBObghtti0/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/UW4Z6YuKILJWXkzw3Y05-3SzLwm0zFul3WBObghtti0/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/UW4Z6YuKILJWXkzw3Y05-3SzLwm0zFul3WBObghtti0/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/UW4Z6YuKILJWXkzw3Y05-3SzLwm0zFul3WBObghtti0/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/UW4Z6YuKILJWXkzw3Y05-3SzLwm0zFul3WBObghtti0/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "クラブプールヴィラ1ベッドルーム",
+        "infoBlockLabel": "ホテルモントレ沖縄スパ＆リゾート　アクセス",
+        "infoBlockText": "【住所】沖縄県国頭郡恩納村冨着1550-1【アクセス】那覇空港→リムジンバス那覇空港からホテルモントレ沖縄行き約65分那覇空港より国道58号線を北へ45km、車で約70分",
+        "sectionLevel": "h4",
+        "sectionTitle": "ザ・ブセナテラス 　客室"
+      },
+      {
+        "cTA1": {
+          "label": "OKINAWA KARIYUSHI RESORT EXES ONNAの紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707014/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707014/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8707014/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8710016/87100161300000037.jpg\" alt\u003d\"ザ・テラスクラブ アット ブセナ　外観\" \u003e運動・栄養・休養のバランスの取れたウェルネスプログラムと、「クラブ」ならではのきめ細やかなサービスで大人のための休日を満喫できます。ウェルネスタラソで心身をリセットし、活力をチャージしたあとは、地元食材を中心にヘルシーな調理法で仕上げたウェルネス・キュイジーヌに舌鼓。美しく青く澄んだ海やサンセットを臨む客室での質の良い休息により、理想的なウェルネスステイを満喫いただけます。\u003cspan style\u003d\"font-weight: bold\"\u003e【お客様へのご案内】\u003c/span\u003e・ホテル施設ご利用は13歳以上のお客様となります。（添い寝不可） 　・ホテル敷地内は宿泊者専用となっております。 ※全館禁煙・レストラン「ファインダイニング」はドレスコードあり。詳しくはホテル迄お問合せください。・レストランでは季節毎に営業期間/時間に変更がございます。詳細はホテル公式サイトをご確認ください。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/UQBPiuWLDqdoA6AuY078ujDKAi1YmV8v-UkeqpKQbsU/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/UQBPiuWLDqdoA6AuY078ujDKAi1YmV8v-UkeqpKQbsU/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/UQBPiuWLDqdoA6AuY078ujDKAi1YmV8v-UkeqpKQbsU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/UQBPiuWLDqdoA6AuY078ujDKAi1YmV8v-UkeqpKQbsU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/UQBPiuWLDqdoA6AuY078ujDKAi1YmV8v-UkeqpKQbsU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/UQBPiuWLDqdoA6AuY078ujDKAi1YmV8v-UkeqpKQbsU/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "貸し切り露天風呂【方丈庵】",
+        "infoBlockLabel": "ハイアットリージェンシー瀬良垣アイランド沖縄　アクセス",
+        "infoBlockText": "【住所】沖縄県国頭郡恩納村字瀬良垣1108【アクセス】那覇空港→バス瀬良垣ビーチ前下車→徒歩約5分那覇空港から国道58号線へ出て北上約90分",
+        "sectionLevel": "h4",
+        "sectionTitle": "南国の景色と美しい音色が極上の時間"
+      },
+      {
+        "cTA1": {
+          "label": "オリエンタルヒルズ沖縄の紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707013/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707013/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8707013/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8710016/87100161300000038.jpg\" alt\u003d\" ザ・テラスクラブ アット ブセナ　客室\"\u003e＜クラブデラックスサンセット/54平米＞テラスから東シナ海に沈む夕日が臨めるサンセットビュールーム。隣接するバニァンビレッジの赤い瓦屋根やなだらかに続く岬の風景、噴水が美しい広場などの景観もお楽しみいただけます。＜クラブデラックスオーシャン/54平米＞テラスからは穏やかに広がる美しい名護湾を臨むオーシャンビュールーム。涼やかな潮風がゲストルームの隅々にまで吹き渡り、室内に居ながらにしてビーチサイドの心地よさをご満喫いただけます。＜クラブデラックスオーシャン2ベッドルーム/83平米＞青々と澄んだ名護湾を見下ろすオーシャンサイドの6階以上に設けられた、2つのベッドルームを有するゲストルーム。ご家族・ご友人同士で寛げるゆとりの広さ、大きなデイベッドを設けたテラスが、ロングステイにも飽きることのなくお過ごしいただけます。",
+        "image": {
+          "height": 1000,
+          "sourceUrl": "https://a.mktgcdn.com/p/PLC16FXaW5MXX172-zK5H7VnL-ig8PAaa7wMb4ZGiKg/1500x1000.jpg",
+          "thumbnails": [
+            {
+              "height": 1000,
+              "url": "https://a.mktgcdn.com/p-sandbox/MlyLJSjLEb4ql2At6qh9YFrSf2F1NpnWDp2TweJuykU/1500x1000.jpg",
+              "width": 1500
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/MlyLJSjLEb4ql2At6qh9YFrSf2F1NpnWDp2TweJuykU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/MlyLJSjLEb4ql2At6qh9YFrSf2F1NpnWDp2TweJuykU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/MlyLJSjLEb4ql2At6qh9YFrSf2F1NpnWDp2TweJuykU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MlyLJSjLEb4ql2At6qh9YFrSf2F1NpnWDp2TweJuykU/1500x1000.jpg",
+          "width": 1500
+        },
+        "imageCaption": "※画像はイメージです",
+        "infoBlockLabel": "OKINAWA KARIYUSHI RESORT EXES ONNA　アクセス",
+        "infoBlockText": "【住所】沖縄県国頭郡恩納村名嘉真ヤーシ原2592-40【アクセス】那覇空港→約110分かりゆしビーチ下車　※ホテルまで送迎あり那覇空港より沖縄自動車道利用約90分",
+        "sectionLevel": "h3",
+        "sectionTitle": "【ザ・テラスクラブ アット ブセナ】ウェルネスタラソが目を引く大人のリゾートホテル"
+      },
+      {
+        "cTA1": {
+          "label": "ジ・アッタテラスクラブタワーズの紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707012/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707012/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8707012/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8710016/87100161300000039.jpg\" alt\u003d\" 屋外施設のタラソプールで大人のリラックスタイムを\"\u003eブセナ岬でくみ上げられた海水を、身体に負担をかけない最適な水温で設定した屋外設置のタラソプールを有していいます。33℃と36℃に設定された水温エリアを交互に利用する交代浴は、血行を促進、自律神経のバランスを整え、リラックス効果をもたらします。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/Fk3jo4yhrP1KlQoE6dMUPMk0SdtS3Q77xwnfn21t7MY/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/Fk3jo4yhrP1KlQoE6dMUPMk0SdtS3Q77xwnfn21t7MY/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/Fk3jo4yhrP1KlQoE6dMUPMk0SdtS3Q77xwnfn21t7MY/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Fk3jo4yhrP1KlQoE6dMUPMk0SdtS3Q77xwnfn21t7MY/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Fk3jo4yhrP1KlQoE6dMUPMk0SdtS3Q77xwnfn21t7MY/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Fk3jo4yhrP1KlQoE6dMUPMk0SdtS3Q77xwnfn21t7MY/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "※画像はイメージです",
+        "infoBlockLabel": "オリエンタルヒルズ沖縄　アクセス",
+        "infoBlockText": "【住所】沖縄県国頭郡恩納村瀬良垣79-1【アクセス】那覇空港より沖縄自動車道経由　車で約60分",
+        "sectionLevel": "h4",
+        "sectionTitle": "ザ・テラスクラブ アット ブセナ　客室"
+      },
+      {
+        "cTA1": {
+          "label": "ホテル日航アリビラの紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8741001/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8741001/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8741001/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8710017/87100171000000036.jpg\" alt\u003d\" 【ザ・リッツ・カールトン沖縄】高級感漂う静けさと解放感にうっとり\"\u003e琉球のシンボル「首里城」の赤瓦と白い城壁。古来より聖地とされてきた水の湧き出ずる場所をモチーフとした「ザ・リッツ・カールトン沖縄」。静けさと解放感に包まれた空間を舞台に、琉球王朝時代から継承されるおもてなしの心 ”迎恩（ケイオン）”の精神で皆様を思い出深いリゾートステイへと誘います。7つのフロアで構成されるホテル棟の館内は、自由な回遊性を考慮し客室やパブリックスペースをレイアウトしています。水をたたえた庭やプールの周辺には、ロビーやラウンジ、ライブラリー、そしてテラスを配置。利便性のみならず、これらのスペースをその時々の気分に合わせて自由にお使いいただき、ゆるやかな時間の流れを満喫していただけます。お客様の要望を満たす3つのレストランやラウンジ、プライバシーを重視したSPAなど、「癒」「食」「泊」のすべてと心温まるおもてなしが魅力です。\u003cspan style\u003d\"font-weight: bold\"\u003e【お客様へのご案内】\u003c/span\u003e・2024年3月1日～10月末日（終了予定）まで客室の改装工事を行います。・一部レストランの営業が変更になる場合がございます。詳しくは、各レストランサイトをご確認ください。",
+        "image": {
+          "height": 1266,
+          "sourceUrl": "https://a.mktgcdn.com/p/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+          "thumbnails": [
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/619x412.webp",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/600x400.webp",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/196x131.webp",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+          "width": 1900
+        },
+        "infoBlockLabel": "ジ・アッタテラスクラブタワーズ　アクセス",
+        "infoBlockText": "【住所】沖縄県国頭郡恩納村安富祖1079　【アクセス】那覇空港より国道58号線経由で約75分・沖縄自動車道利用で約60分",
+        "sectionLevel": "h4",
+        "sectionTitle": "屋外施設のタラソプールで大人のリラックスタイムを"
+      },
+      {
+        "cTA1": {
+          "label": "グランディスタイル 沖縄 読谷 ホテル＆リゾートの紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8741006/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8741006/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8741006/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8710017/87100171000000074.jpg\" alt\u003d\" ザ・リッツ・カールトン沖縄 　客室\"\u003e全97室で構成されるゲストルームは、沖縄本島で最も美しい海といわれる名護湾を望むことができます。東側客室からは燦々とふりそそぐ朝日に煌めく波の美しさ、西側客室からは落ちていく夕陽とともに静寂の時を迎える海をご覧いただけます。全室に緑越しに海と空を望むことができるバス、自然と光と風を肌に感じる広いテラスが設置されています。",
+        "image": {
+          "height": 1267,
+          "sourceUrl": "https://a.mktgcdn.com/p/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+          "thumbnails": [
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/619x413.webp",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/600x400.webp",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/196x131.webp",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+          "width": 1900
+        },
+        "infoBlockLabel": "ホテル日航アリビラ　アクセス",
+        "infoBlockText": "【住所】沖縄県中頭郡読谷村字儀間600【アクセス】那覇空港→リムジンバス那覇空港国内線から約90分ホテル日航アリビラ下車→徒歩約0分那覇空港より車で約70分",
+        "sectionLevel": "h3",
+        "sectionTitle": "【ザ・リッツ・カールトン沖縄】高級感漂う静けさと解放感にうっとり"
+      },
+      {
+        "cTA1": {
+          "label": "ジ・ウザテラス ビーチクラブヴィラズの紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8741005/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8741005/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8741005/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8710017/87100171000000031.jpg\" alt\u003d\" 最新の設備が整ったプライベート空間のスパ\"\u003eホテル棟とは別棟となるスパ棟。パーソナルなサービスと最新の設備が整い、英国のブランドESPAのオリジナルトリートメントも用意された極上の空間です。トリートメントルームは完全なプライベート空間。まるで深い森の中に浮かんでいるような景色を前に鳥のさえずり、木々の葉が奏でる風の音など森の静けさに響く「癒しの旋律」が深いリラクゼーション へと導きます。",
+        "infoBlockLabel": "グランディスタイル 沖縄 読谷 ホテル＆リゾート　アクセス",
+        "infoBlockText": "【住所】沖縄県中頭郡読谷村瀬名波571-1【アクセス】 那覇空港→リムジンバスBエリア国内線旅客ターミナルから読谷バスターミナル行き約120分読谷バスターミナル下車→徒歩約1分またはタクシー",
+        "sectionLevel": "h4",
+        "sectionTitle": "ザ・リッツ・カールトン沖縄 　客室"
+      },
+      {
+        "cTA1": {
+          "label": "百名伽藍 の紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8720001/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8720001/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8720001/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707025/87070251300000011.jpg\" alt\u003d\" 【ハレクラニ沖縄】まるで「楽園」スタッフの心からのおもてなしが魅力\"\u003e1917年にハワイに創業した「ハレクラニ」の2つ目となるホテルとして2019年にオープン。ハワイの言葉で「天国にふさわしい館」を意味するハレクラニ。100年以上の歴史を受け継ぎ、幅広い世代から人気のハレクラニならではのホスピタリティでお客様をお迎えしています。沖縄本島屈指のビーチリゾートとして名高い恩納村。ハレクラニ沖縄は、その中でも沖縄海岸国定公園として守られてきた優雅な海辺に位置しており、豊かな自然を有するその情景は、まさに楽園と呼ぶにふさわしいリゾートです。ホテルに到着した瞬間から日常を忘れ、心安らぐ時間をお過ごしいただけます。また、スタッフの心からのおもてなしもお客様に選ばれる理由の1つです。",
+        "infoBlockLabel": "ジ・ウザテラス ビーチクラブヴィラズ　アクセス",
+        "infoBlockText": "【住所】所在地：沖縄県中頭群読谷村宇座630－1【アクセス】那覇空港より車で国道58号線経由または沖縄自動車道石川IC経由で約70分",
+        "sectionLevel": "h4",
+        "sectionTitle": "最新の設備が整ったプライベート空間のスパ"
+      },
+      {
+        "cTA1": {
+          "label": "THE HIRAMATSU HOTELS\u0026RESORTS 宜野座の紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8706002/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8706002/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8706002/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707025/87070251300000028.jpg\" alt\u003d\" ハレクラニ沖縄　客室\"\u003eハレクラニ沖縄では、すべての客室がオーシャンビューとなっており、バルコニーに出るとコーラルブルーに輝く海の美しさと風の心地よさをご体感いただけます。「セブンシェイズオブホワイト（7つの白）」をテーマとした客室は、窓の向こうに映る空と海の青さを一層引き立たせ、上質で洗練されたその空間はお客様を非日常の世界へと誘います。",
+        "infoBlockLabel": "百名伽藍　アクセス",
+        "infoBlockText": "【住所】沖縄県南城市玉城百名山下原1299-1【アクセス】那覇空港より車で約35分",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．恩納村エリアの高級リゾートホテル"
+      },
+      {
+        "cTA1": {
+          "label": "ANAインターコンチネンタル石垣リゾートの紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8724004/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8724004/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8724004/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707025/87070251300000047.jpg\" alt\u003d\" 美しい海を望むハレクラニを象徴するプール\"\u003e華やかな空気に満たされたロビーを抜けると、目の前にはハレクラニを象徴するオーキッドを描いたプールが現れます。可憐な白い花を映す水面の向こうには、コーラルブルーに輝く美しい海と爽快な青空、そして刻々と雄大にその姿を変えていく白い雲。海からのそよ風が心に極上の癒しをもたらすでしょう。",
+        "infoBlockLabel": "THE HIRAMATSU HOTELS\u0026RESORTS 宜野座 アクセス",
+        "infoBlockText": "【住所】沖縄県国頭郡宜野座村字松田1425【アクセス】那覇空港より車で約70分（沖縄自動車道利用）",
+        "sectionLevel": "h3",
+        "sectionTitle": "【ハレクラニ沖縄】まるで「楽園」スタッフの心からのおもてなしが魅力"
+      },
+      {
+        "cTA1": {
+          "label": "フサキビーチリゾート　ホテル＆ヴィラズの紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8724007/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8724007/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8724007/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707022/87070221300000125.jpg\"\" alt\u003d\" 【海の旅亭おきなわ名嘉真荘】旅と食を楽しむ沖縄発の和の旅亭\"\u003e豊かな沖縄の自然が息吹く恩納村名嘉真にある、旅と食を楽しむ、沖縄初の和の旅亭「名嘉真荘」は、沖縄の海を感じて過ごすオールスイート旅館です。どこまでも続くエメラルドブルーは見るたびに表情を変え、眺めていると時がたつのを忘れるほど。素顔の自分に戻って、何もしない贅沢なひとときを。本格的な和風会席料理には、厳選された沖縄と北海道の食材が融合します。心和む空間をしつらえ、旅館ならではの素足でまわれる館内は、馴染みの別邸に訪れたかのような佇みとなっています。まばゆい沖縄の海を臨む旅。寛ぎの刻にひたる旅。新しい沖縄の旅と食が、ここにあります。",
+        "infoBlockLabel": "ANAインターコンチネンタル石垣リゾート　アクセス",
+        "infoBlockText": "【住所】沖縄県石垣市真栄里354-1【アクセス】石垣空港→タクシー約20分石垣空港→バスホテル行き約30分→徒歩約0分",
+        "sectionLevel": "h4",
+        "sectionTitle": "ハレクラニ沖縄　客室"
+      },
+      {
+        "cTA1": {
+          "label": "シギラベイサイドスイートアラマンダの紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8723009/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8723009/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/8723009/feature/premium/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707022/87070221300000074.jpg\" alt\u003d\" 海の旅亭おきなわ名嘉真荘　客室\"\u003e＜プレミアムスイート・名嘉真-NAKAMA-【ビューバス付】/95平米＞「海を愉しむ」というコンセプトでデザインされた”スイート空間”で刻を忘れる一日。窓の先には本部半島等、沖縄特有の風光明媚な情景の世界が広がります。景色はもちろん、心地よい潮風を感じながら入浴できる開放的なバスルームも魅力です。目を覚ませば目前に広がる恩納ブルーの世界に“ここに来て良かった”と誰もが想うことでしょう。・3～4名様でご利用の際は、お布団のご利用が可能です。",
+        "infoBlockLabel": "フサキビーチリゾート　ホテル＆ヴィラズ　アクセス",
+        "infoBlockText": "【住所】沖縄県石垣市字新川1625【アクセス】石垣空港→タクシー約35分石垣空港→無料送迎バスホテル行き約35分",
+        "sectionLevel": "h4",
+        "sectionTitle": "美しい海を望むハレクラニを象徴するプール"
+      },
+      {
+        "cTA1": {
+          "label": "ホテルシギラミラージュの紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8723017/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8723017/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/8723017/feature/premium/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707022/87070221300000098.jpg\" alt\u003d\" そのときに美味しい旬の食材で仕立てた「美食懐石」\"\u003e京の名門で培った料理長の技×食材で魅せる”美食懐石” 全国各地の「とっておきの美味しい」をお届けしたい。この想いを叶えるために、名嘉真荘は生まれました。沖縄の「山城牛」や「あぐー豚」、北海道の山海の幸・・・。そのときに美味しい旬の食材を、京の名店で修業を積んだ料理長が伝統的な日本料理に仕立て上げます。どこまでも続く沖縄のオーシャンブルーをのんびりと眺めながら、ここでしか味わえない上質なひとときをお楽しみいただけます。",
+        "infoBlockLabel": "シギラベイサイドスイートアラマンダ　アクセス",
+        "infoBlockText": "【住所】沖縄県宮古島市上野新里東素原926-25【アクセス】宮古空港より車で約15分宮古島空港～ホテル間：無料シャトルバス、下地島空港～ホテル間：有料エアポートライナーが利用可能です。詳細は公式ホームページよりご確認ください。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【海の旅亭おきなわ名嘉真荘】旅と食を楽しむ沖縄発の和の旅亭"
+      },
+      {
+        "cTA1": {
+          "label": "イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古の紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8723016/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8723016/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/8723016/feature/premium/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/XL/8/8707021/87070211000000081.jpg\" alt\u003d\" 【ホテルモントレ沖縄スパ＆リゾート】全室オーシャンビュー・充実した館内設備\"\u003e屋内プール、屋外プール、スポーツジムや温泉を完備した全室オーシャンビューのホテル。エメラルドグリーンが広がる西海岸の海を一望出来る客室が魅力です。ビーチはホテルから直結しており、マリンアクティビティを楽しむ事も出来ます。館外に出なくても一日中満喫できる館内、和食、洋食、ビュッフェ、鉄板焼など連泊者にも飽きさせないお食事が揃っています。",
+        "infoBlockLabel": "ホテルシギラミラージュ　アクセス",
+        "infoBlockText": "【住所】沖縄県宮古島市上野新里1405-201【アクセス】宮古空港より車で約15分宮古島空港～ホテル間：無料シャトルバス、下地島空港～ホテル間：有料エアポートライナーが利用可能です。詳細は公式ホームページよりご確認ください。",
+        "sectionLevel": "h4",
+        "sectionTitle": "海の旅亭おきなわ名嘉真荘　客室"
+      },
+      {
+        "cTA1": {
+          "label": "宮古島東急ホテル＆リゾーツの紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8723004/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン一覧",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8723004/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/8723004/feature/premium/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707021/87070211300000047.jpg\" alt\u003d\" ホテルモントレ沖縄スパ＆リゾート 　客室\"\u003e全室オーシャンビューの客室には開放感のあるバルコニーが備わっており、海からの心地よい風を感じる事ができます。コロニアルデザインの色、形をモチーフにリゾート感のある素材を用いた客室はシックで落ち着いた雰囲気です。海に向かって配置されたベッドレイアウト、広いバルコニーなど、リゾートならではの開放感に溢れています。お部屋の浴室には、まるで美顔器のようなシャワーヘッド「ミラブル」を導入しておりますので、ワンランク上のバスタイムをお楽しみいただけます。",
+        "infoBlockLabel": "クラブラウンジのご利用案内",
+        "infoBlockText": "・ティータイム：未就学（6歳未満）のお子様はご利用いただけません。・カクテルタイム：18歳未満のお客様はご利用いただけません。",
+        "sectionLevel": "h4",
+        "sectionTitle": "そのときに美味しい旬の食材で仕立てた「美食懐石」"
+      },
+      {
+        "cTA1": {
+          "label": "「沖縄満喫クーポン」を使える沖縄旅行を探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/feature/tabisugo/",
+          "linkType": "OTHER"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707021/87070211000000108.jpg\" alt\u003d\"ホテルモントレ沖縄スパ＆リゾート　屋内プール\" \u003e沖縄で最大級、4種類ものプールはファミリーに好評です。総合リフレッシュ空間「ブルーリーフ（有料）」には天然温泉の浴室やサウナ、屋内プール、スポーツジムがあり、旅の疲れをリフレッシュできます。",
+        "infoBlockLabel": "イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古　アクセス",
+        "infoBlockText": "【住所】沖縄県宮古島市伊良部字伊良部818-5【アクセス】宮古空港→タクシー約20分・下地島空港→タクシー約10分宮古空港、下地島空港からホテル間、無料送迎サービスのご利用が可能。詳細は公式ホームページをご覧ください。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【ホテルモントレ沖縄スパ＆リゾート】全室オーシャンビュー・充実した館内設備"
+      },
+      {
+        "cTA1": {
+          "label": "JTBラウンジについてもっとみる",
+          "link": "https://www.jtb.co.jp/kokunai/area/okinawa/lounge/",
+          "linkType": "OTHER"
+        },
+        "description": "沖縄県恩納村の美しい海に360度囲まれたラグジュアリーな大人のリゾートホテル。それがハイアットリージェンシー瀬良垣アイランド沖縄。国内屈指のリゾート地・恩納村の、沖縄国定公園として守られた美しい海辺に浮かぶ瀬良垣島に位置し、ホテルがある瀬良垣島は沖縄本島が一本の橋で繋がっており、島丸ごとリゾートとしたユニークなロケーションが特徴です。食やアクティビティなどのコンテンツが随所に見え、唯一無二の優雅なひと時をお過ごしいただけます。",
+        "infoBlockLabel": "宮古島東急ホテル　アクセス",
+        "infoBlockText": "【住所】沖縄県宮古島市下地与那覇914【アクセス】宮古空港→タクシー約10分下地島空港→タクシー約30分",
+        "sectionLevel": "h4",
+        "sectionTitle": "ホテルモントレ沖縄スパ＆リゾート 　客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707023/87070230004039030.jpg\" alt\u003d\" ハイアットリージェンシー瀬良垣アイランド沖縄 　客室\"\u003e全客室にオープンエアのバルコニーを備え、落ち着いた色調とスタイリッシュなインテリアで構成される343室の客室では、お部屋ごとに異なるバリエーション豊富な海の眺望をお楽しみいただけます。6タイプのスイートルームを含む320室を有する「ザ・アイランド」は東シナ海を一望でき、23室を有する「ザ・ビーチハウス」は目前に穏やかな瀬良垣ビーチを臨み、ロングステイにもおすすめです。",
+        "sectionLevel": "h4",
+        "sectionTitle": "沖縄で最大級のプールで旅の疲れをリフレッシュ"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707023/87070231300000134.jpg\" alt\u003d\" ホテルを囲む青い海でウェルネスアクティビティをお楽しみください\"\u003e屋外に2つ、屋内に1つのプールとホテル直営のウェルネスアクティビティでは豊富なプログラムを揃えています。また、身体を癒してくれるスパは完全個室オーシャンビューで至極の時間が味わえます。ホテル滞在で欠かせない「食」もステーキ・イタリアン・炉端・鉄板焼・鮨など6箇所のレストランと3つのバーが併設されており、充実したホテルステイが楽しめます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【ハイアットリージェンシー瀬良垣アイランド沖縄】海に囲まれたラグジュアリーホテル"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707014/87070141300000339.jpg\" alt\u003d\" 【OKINAWA KARIYUSHI RESORT EXES ONNA】誰にも邪魔されないプライベートプール\"\u003e自然豊かな恩納村の森を背景に、かりゆしの丘から眺める群青の東シナ海を前景にした、非日常を感じていただくための上質な滞在。スパ＆エステ、ヘルスクラブなど心身ともにリフレッシュしていただく『癒しの空間』、スタッフによる隅々まで行き届いたサービスで寛ぎの時間をお過ごしください。\u003cspan style\u003d\"font-weight: bold\"\u003e【お客様へのご案内】\u003c/span\u003eレストランや館内施設の営業内容が変更となる場合がございます。詳細はホームページよりご確認をよろしくお願い致します。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ハイアットリージェンシー瀬良垣アイランド沖縄 　客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707014/87070140003924010.jpg\" alt\u003d\" OKINAWA KARIYUSHI RESORT EXES ONNA 　客室\"\u003e59.1平米の広々とした、エグゼスフロアプレミアツインは全室オーシャンビュー！常設ベッドの他、和リビングにあるビルトインベッド利用（壁に埋め込み式）で、4名様までご利用可能。ウォークインクローゼットでは大きなスーツケースも簡単に収納でき、客室スペースを有効にご利用いただけます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ホテルを囲む青い海でウェルネスアクティビティをお楽しみください"
+      },
+      {
+        "description": "クラブフロア(9階)EXESロイヤルプールスイートには、誰にも邪魔されないメゾネットタイプのプライベートプールを完備。10階にあるプライベートプールはお部屋から直結です。日中は太陽に1番近い場所、夜は星空に1番近い場所で時間を忘れ満ち溢れる南の島のリゾートが始まります。エグゼクティブにふさわしいフロアセキュリティーやラウンジを充実させ、気品のある滞在を専用コンシェルジュがお手伝いしてくれます。・プールサイズ8.1m×3.2m／夏場：常温／冬場：30℃～33℃前後",
+        "sectionLevel": "h3",
+        "sectionTitle": "【OKINAWA KARIYUSHI RESORT EXES ONNA】誰にも邪魔されないプライベートプール"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707013/87070131000000155.jpg\" alt\u003d\" 【オリエンタルヒルズ沖縄】三密のない14棟のオールスイートヴィラ\"\u003e2万平方メートルの敷地にわずか14棟の客室。その全てに日本最大級のプライベートプール。ますます人気が高まる沖縄の中でも屈指のリゾートエリアである、恩納村にあります。美しい海沿いの丘に位置するオリエンタルヒルズ沖縄は広大な敷地にわずか14棟の客室を備えるオールスイートヴィラです。様々な目的で訪れていただくお客様それぞれに、真に寄り添ったおもてなしとサービスを実現することにこだわった答えです。「三密のない特別なプレミアムへ」 三密を気にすることなく、さらに、オリエンタルヒルズ沖縄でしか味わうことができない特別なプレミアムをご体験いただけます。ホテルまでの移動、チェックイン及びチェックアウト、お食事、これらどのシーンにおいてもオリエンタルヒルズ沖縄では心配いりません。安心してお過ごしいただくことができます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "OKINAWA KARIYUSHI RESORT EXES ONNA 　客室"
+      },
+      {
+        "description": "空間と時間を誰にも邪魔されることのないオリエンタルヒルズ沖縄のゲストルーム。各客室にはアメニティをはじめ、オリエンタルヒルズ沖縄のこだわりがたくさん詰め込まれています。また、全室に備えた日本最大級のプライベートプールからは、沖縄本島屈指のコバルトブルーを望むことができるロケーションです。",
+        "sectionLevel": "h4",
+        "sectionTitle": "一日中楽しめるプライベートプールからの美しい景色"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707013/87070131300000009.jpg\" alt\u003d\" 清潔に保たれた大きなプライベートプール\"\u003eオリエンタルヒルズ沖縄が誇る全室に備えたプライベートプール。大きさは実に幅3.5m×深さ1.2mという広さ。しかし伝えたいのはその大きさではありません。毎日のメンテナンスとチェックイン前の最終チェックにより気持ち良く使っていただけるコンディションを維持し続けることを大切にしています。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【オリエンタルヒルズ沖縄】三密のない14棟のオールスイートヴィラ"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707012/87070121300000051.jpg\" alt\u003d\" 【ジ・アッタテラスクラブタワーズ】高台に位置し全室52平米以上のホテル\"\u003e沖縄本島中北部・恩納岳の中腹に抱かれるように佇むホテル。亜熱帯の森に溶け込むようにして建つレセプションハウスや森から海に向かって開かれたウォーターフロープール、そのすべてがステイゲストのための占有空間です。ゲストリレーションズオフィサーによる心細やかなおもてなし、リゾート時間を演出するティータイムやアペリティフタイム。心安らぐくつろぎに満ちたホテルライフをご堪能ください。\u003cspan style\u003d\"font-weight: bold\"\u003e【お客様へのご案内】\u003c/span\u003e・ホテル施設ご利用は16歳以上のお客様となります（添い寝不可）。またホテル敷地内は宿泊者専用となっております。・全室禁煙・レストラン「ファインダイニング」ディナー時はドレスコードあり。詳しくはホテル迄お問合せください。",
+        "sectionLevel": "h4",
+        "sectionTitle": "オリエンタルヒルズ沖縄 　客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707012/87070121300000045.jpg\" alt\u003d\" ジ・アッタテラスクラブタワーズ 　客室\"\u003e＜クラブデラックス/52平米＞ベッドルームとバスルームの境を取り払い、開放感と明るさ、ゆとりの広さが特徴です。 バスルームのスライドドアを大きく開けば、バスタブからベッド越しに夕景が望めるデラックスルームです。＜クラブラグジュアリー/57平米＞コーナールームの立地を活かし、大きな窓とテラスを設えました。森に向かって開かれた窓からは、なだらかな稜線を描く恩納岳や青く広がる東シナ海が望める贅沢なレイアウトとなっています。",
+        "sectionLevel": "h4",
+        "sectionTitle": "清潔に保たれた大きなプライベートプール"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8707012/87070121300000052.jpg\" alt\u003d\" 自家菜園の食材を食卓へ 「OUR FARM TO TABLE」\"\u003eホテル敷地内にある、自家菜園で収穫された自然の恵みをレストランでの食事やバー＆ラウンジでのドリンク、クラブ・スパでのトリートメント粧材としてご提供しております。その取り組みを“農園から食卓へ”、を意味する「OUR FARM TO TABLE」と名付けました。 南の島のご滞在を何倍にも豊かにしてくれる感動を得られます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【ジ・アッタテラスクラブタワーズ】高台に位置し全室52平米以上のホテル"
+      },
+      {
+        "description": "那覇空港より車で約70分、沖縄本島中部に位置し、北部・南部の観光拠点にできる便利なエリアにあります。本島中部の西海岸沿い、湾岸の美しい地形を活かして建てられたオンザビーチのリゾートホテルです。扉を開くとロビーから望むパティオは、亜熱帯の植物で満たされ、その先に広がる本島屈指の透明度と称される天然のニライビーチへとつながっています。スパニッシュコロニアル様式の特徴的な建物の館内は、優美な曲線を描くアイアンのアート、異国情緒漂うタイル装飾、エイジング家具、シャンデリアなど、空間を構成するものすべてに気品とセンスが窺え、どこを切り取っても絵になるアートな空間です。いつ訪れても、かわらぬ心づくしのサービスと、何度訪れても新しい発見に出会えるリゾートステイ、太陽が愛した楽園、ホテル日航アリビラで素敵な滞在をお過ごしください。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ジ・アッタテラスクラブタワーズ 　客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8741001/87410010004177800.jpg\" alt\u003d\" ホテル日航アリビラ　客室\"\u003e沖縄の鮮やかな花々や青い海など豊かな自然の色を基調にデザインされた多彩なタイプのゲストルーム。全室バルコニー付の居心地の良さを感じるゲストルームは、自然とアートが美しく調和したデザイン。洗練された快適を極めた華やかな空間で、解放感に満ち溢れた大いなるくつろぎの時間をご堪能ください。",
+        "sectionLevel": "h4",
+        "sectionTitle": "自家菜園の食材を食卓へ 「OUR FARM TO TABLE」"
+      },
+      {
+        "description": "ホテル目の前に広がる海の色は、「アリビラブルー」と称され、移り行く時間とともに豊かにその表情を変えます。水平線に沈む南国の夕日は、ゆったりと過ごす至福の時間です。厳選食材を駆使したこだわりの料理、一年を通して気軽に楽しめる多彩なマリンメニューやリラクゼーションが体験できる上質な安らぎが満ちる極上のステイをご堪能ください。ホテル周辺は、どこまでも澄み渡る青い空と海、ざわわと揺れるサトウキビ畑が広がり、ユネスコ世界遺産（文化遺産）に登録された座喜味城跡があります。自然につつまれて過ごすリゾートステイを体感してみませんか？",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．読谷村エリアの高級リゾートホテル"
+      },
+      {
+        "description": "美しい海と豊かな自然に囲まれた読谷の地で沖縄を美しくしなやかに遊ぶ、GLAMOROUS（魅力的な）DAY（1日）を過ごすリゾートです。グレーイッシュでシックな空間にゆれる沖縄のグリーン、森林の静寂、木々の香りややわらかな海風を感じながら、まるで我が家のようにお寛ぎいただけます。ゆったりと過ごす何もしない贅沢な時が、極上のくつろぎと癒しとやすらぎをもたらし、何度でも帰ってきたくなるもう一つの我が家になることでしょう。これまでに経験したことのない新たなリゾートライフを満喫できます。全室50平米以上広い客室と木の温もりを感じるインテリアを配置したシックな客室。朝食は3種から選べるセットメニューを朝食会場又は密を避けてお部屋にてお召し上がり可能です。インフィニティプールに隣接したカフェラウンジCHILLAXにてラウンジサービス（14:00～18:00)を楽しみながらお寛ぎください。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【ホテル日航アリビラ】異国情緒漂うホテルで極上ステイ"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8741006/87410061300000084.jpg\" alt\u003d\" グランディスタイル 沖縄 読谷 ホテル＆リゾート　客室\"\u003e木の温もりを感じるインテリアを配置したシックな客室です。50平米以上の広々とした部屋を吹き抜ける心地よい読谷の風、南国の自然を一望できるバルコニー。沖縄の海と風をイメージしたアロマの香りに包まれながら過ごす、くつろぎの極上ステイを体感できます。海を眺めるバルコニーの大きなデイベットでくつろぎながらいただくインルームダイニング、ルームサービスが充実した広いラグジュアリールーム。ずっとホテルで過ごしたくなる贅沢なくつろぎステイがここに叶います。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ホテル日航アリビラ　客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8741006/87410061300000095.jpg\" alt\u003d\" ２つの顔をもつインフィニティプール\"\u003e朝と夜、二つの表情で魅せ、水平線が一望できるインフィニティプールです。隣接したカフェラウンジCHILLAXから朝食を受け取りプールサイドでお召し上がりいただけます。夜はライトアップされた幻想的なナイトプールサンセットで変わりゆく景色をお楽しみいただけるくつろぎのひととき。温水仕様なので年中ご利用可、プールサイドにはジャグジーも設備しております。",
+        "sectionLevel": "h4",
+        "sectionTitle": "自然につつまれて過ごす時間"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8741005/87410051300000062.jpg\" alt\u003d\" 【ジ・ウザテラス ビーチクラブヴィラズ】自然と調和した全室プール付きのヴィラスタイル\"\u003e古き良き沖縄の伝統文化に彩られた沖縄本島中部に位置する読谷村、その海辺に佇むジ・ウザテラス ビーチクラブヴィラズは、自然と調和した全室プール付きのヴィラスタイルです。ご夫婦、ご家族、大切なパートナーと思い思いの時間をお過ごしいただけるプライベートな空間と時間が魅力。開放的なパブリックスペースから望むサンセット、グリルスタイルを中心としたコンチネンタル料理を提供するレストランなど、ホスピタリティあふれるおもてなしで充実したご滞在が可能です。\u003cspan style\u003d\"font-weight: bold\"\u003e【お客様へのご案内】\u003c/span\u003e・ホテル敷地内は宿泊者専用となっております。・全室禁煙・レストラン「ファインダイニング」ディナー時はドレスコードあり。詳しくはホテル迄お問合せください。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【グランディスタイル 沖縄 読谷 ホテル＆リゾート】インフィニティプールで至福の時間を"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8741005/87410051300000063.jpg\" alt\u003d\" ジ・ウザテラス ビーチクラブヴィラズ 　客室\"\u003e＜クラブプールヴィラ1ベッドルーム/88平米＞リビングルームとベッドルームを2棟に分けたヴィラタイプの客室。大きく開かれたプライベートプールと88平米のゆったりとした広さと、光と風が通り抜けるオープンエアな空間が魅力です。＜クラブプールヴィラ2ベッドルーム/137平米＞リビングルームと2つのベッドルームがプライベートプールを囲むように配されたヴィラタイプの客室。137平米の贅沢な広さが魅力で、ご家族やご友人同士で、気兼ねなく思い思いの時間をお過ごしいただけます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "グランディスタイル 沖縄 読谷 ホテル＆リゾート　客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8741005/87410051300000064.jpg\" alt\u003d\" 日常では見る事の少ない果実や島野菜との出会い「 農園ツアー 」\"\u003eホテル敷地内にある自家農園「OUR FARM」で収穫された自然の恵みをレストランでの食事やバー＆ラウンジでのドリンク、エステルームでのトリートメント粧材としてご提供しております。その取り組みを“農園から食卓へ”、を意味する「OUR FARM TO TABLE」と名付けました。その農園では、日常では見る事の少ない熱帯の果実や島野菜、ハーブ等の育つ様子を専任のガーデナーの案内で見学する「農園ツアー」をおこなっています。・2017年に世界60か国以上、約550のホテルとレストランが加盟している「ルレ・エ・シャトー」に加盟。",
+        "sectionLevel": "h4",
+        "sectionTitle": "２つの顔をもつインフィニティプール"
+      },
+      {
+        "description": "琉球創世神話の舞台として知られる神秘の地に佇む和琉様式のホテル百名伽藍。山を背に、眼下に広がる海からは日の出と日の入り、また琉球の聖地・久高島が望めます。回廊を巡らせた館内は、巨木のガジュマルが生い茂る中庭を設け、光と影と風の織りなす静謐な世界へといざないます。懐かしさにも似た歓びが満ち溢れる「心の故郷」がここに…大きな魅力の一つは、お客様一人一人に合わせたホスピタリティにあります。客室数が多くない18室のホテルであること、それぞれのお客様が旅に異なる目的やストーリーを持っていることから、ひとつのマニュアルに縛られず、スタッフ一人一人がお客様に寄り添い「ここに来てよかった」と喜んで帰っていただけるかを考えることを大切にしています。\u003cspan style\u003d\"font-weight: bold\"\u003e【お客様へのご案内】\u003c/span\u003e・ダイニング甘露：ディナー17：00～21：00・ルームサービス：客室内での酒類を含む飲食はご提供させていただいております。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【ジ・ウザテラス ビーチクラブヴィラズ】自然と調和した全室プール付きのヴィラスタイル"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8720001/87200011000000025.jpg\" alt\u003d\" 百名伽藍 　客室\"\u003eオーシャンフロントのゆったりとしたお部屋は、全18室。エグゼクティブスイート14室、伽藍スイート（湛水の間・仙厓の間・白隠の間・伽藍別館）4室。静かにそびえる山を背に、目の前に広がる青い海と白い砂浜はまるでプライベートビーチのよう。全室オーシャンフロントのゆったりとした各お部屋からは、時として頭上を鳥が舞い、直下に魚の群れ泳ぐ姿や飛び跳ねる音がして、その迫力ある臨揚感には誰もが驚かれることでしょう。室内に居ながら、沖縄の自然をご体感いただけます。また、本館と回廊でつながる離れ「伽藍　別館」は静寂を保てる完全プライベート空間で、本館で唯一12歳未満のお子様もご宿泊いただけ、親子三世代でのご利用も可能です。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ジ・ウザテラス ビーチクラブヴィラズ 　客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8720001/87200011000000037.jpg\" alt\u003d\" 海に面し開放的な貸切露天風呂 「方丈庵」\"\u003e最上階に昇るとそこはまるでひとつの村のよう。石垣から覗く山を背に、「方丈庵」と名付けた貸切の小部屋が6つ連なり、それぞれ海に面した露天風呂が設けられています。遮るものひとつない開放的な空には、朝日・夕日そして月や星を望むことができます。空色に染め揺れる湯に浸かりながら、呼吸はゆっくりと波のリズムを刻みます。心身と自然が調和する、「無垢の時間」をお過ごしください。",
+        "sectionLevel": "h4",
+        "sectionTitle": "日常では見る事の少ない果実や島野菜との出会い「 農園ツアー 」"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8706002/87060020004030100.jpg\" alt\u003d\" 【THE HIRAMATSU HOTELS\u0026RESORTS 宜野座】東海岸に位置する美食リゾート\"\u003e沖縄本島のほぼ中央部・東海岸に位置し、コバルトブルーの海から亜熱帯グリーンまで、両方を味わえる魅力が詰まった宜野座村。水平線から昇る朝日が美しい東海岸ならではのロケーションに、ひらまつ初の美食リゾートが誕生。手つかずの自然が残る東海岸に佇む、全室オーシャンビュー、テラスジャグジーを設けたラグジュアリーなホテルです。開放感あふれる客室を中心に、プライベートを重視した海沿いに建つヴィラタイプの客室など、全室のテラスにジェットバスを設え、非日常の空間を演出しています。\u003cspan style\u003d\"font-weight: bold\"\u003e【お客様へのご案内】\u003c/span\u003eレストランや館内施設の営業内容が変更となる場合がございます。詳細はホームページよりご確認ください。",
+        "sectionLevel": "h2",
+        "sectionTitle": "5．南城市エリアの高級リゾートホテル"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8706002/87060021300000001.jpg\" alt\u003d\" THE HIRAMATSU HOTELS\u0026RESORTS 宜野座 　客室\"\u003eテラスにジェットバスが備わった客室は、コバルトブルーの海を望み、宜野座の豊かな自然を身近に感じることができる心地のよい空間になっています。景色を眺めながら、一日ソファやテラスのデイベッド、そしてジェットバスと思い思いの場所でゆったりとした時間をお過ごしください。エグゼクティブツインの客室からは、海に近い棟ならではの抜群の景色が楽しめます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【百名伽藍】神秘の地に佇む和琉様式の館"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8706002/87060021300000008.jpg\" alt\u003d\" 食材の厳選・絶妙な仕立てが魅力なHIRAMATSUの料理\"\u003e敷地内の高台に、宜野座の自然と調和する造りが印象的なレストラン棟を構え、3フロアのダイニング、泡盛を古酒から楽しめるバーラウンジ、屋外には4つの個室があります。この地でしか味わえない食材とともに、全国からその時に最もおいしい食材を厳選し、それを土地の空気とも絶妙に合わせた仕立てが魅力です。",
+        "sectionLevel": "h4",
+        "sectionTitle": "百名伽藍 　客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8724004/87240041300000167.jpg\" alt\u003d\" 【ANAインターコンチネンタル石垣リゾート】充実の設備で大人から子どもまで楽しめる\"\u003eマエサトビーチ目の前、街の中心地までも車で約10分の好立地に位置する石垣島で屈指のラグジュアリーリゾートホテルです。2020年7月に新棟がオープンし、広大な敷地と充実の設備が大人から子供まで迎え入れます。クラブインターコンチネンタルご宿泊のお客様だけが利用できるクラブラウンジ。朝食からアフタヌーンティー・カクテルタイムまで、沖縄の旬な地元食材を使った特別な料理・サービスを、石垣島の美しい海を一望しながら五感でお楽しみいただけます。その他にも専用屋外プールや石鹸ソムリエによるオリジナル石鹸のプレゼントもあり、特別な宿泊体験が叶います。\u003cspan style\u003d\"font-weight: bold\"\u003e【お客様へのご案内】\u003c/span\u003eオーシャンウィング2F「大浴場（スパ＆サウナ）」については、大規模メンテナンスが必要なため当面の間営業を休止しております。※営業再開日は未定です。",
+        "sectionLevel": "h4",
+        "sectionTitle": "海に面し開放的な貸切露天風呂 「方丈庵」"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8724004/87240041300000209.jpg\" alt\u003d\" ANAインターコンチネンタル石垣リゾート 　客室\"\u003eクラブインターコンチネンタルルームは、ワンランク上の旅行を楽しみたいカップルやお子様連れにオススメ。日本初の一棟すべてがクラブインターコンチネンタル棟の客室です。バルコニーからの視界いっぱいに広がる穏やかな海を眺めながら上質な時間をお過ごしいただけます。JTBではJTB専用フロアをご用意しております。",
+        "sectionLevel": "h2",
+        "sectionTitle": "6．宜野座村エリアの高級リゾートホテル"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8724004/87240041300000187.jpg\" alt\u003d\" 海外リゾート気分を味わえるサンセットプール\"\u003eまるで海外リゾートに迷い込んだような、サンセットプール。ジャグジーやキッズスペースもあり、ファミリーで楽しめます。風に揺られるヤシの木を眺めながらカバナに寝ころんでお昼寝したり、本を読んだり…南の島の特別な空間で現実世界から引き離されてみてはいかがでしょうか。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【THE HIRAMATSU HOTELS\u0026RESORTS 宜野座】東海岸に位置する美食リゾート"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8724007/87240071300000020.jpg\" alt\u003d\" 【フサキビーチリゾート　ホテル＆ヴィラズ】石垣島最大級の屋外プールと朝食ブッフェが自慢\"\u003e石垣島の西海岸に位置し、昼間は素晴らしいオーシャンビュー、夕刻には優彩なサンセット、夜には世界有数と言われる石垣島の星空をご覧になれます。様々な客室タイプと、味・空間にこだわった多彩なレストラン、大規模な屋外プール、天気や時期を選ばずに楽しめるスパ施設など、広大な敷地と様々な仕掛けでホテル滞在をアクティブに楽しみたい方にうってつけのリゾートホテルです。約1キロのビーチ沿いに広がる屋外プール（季節営業）は、1日だけでは遊び足りない最高のリゾート空間です。巨大バケツ からおよそ2トンもの大量の水が解き放たれるスプラッシュパークや、3つに重なる紺碧のビーチサイドプールで、大人から子供まで楽しめる極上のリゾートステイを堪能してみてはいかがでしょうか。",
+        "sectionLevel": "h4",
+        "sectionTitle": "THE HIRAMATSU HOTELS\u0026RESORTS 宜野座 　客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8724007/87240071300000150.jpg\" alt\u003d\" フサキビーチリゾート　ホテル＆ヴィラズ 　客室\"\u003eエメラルドグリーンの海をゆっくり堪能したい！という方にオススメしたいのが「オーシャンビューツイン」。石垣島の青い空と海をすぐに感じられる客室でのひとときは、きっと忘れられない思い出となるはず。",
+        "sectionLevel": "h4",
+        "sectionTitle": "食材の厳選・絶妙な仕立てが魅力なHIRAMATSUの料理"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8724007/87240071300000221.jpg\" alt\u003d\" 約80種におよぶ豊富なメニューが魅力の朝食ブッフェ\"\u003e種類豊富で好評な朝食ブッフェ は、スタイルの異なる２つのダイニングで楽しめます。「ISHIGAKI　BOLD　KICHEN」ではライブキッチンと洋食メニューを中心に構成。「琉球新天地」では、中華やアジア、沖縄料理や和食を中心としたメニューがラインナップ。その日の気分に合わせて、島での豊かな朝食時間を愉しめます。",
+        "sectionLevel": "h2",
+        "sectionTitle": "7．石垣島エリアの高級リゾートホテル"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8723009/87230091000000188.jpg\" alt\u003d\" 【シギラベイサイドスイートアラマンダ】ウミガメの泳ぐラグーンが出迎える南国リゾート\"\u003eウミガメが泳ぐラグーンを通り、高い吹き抜けが開放的なロビーの先には、南国の植物を植栽したプール、さらに奥には日の光に輝く青い海が広がります。ヴィラやラグーン、ホテルタイプ等様々な客室を備えた全室スイートタイプの、大人のためのリゾートホテルです。ホテル館内には和食・鉄板焼・洋食のレストランとバーがあり、その日の気分で食事を楽しむことができます。バーラウンジ「マイヨール」では、ライトアップされたプールの幻想的な夜景を眺めながら、恋人や友人とでも、もちろん一人でも思い思いに宮古島の大人の夜を満喫することができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【ANAインターコンチネンタル石垣リゾート】充実の設備で大人から子どもまで楽しめる"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8723009/87230091300000096.jpg\" alt\u003d\" シギラベイサイドスイートアラマンダ 　客室\"\u003e全ての客室にプライベートプールを備えた「プールヴィラロイヤルスイート」。ラグジュアリーな琉球らしい内装で、一歩足を踏み入れると特別な南国ステイが始まります。プライベートな空間で、ご夫婦やカップルの記念日に何度も訪れたくなる楽園です。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ANAインターコンチネンタル石垣リゾート 　客室"
+      },
+      {
+        "description": "100万坪の広大な南西楽園リゾートエリア内にあるゴルフ場「シギラベイカントリークラブ」は、日本で唯一すべてのホールから海望むことができます。シギラリゾート宿泊者料金の設定もあり、敷地内で便利にアクティビティを楽しむことができます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "海外リゾート気分を味わえるサンセットプール"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8723017/87230171300000167.jpg\" alt\u003d\" 【ホテルシギラミラージュ】美しい海と空が溶け込む「青の楽園」\"\u003e宮古島で屈指の大型リゾート施設にオープンしたホテルシギラミラージュのコンセプトは「青の楽園」。ホテルタイプとプライベートプール付きヴィラタイプのお部屋があり、多彩なご滞在スタイルを可能にします。上質な設備を有する客室や、豊かな自然の恵みを生かしたダイニングなどワンランク上のひと時を叶えてくれるでしょう。ベイサイドのミラージュフロア、ヒルサイドにご宿泊のお方限定で利用できるクラブラウンジでは、大きな窓からの景色と潮風が心地よい空間で、軽食やドリンクを楽しめます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【フサキビーチリゾート　ホテル＆ヴィラズ】石垣島最大級の屋外プールと朝食ブッフェが自慢"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8723017/87230171300000178.jpg\" alt\u003d\" ホテルシギラミラージュ 　客室\"\u003e小高い丘に建つヒルサイドの客室はプライベートプールとデイベッドを備えたヴィラタイプの客室です。プールは冬季温水対応のため、季節を問わず利用することができます。色鮮やかな客室とプールと直結した広々としたバスルームで、誰にも邪魔されない格別のリゾート気分を満喫してみては？",
+        "sectionLevel": "h4",
+        "sectionTitle": "フサキビーチリゾート　ホテル＆ヴィラズ 　客室"
+      },
+      {
+        "description": "ミラージュフロアなどの特定客室タイプに宿泊されるお客様専用のクラブラウンジは、テラス席と仕切りがない開放感のある造り。時間とともに移り行く宮古島の蒼い海を眺めながら、心地よい潮風を感じることができます。チェックインのお手続きから、スイーツやフィンガーフードまで、静かで落ち着いた大人の贅沢を体感いただけます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "約80種におよぶ豊富なメニューが魅力の朝食ブッフェ"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8723016/87230161300000138.jpg\" alt\u003d\" 【イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古】伊良部ブルーを眺めるリゾート\"\u003e宮古島から橋で繋がる伊良部島に位置する、計58室のスモールラグジュアリーホテル。正面玄関の2枚の扉を進むと、その外観からは想像もできないような、伊良部ブルーを眺める開放感あふれた美しい空間がドラマチックに現れます。手付かずの自然あふれる伊良部島の景色が映える極上のリゾートホテルです。伊良部島の青い海にまっすぐ伸びたインフィニティプールでは、プールサイドのデイベッドで寛いだり、本を読んだり、ランチをいただいたり…至極のリゾートステイを堪能できます。 （営業時間：4月1日～11月30日 ）毎日サンセットタイムに合わせてシャンパンをいただける「サンセットディライト」を開催。プールサイドやロビーなど思い思いの場所で絶景を眺めながらドリンクを楽しめます。夕日を眺めながらシャンパンを傾けていると、ゆったりとした島時間に自然と包み込まれます。\u003cspan style\u003d\"font-weight: bold\"\u003e【お客様へのご案内】\u003c/span\u003e・フィットネスセンター／24時間営業",
+        "sectionLevel": "h2",
+        "sectionTitle": "8．宮古島エリアの高級リゾートホテル"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8723016/87230161300000076.jpg\" alt\u003d\" イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古 　客室\"\u003e伊良部島の白砂ビーチを彷彿させるようなアースカラーを基調とした客室は、全室45平米以上のゆとりのある造り。オーシャンビュールームの広いテラスでは、ソファに腰掛けながら時間とともに移り行く伊良部島の海を心行くまで楽しめます。落ち着いた爽やかな雰囲気の客室は、間違いなく滞在の特別な思い出になるでしょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【シギラベイサイドスイートアラマンダ】ウミガメの泳ぐラグーンが出迎える南国リゾート"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8723016/87230161300000098.jpg\" alt\u003d\" 非日常空間でゆったりとした島時間を\"\u003e三方の大きな窓から美しい海を見渡すことができる、絶景のレストラン「TIN’IN（てぃんいん）」では島食材を使用したこだわりのフレンチを楽しめます。ソムリエがセレクトしたワインのマリアージュと美しい空間が、極上の贅沢を叶えてくれます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "シギラベイサイドスイートアラマンダ 　客室"
+      },
+      {
+        "description": "与那覇前浜ビーチの目の前に位置し、館内のどこにいても感動的な青い海を体感できます。ファミリールームからスイートまで、多様な客室があるのでお子様連れやご夫婦、グループ旅行まで幅広く楽しめるホテルです。宮古島の中でも歴史のある老舗ホテルですが、思わず「ただいま」と言いたくなるような心地よい雰囲気がお客様を迎え入れます。お部屋から手軽に与那覇前浜ビーチで遊べるのは、宮古島東急ホテル＆リゾーツの最大の魅力です。宮古の海と風を感じるヨットクルーズや、夕日に染まる前浜ビーチを眺めながらのバーベキューなど、幻想的な風景を豊富なアクティビティで楽しめます。\u003cspan style\u003d\"font-weight: bold\"\u003e【お客様へのご案内】\u003c/span\u003e館内営業内容の変更詳細については、ホテルホームページにてご確認をお願いいたします。",
+        "sectionLevel": "h4",
+        "sectionTitle": "リゾート内の絶景ゴルフコースを満喫"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8723004/87230041300000106.jpg\" alt\u003d\" 宮古島東急ホテル＆リゾーツ　客室\"\u003eコーラルウィングのプレミアムツインワイドビューバスルームでは、客室の大きな窓やバスルームからも絶景の海を眺めることができます。シックで落ち着いた色調の客室が、より一層エメラルドグリーンの海を際立たせます。デイベッドで寛ぎながら自分だけの贅沢な眺めと時間を楽しんでみてはいかがでしょうか。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【ホテルシギラミラージュ】美しい海と空が溶け込む「青の楽園」"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/8/8723004/87230041300000033.jpg\" alt\u003d\" 宮古島でこだわりの薪を使った釜炊きご飯を楽しむ\"\u003eレストラン「やえびし」では、薪を使って釜で炊いた白米がいただけます。ガラス張りの部屋では実際にかまどで炊飯している様子を見ることができ、炊き立てのご飯がどんどんと運ばれていく様子から高揚感が高められます。こだわりのご飯や総菜が、和食の魅力を再発見させてくれます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ホテルシギラミラージュ 　客室"
+      },
+      {
+        "description": "JTBでは、「旅の過ごし方対象プラン」で予約すると沖縄本島・離島合わせて32か所、滞在中に全施設1回ずつ利用できる「沖縄満喫クーポン」を利用できます。QRコードの提示だけで対象施設に入場できて便利。ナゴパイナップルパークやDINO恐竜PARK、おきなわワールドなど子どもが楽しめる施設が豊富なのがうれしいポイントです。石垣島や宮古島の施設も対象なので、長めの滞在で離島まで足を延ばしてみるのもおすすめですよ。32か所も含まれているので、1回の沖縄旅行で行きたいところすべてを観光できなかった方は、ぜひ次の沖縄旅行もJTBで予約して、「沖縄満喫クーポン」を活用してみてください！",
+        "sectionLevel": "h4",
+        "sectionTitle": "宿泊ゲスト専用のクラブラウンジで贅沢な時を"
+      },
+      {
+        "description": "「JTBラウンジ」があるホテルなら、いつでもラウンジでラグジュアリーなホテル滞在を楽しめるのも魅力。「JTBラウンジ」とは、ホテル滞在中なら毎日何度でも料金不要で利用できる、JTBのお客様専用のサービスです。スイーツ・ドリンク食べ放題で、リッチなホテルステイを体験できます。例えば「ルネッサンスリゾート オキナワ」のJTBラウンジなら以下のような贅沢なサービス付き！・ホテル自慢のスイーツとソフトドリンクが食べ放題・好みのトッピングでオリジナルクレープづくり・ハッピーアワーでアルコールドリンクとおつまみを楽しめるぜひ沖縄旅行の際はJTBで予約して、ホテルステイを楽しみましょう！",
+        "sectionLevel": "h3",
+        "sectionTitle": "【イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古】伊良部ブルーを眺めるリゾート"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古 　客室"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "非日常空間でゆったりとした島時間を"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "【宮古島東急ホテル＆リゾーツ】ビーチが目の前！歴史ある老舗ホテル"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "宮古島東急ホテル＆リゾーツ　客室"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "宮古島でこだわりの薪を使った釜炊きご飯を楽しむ"
+      },
+      {
+        "sectionLevel": "h2",
+        "sectionTitle": "【JTB沖縄旅行の魅力】「沖縄満喫クーポン」で32か所料金不要"
+      },
+      {
+        "sectionLevel": "h2",
+        "sectionTitle": "【JTB沖縄旅行の魅力】JTBラウンジ利用で快適なホテルステイ"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kokunai_0003"
+    ],
+    "c_news_PublicationDate": "2021-12-22",
+    "c_news_UpdateDate": "2024-04-17",
+    "c_news_ViewCount": "2386",
+    "c_news_ViewCount2of2": "2386",
+    "c_news_ViewCountNum": "2386",
+    "c_news_ViewCountNumForSorting": "151",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0004",
+    "name": "沖縄の高級リゾートホテル23選～ワンランク上のラグジュアリーステイ～",
+    "slug": "kokunai/okinawa/okinawa_all/news_web_kokunai_0004",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

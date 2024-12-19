@@ -1,0 +1,264 @@
+{
+  "$id": "news_ap_area_0000015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "札幌旅なら絶対にはずせない！「大通公園」を思いっきり楽しむコツ【北海道】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 400,
+      "sourceUrl": "http://a.mktgcdn.com/p/50dVpSiHjNWSc8jdNM6NUwtf6r1B-ogW-onQr9iyDpE/600x400.jpg",
+      "thumbnails": [
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/50dVpSiHjNWSc8jdNM6NUwtf6r1B-ogW-onQr9iyDpE/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/50dVpSiHjNWSc8jdNM6NUwtf6r1B-ogW-onQr9iyDpE/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/50dVpSiHjNWSc8jdNM6NUwtf6r1B-ogW-onQr9iyDpE/600x400.jpg",
+      "width": 600
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "札幌旅行・ツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/sapporo/"
+      },
+      {
+        "linkText": "札幌のホテル・旅館・宿をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/01100/"
+      },
+      {
+        "linkText": "札幌のおすすめホテル・旅館ランキングをみる",
+        "uRL": "https://www.jtb.co.jp/ranking/kokunai/sapporo/"
+      },
+      {
+        "linkText": "札幌の航空券付きホテルをみる",
+        "uRL": "https://www.jtb.co.jp/kokunai_air/a/010101/"
+      },
+      {
+        "linkText": "北海道のホテル・旅館・宿をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/hokkaido/"
+      },
+      {
+        "linkText": "北海道旅行・ツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/hokkaido/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "北海道・札幌にある「大通公園」は、札幌に訪れたら必ず押さえておきたい大定番のスポット。記念写真を撮ったりイベントに参加したりして、思う存分楽しみたいですね。公園の東側に隣接する「さっぽろテレビ塔」や、ほど近くにある「札幌市時計台」も併せて、「大通公園」観光のコツを紹介します。",
+    "c_ap_Tags": [
+      "インスタ映え",
+      "定番",
+      "札幌",
+      "公園",
+      "リモートコンシェルジュ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "建築・史跡",
+      "動植物園・公園",
+      "街あるき"
+    ],
+    "c_ap_Title": "札幌旅なら絶対にはずせない！「大通公園」の見どころ紹介【北海道】",
+    "c_linkedArea3News": [
+      "hokkaido_all"
+    ],
+    "c_metaDescription": "北海道・札幌にある「大通公園」は、見どころ満載の大定番のスポット！記念写真を撮ったりイベントに参加したりして、思う存分楽しみましょう。周辺の「さっぽろテレビ塔」や「札幌市時計台」も併せてご紹介。",
+    "c_metaTitle": "札幌旅なら絶対にはずせない！「大通公園」の見どころ紹介【北海道】",
+    "c_news_CTAs": [
+      {
+        "label": "札幌旅行・ツアー・パックをみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/sapporo/",
+        "linkType": "URL"
+      },
+      {
+        "label": "札幌のホテル・旅館・宿をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/01100/",
+        "linkType": "URL"
+      },
+      {
+        "label": "札幌のおすすめホテル・旅館ランキングをみる",
+        "link": "https://www.jtb.co.jp/ranking/kokunai/sapporo/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "大通公園の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/0110007/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "さっぽろテレビ塔周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/A0300140/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "北海道の見どころ4大エリアをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/hokkaido/hokkaido_all/news_ap_area_0000013",
+          "linkType": "URL"
+        },
+        "description": "「大通公園」は、ぜひカメラを持って訪れたい観光スポットです。隣接する「さっぽろテレビ塔」や、著名な彫刻家イサム・ノグチが遺した作品『ブラック・スライド・マントラ』、種々の花が咲き乱れる花壇と噴水などは、ぜひ写真に収めておきたいですね。また、大規模なイベントの会場としてもよく用いられ、70年以上の歴史を誇る「さっぽろ雪まつり」や、すっかり夏の風物詩として定着した「YOSAKOIソーラン祭り」も、この場所で開催されてきました。そのほか、季節に応じた魅力的なイベントが催されているので、時期を狙って足を運んでみてはいかがでしょうか。",
+        "image": {
+          "height": 639,
+          "sourceUrl": "https://a.mktgcdn.com/p/vZydd1cGgeKcL-o95OMHnnsmW0bJu0fNfB8ACqHsyFQ/957x639.jpg",
+          "thumbnails": [
+            {
+              "height": 639,
+              "url": "https://a.mktgcdn.com/p-sandbox/25fWL4LksyNw28jBgjM3xva2fl860XRiMLwJWF5zGQ0/957x639.jpg",
+              "width": 957
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/25fWL4LksyNw28jBgjM3xva2fl860XRiMLwJWF5zGQ0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/25fWL4LksyNw28jBgjM3xva2fl860XRiMLwJWF5zGQ0/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/25fWL4LksyNw28jBgjM3xva2fl860XRiMLwJWF5zGQ0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/25fWL4LksyNw28jBgjM3xva2fl860XRiMLwJWF5zGQ0/957x639.jpg",
+          "width": 957
+        },
+        "imageCaption": "園内には色とりどりの花が咲く花壇や大きな噴水も",
+        "infoBlockLabel": "大通公園（おおどおりこうえん）の情報",
+        "infoBlockText": "電話：011-251-0438（大通公園管理事務所） 住所：北海道札幌市中央区大通西1丁目～12丁目料金：なし 営業時間：なし定休日：なし駐車場：札幌大通地下駐車場など近隣の有料駐車場を利用",
+        "sectionTitle": "「大通公園」のフォトスポットで撮影を楽しむ"
+      },
+      {
+        "cTA1": {
+          "label": "さっぽろテレビ塔展望台のチケットをみる",
+          "link": "https://www.jtb.co.jp/leisure/fp/qKS005477/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "街を見渡そう！札幌2大展望スポットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/hokkaido/hokkaido_all/news_ap_k_anzai602_008",
+          "linkType": "URL"
+        },
+        "description": "札幌の中心部を東西に延びる「大通公園」のなかにあり、札幌のランドマークとなっているのが「さっぽろテレビ塔」です。公園に立ち並ぶ木々の合間から見える塔のフォルムは存在感抜群で、思わずカメラを構えたくなるほど。展望台からの景色も最高で、札幌の街全体がイルミネーションで彩られる冬は、幻想的な夜景を見下ろすことができますよ。こちらに訪れた際は、さっぽろテレビ塔非公式キャラクター「テレビ父さん」のグッズをゲットするのも忘れずに。愛らしいぬいぐるみストラップなどが人気です。",
+        "image": {
+          "height": 399,
+          "sourceUrl": "https://a.mktgcdn.com/p/tHOu1ut6Es0K0S4KabFw7Ge-66aAmTa6RIk2Fcy2VOc/532x399.jpg",
+          "thumbnails": [
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/n33N64qKOSBxT_I6VS8MNvZhEw5dRLVgIWT1s_q8kaE/532x399.jpg",
+              "width": 532
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/n33N64qKOSBxT_I6VS8MNvZhEw5dRLVgIWT1s_q8kaE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/n33N64qKOSBxT_I6VS8MNvZhEw5dRLVgIWT1s_q8kaE/532x399.jpg",
+          "width": 532
+        },
+        "imageCaption": "展望台から「大通公園」と札幌の街並みが一望できます",
+        "infoBlockLabel": "さっぽろテレビ塔の情報",
+        "infoBlockText": "電話：011-241-1131住所：北海道札幌市中央区大通西1営業時間：9～22時(入場～21時50分)定休日：不定休",
+        "sectionTitle": "「さっぽろテレビ塔」でオリジナルグッズをゲット"
+      },
+      {
+        "cTA1": {
+          "label": "大通公園からスタート！札幌観光の1泊2日王道モデルコースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/hokkaido/hokkaido_all/news_ap_area_0000014",
+          "linkType": "URL"
+        },
+        "description": "札幌の定番観光スポット「札幌市時計台」は、「大通公園」や「さっぽろテレビ塔」のすぐ近くにあります。国の重要文化財に指定されている貴重な建物ではありますが、意外とこじんまりしたフォルムから「がっかり名所」と言われてしまうことも……。実はこの時計台、札幌農学校の初代教頭だったクラーク博士が構想し、明治11年（1878）に演武場（屋内体育館）として建築された建物で、現存する国内最古の塔時計なんですよ。館内にある、時計台に関する資料や展示を見て回り、培われてきた歴史の重みを実感すれば、決して「がっかり」なんて言えなくなるはず！",
+        "image": {
+          "height": 392,
+          "sourceUrl": "https://a.mktgcdn.com/p/T1AGlyPa_5WdrM9kjF3qHPUqPuEmgXRsKOl9Lo6Yte0/588x392.jpg",
+          "thumbnails": [
+            {
+              "height": 392,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bx0o6T1Shyse0pkyZtPlWlsZe1nZ_uUEYf7WdXoGhEU/588x392.jpg",
+              "width": 588
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bx0o6T1Shyse0pkyZtPlWlsZe1nZ_uUEYf7WdXoGhEU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Bx0o6T1Shyse0pkyZtPlWlsZe1nZ_uUEYf7WdXoGhEU/588x392.jpg",
+          "width": 588
+        },
+        "imageCaption": "札幌に訪れたら「札幌市時計台」での記念撮影はマスト",
+        "infoBlockLabel": "札幌市時計台の情報",
+        "infoBlockText": "電話：011-231-0838住所：北海道札幌市中央区北1条西2丁目旧札幌農学校演武場営業時間：8時45分～17時10分(入館は～17時)定休日：1月1～3日",
+        "sectionTitle": "「札幌市時計台」で札幌の歴史に思いを馳せる"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_k_takeda507_001",
+      "news_ap_store_00001",
+      "news_ap_a_sato260_001",
+      "news_ap_chiki_100089",
+      "news_ap_k_anzai602_008",
+      "news_ap_a_ebe517_006",
+      "news_ap_a_ebe517_007",
+      "news_ap_y_sonoda006_002",
+      "news_ap_y_sonoda006_001",
+      "news_ap_k_okada018_005",
+      "news_ap_k_okada018_006",
+      "news_ap_s_hirota001_005",
+      "news_ap_s_hirota001_006",
+      "news_ap_m_takasawa518_008",
+      "news_ap_m_takasawa518_009",
+      "news_ap_a_sato260_007",
+      "news_ap_y_sakakibara002_001",
+      "news_ap_y_sakakibara002_002",
+      "news_ap_y_ichikawa501_008",
+      "news_ap_y_ichikawa501_007",
+      "news_ap_t_kodera531_008",
+      "news_ap_t_kodera531_007",
+      "news_ap_e_shinden034_003",
+      "news_ap_e_shinden034_002",
+      "news_ap_area_0000013",
+      "news_ap_k_takeda507_008",
+      "news_ap_k_takeda507_007",
+      "news_ap_area_0000014",
+      "news_ap_s_suzuki146_008",
+      "news_ap_s_suzuki146_007"
+    ],
+    "c_news_FeaturedArticlesTitle": "北海道のその他の記事",
+    "c_news_PublicationDate": "2022-06-23",
+    "c_news_UpdateDate": "2024-09-12",
+    "c_news_ViewCount": "518",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "518",
+    "c_news_ViewCountNum": "518",
+    "c_news_ViewCountNumForSorting": "28",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/hokkaido/hokkaido_all/news_ap_area_0000015",
+    "name": "【北海道】札幌旅なら絶対にはずせない！「大通公園」の見どころ紹介",
+    "slug": "kokunai/hokkaido/hokkaido_all/news_ap_area_0000015",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "リモコン記事"
+  ]
+}

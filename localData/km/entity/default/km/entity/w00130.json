@@ -1,0 +1,14 @@
+{
+  "$id": "w00130",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_answer_HTML": "ご利用列車が停車する駅であれば、乗下車可能です。\u003cbr\u003e（例：東京駅ー仙台駅でご予約済の場合、上野駅での乗下車可）\u003cbr\u003e但し、ご乗車にならない区間は権利放棄となり差額返金はございません。\u003cbr\u003eまた、自動改札機がご利用いただけない可能性がございます。その場合、有人改札をご利用ください。\u003cbr\u003eなお、予約している駅と乗車駅があまりにも乖離がある場合など駅係員の判断で止められる可能性がございますのであらかじめご了承ください。\u003cbr\u003e\u003cbr\u003e※途中下車はできません。\u003cbr\u003eきっぷに記載の駅以外で下車された場合は未使用区間は権利放棄となります。",
+    "landingPageUrl": "https://customerhelp.jtb.co.jp/s/article/w00130",
+    "name": "【国内ツアー（新幹線・JR＋ホテル・旅館）】ご予約済の駅と違う駅での乗下車について",
+    "question": "【国内ツアー（新幹線・JR＋ホテル・旅館）】ご予約済の駅と違う駅での乗下車について"
+  },
+  "entityType": "faq",
+  "labels": []
+}

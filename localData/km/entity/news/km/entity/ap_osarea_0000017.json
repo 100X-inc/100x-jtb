@@ -1,0 +1,342 @@
+{
+  "$id": "news_ap_osarea_0000017",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 加川香菜子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "ハワイの美酒と夜景を堪能できるレストラン・バー5選【ハワイ　ホノルル】",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/6pDGPvlbeyle7ICIeE23uXS37V1mHvWx8Uh22YXhuYQ/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/6pDGPvlbeyle7ICIeE23uXS37V1mHvWx8Uh22YXhuYQ/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/6pDGPvlbeyle7ICIeE23uXS37V1mHvWx8Uh22YXhuYQ/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/6pDGPvlbeyle7ICIeE23uXS37V1mHvWx8Uh22YXhuYQ/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/6pDGPvlbeyle7ICIeE23uXS37V1mHvWx8Uh22YXhuYQ/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/6pDGPvlbeyle7ICIeE23uXS37V1mHvWx8Uh22YXhuYQ/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ハワイ旅行をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hawaii/"
+      },
+      {
+        "linkText": "ハワイの現地ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aHWI/"
+      },
+      {
+        "linkText": "ハワイのツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dHNL"
+      },
+      {
+        "linkText": "ハワイのホテルをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/"
+      },
+      {
+        "linkText": "ハワイの航空券をみる",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/hawaii/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "街や海がオレンジ色に染まるサンセットタイムから、ハワイの夜のお楽しみが始まります。ワイキキの街を眺めながら過ごすテラスバーや、波の音をBGMにくつろげるビーチサイドバーを訪れて、トロピカルカクテルで乾杯しましょう！（写真：スカイワイキキ）",
+    "c_ap_Tags": [
+      "ビーチ",
+      "ホノルル",
+      "絶景",
+      "夜景",
+      "オーシャンビュー",
+      "ルーフトップバー"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ",
+      "自然・山",
+      "グルメ",
+      "お酒",
+      "リゾート"
+    ],
+    "c_ap_Title": "ハワイの美酒と夜景を堪能できるレストラン・バー5選【ハワイ　ホノルル】",
+    "c_linkedArea3News": [
+      "hawaii"
+    ],
+    "c_metaDescription": "ハワイのサンセットと夜景を楽しめるレストラン・バーをご紹介。ワイキキの街を眺めながら過ごすテラスバーや、波の音をBGMにくつろげるビーチサイドバーを訪れて、トロピカルカクテルで乾杯しましょう！",
+    "c_metaTitle": "ハワイの美酒と夜景を堪能できるレストラン・バー5選【ハワイ　ホノルル】",
+    "c_news_CTAs": [
+      {
+        "label": "ハワイのホテルをみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/",
+        "linkType": "URL"
+      },
+      {
+        "label": "ハワイの現地ツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aHWI/",
+        "linkType": "URL"
+      },
+      {
+        "label": "ハワイ旅行をみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/hawaii/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "モアナ サーフライダー ウェスティン リゾート＆スパをみる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/755/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "オーシャンビューを満喫しながらホテル朝食を楽しもう！",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000004",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "ハワイの人気観光スポット特集をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_web_kaigai_0005",
+          "linkType": "OTHER"
+        },
+        "description": "地上19階からワイキキを一望できるルーフトップ・オイスターバー。ダイヤモンドヘッド、ワイキキの街並み、その先に広がる大パノラマのオーシャンビューを楽しめます。特にサンセットに染まる水平線は絶景です。「アイランド・マイタイ」$17は、そんな美しい夕日のように鮮やかなオレンジ色のカクテル。ほかにも「ココナッツ・ガール」$16などオリジナルのカクテルが満載です。新鮮なシーフードを味わえるのもこの店の魅力。バラエティーに富んだ生牡蠣$4～、地元で獲れたマグロのポキ$23、わさび醤油で食べるロブスターの刺身$24など、好みのシーフード料理をアラカルトでオーダーできます。毎日16時からお得なハッピーアワーも実施。ロマンチックなワイキキの夜をルーフトップで過ごしませんか。",
+        "image": {
+          "alternateText": "ルーフトップテラスからの眺め。夜はネオンがきらめく街並みを見られる",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/bGP4YsyT0mAIRvNSIx12yDQL7Ie_dO0af_K-QD407so/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/bGP4YsyT0mAIRvNSIx12yDQL7Ie_dO0af_K-QD407so/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/bGP4YsyT0mAIRvNSIx12yDQL7Ie_dO0af_K-QD407so/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/bGP4YsyT0mAIRvNSIx12yDQL7Ie_dO0af_K-QD407so/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/bGP4YsyT0mAIRvNSIx12yDQL7Ie_dO0af_K-QD407so/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bGP4YsyT0mAIRvNSIx12yDQL7Ie_dO0af_K-QD407so/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ルーフトップテラスからの眺め。夜はネオンがきらめく街並みを見られる",
+        "infoBlockLabel": "SKY WAIKIKIの情報",
+        "infoBlockText": "住所：2270 Kalakaua Ave.営業時間：ブランチ10～14時、ディナー16～23時（金・土曜は～24時）定休日：なし",
+        "sectionTitle": "スカイワイキキ（SKY WAIKIKI）"
+      },
+      {
+        "cTA1": {
+          "label": "アウトリガー･ワイキキ･ビーチ･リゾートをみる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/662/",
+          "linkType": "URL"
+        },
+        "description": "ライフスタイルブランド「トミー・バハマ」が手がけるレストランバー。大きな窓があり開放感抜群の室内ラウンジと、ワイキキの街を見渡せるルーフトップがあります。プルメリアが飾られたサングリアは1杯$12.50。白身魚のマヒマヒを使用したタコスなど、新鮮な食材を使ったフードメニューも評判です。",
+        "image": {
+          "alternateText": "大きな窓があり開放的な室内ラウンジ",
+          "height": 666,
+          "sourceUrl": "https://a.mktgcdn.com/p/VhKSZNbX1fYv2yBJJe8hOgqHG_Hk0glzEsMfGG1iyyI/1000x666.jpg",
+          "thumbnails": [
+            {
+              "height": 666,
+              "url": "https://a.mktgcdn.com/p-sandbox/VhKSZNbX1fYv2yBJJe8hOgqHG_Hk0glzEsMfGG1iyyI/1000x666.jpg",
+              "width": 1000
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/VhKSZNbX1fYv2yBJJe8hOgqHG_Hk0glzEsMfGG1iyyI/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/VhKSZNbX1fYv2yBJJe8hOgqHG_Hk0glzEsMfGG1iyyI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/VhKSZNbX1fYv2yBJJe8hOgqHG_Hk0glzEsMfGG1iyyI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VhKSZNbX1fYv2yBJJe8hOgqHG_Hk0glzEsMfGG1iyyI/1000x666.jpg",
+          "width": 1000
+        },
+        "imageCaption": "大きな窓があり開放的な室内ラウンジ",
+        "infoBlockLabel": "Tommy Bahama Restaurant, Bar \u0026 Storeの情報",
+        "infoBlockText": "住所：298 Beachwalk Dr. 2・4F営業時間：14～21時定休日：なし",
+        "sectionTitle": "トミー・バハマ レストラン バー＆ストア（Tommy Bahama Restaurant, Bar \u0026 Store）"
+      },
+      {
+        "cTA1": {
+          "label": "バーの前にビーチを満喫しよう！ハワイの無料ビーチをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000016",
+          "linkType": "OTHER"
+        },
+        "description": "ワイキキで最も古い歴史を持つリゾートホテル「モアナ サーフライダー ウェスティン リゾート＆スパ」。そのシンボルツリーである、樹齢100年超のバニヤン・ツリーの周辺に広がっているのが「ザ・ビーチ・バー」です。メニューはココナッツ風味の「リップ・タイド・カクテル」$20といったトロピカルカクテルをはじめ、肉厚パテのバーガー$29などお腹も大満足のフード、ちょっとしたおつまみなど多彩に揃っています。時間によってライブ演奏とフラダンスが行われ、ほろ酔い気分をさらに盛り上げてくれます。日本語メニューがあるほか、日本語を話せるスタッフがいるのもうれしいポイント。",
+        "image": {
+          "alternateText": "バニヤン・ツリーの木陰にあり、昼間でも涼しさを感じられる",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/8uUt4KEbdP0BzndIAJFDaEOYfkslj5mkpIO2LFazQC4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/8uUt4KEbdP0BzndIAJFDaEOYfkslj5mkpIO2LFazQC4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/8uUt4KEbdP0BzndIAJFDaEOYfkslj5mkpIO2LFazQC4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/8uUt4KEbdP0BzndIAJFDaEOYfkslj5mkpIO2LFazQC4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/8uUt4KEbdP0BzndIAJFDaEOYfkslj5mkpIO2LFazQC4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8uUt4KEbdP0BzndIAJFDaEOYfkslj5mkpIO2LFazQC4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "バニヤン・ツリーの木陰にあり、昼間でも涼しさを感じられる",
+        "infoBlockLabel": "The Beach Barの情報",
+        "infoBlockText": "住所：2365 Kalakaua Ave. モアナ サーフライダー ウェスティン リゾート＆スパ1F営業時間：11時～22時30分定休日：なし",
+        "sectionTitle": "ザ・ビーチ・バー（The Beach Bar）"
+      },
+      {
+        "description": "「太平洋のピンクパレス」と親しまれる老舗ホテル内のビーチバー。ここで必ず頼みたいのが、トロピカルカクテルの女王ともいわれる「ロイヤル ハワイアン マイタイ」$20。1959年のバーのオープン以来変わらぬ味で、今やハワイのバーの定番となった伝説のカクテルです。ほかにもホテルの愛称を冠した「ピンクパレス」$18など、見た目もかわいいカクテルが充実。地元の一流ミュージシャンによるライブパフォーマンスも行われています。",
+        "image": {
+          "alternateText": "「マイタイ」はタヒチ語で「最高」という意味。同名のカクテルはマストで注文を",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/7pH8vdM3raSbYMGiG3qutFYE8-JOyQ38xjLT6TvvcbQ/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/l6YEqDW6tafhLHFMXq8HwWIbShFHFHLMDnCMvVKlnq8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/l6YEqDW6tafhLHFMXq8HwWIbShFHFHLMDnCMvVKlnq8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/l6YEqDW6tafhLHFMXq8HwWIbShFHFHLMDnCMvVKlnq8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/l6YEqDW6tafhLHFMXq8HwWIbShFHFHLMDnCMvVKlnq8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/l6YEqDW6tafhLHFMXq8HwWIbShFHFHLMDnCMvVKlnq8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「マイタイ」はタヒチ語で「最高」という意味。同名のカクテルはマストで注文を",
+        "infoBlockLabel": "Mai Tai Barの情報",
+        "infoBlockText": "住所：2259 Kalakaua Ave. ロイヤル ハワイアン ラグジュアリー コレクション リゾート1F営業時間：11～23時定休日：なし",
+        "sectionTitle": "マイタイ バー（Mai Tai Bar）"
+      },
+      {
+        "description": "ワイキキビーチの中心部にある「アウトリガー･ワイキキ･ビーチ･リゾート」1階にあるビーチフロントのレストラン。海沿いの席からは、雄大なダイヤモンドヘッド、そして太平洋に沈む夕日を見ることができます。Tシャツ＆サンダル姿といったラフな人も多く、入りやすいカジュアルな雰囲気。「ココナッツ・モヒート」$15や「エンドレスサマー」$14など、名前も見た目もトロピカルなカクテルがたくさん。ココナッツ風味のシュリンプはおつまみに最適です。毎晩行われる人気ロコバンドによるミュージックショーに耳を傾ければ、南国らしさを満喫できますよ。",
+        "image": {
+          "alternateText": "店内のバーカウンターはレトロ。海風を感じるテラス席もある",
+          "height": 1200,
+          "sourceUrl": "https://a.mktgcdn.com/p/YKKONiW3xum1uH7-QsWVS5Ei2TGNhZeMCkk9SKNpGq4/800x1200.jpg",
+          "thumbnails": [
+            {
+              "height": 1200,
+              "url": "https://a.mktgcdn.com/p-sandbox/YKKONiW3xum1uH7-QsWVS5Ei2TGNhZeMCkk9SKNpGq4/800x1200.jpg",
+              "width": 800
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/YKKONiW3xum1uH7-QsWVS5Ei2TGNhZeMCkk9SKNpGq4/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/YKKONiW3xum1uH7-QsWVS5Ei2TGNhZeMCkk9SKNpGq4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/YKKONiW3xum1uH7-QsWVS5Ei2TGNhZeMCkk9SKNpGq4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YKKONiW3xum1uH7-QsWVS5Ei2TGNhZeMCkk9SKNpGq4/800x1200.jpg",
+          "width": 800
+        },
+        "imageCaption": "店内のバーカウンターはレトロ。海風を感じるテラス席もある",
+        "infoBlockLabel": "Duke’s Waikikiの情報",
+        "infoBlockText": "住所：2335 Kalakaua Ave. アウトリガー･ワイキキ･ビーチ･リゾート1F営業時間：7～24時（バーは11時～）定休日：なし",
+        "sectionTitle": "デュークス・ワイキキ（Duke’s Waikiki）"
+      },
+      {
+        "description": "関連記事はこちら---------------------------------------------------------------------------------------------------------------------------"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000011",
+      "news_ap_osarea_0000012",
+      "news_ap_osarea_0000013",
+      "news_ap_osarea_0000014",
+      "news_ap_osarea_0000015",
+      "news_ap_osarea_0000016",
+      "news_ap_osarea_0000018",
+      "news_ap_osarea_0000019"
+    ],
+    "c_news_FeaturedArticlesTitle": "ハワイのその他の投稿記事",
+    "c_news_PublicationDate": "2023-05-30",
+    "c_news_UpdateDate": "2024-08-16",
+    "c_news_ViewCount": "342",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "342",
+    "c_news_ViewCountNum": "342",
+    "c_news_ViewCountNumForSorting": "25",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000017",
+    "name": "ハワイの美酒と夜景を堪能できるレストラン・バー5選【ハワイ　ホノルル】",
+    "slug": "kaigai/beach_resort/hawaii/news_ap_osarea_0000017",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

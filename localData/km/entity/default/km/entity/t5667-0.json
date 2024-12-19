@@ -1,0 +1,1463 @@
+{
+  "$id": "t5667-0",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "additionalHoursText": "受付終了時間　閉店時間の60分前となります。",
+    "address": {
+      "city": "大垣市",
+      "countryCode": "JP",
+      "line1": "大垣市外野２丁目１００",
+      "line2": "イオンモール大垣1階",
+      "postalCode": "503-0933",
+      "region": "岐阜県"
+    },
+    "addressHidden": false,
+    "appleBusinessDescription": "旅行予約はJTB！旅を楽しくする多彩なプラン、安心と信頼のツアーラインナップが満載。\n最新キャンペーンや店舗でのイベント情報など、当店の店舗ページで発信中！営業時間や受付状況、来店前のご案内など…詳しいご案内も掲載しています。",
+    "appleBusinessId": "1541297278883495936",
+    "appleCompanyId": "1480313529409856512",
+    "appleCoverPhoto": {
+      "alternateText": "JTB イオンモール大垣店",
+      "height": 2160,
+      "sourceUrl": "https://a.mktgcdn.com/p/aMySBNp-F8uHSdMslasT24t7XgVM76EltFYYhd-qmtI/3327x2160.jpg",
+      "thumbnails": [
+        {
+          "height": 2160,
+          "url": "http://a.mktgcdn.com/p-sandbox/aMySBNp-F8uHSdMslasT24t7XgVM76EltFYYhd-qmtI/3327x2160.jpg",
+          "width": 3327
+        },
+        {
+          "height": 1234,
+          "url": "http://a.mktgcdn.com/p-sandbox/aMySBNp-F8uHSdMslasT24t7XgVM76EltFYYhd-qmtI/1900x1234.jpg",
+          "width": 1900
+        },
+        {
+          "height": 402,
+          "url": "http://a.mktgcdn.com/p-sandbox/aMySBNp-F8uHSdMslasT24t7XgVM76EltFYYhd-qmtI/619x402.jpg",
+          "width": 619
+        },
+        {
+          "height": 390,
+          "url": "http://a.mktgcdn.com/p-sandbox/aMySBNp-F8uHSdMslasT24t7XgVM76EltFYYhd-qmtI/600x390.jpg",
+          "width": 600
+        },
+        {
+          "height": 127,
+          "url": "http://a.mktgcdn.com/p-sandbox/aMySBNp-F8uHSdMslasT24t7XgVM76EltFYYhd-qmtI/196x127.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/aMySBNp-F8uHSdMslasT24t7XgVM76EltFYYhd-qmtI/3327x2160.jpg",
+      "width": 3327
+    },
+    "c_altName": "JTB イオンモール大垣店",
+    "c_anchor1": "http://test.com#test",
+    "c_cTA0来店予約URL": "https://www.jtb.co.jp/shop/form/reserveC/Index.aspx?SHITEN_CD\u003dt5667-0",
+    "c_cTA0来店予約ラベル": "相談予約（来店／オンライン）",
+    "c_cTA1URL": "https://www.jtb.co.jp/shop/form/reserveC/Index.aspx?SHITEN_CD\u003dt5667-0",
+    "c_cTA1ラベル": "11/14までの相談予約\u003cbr/\u003eはこちら",
+    "c_cTA2URL": "[[c_pagesURL]]",
+    "c_cTA2ラベル": "お問い合わせ",
+    "c_cTA3URL": "http://www.jtb.co.jp/shop/form/explain/entry/list.asp?SHITEN_CD\u003dt5667-0",
+    "c_cTA3ラベル": "イベント予約",
+    "c_cTA6URL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVerBd",
+    "c_cTA6ラベル": "11/15以降の相談予約はこちら",
+    "c_locDescript": "イオンモール大垣店",
+    "c_newsPDFCTA1": {
+      "label": "はいさい沖縄チラシ.pdf",
+      "link": "https://a.mktgcdn.com/f/2016695/xt6PinF_Su89GC0hJlWQwBQ7E8KoUQcJu2tQ4Jzhdpk.pdf",
+      "linkType": "OTHER"
+    },
+    "c_onlineCode": "2541",
+    "c_organizationCode": "5667",
+    "c_pagesEventsURL": "https://stores.jtb.co.jp/t5667-0/events",
+    "c_pagesSortCode": "212024",
+    "c_pagesSortGroup": "B",
+    "c_pagesURL": "[[c_v2PagesURL]]",
+    "c_plusJTBTitle": "PLUS JTB",
+    "c_plusJTBリンク1URL": "https://www.jtb.co.jp/myjtb/card/card_list.asp?CODE\u003d2541",
+    "c_plusJTBリンク1ラベル": "JTB旅カード",
+    "c_plusJTBリンク3URL": "https://memb-web-moneytg.aplus.co.jp/TR001Action_doInit.action?kkkbn\u003dJT\u0026sscode\u003d5667",
+    "c_plusJTBリンク3ラベル": "世界のキャッシュカード",
+    "c_plusJTBリンク4URL": "https://tabitabibank.jtb.co.jp/jtb/memberAffiliate.do?SiteCode\u003d5667",
+    "c_plusJTBリンク4ラベル": "JTB旅行積立",
+    "c_plusJTBリンク5URL": "http://www.jtb.co.jp/shop/othersite/jihoken.asp?SHITEN_CD\u003dt5667-0\u0026P\u003d1",
+    "c_plusJTBリンク5ラベル": "JTB旅行保険",
+    "c_plusJTBリンク6URL": "http://www.dollar.co.jp/index.html?af\u003dJTBTL\u0026sc\u003d5667",
+    "c_plusJTBリンク6ラベル": "海外レンタカー",
+    "c_plusJTBリンク8URL": "http://www.jtb.co.jp/gift/",
+    "c_plusJTBリンク8ラベル": "JTBギフトシリーズ",
+    "c_socialFacebookURL": "https://www.facebook.com/jtb.jp",
+    "c_socialLINEURL": "https://line.me/ti/p/%40jtbhd",
+    "c_socialNoteURL": "https://note.com/jtb_note",
+    "c_socialYouTubeURL": "https://www.youtube.com/channel/UCjDeNR2xFC4wFh3txHql20Q",
+    "c_v2AboutLink1": {
+      "label": "JTB旅カード",
+      "link": "https://www.jtb.co.jp/myjtb/card/card_list.asp?CODE\u003d2541",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink2": {
+      "label": "ギフト券",
+      "link": "https://www.jtb.co.jp/gift/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink3": {
+      "label": "国内旅行保険",
+      "link": "https://dti.tabiho.jp/apply/#/?BranchCode\u003dHF\u0026ProducerCode\u003d9PQ\u0026KashoCode\u003d5667\u0026EntranceType\u003d01\u0026BoshuKbn\u003d01",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink4": {
+      "label": "海外旅行保険",
+      "link": "https://tabiho.jp/tb/Start.do?EntranceType\u003d01\u0026KashoCode\u003d0013\u0026ProducerCode\u003d9PM\u0026BranchCode\u003dHM",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink5": {
+      "label": "旅行積立",
+      "link": "https://www.jtb.co.jp/tabitabibank/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink6": {
+      "label": "海外・国内おみやげ",
+      "link": "https://shopping.jtb.co.jp/wsp/?reception\u003d915145",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutSectionTitle": "JTB イオンモール大垣店",
+    "c_v2AdditionalHoursText": "[[additionalHoursText]]",
+    "c_v2AdditionalHoursText1": "受付終了時間　各閉店時間の60分前となります。",
+    "c_v2AdditionalHoursText2": "定休日：不定休",
+    "c_v2AdditionalHoursText3": "年末年始休業日：１２月３０日～１月３日",
+    "c_v2AnchorButton4": {
+      "label": "JTBからのご案内"
+    },
+    "c_v2AvailableHoliday": [
+      "土曜",
+      "日曜",
+      "祝日"
+    ],
+    "c_v2AvailableService": [
+      "ウエディングコンサルタントのいるお店",
+      "クルーズコンサルタントのいるお店",
+      "来店予約を受付けているお店",
+      "国内航空券単一の取扱いはございません",
+      "ハワイスペシャリスト検定・上級のいるお店"
+    ],
+    "c_v2CTAGetDirection": {
+      "label": "アクセス"
+    },
+    "c_v2CTAGetDirectionMap": {
+      "label": "地図を見る",
+      "linkType": "OTHER"
+    },
+    "c_v2CTAReservation": {
+      "label": "相談予約\u003c/br\u003e（来店／オンライン）",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVerBd",
+      "linkType": "OTHER"
+    },
+    "c_v2CTASecondary1": {
+      "label": "ウエディング相談予約",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVerxG",
+      "linkType": "OTHER"
+    },
+    "c_v2CTASecondary2": {
+      "label": "海外旅行相談予約",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVckBG",
+      "linkType": "OTHER"
+    },
+    "c_v2CTATel1": {
+      "label": "●店舗の電話番号はこちら（来店予約、店舗で予約した旅行の変更や取消など）",
+      "link": "+81584880433",
+      "linkType": "PHONE"
+    },
+    "c_v2CTATel2": {
+      "link": "+81584880433",
+      "linkType": "PHONE"
+    },
+    "c_v2CTATel3": {
+      "label": "●店舗の営業時間内にお越しいただけない等でお困りのお客様へ　新規旅行の申込・相談は「JTB旅の予約センター」でも承っております（旅の予約センターでは、JR券のみのお取り扱いはございません）※この電話は店舗には繋がりません",
+      "link": "+815033817739",
+      "linkType": "PHONE"
+    },
+    "c_v2DomesticAirlineTicketsSubtitle": "※国内航空券の取扱いは店舗によって異なります。別途取扱料金を申し受けます（1区間あたり1,100円/人）",
+    "c_v2FacilitiesAndEquipment": [
+      "駐車場",
+      "バリアフリー出入口"
+    ],
+    "c_v2GiftCertificatesAndTravelCoupons": [
+      "JTB商品券（ナイスギフト）",
+      "JTB旅行券（ナイストリップ）",
+      "カード型旅行券（JTBトラベルギフト）",
+      "JTBカタログギフト（たびもの撰華）"
+    ],
+    "c_v2GiftCertificatesAndTravelCouponsSubtitle": "※商品の詳細は\u003ca href\u003d\"https://www.jtb.co.jp/gift/\" target\u003d\"_blank\"\u003eこちら\u003c/a\u003e（店頭支払方法は、現金のみ）",
+    "c_v2ImportantStoreInformationTag": {
+      "label": "ご来店前にお読みください",
+      "link": "#important-store-information",
+      "linkType": "OTHER"
+    },
+    "c_v2LocationPhotoList": [
+      {
+        "image": {
+          "height": 824,
+          "sourceUrl": "http://a.mktgcdn.com/p/q2c_Q3J0fh_BPjosxk8B2wvsoxowJ1jYs_vhn8Z4SNQ/1099x824.png",
+          "thumbnails": [
+            {
+              "height": 824,
+              "url": "http://a.mktgcdn.com/p-sandbox/q2c_Q3J0fh_BPjosxk8B2wvsoxowJ1jYs_vhn8Z4SNQ/1099x824.png",
+              "width": 1099
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p-sandbox/q2c_Q3J0fh_BPjosxk8B2wvsoxowJ1jYs_vhn8Z4SNQ/619x464.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/q2c_Q3J0fh_BPjosxk8B2wvsoxowJ1jYs_vhn8Z4SNQ/600x450.png",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p-sandbox/q2c_Q3J0fh_BPjosxk8B2wvsoxowJ1jYs_vhn8Z4SNQ/196x147.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/q2c_Q3J0fh_BPjosxk8B2wvsoxowJ1jYs_vhn8Z4SNQ/1099x824.png",
+          "width": 1099
+        }
+      }
+    ],
+    "c_v2MetaDescription": "[[c_altName]] | [[address.region]] [[address.city]] [[address.line1]] - JTBスタッフが旅心を刺激するご提案をいたします",
+    "c_v2MetaTitle": "[[c_altName]]: [[address.region]] [[address.city]]",
+    "c_v2News1": {
+      "description": "毎年大好評！沖縄伝統の歴史や芸能を体感『はいさい沖縄』ツアー　募集開始しました。\n \n【旅行日程】\n2024年1月25日（土）～1月27日（月）2泊3日\n\n【ここが魅力！！３つのポイント】\n★1日目　エンタメショー「杜の賑い沖縄」鑑賞★\n今年で40周年！沖縄の伝統芸能×現代の魅力を掛け合わせたエンターテイメントショー鑑賞付き♪\nクライマックスでは、約200人の演者がエイサーを披露し、会場全体が一体となるライブ感を体験いただきます。\n \n★選べる2つのコースをご用意★\n2日目以降は２つのコースから選べます\n①自分流にカスタマイズ！フリープランコース　お1人様99,000円（2･3名1室利用）\n②観光も食事もおまかせで安心♪名所観光コース　お1人様139,000円（2･3名1室利用）　※ガンガラーの谷、斎場御嶽、美ら海水族館など\n \n★こだわりのホテル★\n1泊目・・・国際通りの中心に立つハイクオリティホテル「ホテルコレクティブ」（那覇）\n2泊目・・・憧れのリゾートホテル「ザ・ブセナテラス」（名護）\n\n★沖縄旅行は初めての方も、リピーターの方も皆様お楽しみいただけること間違いなし！の「はいさい沖縄」ツアーです。\nぜひお気軽にご相談ください。\n\nデジタルパンフレットは\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca\nhref\u003d\"https://a.mktgcdn.com/f/2016695/xt6PinF_Su89GC0hJlWQwBQ7E8KoUQcJu2tQ4Jzhdpk.pdf\"\u003eこちら\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e！",
+      "endDate": "2024-12-27",
+      "image": {
+        "height": 251,
+        "sourceUrl": "https://a.mktgcdn.com/p/jJkg-M2Q2A_g1cYmjUCRWk0BMlsbs6TEUhUcalUiW8I/494x251.gif",
+        "thumbnails": [
+          {
+            "height": 251,
+            "url": "http://a.mktgcdn.com/p-sandbox/jJkg-M2Q2A_g1cYmjUCRWk0BMlsbs6TEUhUcalUiW8I/494x251.gif",
+            "width": 494
+          },
+          {
+            "height": 100,
+            "url": "http://a.mktgcdn.com/p-sandbox/jJkg-M2Q2A_g1cYmjUCRWk0BMlsbs6TEUhUcalUiW8I/196x100.gif",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/jJkg-M2Q2A_g1cYmjUCRWk0BMlsbs6TEUhUcalUiW8I/494x251.gif",
+        "width": 494
+      },
+      "pDF": {
+        "mimeType": "application/pdf",
+        "name": "はいさい沖縄チラシ.pdf",
+        "size": "6778352",
+        "sourceUrl": "https://a.mktgcdn.com/f/2016695/xt6PinF_Su89GC0hJlWQwBQ7E8KoUQcJu2tQ4Jzhdpk.pdf",
+        "url": "https://a.mktgcdn.com/f-sandbox/3326351/xt6PinF_Su89GC0hJlWQwBQ7E8KoUQcJu2tQ4Jzhdpk.pdf"
+      },
+      "startDate": "2024-09-09",
+      "tags": [
+        "岐阜支店特別企画"
+      ],
+      "title": "★はいさい沖縄3日間　好評販売中！★",
+      "url": "https://a.mktgcdn.com/f/2016695/xt6PinF_Su89GC0hJlWQwBQ7E8KoUQcJu2tQ4Jzhdpk.pdf"
+    },
+    "c_v2News2": {
+      "description": "2024～2025年の年末年始は最大9連休！\nまたとないこの機会に海外旅行へ出かけませんか？\n\n空席・空室残り僅かな方面もございますので、ご相談・ご予約はお早めに！\n\n★★おすすめ方面ベスト3★★\nNo1👑ハワイ\n年末年始年越しと言えば、王道のハワイ！日本の寒い冬を脱出！\nカウントダウンパーティーや花火などを目当てに、世界中から旅行者が訪れます🌺\n\nNo2👑バリ島\n1/1限定アヤナ バリ内で、JTBナイトを開催します。\n2025年の幕開けに、バリ舞踊やファイヤーダンスを観ながらバリの伝統料理\u0026インドネシア料理のビュッフェディナーをお楽しみください🍴\n\nNo3👑台湾\n12/31グランドハイアットで開催されるカウントダウンパーティーチケット付きパッケージがおすすめ！\n華やかな台北101の年越し花火をお楽しみください🎆\n\nデジタルパンフレットは\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca\nhref\u003d\"https://dp.jtb.co.jp/lookjtb/dp/pamphlet/2024_mix_8098109/?_gl\u003d1*1d7d4we*_gcl_au*Mzk0MjAxNjUzLjE3Mjc0MDkxMDA.*_ga*MTk1MjQ2MTk4MC4xNzI3Mzk4NTA2*_ga_KGZYYE4GBZ*MTcyNzQyMjIyMS4zLjEuMTcyNzQyMzM0OS4wLjAuNzgxMjczNQ..*_fplc*SXN1dDRDZjVYRnJaUU1XJTJCRmZ4ZFBKYjNLa09YUnRPQ3lQRmhBTnRzZEw3bGE1Tm5xRloxcGtsSjFnZWVSR05SZlRDZ3Y5ZWVyeVElMkZ2WjVTNTB2bFlKcFgyNFdYcGNiNkFPRzhJNDFMTzBaVzVBS1ZIQ1NlMUdoREpGdmM3USUzRCUzRA..*_ga_VD225PL9PE*MTcyNzQyMjIyMi4zLjEuMTcyNzQyMzM0OS4wLjAuODM3MDU2NDE1#8\"\u003eこちら\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e！",
+      "endDate": "2024-11-30",
+      "image": {
+        "height": 626,
+        "sourceUrl": "https://a.mktgcdn.com/p/Nqug4w4OIzUPL-9_q61Cl9iIDngD37VWZXkWtIEp1ms/1042x626.jpg",
+        "thumbnails": [
+          {
+            "height": 626,
+            "url": "http://a.mktgcdn.com/p-sandbox/Nqug4w4OIzUPL-9_q61Cl9iIDngD37VWZXkWtIEp1ms/1042x626.jpg",
+            "width": 1042
+          },
+          {
+            "height": 372,
+            "url": "http://a.mktgcdn.com/p-sandbox/Nqug4w4OIzUPL-9_q61Cl9iIDngD37VWZXkWtIEp1ms/619x372.jpg",
+            "width": 619
+          },
+          {
+            "height": 360,
+            "url": "http://a.mktgcdn.com/p-sandbox/Nqug4w4OIzUPL-9_q61Cl9iIDngD37VWZXkWtIEp1ms/600x360.jpg",
+            "width": 600
+          },
+          {
+            "height": 118,
+            "url": "http://a.mktgcdn.com/p-sandbox/Nqug4w4OIzUPL-9_q61Cl9iIDngD37VWZXkWtIEp1ms/196x118.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/Nqug4w4OIzUPL-9_q61Cl9iIDngD37VWZXkWtIEp1ms/1042x626.jpg",
+        "width": 1042
+      },
+      "startDate": "2024-09-27",
+      "tags": [
+        "海外旅行 /年末年始"
+      ],
+      "title": "年末年始は最大9連休！早めの予約で海外へ行こう！",
+      "url": "https://dp.jtb.co.jp/lookjtb/dp/pamphlet/2024_mix_8098109/?_gl\u003d1*y76aja*_gcl_au*Mzk0MjAxNjUzLjE3Mjc0MDkxMDA.*_ga*MTk1MjQ2MTk4MC4xNzI3Mzk4NTA2*_ga_KGZYYE4GBZ*MTcyNzQyMjIyMS4zLjEuMTcyNzQyMzAzOS4wLjAuNzgxMjczNQ..*_fplc*SXN1dDRDZjVYRnJaUU1XJTJCRmZ4ZFBKYjNLa09YUnRPQ3lQRmhBTnRzZEw3bGE1Tm5xRloxcGtsSjFnZWVSR05SZlRDZ3Y5ZWVyeVElMkZ2WjVTNTB2bFlKcFgyNFdYcGNiNkFPRzhJNDFMTzBaVzVBS1ZIQ1NlMUdoREpGdmM3USUzRCUzRA..*_ga_VD225PL9PE*MTcyNzQyMjIyMi4zLjEuMTcyNzQyMzAzOS4wLjAuODM3MDU2NDE1#1"
+    },
+    "c_v2News3": {
+      "description": "【ハワイ】\n・日本ご出発の150日前までのご予約完了で、5つのレストランから選べるディナー1回付き！\n・シェラトン ワイキキの人気のお部屋タイプを早期申込特別代金にてご用意！ \n\n【グアム】\n・日本ご出発の150日前までのご予約完了で、空港ラウンジが使えます！\n\n【シンガポール】\n・日本ご出発の50日前までのご予約完了で、移動に便利な交通ICカード「EZリンクカード」付き！\n・ザ・リッツカールトン・ミレニア・シンガポールの人気のお部屋タイプを早期申込特別代金にてご用意！ \n\n【バリ島】\n・日本ご出発の120日前までのご予約完了で、「専用車＆専任ガイドチャーター」を4時間⇒6時間に延長！\n・ルックJTBおすすめホテルで使える「ルームクレジット」付き！\n・アヤナヴィラズバリの人気のお部屋タイプを早期申込特別代金にてご用意！\n\n【台北】\n・日本ご出発の50日前までのご予約完了で、「マンゴーかき氷」クーポン付き！\n・リージェント台北の人気のお部屋タイプを早期申込特別代金にてご用意！",
+      "endDate": "2025-02-28",
+      "image": {
+        "height": 300,
+        "sourceUrl": "https://a.mktgcdn.com/p/1mKV_UbpDCiV-P7oVU67CMtnOlXF7qEvMxOe-_OC_9I/500x300.jpg",
+        "thumbnails": [
+          {
+            "height": 300,
+            "url": "http://a.mktgcdn.com/p-sandbox/dvb14yEhmWpOEYnrJecjUGffhCqhTrPRbHNmIUBh3Zw/500x300.jpg",
+            "width": 500
+          },
+          {
+            "height": 118,
+            "url": "http://a.mktgcdn.com/p-sandbox/dvb14yEhmWpOEYnrJecjUGffhCqhTrPRbHNmIUBh3Zw/196x118.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/dvb14yEhmWpOEYnrJecjUGffhCqhTrPRbHNmIUBh3Zw/500x300.jpg",
+        "width": 500
+      },
+      "startDate": "2024-05-22",
+      "tags": [
+        "★予約が早いともっと充実★"
+      ],
+      "title": "海外旅行は早期お申込みがオトク！"
+    },
+    "c_v2News4": {
+      "description": "中部発JALハワイ直行便利用で、ハワイへ出かけませんか？\n\n\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca\nhref\u003d\"https://dp.jtb.co.jp/lookjtb/dp/pamphlet/2024_hwi_8591101/#1\"\u003eこちら\u003c/a\u003e\u003c/span\u003e\u003c/font\u003eのコース限定の特典付き！\n\n【ポイント①】\nイタリアンレストラン「ラ・ベットラ・ワイキキ」でのディナー付き！（ドリンク1杯付き）\n\n【ポイント②】\nハレクラニ内「ハウス・ウィズアウト・ア・キー」での朝食をご用意！\n\n【ポイント③】\n20USドル分のABCギフトカード付き！\n\n【ポイント④】\n往復並び席をご用意！\n\nハワイのことなら、＜ハワイスペシャリスト上級＞を全員取得している当店に何なりとご相談くださいませ！！",
+      "endDate": "2025-01-31",
+      "image": {
+        "height": 724,
+        "sourceUrl": "https://a.mktgcdn.com/p/wVHExXtoHvz7Xy-FMH9bD85svMXeZKODleMuRDYAsqM/516x724.png",
+        "thumbnails": [
+          {
+            "height": 724,
+            "url": "http://a.mktgcdn.com/p-sandbox/wVHExXtoHvz7Xy-FMH9bD85svMXeZKODleMuRDYAsqM/516x724.png",
+            "width": 516
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/wVHExXtoHvz7Xy-FMH9bD85svMXeZKODleMuRDYAsqM/321x450.png",
+            "width": 321
+          },
+          {
+            "height": 275,
+            "url": "http://a.mktgcdn.com/p-sandbox/wVHExXtoHvz7Xy-FMH9bD85svMXeZKODleMuRDYAsqM/196x275.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/wVHExXtoHvz7Xy-FMH9bD85svMXeZKODleMuRDYAsqM/516x724.png",
+        "width": 516
+      },
+      "startDate": "2024-09-30",
+      "tags": [
+        "中部⇔ハワイ直行便利用"
+      ],
+      "title": "【名古屋発】JALで行くハワイ5･6･7日間",
+      "url": "https://dp.jtb.co.jp/lookjtb/dp/pamphlet/2024_hwi_8591101/#1"
+    },
+    "c_v2News6": {
+      "description": "新しいクルーズブランド「MITSUI OCEAN CRUISES」の第一弾、2024年より運航を開始するクルーズ船「MITSUI OCEAN FUJI」のファーストロングクルーズをJTBがチャーターします。\n\n～～～ベストシーズンに訪れる魅惑の秘境・南米へ～～～\n太平洋の美しい島々を巡りながら、絶景・秘境の宝庫南米大陸へ。\n息をのむような雄大な自然と野生動物、古代文明、情熱のサンバカーニバル、大航海時代の面影を遺す街に、多様な民俗文化。\n想像以上の感動体験が待つ、14の国・地域と19の港を巡ります。\n\n★お客様のご都合に合わせて、「91日間フルクルーズ」と「最短5日間から参加できる区間乗船クルーズ」をご用意！\n\n●「フルクルーズ＆現地発着区間クルーズ」のパンフレットは\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca\nhref\u003d\"https://dp.jtb.co.jp/lookjtb/dp/pamphlet/2025_cru_4491363/?_gl\u003d1*1b3lgxx*_gcl_aw*R0NMLjE3Mjc2NjExODQuRUFJYUlRb2JDaE1JdXRMem5jZnBpQU1WZTlkTUFoMTAyaXJWRUFBWUFTQUFFZ0l0TF9EX0J3RQ..*_gcl_au*MjAyNjgyMzIwMi4xNzIxMDIzODQ2*_ga*MTMzNzg3MDgwOC4xNjgwMTYxNDQ1*_ga_KGZYYE4GBZ*MTcyNzY2MDk0OC4zMDUuMS4xNzI3NjYyMDM3LjAuMC4xOTEyNzkxODk4*_fplc*aSUyQngyOXNHRDRCeXVacDBVWjNyV3o2ZnBQbkJSYk5hUGNCNExNNWNlJTJCWFI1eXpOSHpnR05LM3d5JTJCa1dLUEN1JTJGaUdza1hkTGZ2ajVvJTJGN28wdktyaHBQVTNobGklMkJndmFHS2p1TklxNmpJRTVwZ1NybFJZcGkzJTJCVnQxM082dkElM0QlM0Q.*_ga_VD225PL9PE*MTcyNzY2MDkyNS4yMy4xLjE3Mjc2NjIwMzcuMC4wLjE2Mjg3NDQ2MDg.#1\"\u003eこちら\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e！\n\n●「日本発着・現地観光付き区間クルーズ」のパンフレットは\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca\nhref\u003d\"https://dp.jtb.co.jp/lookjtb/dp/pamphlet/2024_cru_4491361/?_gl\u003d1*175oe7a*_gcl_aw*R0NMLjE3Mjc2NjExODQuRUFJYUlRb2JDaE1JdXRMem5jZnBpQU1WZTlkTUFoMTAyaXJWRUFBWUFTQUFFZ0l0TF9EX0J3RQ..*_gcl_au*MjAyNjgyMzIwMi4xNzIxMDIzODQ2*_ga*MTMzNzg3MDgwOC4xNjgwMTYxNDQ1*_ga_KGZYYE4GBZ*MTcyNzY2MDk0OC4zMDUuMS4xNzI3NjYzNTc2LjAuMC4xOTEyNzkxODk4*_fplc*aSUyQngyOXNHRDRCeXVacDBVWjNyV3o2ZnBQbkJSYk5hUGNCNExNNWNlJTJCWFI1eXpOSHpnR05LM3d5JTJCa1dLUEN1JTJGaUdza1hkTGZ2ajVvJTJGN28wdktyaHBQVTNobGklMkJndmFHS2p1TklxNmpJRTVwZ1NybFJZcGkzJTJCVnQxM082dkElM0QlM0Q.*_ga_VD225PL9PE*MTcyNzY2MDkyNS4yMy4xLjE3Mjc2NjM1NzYuMC4wLjE2Mjg3NDQ2MDg.#1\"\u003eこちら\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e！\n\nぜひお気軽に当店までお問い合わせくださいませ！",
+      "endDate": "2024-11-10",
+      "image": {
+        "height": 723,
+        "sourceUrl": "https://a.mktgcdn.com/p/jftducEg5dYncnWFJoxPPXMJXkDJRBYq8T-76JGxoHs/510x723.png",
+        "thumbnails": [
+          {
+            "height": 723,
+            "url": "http://a.mktgcdn.com/p-sandbox/jftducEg5dYncnWFJoxPPXMJXkDJRBYq8T-76JGxoHs/510x723.png",
+            "width": 510
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/jftducEg5dYncnWFJoxPPXMJXkDJRBYq8T-76JGxoHs/317x450.png",
+            "width": 317
+          },
+          {
+            "height": 278,
+            "url": "http://a.mktgcdn.com/p-sandbox/jftducEg5dYncnWFJoxPPXMJXkDJRBYq8T-76JGxoHs/196x278.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/jftducEg5dYncnWFJoxPPXMJXkDJRBYq8T-76JGxoHs/510x723.png",
+        "width": 510
+      },
+      "startDate": "2024-09-30",
+      "tags": [
+        "★JTBクルーズ全船貸切★"
+      ],
+      "title": "【2025年1月出発】南米ワールドクルーズ好評受付中！",
+      "url": "https://www.jtb.co.jp/cruise/mof/southamerica-worldcruise//?ref\u003d1"
+    },
+    "c_v2News7": {
+      "description": "ホノルルマラソン2024 ルックJTBMySTYLE\nおすすめポイント\n★☆★ルックJTBなら日本出発前から大会当日までしっかりサポート！☆★☆\n\n【日本出発前】\n・9月21日（土）にランニングアドバイザー野口みずきさんによるセミナー＆ランニング講習を開催！\n・現地サービス内容を動画配信\n・ルックJTB RAKUなびサポートより、現地在住のスタッフにご相談いただけます\n\n【滞在中】\n・ルックJTBマラソン専用デスク\n・ハワイ・コンベンションセンターへの移動\n・マラソンコース下見ツアー\n・オリオリモーニングラン・ウォーク＆オリオリイブニングラン\n・大会前日用 お持ち帰りディナー＆大会当日用 ランナー向け朝食弁当\n\n【大会当日】\n・スタート地点への送迎\n・JTB決起集会\n・カピオラニ公園内にルックJTBサービステントをご用意！\n・ゴール地点からホテル周辺への送迎",
+      "endDate": "2024-11-08",
+      "image": {
+        "height": 300,
+        "sourceUrl": "https://a.mktgcdn.com/p/oQ6Od6lz9QSI31rPpbbU8sKS9_dj2ALuigp8-5e5njI/500x300.jpg",
+        "thumbnails": [
+          {
+            "height": 300,
+            "url": "http://a.mktgcdn.com/p-sandbox/oQ6Od6lz9QSI31rPpbbU8sKS9_dj2ALuigp8-5e5njI/500x300.jpg",
+            "width": 500
+          },
+          {
+            "height": 118,
+            "url": "http://a.mktgcdn.com/p-sandbox/oQ6Od6lz9QSI31rPpbbU8sKS9_dj2ALuigp8-5e5njI/196x118.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/oQ6Od6lz9QSI31rPpbbU8sKS9_dj2ALuigp8-5e5njI/500x300.jpg",
+        "width": 500
+      },
+      "startDate": "2024-05-24",
+      "tags": [
+        "2024年12月8日（日）開催"
+      ],
+      "title": "ホノルルマラソン2024ツアーに参加しませんか？",
+      "url": "https://dp.jtb.co.jp/lookjtb/dp/pamphlet/2024_hwi_8091104/?_gl\u003d1*1l0l58m*_gcl_aw*R0NMLjE3MTYzNTQyMDguRUFJYUlRb2JDaE1Jd29McjFiMmdoZ01WSzJ3UEFoMFpyUXFzRUFBWUFTQUFFZ0toN1BEX0J3RQ..*_gcl_au*MTQ1MTE4MDI4MS4xNzA5MjU2ODQw*_ga*OTYxNzIxNjY3LjE3MDkyNTU2MTA.*_ga_KGZYYE4GBZ*MTcxNjM2Njk3MS42NC4xLjE3MTYzNjgzMzcuMC4wLjE0MzY3ODIwNzg.*_fplc*YUl2S1ElMkZudWlBJTJCQVJBbjdDTXklMkZCY1JQM3pZaHMlMkZ2Smp0REQxTXJqV3BBNnVPM1dVRXAlMkJpUlJPTDZ0UTZmRFp4dXNFZVVyRjh2TWRpSEFKOFZrOWNINyUyQm80VzhGQTE3ZURadk9MemNXJTJGeXE0dnQ3Vlk3amY4bFlnakZqUUElM0QlM0Q.#1"
+    },
+    "c_v2News8": {
+      "description": "旅の過ごし方＋Plusは、エースJTBセレクトの宿泊プランでお泊りいただくお客様だけにご利用いただける特典です。\n特典の一部をご紹介します。詳細は、JTB旅の過ごし方　ホームページをご確認ください。\n\n【対象の宿泊プラン】\n・店頭でお申込みのお客様は、宿泊対象プランを販売員にお尋ねください。\n・WEBでお申込みのお客様は、JTBホームページ検索画面で旅の過ごし方+plusマークがついている宿泊プランをお申込みください。\n\n【設定期間】\n2024年10月1日～2025年3月31日利用まで\n\n【岐阜満喫クーポン】\n■料金（おひとり）おとな3,000円　こども1,500円\n■対象施設　　\n（奥飛騨エリア）\n【1】新穂高ロープウェイ往復乗車券\n【2】奥飛騨クマ牧場入場券\n（高山エリア）\n【3】忍者カフェ高山　忍者体験「手裏剣投げ」10枚、手裏剣トースト1枚、ニンジャエール1杯\n（下呂エリア）\n【4】下呂温泉合掌村入村券\n（郡上エリア）\n【5】大滝鍾乳洞入場券\n【6】紙刃楽のハーバリウム（小）づくり体験料　　※ハーバリウムづくり体験は利用日1日前17時までに現地電話にて予約必須。\n\n\n【マイカップ・マイボトル de 旅グルメ】\nリユース可能なカップやボトルなどを旅先で提示すると、下記のグルメが無料で受け取れます！\n■料金：0円\n・中津川　馬籠館　出見世　手作り五平餅1本♪\n・高山　高山グリーンホテル物産館　飛騨の駄菓子（きなこ/よもぎげんこつなどから2種類）♪\n・高山　ひだホテルプラザ　「井之廣」の味噌せんべい1枚♪\n・新平湯　奥飛騨クマ牧場　さるぼぼ顔クッキー4枚♪\n・下呂　下呂温泉合掌村　しらさぎ物語＆しらさぎ物語PartⅡ各1個♪\n・長良川　鵜飼茶屋しゃぐ　焼ういろ（プレーン）1本♪\n\n\nご利用にはご旅行お申し込み後、WEB事前申し込みが必要です。施設休業日をご確認ください。",
+      "endDate": "2025-03-31",
+      "image": {
+        "height": 614,
+        "sourceUrl": "https://a.mktgcdn.com/p/SmTlo0EuRFKNp_9AYNIDjFiyO3lm88bDPXAaOXRHI90/921x614.jpg",
+        "thumbnails": [
+          {
+            "height": 614,
+            "url": "http://a.mktgcdn.com/p-sandbox/SmTlo0EuRFKNp_9AYNIDjFiyO3lm88bDPXAaOXRHI90/921x614.jpg",
+            "width": 921
+          },
+          {
+            "height": 413,
+            "url": "http://a.mktgcdn.com/p-sandbox/SmTlo0EuRFKNp_9AYNIDjFiyO3lm88bDPXAaOXRHI90/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/SmTlo0EuRFKNp_9AYNIDjFiyO3lm88bDPXAaOXRHI90/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p-sandbox/SmTlo0EuRFKNp_9AYNIDjFiyO3lm88bDPXAaOXRHI90/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/SmTlo0EuRFKNp_9AYNIDjFiyO3lm88bDPXAaOXRHI90/921x614.jpg",
+        "width": 921
+      },
+      "title": "JTB　旅の過ごし方＋Plus　を活用して岐阜の旅行をお得に満喫♪",
+      "url": "https://tabisugo.jtb.co.jp/areas/34?from\u003d2024-10-01\u0026to\u003d2025-03-31"
+    },
+    "c_v2NewsSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2NewsSectionTitle": "店舗ニュース・イベント",
+    "c_v2NotificationBanner": "【ご来店予約について】誠に恐れ入りますが、お電話でのご来店予約は承っておりません。ご希望日時の予約枠が埋まっている場合は、お待ちいただくこともございますが、順番に可能な限りご案内いたします。なお、ご予約済みの旅行代金入金や変更・取消、またJR券等のチケット単品、ギフト券類については来店予約を承っておりませんので、直接ご来店いただきますようお願い申し上げます。 【お願い】JTBを初めてご利用いただくお客様は、JTBアプリをダウンロードしていただき、新規会員登録を事前にお願いいたします。お手数をおかけいたしますがご協力お願い申し上げます。https://member.jtb.co.jp/myjtb/login.aspx",
+    "c_v2PagesURL": "https://stores.jtb.co.jp/t5667-0",
+    "c_v2Promo1": {
+      "description": "\u003cp\u003e\u003cfont color\u003d\"#22a7ec\"\u003e＼ お正月まで待てない！ ／\u003c/font\u003e\n\u003cfont color\u003d\"fe598f\"\u003eJTBの「先どり福春 2025」開催中\u003c/font\u003e\u003c/p\u003e\n\u003cp\u003e新春初売りに先駆けて「先どり福春 2025」がスタート！\u003c/p\u003e\n\u003cp\u003eおトクな海外旅行や、国内旅行の【先どり福春限定プラン】、嬉しい【クーポン情報】など、詳しい内容は「詳細」から特集ページをチェック！\u003c/p\u003e\n\u003cp\u003e年末年始も、新春も、JTBでおトクに旅行を楽しもう。\u003c/p\u003e\n\u003cp\u003e⇒　詳細は、\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/sakifuku/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eこちら\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e！\u003c/p\u003e",
+      "endDate": "2024-12-31",
+      "image": {
+        "alternateText": "先どり福春バナー",
+        "height": 300,
+        "sourceUrl": "https://a.mktgcdn.com/p/m0VRo5ZZlrVXRbMY2c3Qb3XwsXalJAti_FzZ1wv9q_I/500x300.png",
+        "thumbnails": [
+          {
+            "height": 300,
+            "url": "http://a.mktgcdn.com/p-sandbox/m0VRo5ZZlrVXRbMY2c3Qb3XwsXalJAti_FzZ1wv9q_I/500x300.png",
+            "width": 500
+          },
+          {
+            "height": 118,
+            "url": "http://a.mktgcdn.com/p-sandbox/m0VRo5ZZlrVXRbMY2c3Qb3XwsXalJAti_FzZ1wv9q_I/196x118.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/m0VRo5ZZlrVXRbMY2c3Qb3XwsXalJAti_FzZ1wv9q_I/500x300.png",
+        "width": 500
+      },
+      "tags": [
+        "キャンペーン",
+        "海外旅行",
+        "国内旅行"
+      ],
+      "title": "【先どり福春 2025】キャンペーン",
+      "url": "https://www.jtb.co.jp/sakifuku/"
+    },
+    "c_v2Promo2": {
+      "description": "\u003cp\u003e\u003cfont color\u003d\"darkturquoise\"\u003e＼ 18歳～29歳対象キャンペーン ／\u003c/font\u003e\u003c/p\u003e\n\u003cp\u003e旅行慣れしていない方も安心！10代・20代の「リアルな声」をもとに、はじめての海外旅行や学生旅行に嬉しいポイントもりだくさんのキャンペーンを実施します。\u003c/p\u003e\n\u003cp\u003e「パスポート取得費用サポート」や「U-29旅クーポン」など…各種キャンペーンを展開。さらに、学生に向けた「ガクタビ」商品も。\u003c/p\u003e\n\u003cp\u003e写真や動画で見たあの場所へ…\nリアルな体験、仲間との思い出づくりができるよう、JTBが全力でサポートします！\u003c/p\u003e\n\u003cp\u003e⇒ 特集ページは、\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/myjtb/campaign/youth/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eこちら\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e！\u003c/p\u003e",
+      "endDate": "2025-03-31",
+      "image": {
+        "alternateText": "U-29旅",
+        "height": 300,
+        "sourceUrl": "https://a.mktgcdn.com/p/kq8QmQh03QnIUHAl3aJBcFu4U-72-e5Y7Kkw_KNkb70/500x300.jpg",
+        "thumbnails": [
+          {
+            "height": 300,
+            "url": "http://a.mktgcdn.com/p-sandbox/kq8QmQh03QnIUHAl3aJBcFu4U-72-e5Y7Kkw_KNkb70/500x300.jpg",
+            "width": 500
+          },
+          {
+            "height": 118,
+            "url": "http://a.mktgcdn.com/p-sandbox/kq8QmQh03QnIUHAl3aJBcFu4U-72-e5Y7Kkw_KNkb70/196x118.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/kq8QmQh03QnIUHAl3aJBcFu4U-72-e5Y7Kkw_KNkb70/500x300.jpg",
+        "width": 500
+      },
+      "tags": [
+        "キャンペーン",
+        "海外旅行",
+        "国内旅行"
+      ],
+      "title": "【旅の正解、JTBで！U-29旅】キャンペーン",
+      "url": "https://www.jtb.co.jp/myjtb/campaign/youth/"
+    },
+    "c_v2Promo3": {
+      "description": "\u003cp\u003e歴史ときめく\n文化をめぐる\u003c/p\u003e\n\u003cp\u003e≫ 日本の旬　京都・奈良・滋賀\n　 特集ページは、\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/nihonnoshun/kns/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eこちら\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e\n（キャンペーン期間：2024年10月1日～2025年3月31日）\u003c/p\u003e\n\u003cp\u003e地域の魅力を再発見し、本物に触れる旅をお届けします。\n特集ページでは、モデルプランや体験プラン、気になる祭り・イベント情報を発信中！\n旅の検討に、ご活用ください。\u003c/p\u003e\n\u003cp\u003e※「日本の旬」は、\"日本の魅力の再発見\"をテーマに、1998 年より JTB グループで実施している国内観光地活性化を目的としたキャンペーンです。\u003c/p\u003e",
+      "endDate": "2025-03-31",
+      "image": {
+        "alternateText": "日本の旬 京都・奈良・滋賀　キャンペーン",
+        "height": 300,
+        "sourceUrl": "https://a.mktgcdn.com/p/XYszMD3y0-lgC0v3R79Ki9mmlgaHFUqrc9_b3uIaOBI/500x300.jpg",
+        "thumbnails": [
+          {
+            "height": 300,
+            "url": "http://a.mktgcdn.com/p-sandbox/XYszMD3y0-lgC0v3R79Ki9mmlgaHFUqrc9_b3uIaOBI/500x300.jpg",
+            "width": 500
+          },
+          {
+            "height": 118,
+            "url": "http://a.mktgcdn.com/p-sandbox/XYszMD3y0-lgC0v3R79Ki9mmlgaHFUqrc9_b3uIaOBI/196x118.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/XYszMD3y0-lgC0v3R79Ki9mmlgaHFUqrc9_b3uIaOBI/500x300.jpg",
+        "width": 500
+      },
+      "tags": [
+        "キャンペーン",
+        "国内旅行"
+      ],
+      "title": "【日本の旬 京都・奈良・滋賀】キャンペーン",
+      "url": "https://www.jtb.co.jp/nihonnoshun/kns/"
+    },
+    "c_v2Promo5": {
+      "description": "\u003cp\u003e●JTBトラベルメンバーはJTBの会員サービス（無料）です！\u003c/p\u003e\n\u003cp\u003e様々な特典をご用意しております！\nさらにMyJTBに登録頂くことで会員ステージ制度の利用や特典がさらに充実！\u003c/p\u003e\n\u003cp\u003e≫ ご登録は\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/myjtb/stage_info/index.asp\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eこちら\u003c/a\u003e\u003c/span\u003e\u003c/font\u003eから！\u003c/p\u003e\n\u003cp\u003e●JTBトラベルメンバーのおすすめポイント！\u003c/p\u003e\n\u003cp\u003e【1】JTBトラベルポイントが貯まる！使える！\n【2】さらにMyJTBに登録頂くと・・・　　　\n・会員ステージ特典の利用\n・店舗で予約した旅行について店舗スタッフとやりとりできる「コンタクトボード」が利用可能\n・お申し込みの旅行内容を簡単確認！\u003c/p\u003e\n\u003cp\u003e≫　アプリを登録頂くと、スマホでも利用可能で、旅先でも便利！アプリ登録は\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/apps/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eこちら\u003c/a\u003e\u003c/span\u003e\u003c/font\u003eから！\u003c/p\u003e",
+      "image": {
+        "alternateText": "JTBトラベルメンバー 会員ステージ制度・特典 のご案内",
+        "height": 846,
+        "sourceUrl": "https://a.mktgcdn.com/p/wF-sf7DGvANjQegV66NGeOhwdl_hGBAssQQr10ZIAhU/1410x846.jpg",
+        "thumbnails": [
+          {
+            "height": 846,
+            "url": "http://a.mktgcdn.com/p-sandbox/wF-sf7DGvANjQegV66NGeOhwdl_hGBAssQQr10ZIAhU/1410x846.jpg",
+            "width": 1410
+          },
+          {
+            "height": 371,
+            "url": "http://a.mktgcdn.com/p-sandbox/wF-sf7DGvANjQegV66NGeOhwdl_hGBAssQQr10ZIAhU/619x371.jpg",
+            "width": 619
+          },
+          {
+            "height": 360,
+            "url": "http://a.mktgcdn.com/p-sandbox/wF-sf7DGvANjQegV66NGeOhwdl_hGBAssQQr10ZIAhU/600x360.jpg",
+            "width": 600
+          },
+          {
+            "height": 118,
+            "url": "http://a.mktgcdn.com/p-sandbox/wF-sf7DGvANjQegV66NGeOhwdl_hGBAssQQr10ZIAhU/196x118.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/wF-sf7DGvANjQegV66NGeOhwdl_hGBAssQQr10ZIAhU/1410x846.jpg",
+        "width": 1410
+      },
+      "tags": [
+        "ご案内",
+        "JTBトラベルメンバー"
+      ],
+      "title": "JTBトラベルメンバー 会員ステージ制度・特典 のご案内",
+      "url": "https://www.jtb.co.jp/myjtb/stage_info/index.asp"
+    },
+    "c_v2Promo6": {
+      "description": "\u003cp\u003e国内も、海外も　スマホひとつで旅に出よう！\u003c/p\u003e\n\u003cp\u003e■JTBアプリなら、旅行検索、お店・ホームぺージで予約した旅行内容の確認、JTBトラベルポイントの確認が簡単にできます！ \u003c/p\u003e\n\u003cp\u003e■さらにおすすめ！ \u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/myjtb/stage_info/index.asp\"\u003eJTBトラベルメンバー（JTBの会員サービス）\u003c/a\u003e\u003c/span\u003e\u003c/font\u003eに登録すると、予約後から旅先でも使えて便利です♪\u003c/p\u003e\n\u003cli\u003eJTBのお店、ホームページで予約した旅行内容の確認可能です。予約済の旅行に関して、お知らせを受けられます。\u003c/li\u003e\n\u003cli\u003e予約済の旅行に関する、メッセージの送受信もアプリから。お店の営業時間にご来店、お電話いただけない時にも安心で便利な機能です。\u003c/li\u003e\n\u003cli\u003e旅先でも安心！見やすい・わかりやすい日程表♪国内旅行・海外旅行の日程表が、アプリからご確認いただけます。\u003c/li\u003e\n\u003cp\u003e≫　その他にも、便利な機能が盛りだくさん。詳細・ダウンロードは、\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/apps/\"\u003eこちら\u003c/a\u003e\u003c/span\u003e\u003c/font\u003eから！\u003c/p\u003e",
+      "image": {
+        "alternateText": "JTBアプリ",
+        "height": 203,
+        "sourceUrl": "https://a.mktgcdn.com/p/3d2pHswEMxt_o9FiYZdBLC-N6ASbYKDFgnUyfVGt2fk/338x203.webp",
+        "thumbnails": [
+          {
+            "height": 203,
+            "url": "http://a.mktgcdn.com/p-sandbox/3d2pHswEMxt_o9FiYZdBLC-N6ASbYKDFgnUyfVGt2fk/338x203.webp",
+            "width": 338
+          },
+          {
+            "height": 118,
+            "url": "http://a.mktgcdn.com/p-sandbox/3d2pHswEMxt_o9FiYZdBLC-N6ASbYKDFgnUyfVGt2fk/196x118.webp",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/3d2pHswEMxt_o9FiYZdBLC-N6ASbYKDFgnUyfVGt2fk/338x203.webp",
+        "width": 338
+      },
+      "tags": [
+        "ご案内",
+        "アプリ"
+      ],
+      "title": "旅行いくなら！JTB公式／旅行検索・予約確認アプリ",
+      "url": "https://www.jtb.co.jp/apps/"
+    },
+    "c_v2Promo8": {
+      "description": "\u003cp\u003eJTBでは法人のお客様のご旅行やご相談も承っております。\n企業や団体、行政、教育等に関わるお客様のさまざまな課題解決に向けた高付加価値なサービスの提供により、お客様の課題解決と価値向上に貢献します。ぜひ法人でのお問合せもお気軽にご相談ください。\u003c/p\u003e\n\u003cp\u003e▼ JTB法人事業の事例紹介はこちら\u003c/p\u003e\n\u003cp\u003e１）\u003ca href\u003d\"https://www.jtbbwt.com/business/case-study/solution/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e企業・団体のご関係者様\u003c/span\u003e\u003c/font\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e２）\u003ca href\u003d\"https://www.jtbbwt.com/government/case-study/solution/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e自治体・行政機関のご関係者様\u003c/span\u003e\u003c/font\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e３）\u003ca href\u003d\"https://www.jtbbwt.com/education/case-study/solution/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e学校・教育機関のご関係者様\u003c/span\u003e\u003c/font\u003e\u003c/a\u003e\u003c/p\u003e",
+      "image": {
+        "alternateText": "JTBの法人事業",
+        "height": 1140,
+        "sourceUrl": "https://a.mktgcdn.com/p/aHnfBh1LoR5zEMPmEvA9S54Uui573c8F0cS5_FqSHeg/1900x1140.webp",
+        "thumbnails": [
+          {
+            "height": 1140,
+            "url": "http://a.mktgcdn.com/p-sandbox/aHnfBh1LoR5zEMPmEvA9S54Uui573c8F0cS5_FqSHeg/1900x1140.webp",
+            "width": 1900
+          },
+          {
+            "height": 371,
+            "url": "http://a.mktgcdn.com/p-sandbox/aHnfBh1LoR5zEMPmEvA9S54Uui573c8F0cS5_FqSHeg/619x371.webp",
+            "width": 619
+          },
+          {
+            "height": 360,
+            "url": "http://a.mktgcdn.com/p-sandbox/aHnfBh1LoR5zEMPmEvA9S54Uui573c8F0cS5_FqSHeg/600x360.webp",
+            "width": 600
+          },
+          {
+            "height": 118,
+            "url": "http://a.mktgcdn.com/p-sandbox/aHnfBh1LoR5zEMPmEvA9S54Uui573c8F0cS5_FqSHeg/196x118.webp",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/aHnfBh1LoR5zEMPmEvA9S54Uui573c8F0cS5_FqSHeg/1900x1140.webp",
+        "width": 1900
+      },
+      "tags": [
+        "企業・団体",
+        "自治体・行政機関",
+        "学校・教育機関"
+      ],
+      "title": "JTBの法人事業　～法人でのご旅行や各種課題もお気軽に相談ください～",
+      "url": "https://www.jtbbwt.com/"
+    },
+    "c_v2PromoSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2PromoSectionTitle": "JTBからのご案内",
+    "c_v2ReservationForVisit": [
+      "国内旅行",
+      "海外旅行",
+      "クルーズ",
+      "ウエディング",
+      "予約内容の変更・取消"
+    ],
+    "c_v2ReservationForVisitSubtitle": "（予約ボタンからご予約ください）",
+    "c_v2StaffSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2StaffSectionSubTitle": "クリックで、詳細を表示",
+    "c_v2StaffSectionTitle": "スタッフ紹介",
+    "c_v2StoreFeatures": [
+      "ハワイスペシャリスト",
+      "ウエディングコンサルタント",
+      "クルーズコンサルタント"
+    ],
+    "c_v2StoreManagerDescription": "総合旅行業務取扱管理者：福冨　美穂",
+    "c_v2Tel1": {
+      "label": "●当店の電話番号（来店予約、当店で予約した旅行の変更や取消など）",
+      "number": "0584-88-0433"
+    },
+    "c_v2Tel6": {
+      "label": "●電話相談「JTB旅の予約センター」（この電話は当店には繋がりません/JR券のみの取扱いはありません）",
+      "number": "050-3358-3992"
+    },
+    "c_v2TopBanner1": {
+      "description": "JTB イオンモール大垣店　ウエディングプラザ/デスク",
+      "image": {
+        "alternateText": "JTB イオンモール大垣店　ウエディングプラザ/デスク",
+        "height": 100,
+        "sourceUrl": "https://a.mktgcdn.com/p/HehOpdYBnIkAKA9MwHAcyrvKtHoeseA2ZGv5sb9Bxhk/360x100.jpg",
+        "thumbnails": [
+          {
+            "height": 100,
+            "url": "http://a.mktgcdn.com/p-sandbox/ZZo_wsKVyceFBYIYhF-zPb2vVR4ojFUzOxFOL4L52hM/360x100.jpg",
+            "width": 360
+          },
+          {
+            "height": 54,
+            "url": "http://a.mktgcdn.com/p-sandbox/ZZo_wsKVyceFBYIYhF-zPb2vVR4ojFUzOxFOL4L52hM/196x54.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/ZZo_wsKVyceFBYIYhF-zPb2vVR4ojFUzOxFOL4L52hM/360x100.jpg",
+        "width": 360
+      },
+      "link": "https://stores.jtb.co.jp/5667-w"
+    },
+    "c_おすすめ情報1タイトル": "ジブリパークを歩こう！",
+    "c_おすすめ情報1ボタンURL": "https://www.jtb.co.jp/kokunai/ghibli-park/",
+    "c_おすすめ情報1ボタンラベル": "特集ページはこちら",
+    "c_おすすめ情報1掲載始め": "2022-09-02",
+    "c_おすすめ情報1掲載終り": "2023-03-31",
+    "c_おすすめ情報1画像": {
+      "clickthroughUrl": "https://www.jtb.co.jp/kokunai/ghibli-park/",
+      "image": {
+        "height": 203,
+        "sourceUrl": "https://a.mktgcdn.com/p/zBjrbI0c0NSGjd0lSC3f54vm9-44rUoFtBcEdf5J0CI/360x203.png",
+        "thumbnails": [
+          {
+            "height": 203,
+            "url": "http://a.mktgcdn.com/p-sandbox/zBjrbI0c0NSGjd0lSC3f54vm9-44rUoFtBcEdf5J0CI/360x203.png",
+            "width": 360
+          },
+          {
+            "height": 111,
+            "url": "http://a.mktgcdn.com/p-sandbox/zBjrbI0c0NSGjd0lSC3f54vm9-44rUoFtBcEdf5J0CI/196x111.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/zBjrbI0c0NSGjd0lSC3f54vm9-44rUoFtBcEdf5J0CI/360x203.png",
+        "width": 360
+      }
+    },
+    "c_おすすめ情報1表示": true,
+    "c_おすすめ情報1説明": "愛・地球博記念公園内に11月1日オープンする「ジブリパーク」のチケット付き宿泊プラン「ジブリパークを歩こう！」を販売中です♪\nジブリパークのチケットは、「ジブリの大倉庫」「青春の丘」「どんどこ森」3つのエリアをめぐるパターン、「ジブリの大倉庫」を満喫するパターン、合計7つのパターンがあり、お客様のお好みでお選びいただけます！",
+    "c_おすすめ情報2表示": true,
+    "c_おすすめ情報3タイトル": "【オンラインツアー 】おうちに居ながら「旅行気分」",
+    "c_おすすめ情報3ボタンURL": "https://www.jtb.co.jp/theme/onlinetour/",
+    "c_おすすめ情報3ボタンラベル": "JTBオンラインツアーの詳細はこちら",
+    "c_おすすめ情報3掲載始め": "2021-04-23",
+    "c_おすすめ情報3掲載終り": "2021-09-30",
+    "c_おすすめ情報3画像": {
+      "image": {
+        "height": 400,
+        "sourceUrl": "https://a.mktgcdn.com/p/L4LItV05oJfqblqHLM0RrhHu_yyJfxkrALkBJtqgRKM/600x400.jpg",
+        "thumbnails": [
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/L4LItV05oJfqblqHLM0RrhHu_yyJfxkrALkBJtqgRKM/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p-sandbox/L4LItV05oJfqblqHLM0RrhHu_yyJfxkrALkBJtqgRKM/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/L4LItV05oJfqblqHLM0RrhHu_yyJfxkrALkBJtqgRKM/600x400.jpg",
+        "width": 600
+      }
+    },
+    "c_おすすめ情報3表示": true,
+    "c_おすすめ情報3説明": "JTBでは、おうちに居ながら楽しめる「国内・海外」の魅力的な観光地を『オンラインツアー』にてご案内しています！\n\n今日の目的地はどこに行く？\n気軽におうちから旅へお出かけください。",
+    "c_おすすめ情報タイトル": "おすすめ情報",
+    "c_スタッフ紹介1タイトル": "店長：舟坂",
+    "c_スタッフ紹介1説明": "【挨拶】\nいつもイオンモール大垣店をご利用いただきありがとうございます。\n当店は近場の温泉・テーマパークへの旅などの国内旅行をはじめ、海外旅行・ウエディング・ハネムーン・クルーズ旅までお客様のご希望に沿ったご旅行をご提案いたします。\nスタッフの経験もお伝えしながら素敵な旅になるお手伝いができればと思っておりますので、是非お気軽にご相談ください。",
+    "c_スタッフ紹介2タイトル": "福冨：どんな旅のご相談でも、一緒にお手伝いいたします。お気軽にお声掛け下さい！",
+    "c_スタッフ紹介2説明": "◆得意エリア：\n【国内】東京・ＴＤＲ（10回以上）、北海道、近隣エリア\n【海外】ハワイ、韓国、台湾（アジア全般）・ヨーロッパ\n◆得意ジャンル：テーマパーク、グルメ、ハネムーン・ウェディング、クルーズ、女子旅、一人旅、家族旅行\n◆資格：ウエディングコンサルタント、クルーズコンサルタント、ハワイスペシャリスト検定　上級\n\n◆ご挨拶：韓国・ヨーロッパ旅行が特に好きで何度となく訪れてます。綺麗な景色、街並みの風景写真を撮る事が好きです。最近は、直島が一番のお気に入り場所です。町全体がアートの島になっており、瀬戸内海に浮かぶ小さな島で日常を忘れてのんびりと過ごす事ができます。是非素敵な旅の計画を一緒にお手伝いさせて頂きます。お気軽にお問い合わせくださいませ。お待ち申し上げております。\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/shop/form/reserveC/Index.aspx?SHITEN_CD\u003dt5667-0\"\u003eJTB イオンモール大垣店の相談予約はこちらから\u003c/a\u003e\u003c/span\u003e\n※担当者のご希望は「ご相談内容今回の旅の目的・備考」へお願いいたします。（ご希望に添えない場合がございます。予めご了承ください）",
+    "c_スタッフ紹介4タイトル": "北村：ご一緒に旅をつくるお手伝いをいたします。お気軽にご相談ください！",
+    "c_スタッフ紹介4説明": "◆得意エリア：\n【国内】千葉（10回以上）・　マイカ－の旅\n【海外】ハワイ（オアフ島５回）・アメリカ（ニュ－ヨ－ク・ラスベガス）・アジア\n◆得意ジャンル：家族旅行・夫婦旅・温泉・グルメ・テ－マパ－ク\n◆資格：クルーズコンサルタント、ハワイスペシャリスト検定　上級\n\n◆ご挨拶：国内・海外も地図を片手に街歩きが好きです。ロ－カルな鉄道や地下鉄や船…様々な乗り物を利用して、その土地の美味しいグルメを食べ歩くのが何より大好きです。のんびり過ごすことも旅の楽しみなので、バリ島などはスパでリフレッシュしています。クルーズ資格取得後は、邦船（飛鳥Ⅱ・にっぽん丸）に乗船し、船旅の楽しみを知りました。是非皆様に船旅をオススメしたいと思います。旅の実現にむけ、自身体験談などもご案内しながらお手伝いさせていただきます。お気軽にご来店ください。お待ちしております。\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/shop/form/reserveC/Index.aspx?SHITEN_CD\u003dt5667-0\"\u003eJTB イオンモール大垣店の相談予約はこちらから\u003c/a\u003e\u003c/span\u003e\n※担当者のご希望は「ご相談内容今回の旅の目的・備考」へお願いいたします。（ご希望に添えない場合がございます。予めご了承ください）",
+    "c_スタッフ紹介5タイトル": "新森：テーマパーク、女子旅はお任せ下さい！",
+    "c_スタッフ紹介5説明": "◆得意エリア：\n【国内】千葉（10回以上）、沖縄（本島）\n【海外】韓国（5回以上）、ハワイ（オアフ島）\n◆得意ジャンル：テーマパーク、温泉、グルメ、お洒落スポット、女子旅、ハネムーン・ウエディング（沖縄）\n◆資格：ハワイスペシャリスト検定　上級\n\n◆ご挨拶：千葉県にあるテーマパーク、韓国は年に数回訪れるほど大好きな場所です。韓国のグルメやお洒落カフェなど最新情報はお任せください！最近は温泉でゆっくりしたいと思い、全国各地の旅館をリサーチしています。どんなことでもお気軽にご相談ください。皆様とお会いできることを楽しみにお待ちしております。\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/shop/form/reserveC/Index.aspx?SHITEN_CD\u003dt5667-0\"\u003eJTB イオンモール大垣店の相談予約はこちらから\u003c/a\u003e\u003c/span\u003e\n※担当者のご希望は「ご相談内容今回の旅の目的・備考」へお願いいたします。（ご希望に添えない場合がございます。予めご了承ください）",
+    "c_スタッフ紹介6タイトル": "田中：テーマパークはお任せ下さい！",
+    "c_スタッフ紹介6説明": "◆得意エリア：\n【国内】千葉・沖縄（本島）\n【海外】グアム・シンガポール・ハワイ（オアフ島）\n◆得意ジャンル：テーマパーク・女子旅\n◆資格：ハワイスペシャリスト検定　上級\n\n◆ご挨拶：千葉県にあるテーマパークが好きで、何度か訪れています。店舗ではアドバイザーを担当していたこともあり、ホテルの特徴などご案内致します。ミュージカル鑑賞が趣味で、東京・大阪・名古屋にも何度か行くことがあり、オシャレなカフェやお土産探しなどしています。また、グアムやシンガポールに友人と色々と計画を立てて行ったことが思い出深いです。皆様の旅のお手伝いができる日を楽しみにしています。ご来店お待ちしております。\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/shop/form/reserveC/Index.aspx?SHITEN_CD\u003dt5667-0\"\u003eJTB イオンモール大垣店の相談予約はこちらから\u003c/a\u003e\u003c/span\u003e\n※担当者のご希望は「ご相談内容今回の旅の目的・備考」へお願いいたします。（ご希望に添えない場合がございます。予めご了承ください）",
+    "c_スタッフ紹介7タイトル": "佐藤：ご家族連れのご旅行など、親身になってご対応致します！",
+    "c_スタッフ紹介7説明": "◆得意エリア：\n【国内】九州、山陰、山陽\n【海外】アジアシティ、カナダ、アメリカ\n◆得意ジャンル：街歩き、家族旅行\n◆資格：ウエディングコンサルタント、クルーズコンサルタント、ハワイスペシャリスト検定　上級\n\n◆ご挨拶：ゆっくり宿で連泊するリゾートが理想！名所を回り切りたい！などと色々なご希望に沿って旅をアレンジします。私自身が園児と小学生の子供のいる４世代家族です。小さいお子様や年配のお客様を連れてのご旅行相談承ります。ご旅行の上でのお悩みにもお答えしますので、よろしくお願いします。\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/shop/form/reserveC/Index.aspx?SHITEN_CD\u003dt5667-0\"\u003eJTB イオンモール大垣店の相談予約はこちらから\u003c/a\u003e\u003c/span\u003e\n※担当者のご希望は「ご相談内容今回の旅の目的・備考」へお願いいたします。（ご希望に添えない場合がございます。予めご了承ください）",
+    "c_スタッフ紹介8タイトル": "川崎：小さいお子様連れの家族旅行はお任せ下さい！",
+    "c_スタッフ紹介8説明": "◆得意エリア：\n【国内】大阪(10回以上)、マイカーの旅\n【海外】グアム　香港\n◆得意ジャンル：温泉　家族旅行\n◆資格：ウエディングコンサルタント、ハワイスペシャリスト検定　上級\n\n◆ご挨拶：近場の温泉、大阪、グアムには小学生の子供と家族旅行へ行き大好きな場所です。家族旅行におすすめの場所やマイカーでのご旅行のご相談承ります。是非お気軽にご相談下さい。皆様のご旅行が楽しいご旅行となるようお手伝いさせていただきます。ご来店お待ちしております。\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/shop/form/reserveC/Index.aspx?SHITEN_CD\u003dt5667-0\"\u003eJTB イオンモール大垣店の相談予約はこちらから\u003c/a\u003e\u003c/span\u003e\n※担当者のご希望は「ご相談内容今回の旅の目的・備考」へお願いいたします。（ご希望に添えない場合がございます。予めご了承ください）",
+    "c_スタッフ紹介タイトル": "JTBイオンモール大垣店スタッフ紹介",
+    "c_店舗MetaDescription": "[[c_altName]] | [[address.region]] [[address.city]] [[address.line1]] - JTBスタッフが旅心を刺激するご提案をいたします",
+    "c_店舗MetaTitle": "[[c_altName]]: [[address.region]] [[address.city]]",
+    "c_店舗お知らせ": "【全国旅行支援】JTBでの取り扱いについてはJTBホームページでご確認ください（状況により繋がりにくい場合があります）。尚、10/10までに予約いただいたお客様で補助金利用が可能な場合は、出発日が近いお客様より順に担当者から連絡しますのでお待ちください。お電話やご来店をいただいても対応が出来ませんのでご了承ください。",
+    "c_店舗の特色フィルタ": [
+      "ウェディングコンサルタントのいるお店",
+      "クルーズコンサルタントのいるお店",
+      "来店予約を受付けているお店"
+    ],
+    "c_店舗ニュース1URL": "https://www.jtb.co.jp/kokunai/ryokoshien/",
+    "c_店舗ニュース1タイトル": "【お知らせ】「全国旅行支援」について（2022年10月11日更新）",
+    "c_店舗ニュース1画像": {
+      "image": {
+        "height": 203,
+        "sourceUrl": "https://a.mktgcdn.com/p/FW-Vjt7eerwBr-6tGtnFwILJA2_Y21VhqRxAabU-qYE/360x203.jpg",
+        "thumbnails": [
+          {
+            "height": 203,
+            "url": "http://a.mktgcdn.com/p-sandbox/FW-Vjt7eerwBr-6tGtnFwILJA2_Y21VhqRxAabU-qYE/360x203.jpg",
+            "width": 360
+          },
+          {
+            "height": 111,
+            "url": "http://a.mktgcdn.com/p-sandbox/FW-Vjt7eerwBr-6tGtnFwILJA2_Y21VhqRxAabU-qYE/196x111.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/FW-Vjt7eerwBr-6tGtnFwILJA2_Y21VhqRxAabU-qYE/360x203.jpg",
+        "width": 360
+      }
+    },
+    "c_店舗ニュース1表示": true,
+    "c_店舗ニュース1説明": "\u003cb\u003e「全国旅行支援」の実施について、10月11日（火）より開始致しました。\u003c/b\u003e\nJTBでの取り扱いにつきましては、JTBホームページ内、 \u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai/ryokoshien/\"\u003e『全国旅行支援　最新情報まとめ』\u003c/a\u003e\u003c/span\u003e\u003c/font\u003eよりご確認ください。\n\nなお、10月10日（月）までにご旅行をお申込み済みのお客様につきましては、\nお申込内容が各都道府県の定める全国旅行支援の適用条件に合致する場合は、当店よりご連絡いたします。\n\n※ご出発日が近いお客様より順にご連絡となりますので、お時間がかかる場合がございます。\n※各都道府県の定める全国旅行支援の適用条件（ワクチン接種必要有無など）は各自治体の特設ホームページをご確認ください。\n\n\u003cstrong\u003e▼いつからはじまる？予約方法は？など、「全国旅行支援」の気になる最新情報\u003c/strong\u003e\n\u003cfont color\u003d\"blue\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai/ryokoshien/\"\u003e全国旅行支援　最新情報まとめ\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e",
+    "c_店舗ニュース2URL": "https://www.jtb.co.jp/shop/form/explain/entry/list.asp?SHITEN_CD\u003dt5667-0",
+    "c_店舗ニュース2タイトル": "★ふるさと納税説明会★",
+    "c_店舗ニュース2掲載始め": "2022-09-23",
+    "c_店舗ニュース2掲載終り": "2022-10-10",
+    "c_店舗ニュース2画像": {
+      "image": {
+        "height": 431,
+        "sourceUrl": "https://a.mktgcdn.com/p/F1DrIALOltcxZrpKSyFzPKdKMhkR6fsvWTjdJeN4qJk/607x431.png",
+        "thumbnails": [
+          {
+            "height": 431,
+            "url": "http://a.mktgcdn.com/p-sandbox/F1DrIALOltcxZrpKSyFzPKdKMhkR6fsvWTjdJeN4qJk/607x431.png",
+            "width": 607
+          },
+          {
+            "height": 426,
+            "url": "http://a.mktgcdn.com/p-sandbox/F1DrIALOltcxZrpKSyFzPKdKMhkR6fsvWTjdJeN4qJk/600x426.png",
+            "width": 600
+          },
+          {
+            "height": 139,
+            "url": "http://a.mktgcdn.com/p-sandbox/F1DrIALOltcxZrpKSyFzPKdKMhkR6fsvWTjdJeN4qJk/196x139.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/F1DrIALOltcxZrpKSyFzPKdKMhkR6fsvWTjdJeN4qJk/607x431.png",
+        "width": 607
+      }
+    },
+    "c_店舗ニュース2表示": true,
+    "c_店舗ニュース2説明": "～ふるさと納税を利用して、お得に旅に出かけませんか～\n\n旅行クーポンを使ってお得に旅行ができるＪＴＢの『ふるぽ』\nふるさと納税旅行クーポンの入手方法から、旅行お申込みまでの流れをご案内させていただきます！\n【日時】\n●11月6日（日）　1回目：11：00～11：30　　2回目：13：00～13：30\n※ご希望のお客様には説明会終了後個別相談も承ります。\n※各回4組様限定。\n\nイベント予約よりお申込下さい。",
+    "c_店舗ニュース3URL": "https://www.gifutabi-cpn.jp/",
+    "c_店舗ニュース3タイトル": "「旅して応援！“ほっと一息、ぎふの旅”県民割キャンペーン（第2弾）」",
+    "c_店舗ニュース3掲載始め": "2022-06-01",
+    "c_店舗ニュース3掲載終り": "2022-06-30",
+    "c_店舗ニュース3画像": {
+      "image": {
+        "height": 150,
+        "sourceUrl": "https://a.mktgcdn.com/p/IK_GyKShJKLo_yld_iEF1NVfH4YCPJYKDPNQ3WrxNOQ/200x150.jpg",
+        "thumbnails": [
+          {
+            "height": 150,
+            "url": "http://a.mktgcdn.com/p-sandbox/Ndn6B_5yuj0cTFP_d1ZzQC97x2MslHzL6b1Pnl0fyAk/200x150.jpg",
+            "width": 200
+          },
+          {
+            "height": 147,
+            "url": "http://a.mktgcdn.com/p-sandbox/Ndn6B_5yuj0cTFP_d1ZzQC97x2MslHzL6b1Pnl0fyAk/196x147.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/Ndn6B_5yuj0cTFP_d1ZzQC97x2MslHzL6b1Pnl0fyAk/200x150.jpg",
+        "width": 200
+      }
+    },
+    "c_店舗ニュース3表示": true,
+    "c_店舗ニュース3説明": "今回は岐阜県在中の方限定のお得な情報をお届け！\nぜひこの機会に岐阜県内の施設にご宿泊してみてはいかがでしょうか。\n\n「旅して応援！“ほっと一息、ぎふの旅”県民割キャンペーン（第2弾）」\n【対象宿泊日】～2022年6月30日（木）宿泊まで（7/1チェックアウト）\n【対象商品】手配旅行、エースJTB、MySTYLE、サン＆サンの宿泊及び日帰りプラン、受注型企画旅行\n【旅行代金条件】ひとりあたり旅行代金総額より①又は②のいずれか\n①\t10,000円未満：旅行代金の半額　②10,000円以上：5,000円割引（上限割引額）\n【その他】ひとりあたり「ぎふ旅コイン」2,000円分のポイントを付与。\n\n※在庫がなくなり次第終了となります。\n※「ぎふ旅コイン」はスマートフォン、タブレットが必要となります。\n詳細は店頭スタッフまで。\n\n事前にお電話にてご希望のお宿などお知らせ頂けますとご来店不要でご予約可能でございます。\nご予約の際は、下記店舗へお電話ください。\nJTBイオンモール大垣店　TEL0584-88-0433\n営業時間：10時～18時（最終受付：17時）",
+    "c_店舗ニュース4URL": "https://furu-po.com/",
+    "c_店舗ニュース4タイトル": "★ふるさと納税で旅にでかけよう★",
+    "c_店舗ニュース4掲載始め": "2022-04-20",
+    "c_店舗ニュース4掲載終り": "2023-03-31",
+    "c_店舗ニュース4画像": {
+      "image": {
+        "height": 150,
+        "sourceUrl": "https://a.mktgcdn.com/p/0o253Dfu2pDERW9OSkBiVQa8bCGjVCstft00eHEYJkM/200x150.jpg",
+        "thumbnails": [
+          {
+            "height": 150,
+            "url": "http://a.mktgcdn.com/p-sandbox/9N_ymOGRzZ7Qrqi8N93YZEC0tpG3tC1BAb6kVcZVMjM/200x150.jpg",
+            "width": 200
+          },
+          {
+            "height": 147,
+            "url": "http://a.mktgcdn.com/p-sandbox/9N_ymOGRzZ7Qrqi8N93YZEC0tpG3tC1BAb6kVcZVMjM/196x147.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/9N_ymOGRzZ7Qrqi8N93YZEC0tpG3tC1BAb6kVcZVMjM/200x150.jpg",
+        "width": 200
+      }
+    },
+    "c_店舗ニュース4表示": true,
+    "c_店舗ニュース4説明": "JTBが運営する「ふるぽ」では400以上の旅行先から行きたい場所を自由に選べます！\n旅行先の自治体へふるさと納税を寄付をすると実質2,000円で旅行ができます！\n\n申請も「ふるぽ」専用サイトから簡単にお申込みできます！\nぜひご旅行ご検討の際は「ふるぽ」をご利用下さい！\n\nご不明な点やご予約は下記店舗へお電話下さい。\nJTBイオンモール大垣店　TEL0584-88-0433\n営業時間：10時～18時（最終受付：17時）",
+    "c_店舗ニュース5掲載始め": "2022-10-05",
+    "c_店舗ニュース5掲載終り": "2023-03-31",
+    "c_店舗ニュース5表示": true,
+    "c_店舗ニュース5説明": "平素よりJTBをご愛顧賜り誠にありがとうございます。\n当社は、お客様と従業員の安全と感染拡大防止に配慮しながら、営業を行っております。\n\n■店舗における感染防止対策の実施について\n・入口および店舗内に手指の消毒設備（アルコール等）の設置\n・店舗内におけるスタッフのマスクの着用\n・飛沫感染防止のためのカウンターパーテーションの設置\n・カウンター席間へのパーテーションの設置またはソーシャルディスタンスに配慮したカウンター席の設置\n・カウンターや椅子、パンフレットケースなどへのこまめな拭き取りによる除菌対応\n\n店内混雑を避けるため、当面の間、受付は事前にご来店予約をいただいたお客様を優先して対応させて頂いております。（ご来店予約は当店ホームページより承ります。）\n尚、ご来店の際には、マスクの着用、来店時の手指の消毒などにご協力を頂きますようお願い申し上げます。\n発熱等体調がすぐれないお客様はご来店をお控えください。\n何卒、ご理解およびご協力をよろしくお願いいたします。",
+    "c_店舗ニュース6タイトル": "【数量限定】ルックJTBカレンダー 2023",
+    "c_店舗ニュース6掲載始め": "2022-09-29",
+    "c_店舗ニュース6掲載終り": "2022-12-10",
+    "c_店舗ニュース6画像": {
+      "image": {
+        "height": 600,
+        "sourceUrl": "https://a.mktgcdn.com/p/65wRC0wv8dIludpqmamstqP2Ft3UHwbQsObT_x9a_KQ/600x600.jpg",
+        "thumbnails": [
+          {
+            "height": 600,
+            "url": "http://a.mktgcdn.com/p-sandbox/FaXxEIgIsqc3BYJBicXvTD5_i6JAErmEkV00VVDlqzU/600x600.jpg",
+            "width": 600
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/FaXxEIgIsqc3BYJBicXvTD5_i6JAErmEkV00VVDlqzU/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/FaXxEIgIsqc3BYJBicXvTD5_i6JAErmEkV00VVDlqzU/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/FaXxEIgIsqc3BYJBicXvTD5_i6JAErmEkV00VVDlqzU/600x600.jpg",
+        "width": 600
+      }
+    },
+    "c_店舗ニュース6表示": true,
+    "c_店舗ニュース6説明": "毎年人気のルックJTBカレンダー。ご好評にお応えし、今年もJTB店舗でお求めいただけるようご用意いたしました。旅のプロフェッショナルが世界中の風景から厳選した美しい12の絶景で、憧れの地への思いを馳せていただけます。綴じ部分に厚紙を使用するエコロバインド(R)と呼ばれる製本で、 リサイクル・環境の両面で地球に優しいカレンダー。数量限定でのご紹介ですので、この機会にぜひお求めください！\n・お支払いにトラベルポイントをご利用いただけます。",
+    "c_店舗ニュース7URL": "https://ebook.jtb.co.jp/book/?A5712#1",
+    "c_店舗ニュース7タイトル": "★2022年　おせちの鉄人　発売中★",
+    "c_店舗ニュース7掲載始め": "2022-09-24",
+    "c_店舗ニュース7掲載終り": "2022-12-10",
+    "c_店舗ニュース7画像": {
+      "image": {
+        "height": 160,
+        "sourceUrl": "https://a.mktgcdn.com/p/hgZ8HLd18n3rLUUJBveShtReqhNuxCTFrqj0tWgnh0k/200x160.jpg",
+        "thumbnails": [
+          {
+            "height": 160,
+            "url": "http://a.mktgcdn.com/p-sandbox/hgZ8HLd18n3rLUUJBveShtReqhNuxCTFrqj0tWgnh0k/200x160.jpg",
+            "width": 200
+          },
+          {
+            "height": 157,
+            "url": "http://a.mktgcdn.com/p-sandbox/hgZ8HLd18n3rLUUJBveShtReqhNuxCTFrqj0tWgnh0k/196x157.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/hgZ8HLd18n3rLUUJBveShtReqhNuxCTFrqj0tWgnh0k/200x160.jpg",
+        "width": 200
+      }
+    },
+    "c_店舗ニュース7表示": true,
+    "c_店舗ニュース7説明": "毎年ご好評いただいている「おせちの鉄人」発売中です！\n\nホテルや名旅館のおせちや日本各地の料亭、レストランのおせちなど取り揃えております。数に限りがございますのでお早めにお申込みください。\n\n・お支払いにトラベルポイントをご利用いただけます。\n\nご予約承り期間：令和4年12月13日\n\n店頭でご予約を承っております！",
+    "c_店舗ニュース8URL": "https://www.jtbbwt.com/",
+    "c_店舗ニュース8タイトル": "JTBの法人事業　～法人でのご旅行や各種課題もお気軽に相談ください～",
+    "c_店舗ニュース8画像": {
+      "image": {
+        "height": 450,
+        "sourceUrl": "https://a.mktgcdn.com/p/9a1LwjYGq7Q0Wm3TtK65i5jfTYfkMHGz9lg529dcVqI/800x450.jpg",
+        "thumbnails": [
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/9a1LwjYGq7Q0Wm3TtK65i5jfTYfkMHGz9lg529dcVqI/800x450.jpg",
+            "width": 800
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/9a1LwjYGq7Q0Wm3TtK65i5jfTYfkMHGz9lg529dcVqI/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/9a1LwjYGq7Q0Wm3TtK65i5jfTYfkMHGz9lg529dcVqI/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/9a1LwjYGq7Q0Wm3TtK65i5jfTYfkMHGz9lg529dcVqI/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/9a1LwjYGq7Q0Wm3TtK65i5jfTYfkMHGz9lg529dcVqI/800x450.jpg",
+        "width": 800
+      }
+    },
+    "c_店舗ニュース8表示": true,
+    "c_店舗ニュース8説明": "\u003cp id\u003d\"hojin\"\u003eJTBでは法人のお客様のご旅行やご相談も承っております。\u003c/p\u003e\n企業や団体、行政、教育等に関わるお客様のさまざまな課題解決に向けた高付加価値なサービスの提供により、お客様の課題解決と価値向上に貢献します。ぜひ法人でのお問合せもお気軽にご相談ください。\n▶JTB法人事業の事例紹介はこちら\n　1.\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtbbwt.com/business/case-study/solution/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e企業・団体のご関係者様\u003c/a\u003e\u003c/span\u003e　2.\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtbbwt.com/government/case-study/solution/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e自治体・行政機関のご関係者様\u003c/a\u003e\u003c/span\u003e　3.\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtbbwt.com/education/case-study/solution/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e学校・教育機関のご関係者様\u003c/a\u003e\u003c/span\u003e",
+    "c_店舗ニュース9URL": "https://www.jtb.co.jp/operate/weather.asp",
+    "c_店舗ニュース9タイトル": "地震や悪天候に伴う欠航・遅延・運休について",
+    "c_店舗ニュース9表示": true,
+    "c_店舗ニュース9説明": "地震や悪天候に伴う欠航・遅延・運休等の対応について記載しております。",
+    "c_店舗ページ生成": true,
+    "c_店舗休日": [
+      "土曜",
+      "日曜",
+      "祝日"
+    ],
+    "c_店舗営業時間追記0": "受付終了時間　各閉店時間の60分前となります。",
+    "c_店舗営業時間追記1": "受付終了時間　各閉店時間の60分前となります。",
+    "c_店舗営業時間追記2": "定休日：不定休",
+    "c_店舗外観写真": {
+      "image": {
+        "height": 824,
+        "sourceUrl": "http://a.mktgcdn.com/p/q2c_Q3J0fh_BPjosxk8B2wvsoxowJ1jYs_vhn8Z4SNQ/1099x824.png",
+        "thumbnails": [
+          {
+            "height": 824,
+            "url": "http://a.mktgcdn.com/p-sandbox/q2c_Q3J0fh_BPjosxk8B2wvsoxowJ1jYs_vhn8Z4SNQ/1099x824.png",
+            "width": 1099
+          },
+          {
+            "height": 464,
+            "url": "http://a.mktgcdn.com/p-sandbox/q2c_Q3J0fh_BPjosxk8B2wvsoxowJ1jYs_vhn8Z4SNQ/619x464.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/q2c_Q3J0fh_BPjosxk8B2wvsoxowJ1jYs_vhn8Z4SNQ/600x450.png",
+            "width": 600
+          },
+          {
+            "height": 147,
+            "url": "http://a.mktgcdn.com/p-sandbox/q2c_Q3J0fh_BPjosxk8B2wvsoxowJ1jYs_vhn8Z4SNQ/196x147.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/q2c_Q3J0fh_BPjosxk8B2wvsoxowJ1jYs_vhn8Z4SNQ/1099x824.png",
+        "width": 1099
+      }
+    },
+    "c_店舗責任者": "総合旅行業務取扱管理者：舟坂　美穂",
+    "c_電話番号1ラベル": "●店舗の電話番号はこちら（来店予約、店舗で予約した旅行の変更や取消など）",
+    "c_電話番号3": "●店舗の営業時間内にお越しいただけない等でお困りのお客様へ　新規旅行の申込・相談は「JTB旅の予約センター」でも承っております（旅の予約センターでは、JR券のみのお取り扱いはございません）※この電話は店舗には繋がりません",
+    "c_電話番号3ラベル": "●店舗の営業時間内にお越しいただけない等でお困りのお客様へ　新規旅行の申込・相談は「JTB旅の予約センター」でも承っております（旅の予約センターでは、JR券のみのお取り扱いはございません）※この電話は店舗には繋がりません",
+    "categoryIds": [
+      "1384835",
+      "1960",
+      "303",
+      "1322995",
+      "1322996",
+      "1322997"
+    ],
+    "closed": false,
+    "description": "旅行予約はJTB！旅を楽しくする多彩なプラン、安心と信頼のツアーラインナップが満載。\n最新キャンペーンや店舗でのイベント情報など、当店の店舗ページで発信中！営業時間や受付状況、来店前のご案内など…詳しいご案内も掲載しています。",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_qi_fu_xian",
+      "defaultDirectory_qi_fu_xian_da_yuan_shi"
+    ],
+    "facebookCallToAction": {
+      "type": "BOOK_NOW",
+      "value": "[[reservation.url]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "sourceUrl": "http://a.mktgcdn.com/p/vafruIRlKe18mCJnJEpbA94-0UU2CBOk1Vj2C22bU3g/851x315.png",
+      "thumbnails": [
+        {
+          "height": 315,
+          "url": "http://a.mktgcdn.com/p-sandbox/73CJnTRFck5dyo3Vj-czdMKpBizj3BecXHcSbYG-zJg/851x315.png",
+          "width": 851
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/73CJnTRFck5dyo3Vj-czdMKpBizj3BecXHcSbYG-zJg/851x315.png",
+      "width": 851
+    },
+    "facebookDescriptor": "イオンモール大垣店",
+    "facebookName": "JTB",
+    "facebookOverrideCity": "Ogaki-shi",
+    "facebookPageUrl": "https://www.facebook.com/130070730865504",
+    "facebookParentPageId": "119682294718779",
+    "facebookProfilePhoto": {
+      "height": 404,
+      "sourceUrl": "http://a.mktgcdn.com/p/40P8avuMMkKHt9ca8aKx5Zqvq3RFdXsfXeY9kHlRRr8/404x404.jpg",
+      "thumbnails": [
+        {
+          "height": 404,
+          "url": "http://a.mktgcdn.com/p-sandbox/40P8avuMMkKHt9ca8aKx5Zqvq3RFdXsfXeY9kHlRRr8/404x404.jpg",
+          "width": 404
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/40P8avuMMkKHt9ca8aKx5Zqvq3RFdXsfXeY9kHlRRr8/404x404.jpg",
+      "width": 404
+    },
+    "facebookVanityUrl": "JTBAeonMalloogakiten",
+    "fax": "+81584870088",
+    "featuredMessage": {
+      "description": "旅行予約はJTB！旅を楽しくする多彩なプラン、安心と信頼のツアーラインナップが満載。"
+    },
+    "frequentlyAskedQuestions": [
+      {
+        "answer": "店舗ホームページ内、「相談予約」のボタンより可能です。",
+        "question": "【店舗での相談について】来店予約は、どこからできますか？"
+      },
+      {
+        "answer": "旅行当日にご対応いただくことなど、詳細はJTB HP内「欠航・遅延・運休について」（https://www.jtb.co.jp/operate/weather.asp）よりご確認ください。ただし、旅行申込内容や予約・支払先、状況（旅行出発前or後）によって、対応方が異なります。ご注意ください。",
+        "question": "【悪天候・災害発生時の対応について】JTBで旅行の予約をしています。地震や悪天候（台風・大雨・大雪）のときには、どうしたらいいですか？"
+      }
+    ],
+    "googleAccountId": "111341930399341659688",
+    "googleCoverPhoto": {
+      "alternateText": "JTB イオンモール大垣店",
+      "height": 2268,
+      "sourceUrl": "https://a.mktgcdn.com/p/6YdB_YUU_WJX66wz95sU4s_oDNN2vKaVAb2F1MKaKDs/4032x2268.jpg",
+      "thumbnails": [
+        {
+          "height": 2268,
+          "url": "http://a.mktgcdn.com/p-sandbox/6YdB_YUU_WJX66wz95sU4s_oDNN2vKaVAb2F1MKaKDs/4032x2268.jpg",
+          "width": 4032
+        },
+        {
+          "height": 1192,
+          "url": "http://a.mktgcdn.com/p-sandbox/6YdB_YUU_WJX66wz95sU4s_oDNN2vKaVAb2F1MKaKDs/2119x1192.jpg",
+          "width": 2119
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/6YdB_YUU_WJX66wz95sU4s_oDNN2vKaVAb2F1MKaKDs/4032x2268.jpg",
+      "width": 4032
+    },
+    "googlePlaceId": "ChIJ____gxixA2ARTV3VkO_cxrw",
+    "googleProfilePhoto": {
+      "height": 400,
+      "sourceUrl": "https://a.mktgcdn.com/p/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/400x400.png",
+      "thumbnails": [
+        {
+          "height": 400,
+          "url": "http://a.mktgcdn.com/p-sandbox/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/400x400.png",
+          "width": 400
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/400x400.png",
+      "width": 400
+    },
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "10:00"
+          }
+        ]
+      }
+    },
+    "instagramHandle": "jtb_jp",
+    "logo": {
+      "image": {
+        "height": 400,
+        "sourceUrl": "https://a.mktgcdn.com/p/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/400x400.png",
+        "thumbnails": [
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/400x400.png",
+            "width": 400
+          },
+          {
+            "height": 150,
+            "url": "http://a.mktgcdn.com/p-sandbox/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/150x150.png",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "http://a.mktgcdn.com/p-sandbox/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/94x94.png",
+            "width": 94
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/LzQBu8Z23ju_Bq6kh6HmFzRtyZhKiGT9X51r-4qmk2I/400x400.png",
+        "width": 400
+      }
+    },
+    "mainPhone": "+81584880433",
+    "name": "JTB イオンモール大垣店",
+    "photoGallery": [
+      {
+        "description": "店内写真",
+        "image": {
+          "alternateText": "店内写真",
+          "height": 1500,
+          "sourceUrl": "https://a.mktgcdn.com/p/m1kb_1ETTDj47qvy6UwCoAQwKa-_sdiSNrpyOzsejbM/2000x1500.jpg",
+          "thumbnails": [
+            {
+              "height": 1500,
+              "url": "http://a.mktgcdn.com/p-sandbox/m1kb_1ETTDj47qvy6UwCoAQwKa-_sdiSNrpyOzsejbM/2000x1500.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1425,
+              "url": "http://a.mktgcdn.com/p-sandbox/m1kb_1ETTDj47qvy6UwCoAQwKa-_sdiSNrpyOzsejbM/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p-sandbox/m1kb_1ETTDj47qvy6UwCoAQwKa-_sdiSNrpyOzsejbM/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/m1kb_1ETTDj47qvy6UwCoAQwKa-_sdiSNrpyOzsejbM/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p-sandbox/m1kb_1ETTDj47qvy6UwCoAQwKa-_sdiSNrpyOzsejbM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/m1kb_1ETTDj47qvy6UwCoAQwKa-_sdiSNrpyOzsejbM/2000x1500.jpg",
+          "width": 2000
+        }
+      },
+      {
+        "description": "店内写真",
+        "image": {
+          "alternateText": "店内写真",
+          "height": 1500,
+          "sourceUrl": "https://a.mktgcdn.com/p/7X5iwPfSlT9Q7ptguLgUwiRn50XHEojYHdZCNeNaMrg/2000x1500.jpg",
+          "thumbnails": [
+            {
+              "height": 1500,
+              "url": "http://a.mktgcdn.com/p-sandbox/7X5iwPfSlT9Q7ptguLgUwiRn50XHEojYHdZCNeNaMrg/2000x1500.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1425,
+              "url": "http://a.mktgcdn.com/p-sandbox/7X5iwPfSlT9Q7ptguLgUwiRn50XHEojYHdZCNeNaMrg/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p-sandbox/7X5iwPfSlT9Q7ptguLgUwiRn50XHEojYHdZCNeNaMrg/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/7X5iwPfSlT9Q7ptguLgUwiRn50XHEojYHdZCNeNaMrg/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p-sandbox/7X5iwPfSlT9Q7ptguLgUwiRn50XHEojYHdZCNeNaMrg/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/7X5iwPfSlT9Q7ptguLgUwiRn50XHEojYHdZCNeNaMrg/2000x1500.jpg",
+          "width": 2000
+        }
+      },
+      {
+        "description": "店内写真",
+        "image": {
+          "alternateText": "店内写真",
+          "height": 1500,
+          "sourceUrl": "https://a.mktgcdn.com/p/Qiy6sSzzTfTo0DsPQN9U6AMhdcPQ7j9saPhXZhGbmWY/2000x1500.jpg",
+          "thumbnails": [
+            {
+              "height": 1500,
+              "url": "http://a.mktgcdn.com/p-sandbox/Qiy6sSzzTfTo0DsPQN9U6AMhdcPQ7j9saPhXZhGbmWY/2000x1500.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1425,
+              "url": "http://a.mktgcdn.com/p-sandbox/Qiy6sSzzTfTo0DsPQN9U6AMhdcPQ7j9saPhXZhGbmWY/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p-sandbox/Qiy6sSzzTfTo0DsPQN9U6AMhdcPQ7j9saPhXZhGbmWY/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/Qiy6sSzzTfTo0DsPQN9U6AMhdcPQ7j9saPhXZhGbmWY/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p-sandbox/Qiy6sSzzTfTo0DsPQN9U6AMhdcPQ7j9saPhXZhGbmWY/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/Qiy6sSzzTfTo0DsPQN9U6AMhdcPQ7j9saPhXZhGbmWY/2000x1500.jpg",
+          "width": 2000
+        }
+      },
+      {
+        "description": "店舗外観",
+        "image": {
+          "alternateText": "店舗外観",
+          "height": 1500,
+          "sourceUrl": "https://a.mktgcdn.com/p/zvMcJ_KLFkUD_bNtVYMsbBo5OQwiZmwBa9cCjS-yuZQ/2000x1500.jpg",
+          "thumbnails": [
+            {
+              "height": 1500,
+              "url": "http://a.mktgcdn.com/p-sandbox/zvMcJ_KLFkUD_bNtVYMsbBo5OQwiZmwBa9cCjS-yuZQ/2000x1500.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1425,
+              "url": "http://a.mktgcdn.com/p-sandbox/zvMcJ_KLFkUD_bNtVYMsbBo5OQwiZmwBa9cCjS-yuZQ/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p-sandbox/zvMcJ_KLFkUD_bNtVYMsbBo5OQwiZmwBa9cCjS-yuZQ/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/zvMcJ_KLFkUD_bNtVYMsbBo5OQwiZmwBa9cCjS-yuZQ/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p-sandbox/zvMcJ_KLFkUD_bNtVYMsbBo5OQwiZmwBa9cCjS-yuZQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/zvMcJ_KLFkUD_bNtVYMsbBo5OQwiZmwBa9cCjS-yuZQ/2000x1500.jpg",
+          "width": 2000
+        }
+      },
+      {
+        "description": "店舗外観",
+        "image": {
+          "alternateText": "店舗外観",
+          "height": 1500,
+          "sourceUrl": "https://a.mktgcdn.com/p/VFArmT7qnt9s6AZ_rFp0Re1SkypuQuMntqeoxmsgwZs/2000x1500.jpg",
+          "thumbnails": [
+            {
+              "height": 1500,
+              "url": "http://a.mktgcdn.com/p-sandbox/VFArmT7qnt9s6AZ_rFp0Re1SkypuQuMntqeoxmsgwZs/2000x1500.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1425,
+              "url": "http://a.mktgcdn.com/p-sandbox/VFArmT7qnt9s6AZ_rFp0Re1SkypuQuMntqeoxmsgwZs/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p-sandbox/VFArmT7qnt9s6AZ_rFp0Re1SkypuQuMntqeoxmsgwZs/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/VFArmT7qnt9s6AZ_rFp0Re1SkypuQuMntqeoxmsgwZs/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p-sandbox/VFArmT7qnt9s6AZ_rFp0Re1SkypuQuMntqeoxmsgwZs/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/VFArmT7qnt9s6AZ_rFp0Re1SkypuQuMntqeoxmsgwZs/2000x1500.jpg",
+          "width": 2000
+        }
+      },
+      {
+        "description": "店舗外観",
+        "image": {
+          "alternateText": "店舗外観",
+          "height": 1500,
+          "sourceUrl": "https://a.mktgcdn.com/p/2d2JMsqVGPfOvMVtX-Sbu3rGAupJHQkkaZBKIjAlco0/2000x1500.jpg",
+          "thumbnails": [
+            {
+              "height": 1500,
+              "url": "http://a.mktgcdn.com/p-sandbox/2d2JMsqVGPfOvMVtX-Sbu3rGAupJHQkkaZBKIjAlco0/2000x1500.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1425,
+              "url": "http://a.mktgcdn.com/p-sandbox/2d2JMsqVGPfOvMVtX-Sbu3rGAupJHQkkaZBKIjAlco0/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p-sandbox/2d2JMsqVGPfOvMVtX-Sbu3rGAupJHQkkaZBKIjAlco0/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/2d2JMsqVGPfOvMVtX-Sbu3rGAupJHQkkaZBKIjAlco0/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p-sandbox/2d2JMsqVGPfOvMVtX-Sbu3rGAupJHQkkaZBKIjAlco0/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/2d2JMsqVGPfOvMVtX-Sbu3rGAupJHQkkaZBKIjAlco0/2000x1500.jpg",
+          "width": 2000
+        }
+      }
+    ],
+    "reservationUrl": {
+      "url": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVerBd"
+    },
+    "slug": "[[entityId]]",
+    "tikTokUrl": "https://www.tiktok.com/@jtb_jp",
+    "timezone": "Asia/Tokyo",
+    "tollFreePhone": "+81584880433",
+    "twitterHandle": "JTB_jp",
+    "websiteUrl": {
+      "preferDisplayUrl": false,
+      "url": "https://stores.jtb.co.jp/t5667-0"
+    },
+    "youTubeChannelUrl": "https://www.youtube.com/channel/UCjDeNR2xFC4wFh3txHql20Q"
+  },
+  "entityType": "location",
+  "folder": "298854",
+  "labels": [
+    "label1営業店舗"
+  ]
+}

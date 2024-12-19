@@ -1,0 +1,288 @@
+{
+  "$id": "ap_chiki_100004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター ゆり"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "「エディション」は世界７か国、計11ホテル展開されているマリオット・インターナショナルの最高級ブランド(2021/9/24現在)。革新的なホテリエとして知られるイアン・シュレーガー氏とマリオットのコラボレーションによる新世代のラグジュアリーライフスタイルホテルです。日本初上陸した虎ノ門のエディションも、もちろんイアン氏が手掛けています。そのため、東京のど真ん中にいながら、海外と同じ世界観を味わうことができるんです。日本では、イアン氏と国立競技場をデザインしたあの隈研吾氏が手を組み、「東京エディション虎ノ門」を創り上げました。たくさんの緑と木製の庇に囲まれたロビーは、ドキドキするようなエディションの世界観を残しつつ、なぜかホッとするような和の心を感じる、他にはない独創的な空間になっています。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/6Ix-9GhxAI0KRB1mQFNHblb61GIiIG6IbdmniAFvrbM/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/6Ix-9GhxAI0KRB1mQFNHblb61GIiIG6IbdmniAFvrbM/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/6Ix-9GhxAI0KRB1mQFNHblb61GIiIG6IbdmniAFvrbM/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/6Ix-9GhxAI0KRB1mQFNHblb61GIiIG6IbdmniAFvrbM/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/6Ix-9GhxAI0KRB1mQFNHblb61GIiIG6IbdmniAFvrbM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6Ix-9GhxAI0KRB1mQFNHblb61GIiIG6IbdmniAFvrbM/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ニューヨークと虎ノ門のエディションのロビーを比較すると、どことなく似ているんです",
+        "sectionTitle": "まるで海外のホテルに滞在しているような唯一無二な空間"
+      },
+      {
+        "description": "”ラグジュアリーホテル”というと、スーツを着て、ヒールを履いて、目一杯良いものを身に着けて…というイメージがありませんか？ここ、東京エディション虎ノ門Lobby Barのドレスコードはスマートカジュアル。肩肘の張らないスマートなファッションを着こなす人が集っています。エディションは、ありのままの自分を受け入れ、そして楽しむことをブランドのDNAとしています。これには、お客様のお好きなスタイルで、まるで自宅のいるかのようにリラックスしてほしい、というメッセージが込められています。日々お仕事を、家事を、子育てを頑張っているご褒美として思い切りリラックスするのもよし、大切な方と一緒に、何でもない日を（もちろん記念日にも）優雅に過ごすのもよし、気兼ねなくラグジュアリーホテルを満喫できます。ロビーに埋め尽くされたグリーンに目を向けたり、窓から景色を眺めたり、ぜひお客様一人ひとりに合った過ごし方を見つけていただければと思います。いつもとちょっと違う空間にいるだけで、また新たな発見があるかもしれません。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/HJrEuFzi_3O_MIkgDOzZUseQs6iBTkowf6P1wcoY9_0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/HJrEuFzi_3O_MIkgDOzZUseQs6iBTkowf6P1wcoY9_0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/HJrEuFzi_3O_MIkgDOzZUseQs6iBTkowf6P1wcoY9_0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/HJrEuFzi_3O_MIkgDOzZUseQs6iBTkowf6P1wcoY9_0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/HJrEuFzi_3O_MIkgDOzZUseQs6iBTkowf6P1wcoY9_0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HJrEuFzi_3O_MIkgDOzZUseQs6iBTkowf6P1wcoY9_0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "溢れるような植栽で緩やかに仕切られたLobby Barのソファ席",
+        "sectionTitle": "肩の力を抜いて、自分へのご褒美を"
+      },
+      {
+        "description": "さて、ホテルといえば肝心なのは客室。個性的なロビーとは打って変わって、客室は無駄のない、シンプルな空間になっています。ベッドはもちろん広々、正方形の窓は「額縁」に見立てていて、移り行く景色を一つの作品として表しています。一番のおすすめはテラス付のお部屋(スタジオテラス及びロフトテラス客室)。これからの季節は、テラスに本を持ち込んでデトックスステイなんていうのもいいかもしれません。気になるアメニティは、ニューヨークのヴィーガン パフューマリーLe Laboが、エディションのために開発したオリジナルのものを使用。この香りが好きでリピーターとなっているお客様もいらっしゃるそうです。そして何より驚くのは歯ブラシ・櫛・お部屋のキーまでもがプラスチックフリー、つまり木製です。オシャレでありながら、きちんと環境にも配慮されているのもポイントです。",
+        "image": {
+          "height": 802,
+          "sourceUrl": "https://a.mktgcdn.com/p/SY28cgLszEWvlA66OlVEoBCRoGsKcaaQcp8S7970iFs/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "https://a.mktgcdn.com/p-sandbox/SY28cgLszEWvlA66OlVEoBCRoGsKcaaQcp8S7970iFs/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/SY28cgLszEWvlA66OlVEoBCRoGsKcaaQcp8S7970iFs/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/SY28cgLszEWvlA66OlVEoBCRoGsKcaaQcp8S7970iFs/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/SY28cgLszEWvlA66OlVEoBCRoGsKcaaQcp8S7970iFs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SY28cgLszEWvlA66OlVEoBCRoGsKcaaQcp8S7970iFs/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "〔画像左上：デラックス タワービュー キング／右上：アメニティ／下段：スタジオテラス客室〕",
+        "sectionTitle": "無駄をそぎ落とした、シンプルでエシカルな客室"
+      },
+      {
+        "description": "ご褒美ステイに欠かせないのがホテルでの朝食。レストラン「The Blue Room」はその名の通り、「ブルー」で彩られた空間です。朝食は和朝食と洋朝食、どちらかをお選びいただけます。メニューは、和朝食：煮物・焼き魚・小鉢・自家製ピクルス・白米(又は玄米)・お味噌汁・フルーツ・ジュース、洋朝食：コールドミール(火を使わないお料理)プレート・オーガニック卵料理・パン・フルーツ・ジュースのセットメニューになっています。写真の卵料理はホテルの方イチオシの「エッグ＆ベーコンサンドイッチ」。見た目は色鮮やかで、美味しさはもちろん、ボリュームも満点です。他にも、アボカドトーストやエッグベネディクトなど、また別のメニューを食べてみたい！と思わせるメニューばかりです。連泊して毎朝違うメインを楽しむのもいいかもしれません。",
+        "image": {
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/6oCGgn0vBkttHsckWI4orz4f8cAfl3amP2ambES4bQE/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/6oCGgn0vBkttHsckWI4orz4f8cAfl3amP2ambES4bQE/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/6oCGgn0vBkttHsckWI4orz4f8cAfl3amP2ambES4bQE/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/6oCGgn0vBkttHsckWI4orz4f8cAfl3amP2ambES4bQE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/6oCGgn0vBkttHsckWI4orz4f8cAfl3amP2ambES4bQE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6oCGgn0vBkttHsckWI4orz4f8cAfl3amP2ambES4bQE/1200x799.jpg",
+          "width": 1200
+        },
+        "imageCaption": "〔画像左上：The Blue Room／右上：和朝食／下段：洋朝食〕味だけでなく、見た目も美しい朝食",
+        "sectionTitle": "朝食は「The Blue Room（ザ・ブルー ルーム）」で"
+      },
+      {
+        "description": "今回は東京エディション虎ノ門のご紹介をさせていただきました。正直、万人受けするようなコンセプトではないかもしれません。しかし一度ハマってしまうと、この世界観に魅了され、何度も行きたくなってしまう、そんな中毒性のあるホテルです。・ホテルステイが好き・人とちがうものが好き・海外が好き、海外の雰囲気が好き・自分へのご褒美を探し中…そんな方は、ぜひ一度足を運んでみてください。----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "image": {
+          "height": 1071,
+          "sourceUrl": "https://a.mktgcdn.com/p/2Ut9ujlra7s9PyYF5GBj0sIUdud8pkoDqSt6CbnQOd4/3200x1071.jpg",
+          "thumbnails": [
+            {
+              "height": 1071,
+              "url": "https://a.mktgcdn.com/p-sandbox/2Ut9ujlra7s9PyYF5GBj0sIUdud8pkoDqSt6CbnQOd4/3200x1071.jpg",
+              "width": 3200
+            },
+            {
+              "height": 636,
+              "url": "https://a.mktgcdn.com/p-sandbox/2Ut9ujlra7s9PyYF5GBj0sIUdud8pkoDqSt6CbnQOd4/1900x636.jpg",
+              "width": 1900
+            },
+            {
+              "height": 207,
+              "url": "https://a.mktgcdn.com/p-sandbox/2Ut9ujlra7s9PyYF5GBj0sIUdud8pkoDqSt6CbnQOd4/619x207.jpg",
+              "width": 619
+            },
+            {
+              "height": 201,
+              "url": "https://a.mktgcdn.com/p-sandbox/2Ut9ujlra7s9PyYF5GBj0sIUdud8pkoDqSt6CbnQOd4/600x201.jpg",
+              "width": 600
+            },
+            {
+              "height": 66,
+              "url": "https://a.mktgcdn.com/p-sandbox/2Ut9ujlra7s9PyYF5GBj0sIUdud8pkoDqSt6CbnQOd4/196x66.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2Ut9ujlra7s9PyYF5GBj0sIUdud8pkoDqSt6CbnQOd4/3200x1071.jpg",
+          "width": 3200
+        },
+        "imageCaption": "〔画像左：Lobby Bar ／画像右：Lobby Bar でのカクテル〕夜は音楽もより一層ドラマチックに聞こえます"
+      }
+    ],
+    "c_ap_DatePosted": "2021-10-04",
+    "c_ap_HeroImage": {
+      "alternateText": "個性派ホテルでご褒美ステイ♪【東京エディション虎ノ門】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/JHnihsoT2FD9rms2zrQexZCBww2gadMxxClSA0AjZFE/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/JHnihsoT2FD9rms2zrQexZCBww2gadMxxClSA0AjZFE/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/JHnihsoT2FD9rms2zrQexZCBww2gadMxxClSA0AjZFE/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/JHnihsoT2FD9rms2zrQexZCBww2gadMxxClSA0AjZFE/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/JHnihsoT2FD9rms2zrQexZCBww2gadMxxClSA0AjZFE/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/JHnihsoT2FD9rms2zrQexZCBww2gadMxxClSA0AjZFE/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkArticleSectionTitle": "東京都のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "「東京エディション虎ノ門」のWebで予約できるプランはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/4015018/plan/?hotellistsort\u003drecommend\u0026staynight\u003d1\u0026room\u003d1\u0026roomassign\u003dm0f0a0b0c0d0\u0026mapdisp\u003d0\u0026planinfokeywordon\u003d1\u0026tyfilteron\u003d1\u0026hotel\u003d4015018\u0026stayplacedisplay\u003d%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3%E8%99%8E%E3%83%8E%E9%96%80"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "東京都"
+    ],
+    "c_ap_ShortDescription": "コロナ禍になり、海外旅行の代わりや自分へのご褒美に、国内のホテルを利用する機会が増えているのではないでしょうか？　今回紹介する「東京エディション虎ノ門」は、\"高級ホテル\"というだけでは物足りないホテルステイ上級者の方や、いつもと違った雰囲気を味わいたい！と思っている方にピッタリ！ そんな個性派ホテルをご紹介いたします！",
+    "c_ap_Tags": [
+      "ホテルステイ",
+      "高級ホテル",
+      "記念日"
+    ],
+    "c_ap_Theme": [
+      "一人旅",
+      "夫婦旅",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "個性派ホテルでご褒美ステイ♪【東京都　東京エディション虎ノ門】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "コロナ禍になり、海外旅行の代わりや自分へのご褒美に、国内のホテルを利用する機会が増えているのではないでしょうか？　今回紹介する「東京エディション虎ノ門」は、\"高級ホテル\"というだけでは物足りないホテルステイ上…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "個性派ホテルでご褒美ステイ♪【東京エディション虎ノ門】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100004",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "東京都",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "個性派ホテルでご褒美ステイ♪【東京エディション虎ノ門】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

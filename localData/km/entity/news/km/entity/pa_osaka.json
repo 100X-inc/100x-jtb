@@ -1,0 +1,46 @@
+{
+  "$id": "news_pa_osaka",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kokunai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "大阪",
+      "link": "https://www.jtb.co.jp/news/list/kokunai/kansai/osaka",
+      "linkType": "OTHER"
+    },
+    "c_news_PopularAreasImage": {
+      "height": 459,
+      "sourceUrl": "https://a.mktgcdn.com/p/mJbmgnBiMPZtrNDRei1fLiUGSmOx-bh-fxVhHImqPR0/1198x459.jpg",
+      "thumbnails": [
+        {
+          "height": 459,
+          "url": "https://a.mktgcdn.com/p-sandbox/mJbmgnBiMPZtrNDRei1fLiUGSmOx-bh-fxVhHImqPR0/1198x459.jpg",
+          "width": 1198
+        },
+        {
+          "height": 237,
+          "url": "https://a.mktgcdn.com/p-sandbox/mJbmgnBiMPZtrNDRei1fLiUGSmOx-bh-fxVhHImqPR0/619x237.jpg",
+          "width": 619
+        },
+        {
+          "height": 230,
+          "url": "https://a.mktgcdn.com/p-sandbox/mJbmgnBiMPZtrNDRei1fLiUGSmOx-bh-fxVhHImqPR0/600x230.jpg",
+          "width": 600
+        },
+        {
+          "height": 75,
+          "url": "https://a.mktgcdn.com/p-sandbox/mJbmgnBiMPZtrNDRei1fLiUGSmOx-bh-fxVhHImqPR0/196x75.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/mJbmgnBiMPZtrNDRei1fLiUGSmOx-bh-fxVhHImqPR0/1198x459.jpg",
+      "width": 1198
+    },
+    "name": "大阪"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

@@ -1,0 +1,630 @@
+{
+  "$id": "news_ap_chiki_100168",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 北海道担当　米倉 美憂"
+    },
+    "c_ap_HeroImage": {
+      "height": 720,
+      "sourceUrl": "http://a.mktgcdn.com/p/cAoDtZ29VzFdZBwsgbq3lh5c_YfJE5PKd47FQL0w-Dk/1280x720.jpg",
+      "thumbnails": [
+        {
+          "height": 720,
+          "url": "//a.mktgcdn.com/p-sandbox/0ne8honNnoY-LKojXyPEv37qx12GySwq3NUY64FKCJc/1280x720.jpg",
+          "width": 1280
+        },
+        {
+          "height": 348,
+          "url": "//a.mktgcdn.com/p-sandbox/0ne8honNnoY-LKojXyPEv37qx12GySwq3NUY64FKCJc/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "//a.mktgcdn.com/p-sandbox/0ne8honNnoY-LKojXyPEv37qx12GySwq3NUY64FKCJc/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "//a.mktgcdn.com/p-sandbox/0ne8honNnoY-LKojXyPEv37qx12GySwq3NUY64FKCJc/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/0ne8honNnoY-LKojXyPEv37qx12GySwq3NUY64FKCJc/1280x720.jpg",
+      "width": 1280
+    },
+    "c_ap_HeroImageCaption": "５つのツアー＆スポットを巡って知床の魅力を満喫しよう！",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "北海道旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/hokkaido/"
+      },
+      {
+        "linkText": "北海道のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/hokkaido/"
+      },
+      {
+        "linkText": "エンジョイ知床・網走",
+        "uRL": "https://www.jtb.co.jp/kokunai/dynamic/enjoy/shiretoko/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "世界自然遺産の『知床』に来たら絶対に体験したいツアー＆スポットを厳選。\nダイナミックな自然の中でのびのびと過ごす野生動物に出会える夏から、本州より一足早く訪れる紅葉への移り変わりなど、多彩な表情を見せる知床の魅力をアクティブに、限られた時間で効率よく巡るモデルコースでご紹介します。",
+    "c_ap_Tags": [
+      "温泉",
+      "観光スポット",
+      "自然",
+      "モデルコース",
+      "知床"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "ファミリー",
+      "一人旅",
+      "夫婦旅",
+      "グループ",
+      "自然・山",
+      "世界遺産",
+      "スポーツ観戦",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "【世界自然遺産「知床」】大自然と野生動物に出会う旅　おすすめ観光・体験が詰まった２日間 モデルコース",
+    "c_linkedArea3News": [
+      "hokkaido_all"
+    ],
+    "c_metaDescription": "世界自然遺産の『知床』に来たら絶対に体験したいツアー＆スポットを厳選。ダイナミックな自然の中でのびのびと過ごす野生動物に出会える夏から、本州より一足早く訪れる紅葉への移り変わりなど、多彩な表情を見せる知床の魅…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "【世界自然遺産「知床」】大自然と野生動物に出会う旅　おすすめ観光・体験が詰まった２日間 モデルコース | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "リモートでの旅行相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#consultants",
+        "linkType": "URL"
+      },
+      {
+        "label": "JTB店舗・専門店への相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#locator",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "澄んだ空気や陽差し、風を全身で感じながら、知床の森を思い切り駆け抜ける爽快な体験がこちらのツアーです。出発地となる標高740mの知床峠までは、市街地からの移りゆく景観を眺めながら車で移動。峠に到着したら自転車にまたがり、いよいよダウンヒルのスタート。",
+        "image": {
+          "height": 960,
+          "sourceUrl": "http://a.mktgcdn.com/p/PPTM1CpfVYeUr-7CmTtriXIdvM0Lw-7d2XsGmQwjlzQ/1280x960.jpg",
+          "thumbnails": [
+            {
+              "height": 960,
+              "url": "//a.mktgcdn.com/p-sandbox/PPTM1CpfVYeUr-7CmTtriXIdvM0Lw-7d2XsGmQwjlzQ/1280x960.jpg",
+              "width": 1280
+            },
+            {
+              "height": 464,
+              "url": "//a.mktgcdn.com/p-sandbox/PPTM1CpfVYeUr-7CmTtriXIdvM0Lw-7d2XsGmQwjlzQ/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/PPTM1CpfVYeUr-7CmTtriXIdvM0Lw-7d2XsGmQwjlzQ/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/PPTM1CpfVYeUr-7CmTtriXIdvM0Lw-7d2XsGmQwjlzQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/PPTM1CpfVYeUr-7CmTtriXIdvM0Lw-7d2XsGmQwjlzQ/1280x960.jpg",
+          "width": 1280
+        },
+        "imageCaption": "雄大な知床連山をバックに、国立公園を駆け抜けます。",
+        "sectionTitle": "1日目午前：知床峠ダウンヒルツアー"
+      },
+      {
+        "description": "坂道を下るので体力に自信がなくても安心して参加できます。",
+        "image": {
+          "height": 960,
+          "sourceUrl": "http://a.mktgcdn.com/p/LGQCdPZoBq--6Zw1i6Ais0FQOF9u1oBpMDsq5SZ-QMw/1280x960.jpg",
+          "thumbnails": [
+            {
+              "height": 960,
+              "url": "//a.mktgcdn.com/p-sandbox/LGQCdPZoBq--6Zw1i6Ais0FQOF9u1oBpMDsq5SZ-QMw/1280x960.jpg",
+              "width": 1280
+            },
+            {
+              "height": 464,
+              "url": "//a.mktgcdn.com/p-sandbox/LGQCdPZoBq--6Zw1i6Ais0FQOF9u1oBpMDsq5SZ-QMw/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/LGQCdPZoBq--6Zw1i6Ais0FQOF9u1oBpMDsq5SZ-QMw/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/LGQCdPZoBq--6Zw1i6Ais0FQOF9u1oBpMDsq5SZ-QMw/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/LGQCdPZoBq--6Zw1i6Ais0FQOF9u1oBpMDsq5SZ-QMw/1280x960.jpg",
+          "width": 1280
+        },
+        "imageCaption": "坂道を下るので体力に自信がなくても安心して参加できます。",
+        "sectionTitle": "1日目午後：MEGAスクリーン「KINETOKO」"
+      },
+      {
+        "description": "初心者やお子様でも気軽に楽しめるツアーです。知床の爽やかな風を全身で体感してみてはいかがでしょうか。施設名：知床サイクリングサポート▶\u003cspan style\u003d\"color:#3498DB;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai/dynamic/enjoy/shiretoko/coupon/menu/23140030.asp\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e知床峠ダウンヒルツアー　詳細はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 960,
+          "sourceUrl": "http://a.mktgcdn.com/p/owgRC5WWoyIJjC1Gz_OLYOFo9AJZEMi8DT4skSqnTS8/1280x960.jpg",
+          "thumbnails": [
+            {
+              "height": 960,
+              "url": "//a.mktgcdn.com/p-sandbox/owgRC5WWoyIJjC1Gz_OLYOFo9AJZEMi8DT4skSqnTS8/1280x960.jpg",
+              "width": 1280
+            },
+            {
+              "height": 464,
+              "url": "//a.mktgcdn.com/p-sandbox/owgRC5WWoyIJjC1Gz_OLYOFo9AJZEMi8DT4skSqnTS8/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/owgRC5WWoyIJjC1Gz_OLYOFo9AJZEMi8DT4skSqnTS8/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/owgRC5WWoyIJjC1Gz_OLYOFo9AJZEMi8DT4skSqnTS8/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/owgRC5WWoyIJjC1Gz_OLYOFo9AJZEMi8DT4skSqnTS8/1280x960.jpg",
+          "width": 1280
+        },
+        "imageCaption": "自転車を走らせながら、目の前に広がる大自然を満喫しましょう。",
+        "sectionTitle": "1日目夜：知床ナイトサファリツアー"
+      },
+      {
+        "description": "午後はゆっくりと学びの時間を。知床観光の拠点の一つ、「知床自然センター」内にある北海道最大級の高さ12m×幅20mの巨大スクリーンで、知床の大自然を満喫しましょう。会場では、「知床の冒険」「THE LIMIT」の2作品を中心に上映。1作品が約20分〜30分おきに上映されるので、アクティビティの合間でも鑑賞しやすくおすすめです。「知床の冒険」では、知床の大自然に包まれているような感覚や、まるで動植物の目線に立ったかのような気分に。「THE LIMIT」では、人間とヒグマが“暮らす場所”を共にするからこそ浮かび上がる課題を提起した、知床ならではのノンフィクションストーリー。体に響き渡るような5.1chのサウンドと圧巻の4K映像で知床の大自然を「体感」するように 楽しめます。時期や天候などにも左右されず、いつでも気軽に鑑賞できるので、知床観光と合わせて立ち寄ってみましょう。※最新の上映スケジュールは公式ホームページでご確認ください。施設名：知床自然センター▶\u003cspan style\u003d\"color:#3498DB;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai/dynamic/enjoy/shiretoko/coupon/menu/23140001.asp\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eMEGAスクリーン「KINETOKO」　詳細はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 1600,
+          "sourceUrl": "http://a.mktgcdn.com/p/puJ1rDR54j6JVseStwQswqQv84kdvk6an0_C0EEx0QI/1200x1600.jpg",
+          "thumbnails": [
+            {
+              "height": 1600,
+              "url": "//a.mktgcdn.com/p-sandbox/lzscf5htwxBdd19GR_PLydrst22CiGHF_YjRoRfUQcE/1200x1600.jpg",
+              "width": 1200
+            },
+            {
+              "height": 825,
+              "url": "//a.mktgcdn.com/p-sandbox/lzscf5htwxBdd19GR_PLydrst22CiGHF_YjRoRfUQcE/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/lzscf5htwxBdd19GR_PLydrst22CiGHF_YjRoRfUQcE/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "//a.mktgcdn.com/p-sandbox/lzscf5htwxBdd19GR_PLydrst22CiGHF_YjRoRfUQcE/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/lzscf5htwxBdd19GR_PLydrst22CiGHF_YjRoRfUQcE/1200x1600.jpg",
+          "width": 1200
+        },
+        "imageCaption": "旅の情報収集ができる他、お買い物やカフェ、企画展示まで楽しめる「知床自然センター」",
+        "sectionTitle": "2日目午前：「フレペの滝ガイドウォーク」"
+      },
+      {
+        "description": "宿には早めのチェックインをして、ウトロ温泉で疲れを癒し、道産ならではのこだわり夕食を楽しみます。でも、これで1日目は終わりません。日没を過ぎてもアクティビティを楽しめるのが知床の魅力です。夕方に到着した方や、宿泊先での食後などに「もう少し遊びたいな」という方におすすめなのが、こちらのツアーです。夜の静かな国立公園内を車で移動しながら、貸出されるライトを車外へ照らしてキツネやエゾシカなどの野生動物を探します。暗闇の中で光る動物の瞳を目印に目を凝らしますが、野生動物を見つけることができた瞬間は大興奮！ガイドやほかの参加者と協力して「あそこにいる！」「見つけたぞー！」と声を掛け合いながら探していく時間にこのツアーの楽しさが詰まっています。夜の森を進んでいくスリルを味わいながら、動物探しを楽しんでみませんか？※野生動物との遭遇は確約できません。予めご了承ください。施設名：ピッキオ知床▶\u003cspan style\u003d\"color:#3498DB;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai/dynamic/enjoy/shiretoko/coupon/menu/23140026.asp\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e知床ナイトサファリツアー　詳細はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 900,
+          "sourceUrl": "http://a.mktgcdn.com/p/o4tZ9EPxPnZIoYJQ945MPnd-4kby_JL-6LINbmLXDPk/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "//a.mktgcdn.com/p-sandbox/MCIYLayeoU5rNrvkx0562q-ijFMIVh7gGTLcwbL4JOY/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "//a.mktgcdn.com/p-sandbox/MCIYLayeoU5rNrvkx0562q-ijFMIVh7gGTLcwbL4JOY/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/MCIYLayeoU5rNrvkx0562q-ijFMIVh7gGTLcwbL4JOY/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/MCIYLayeoU5rNrvkx0562q-ijFMIVh7gGTLcwbL4JOY/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/MCIYLayeoU5rNrvkx0562q-ijFMIVh7gGTLcwbL4JOY/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "まるで映画館のような入口が印象的な MEGAスクリーン「KINETOKO」",
+        "sectionTitle": "2日目午後：オホーツク流氷館"
+      },
+      {
+        "description": "自然の力強さを感じる荒々しい断崖と、雄大なオホーツク海の景色。知床らしい迫力のある絶景を楽しめるのがこちらのツアーです。午前5時からツアーがはじまりますが、宿からの送迎があり安心。知床のエリアに精通したガイドから「自然や動植物の知識」「ヒグマに遭遇した際の注意事項」を学びいよいよ出発です。五感を研ぎ澄ませながら遊歩道を歩いて進むと、開拓時代に馬の放牧地として切り拓かれたという草原が広がり、壮大で厳しい自然環境のなかで営んできた人々の暮らしに思いを馳せます。",
+        "image": {
+          "height": 509,
+          "sourceUrl": "http://a.mktgcdn.com/p/IdqVmaacf-g4rRMiiU8EYNdUKxG3x3RO8Nx6T48omvM/1024x509.jpg",
+          "thumbnails": [
+            {
+              "height": 509,
+              "url": "//a.mktgcdn.com/p-sandbox/9VfrgoGuzFrc1u2nIycv8uN7XaoEupF75GfFaA8YO7M/1024x509.jpg",
+              "width": 1024
+            },
+            {
+              "height": 308,
+              "url": "//a.mktgcdn.com/p-sandbox/9VfrgoGuzFrc1u2nIycv8uN7XaoEupF75GfFaA8YO7M/619x308.jpg",
+              "width": 619
+            },
+            {
+              "height": 298,
+              "url": "//a.mktgcdn.com/p-sandbox/9VfrgoGuzFrc1u2nIycv8uN7XaoEupF75GfFaA8YO7M/600x298.jpg",
+              "width": 600
+            },
+            {
+              "height": 97,
+              "url": "//a.mktgcdn.com/p-sandbox/9VfrgoGuzFrc1u2nIycv8uN7XaoEupF75GfFaA8YO7M/196x97.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/9VfrgoGuzFrc1u2nIycv8uN7XaoEupF75GfFaA8YO7M/1024x509.jpg",
+          "width": 1024
+        },
+        "imageCaption": "全146席のシートがあります。巨大スクリーンで観賞する知床の映像は圧巻！",
+        "sectionTitle": "ご紹介したモデルコースを満喫するには「エンジョイ知床・網走」がおすすめ"
+      },
+      {
+        "description": "時間帯や天候にもよりますが、運が良ければ知床の森に暮らす野生動物に出会えることも。ゴールは断崖をつたって零れ落ちる「フレペの滝」。その可憐に流れる姿から、別名「乙女の涙」と呼ばれる絶景ポイントです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/CVrBk5fLpnXT_KnieAIkWHV3TXx8I132GS_OEnSu9h4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/UbgHzuDVZrbSPmaH2XPGXyIeSDmjjQj0rCY_M3tdIZc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/UbgHzuDVZrbSPmaH2XPGXyIeSDmjjQj0rCY_M3tdIZc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/UbgHzuDVZrbSPmaH2XPGXyIeSDmjjQj0rCY_M3tdIZc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/UbgHzuDVZrbSPmaH2XPGXyIeSDmjjQj0rCY_M3tdIZc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/UbgHzuDVZrbSPmaH2XPGXyIeSDmjjQj0rCY_M3tdIZc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "野生動物と出会えるかは、運次第！"
+      },
+      {
+        "description": "https://www.jtb.co.jp/kokunai/dynamic/enjoy/shiretoko/coupon/menu/23140020.asp",
+        "image": {
+          "height": 971,
+          "sourceUrl": "http://a.mktgcdn.com/p/3riumFpwkRU1o-NlJdOYCPaZsCSkuK3kHMV9IH6qyjc/1295x971.jpg",
+          "thumbnails": [
+            {
+              "height": 971,
+              "url": "//a.mktgcdn.com/p-sandbox/3riumFpwkRU1o-NlJdOYCPaZsCSkuK3kHMV9IH6qyjc/1295x971.jpg",
+              "width": 1295
+            },
+            {
+              "height": 464,
+              "url": "//a.mktgcdn.com/p-sandbox/3riumFpwkRU1o-NlJdOYCPaZsCSkuK3kHMV9IH6qyjc/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/3riumFpwkRU1o-NlJdOYCPaZsCSkuK3kHMV9IH6qyjc/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/3riumFpwkRU1o-NlJdOYCPaZsCSkuK3kHMV9IH6qyjc/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/3riumFpwkRU1o-NlJdOYCPaZsCSkuK3kHMV9IH6qyjc/1295x971.jpg",
+          "width": 1295
+        },
+        "imageCaption": "突然姿を現す動物に、思わず驚きと喜びの声が沸き上がります。"
+      },
+      {
+        "description": "最終日、女満別空港からの帰路の前に立ち寄りたいのが道東の玄関口網走市内。「オホーツク流氷館」は、知床・網走で一度は見てみたい “流氷”を季節問わず楽しめる展示施設です。2023年1月にリニューアルし、流氷の世界をより一層楽しめる「流氷海中ライブ」では、前面に広がるスクリーンに360度カメラで撮影した映像で、まるで潜っているような臨場感で流氷の世界を体験できます。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "http://a.mktgcdn.com/p/EppNUjH0lbiyXHue0w6qwLyD7PoSgywz8oAiIzYACfs/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "//a.mktgcdn.com/p-sandbox/EppNUjH0lbiyXHue0w6qwLyD7PoSgywz8oAiIzYACfs/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "//a.mktgcdn.com/p-sandbox/EppNUjH0lbiyXHue0w6qwLyD7PoSgywz8oAiIzYACfs/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/EppNUjH0lbiyXHue0w6qwLyD7PoSgywz8oAiIzYACfs/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/EppNUjH0lbiyXHue0w6qwLyD7PoSgywz8oAiIzYACfs/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/EppNUjH0lbiyXHue0w6qwLyD7PoSgywz8oAiIzYACfs/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "陸・空・海のコントラストに心が洗われます"
+      },
+      {
+        "description": "飼育展示では、オホーツク海に生息する希少な生き物を間近で見ることができますが、なかでも”流氷の天使”と呼ばれるクリオネは必見。また、マイナス15℃の室内で本物の流氷に触ったり、濡れたタオルを凍らせる「しばれ体験」は大人気！ぜひ実物の流氷の大きさと冬の北海道の寒さを体感してください。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "http://a.mktgcdn.com/p/3DbQkoeMQW2YujPB5w10kM7KKiNga8yQ0qXNwOGbQmY/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "//a.mktgcdn.com/p-sandbox/3DbQkoeMQW2YujPB5w10kM7KKiNga8yQ0qXNwOGbQmY/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "//a.mktgcdn.com/p-sandbox/3DbQkoeMQW2YujPB5w10kM7KKiNga8yQ0qXNwOGbQmY/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/3DbQkoeMQW2YujPB5w10kM7KKiNga8yQ0qXNwOGbQmY/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/3DbQkoeMQW2YujPB5w10kM7KKiNga8yQ0qXNwOGbQmY/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/3DbQkoeMQW2YujPB5w10kM7KKiNga8yQ0qXNwOGbQmY/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "知床連山のパノラマが臨める遊歩道。"
+      },
+      {
+        "description": "さらにおすすめしたいのが、屋上の展望テラスと流氷ソフトクリーム。流氷ソフトクリームは、イタリア国際大会で優勝経験のある地元のジェラート店「ジェラテリア Rimo」が監修。オホーツク海の塩をトッピングした塩キャラメル味は、リピーターを呼ぶ流氷館限定の人気ソフトです。",
+        "image": {
+          "height": 2101,
+          "sourceUrl": "http://a.mktgcdn.com/p/i8G1NGFUlfsO0-6i120QOCKXwQDPmoJphxNerKvM7O0/1179x2101.jpg",
+          "thumbnails": [
+            {
+              "height": 2101,
+              "url": "//a.mktgcdn.com/p-sandbox/i8G1NGFUlfsO0-6i120QOCKXwQDPmoJphxNerKvM7O0/1179x2101.jpg",
+              "width": 1179
+            },
+            {
+              "height": 1900,
+              "url": "//a.mktgcdn.com/p-sandbox/i8G1NGFUlfsO0-6i120QOCKXwQDPmoJphxNerKvM7O0/1066x1900.jpg",
+              "width": 1066
+            },
+            {
+              "height": 1000,
+              "url": "//a.mktgcdn.com/p-sandbox/i8G1NGFUlfsO0-6i120QOCKXwQDPmoJphxNerKvM7O0/561x1000.jpg",
+              "width": 561
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/i8G1NGFUlfsO0-6i120QOCKXwQDPmoJphxNerKvM7O0/253x450.jpg",
+              "width": 253
+            },
+            {
+              "height": 349,
+              "url": "//a.mktgcdn.com/p-sandbox/i8G1NGFUlfsO0-6i120QOCKXwQDPmoJphxNerKvM7O0/196x349.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/i8G1NGFUlfsO0-6i120QOCKXwQDPmoJphxNerKvM7O0/1179x2101.jpg",
+          "width": 1179
+        },
+        "imageCaption": "知床八景に選ばれているフレペの滝。"
+      },
+      {
+        "description": "施設名：オホーツク流氷館▶\u003cspan style\u003d\"color:#3498DB;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai/dynamic/enjoy/shiretoko/coupon/menu/23140002.asp\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eオホーツク流氷館　詳細はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 900,
+          "sourceUrl": "http://a.mktgcdn.com/p/hEJ6VhipLTMytiMggPdfY-Ry9WykXW2-gTEPn_0weU0/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "//a.mktgcdn.com/p-sandbox/hEJ6VhipLTMytiMggPdfY-Ry9WykXW2-gTEPn_0weU0/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "//a.mktgcdn.com/p-sandbox/hEJ6VhipLTMytiMggPdfY-Ry9WykXW2-gTEPn_0weU0/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/hEJ6VhipLTMytiMggPdfY-Ry9WykXW2-gTEPn_0weU0/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/hEJ6VhipLTMytiMggPdfY-Ry9WykXW2-gTEPn_0weU0/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/hEJ6VhipLTMytiMggPdfY-Ry9WykXW2-gTEPn_0weU0/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "流氷体感テラスでは、冬の寒さを体験しながらいつでも本物の流氷に触れることができます。"
+      },
+      {
+        "description": "今回ご紹介したモデルコースを満喫するなら、知床・網走の約40の体験・乗り物・入場観光等に使える、エンジョイパスポート２日間がついた「エンジョイ知床・網走」がおすすめです。パスポートを利用すれば、現地で追加代金はかかりません！ぜひ、知床・網走の大自然を満喫しましょう。※エンジョイパスポートは申込時に選択した利用日から、連続した日数でのご利用となります。※パスポートの最終利用日は2023年9月30日までとなります（一部除く）。※小学生以上が対象です。未就学児で料金が必要な場合は、現地で別途お支払いください。※各メニュー1回利用可能。▶\u003cspan style\u003d\"color:#3498DB;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai/dynamic/enjoy/shiretoko/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eエンジョイ知床・網走　詳細はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 1600,
+          "sourceUrl": "http://a.mktgcdn.com/p/2JeWbU1bNscrRY8s5iPXKbX8FO-R2SjNAuRd3HetmzA/1200x1600.jpg",
+          "thumbnails": [
+            {
+              "height": 1600,
+              "url": "//a.mktgcdn.com/p-sandbox/2JeWbU1bNscrRY8s5iPXKbX8FO-R2SjNAuRd3HetmzA/1200x1600.jpg",
+              "width": 1200
+            },
+            {
+              "height": 825,
+              "url": "//a.mktgcdn.com/p-sandbox/2JeWbU1bNscrRY8s5iPXKbX8FO-R2SjNAuRd3HetmzA/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/2JeWbU1bNscrRY8s5iPXKbX8FO-R2SjNAuRd3HetmzA/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "//a.mktgcdn.com/p-sandbox/2JeWbU1bNscrRY8s5iPXKbX8FO-R2SjNAuRd3HetmzA/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/2JeWbU1bNscrRY8s5iPXKbX8FO-R2SjNAuRd3HetmzA/1200x1600.jpg",
+          "width": 1200
+        },
+        "imageCaption": "流氷とともにやってきて、流氷とともに去ると言われるクリオネ。"
+      },
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "http://a.mktgcdn.com/p/YfoAXn6XXYqcDjM_UinhGQBWGytYToyIjnwdEN2Cmwg/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "//a.mktgcdn.com/p-sandbox/F_vAaTr7w4C9qOO0C3UPA3GjEIUbelH1a7h5v7w6DHo/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "//a.mktgcdn.com/p-sandbox/F_vAaTr7w4C9qOO0C3UPA3GjEIUbelH1a7h5v7w6DHo/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/F_vAaTr7w4C9qOO0C3UPA3GjEIUbelH1a7h5v7w6DHo/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/F_vAaTr7w4C9qOO0C3UPA3GjEIUbelH1a7h5v7w6DHo/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/F_vAaTr7w4C9qOO0C3UPA3GjEIUbelH1a7h5v7w6DHo/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "オホーツクの冬を感じながら味わいたい、流氷ソフトクリーム"
+      },
+      {
+        "image": {
+          "height": 899,
+          "sourceUrl": "http://a.mktgcdn.com/p/ARIhzVNrH4LwI1AUrRh-pp0jzBpFLGM06gEJDH7cdME/1200x899.jpg",
+          "thumbnails": [
+            {
+              "height": 899,
+              "url": "//a.mktgcdn.com/p-sandbox/ARIhzVNrH4LwI1AUrRh-pp0jzBpFLGM06gEJDH7cdME/1200x899.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "//a.mktgcdn.com/p-sandbox/ARIhzVNrH4LwI1AUrRh-pp0jzBpFLGM06gEJDH7cdME/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/ARIhzVNrH4LwI1AUrRh-pp0jzBpFLGM06gEJDH7cdME/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/ARIhzVNrH4LwI1AUrRh-pp0jzBpFLGM06gEJDH7cdME/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/ARIhzVNrH4LwI1AUrRh-pp0jzBpFLGM06gEJDH7cdME/1200x899.jpg",
+          "width": 1200
+        },
+        "imageCaption": "旅の終わりに眺めたい、展望テラスから望むオホーツクの美しい景色"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_area_0000014",
+      "news_ap_area_0000013",
+      "news_ap_area_0000015",
+      "news_ap_s_hirota001_005",
+      "news_ap_a_sato260_001",
+      "news_ap_e_shinden034_003",
+      "news_ap_m_takasawa518_008",
+      "news_ap_chiki_100152",
+      "news_ap_k_takeda507_008",
+      "news_ap_y_sonoda006_002",
+      "news_ap_y_sonoda006_001",
+      "news_ap_k_takeda507_007",
+      "news_ap_s_hirota001_006",
+      "news_ap_y_ishihara225_044",
+      "news_ap_k_okada018_006",
+      "news_ap_t_kodera531_008",
+      "news_ap_chiki_100094",
+      "news_ap_chiki_100150",
+      "news_ap_m_ban303_008",
+      "news_ap_y_ichikawa501_007"
+    ],
+    "c_news_FeaturedArticlesTitle": "北海道のその他の記事",
+    "c_news_PublicationDate": "2023-08-21",
+    "c_news_UpdateDate": "2023-08-21",
+    "c_news_ViewCount": "13",
+    "c_news_ViewCount1of2": "3",
+    "c_news_ViewCount2of2": "13",
+    "c_news_ViewCountNum": "13",
+    "c_news_ViewCountNumForSorting": "4",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/hokkaido/hokkaido_all/news_ap_chiki_100168",
+    "name": "【世界自然遺産「知床」】大自然と野生動物に出会う旅　おすすめ観光・体験が詰まった２日間 モデルコース",
+    "slug": "kokunai/hokkaido/hokkaido_all/news_ap_chiki_100168"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

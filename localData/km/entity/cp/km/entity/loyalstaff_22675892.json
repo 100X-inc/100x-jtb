@@ -1,0 +1,155 @@
+{
+  "$id": "cp_loyalstaff_22675892",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "群馬県",
+    "c_cp_CTA1": {
+      "label": "新井の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVfsBDl",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVfsBDl",
+      "linkType": "URL"
+    },
+    "c_cp_Certification": [
+      "トラベルコーディネーターA級",
+      "総合旅行業取扱管理者",
+      "ウエディングコンサルタント"
+    ],
+    "c_cp_Description": "国内旅行から海外旅行まで旅のスペシャリストがお客様の旅先をご提案いたします。\n国内は全方面、旅先の魅力を比較しながらご提案可能です。海外はリゾート地ならハワイやオーストラリア・街巡りであればヨーロッパのご提案が得意です。\n\nみなさまのご指名、心よりお待ちしております♪",
+    "c_cp_DisplayName": "新井",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "ウエディング",
+      "ハネムーン",
+      "記念旅行",
+      "寺社・教会",
+      "歴史・地理",
+      "世界遺産",
+      "テーマパーク",
+      "ご当地グルメ"
+    ],
+    "c_cp_GeneralInfo": [
+      "総合旅行業務取扱管理者",
+      "ウェディングコンサルタント",
+      "ハワイスペシャリスト",
+      "ヨーロッパエリアスペシャリスト",
+      "クルーズコンサルタント",
+      "トラベルコーディネーターＡ級",
+      "オージー・スペシャリスト（オーストラリア政府観光局公認）合格"
+    ],
+    "c_cp_HeroImage": {
+      "height": 240,
+      "sourceUrl": "https://a.mktgcdn.com/p/K9ov6WvDQahpOIs7ZsmIwpMooSn18QAM6a5UETJKD7E/240x240.jpg",
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://a.mktgcdn.com/p-sandbox/TFwxW08mvYN8KWMJsX-fTdgEEK3G_grq2fcrR7uHC6U/240x240.jpg",
+          "width": 240
+        },
+        {
+          "height": 196,
+          "url": "https://a.mktgcdn.com/p-sandbox/TFwxW08mvYN8KWMJsX-fTdgEEK3G_grq2fcrR7uHC6U/196x196.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/TFwxW08mvYN8KWMJsX-fTdgEEK3G_grq2fcrR7uHC6U/240x240.jpg",
+      "width": 240
+    },
+    "c_cp_HiraganaName": "あらい",
+    "c_cp_JobTitle": "JTBロイヤルスタッフ （JTBスマーク伊勢崎店 所属）",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 620,
+      "sourceUrl": "https://a.mktgcdn.com/p/TLLJH5ROxohDbJ53BWU9XMXx671N_1heC271IuZFGMY/620x620.jpg",
+      "thumbnails": [
+        {
+          "height": 620,
+          "url": "https://a.mktgcdn.com/p-sandbox/4AkamBSorC1VUOHHV18hVaJ06k_R2vANcuvPIKXHgNE/620x620.jpg",
+          "width": 620
+        },
+        {
+          "height": 619,
+          "url": "https://a.mktgcdn.com/p-sandbox/4AkamBSorC1VUOHHV18hVaJ06k_R2vANcuvPIKXHgNE/619x619.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/4AkamBSorC1VUOHHV18hVaJ06k_R2vANcuvPIKXHgNE/450x450.jpg",
+          "width": 450
+        },
+        {
+          "height": 196,
+          "url": "https://a.mktgcdn.com/p-sandbox/4AkamBSorC1VUOHHV18hVaJ06k_R2vANcuvPIKXHgNE/196x196.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/4AkamBSorC1VUOHHV18hVaJ06k_R2vANcuvPIKXHgNE/620x620.jpg",
+      "width": 620
+    },
+    "c_cp_RoyalStaff": true,
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "オセアニア全般"
+    ],
+    "c_cp_StrongAbroadArea2": [
+      "メキシコ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "フランス",
+      "イタリア",
+      "ドイツ",
+      "北欧",
+      "西欧全般"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "インドネシア・バリ島",
+      "シンガポール"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "中部全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "近畿全般"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "中国全般",
+      "四国全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "SDGS新規事業推進",
+      "2024年ヨーロッパスペシャリスト（ブロンズ）",
+      "国内海外オールラウンダー・渡航経験豊富",
+      "JTB公式youtubeショート/店舗スタッフInstagram　出演中",
+      "家族でハワイ・ハワイスペシャリスト",
+      "３世代旅行/グループ旅行"
+    ],
+    "c_cp_notificationBannerMultiText": "キャッチコピーは「Don\u0027t think  I’ll handle it」\nお客様だけのオリジナルな旅をご提案させていただきます。\n国内から海外オーダーメイドまでお客様のお気持ちに寄り添ったプラスのご提案が多くのお客様に喜ばれています。\n旅のお悩みはもう無用　新井にご相談ください\n2024年～SDGS事業推進中",
+    "c_metaDescription": "ハネムーン・ウェディングなどの記念旅行からご家族旅行まで、全方面ご相談ください。ご希望から最適なプランをご提案いたします。\n\n旅行が大好きな３児の母です。\n旅好きが高じて国内は全国制覇しています。海外はリゾート地ならハワイ・周遊旅行であればヨーロッパ方面のご提案が得意です。世界遺産や寺社仏閣巡りが好きです★\n\nご出発前のご不安を解消できるよう最新の現地情報や豆知識を交えてご案内させて頂きます。\n\nお気軽にご指名くださいませ★",
+    "c_metaTitle": "JTBロイヤルスタッフ 新井（JTBスマーク伊勢崎店 所属）",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_loyalstaff_22675892",
+    "c_responsibleService": [
+      "ロイヤルスタッフ"
+    ],
+    "c_v2Folder": "10074_スマーク伊勢崎店",
+    "name": "LS_新井",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

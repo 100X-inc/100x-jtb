@@ -1,0 +1,80 @@
+{
+  "$id": "cp_11155024",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "北海道",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVes",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "日本のお城や神社仏閣巡り、ライブ遠征などで各地巡っておりましたが、最近はこどもと一緒に楽しめる旅先を探し中です！\nお客様の思い出に残る旅となりますよう精一杯お手伝いをさせていただきます。",
+    "c_cp_DisplayName": "吉野",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "一人旅",
+      "寺社・教会",
+      "歴史・地理"
+    ],
+    "c_cp_HiraganaName": "よしの",
+    "c_cp_JobTitle": "JTB新札幌店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 480,
+      "sourceUrl": "https://a.mktgcdn.com/p/asExNgB6wuJ67ZWuCXIJmFyA8cwb25IMXmZ7PmCVKHA/640x480.jpg",
+      "thumbnails": [
+        {
+          "height": 480,
+          "url": "https://a.mktgcdn.com/p-sandbox/asExNgB6wuJ67ZWuCXIJmFyA8cwb25IMXmZ7PmCVKHA/640x480.jpg",
+          "width": 640
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/asExNgB6wuJ67ZWuCXIJmFyA8cwb25IMXmZ7PmCVKHA/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/asExNgB6wuJ67ZWuCXIJmFyA8cwb25IMXmZ7PmCVKHA/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/asExNgB6wuJ67ZWuCXIJmFyA8cwb25IMXmZ7PmCVKHA/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/asExNgB6wuJ67ZWuCXIJmFyA8cwb25IMXmZ7PmCVKHA/640x480.jpg",
+      "width": 640
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "東北全般"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "滋賀県",
+      "京都府",
+      "大阪府",
+      "奈良県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 吉野",
+    "c_metaTitle": "JTBトラベルコンサルタント | 吉野",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_11155024",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10023_新札幌店",
+    "name": "よしの_11155024",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

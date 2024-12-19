@@ -1,0 +1,55 @@
+{
+  "$id": "cp_14153506",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "矢澤の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVqdxKX",
+      "linkType": "OTHER"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf-_q",
+      "linkType": "OTHER"
+    },
+    "c_cp_DisplayName": "矢澤",
+    "c_cp_HiraganaName": "やざわ",
+    "c_cp_JobTitle": "JTB調布パルコ店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 679,
+      "sourceUrl": "https://a.mktgcdn.com/p/Ya-Ik7KpAlHUcmsINA740Y7BYjtRuIMIVR2r5PhwpIE/709x679.png",
+      "thumbnails": [
+        {
+          "height": 679,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ya-Ik7KpAlHUcmsINA740Y7BYjtRuIMIVR2r5PhwpIE/709x679.png",
+          "width": 709
+        },
+        {
+          "height": 593,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ya-Ik7KpAlHUcmsINA740Y7BYjtRuIMIVR2r5PhwpIE/619x593.png",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ya-Ik7KpAlHUcmsINA740Y7BYjtRuIMIVR2r5PhwpIE/470x450.png",
+          "width": 470
+        },
+        {
+          "height": 188,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ya-Ik7KpAlHUcmsINA740Y7BYjtRuIMIVR2r5PhwpIE/196x188.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Ya-Ik7KpAlHUcmsINA740Y7BYjtRuIMIVR2r5PhwpIE/709x679.png",
+      "width": 709
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 矢澤",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 矢澤",
+    "name": "やざわ_10126345"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

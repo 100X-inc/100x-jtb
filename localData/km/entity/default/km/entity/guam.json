@@ -1,0 +1,28 @@
+{
+  "$id": "guam",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "beach_resort"
+    ],
+    "c_linkedArea3News": [
+      "news_web_kaigai_0011",
+      "news_ap_osarea_0000139",
+      "news_ap_osarea_0000138",
+      "news_ap_osarea_0000054",
+      "news_ap_osarea_0000053",
+      "news_ap_osarea_0000055",
+      "news_ap_osarea_0000052",
+      "news_ap_osarea_0000051",
+      "news_ap_osarea_0000136"
+    ],
+    "c_metaDescription": "お出かけの際は施設や自治体などの最新情報をご確認ください。",
+    "c_metaTitle": "JTBニュース | グアム | 旅行・おでかけ情報",
+    "name": "グアム",
+    "slug": "kaigai/beach_resort/guam"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

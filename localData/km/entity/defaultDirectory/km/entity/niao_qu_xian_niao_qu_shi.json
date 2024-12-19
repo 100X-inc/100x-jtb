@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_niao_qu_xian_niao_qu_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247857"
+    ],
+    "dm_directoryChildren": [
+      "6675-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_niao_qu_xian"
+    ],
+    "name": "鳥取市",
+    "slug": "鳥取県/鳥取市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

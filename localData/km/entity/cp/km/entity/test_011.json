@@ -1,0 +1,110 @@
+{
+  "$id": "cp_test_011",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_cp_Articles": [
+      "ap_chiki_100001"
+    ],
+    "c_cp_ArticlesSectionTitle": "最近の投稿記事",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "リモート相談予約",
+      "link": "https://link.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNF1DN-qJBbQVBd",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "コンサルタント一覧",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_cp_CaseStudies": [
+      "ap_chiki_100001"
+    ],
+    "c_cp_CaseStudySectionTitle": "実績について",
+    "c_cp_Description": "年に最低でも3回以上は旅行をする旅好きで、一人で京都へ旅することは私のライフスタイルとして定着しました。\n歳を重ねるごとに、先人たちが築いてきた食・文化・伝統や何億年もかけてできた地球の神秘により魅力を感じるようになりました。遠出が難しい今は本やインターネットで情報収集をし、次の旅行へ向けて楽しんで予習をしています！旅は自分の悩みや憂鬱な気持ちを吹き飛ばしてくれる最高の栄養剤です！皆さんの旅行が何かのきっかけになるようなご提案ができるようお手伝いさせて頂きます。どうぞよろしくお願いいたします。",
+    "c_cp_DisplayName": "テスト１１ かずみ",
+    "c_cp_EnrollmentArea": "大阪",
+    "c_cp_FieldOfExpertise": [
+      "ウエディング"
+    ],
+    "c_cp_GeneralInfo": [
+      "性別：女性",
+      "出身地：東京",
+      "趣味：神社仏閣訪問"
+    ],
+    "c_cp_HeroImage": {
+      "alternateText": "hero",
+      "height": 203,
+      "sourceUrl": "https://a.mktgcdn.com/p/wK2pQNmL-7G7fjsQw9auIDns1yf7_c4R1nbJUQtG2nU/360x203.jpg",
+      "thumbnails": [
+        {
+          "height": 203,
+          "url": "https://a.mktgcdn.com/p-sandbox/wK2pQNmL-7G7fjsQw9auIDns1yf7_c4R1nbJUQtG2nU/360x203.jpg",
+          "width": 360
+        },
+        {
+          "height": 111,
+          "url": "https://a.mktgcdn.com/p-sandbox/wK2pQNmL-7G7fjsQw9auIDns1yf7_c4R1nbJUQtG2nU/196x111.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/wK2pQNmL-7G7fjsQw9auIDns1yf7_c4R1nbJUQtG2nU/360x203.jpg",
+      "width": 360
+    },
+    "c_cp_HiraganaName": "てすと かずみ",
+    "c_cp_JobTitle": "リモートコンシェルジュ",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 600,
+      "sourceUrl": "https://a.mktgcdn.com/p/AxuPgw3QekJ3cmSDof94ZqYjepG5ri6fKjFXgHsfPmI/800x600.jpg",
+      "thumbnails": [
+        {
+          "height": 600,
+          "url": "https://a.mktgcdn.com/p-sandbox/AxuPgw3QekJ3cmSDof94ZqYjepG5ri6fKjFXgHsfPmI/800x600.jpg",
+          "width": 800
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/AxuPgw3QekJ3cmSDof94ZqYjepG5ri6fKjFXgHsfPmI/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/AxuPgw3QekJ3cmSDof94ZqYjepG5ri6fKjFXgHsfPmI/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/AxuPgw3QekJ3cmSDof94ZqYjepG5ri6fKjFXgHsfPmI/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/AxuPgw3QekJ3cmSDof94ZqYjepG5ri6fKjFXgHsfPmI/800x600.jpg",
+      "width": 800
+    },
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "植物園",
+      "博物館"
+    ],
+    "c_cp_notificationBannerMultiText": "お知らせバナーが表示されます。",
+    "c_metaDescription": "JTB オンライン相談 | トラベルコンサルタント | 武田 和美 | 予約 リモートコンシェルジュ 旅行相談",
+    "c_metaTitle": "JTBリモートトラベルコンシェルジュ ｜ テストコンサルタント011",
+    "c_news_NewsList": [
+      "news_ap_chiki_100001"
+    ],
+    "c_responsibleService": [
+      "ファミリースタッフ"
+    ],
+    "name": "テストコンサルタント011",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

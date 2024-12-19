@@ -1,0 +1,20 @@
+{
+  "$id": "jp/special/webqr/",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_imageURL": "https://www.jtb.co.jp/main/img/popular/webqr_300_250.png",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchTags": [
+      "全国"
+    ],
+    "description": "全国のレジャー施設で「スマホでチケット購入＆チケット発券」が可能です！",
+    "landingPageUrl": "https://www.jtb.co.jp/special/webqr/",
+    "name": "【窓口に並ばなくていい！スマホでチケット購入＆チケット発券！】"
+  },
+  "entityType": "ce_plan",
+  "folder": "国内特集現地観光プランレジャーチケット定期観光バス",
+  "labels": []
+}

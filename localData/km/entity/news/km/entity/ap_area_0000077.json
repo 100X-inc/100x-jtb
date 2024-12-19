@@ -1,0 +1,422 @@
+{
+  "$id": "news_ap_area_0000077",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター",
+      "linkType": "URL"
+    },
+    "c_ap_HeroImage": {
+      "height": 797,
+      "sourceUrl": "https://a.mktgcdn.com/p/frSsvGpqpOggI5fQfxP9o-k5FCKn7L477L3G6SBLD2c/1200x797.jpg",
+      "thumbnails": [
+        {
+          "height": 797,
+          "url": "https://a.mktgcdn.com/p-sandbox/nKR8hd8mLJsMDMESmuT3-zMvKWmdQe2uMl6QRGkkK_Y/1200x797.jpg",
+          "width": 1200
+        },
+        {
+          "height": 411,
+          "url": "https://a.mktgcdn.com/p-sandbox/nKR8hd8mLJsMDMESmuT3-zMvKWmdQe2uMl6QRGkkK_Y/619x411.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "https://a.mktgcdn.com/p-sandbox/nKR8hd8mLJsMDMESmuT3-zMvKWmdQe2uMl6QRGkkK_Y/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "https://a.mktgcdn.com/p-sandbox/nKR8hd8mLJsMDMESmuT3-zMvKWmdQe2uMl6QRGkkK_Y/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/nKR8hd8mLJsMDMESmuT3-zMvKWmdQe2uMl6QRGkkK_Y/1200x797.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://www.jtb.co.jp/news/list/index.html?tag\u003d%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "福島旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/fukushima/"
+      },
+      {
+        "linkText": "福島県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/fukushima/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "福島県の人気2エリア、会津若松と大内宿を楽しむモデルコースをご紹介。「鶴ヶ城」や「七日町通り」など歴史情緒ある城下町を巡る1日目と、「大内宿」散策でタイムスリップ気分を味わえる2日目の王道プランです。郷土料理や伝統工芸品などにも注目しながら、大満足の旅へ出かけましょう！",
+    "c_ap_Tags": [
+      "温泉",
+      "街歩き",
+      "会津若松",
+      "大内宿",
+      "モデルコース",
+      "東山温泉"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "建築・史跡",
+      "歴史・地理"
+    ],
+    "c_ap_Title": "【会津若松・大内宿】定番スポットを巡る1泊2日モデルコース",
+    "c_linkedArea3News": [
+      "fukushima"
+    ],
+    "c_metaDescription": "福島県の人気2エリア、会津若松と大内宿を楽しむモデルコースをご紹介。「鶴ヶ城」や「七日町通り」など歴史情緒ある城下町を巡る1日目と、「大内宿」散策でタイムスリップ気分を味わえる2日目の王道プランです。郷土料理や伝統工芸品などにも注目しながら、大満足の旅へ出かけましょう！",
+    "c_metaTitle": "【会津若松・大内宿】定番スポットを巡る1泊2日モデルコース",
+    "c_news_CTAs": [
+      {
+        "label": "リモートでの旅行相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#consultants",
+        "linkType": "URL"
+      },
+      {
+        "label": "JTB店舗・専門店への相談はこちら",
+        "link": "https://stores.jtb.co.jp/index.html",
+        "linkType": "URL"
+      },
+      {
+        "label": "福島旅行・ツアーを探す",
+        "link": "https://www.jtb.co.jp/kokunai/area/fukushima/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "福島県のホテル・旅館を探す",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/fukushima/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "福島県の人気温泉地をみる",
+        "link": "https://www.jtb.co.jp/news/list/kokunai/tohoku/fukushima/news_ap_h_takeuchi111_007",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "鶴ヶ城の巡り方を知る",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/tohoku/fukushima/news_ap_area_0000076",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "鶴ヶ城の魅力をもっとみる",
+          "link": "https://www.jtb.co.jp/kando/detail/293.asp",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "鶴ヶ城・茶室麟閣共通券を購入する",
+          "link": "https://www.jtb.co.jp/leisure/fp/qSP7561/",
+          "linkType": "OTHER"
+        },
+        "cTA4": {
+          "label": "鶴ヶ城周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/A0800550/",
+          "linkType": "OTHER"
+        },
+        "description": "戊辰戦争の舞台となった不落の名城「鶴ヶ城」。国内唯一の赤瓦の天守閣は、会津若松のシンボルです。天守閣の展望台から、磐梯山や飯盛山など城下町を見渡すことができます。城の魅力や戊辰戦争について解説する展示ホールも見ごたえたっぷり。周辺の遺構や、由緒ある茶室なども見逃せません。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Al9NMj8DwLgvC67koiqb4gg1dvASuJ7fXERrUBqVRwg/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/VTDdap4bkXGLyUmqQYfaXbrElt96dVd5zzpbrDRIcMI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/VTDdap4bkXGLyUmqQYfaXbrElt96dVd5zzpbrDRIcMI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/VTDdap4bkXGLyUmqQYfaXbrElt96dVd5zzpbrDRIcMI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/VTDdap4bkXGLyUmqQYfaXbrElt96dVd5zzpbrDRIcMI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VTDdap4bkXGLyUmqQYfaXbrElt96dVd5zzpbrDRIcMI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "天守閣内部の展示は2023年4月にリニューアルした",
+        "sectionLevel": "h2",
+        "sectionTitle": "1日目"
+      },
+      {
+        "cTA1": {
+          "label": "七日町駅周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/station/1122702/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "東山温泉の宿「御宿東鳳」の魅力",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/tohoku/fukushima/news_ap_chiki_100134",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "福島の見どころ7エリアをチェック",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/tohoku/fukushima/news_ap_area_0000078",
+          "linkType": "OTHER"
+        },
+        "description": "鶴ヶ城見学の後は、城下町として栄えた町並みを散策。「七日町通り」は、明治～昭和初期にかけて建てられた蔵や洋館が並ぶレトロな風情が人気のエリアです。古い建物を改装したカフェやレストランも多く、ランチや休憩に最適です。老舗の酒蔵や和菓子店、赤べこや絵ろうそくなど伝統工芸品を扱う店で、おみやげ探しも楽しめます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/kgboZF4jR8fQAvxutCPFV5f6daqute4NEwJHxJcLAgw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/7uaqnZUr5WgpaonhA5cqoH6KIGoMMyy0jSknBwOCcyA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/7uaqnZUr5WgpaonhA5cqoH6KIGoMMyy0jSknBwOCcyA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/7uaqnZUr5WgpaonhA5cqoH6KIGoMMyy0jSknBwOCcyA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/7uaqnZUr5WgpaonhA5cqoH6KIGoMMyy0jSknBwOCcyA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7uaqnZUr5WgpaonhA5cqoH6KIGoMMyy0jSknBwOCcyA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "蔵や洋館が並びレトロな「七日町通り」",
+        "sectionLevel": "h3",
+        "sectionTitle": "10:20｜「鶴ヶ城」から城下町を一望"
+      },
+      {
+        "cTA1": {
+          "label": "東山温泉の旅館をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/0720202/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "南会津のおすすめ観光スポットをみる",
+          "link": "https://www.jtb.co.jp/kokunai-guide/list/index.html?area\u003d0707\u0026feature\u003d0\u0026genre\u003d000",
+          "linkType": "OTHER"
+        },
+        "description": "宿泊は、会津若松駅からバスに乗り15分ほどでアクセスできる「東山温泉」で。約1300年の歴史をもつ会津の奥座敷で、効能豊かな湯と四季折々の美しい景観が評判を呼び、多くの偉人が訪れたと伝わっています。明治6年（1873）創業の「会津東山温泉 向瀧」は、東山温泉を代表する湯宿。すべての内湯に自家源泉かけ流しの湯が注がれ、24時間入浴できます。",
+        "image": {
+          "height": 797,
+          "sourceUrl": "https://a.mktgcdn.com/p/SsY9nM3FV0ZI6waBb7zM95LAY9i1Cx4CbhF5t8Q8DDY/1200x797.jpg",
+          "thumbnails": [
+            {
+              "height": 797,
+              "url": "https://a.mktgcdn.com/p-sandbox/KzkJ4epmq35I9UasHGaF3Qo0EL56T8VwbXaZ3pGwu7w/1200x797.jpg",
+              "width": 1200
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/KzkJ4epmq35I9UasHGaF3Qo0EL56T8VwbXaZ3pGwu7w/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/KzkJ4epmq35I9UasHGaF3Qo0EL56T8VwbXaZ3pGwu7w/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/KzkJ4epmq35I9UasHGaF3Qo0EL56T8VwbXaZ3pGwu7w/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KzkJ4epmq35I9UasHGaF3Qo0EL56T8VwbXaZ3pGwu7w/1200x797.jpg",
+          "width": 1200
+        },
+        "imageCaption": "多くの著名人も訪れた名宿「会津東山温泉 向瀧」",
+        "sectionLevel": "h3",
+        "sectionTitle": "12:30｜風情ある町並みが続く「七日町通り」を散策"
+      },
+      {
+        "cTA1": {
+          "label": "塔のへつり周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/station/9921609/",
+          "linkType": "OTHER"
+        },
+        "description": "2日目は人気観光スポット、大内宿からスタート。江戸時代の面影を残す宿場町で、山あいに昔懐かしい日本の原風景が広がります。丘の上の展望スポット「大内宿見晴台」からは、茅葺き屋根の建物がずらりと並ぶ大内宿ならではの景色を一望できます。通りには飲食店や、民芸品の専門店なども多く並びます。",
+        "image": {
+          "height": 797,
+          "sourceUrl": "https://a.mktgcdn.com/p/frSsvGpqpOggI5fQfxP9o-k5FCKn7L477L3G6SBLD2c/1200x797.jpg",
+          "thumbnails": [
+            {
+              "height": 797,
+              "url": "https://a.mktgcdn.com/p-sandbox/nKR8hd8mLJsMDMESmuT3-zMvKWmdQe2uMl6QRGkkK_Y/1200x797.jpg",
+              "width": 1200
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/nKR8hd8mLJsMDMESmuT3-zMvKWmdQe2uMl6QRGkkK_Y/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/nKR8hd8mLJsMDMESmuT3-zMvKWmdQe2uMl6QRGkkK_Y/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/nKR8hd8mLJsMDMESmuT3-zMvKWmdQe2uMl6QRGkkK_Y/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nKR8hd8mLJsMDMESmuT3-zMvKWmdQe2uMl6QRGkkK_Y/1200x797.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「大内宿見晴台」から見る茅葺き屋根の家々は壮観",
+        "sectionLevel": "h3",
+        "sectionTitle": "17:00｜「東山温泉」に宿泊"
+      },
+      {
+        "description": "大内宿で外せない郷土の味といえば、そば。特にまるごと1本のネギを箸代わりにして食べる「ネギそば」が名物です。「大内宿 三澤屋」のネギそば「高遠そば」は、新鮮なとれたて長ネギを使用。薬味として少しずつかじりながら味わうのが通の食べ方なんだそう。難しい場合は箸を使うこともできるので、気軽に挑戦してみてくださいね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/bdlkuZFPqM8aUl3UvPnLA2qEMHGMS9pJk6Pb4qHCSWY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/4zDnGbzZByWErxPT1spd63T2RX4BlIlCwlINwfsYAWY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/4zDnGbzZByWErxPT1spd63T2RX4BlIlCwlINwfsYAWY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/4zDnGbzZByWErxPT1spd63T2RX4BlIlCwlINwfsYAWY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/4zDnGbzZByWErxPT1spd63T2RX4BlIlCwlINwfsYAWY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4zDnGbzZByWErxPT1spd63T2RX4BlIlCwlINwfsYAWY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「大内宿 三澤屋」の高遠そば",
+        "sectionLevel": "h2",
+        "sectionTitle": "2日目"
+      },
+      {
+        "description": "通りの中ほどにある「大内宿町並み展示館」は、大内宿の歴史を学べる展示施設です。参勤交代の際に歴代会津藩主の休憩所となっていた本陣を復元。殿様が休憩した上段の間や、檜風呂など見学できます。実際に生活で使われていた民具や農具も展示しており、往時の暮らしを垣間見ることができます。",
+        "image": {
+          "height": 514,
+          "sourceUrl": "https://a.mktgcdn.com/p/sUF3likWTCHQq9HqdA5ene0MfJ843-PcHhnlL740ekI/768x514.jpg",
+          "thumbnails": [
+            {
+              "height": 514,
+              "url": "https://a.mktgcdn.com/p-sandbox/arIXv_pNL590AhWf5Q7C5ujuD9o9ZFaGWbsiQ2hl7h4/768x514.jpg",
+              "width": 768
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/arIXv_pNL590AhWf5Q7C5ujuD9o9ZFaGWbsiQ2hl7h4/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 402,
+              "url": "https://a.mktgcdn.com/p-sandbox/arIXv_pNL590AhWf5Q7C5ujuD9o9ZFaGWbsiQ2hl7h4/600x402.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/arIXv_pNL590AhWf5Q7C5ujuD9o9ZFaGWbsiQ2hl7h4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/arIXv_pNL590AhWf5Q7C5ujuD9o9ZFaGWbsiQ2hl7h4/768x514.jpg",
+          "width": 768
+        },
+        "imageCaption": "宿場町として栄えた当時を想像できる「大内宿町並み展示館」",
+        "sectionLevel": "h3",
+        "sectionTitle": "11:00｜「大内宿見晴台」から街並みを見渡す"
+      },
+      {
+        "description": "最後は観光列車も人気の会津鉄道で移動し、絶景スポットの宝庫、南会津へ。東北の駅百選にも選ばれた無人駅「塔のへつり駅」で下車し5分ほど歩くと、「塔のへつり」に到着。約200ｍにわたって巨大な奇岩が並ぶ渓谷で、展望台から奇岩群の造形美と吊橋のコラボレーションを見ることができます。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/VZER3Anp1tr5SUgybF1pqtccEk5LxJwTiRLzjg1NTio/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/JFlSg10of6CoYHZg7x52mYkZgU42TothzgZ9HRiKb64/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/JFlSg10of6CoYHZg7x52mYkZgU42TothzgZ9HRiKb64/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/JFlSg10of6CoYHZg7x52mYkZgU42TothzgZ9HRiKb64/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/JFlSg10of6CoYHZg7x52mYkZgU42TothzgZ9HRiKb64/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JFlSg10of6CoYHZg7x52mYkZgU42TothzgZ9HRiKb64/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「へつり」とは、この地方の方言で「険しい崖」を意味する言葉",
+        "sectionLevel": "h3",
+        "sectionTitle": "12:00｜大内宿名物「ネギそば」にチャレンジ！"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "12:45｜「大内宿町並み展示館」で当時の暮らしを体感"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "14:30｜「塔のへつり」で絶景を満喫"
+      }
+    ],
+    "c_news_PublicationDate": "2024-05-28",
+    "c_news_UpdateDate": "2024-08-01",
+    "c_news_ViewCount": "11276",
+    "c_news_ViewCount2of2": "11276",
+    "c_news_ViewCountNum": "11276",
+    "c_news_ViewCountNumForSorting": "262",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/tohoku/fukushima/news_ap_area_0000077",
+    "name": "【会津若松・大内宿】定番スポットを巡る1泊2日モデルコース",
+    "slug": "kokunai/tohoku/fukushima/news_ap_area_0000077",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "編集部記事"
+  ]
+}

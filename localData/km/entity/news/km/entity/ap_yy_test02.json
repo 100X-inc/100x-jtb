@@ -1,0 +1,529 @@
+{
+  "$id": "news_ap_yy_test02",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "YY"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "越後妻有アート散策〜第二部",
+      "height": 2268,
+      "sourceUrl": "http://a.mktgcdn.com/p/hQqboATooj7n6-sJzVy7QgTnqaUlAMKy3jmsF4Q4VwU/3024x2268.jpg",
+      "thumbnails": [
+        {
+          "height": 2268,
+          "url": "//a.mktgcdn.com/p-sandbox/N1GR_oAkyQebTFjVk_wZc2MrgcSJYq0I7sGdOGOqUQA/3024x2268.jpg",
+          "width": 3024
+        },
+        {
+          "height": 1425,
+          "url": "//a.mktgcdn.com/p-sandbox/N1GR_oAkyQebTFjVk_wZc2MrgcSJYq0I7sGdOGOqUQA/1900x1425.jpg",
+          "width": 1900
+        },
+        {
+          "height": 464,
+          "url": "//a.mktgcdn.com/p-sandbox/N1GR_oAkyQebTFjVk_wZc2MrgcSJYq0I7sGdOGOqUQA/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "//a.mktgcdn.com/p-sandbox/N1GR_oAkyQebTFjVk_wZc2MrgcSJYq0I7sGdOGOqUQA/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "//a.mktgcdn.com/p-sandbox/N1GR_oAkyQebTFjVk_wZc2MrgcSJYq0I7sGdOGOqUQA/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/N1GR_oAkyQebTFjVk_wZc2MrgcSJYq0I7sGdOGOqUQA/3024x2268.jpg",
+      "width": 3024
+    },
+    "c_ap_HeroImageCaption": "異世界が続きます",
+    "c_ap_ShortDescription": "松代城を後にした我々は、十日町、清津峡への散策に向かった。それぞれ車で30分弱だが、11月上旬の越後は肌寒く、空も曇天になってきた。急がねばならない。知らない街だとトイレも困りますしね。",
+    "c_ap_Tags": [
+      "アート",
+      "散策",
+      "越後妻有"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "建築・史跡",
+      "美術鑑賞"
+    ],
+    "c_ap_Title": "越後妻有アート散策〜第二部",
+    "c_metaDescription": "松代城を後にした我々は、十日町、清津峡への散策に向かった。それぞれ車で30分弱だが、11月上旬の越後は肌寒く、空も曇天になってきた。急がねばならない。知らない街だとトイレも困りますしね。",
+    "c_metaTitle": "JTB | おすすめの旅 | 越後妻有アート散策〜第二部",
+    "c_news_Contents": [
+      {
+        "description": "「越後妻有里山現代美術館 MonET」へ到着。こちらの現代美術館は今年2021年リニューアルされたそうで「大地の芸術祭」でも主要なスポット。これまでのように道端オブジェというわけではないが、一風変わったインスタレーションが楽しめる。中庭に張られた水の中いっぱいに描かれた謎の絵を眺めながらエントランスへ、平日なので人は少なめ一般800円。絵画もいいけど松代からの異世界感維持したい！なのでインスタレーションメインのこちらの美術館を選んだわけだ。",
+        "image": {
+          "alternateText": "越後妻有里山現代美術館 MonET",
+          "height": 3024,
+          "sourceUrl": "http://a.mktgcdn.com/p/LeWfHi0EivXpv4s6qo83Ch4I6G6DjBusBxLEGzFn6Nk/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "//a.mktgcdn.com/p-sandbox/GIb5iYoHt9UhqfzVIs4fwzUDh_D9ywYY7vJ1nN0SvN4/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "//a.mktgcdn.com/p-sandbox/GIb5iYoHt9UhqfzVIs4fwzUDh_D9ywYY7vJ1nN0SvN4/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "//a.mktgcdn.com/p-sandbox/GIb5iYoHt9UhqfzVIs4fwzUDh_D9ywYY7vJ1nN0SvN4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/GIb5iYoHt9UhqfzVIs4fwzUDh_D9ywYY7vJ1nN0SvN4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "//a.mktgcdn.com/p-sandbox/GIb5iYoHt9UhqfzVIs4fwzUDh_D9ywYY7vJ1nN0SvN4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/GIb5iYoHt9UhqfzVIs4fwzUDh_D9ywYY7vJ1nN0SvN4/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "館内２階から中庭（水が張られている）を見下ろしたところ。上の空が曇天リアル、下に映る空がなぜ青いのか！？わかるだろうか。",
+        "sectionTitle": "十日町へ"
+      },
+      {
+        "description": "ムクドリの群れのように時計を配置したインスタレーション。全部動いてるんだけど、近くの時計に焦点を合わせると後ろの時計が動いていることを認識できない。人の視覚の限界、脳の処理能力の限界を実感した。",
+        "image": {
+          "alternateText": "時計をムクドリの群れのように配置したインスタレーション",
+          "height": 3024,
+          "sourceUrl": "http://a.mktgcdn.com/p/RNsF6JtbE83xwXyEDLqR25eKGhXm9FPA9SMkH9fMfGc/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "//a.mktgcdn.com/p-sandbox/nQ40c_x57LEGowYqnEFunpi2kN9yzFqhtbEfVhY59dE/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "//a.mktgcdn.com/p-sandbox/nQ40c_x57LEGowYqnEFunpi2kN9yzFqhtbEfVhY59dE/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "//a.mktgcdn.com/p-sandbox/nQ40c_x57LEGowYqnEFunpi2kN9yzFqhtbEfVhY59dE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/nQ40c_x57LEGowYqnEFunpi2kN9yzFqhtbEfVhY59dE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "//a.mktgcdn.com/p-sandbox/nQ40c_x57LEGowYqnEFunpi2kN9yzFqhtbEfVhY59dE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/nQ40c_x57LEGowYqnEFunpi2kN9yzFqhtbEfVhY59dE/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "これ全部小さい時計です！長針・短針・秒針〜ジョイマンじゃなくて、全部動いてる！",
+        "sectionTitle": "コースのメインは「清津峡渓谷」"
+      },
+      {
+        "description": "天井からナメラカに音もなく、連続しながら流れ落ちる黒い液体。ソフトシリコンの液体らしいのだがそのなんとも言えない質感に鳥肌がたつ。天井に吸い込まれているようにも見えたり、あからさまに重力を感じたり。眺めていたいけど、人間ごときが見てはイケナイモノ感があった。これ以外にも、影絵をつかったリアル？アニメーション、踊るオバＱみたいなオブジェなど、展示数自体は少ないものの十分に楽しめる美術館だった！また実際に肉眼で見たくなるはず。雨が降りそうなので、清津峡へ向かうことに。",
+        "image": {
+          "alternateText": "天井から流れる黒い液体",
+          "height": 3175,
+          "sourceUrl": "http://a.mktgcdn.com/p/lhdvGrQ5s5-qkGnA9OqxpUGhZ5ytuUqSrtKf7VxeYX8/2268x3175.jpg",
+          "thumbnails": [
+            {
+              "height": 3175,
+              "url": "//a.mktgcdn.com/p-sandbox/cjD4-o73j8eRlmT7h0iTfKE8I7LOPIKiyoQILiHnIWU/2268x3175.jpg",
+              "width": 2268
+            },
+            {
+              "height": 1900,
+              "url": "//a.mktgcdn.com/p-sandbox/cjD4-o73j8eRlmT7h0iTfKE8I7LOPIKiyoQILiHnIWU/1357x1900.jpg",
+              "width": 1357
+            },
+            {
+              "height": 867,
+              "url": "//a.mktgcdn.com/p-sandbox/cjD4-o73j8eRlmT7h0iTfKE8I7LOPIKiyoQILiHnIWU/619x867.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/cjD4-o73j8eRlmT7h0iTfKE8I7LOPIKiyoQILiHnIWU/321x450.jpg",
+              "width": 321
+            },
+            {
+              "height": 274,
+              "url": "//a.mktgcdn.com/p-sandbox/cjD4-o73j8eRlmT7h0iTfKE8I7LOPIKiyoQILiHnIWU/196x274.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/cjD4-o73j8eRlmT7h0iTfKE8I7LOPIKiyoQILiHnIWU/2268x3175.jpg",
+          "width": 2268
+        },
+        "imageCaption": "液体が落ちるところにできるくぼみが、蓮の花の中のやつみたいでゾヮーっとするぅ",
+        "sectionTitle": "見たこと無いモノを見よう！"
+      },
+      {
+        "description": "十日町から車で30分、今回の散策を締めくくる「清津峡渓谷」に到着。こちら、インスタなどでよく写真を見かけていたのでいつか行きたいと思っていた。まさか、芸術祭の一部だと知ったときは縁を感じてグッときた。トンネルの入り口の造形で想像つくと思いますが、毎週見てるブラタモリでお馴染み、\u003ca href\u003d\"https://ja.wikipedia.org/wiki/%E7%AF%80%E7%90%86#%E6%9F%B1%E7%8A%B6%E7%AF%80%E7%90%86\" style\u003d\"color:blue; text-decoration:underline; text-decoration-color:brown;\" target\u003d\"_blank\"\u003e柱状節理\u003c/a\u003eで有名な渓谷！混雑するシーズンは日付によって事前予約制とのこと。平日が空いてておすすめ。",
+        "image": {
+          "alternateText": "渓谷を眺めるトンネル自体がアート",
+          "height": 4032,
+          "sourceUrl": "http://a.mktgcdn.com/p/MWDU_rTYuw3iarZVcB2lOY8WLLXa07TvYi4T59bBVbI/3024x4032.jpg",
+          "thumbnails": [
+            {
+              "height": 4032,
+              "url": "//a.mktgcdn.com/p-sandbox/5n271loR065UlfvYyzB7J1KRSCcmSHl5XC-dRbWExs4/3024x4032.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "//a.mktgcdn.com/p-sandbox/5n271loR065UlfvYyzB7J1KRSCcmSHl5XC-dRbWExs4/1425x1900.jpg",
+              "width": 1425
+            },
+            {
+              "height": 825,
+              "url": "//a.mktgcdn.com/p-sandbox/5n271loR065UlfvYyzB7J1KRSCcmSHl5XC-dRbWExs4/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/5n271loR065UlfvYyzB7J1KRSCcmSHl5XC-dRbWExs4/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "//a.mktgcdn.com/p-sandbox/5n271loR065UlfvYyzB7J1KRSCcmSHl5XC-dRbWExs4/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/5n271loR065UlfvYyzB7J1KRSCcmSHl5XC-dRbWExs4/3024x4032.jpg",
+          "width": 3024
+        },
+        "imageCaption": "渓谷を眺めるトンネル自体がアートになっちゃってます"
+      },
+      {
+        "description": "チケット売り場の壁に Free Wifi の紙が貼ってあったことに後から気づいた。この先のトンネルの長さと電波の無さを知らなかった我々は、後からここで未知との遭遇しちゃったらSOS連絡できねぇ、Wifi 必須！と思うことになる。",
+        "image": {
+          "alternateText": "いざ出発",
+          "height": 3024,
+          "sourceUrl": "http://a.mktgcdn.com/p/o49eNEpZR29HKwKzwdUfJI-uNzTAL40EwLM19w0hkMc/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "//a.mktgcdn.com/p-sandbox/oL50Q4cePyi7VMqG-Lfknp3qQJTEJHAgnER56XZd8u4/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "//a.mktgcdn.com/p-sandbox/oL50Q4cePyi7VMqG-Lfknp3qQJTEJHAgnER56XZd8u4/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "//a.mktgcdn.com/p-sandbox/oL50Q4cePyi7VMqG-Lfknp3qQJTEJHAgnER56XZd8u4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/oL50Q4cePyi7VMqG-Lfknp3qQJTEJHAgnER56XZd8u4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "//a.mktgcdn.com/p-sandbox/oL50Q4cePyi7VMqG-Lfknp3qQJTEJHAgnER56XZd8u4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/oL50Q4cePyi7VMqG-Lfknp3qQJTEJHAgnER56XZd8u4/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "異世界の終着点へ"
+      },
+      {
+        "description": "異世界トンネルの途中にはところどころ横穴が。そこから外の渓谷を眺めることができる。それぞれがアート感満載だった。",
+        "image": {
+          "alternateText": "照明感",
+          "height": 3024,
+          "sourceUrl": "http://a.mktgcdn.com/p/uiFdMv3NrlROGbowyvvCZxupXDYgjjRFVPxM2qVUdEk/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "//a.mktgcdn.com/p-sandbox/Cy2rtue3HnqeaUPlIUq-sM3nzMQydfm7P45LSgf0CVM/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "//a.mktgcdn.com/p-sandbox/Cy2rtue3HnqeaUPlIUq-sM3nzMQydfm7P45LSgf0CVM/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "//a.mktgcdn.com/p-sandbox/Cy2rtue3HnqeaUPlIUq-sM3nzMQydfm7P45LSgf0CVM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/Cy2rtue3HnqeaUPlIUq-sM3nzMQydfm7P45LSgf0CVM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "//a.mktgcdn.com/p-sandbox/Cy2rtue3HnqeaUPlIUq-sM3nzMQydfm7P45LSgf0CVM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/Cy2rtue3HnqeaUPlIUq-sM3nzMQydfm7P45LSgf0CVM/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "このあたりの照明もアートの一部なんだろうなー"
+      },
+      {
+        "description": "長いトンネルを抜けると、アート作品「Tunnel of Light」の最終展示「ライトケーブ（光の洞窟）」に到着。清津峡の谷間が反転して映っている。紅葉・新緑の季節はこの異世界に地球を感じるだろう。何か懐かしささえ感じてしまった（宇宙にでも旅立っていたのか？）。是非、自分の眼で確かめていただきたい。",
+        "image": {
+          "alternateText": "すでに300m は歩いたか",
+          "height": 3024,
+          "sourceUrl": "http://a.mktgcdn.com/p/sbVVQE6fnX-GJ80XRRIx2QsQBmgp_8UlefYIGk-G5GY/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "//a.mktgcdn.com/p-sandbox/n0pbnpM78afcpWij1GczzV48LS_wyziY_ca7V8tPnmA/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "//a.mktgcdn.com/p-sandbox/n0pbnpM78afcpWij1GczzV48LS_wyziY_ca7V8tPnmA/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "//a.mktgcdn.com/p-sandbox/n0pbnpM78afcpWij1GczzV48LS_wyziY_ca7V8tPnmA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/n0pbnpM78afcpWij1GczzV48LS_wyziY_ca7V8tPnmA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "//a.mktgcdn.com/p-sandbox/n0pbnpM78afcpWij1GczzV48LS_wyziY_ca7V8tPnmA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/n0pbnpM78afcpWij1GczzV48LS_wyziY_ca7V8tPnmA/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "すでに 300m は歩いたか"
+      },
+      {
+        "description": "ただ眺めるだけ、それだけで得られる充実感がある。旅行もままならなかった 2021 年、越後妻有のアート群は海外旅行を超えた異世界を見せてくれた。そして、越後はご飯も美味しかった。",
+        "image": {
+          "alternateText": "これトイレです",
+          "height": 3024,
+          "sourceUrl": "http://a.mktgcdn.com/p/BQY92UYIqL-yUX8X7etWG2W2h6Q2xunvkQM7uyll-tg/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "//a.mktgcdn.com/p-sandbox/idxYFd-buznTq4-4r29V_PVJhno99CIkEDXR-oMT5u8/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "//a.mktgcdn.com/p-sandbox/idxYFd-buznTq4-4r29V_PVJhno99CIkEDXR-oMT5u8/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "//a.mktgcdn.com/p-sandbox/idxYFd-buznTq4-4r29V_PVJhno99CIkEDXR-oMT5u8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/idxYFd-buznTq4-4r29V_PVJhno99CIkEDXR-oMT5u8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "//a.mktgcdn.com/p-sandbox/idxYFd-buznTq4-4r29V_PVJhno99CIkEDXR-oMT5u8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/idxYFd-buznTq4-4r29V_PVJhno99CIkEDXR-oMT5u8/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "ところどころに横穴。これ実はトイレです"
+      },
+      {
+        "image": {
+          "alternateText": "柱状節理",
+          "height": 3024,
+          "sourceUrl": "http://a.mktgcdn.com/p/_B8zNfwCyzg-27ejTaoy3W1jYGkDRh3rCGvDem7psDk/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "//a.mktgcdn.com/p-sandbox/aO6UHkWqTskcoUN1gAlolO_rc4ijhAFtO67QCe4eZtk/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "//a.mktgcdn.com/p-sandbox/aO6UHkWqTskcoUN1gAlolO_rc4ijhAFtO67QCe4eZtk/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "//a.mktgcdn.com/p-sandbox/aO6UHkWqTskcoUN1gAlolO_rc4ijhAFtO67QCe4eZtk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/aO6UHkWqTskcoUN1gAlolO_rc4ijhAFtO67QCe4eZtk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "//a.mktgcdn.com/p-sandbox/aO6UHkWqTskcoUN1gAlolO_rc4ijhAFtO67QCe4eZtk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/aO6UHkWqTskcoUN1gAlolO_rc4ijhAFtO67QCe4eZtk/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "横穴から見た柱状節理。晴れてきた"
+      },
+      {
+        "image": {
+          "alternateText": "なおも続くトンネル",
+          "height": 3024,
+          "sourceUrl": "http://a.mktgcdn.com/p/Eq19th1b_ds_lEednjpcNRyQ437Po-8R0hTkkTrpr8U/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "//a.mktgcdn.com/p-sandbox/bRyUFYTcijiYlor8Dat2wyYZL3ha5qiCxE8woR9pmko/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "//a.mktgcdn.com/p-sandbox/bRyUFYTcijiYlor8Dat2wyYZL3ha5qiCxE8woR9pmko/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "//a.mktgcdn.com/p-sandbox/bRyUFYTcijiYlor8Dat2wyYZL3ha5qiCxE8woR9pmko/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/bRyUFYTcijiYlor8Dat2wyYZL3ha5qiCxE8woR9pmko/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "//a.mktgcdn.com/p-sandbox/bRyUFYTcijiYlor8Dat2wyYZL3ha5qiCxE8woR9pmko/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/bRyUFYTcijiYlor8Dat2wyYZL3ha5qiCxE8woR9pmko/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "600m 超えたんじゃないか？"
+      },
+      {
+        "image": {
+          "alternateText": "トンネルの終端",
+          "height": 3024,
+          "sourceUrl": "http://a.mktgcdn.com/p/o0BRkvHUd40geFSYRJzMPphzn0XIpUIN9e4b6TgmYNM/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "//a.mktgcdn.com/p-sandbox/9c9ev5Paxfpf_c7CWhOVFscw6Gsco2cZBbY1n24IY3A/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "//a.mktgcdn.com/p-sandbox/9c9ev5Paxfpf_c7CWhOVFscw6Gsco2cZBbY1n24IY3A/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "//a.mktgcdn.com/p-sandbox/9c9ev5Paxfpf_c7CWhOVFscw6Gsco2cZBbY1n24IY3A/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/9c9ev5Paxfpf_c7CWhOVFscw6Gsco2cZBbY1n24IY3A/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "//a.mktgcdn.com/p-sandbox/9c9ev5Paxfpf_c7CWhOVFscw6Gsco2cZBbY1n24IY3A/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/9c9ev5Paxfpf_c7CWhOVFscw6Gsco2cZBbY1n24IY3A/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "異世界の終点はウユニ湖だった"
+      },
+      {
+        "image": {
+          "alternateText": "自分もオブジェになってみた",
+          "height": 3024,
+          "sourceUrl": "http://a.mktgcdn.com/p/me7ZhbiKymmscOeLATSxcj-19ylg_kKTv1u3i8zZToE/3024x3024.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "//a.mktgcdn.com/p-sandbox/hSUOf8ROtR1EFt3tTLbbYHxgcaEa74G5ej1qGpi9gpw/3024x3024.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "//a.mktgcdn.com/p-sandbox/hSUOf8ROtR1EFt3tTLbbYHxgcaEa74G5ej1qGpi9gpw/1900x1900.jpg",
+              "width": 1900
+            },
+            {
+              "height": 619,
+              "url": "//a.mktgcdn.com/p-sandbox/hSUOf8ROtR1EFt3tTLbbYHxgcaEa74G5ej1qGpi9gpw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/hSUOf8ROtR1EFt3tTLbbYHxgcaEa74G5ej1qGpi9gpw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "//a.mktgcdn.com/p-sandbox/hSUOf8ROtR1EFt3tTLbbYHxgcaEa74G5ej1qGpi9gpw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/hSUOf8ROtR1EFt3tTLbbYHxgcaEa74G5ej1qGpi9gpw/3024x3024.jpg",
+          "width": 3024
+        },
+        "imageCaption": "自分もオブジェになってみた"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_yy_test01"
+    ],
+    "c_news_FeaturedArticlesTitle": "関連記事",
+    "c_news_PublicationDate": "2021-11-23",
+    "c_news_UpdateDate": "2021-11-23",
+    "c_news_ViewCount": "0",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/news_ap_yy_test02",
+    "name": "越後妻有アート散策〜第二部",
+    "slug": "news_ap_yy_test02",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

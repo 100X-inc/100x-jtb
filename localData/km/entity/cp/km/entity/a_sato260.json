@@ -1,0 +1,107 @@
+{
+  "$id": "cp_a_sato260",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_cp_Articles": [
+      "ap_a_sato260_007",
+      "ap_a_sato260_006",
+      "ap_a_sato260_005",
+      "ap_a_sato260_004",
+      "ap_a_sato260_003",
+      "ap_a_sato260_001",
+      "ap_a_sato260_002"
+    ],
+    "c_cp_ArticlesSectionTitle": "このコンサルタントの投稿記事",
+    "c_cp_CTA1": {
+      "label": "佐藤 昭子 のリモート相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVBr",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "コンサルタント一覧",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_cp_Description": "ご要望を一つ一つお伺いしながら、精一杯旅の思い出作りをお手伝いさせていただきます。皆さまとお話できることを楽しみにしています。",
+    "c_cp_DisplayName": "佐藤 昭子",
+    "c_cp_EnrollmentArea": "東京",
+    "c_cp_FieldOfExpertise": [
+      "母娘旅",
+      "テーマパーク",
+      "ご当地グルメ",
+      "音楽ライブ"
+    ],
+    "c_cp_GeneralInfo": [
+      "出身地：横浜",
+      "好きなエリア：北海道、九州、沖縄"
+    ],
+    "c_cp_HiraganaName": "さとう あきこ",
+    "c_cp_JobTitle": "JTBリモートコンシェルジュ　トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 416,
+      "sourceUrl": "https://a.mktgcdn.com/p/2OcuXL0vXRQhLrsqLQQo-SBJilqHbymPkI0q6SkKR9M/709x416.png",
+      "thumbnails": [
+        {
+          "height": 416,
+          "url": "https://a.mktgcdn.com/p-sandbox/2OcuXL0vXRQhLrsqLQQo-SBJilqHbymPkI0q6SkKR9M/709x416.png",
+          "width": 709
+        },
+        {
+          "height": 363,
+          "url": "https://a.mktgcdn.com/p-sandbox/2OcuXL0vXRQhLrsqLQQo-SBJilqHbymPkI0q6SkKR9M/619x363.png",
+          "width": 619
+        },
+        {
+          "height": 352,
+          "url": "https://a.mktgcdn.com/p-sandbox/2OcuXL0vXRQhLrsqLQQo-SBJilqHbymPkI0q6SkKR9M/600x352.png",
+          "width": 600
+        },
+        {
+          "height": 115,
+          "url": "https://a.mktgcdn.com/p-sandbox/2OcuXL0vXRQhLrsqLQQo-SBJilqHbymPkI0q6SkKR9M/196x115.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/2OcuXL0vXRQhLrsqLQQo-SBJilqHbymPkI0q6SkKR9M/709x416.png",
+      "width": 709
+    },
+    "c_cp_Point": "120",
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "神奈川県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "北海道スキーリゾート",
+      "スキー",
+      "ご当地グルメ",
+      "九州の温泉"
+    ],
+    "c_metaDescription": "「JTBリモートコンシェルジュ」は、オンラインでの旅行相談・申込の専門店です。知識豊富なスタッフがご希望の旅をご提案します。 オンライ相談の予約も承ります。",
+    "c_metaTitle": "JTBリモートコンシェルジュ ｜  佐藤 昭子 ｜ リモートトラベルコンシェルジュ | オンライン旅行相談",
+    "c_news_NewsList": [
+      "news_ap_a_sato260_007",
+      "news_ap_a_sato260_006",
+      "news_ap_a_sato260_005",
+      "news_ap_a_sato260_004",
+      "news_ap_a_sato260_003",
+      "news_ap_a_sato260_001",
+      "news_ap_a_sato260_002"
+    ],
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_a_sato260",
+    "c_responsibleService": [
+      "リモートコンシェルジュ"
+    ],
+    "name": "a_sato260",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

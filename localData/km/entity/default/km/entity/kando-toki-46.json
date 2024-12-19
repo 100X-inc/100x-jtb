@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-46",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/46_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.08427%2C144.425857",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "太陽・星・月"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "釧路湿原を流れる川にかかる旧岩保木水門（きゅういわぼっきすいもん）は、1931年（昭和6年）に竣工された歴史的な建造物です。重厚な建物は歴史の風情を感じさせ、ほとりを流れる川のゆるやかな流れと広大な釧路湿原を背景にして沈む夕日は、隠れた夕日の鑑賞スポットとなっています。水門付近からは遠く雄阿寒岳と雌阿寒岳を眺めることができる他、ゆったりと流れる釧路川の川面は穏やかな流れゆえに、まるで鏡のように周囲の風景を映し出します。特に絶景なのは、夕暮れ時。広々とした川面には空に輝く夕日や雲が描き出され、逆さ富士ならぬ「逆さ夕景」を見ることができます。美しい夕日を見るなら、空気が澄んだ秋の夕暮れ時がおすすめです。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/46.asp",
+    "name": "釧路湿原岩保木水門と夕暮れの釧路川"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

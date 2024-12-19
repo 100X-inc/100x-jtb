@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-77",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/77_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d26.17558888350981%2C127.43867588651841",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "沖縄県",
+    "c_searchTags": [
+      "沖縄県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "冬",
+      "海・湖・川・滝",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "ザトウクジラの体長は平均して体長13～15mほど。クジラの中では中くらいの大きさですが、小型の船ほどもある巨体が海面から飛び出し、尾びれをひるがえしてダイナミックにジャンプする様子は必見の大迫力です。冬から春にかけての慶良間諸島沖はクジラ達の繁殖海域となっているので、運が良ければ母子のクジラを見ることができるかもしれません。\n背景\n冬から春にかけて、温暖な慶良間諸島の海に繁殖活動のために帰ってくるクジラ達。クジラ達が魅せるダイナミックなジャンプには、恋の駆け引きやコミュニケーション、シャチなどの天敵から子供を守るためなど、様々な理由があると考えられています。また、この海にやってくる「ザトウクジラ」は数多いクジラの中でも「歌うクジラ」としても有名です。数分から数十分、さらには数時間も水中で歌い続ける時もあり、こちらもはっきりとした理由は解明されていませんが、一説にはオスのザトウクジラが求愛行動のために歌う、恋の歌であると言われています。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/77.asp",
+    "name": "ザトウクジラのダイナミックなジャンプを見に行こう！"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

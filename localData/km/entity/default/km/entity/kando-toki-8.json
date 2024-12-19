@@ -1,0 +1,39 @@
+{
+  "$id": "kando-toki-8",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/8_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d42.395378%2C142.438664",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "山・森・野・里",
+      "動物・植物",
+      "文化・伝統"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "静内町にある「二十間道路桜並木」は日本最大とうたわれるほどの壮大な桜並木です。道路の左右の幅がちょうど二十間（36m）あったことから「二十間道路」と呼ばれるようになりました。厳しい北海道の冬が終われば、この道の両端にエゾヤマザクラをはじめとした約3000本もの桜が直線7kmに渡って咲き誇ります。まっすぐな道の両側に見渡す限り桜が咲き連なるさまは、まさしく春の絶景と呼べるでしょう。「さくら名所100選」にも選ばれており、春の桜の盛りともなれば華やかな「花のトンネル」をくぐり抜けようと道内外から多くの観光客が訪れます。近くには競走馬の育成牧場などもあり、桜の観賞とともに、若駒達が駆ける春の北海道を堪能できます。\n見所・お勧めポイント\n並木の桜が一斉に咲き揃う5月上旬には「しずない桜まつり」が開催されます。会場の出店では特産品などのお土産や北海道ならではの新鮮な海の幸の浜焼きなどが販売されています。また、期間中はふだんは見学できない「龍雲閣」が特別に一般公開されます。龍雲閣は1909（明治42）年に建築された皇族のための貴賓舎で、伊藤博文をはじめ、大正天皇や昭和天皇も皇太子時代に滞在し、宮内省所管の御料牧場を見学されました。御殿造りの優美な建物の中には、伊藤博文公の書や狩野探幽の屏風絵などを展示しています。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/8.asp",
+    "name": "静内 二十間道路桜並木"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

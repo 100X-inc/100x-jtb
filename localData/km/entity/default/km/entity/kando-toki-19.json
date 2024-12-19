@@ -1,0 +1,40 @@
+{
+  "$id": "kando-toki-19",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/19_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d44.073224%2C144.993412",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "海・湖・川・滝",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "「知床半島のヒグマ」は小さな半島の中に世界有数の高密度状態で生息しており、知床を象徴する代表的な存在です。斜里町・羅臼町を中心とした知床世界自然遺産地域は、海から高山までそろった多種多様な環境が動物達にとって住みよい状態を提供しており、ヒグマの他にもクジラや海鳥、オオワシなど、多くの野生動物が訪れる自然の宝庫となっています。人の手が入っていない豊かな自然が残されたこの地域は、ヒグマにとっても良好な生息環境が維持されています。ヒグマは体長2m以上、体重300kgにもなる雑食のクマ。陸上で自然のヒグマを見かけることは非常に危険ですが、知床ではクルーズ船に乗ることで、海上から海岸にいるヒグマの姿を目にする事もあるかもしれません。\n見所・お勧めポイント\nウトロ港から知床岬までは、迫力満点の小型クルーザーから揺れが少ない安定感のある大型船まで多数就航しています。知床の壮大な風景、鮭を追う熊、群れをなすイルカなど、知床世界遺産クルーズが楽しめます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/19.asp",
+    "name": "知床半島のヒグマたち"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

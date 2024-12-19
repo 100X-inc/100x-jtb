@@ -1,0 +1,47 @@
+{
+  "$id": "news_pa_nagoya",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "test_kokunai",
+      "kokunai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "名古屋",
+      "link": "https://www.jtb.co.jp/news/list/index.html?tag\u003d%E5%90%8D%E5%8F%A4%E5%B1%8B",
+      "linkType": "OTHER"
+    },
+    "c_news_PopularAreasImage": {
+      "height": 464,
+      "sourceUrl": "https://a.mktgcdn.com/p/r3R_FUCbS7sCcRaiHlCCQu6NBUMumvP78eBBJCEiXec/1198x464.jpg",
+      "thumbnails": [
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/r3R_FUCbS7sCcRaiHlCCQu6NBUMumvP78eBBJCEiXec/1198x464.jpg",
+          "width": 1198
+        },
+        {
+          "height": 240,
+          "url": "https://a.mktgcdn.com/p-sandbox/r3R_FUCbS7sCcRaiHlCCQu6NBUMumvP78eBBJCEiXec/619x240.jpg",
+          "width": 619
+        },
+        {
+          "height": 232,
+          "url": "https://a.mktgcdn.com/p-sandbox/r3R_FUCbS7sCcRaiHlCCQu6NBUMumvP78eBBJCEiXec/600x232.jpg",
+          "width": 600
+        },
+        {
+          "height": 76,
+          "url": "https://a.mktgcdn.com/p-sandbox/r3R_FUCbS7sCcRaiHlCCQu6NBUMumvP78eBBJCEiXec/196x76.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/r3R_FUCbS7sCcRaiHlCCQu6NBUMumvP78eBBJCEiXec/1198x464.jpg",
+      "width": 1198
+    },
+    "name": "名古屋"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

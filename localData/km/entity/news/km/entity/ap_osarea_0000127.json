@@ -1,0 +1,351 @@
+{
+  "$id": "news_ap_osarea_0000127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター"
+    },
+    "c_ap_HeroImage": {
+      "height": 824,
+      "sourceUrl": "http://a.mktgcdn.com/p/1Ybtv4M4hPDEOIw_XaKb0GIQ2qjiseSZMGDxWqH3WIo/1238x824.jpg",
+      "thumbnails": [
+        {
+          "height": 824,
+          "url": "//a.mktgcdn.com/p-sandbox/1Ybtv4M4hPDEOIw_XaKb0GIQ2qjiseSZMGDxWqH3WIo/1238x824.jpg",
+          "width": 1238
+        },
+        {
+          "height": 412,
+          "url": "//a.mktgcdn.com/p-sandbox/1Ybtv4M4hPDEOIw_XaKb0GIQ2qjiseSZMGDxWqH3WIo/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "//a.mktgcdn.com/p-sandbox/1Ybtv4M4hPDEOIw_XaKb0GIQ2qjiseSZMGDxWqH3WIo/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "//a.mktgcdn.com/p-sandbox/1Ybtv4M4hPDEOIw_XaKb0GIQ2qjiseSZMGDxWqH3WIo/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/1Ybtv4M4hPDEOIw_XaKb0GIQ2qjiseSZMGDxWqH3WIo/1238x824.jpg",
+      "width": 1238
+    },
+    "c_ap_HeroImageCaption": "カラフルなドルチェで彩られた店内",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "イタリア旅行を探す",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/italy/"
+      },
+      {
+        "linkText": "ローマのツアー・パックを探す",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dROM"
+      },
+      {
+        "linkText": "イタリアのホテルを探す",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/86/?freeword\u003d%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d86"
+      },
+      {
+        "linkText": "イタリアの添乗員同行ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?houmen\u003d01\u0026kuni\u003dIT"
+      },
+      {
+        "linkText": "ローマ行きの航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/europe/italy/roma/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "映画『ローマの休日』でオードリー・ヘップバーン演じるアン王女が、ジェラート片手に階段を下りてくるシーンで有名なスペイン広場。観光客でにぎわう広場周辺には、街歩きのついでに立ち寄れるカフェが多数点在しています。見た目も華やかなとっておきの甘いドルチェを味わってみてください。（写真：ポンピ・ストア）",
+    "c_ap_Tags": [
+      "観光スポット",
+      "スペイン広場",
+      "ローマの休日",
+      "カフェ",
+      "ドルチェ",
+      "朝食"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "ハネムーン",
+      "街あるき",
+      "グルメ",
+      "カフェ"
+    ],
+    "c_ap_Title": "スペイン広場周辺のおすすめカフェ｜ローマ観光でほっと一息つける場所をご紹介",
+    "c_linkedArea3News": [
+      "italy"
+    ],
+    "c_metaDescription": "映画『ローマの休日』でオードリー・ヘップバーン演じるアン王女が、ジェラート片手に階段を下りてくるシーンで有名なスペイン広場。観光客でにぎわう広場周辺には、街歩きのついでに立ち寄れるカフェが多数点在しています。見た目も華やかなとっておきの甘いドルチェを味わってみてください。（写真：ポンピ・ストア）",
+    "c_metaTitle": "スペイン広場周辺のおすすめカフェ｜ローマ観光でほっと一息つける場所をご紹介",
+    "c_news_CTAs": [
+      {
+        "label": "海外旅行専門デスクへの相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top-overseas-desk",
+        "linkType": "URL"
+      },
+      {
+        "label": "イタリア旅行を探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/italy/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "イタリアの現地ツアーを探す",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aEUR/bIT/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "イタリア観光のおすすめスポットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/europe/italy/news_web_kaigai_0020",
+          "linkType": "OTHER"
+        },
+        "description": "1760年創業のローマを代表する老舗カフェ。ローマにあるカフェの中では最も古いといわれています。創業者がギリシア人だったことから「グレコ」と名付けられました。かつてはカサノヴァ、ゲーテ、ゴーゴリ、アンデルセンといった世界各国の文化人たちが頻繁に通い、長く愛されていたそう。店内には絵画や作品集がたくさん飾られており、立ち飲み用のバール、カフェ用のテーブル席、店奥にはサロンがあります。ショーケースには焼き菓子やショコラ、ティラミス、ブリオッシュなどがズラリ。イタリアの歴史を感じさせる空間で優雅なカフェタイムを過ごしてみてください。",
+        "image": {
+          "alternateText": "Caffè Greco",
+          "height": 3853,
+          "sourceUrl": "https://a.mktgcdn.com/p/X0yB0YcPLwTenoOj6YHV7jDh_OeQv4xqFW7AV2BtsPU/3456x3853.jpg",
+          "thumbnails": [
+            {
+              "height": 3853,
+              "url": "https://a.mktgcdn.com/p-sandbox/iGlVnzVEnDOTmUtUp_4UvOi6rxGubmQoiGLblKKpUTE/3456x3853.jpg",
+              "width": 3456
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/iGlVnzVEnDOTmUtUp_4UvOi6rxGubmQoiGLblKKpUTE/1704x1900.jpg",
+              "width": 1704
+            },
+            {
+              "height": 690,
+              "url": "https://a.mktgcdn.com/p-sandbox/iGlVnzVEnDOTmUtUp_4UvOi6rxGubmQoiGLblKKpUTE/619x690.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/iGlVnzVEnDOTmUtUp_4UvOi6rxGubmQoiGLblKKpUTE/404x450.jpg",
+              "width": 404
+            },
+            {
+              "height": 219,
+              "url": "https://a.mktgcdn.com/p-sandbox/iGlVnzVEnDOTmUtUp_4UvOi6rxGubmQoiGLblKKpUTE/196x219.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iGlVnzVEnDOTmUtUp_4UvOi6rxGubmQoiGLblKKpUTE/3456x3853.jpg",
+          "width": 3456
+        },
+        "imageCaption": "フルーツマフィンなどのドルチェが豊富",
+        "infoBlockLabel": "Caffè Greco",
+        "infoBlockText": "住所：Via del Condoti 86 営業時間：9時～20時30分定休日：なし",
+        "sectionTitle": "カフェ・グレコ（Caffè Greco）"
+      },
+      {
+        "description": "アンティークの調度品や絵画が並ぶクラシカルな空間です",
+        "image": {
+          "alternateText": "店内",
+          "height": 1173,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZlmVypHltzvN-bGnFZc63HSwoulJL8HncE8shWAMM5A/783x1173.jpg",
+          "thumbnails": [
+            {
+              "height": 1173,
+              "url": "https://a.mktgcdn.com/p-sandbox/-hKKaHAfC3nPKTliiR-Cj5OEA1WqFbHZIeSL8Dle5D8/783x1173.jpg",
+              "width": 783
+            },
+            {
+              "height": 927,
+              "url": "https://a.mktgcdn.com/p-sandbox/-hKKaHAfC3nPKTliiR-Cj5OEA1WqFbHZIeSL8Dle5D8/619x927.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/-hKKaHAfC3nPKTliiR-Cj5OEA1WqFbHZIeSL8Dle5D8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/-hKKaHAfC3nPKTliiR-Cj5OEA1WqFbHZIeSL8Dle5D8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-hKKaHAfC3nPKTliiR-Cj5OEA1WqFbHZIeSL8Dle5D8/783x1173.jpg",
+          "width": 783
+        },
+        "imageCaption": "ナスとズッキーニをサンドしたクロストーネ€と、搾りたてのグレープフルーツジュース",
+        "infoBlockLabel": "Vitti",
+        "infoBlockText": "住所：Piazza San Lorenzo in Lucina 33 営業時間：6 ～24時定休日：なし",
+        "sectionTitle": "ヴィッティ（Vitti）"
+      },
+      {
+        "description": "1898年創業の老舗ジェラテリアが経営するカフェ。サン・ロレンツォ・イン・ルチーナ教会の近くにあるサン・ロレンツォ広場に位置し、テラス席も人気です。自慢のドルチェはすべてが自家製。チーズケーキ、パンナコッタ、サクっとした生地の中にリコッタチーズのクリームがたっぷり入ったシチリア伝統菓子のカンノーロなどが人気です。ピザやパスタ、サンドイッチなどの軽食も豊富です。",
+        "image": {
+          "alternateText": "ナスとズッキーニをサンドしたクロストーネと、搾りたてのグレープフルーツジュース",
+          "height": 4359,
+          "sourceUrl": "https://a.mktgcdn.com/p/vYPDzYtONerClJAEZ7ind9ApyrKF6ArItXbYazFIo_s/3269x4359.jpg",
+          "thumbnails": [
+            {
+              "height": 4359,
+              "url": "https://a.mktgcdn.com/p-sandbox/lDvKNh2_qE78B6oAuq43rFb2NT4t5HujwzuDDWn7Wpk/3269x4359.jpg",
+              "width": 3269
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/lDvKNh2_qE78B6oAuq43rFb2NT4t5HujwzuDDWn7Wpk/1425x1900.jpg",
+              "width": 1425
+            },
+            {
+              "height": 825,
+              "url": "https://a.mktgcdn.com/p-sandbox/lDvKNh2_qE78B6oAuq43rFb2NT4t5HujwzuDDWn7Wpk/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/lDvKNh2_qE78B6oAuq43rFb2NT4t5HujwzuDDWn7Wpk/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/lDvKNh2_qE78B6oAuq43rFb2NT4t5HujwzuDDWn7Wpk/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lDvKNh2_qE78B6oAuq43rFb2NT4t5HujwzuDDWn7Wpk/3269x4359.jpg",
+          "width": 3269
+        },
+        "imageCaption": "イチゴのティラミスも人気",
+        "infoBlockLabel": "Pompi Store",
+        "infoBlockText": "住所：Via della Crose 88営業時間：10～22時定休日：なし",
+        "sectionTitle": "ポンピ・ストア（Pompi Store）"
+      },
+      {
+        "description": "ドルチェが綺麗に並べられたショーケースも見どころ。",
+        "image": {
+          "alternateText": "ドルチェが綺麗に並べられたショーケース",
+          "height": 3456,
+          "sourceUrl": "https://a.mktgcdn.com/p/Ep2ZeejkYp5vnmnOaZ6qGMZ8fQTR74tSmymJeeMYXKU/4608x3456.jpg",
+          "thumbnails": [
+            {
+              "height": 3456,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ep2ZeejkYp5vnmnOaZ6qGMZ8fQTR74tSmymJeeMYXKU/4608x3456.jpg",
+              "width": 4608
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ep2ZeejkYp5vnmnOaZ6qGMZ8fQTR74tSmymJeeMYXKU/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ep2ZeejkYp5vnmnOaZ6qGMZ8fQTR74tSmymJeeMYXKU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ep2ZeejkYp5vnmnOaZ6qGMZ8fQTR74tSmymJeeMYXKU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ep2ZeejkYp5vnmnOaZ6qGMZ8fQTR74tSmymJeeMYXKU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ep2ZeejkYp5vnmnOaZ6qGMZ8fQTR74tSmymJeeMYXKU/4608x3456.jpg",
+          "width": 4608
+        }
+      },
+      {
+        "description": "1960年に設立したティラミスで有名なカフェ「ポンピ」が、スペイン広場近くに出店。「ローマで一番」と評判のティラミスは定番のクラシコのほかイチゴやピスタチオなど、アレンジまで多彩な種類が揃います。ティラミスはイタリア語で「私を元気付けて」という意味。ローマ観光で歩き疲れた際は、ぜひ訪れてみてください。",
+        "image": {
+          "alternateText": "イチゴのティラミス",
+          "height": 2832,
+          "sourceUrl": "https://a.mktgcdn.com/p/ChculJlL7nGEsxLT0ufQhy1d3EgMVuzbNlMmlzqQMpU/4256x2832.jpg",
+          "thumbnails": [
+            {
+              "height": 2832,
+              "url": "https://a.mktgcdn.com/p-sandbox/ChculJlL7nGEsxLT0ufQhy1d3EgMVuzbNlMmlzqQMpU/4256x2832.jpg",
+              "width": 4256
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/ChculJlL7nGEsxLT0ufQhy1d3EgMVuzbNlMmlzqQMpU/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/ChculJlL7nGEsxLT0ufQhy1d3EgMVuzbNlMmlzqQMpU/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/ChculJlL7nGEsxLT0ufQhy1d3EgMVuzbNlMmlzqQMpU/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/ChculJlL7nGEsxLT0ufQhy1d3EgMVuzbNlMmlzqQMpU/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ChculJlL7nGEsxLT0ufQhy1d3EgMVuzbNlMmlzqQMpU/4256x2832.jpg",
+          "width": 4256
+        }
+      },
+      {
+        "description": "スペイン広場近くの支店は店内に席はなく、テイクアウト専門店になっています。",
+        "image": {
+          "alternateText": "店内",
+          "height": 824,
+          "sourceUrl": "https://a.mktgcdn.com/p/1Ybtv4M4hPDEOIw_XaKb0GIQ2qjiseSZMGDxWqH3WIo/1238x824.jpg",
+          "thumbnails": [
+            {
+              "height": 824,
+              "url": "https://a.mktgcdn.com/p-sandbox/1Ybtv4M4hPDEOIw_XaKb0GIQ2qjiseSZMGDxWqH3WIo/1238x824.jpg",
+              "width": 1238
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/1Ybtv4M4hPDEOIw_XaKb0GIQ2qjiseSZMGDxWqH3WIo/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/1Ybtv4M4hPDEOIw_XaKb0GIQ2qjiseSZMGDxWqH3WIo/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/1Ybtv4M4hPDEOIw_XaKb0GIQ2qjiseSZMGDxWqH3WIo/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1Ybtv4M4hPDEOIw_XaKb0GIQ2qjiseSZMGDxWqH3WIo/1238x824.jpg",
+          "width": 1238
+        }
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000126"
+    ],
+    "c_news_FeaturedArticlesTitle": "イタリアのその他の投稿記事",
+    "c_news_PublicationDate": "2024-02-06",
+    "c_news_UpdateDate": "2024-11-20",
+    "c_news_ViewCount": "378",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "378",
+    "c_news_ViewCountNum": "378",
+    "c_news_ViewCountNumForSorting": "13",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/europe/italy/news_ap_osarea_0000127",
+    "name": "スペイン広場周辺のおすすめカフェ｜ローマ観光でほっと一息つける場所をご紹介",
+    "slug": "kaigai/europe/italy/news_ap_osarea_0000127"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

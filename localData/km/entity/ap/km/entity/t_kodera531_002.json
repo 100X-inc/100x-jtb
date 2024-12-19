@@ -1,0 +1,225 @@
+{
+  "$id": "ap_t_kodera531_002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "行き届いたおもてなしをするためには18室が限度というお宿の考え方。プライベートに配慮された客室の造りにもそれが表れています。1階には円山川を身近に眺める展望風呂付きの和室が8室と、風情ある坪庭を望む庭園風呂付き和室が2室。2階には円山川を望む展望風呂付きの和洋室が8室。客室のお風呂は温泉ではありませんが、湯船は檜造りで、静かな川面や坪庭を眺めながらお湯に浸かると、豊かな檜の香りにホッとやすらぎを感じて身体がほぐれていくようです。大きくとった広縁の椅子に座れば、対岸の山々の緑と円山川の流れが相まって時を忘れてしまいそうです。",
+        "image": {
+          "height": 391,
+          "sourceUrl": "https://a.mktgcdn.com/p/mCCNKzaVWcOXItZ5evf0Y3LCDLJDAsCqagUcqWhoiLc/596x391.jpg",
+          "thumbnails": [
+            {
+              "height": 391,
+              "url": "https://a.mktgcdn.com/p-sandbox/mCCNKzaVWcOXItZ5evf0Y3LCDLJDAsCqagUcqWhoiLc/596x391.jpg",
+              "width": 596
+            },
+            {
+              "height": 129,
+              "url": "https://a.mktgcdn.com/p-sandbox/mCCNKzaVWcOXItZ5evf0Y3LCDLJDAsCqagUcqWhoiLc/196x129.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/mCCNKzaVWcOXItZ5evf0Y3LCDLJDAsCqagUcqWhoiLc/596x391.jpg",
+          "width": 596
+        },
+        "imageCaption": "川に面して全面ガラス張りの客室が好評",
+        "sectionTitle": "穏やかな流れを見せる円山川、四季の変化が手に取るように"
+      },
+      {
+        "description": "調理したての料理をすぐお出しできるように、厨房すぐ横に食事処があります。食事処「雲水」または個室食事処「陶祥」で提供するお食事は、厳選した食材を使い季節ごとに料理が変わる創作会席。料理自慢の宿だけに、料理長は地産地消にこだわり、兵庫県産黒毛和牛の但馬牛をはじめ、地元漁港のその日に水揚げされた魚介や旬を大切にした野菜などを使用。繊細で上品に仕上げた会席料理は、目でも味わえる美しい料理です。特にカニに対するこだわりはひとしお。香住ガニとも呼ばれる紅ズワイガニは9～5月、松葉ガニの名があるズワイガニは11～3月が漁期。地元津居山港で水揚げされたズワイガニは「津居山かに」のブランド名をもつ特級ガニ。その活ガニのみを使用した「かにフルコース」では、かに刺しや茹でがに、かに鍋、焼きがに、かに雑炊など、さまざまな調理法でご提供。「津居山かにオーダーメイドコース」では、調理前のカニを見ながらお好みの調理方法をうかがいますから、希望をしっかりお伝えくださいね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/XY0iKWRO6EY7AZuKIXPHauBGnN0zLJanYCmL1m8vIfo/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/XY0iKWRO6EY7AZuKIXPHauBGnN0zLJanYCmL1m8vIfo/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/XY0iKWRO6EY7AZuKIXPHauBGnN0zLJanYCmL1m8vIfo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/XY0iKWRO6EY7AZuKIXPHauBGnN0zLJanYCmL1m8vIfo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/XY0iKWRO6EY7AZuKIXPHauBGnN0zLJanYCmL1m8vIfo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/XY0iKWRO6EY7AZuKIXPHauBGnN0zLJanYCmL1m8vIfo/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "冬の味覚の代表は本ズワイガニ料理で決まり！",
+        "sectionTitle": "料理自慢の宿ならでは、繊細で上品な料理にお腹も心も大満足"
+      },
+      {
+        "description": "全てのお部屋に展望風呂が付いていますが、大浴場にもぜひ足を運んでください。アルカリ性単純温泉の円山川温泉を引く大浴場「みなもの湯」には、男女とも内湯のほかに、円山川と繋がるように配置された露天風呂があります。湯船に浸かるとまるで川の中に浮かんでいるような不思議な感覚に。見上げれば満天の星空、目をつぶれば頬をなぜる川風が心地よく、ゆったりとした気分に満たされます。さらに、竹製の桶風呂「竹の湯 蛍火」と木造りの「木の湯 月華」の趣異なる2つの無料の貸切風呂もご用意。予約制ではありませんから空いていればぜひご利用ください。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai_hotel/htl/6540001/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eこの宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 674,
+          "sourceUrl": "https://a.mktgcdn.com/p/wM-D2NbisEqe8ZZ7srjaMlLtBvQKXAFLUKbCrAu-6Og/1200x674.jpg",
+          "thumbnails": [
+            {
+              "height": 674,
+              "url": "https://a.mktgcdn.com/p-sandbox/wM-D2NbisEqe8ZZ7srjaMlLtBvQKXAFLUKbCrAu-6Og/1200x674.jpg",
+              "width": 1200
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/wM-D2NbisEqe8ZZ7srjaMlLtBvQKXAFLUKbCrAu-6Og/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "https://a.mktgcdn.com/p-sandbox/wM-D2NbisEqe8ZZ7srjaMlLtBvQKXAFLUKbCrAu-6Og/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/wM-D2NbisEqe8ZZ7srjaMlLtBvQKXAFLUKbCrAu-6Og/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wM-D2NbisEqe8ZZ7srjaMlLtBvQKXAFLUKbCrAu-6Og/1200x674.jpg",
+          "width": 1200
+        },
+        "imageCaption": "円山川の四季の変化が楽しめる露天風呂",
+        "sectionTitle": "わずかに濁る温泉は肌にやさしく、心もほぐしてゆらりゆらり"
+      },
+      {
+        "description": "----------------------------------------------※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-01-21",
+    "c_ap_HeroImage": {
+      "alternateText": "城崎で冬の味覚・ワンランク上の津居山かにを味わい尽くす！【兵庫県　銀花】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 791,
+      "sourceUrl": "https://a.mktgcdn.com/p/55cR-FDJjM_qUlbKVd3NOMC3l6ZXYqcC7v6wdjxq67Q/1200x791.jpg",
+      "thumbnails": [
+        {
+          "height": 791,
+          "url": "https://a.mktgcdn.com/p-sandbox/55cR-FDJjM_qUlbKVd3NOMC3l6ZXYqcC7v6wdjxq67Q/1200x791.jpg",
+          "width": 1200
+        },
+        {
+          "height": 408,
+          "url": "https://a.mktgcdn.com/p-sandbox/55cR-FDJjM_qUlbKVd3NOMC3l6ZXYqcC7v6wdjxq67Q/619x408.jpg",
+          "width": 619
+        },
+        {
+          "height": 396,
+          "url": "https://a.mktgcdn.com/p-sandbox/55cR-FDJjM_qUlbKVd3NOMC3l6ZXYqcC7v6wdjxq67Q/600x396.jpg",
+          "width": 600
+        },
+        {
+          "height": 129,
+          "url": "https://a.mktgcdn.com/p-sandbox/55cR-FDJjM_qUlbKVd3NOMC3l6ZXYqcC7v6wdjxq67Q/196x129.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/55cR-FDJjM_qUlbKVd3NOMC3l6ZXYqcC7v6wdjxq67Q/1200x791.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "日本旅館のよさが感じられる風情ある大人の宿",
+    "c_ap_LinkArticleSectionTitle": "兵庫県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "この記事の投稿者にリモート相談予約をする",
+        "uRL": "https://link.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNF1DN-qJBbQrxc"
+      },
+      {
+        "linkText": "銀花 のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/6540001/plan/"
+      },
+      {
+        "linkText": "城崎温泉のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/2820906/"
+      },
+      {
+        "linkText": "兵庫旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/hyogo/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea4": [
+      "近畿全般",
+      "兵庫県"
+    ],
+    "c_ap_ShortDescription": "開湯1300年以上といわれる城崎温泉の温泉街から少し離れた円山川沿いに位置する日本旅館。約6600平方メートルの敷地内に立つ2階建ての家屋に、客室はわずか18室という閑静な大人の宿です。全国展開をしている共立リゾートの湯宿の一つだけに、温泉も、料理も、客室も自慢の宿。特に、日本海に近く、香住港や津居山港などの漁港が控えているだけに、冬のカニに対するこだわりはひとしおです。ゆったりとした円山川の流れを楽しみながら、冬の味覚のズワイガニを心ゆくまでご堪能してみてはいかがでしょうか。",
+    "c_ap_Tags": [
+      "城崎温泉",
+      "かに",
+      "純和風"
+    ],
+    "c_ap_Theme": [
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "城崎で冬の味覚・ワンランク上の津居山かにを味わい尽くす！【兵庫県　銀花】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "開湯1300年以上といわれる城崎温泉の温泉街から少し離れた円山川沿いに位置する日本旅館。約6600平方メートルの敷地内に立つ2階建ての家屋に、客室はわずか18室という閑静な大人の宿です。全国展開をしている共立…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "城崎で冬の味覚・ワンランク上の津居山かにを味わい尽くす！【兵庫県　銀花】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_t_kodera531_002",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "近畿全般, 兵庫県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：近畿全般, 兵庫県",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：近畿全般, 兵庫県",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "城崎で冬の味覚・ワンランク上の津居山かにを味わい尽くす！【兵庫県　銀花】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

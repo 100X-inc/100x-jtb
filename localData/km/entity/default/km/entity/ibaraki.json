@@ -1,0 +1,57 @@
+{
+  "$id": "ibaraki",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "kanto"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_y_ishihara225_021",
+      "news_ap_area_0000045",
+      "news_ap_area_0000044",
+      "news_ap_area_0000046"
+    ],
+    "c_metaDescription": "茨城に関する記事をピックアップ！JTBニュースでは、茨城で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 茨城 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "茨城",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/bJfZY0Cjf7N1g1u9ZVtekKVFY0GmTAL5ZFjZWEhtbMA/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/0Yrm8UwueOrr0PS5PUos6Waq350MgmwSCAfMten1lUw/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/0Yrm8UwueOrr0PS5PUos6Waq350MgmwSCAfMten1lUw/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/0Yrm8UwueOrr0PS5PUos6Waq350MgmwSCAfMten1lUw/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/0Yrm8UwueOrr0PS5PUos6Waq350MgmwSCAfMten1lUw/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/0Yrm8UwueOrr0PS5PUos6Waq350MgmwSCAfMten1lUw/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/0Yrm8UwueOrr0PS5PUos6Waq350MgmwSCAfMten1lUw/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "茨城",
+    "slug": "kokunai/kanto/ibaraki"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

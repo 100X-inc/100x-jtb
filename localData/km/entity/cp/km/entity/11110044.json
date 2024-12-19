@@ -1,0 +1,85 @@
+{
+  "$id": "cp_11110044",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "北海道",
+    "c_cp_CTA1": {
+      "label": "渡邉 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVei_2y",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBk",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "テーマパークが大好きで日本各地の色々なテーマパークへ年に1回は行っています！楽しいご旅行となるようお手伝いさせていただきます。お気軽にご相談ください。",
+    "c_cp_DisplayName": "ワタナベ",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "テーマパーク"
+    ],
+    "c_cp_HiraganaName": "わたなべ",
+    "c_cp_JobTitle": "JTBイオンモール苫小牧店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 4080,
+      "sourceUrl": "https://a.mktgcdn.com/p/KndbvfXcLUYQvU7VOhmb_ne1jRxu4enpjHG64Qodjq0/3072x4080.jpg",
+      "thumbnails": [
+        {
+          "height": 4080,
+          "url": "https://a.mktgcdn.com/p-sandbox/KndbvfXcLUYQvU7VOhmb_ne1jRxu4enpjHG64Qodjq0/3072x4080.jpg",
+          "width": 3072
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/KndbvfXcLUYQvU7VOhmb_ne1jRxu4enpjHG64Qodjq0/1431x1900.jpg",
+          "width": 1431
+        },
+        {
+          "height": 822,
+          "url": "https://a.mktgcdn.com/p-sandbox/KndbvfXcLUYQvU7VOhmb_ne1jRxu4enpjHG64Qodjq0/619x822.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/KndbvfXcLUYQvU7VOhmb_ne1jRxu4enpjHG64Qodjq0/339x450.jpg",
+          "width": 339
+        },
+        {
+          "height": 260,
+          "url": "https://a.mktgcdn.com/p-sandbox/KndbvfXcLUYQvU7VOhmb_ne1jRxu4enpjHG64Qodjq0/196x260.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/KndbvfXcLUYQvU7VOhmb_ne1jRxu4enpjHG64Qodjq0/3072x4080.jpg",
+      "width": 3072
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "千葉県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 渡邉",
+    "c_metaTitle": "JTBトラベルコンサルタント | 渡邉",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_11110044",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10026_イオンモール苫小牧店",
+    "name": "わたなべ_11110044",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

@@ -1,0 +1,135 @@
+{
+  "$id": "cp_13138009",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "福島県",
+    "c_cp_CTA1": {
+      "label": "佐藤 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVe9xVB",
+      "linkType": "OTHER"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVe9xVB",
+      "linkType": "URL"
+    },
+    "c_cp_Certification": [
+      "トラベルコーディネーターA級",
+      "総合旅行業取扱管理者",
+      "ウエディングコンサルタント"
+    ],
+    "c_cp_Description": "心に残る楽しいご旅行になるよう、お手伝いさせていただきます。",
+    "c_cp_DisplayName": "佐藤",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "温泉・立ち寄り湯"
+    ],
+    "c_cp_GeneralInfo": [
+      "資格等：ハワイスペシャリスト（ハワイ観光局公式）　",
+      "　オージースペシャリスト（オーストラリア政府観光局公認）"
+    ],
+    "c_cp_HeroImage": {
+      "height": 1714,
+      "sourceUrl": "https://a.mktgcdn.com/p/y5wTUBQsS1-F0qfe-i7BRyS2QJeuG3_hUxcWNjQYNrE/1391x1714.jpg",
+      "thumbnails": [
+        {
+          "height": 1714,
+          "url": "https://a.mktgcdn.com/p-sandbox/y5wTUBQsS1-F0qfe-i7BRyS2QJeuG3_hUxcWNjQYNrE/1391x1714.jpg",
+          "width": 1391
+        },
+        {
+          "height": 763,
+          "url": "https://a.mktgcdn.com/p-sandbox/y5wTUBQsS1-F0qfe-i7BRyS2QJeuG3_hUxcWNjQYNrE/619x763.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/y5wTUBQsS1-F0qfe-i7BRyS2QJeuG3_hUxcWNjQYNrE/365x450.jpg",
+          "width": 365
+        },
+        {
+          "height": 242,
+          "url": "https://a.mktgcdn.com/p-sandbox/y5wTUBQsS1-F0qfe-i7BRyS2QJeuG3_hUxcWNjQYNrE/196x242.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/y5wTUBQsS1-F0qfe-i7BRyS2QJeuG3_hUxcWNjQYNrE/1391x1714.jpg",
+      "width": 1391
+    },
+    "c_cp_HiraganaName": "さとう",
+    "c_cp_JobTitle": "JTBいわき店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 3357,
+      "sourceUrl": "https://a.mktgcdn.com/p/76tlOSiS5oiOzbbljy2roBUoPQ1S0Am0Et2qf62a9HA/3024x3357.jpg",
+      "thumbnails": [
+        {
+          "height": 3357,
+          "url": "https://a.mktgcdn.com/p-sandbox/sICBi__YNBYzyeFOIuSK4LlLF1f03MDOGRpacVuR8P4/3024x3357.jpg",
+          "width": 3024
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/sICBi__YNBYzyeFOIuSK4LlLF1f03MDOGRpacVuR8P4/1712x1900.jpg",
+          "width": 1712
+        },
+        {
+          "height": 687,
+          "url": "https://a.mktgcdn.com/p-sandbox/sICBi__YNBYzyeFOIuSK4LlLF1f03MDOGRpacVuR8P4/619x687.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/sICBi__YNBYzyeFOIuSK4LlLF1f03MDOGRpacVuR8P4/405x450.jpg",
+          "width": 405
+        },
+        {
+          "height": 218,
+          "url": "https://a.mktgcdn.com/p-sandbox/sICBi__YNBYzyeFOIuSK4LlLF1f03MDOGRpacVuR8P4/196x218.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/sICBi__YNBYzyeFOIuSK4LlLF1f03MDOGRpacVuR8P4/3024x3357.jpg",
+      "width": 3024
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "オーストラリア"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "シンガポール"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "東北全般"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "鳥取県",
+      "島根県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "ハワイスペシャリスト　上級",
+      "妖怪検定　初級",
+      "オージースペシャリスト"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 佐藤",
+    "c_metaTitle": "JTBトラベルコンサルタント | 佐藤",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_13138009",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10057_いわき店",
+    "name": "さとう みちこ_13138009",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

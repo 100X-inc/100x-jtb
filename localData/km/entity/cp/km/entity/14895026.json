@@ -1,0 +1,53 @@
+{
+  "$id": "cp_14895026",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_cp_DisplayName": "赤坂",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 1077,
+      "sourceUrl": "https://a.mktgcdn.com/p/xAdxEiDbhjjUB9ENsf2xGbbSzxYMw8l1OYqLiU7BWV8/1440x1077.jpg",
+      "thumbnails": [
+        {
+          "height": 1077,
+          "url": "https://a.mktgcdn.com/p-sandbox/xAdxEiDbhjjUB9ENsf2xGbbSzxYMw8l1OYqLiU7BWV8/1440x1077.jpg",
+          "width": 1440
+        },
+        {
+          "height": 463,
+          "url": "https://a.mktgcdn.com/p-sandbox/xAdxEiDbhjjUB9ENsf2xGbbSzxYMw8l1OYqLiU7BWV8/619x463.jpg",
+          "width": 619
+        },
+        {
+          "height": 449,
+          "url": "https://a.mktgcdn.com/p-sandbox/xAdxEiDbhjjUB9ENsf2xGbbSzxYMw8l1OYqLiU7BWV8/600x449.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/xAdxEiDbhjjUB9ENsf2xGbbSzxYMw8l1OYqLiU7BWV8/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/xAdxEiDbhjjUB9ENsf2xGbbSzxYMw8l1OYqLiU7BWV8/1440x1077.jpg",
+      "width": 1440
+    },
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "京都府"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_v2Folder": "2024/09/27 JBX対応（リテール外異動）",
+    "name": "あかさか　じゅんこ"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

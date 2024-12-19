@@ -1,0 +1,903 @@
+{
+  "$id": "news_web_kokunai_0012",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1280,
+      "sourceUrl": "https://a.mktgcdn.com/p/OqTwOq4TQ9JpuHOMkLg8OXvgdAoncHg0Cad5EwWb8hw/1920x1280.jpg",
+      "thumbnails": [
+        {
+          "height": 1280,
+          "url": "https://a.mktgcdn.com/p-sandbox/jYvuR8AY73zCVCCGRCNJI76DJbves0yMY00j57tZEUU/1920x1280.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/jYvuR8AY73zCVCCGRCNJI76DJbves0yMY00j57tZEUU/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/jYvuR8AY73zCVCCGRCNJI76DJbves0yMY00j57tZEUU/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/jYvuR8AY73zCVCCGRCNJI76DJbves0yMY00j57tZEUU/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/jYvuR8AY73zCVCCGRCNJI76DJbves0yMY00j57tZEUU/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/jYvuR8AY73zCVCCGRCNJI76DJbves0yMY00j57tZEUU/1920x1280.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "石垣島の旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/s_ishigakijima/"
+      },
+      {
+        "linkText": "石垣島のホテル・旅館・宿を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/470503/"
+      },
+      {
+        "linkText": "石垣島のツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_air/a/470503/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "【JTB】がおすすめする、石垣島観光で必ず訪れたいスポット！川平湾や底地ビーチなど美しい海に出会える絶景ビーチから、世界屈指ともいわれる星空鑑賞スポット、幻想的な鍾乳洞まで。アクティビティ体験やレンタカーでのドライブも人気な「石垣島観光」の多彩な魅力の数々を紹介いたします！",
+    "c_ap_Tags": [
+      "ビーチ",
+      "ビーチリゾート",
+      "沖縄おすすめ",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "石垣島のおすすめ観光スポットと過ごし方20選！透き通るビーチを満喫",
+    "c_linkedArea3News": [
+      "okinawa_all"
+    ],
+    "c_metaDescription": "【JTB】がおすすめする、石垣島観光で必ず訪れたいスポット！川平湾や底地ビーチなど美しい海に出会える絶景ビーチから、世界屈指ともいわれる星空鑑賞スポット、幻想的な鍾乳洞まで。アクティビティ体験やレンタカーでのドライブも人気な「石垣島観光」の多彩な魅力の数々を紹介いたします！",
+    "c_metaTitle": "石垣島ではずせない！おすすめ観光スポット＆楽しみ方20選 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "石垣島のおすすめ観光スポットをもっとみる",
+        "link": "https://www.jtb.co.jp/kokunai-guide/list/index.html?area\u003d4705\u0026feature\u003d0\u0026genre\u003d000",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "石垣島の旅行・ツアー情報をみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/okinawa/s_ishigakijima/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "川平湾周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5002570/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "石垣島鍾乳洞周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5002600/",
+          "linkType": "OTHER"
+        },
+        "description": "川平湾は世界でも高い人気を誇る絶景スポットです。魅力の理由はなんといってもその美しい海です。真っ白な砂浜から、グラデーションで青に変わっていく海の色はカビラブルーと呼ばれ、時間帯によって七色に変化すると言われています。グラスボートに乗って、ガラス越しに約260種といわれるサンゴの群生や魚を観察するのが定番の楽しみ方です。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/bIq68o0LWV6iPZIwfxpZ47YXoye2YfMe0DGGsn_F3fg/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/bIq68o0LWV6iPZIwfxpZ47YXoye2YfMe0DGGsn_F3fg/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/bIq68o0LWV6iPZIwfxpZ47YXoye2YfMe0DGGsn_F3fg/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/bIq68o0LWV6iPZIwfxpZ47YXoye2YfMe0DGGsn_F3fg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/bIq68o0LWV6iPZIwfxpZ47YXoye2YfMe0DGGsn_F3fg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bIq68o0LWV6iPZIwfxpZ47YXoye2YfMe0DGGsn_F3fg/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "bluebird-harvest / PIXTA(ピクスタ)",
+        "infoBlockLabel": "川平湾の基本情報",
+        "infoBlockText": "アクセス：石垣空港 から車で約33分、離島ターミナルから車で約30分住所：沖縄県石垣市川平",
+        "sectionLevel": "h2",
+        "sectionSubtitle": "ビーチ、星空スポット、鍾乳洞やそのほか定番観光スポットなど、石垣島にはたくさんの魅力があります。車で回りやすい所がほとんどなので、いろんな体験をしてみましょう。※2024年2月時点の情報です。内容は変更になることがあります。",
+        "sectionTitle": "1．石垣島の美しい海に出会えるビーチ"
+      },
+      {
+        "cTA1": {
+          "label": "底地ビーチ周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/JP005250/",
+          "linkType": "OTHER"
+        },
+        "description": "川平湾から車で10分ほどの海水浴場として人気なのが底地ビーチ（すくじびーち）です。海は遠浅なので子供連れでの海水浴や浜遊びにぴったり。島の西側にあるので、夕暮れ時は水平線に沈む夕日のオレンジ色が海に映って感動的です。夜になれば、一転して星空鑑賞スポットへ。ドライブをいったん止めて、車の中から空を見るだけでも心が浄化されることでしょう。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/43DnW30tdAvBRouPocioEpcHzNXK3-XrNHG7jcNmLss/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/43DnW30tdAvBRouPocioEpcHzNXK3-XrNHG7jcNmLss/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/43DnW30tdAvBRouPocioEpcHzNXK3-XrNHG7jcNmLss/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/43DnW30tdAvBRouPocioEpcHzNXK3-XrNHG7jcNmLss/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/43DnW30tdAvBRouPocioEpcHzNXK3-XrNHG7jcNmLss/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/43DnW30tdAvBRouPocioEpcHzNXK3-XrNHG7jcNmLss/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "akiko / PIXTA(ピクスタ)",
+        "infoBlockLabel": "底地ビーチの基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約35分住所：沖縄県石垣市川平185-1",
+        "sectionLevel": "h3",
+        "sectionTitle": "川平湾"
+      },
+      {
+        "cTA1": {
+          "label": "米原ビーチ周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8724AC3/?area\u003d47\u0026room\u003d1\u0026dateunspecified\u003d1\u0026staynight\u003d1\u0026roomassign\u003dm2",
+          "linkType": "OTHER"
+        },
+        "description": "米原ビーチは石垣島北部にある地元民にも人気のビーチです。石垣島で最大級のビッグビーチとしても有名で、夏場は多くの人で賑わいを見せます。波打ち際からすぐのところにサンゴ礁があるため、シュノーケリングに最適。運が良ければマンタやカメなどにも出合えるかもしれません。周辺にはシャワールームやキャンプ場、グルメスポットもあるので、一日中楽しめます。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/nXZ3E_rIQDFVr9_q0E947gwYYhRhO1C7Agmh785D0mc/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/nXZ3E_rIQDFVr9_q0E947gwYYhRhO1C7Agmh785D0mc/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/nXZ3E_rIQDFVr9_q0E947gwYYhRhO1C7Agmh785D0mc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/nXZ3E_rIQDFVr9_q0E947gwYYhRhO1C7Agmh785D0mc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/nXZ3E_rIQDFVr9_q0E947gwYYhRhO1C7Agmh785D0mc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nXZ3E_rIQDFVr9_q0E947gwYYhRhO1C7Agmh785D0mc/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "Earthscape / PIXTA(ピクスタ)",
+        "infoBlockLabel": "米原ビーチの基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約25分住所：沖縄県石垣市桴海",
+        "sectionLevel": "h3",
+        "sectionTitle": "底地ビーチ　"
+      },
+      {
+        "cTA1": {
+          "label": "石垣島サンセットビーチ周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/J0063241/",
+          "linkType": "OTHER"
+        },
+        "description": "石垣島北部、久宇良集落にある穴場ビーチはその美しさと豊かな自然から映画のロケ地にもなるほど。高い透明度を誇るビーチの手付かずの自然がもたらす雄大さに息を呑むはずです。各種アクティビティをはじめ、BBQも楽しむことができます。またその名の通り、サンセットビューも一級品。夕暮れ時の海は、記念に思わずシャッターを切りたくなります。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/7OsgvAf79XOe-7jdQdYWpvXBgNl-LCLXYjcs3x3CKfE/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/7OsgvAf79XOe-7jdQdYWpvXBgNl-LCLXYjcs3x3CKfE/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/7OsgvAf79XOe-7jdQdYWpvXBgNl-LCLXYjcs3x3CKfE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/7OsgvAf79XOe-7jdQdYWpvXBgNl-LCLXYjcs3x3CKfE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/7OsgvAf79XOe-7jdQdYWpvXBgNl-LCLXYjcs3x3CKfE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7OsgvAf79XOe-7jdQdYWpvXBgNl-LCLXYjcs3x3CKfE/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "写真提供：国立天文台",
+        "infoBlockLabel": "石垣島サンセットビーチの基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約40分住所：沖縄県石垣市平久保234-323",
+        "sectionLevel": "h3",
+        "sectionTitle": "米原ビーチ"
+      },
+      {
+        "cTA1": {
+          "label": "白保海岸近くのホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8724A34/",
+          "linkType": "OTHER"
+        },
+        "description": "白保海岸の最大の特徴は巨大なサンゴ礁です。70種類以上のサンゴが生息しているとされ、世界有数のサンゴ礁の生息地として知られています。特にアオサンゴの大群落は北半球最大規模とも言われています。そのサンゴを一目見ようと、アクティビティも人気です。ダイビングやカヤックで海を体感するのはもちろん、シュノーケリングでも、鮮やかな色をしたかわいい熱帯魚に出合えることでしょう。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/3D_GRZZUqtS59IEY7ZsZfQngXRwo2QfZILoRzfeo6po/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/3D_GRZZUqtS59IEY7ZsZfQngXRwo2QfZILoRzfeo6po/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/3D_GRZZUqtS59IEY7ZsZfQngXRwo2QfZILoRzfeo6po/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/3D_GRZZUqtS59IEY7ZsZfQngXRwo2QfZILoRzfeo6po/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/3D_GRZZUqtS59IEY7ZsZfQngXRwo2QfZILoRzfeo6po/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3D_GRZZUqtS59IEY7ZsZfQngXRwo2QfZILoRzfeo6po/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "空 / PIXTA(ピクスタ)",
+        "infoBlockLabel": "白保海岸の基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約10分住所：沖縄県石垣市白保",
+        "sectionLevel": "h3",
+        "sectionTitle": "石垣島サンセットビーチ"
+      },
+      {
+        "cTA1": {
+          "label": "マエサトビーチ周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/J0072104/",
+          "linkType": "OTHER"
+        },
+        "description": "ANAインターコンチネンタル 石垣リゾートの目の前に広がる、真っ白な砂浜とマリンブルーの海。リゾートビーチとして人気のマエサトビーチは、ホテルの宿泊客以外でもビーチの利用ができるのはもちろんのこと、パラソルやデッキチェアなどもレンタル可能です。多数のアクティビティも楽しむことができます。たとえ海で泳げなくても、優雅な時間を過ごすことができるでしょう。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/O-2vTi2oTn9WbXGxo7FhOerUCdcgO9Tqmj6hlWKNBR8/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/O-2vTi2oTn9WbXGxo7FhOerUCdcgO9Tqmj6hlWKNBR8/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/O-2vTi2oTn9WbXGxo7FhOerUCdcgO9Tqmj6hlWKNBR8/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/O-2vTi2oTn9WbXGxo7FhOerUCdcgO9Tqmj6hlWKNBR8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/O-2vTi2oTn9WbXGxo7FhOerUCdcgO9Tqmj6hlWKNBR8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/O-2vTi2oTn9WbXGxo7FhOerUCdcgO9Tqmj6hlWKNBR8/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "Hiroko / PIXTA(ピクスタ)",
+        "infoBlockLabel": "マエサトビーチの基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約20分、離島ターミナルから車で約10分住所：沖縄県石垣市真栄里354-1",
+        "sectionLevel": "h3",
+        "sectionTitle": "白保海岸"
+      },
+      {
+        "cTA1": {
+          "label": "フサキビーチ近くのホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8724007/plan/",
+          "linkType": "OTHER"
+        },
+        "description": "石垣島の西部に位置するフサキビーチは、フサキビーチリゾート ホテル＆ヴィラズ前に広がるビーチです。もちろんホテル宿泊者以外も利用OKです。カヤックやシュノーケリングなどのアクティビティが豊富なので、家族連れで楽しむのもいいでしょう。ビーチには海に浮かんでいるような桟橋もあり、そこから眺めるサンセットは、見る人を 感動させます。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/rPRwArPyCHQwXTgYo7M4QxYS5GSA3K9_7Ln4nhPjRqc/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/rPRwArPyCHQwXTgYo7M4QxYS5GSA3K9_7Ln4nhPjRqc/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/rPRwArPyCHQwXTgYo7M4QxYS5GSA3K9_7Ln4nhPjRqc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/rPRwArPyCHQwXTgYo7M4QxYS5GSA3K9_7Ln4nhPjRqc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/rPRwArPyCHQwXTgYo7M4QxYS5GSA3K9_7Ln4nhPjRqc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rPRwArPyCHQwXTgYo7M4QxYS5GSA3K9_7Ln4nhPjRqc/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "MakiEni / PIXTA(ピクスタ)",
+        "infoBlockLabel": "フサキビーチの基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約25分、離島ターミナルから車で約15分住所：沖縄県石垣市新川1625",
+        "sectionLevel": "h3",
+        "sectionTitle": "マエサトビーチ"
+      },
+      {
+        "cTA1": {
+          "label": "石垣島天文台周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/J0072097/",
+          "linkType": "OTHER"
+        },
+        "description": "沖縄の海や観光スポットでマジックアワーを過ごした後は、満天の星を堪能できるスポットへ。遮るものがなにもない圧巻の星空は、まばたきするのを忘れてしまうほどの美しさを夜に描きます。",
+        "image": {
+          "height": 548,
+          "sourceUrl": "https://a.mktgcdn.com/p/UU_GHSmpqMwvJELmg0dxHb42mpJjZNyoxOAipsBteEs/800x548.jpg",
+          "thumbnails": [
+            {
+              "height": 548,
+              "url": "https://a.mktgcdn.com/p-sandbox/iqWZWp04V-Lm45ln7iptFrD9UMXaExwK9r-LZWY4yhA/800x548.jpg",
+              "width": 800
+            },
+            {
+              "height": 424,
+              "url": "https://a.mktgcdn.com/p-sandbox/iqWZWp04V-Lm45ln7iptFrD9UMXaExwK9r-LZWY4yhA/619x424.jpg",
+              "width": 619
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/iqWZWp04V-Lm45ln7iptFrD9UMXaExwK9r-LZWY4yhA/600x411.jpg",
+              "width": 600
+            },
+            {
+              "height": 134,
+              "url": "https://a.mktgcdn.com/p-sandbox/iqWZWp04V-Lm45ln7iptFrD9UMXaExwK9r-LZWY4yhA/196x134.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iqWZWp04V-Lm45ln7iptFrD9UMXaExwK9r-LZWY4yhA/800x548.jpg",
+          "width": 800
+        },
+        "imageCaption": "空 / PIXTA(ピクスタ)",
+        "infoBlockLabel": "石垣島天文台の基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約30分、離島ターミナルから車で約20分住所：沖縄県石垣市新川1024-1営業時間：施設見学10:00〜15:30（最終入館15:00）（電話案内10:00～17:00）定休日：月・火曜（祝日の場合は水曜）、年末年始電話番号：0980-88-0013",
+        "sectionLevel": "h3",
+        "sectionTitle": "フサキビーチ"
+      },
+      {
+        "cTA1": {
+          "label": "バンナ公園周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5002620/",
+          "linkType": "OTHER"
+        },
+        "description": "石垣島天文台は本格的な星空を見るのに最適です。最大の特徴は、九州・沖縄では最大の口径を誇る105cmの光学・赤外線反射式望遠鏡である、むりかぶし望遠鏡です。天体観望会に参加すれば、むりかぶし望遠鏡を実際に使用して、惑星、球状星団などをくっきりと見ることができます。4D2U（4次元デジタル宇宙）シアターを活用した上映会も実施。立体的な宇宙の姿を楽しめます。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/QdnQ2PDkYMcinKt_MQHPhzBOcvfRbJLTVqTKe3q0AW0/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/QdnQ2PDkYMcinKt_MQHPhzBOcvfRbJLTVqTKe3q0AW0/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/QdnQ2PDkYMcinKt_MQHPhzBOcvfRbJLTVqTKe3q0AW0/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/QdnQ2PDkYMcinKt_MQHPhzBOcvfRbJLTVqTKe3q0AW0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/QdnQ2PDkYMcinKt_MQHPhzBOcvfRbJLTVqTKe3q0AW0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QdnQ2PDkYMcinKt_MQHPhzBOcvfRbJLTVqTKe3q0AW0/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "Hiroko / PIXTA(ピクスタ)",
+        "infoBlockLabel": "玉取崎展望台の基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約20分住所：沖縄県石垣市伊原間",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．夜空の絶景を体感できる、石垣島の星空鑑賞スポット"
+      },
+      {
+        "cTA1": {
+          "label": "石垣島鍾乳洞の前売りチケットをみる",
+          "link": "https://www.jtb.co.jp/leisure/fp/qKS005196/",
+          "linkType": "OTHER"
+        },
+        "description": "昼間は真っ青な海と空が広がる開放的な玉取崎（たまとりざき）展望台は、記念撮影にぴったりの定番観光スポットです。ハイビスカスと緑に囲まれた展望台からは、壮大なパノラマビューを一望できます。日中の雄大な自然を感じる景色から一変、夜になるにつれ静寂が展望台を包み込みます。夕日に照らされた海と空もファンタジックで、多くの人がそれを目当てに訪れます。",
+        "image": {
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/wvECiU6YaAjrbhL5rj-8BnxlpwsgIBiztU-c65tWsas/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/wvECiU6YaAjrbhL5rj-8BnxlpwsgIBiztU-c65tWsas/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/wvECiU6YaAjrbhL5rj-8BnxlpwsgIBiztU-c65tWsas/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/wvECiU6YaAjrbhL5rj-8BnxlpwsgIBiztU-c65tWsas/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/wvECiU6YaAjrbhL5rj-8BnxlpwsgIBiztU-c65tWsas/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wvECiU6YaAjrbhL5rj-8BnxlpwsgIBiztU-c65tWsas/1536x1025.jpg",
+          "width": 1536
+        },
+        "imageCaption": "okinawa_photography / PIXTA(ピクスタ)",
+        "infoBlockLabel": "バンナ公園の基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約15分、離島ターミナルから車で約10分住所：沖縄県石垣市石垣961-15",
+        "sectionLevel": "h3",
+        "sectionTitle": "石垣島天文台"
+      },
+      {
+        "cTA1": {
+          "label": "ドルフィンファンタジー石垣島周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/80088971/",
+          "linkType": "OTHER"
+        },
+        "description": "バンナ公園は標高230mのバンナ岳付近にある県立公園です。園内はとても広く、県内トップクラス。車で回るのがおすすめです。注目したいのは、バンナ岳山頂付近にある「エメラルドの海を見る展望台」です。石垣の青々とした海と竹富島を見渡すことができます。夜は煌々と輝く市街地の夜景と客船の明かりがロマンチック。大切な人と特別な時間を過ごすことができるでしょう。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/J29KgimIFMJd0RutuBVxB1wicPM2xge63BbE1oROj3o/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/J29KgimIFMJd0RutuBVxB1wicPM2xge63BbE1oROj3o/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/J29KgimIFMJd0RutuBVxB1wicPM2xge63BbE1oROj3o/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/J29KgimIFMJd0RutuBVxB1wicPM2xge63BbE1oROj3o/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/J29KgimIFMJd0RutuBVxB1wicPM2xge63BbE1oROj3o/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/J29KgimIFMJd0RutuBVxB1wicPM2xge63BbE1oROj3o/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "Mamo27 / PIXTA(ピクスタ)",
+        "infoBlockLabel": "石垣島鍾乳洞の基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約30分 、離島ターミナルから車で約10分住所：沖縄県石垣市石垣1666営業時間：9:00〜18:00最終受付定休日：無休電話番号：0980-83-1550料金：大人1,200円、子供 600円",
+        "sectionLevel": "h3",
+        "sectionTitle": "玉取崎展望台"
+      },
+      {
+        "cTA1": {
+          "label": "石垣やいま村の割引入村券をチェック",
+          "link": "https://www.jtb.co.jp/leisure/fp/qKS005394/",
+          "linkType": "OTHER"
+        },
+        "description": "サンゴ礁の隆起によりできた石灰石が長い年月を経て浸食された鍾乳洞は、石垣島観光の定番です。島内最大規模の石垣島鍾乳洞と、歴史を感じる伊原間サビチ鍾乳洞で神秘的な体験を。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/rAbU7j0UkmJw29y3xz-0BwrfsOk6p-aygOM-BYDKb10/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/rAbU7j0UkmJw29y3xz-0BwrfsOk6p-aygOM-BYDKb10/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/rAbU7j0UkmJw29y3xz-0BwrfsOk6p-aygOM-BYDKb10/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/rAbU7j0UkmJw29y3xz-0BwrfsOk6p-aygOM-BYDKb10/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/rAbU7j0UkmJw29y3xz-0BwrfsOk6p-aygOM-BYDKb10/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rAbU7j0UkmJw29y3xz-0BwrfsOk6p-aygOM-BYDKb10/1536x1152.jpg",
+          "width": 1536
+        },
+        "imageCaption": "あんみつ姫 / PIXTA(ピクスタ)",
+        "infoBlockLabel": "伊原間サビチ鍾乳洞の基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約22分住所：沖縄県石垣市伊原間バンナ185-44",
+        "sectionLevel": "h3",
+        "sectionTitle": "バンナ公園"
+      },
+      {
+        "description": "石垣市街地から車ですぐ訪れることができるのが石垣島鍾乳洞です。全長約3.2km、島内最大規模の鍾乳洞として知られ、約660mを散策できます。見学行程には、水の滴る水琴窟（すいきんくつ）やかわいい形をした鍾乳石といった鍾乳洞としての魅力はもちろん、幻想的なイルミネーションも施されていて神秘的です。なかなか見られない、つらら石や石筍（せきじゅん）の姿を間近に見ることができるのも希少でしょう。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/rlTKa0soxbADywk8xUemDUA-t_sZt1Ele3aBLFPpwwI/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/rlTKa0soxbADywk8xUemDUA-t_sZt1Ele3aBLFPpwwI/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/rlTKa0soxbADywk8xUemDUA-t_sZt1Ele3aBLFPpwwI/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/rlTKa0soxbADywk8xUemDUA-t_sZt1Ele3aBLFPpwwI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/rlTKa0soxbADywk8xUemDUA-t_sZt1Ele3aBLFPpwwI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rlTKa0soxbADywk8xUemDUA-t_sZt1Ele3aBLFPpwwI/800x533.jpg",
+          "width": 800
+        },
+        "infoBlockLabel": "【御神崎の基本情報】",
+        "infoBlockText": "アクセス：石垣空港から車で約35分、離島ターミナルから車で約35分住所：沖縄県石垣市崎枝",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．幻想的な空間が広がる、石垣島の鍾乳洞"
+      },
+      {
+        "description": "石垣空港から石垣島サンセットビーチに向かうまでに立ち寄りたいのが伊原間（いばるま）サビチ鍾乳洞です。この鍾乳洞は全国的に珍しく、鍾乳洞を抜けると海に続いています。サンゴの化石群や、ナイアガラの滝のような存在感のある鍾乳石も見応え十分で、まるで冒険にでかけるようだと多くの人が訪れます。天井から滴る水滴も、鍾乳洞ならではの体験でしょう。",
+        "image": {
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/Ct78t3GxZ-7ilgWB-XBXijzewy2ioQKkeS7GwlVt6Mo/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ct78t3GxZ-7ilgWB-XBXijzewy2ioQKkeS7GwlVt6Mo/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ct78t3GxZ-7ilgWB-XBXijzewy2ioQKkeS7GwlVt6Mo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ct78t3GxZ-7ilgWB-XBXijzewy2ioQKkeS7GwlVt6Mo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ct78t3GxZ-7ilgWB-XBXijzewy2ioQKkeS7GwlVt6Mo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ct78t3GxZ-7ilgWB-XBXijzewy2ioQKkeS7GwlVt6Mo/1536x1025.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "平久保崎の基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約40分住所：沖縄県石垣市平久保234-50",
+        "sectionLevel": "h3",
+        "sectionTitle": "石垣島鍾乳洞"
+      },
+      {
+        "description": "石垣島の魅力はビーチ、星空スポット、鍾乳洞だけではありません。全部押さえて 、石垣島の定番観光スポットを網羅しましょう。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/tWKtcsa9gN1Vk4Kk3dNi0aiVP-zL0RE_Hmqu93dsecs/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/tWKtcsa9gN1Vk4Kk3dNi0aiVP-zL0RE_Hmqu93dsecs/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/tWKtcsa9gN1Vk4Kk3dNi0aiVP-zL0RE_Hmqu93dsecs/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/tWKtcsa9gN1Vk4Kk3dNi0aiVP-zL0RE_Hmqu93dsecs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/tWKtcsa9gN1Vk4Kk3dNi0aiVP-zL0RE_Hmqu93dsecs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/tWKtcsa9gN1Vk4Kk3dNi0aiVP-zL0RE_Hmqu93dsecs/800x533.jpg",
+          "width": 800
+        },
+        "infoBlockLabel": "吹通川の基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約27分住所：沖縄県石垣市野底",
+        "sectionLevel": "h3",
+        "sectionTitle": "伊原間サビチ鍾乳洞"
+      },
+      {
+        "description": "石垣島最西端に位置する御神崎（うがんざき）は、石垣島屈指の夕景が見られるとして有名な観光スポットです。市街地からは車で30分程度。目印は真っ白い灯台です。夕暮れ時には多くの人で賑わうその灯台から見る、西表島と鳩間島方面へ沈む夕日は言葉では言い表せないほどの絶景です。天気が良ければかすかに西表島が見えることもあります。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/wC6HOq_ydhJl0tmAMA-z-2ihCpnHeDfM0pDhPQKKWUA/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/wC6HOq_ydhJl0tmAMA-z-2ihCpnHeDfM0pDhPQKKWUA/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/wC6HOq_ydhJl0tmAMA-z-2ihCpnHeDfM0pDhPQKKWUA/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wC6HOq_ydhJl0tmAMA-z-2ihCpnHeDfM0pDhPQKKWUA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/wC6HOq_ydhJl0tmAMA-z-2ihCpnHeDfM0pDhPQKKWUA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wC6HOq_ydhJl0tmAMA-z-2ihCpnHeDfM0pDhPQKKWUA/1536x1152.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "石垣島馬広場の基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約40分住所：沖縄県石垣市平久保平久保牧355営業時間：10:00〜17:00（夏季9:00〜18:00）定休日：不定休電話番号：080-6485-5979料金：体験コースにより異なる",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．石垣島の定番観光スポット"
+      },
+      {
+        "description": "石垣島最北端に位置するのが平久保崎（ひらくぼざき）です。サンゴ礁と緑が美しい放牧地に囲まれたこの岬は、時間をかけてでも行くべきベストビューポイントです。昼頃は視界いっぱいの海を、夕方には絶景の夕日を、夜には輝きを放つ星空を楽しむことができます。海は青からエメラルドグリーンへとグラデーションを見せ、晴天時には海の向こうに多良間島が見えることもあります。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/GNeSB02SPdL83wszqLrzKaZjATLwS7iELtafJiLTc-g/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/GNeSB02SPdL83wszqLrzKaZjATLwS7iELtafJiLTc-g/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/GNeSB02SPdL83wszqLrzKaZjATLwS7iELtafJiLTc-g/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/GNeSB02SPdL83wszqLrzKaZjATLwS7iELtafJiLTc-g/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/GNeSB02SPdL83wszqLrzKaZjATLwS7iELtafJiLTc-g/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/GNeSB02SPdL83wszqLrzKaZjATLwS7iELtafJiLTc-g/1536x1152.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "ドルフィンファンタジー石垣島の基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約30 分、離島ターミナルから車で約5分住所：沖縄県石垣市南ぬ浜町1丁目営業時間：体験コースの参加時間により異なる定休日：無休電話番号：0980-87-5088料金：体験コースにより異なる",
+        "sectionLevel": "h3",
+        "sectionTitle": "御神崎"
+      },
+      {
+        "description": "吹通川（ふきどうがわ）は国の天然記念物に指定されたヒルギ（マングローブ）群落が特徴的です。生い茂るマングローブからは強い自然の息吹や、海外映画などで見たことのあるようなアドベンチャー気分を味わうことができます。アクティビティスポットとしても人気で、マングローブを楽しめるカヌーやカヤックなども体験できます。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/rpOlEl4UwblXV5u5cXaWiHToOFzB1dYYY2rjD_wX-Ko/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/rpOlEl4UwblXV5u5cXaWiHToOFzB1dYYY2rjD_wX-Ko/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/rpOlEl4UwblXV5u5cXaWiHToOFzB1dYYY2rjD_wX-Ko/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/rpOlEl4UwblXV5u5cXaWiHToOFzB1dYYY2rjD_wX-Ko/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/rpOlEl4UwblXV5u5cXaWiHToOFzB1dYYY2rjD_wX-Ko/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rpOlEl4UwblXV5u5cXaWiHToOFzB1dYYY2rjD_wX-Ko/1536x1024.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "石垣やいま村の基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約25分住所：沖縄県石垣市名蔵967-1営業時間：9:00〜17:30（受付17:00）定休日：無休電話番号：0980-82-8798料金：大人1,000円　子供500円",
+        "sectionLevel": "h3",
+        "sectionTitle": "平久保崎"
+      },
+      {
+        "description": "石垣島馬広場は平久保崎のそばにある乗馬施設です。ヨナグニウマという在来和種馬を中心とした牧場ではさまざまな体験をすることができます。乗馬の経験がなくても心配はいりません。人気No.1のアクティビティは平久保牧場からビーチまで乗馬するコースです。夏場には、海の中で馬に乗ったり、尻尾に捕まって海を泳ぐ「海馬遊び」というアクティビティも人気です。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/rHXDDob91r7Ls4F1K3W0LBooE7KqvJ6LNBp7BU3KncI/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/rHXDDob91r7Ls4F1K3W0LBooE7KqvJ6LNBp7BU3KncI/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/rHXDDob91r7Ls4F1K3W0LBooE7KqvJ6LNBp7BU3KncI/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/rHXDDob91r7Ls4F1K3W0LBooE7KqvJ6LNBp7BU3KncI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/rHXDDob91r7Ls4F1K3W0LBooE7KqvJ6LNBp7BU3KncI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rHXDDob91r7Ls4F1K3W0LBooE7KqvJ6LNBp7BU3KncI/800x533.jpg",
+          "width": 800
+        },
+        "infoBlockLabel": "宮良殿内の基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約25分、離島ターミナルから車で約7分住所：沖縄県石垣市大川178",
+        "sectionLevel": "h3",
+        "sectionTitle": "吹通川"
+      },
+      {
+        "description": "市街地からほど近く、離島ターミナルからは車で約5分のところに位置するのがドルフィンファンタジー石垣島です。名前のごとく、かわいいイルカと貴重なふれあいができると話題のスポットです。体験プログラムはさまざま。いけすのなかでイルカと一緒に泳げるドルフィンスイムや、イルカに握手やジャンプなどの合図を出したり、エサやりが楽しめるイルカとのふれあい体験は特におすすめです。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/-iaiGeMNTgfpZvxumCPPGoYarcj5PWidkHfb4dNPafc/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/-iaiGeMNTgfpZvxumCPPGoYarcj5PWidkHfb4dNPafc/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/-iaiGeMNTgfpZvxumCPPGoYarcj5PWidkHfb4dNPafc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/-iaiGeMNTgfpZvxumCPPGoYarcj5PWidkHfb4dNPafc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/-iaiGeMNTgfpZvxumCPPGoYarcj5PWidkHfb4dNPafc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-iaiGeMNTgfpZvxumCPPGoYarcj5PWidkHfb4dNPafc/1536x1024.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "唐人墓の基本情報",
+        "infoBlockText": "アクセス：石垣空港から車で約27分、離島ターミナルから車で約12分住所：沖縄県石垣市新川1625-9",
+        "sectionLevel": "h3",
+        "sectionTitle": "石垣島馬広場"
+      },
+      {
+        "description": "石垣やいま村は、石垣島西部にある文化体験スポットです。赤瓦屋根の建物は、国の有形文化財にも登録されている明治・大正時代の古民家を移築したもので、昔ながらの雰囲気を味わうことができます。体験メニューは琉球衣装体験、シーサー絵付け、サーターアンダギー作りなど、1日では体験しきれないほどの充実ぶりです。村内にはリスザルの森もあり、エサやりもできます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ドルフィンファンタジー石垣島"
+      },
+      {
+        "description": "宮良殿内（みやらどぅんち）は文政2（1819）年に建造された歴史的建造物で、国の重要文化財に指定されています。琉球様式の赤瓦屋根と石垣の造りが特徴的ですが、見どころはそれだけではありません。石垣内部の日本庭園も見事で、国の名勝に指定されているほど。枯山水の庭園を眺めて、ゆったりと流れる時間に身をまかせてみてはいかがでしょうか。",
+        "sectionLevel": "h3",
+        "sectionTitle": "石垣やいま村"
+      },
+      {
+        "description": "沖縄県には歴史を感じさせる建造物がいくつもあります。この極彩色が美しい唐人墓（とうじんばか）もその一つ。見どころはもちろん装飾。あまりの緻密さに驚くことでしょう。龍や騎士などを細部までこだわった外観は中国らしいパワフルさを感じます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "宮良殿内"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "唐人墓　"
+      },
+      {
+        "sectionLevel": "h2",
+        "sectionTitle": "5．まとめ"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kokunai_0004"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2020-08-25",
+    "c_news_UpdateDate": "2024-06-27",
+    "c_news_ViewCount": "3265",
+    "c_news_ViewCount2of2": "3265",
+    "c_news_ViewCountNum": "3265",
+    "c_news_ViewCountNumForSorting": "213",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0012",
+    "name": "石垣島のおすすめ観光スポットと過ごし方20選！透き通るビーチを満喫",
+    "slug": "kokunai/okinawa/okinawa_all/news_web_kokunai_0012",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

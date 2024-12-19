@@ -1,0 +1,40 @@
+{
+  "$id": "kando-toki-196",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/196_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d31.958896%2C131.469991",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "宮崎県",
+    "c_searchTags": [
+      "宮崎県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "冬",
+      "太陽・星・月"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "ひと月にほんの数日、満月の前後の数日間だけ見ることができる「月の道」。海から月が昇りはじめると、月光が海に映り、細長い光の道が海面に現れます。「月の道」が見られる時間帯は日によって異なりますが、月の出から30分～1時間後が見ごろです。全室オーシャンビューのシェラトン・グランデ・オーシャンリゾートでは、この神秘的な光景をお部屋でゆっくりお楽しみいただけます。\n見所・お勧めポイント\nひと月にほんの数日、満月の前後の数日間だけ見ることができる「月の道」。海から月が昇りはじめると、月光が海に映り、細長い光の道が海面に現れます。シェラトン・グランデ・オーシャンリゾートの客室で、この神秘的な現象をゆっくりお楽しみ下さい。\n背景\n2008年5月。シェラトン・グランデ・オーシャンリゾートから見ることができる神秘的な自然現象、「月の道」のことを多くのお客様に知っていただきたいと、ホテル内のベル係やコンシェルジュを中心としたチームが編成されました。まずは宿泊部スタッフ全員に「月の道」を知ってもらうことから始まり、次第にレストラン部門やブライダル部門へも広がっていきました。やがて「月の道」の存在が広く知れ渡るとともに、様々な年代のお客様から感動の声がホテルに届けられました。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/196.asp",
+    "name": "満月の夜に月の光と静寂な海が織りなす「月の道」"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

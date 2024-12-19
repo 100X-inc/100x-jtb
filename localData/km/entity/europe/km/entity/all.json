@@ -1,0 +1,20 @@
+{
+  "$id": "europe_all",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "europe"
+    ],
+    "c_linkedArea3News": [
+      "guide_0017"
+    ],
+    "c_metaDescription": "お出かけの際は施設や自治体などの最新情報をご確認ください。",
+    "c_metaTitle": "JTBニュース | ヨーロッパ | 旅行・おでかけ情報",
+    "name": "ヨーロッパ",
+    "slug": "kaigai/europe/europe_all"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

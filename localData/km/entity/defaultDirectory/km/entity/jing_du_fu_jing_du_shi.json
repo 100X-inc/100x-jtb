@@ -1,0 +1,25 @@
+{
+  "$id": "defaultDirectory_jing_du_fu_jing_du_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "2",
+    "dm_childEntityIds": [
+      "1044199953",
+      "1044247637"
+    ],
+    "dm_directoryChildren": [
+      "lc-0026",
+      "6623-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_jing_du_fu"
+    ],
+    "name": "京都市",
+    "slug": "京都府/京都市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

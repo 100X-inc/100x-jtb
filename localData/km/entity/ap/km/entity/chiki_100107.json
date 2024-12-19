@@ -1,0 +1,358 @@
+{
+  "$id": "ap_chiki_100107",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 石川県担当 山﨑"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "2022年11月に、白雲の館の５・６階の和室が12室温泉露天風呂付客室に改装します。ベランダに露天風呂が設置され、いつでも好きな時に温泉に入ることができます。お部屋は和室、寝具は布団を用意するので小さなお子様がいるご家族におすすめです。今回のリニューアルにより和室、和室和ベッド、和洋室、露天風呂に洗い場付など露天風呂付客室のバリエーションが増え、お客様のニーズにあわせておすすめ、販売が可能となります。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/C6f9G_TyAOh6rGS7JBIqCVXGpYB96_NU_z9PWZG8QfY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/C6f9G_TyAOh6rGS7JBIqCVXGpYB96_NU_z9PWZG8QfY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/C6f9G_TyAOh6rGS7JBIqCVXGpYB96_NU_z9PWZG8QfY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/C6f9G_TyAOh6rGS7JBIqCVXGpYB96_NU_z9PWZG8QfY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/C6f9G_TyAOh6rGS7JBIqCVXGpYB96_NU_z9PWZG8QfY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/C6f9G_TyAOh6rGS7JBIqCVXGpYB96_NU_z9PWZG8QfY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "バラエティ豊かなお風呂を「湯めぐり」してみてはいかがでしょうか？",
+        "sectionTitle": "2022年11月下旬完成！白雲の館　露天風呂付和室"
+      },
+      {
+        "description": "オープンテラスにある温泉露天風呂につかりながら眺める霊峰白山の雄大な風景は圧巻。時を忘れいつまでも入っていられる温泉は、適温もあいまって、のぼせてしまわないように注意が必要です。お部屋はデュベタイプのベッドルームでゆったりと過ごせます。お部屋は、3階から8階まで各階の角にあるので、同時に２室予約してもお隣のお部屋でご用意はできません。天祥の館の角になるので、にぎやかな館内から離れ、静かにゆったりとお過ごしいただけます。客室内は禁煙ですが、屋外のテラスでは喫煙が可能です。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/8q5KCDX58ZJLBgNHdwUx9dZlJyQLzi74G1_D9cDNYqw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/8q5KCDX58ZJLBgNHdwUx9dZlJyQLzi74G1_D9cDNYqw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/8q5KCDX58ZJLBgNHdwUx9dZlJyQLzi74G1_D9cDNYqw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/8q5KCDX58ZJLBgNHdwUx9dZlJyQLzi74G1_D9cDNYqw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/8q5KCDX58ZJLBgNHdwUx9dZlJyQLzi74G1_D9cDNYqw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8q5KCDX58ZJLBgNHdwUx9dZlJyQLzi74G1_D9cDNYqw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "白雲の館間取り（例）",
+        "sectionTitle": "グレードアップ！天祥の館　温泉露天風呂付スイート客室"
+      },
+      {
+        "description": "石川県の様々な伝統工芸体験ができる「ゆのくにの森」は、ゆのくに天祥から車で約15分。特に人気のある４つの体験をご紹介します。【金箔の館】　純金箔を使っての体験ができます。薄い金箔を刷毛を使って張り付けます。自分の息でなびいたりするので気が付いたら息をとめていることも！体験だけでなく、天井・壁・襖・欄間が純金箔、畳は金糸で装飾されており、部屋全体が黄金色に輝き、煌びやかな「黄金の間」です。【九谷焼の館】　九谷五彩でカラフルな絵付けやろくろ回し体験ができます。ろくろ回し体験では、丁寧に教えてもらえるので、初めての方でも安心して創作活動ができます。【山中ろくろの館】　古き良き伝統にふれる体験として、赤、青、緑、黄、白、金の６色ある山中塗独特の塗料（カシュー）を使った蒔絵体験ができます。また、全国一の木地生産高を誇る山中漆器のろくろ挽きの技法は独特のもので優美さが特徴で、そういった作品を見ることもできます。【輪島塗の館】　輪島塗の沈金体験ができます。沈金とは、塗りの上に絵を描くための技法の一つです。ノミで塗面に模様を彫り、彫ったところに漆をすり込み、そこへ金・銀の箔や粉を埋めて模様を描きます。沈金師の指導を受けながら、本格的な沈金彫を体験することができます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/dScDddUZiTzmf1v-7TvZQH07Y2VNnUBNbQrv4TFXtGg/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/dScDddUZiTzmf1v-7TvZQH07Y2VNnUBNbQrv4TFXtGg/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/dScDddUZiTzmf1v-7TvZQH07Y2VNnUBNbQrv4TFXtGg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/dScDddUZiTzmf1v-7TvZQH07Y2VNnUBNbQrv4TFXtGg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/dScDddUZiTzmf1v-7TvZQH07Y2VNnUBNbQrv4TFXtGg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dScDddUZiTzmf1v-7TvZQH07Y2VNnUBNbQrv4TFXtGg/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "カラフルな絵付け体験もできます！（イメージ）",
+        "sectionTitle": "近隣おすすめ観光スポット【ゆのくにの森】で伝統工芸体験"
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/F-eG1mo9V9nA22cUjhk-rLP5bfWiHOlzx-Vw9TrvWkA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/F-eG1mo9V9nA22cUjhk-rLP5bfWiHOlzx-Vw9TrvWkA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/F-eG1mo9V9nA22cUjhk-rLP5bfWiHOlzx-Vw9TrvWkA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/F-eG1mo9V9nA22cUjhk-rLP5bfWiHOlzx-Vw9TrvWkA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/F-eG1mo9V9nA22cUjhk-rLP5bfWiHOlzx-Vw9TrvWkA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/F-eG1mo9V9nA22cUjhk-rLP5bfWiHOlzx-Vw9TrvWkA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      },
+      {
+        "image": {
+          "height": 513,
+          "sourceUrl": "https://a.mktgcdn.com/p/asysSoNBqzM9l9sWh1Z5TJpIlEAY2Vmxr5wGROTn7MA/1200x513.jpg",
+          "thumbnails": [
+            {
+              "height": 513,
+              "url": "https://a.mktgcdn.com/p-sandbox/ATFYXTotkNs_-lTrRkBY-ta431yLLc8X1SXf0pJApXs/1200x513.jpg",
+              "width": 1200
+            },
+            {
+              "height": 265,
+              "url": "https://a.mktgcdn.com/p-sandbox/ATFYXTotkNs_-lTrRkBY-ta431yLLc8X1SXf0pJApXs/619x265.jpg",
+              "width": 619
+            },
+            {
+              "height": 257,
+              "url": "https://a.mktgcdn.com/p-sandbox/ATFYXTotkNs_-lTrRkBY-ta431yLLc8X1SXf0pJApXs/600x257.jpg",
+              "width": 600
+            },
+            {
+              "height": 84,
+              "url": "https://a.mktgcdn.com/p-sandbox/ATFYXTotkNs_-lTrRkBY-ta431yLLc8X1SXf0pJApXs/196x84.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ATFYXTotkNs_-lTrRkBY-ta431yLLc8X1SXf0pJApXs/1200x513.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/DyacbQcd9l4x-c7Elu6P-TbIQKpnvTXIyTyJHRT9_9A/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/DyacbQcd9l4x-c7Elu6P-TbIQKpnvTXIyTyJHRT9_9A/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/DyacbQcd9l4x-c7Elu6P-TbIQKpnvTXIyTyJHRT9_9A/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/DyacbQcd9l4x-c7Elu6P-TbIQKpnvTXIyTyJHRT9_9A/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/DyacbQcd9l4x-c7Elu6P-TbIQKpnvTXIyTyJHRT9_9A/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DyacbQcd9l4x-c7Elu6P-TbIQKpnvTXIyTyJHRT9_9A/1200x800.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/mapQKD2pA0gAZJ9Z1EO3IT8Y0yhi2nDhd_You27PxH4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/mapQKD2pA0gAZJ9Z1EO3IT8Y0yhi2nDhd_You27PxH4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/mapQKD2pA0gAZJ9Z1EO3IT8Y0yhi2nDhd_You27PxH4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/mapQKD2pA0gAZJ9Z1EO3IT8Y0yhi2nDhd_You27PxH4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/mapQKD2pA0gAZJ9Z1EO3IT8Y0yhi2nDhd_You27PxH4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/mapQKD2pA0gAZJ9Z1EO3IT8Y0yhi2nDhd_You27PxH4/1200x800.jpg",
+          "width": 1200
+        }
+      }
+    ],
+    "c_ap_DatePosted": "2022-11-09",
+    "c_ap_HeroImage": {
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/YyIDoZGAh9g8ubX3YYgvIWvrjQjUCOgHul1aISR30Zc/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/YyIDoZGAh9g8ubX3YYgvIWvrjQjUCOgHul1aISR30Zc/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/YyIDoZGAh9g8ubX3YYgvIWvrjQjUCOgHul1aISR30Zc/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/YyIDoZGAh9g8ubX3YYgvIWvrjQjUCOgHul1aISR30Zc/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/YyIDoZGAh9g8ubX3YYgvIWvrjQjUCOgHul1aISR30Zc/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/YyIDoZGAh9g8ubX3YYgvIWvrjQjUCOgHul1aISR30Zc/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkArticleSectionTitle": "その他の石川県の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ゆのくに天祥が予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/5367011/plan/"
+      },
+      {
+        "linkText": "ゆのくに天祥・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai_jr/a/ishikawa/?dateunspecified\u003d1\u0026hotelid\u003d5367011\u0026shouldresearch\u003d1\u0026godate\u003d20221028\u0026backdate\u003d20221029\u0026staynight\u003d1\u0026trainassign\u003dm2a0c0d0\u0026room\u003d1\u0026ref\u003dyado\u0026traveldays\u003d2\u0026deparea\u003d13"
+      },
+      {
+        "linkText": "ゆのくにの森の紹介ページ",
+        "uRL": "https://opt.jtb.co.jp/kokunai_opt/m/pE1027126/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "北陸全般",
+      "石川県"
+    ],
+    "c_ap_ShortDescription": "石川県山代温泉にあるゆのくに天祥のおすすめは、開湯1,300年の歴史を誇る山代伝統のいで湯と、敷地内から湧き出る2012年に開湯にした美肌の湯・自家源泉です。これらの湯量豊富な二つの源泉を露天風呂、岩風呂などバラエティ豊かなお風呂を館内にいながらにして湯めぐりができます。「悠幻の湯殿」「九谷の湯処」「滝見の湯屋」 など３つの大浴場では薬湯、五右衛門風呂、仕切湯など個性的なお風呂めぐりが楽しめます。",
+    "c_ap_Tags": [
+      "旅館",
+      "宿泊",
+      "湯めぐり",
+      "露天風呂付和室",
+      "加賀温泉"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "夫婦旅",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "1泊3湯18湯めぐり！さらにお部屋の露天風呂で温泉三昧！【石川県　ゆのくに天祥】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "石川県山代温泉にあるゆのくに天祥のおすすめは、開湯1,300年の歴史を誇る山代伝統のいで湯と、敷地内から湧き出る2012年に開湯にした美肌の湯・自家源泉です。これらの湯量豊富な二つの源泉を露天風呂、岩風呂など…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "1泊3湯18湯めぐり！さらにお部屋の露天風呂で温泉三昧！【石川県　ゆのくに天祥】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100107",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北陸全般, 石川県",
+    "c_searchTags": [
+      "中部・北陸：北陸全般, 石川県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：北陸全般, 石川県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "1泊3湯18湯めぐり！さらにお部屋の露天風呂で温泉三昧！【石川県　ゆのくに天祥】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,478 @@
+{
+  "$id": "ap_osarea_0000130",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "1981年創業の家族で経営するトラットリア。素材にこだわった伝統的なヴェネツィア料理を、温もりある空間で楽しめます。おすすめはヴェネツィアならではの食材、クモガニの身と卵をたっぷり使ったパスタ料理。 クモガニが旬を迎える冬の定番メニューです。地元からの評判も高く、ソムリエでもある店主によってセレクトされたイタリアをはじめとした世界中のワインが揃います。",
+        "image": {
+          "height": 4443,
+          "sourceUrl": "https://a.mktgcdn.com/p/ENV2jVJKyFUkdxQwDTACXhDAB5pVY1H2Q8622IkPhxI/2962x4443.jpg",
+          "thumbnails": [
+            {
+              "height": 4443,
+              "url": "https://a.mktgcdn.com/p-sandbox/ENV2jVJKyFUkdxQwDTACXhDAB5pVY1H2Q8622IkPhxI/2962x4443.jpg",
+              "width": 2962
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/ENV2jVJKyFUkdxQwDTACXhDAB5pVY1H2Q8622IkPhxI/1267x1900.jpg",
+              "width": 1267
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/ENV2jVJKyFUkdxQwDTACXhDAB5pVY1H2Q8622IkPhxI/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ENV2jVJKyFUkdxQwDTACXhDAB5pVY1H2Q8622IkPhxI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/ENV2jVJKyFUkdxQwDTACXhDAB5pVY1H2Q8622IkPhxI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ENV2jVJKyFUkdxQwDTACXhDAB5pVY1H2Q8622IkPhxI/2962x4443.jpg",
+          "width": 2962
+        },
+        "imageCaption": "クモガニのパスタ€22",
+        "sectionTitle": "ヴィーニ・ダ・ジージョ（Vini da Gigio）"
+      },
+      {
+        "description": "DATAVini da Gigio住所：Cannaregio 3628a営業時間：12～14時、19時～22時30分、土･日曜の夜は19時～と21時30分～の入替制定休日：月・火曜、 8月の2週間、 1月の2週間",
+        "image": {
+          "height": 607,
+          "sourceUrl": "https://a.mktgcdn.com/p/BSrkZySnSzeE7Jp4kezfZDzCbAimijOWmNkNNkltMys/912x607.jpg",
+          "thumbnails": [
+            {
+              "height": 607,
+              "url": "https://a.mktgcdn.com/p-sandbox/BSrkZySnSzeE7Jp4kezfZDzCbAimijOWmNkNNkltMys/912x607.jpg",
+              "width": 912
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/BSrkZySnSzeE7Jp4kezfZDzCbAimijOWmNkNNkltMys/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/BSrkZySnSzeE7Jp4kezfZDzCbAimijOWmNkNNkltMys/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/BSrkZySnSzeE7Jp4kezfZDzCbAimijOWmNkNNkltMys/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BSrkZySnSzeE7Jp4kezfZDzCbAimijOWmNkNNkltMys/912x607.jpg",
+          "width": 912
+        },
+        "imageCaption": "ヴェネツィアの伝統的な家庭料理を提供する、アットホームな空間",
+        "sectionTitle": "トラットリア・アッラ・マドンナ（Trattoria alla Madonna）"
+      },
+      {
+        "description": "1954年創業のトラットリア。 クモガニのサラダやイカ墨など､ヴェネツィアの郷土料理が充実しています。こじんまりとした店舗が多いリアルト橋周辺では珍しく、店内は9つの部屋に分かれた合計約200席の広々とした空間。インテリアには現代イタリアの画家による絵画も数多く飾られています。イカ墨パスタは細めのパスタにコクのあるイカ墨ソースが絡んだ濃厚な味わいで、赤ワインとの相性も抜群。ほかにも、アカザエビとイカのミックスフライもおすすめです。",
+        "image": {
+          "height": 4288,
+          "sourceUrl": "https://a.mktgcdn.com/p/1X8Ze2iCCKo2ajarh6hBjlqg5K1k_E7NFmdQw825LNI/2848x4288.jpg",
+          "thumbnails": [
+            {
+              "height": 4288,
+              "url": "https://a.mktgcdn.com/p-sandbox/1X8Ze2iCCKo2ajarh6hBjlqg5K1k_E7NFmdQw825LNI/2848x4288.jpg",
+              "width": 2848
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/1X8Ze2iCCKo2ajarh6hBjlqg5K1k_E7NFmdQw825LNI/1262x1900.jpg",
+              "width": 1262
+            },
+            {
+              "height": 932,
+              "url": "https://a.mktgcdn.com/p-sandbox/1X8Ze2iCCKo2ajarh6hBjlqg5K1k_E7NFmdQw825LNI/619x932.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1X8Ze2iCCKo2ajarh6hBjlqg5K1k_E7NFmdQw825LNI/299x450.jpg",
+              "width": 299
+            },
+            {
+              "height": 295,
+              "url": "https://a.mktgcdn.com/p-sandbox/1X8Ze2iCCKo2ajarh6hBjlqg5K1k_E7NFmdQw825LNI/196x295.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1X8Ze2iCCKo2ajarh6hBjlqg5K1k_E7NFmdQw825LNI/2848x4288.jpg",
+          "width": 2848
+        },
+        "imageCaption": "イカ墨のスパゲッティ€15",
+        "sectionTitle": "アル・コンテ・ぺスカオール（Al Conte Pescaor）"
+      },
+      {
+        "description": "DATATrattoria alla Madonna住所：Calle della Madonna, San Polo 594 営業時間：12～15時、 19時～23時30分 定休日：水曜",
+        "image": {
+          "height": 2832,
+          "sourceUrl": "https://a.mktgcdn.com/p/5Ehe5g5bOZuUrxYXq_zFLsnQSUsUHjsoIDu5FDIz8qQ/4256x2832.jpg",
+          "thumbnails": [
+            {
+              "height": 2832,
+              "url": "https://a.mktgcdn.com/p-sandbox/5Ehe5g5bOZuUrxYXq_zFLsnQSUsUHjsoIDu5FDIz8qQ/4256x2832.jpg",
+              "width": 4256
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/5Ehe5g5bOZuUrxYXq_zFLsnQSUsUHjsoIDu5FDIz8qQ/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/5Ehe5g5bOZuUrxYXq_zFLsnQSUsUHjsoIDu5FDIz8qQ/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/5Ehe5g5bOZuUrxYXq_zFLsnQSUsUHjsoIDu5FDIz8qQ/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/5Ehe5g5bOZuUrxYXq_zFLsnQSUsUHjsoIDu5FDIz8qQ/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5Ehe5g5bOZuUrxYXq_zFLsnQSUsUHjsoIDu5FDIz8qQ/4256x2832.jpg",
+          "width": 4256
+        },
+        "imageCaption": "カジュアルで家庭的な空間。世界中から著名人が多く来店するという",
+        "sectionTitle": "トラットリア・アル･ポンテ・デル・メージョ（Trattoria al Ponte del Megio）"
+      },
+      {
+        "description": "サンマルコ広場の賑わいから少し離れた、静かな路地にあるトラットリア。 週に3回、ヴェネツィアの魚市場から新鮮な魚介を仕入れています。 日替りのシーフードメニューも充実していて、おすすめはシーフードパスタの定番「スパゲッティ・アッレ・ヴォンゴレ」。 アサリは一般的な白ワインではなく、毎日仕込む魚介スープで蒸していることが特徴です。マテ貝やバッテラなど魚介の盛合わせも人気メニューの一つです。",
+        "image": {
+          "height": 4288,
+          "sourceUrl": "https://a.mktgcdn.com/p/qdikrZDMRHTWd2vOESay9RDyRonUpWun2Cj-bMnVF0g/2848x4288.jpg",
+          "thumbnails": [
+            {
+              "height": 4288,
+              "url": "https://a.mktgcdn.com/p-sandbox/qdikrZDMRHTWd2vOESay9RDyRonUpWun2Cj-bMnVF0g/2848x4288.jpg",
+              "width": 2848
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/qdikrZDMRHTWd2vOESay9RDyRonUpWun2Cj-bMnVF0g/1262x1900.jpg",
+              "width": 1262
+            },
+            {
+              "height": 932,
+              "url": "https://a.mktgcdn.com/p-sandbox/qdikrZDMRHTWd2vOESay9RDyRonUpWun2Cj-bMnVF0g/619x932.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/qdikrZDMRHTWd2vOESay9RDyRonUpWun2Cj-bMnVF0g/299x450.jpg",
+              "width": 299
+            },
+            {
+              "height": 295,
+              "url": "https://a.mktgcdn.com/p-sandbox/qdikrZDMRHTWd2vOESay9RDyRonUpWun2Cj-bMnVF0g/196x295.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qdikrZDMRHTWd2vOESay9RDyRonUpWun2Cj-bMnVF0g/2848x4288.jpg",
+          "width": 2848
+        },
+        "imageCaption": "スパゲッティ・アッレ・ヴォンゴㇾ€19.50",
+        "sectionTitle": "バンコジーロ（Bancogiro）"
+      },
+      {
+        "description": "DATAAl Conte Pescaor住所：San Marco 544営業時間：12～15時、 19～23時 定休日：なし",
+        "image": {
+          "height": 2832,
+          "sourceUrl": "https://a.mktgcdn.com/p/hqaf8a9ZLutxrpmgRq9OTye5Wqr7TrY9YutWEeYW-Eo/4256x2832.jpg",
+          "thumbnails": [
+            {
+              "height": 2832,
+              "url": "https://a.mktgcdn.com/p-sandbox/hqaf8a9ZLutxrpmgRq9OTye5Wqr7TrY9YutWEeYW-Eo/4256x2832.jpg",
+              "width": 4256
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/hqaf8a9ZLutxrpmgRq9OTye5Wqr7TrY9YutWEeYW-Eo/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/hqaf8a9ZLutxrpmgRq9OTye5Wqr7TrY9YutWEeYW-Eo/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/hqaf8a9ZLutxrpmgRq9OTye5Wqr7TrY9YutWEeYW-Eo/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/hqaf8a9ZLutxrpmgRq9OTye5Wqr7TrY9YutWEeYW-Eo/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hqaf8a9ZLutxrpmgRq9OTye5Wqr7TrY9YutWEeYW-Eo/4256x2832.jpg",
+          "width": 4256
+        },
+        "imageCaption": "航海をイメージさせるインテリア空間"
+      },
+      {
+        "description": "1961年の創業以来、 地元民から親しまれているトラットリア。 イカ墨パスタやサルデ・イン・サオール (イワシを用いた前菜)など、ヴェネツィアの伝統料理をメインに提供しています。食材は毎朝市場から仕入れた新鮮な魚介を使用。おすすめパスタは「白身魚と手長エビのカッペラッチ」。白身魚のブランジーノを包んだ小さな帽子型のパスタ (カッペラッチ)とスカンピ(手長エビ)を盛り付け、トマトソースで仕上げた一品です。",
+        "image": {
+          "height": 4608,
+          "sourceUrl": "https://a.mktgcdn.com/p/-K8kFyZ4wLAQ0IXM_RmvhiEVTJuENFhnR0YqPcgXtWg/3456x4608.jpg",
+          "thumbnails": [
+            {
+              "height": 4608,
+              "url": "https://a.mktgcdn.com/p-sandbox/-K8kFyZ4wLAQ0IXM_RmvhiEVTJuENFhnR0YqPcgXtWg/3456x4608.jpg",
+              "width": 3456
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/-K8kFyZ4wLAQ0IXM_RmvhiEVTJuENFhnR0YqPcgXtWg/1425x1900.jpg",
+              "width": 1425
+            },
+            {
+              "height": 825,
+              "url": "https://a.mktgcdn.com/p-sandbox/-K8kFyZ4wLAQ0IXM_RmvhiEVTJuENFhnR0YqPcgXtWg/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/-K8kFyZ4wLAQ0IXM_RmvhiEVTJuENFhnR0YqPcgXtWg/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/-K8kFyZ4wLAQ0IXM_RmvhiEVTJuENFhnR0YqPcgXtWg/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-K8kFyZ4wLAQ0IXM_RmvhiEVTJuENFhnR0YqPcgXtWg/3456x4608.jpg",
+          "width": 3456
+        },
+        "imageCaption": "白身魚と手長エビのカッペラッチ€18"
+      },
+      {
+        "description": "DATATrattoria al Ponte del Megio住所：Calle Larga 1666営業時間：10～23時定休日：日曜",
+        "image": {
+          "height": 3456,
+          "sourceUrl": "https://a.mktgcdn.com/p/h5eKYNSwNfeVAwYjJ7KCI6rIBwHMEG27iEyQ23_A7Zo/4608x3456.jpg",
+          "thumbnails": [
+            {
+              "height": 3456,
+              "url": "https://a.mktgcdn.com/p-sandbox/h5eKYNSwNfeVAwYjJ7KCI6rIBwHMEG27iEyQ23_A7Zo/4608x3456.jpg",
+              "width": 4608
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/h5eKYNSwNfeVAwYjJ7KCI6rIBwHMEG27iEyQ23_A7Zo/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/h5eKYNSwNfeVAwYjJ7KCI6rIBwHMEG27iEyQ23_A7Zo/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/h5eKYNSwNfeVAwYjJ7KCI6rIBwHMEG27iEyQ23_A7Zo/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/h5eKYNSwNfeVAwYjJ7KCI6rIBwHMEG27iEyQ23_A7Zo/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/h5eKYNSwNfeVAwYjJ7KCI6rIBwHMEG27iEyQ23_A7Zo/4608x3456.jpg",
+          "width": 4608
+        },
+        "imageCaption": "確かな味が好評で地元民も通う"
+      },
+      {
+        "description": "1157年建造の倉庫を利用した居酒屋風のトラットリア。その日仕入れたシーフードを使った前菜やパスタが自慢で、 プリモは€17.80～、 グラスワインは€3から楽しめます(立ち飲み)。自家製麺を使用したヴェネト州伝統のパスタ「ビーゴリ」がおすすめで、季節によって具材は異なります。サクッと済ませるなら1階の立ち飲みカウンター、ゆっくり食事するなら運河沿いのテラス席や2階席がおすすめです。",
+        "image": {
+          "height": 2427,
+          "sourceUrl": "https://a.mktgcdn.com/p/JSQemOFFYyPkqHQSkROIQpgpn9aGwDejUimIgVShWpE/3648x2427.jpg",
+          "thumbnails": [
+            {
+              "height": 2427,
+              "url": "https://a.mktgcdn.com/p-sandbox/JSQemOFFYyPkqHQSkROIQpgpn9aGwDejUimIgVShWpE/3648x2427.jpg",
+              "width": 3648
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/JSQemOFFYyPkqHQSkROIQpgpn9aGwDejUimIgVShWpE/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/JSQemOFFYyPkqHQSkROIQpgpn9aGwDejUimIgVShWpE/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/JSQemOFFYyPkqHQSkROIQpgpn9aGwDejUimIgVShWpE/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/JSQemOFFYyPkqHQSkROIQpgpn9aGwDejUimIgVShWpE/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JSQemOFFYyPkqHQSkROIQpgpn9aGwDejUimIgVShWpE/3648x2427.jpg",
+          "width": 3648
+        },
+        "imageCaption": "ビーゴリ・ネリ€18.80（写真は7月～9月初旬のもの）"
+      },
+      {
+        "description": "DATABancogiro住所：Campo San Giacometto, San Polo 122営業時間：9～24時 (料理は12～23時) 定休日：月曜",
+        "image": {
+          "height": 607,
+          "sourceUrl": "https://a.mktgcdn.com/p/h49Fiz683o1_sGEN7KS4SkEBsN3LC92mNpi1tVqCkks/912x607.jpg",
+          "thumbnails": [
+            {
+              "height": 607,
+              "url": "https://a.mktgcdn.com/p-sandbox/h49Fiz683o1_sGEN7KS4SkEBsN3LC92mNpi1tVqCkks/912x607.jpg",
+              "width": 912
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/h49Fiz683o1_sGEN7KS4SkEBsN3LC92mNpi1tVqCkks/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/h49Fiz683o1_sGEN7KS4SkEBsN3LC92mNpi1tVqCkks/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/h49Fiz683o1_sGEN7KS4SkEBsN3LC92mNpi1tVqCkks/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/h49Fiz683o1_sGEN7KS4SkEBsN3LC92mNpi1tVqCkks/912x607.jpg",
+          "width": 912
+        },
+        "imageCaption": "リアルト川沿いの古い倉庫を改装した店内"
+      },
+      {
+        "imageCaption": "※2023年10月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2024-02-21",
+    "c_ap_HeroImage": {
+      "height": 2427,
+      "sourceUrl": "https://a.mktgcdn.com/p/JSQemOFFYyPkqHQSkROIQpgpn9aGwDejUimIgVShWpE/3648x2427.jpg",
+      "thumbnails": [
+        {
+          "height": 2427,
+          "url": "https://a.mktgcdn.com/p-sandbox/JSQemOFFYyPkqHQSkROIQpgpn9aGwDejUimIgVShWpE/3648x2427.jpg",
+          "width": 3648
+        },
+        {
+          "height": 1264,
+          "url": "https://a.mktgcdn.com/p-sandbox/JSQemOFFYyPkqHQSkROIQpgpn9aGwDejUimIgVShWpE/1900x1264.jpg",
+          "width": 1900
+        },
+        {
+          "height": 412,
+          "url": "https://a.mktgcdn.com/p-sandbox/JSQemOFFYyPkqHQSkROIQpgpn9aGwDejUimIgVShWpE/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "https://a.mktgcdn.com/p-sandbox/JSQemOFFYyPkqHQSkROIQpgpn9aGwDejUimIgVShWpE/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "https://a.mktgcdn.com/p-sandbox/JSQemOFFYyPkqHQSkROIQpgpn9aGwDejUimIgVShWpE/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/JSQemOFFYyPkqHQSkROIQpgpn9aGwDejUimIgVShWpE/3648x2427.jpg",
+      "width": 3648
+    },
+    "c_ap_HeroImageCaption": "ヴェネト州伝統のパスタ、ビーゴリ",
+    "c_ap_LinkArticleSectionTitle": "イタリアのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "イタリア旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/italy/"
+      },
+      {
+        "linkText": "ローマのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dROM"
+      },
+      {
+        "linkText": "イタリアのホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/86/?freeword\u003d%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d86"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea3": [
+      "イタリア"
+    ],
+    "c_ap_ShortDescription": "アドリア海に面する水の都ヴェネツィアで、必ず食べたいのがシーフード料理。イカ墨やヴォンゴレのスパゲッティなど、アドリア海の新鮮魚介を使った名物料理はどれも絶品です！　魚介の宝庫、ヴェネツィアで本場の味を楽しんでみてください。（写真：バンコジーロ）",
+    "c_ap_Tags": [
+      "海の幸",
+      "シーフード料理",
+      "アドリア海",
+      "パスタ"
+    ],
+    "c_ap_Theme": [
+      "ハネムーン",
+      "街あるき",
+      "グルメ"
+    ],
+    "c_ap_Title": "アドリア海の新鮮な魚介を堪能！ヴェネツィアでいただくシーフードパスタ5選【イタリア ヴェネツィア】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "アドリア海に面する水の都ヴェネツィアで、必ず食べたいのがシーフード料理。イカ墨やヴォンゴレのスパゲッティなど、アドリア海の新鮮魚介を使った名物料理はどれも絶品です！　魚介の宝庫、ヴェネツィアで本場の味を楽しんでみてください。（写真：バンコジーロ）",
+    "c_metaTitle": "アドリア海の新鮮な魚介を堪能！ヴェネツィアでいただくシーフードパスタ5選【イタリア ヴェネツィア】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000130",
+    "name": "アドリア海の新鮮な魚介を堪能！ヴェネツィアでいただくシーフードパスタ5選【イタリア ヴェネツィア】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

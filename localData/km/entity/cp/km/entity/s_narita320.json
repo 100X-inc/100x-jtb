@@ -1,0 +1,144 @@
+{
+  "$id": "cp_s_narita320",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_CTA1": {
+      "label": "成田 のリモート相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVf7BKc",
+      "linkType": "OTHER"
+    },
+    "c_cp_CTA2": {
+      "label": "コンサルタント一覧",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_cp_Certification": [
+      "総合旅行業取扱管理者"
+    ],
+    "c_cp_Description": "ヨーロッパの建造物に興味があり、イタリア、スペイン、フランス、ドイツと世界遺産を巡る旅をしております。\n国内は沖縄（宮古島/石垣島）や北海道に何度も行っており、観光は勿論グルメ巡りも楽しんでおります！\nご当地料理ももちろんですが、大好物のイタリアンやハンバーガー店を探す事が趣味になっております。\n素敵な旅になるようお手伝いさせて頂きます！お気軽にご相談くださいませ。",
+    "c_cp_DisplayName": "成田",
+    "c_cp_FieldOfExpertise": [
+      "夫婦旅",
+      "グループ旅行",
+      "記念旅行"
+    ],
+    "c_cp_GeneralInfo": [
+      "★オージースペシャリスト（オーストラリア）",
+      "★ハワイスペシャリスト上級",
+      "出身地：愛知県",
+      "趣味：グルメ",
+      "大好きな場所：シンガポール"
+    ],
+    "c_cp_HeroImage": {
+      "height": 667,
+      "sourceUrl": "https://a.mktgcdn.com/p/c7CRfimlAjkfvypkZBzEiqCc7bhpLonpCPwnwAFP6Mo/1001x667.jpg",
+      "thumbnails": [
+        {
+          "height": 667,
+          "url": "https://a.mktgcdn.com/p-sandbox/pFob69ZC0JUc2x8zayFhN-rLL4W4zmoOa94bGCsCDgw/1001x667.jpg",
+          "width": 1001
+        },
+        {
+          "height": 412,
+          "url": "https://a.mktgcdn.com/p-sandbox/pFob69ZC0JUc2x8zayFhN-rLL4W4zmoOa94bGCsCDgw/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/pFob69ZC0JUc2x8zayFhN-rLL4W4zmoOa94bGCsCDgw/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/pFob69ZC0JUc2x8zayFhN-rLL4W4zmoOa94bGCsCDgw/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/pFob69ZC0JUc2x8zayFhN-rLL4W4zmoOa94bGCsCDgw/1001x667.jpg",
+      "width": 1001
+    },
+    "c_cp_HiraganaName": "なりた",
+    "c_cp_JobTitle": "JTBリモートコンシェルジュ　トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 752,
+      "sourceUrl": "https://a.mktgcdn.com/p/i7XGLos2z8bqJCq6OSKxQYOCHBtnc1DrsMfydGw6sUE/601x752.jpg",
+      "thumbnails": [
+        {
+          "height": 752,
+          "url": "https://a.mktgcdn.com/p-sandbox/biBBFEX1ynTomRXxHrFI3nWBcP03_-K7uNo-hPO9JpM/601x752.jpg",
+          "width": 601
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/biBBFEX1ynTomRXxHrFI3nWBcP03_-K7uNo-hPO9JpM/360x450.jpg",
+          "width": 360
+        },
+        {
+          "height": 245,
+          "url": "https://a.mktgcdn.com/p-sandbox/biBBFEX1ynTomRXxHrFI3nWBcP03_-K7uNo-hPO9JpM/196x245.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/biBBFEX1ynTomRXxHrFI3nWBcP03_-K7uNo-hPO9JpM/601x752.jpg",
+      "width": 601
+    },
+    "c_cp_Point": "137",
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "オーストラリア"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "フランス",
+      "スペイン",
+      "イタリア",
+      "ドイツ"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国",
+      "台湾",
+      "シンガポール"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "石川県",
+      "福井県",
+      "岐阜県",
+      "静岡県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "三重県",
+      "京都府"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "四国全般",
+      "鳥取県",
+      "島根県",
+      "広島県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "オージースペシャリスト（オーストラリア）",
+      "ハワイスペシャリスト上級",
+      "グルメ",
+      "女子旅"
+    ],
+    "c_metaDescription": "「JTBリモートコンシェルジュ」は、オンラインでの旅行相談・申込の専門店です。知識豊富なスタッフがご希望の旅をご提案します。 リモート相談の予約も承ります。",
+    "c_metaTitle": "JTBリモートコンシェルジュ ｜  成田 ｜ リモートトラベルコンシェルジュ | リモート旅行相談",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_s_narita320",
+    "c_responsibleService": [
+      "リモートコンシェルジュ"
+    ],
+    "name": "s_narita320"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

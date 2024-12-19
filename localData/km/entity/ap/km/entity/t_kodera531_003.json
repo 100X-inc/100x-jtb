@@ -1,0 +1,240 @@
+{
+  "$id": "ap_t_kodera531_003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "山水閣の宿泊者は、「湯治屋」の温泉も利用できます。まず訪れていただきたいのは、湯治屋にある混浴露天風呂「大沢の湯」です。透明でトロトロしたお湯が特徴で、入浴後、温かさが長時間続きます。昔ながらの湯治場風情今にとどめる貴重な温泉で、豊沢川に沿いにあるため眺望も開放感も抜群。夜には1時間の女性専用時間も設けられているので、混浴が苦手な女性も安心ですね。このほか、湯治屋には女性専用露天風呂「かわべの湯」と、男女別の内風呂「薬師の湯」があります。山水閣には、高い天井と大きなガラス窓の内湯が自慢の「山水の湯」があります。風を感じられる露天風呂もあるので、大自然を感じながらゆったりと湯浴みを楽しめます。豊沢川沿いには、男女別露天風呂「豊沢の湯」があるほか、プライベートな空間を楽しめる3つの「貸切家族風呂」もあります。貸切家族風呂は鍵が空いていればいつでも入れるので、ぜひチェックしてみてください。山水の湯と貸切家族風呂は、山水閣宿泊者のみ利用できます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/HRG769I46ck-GouDQ9xU5fUsWSrxDQyKOsgQ-mMwypE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/HRG769I46ck-GouDQ9xU5fUsWSrxDQyKOsgQ-mMwypE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/HRG769I46ck-GouDQ9xU5fUsWSrxDQyKOsgQ-mMwypE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/HRG769I46ck-GouDQ9xU5fUsWSrxDQyKOsgQ-mMwypE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/HRG769I46ck-GouDQ9xU5fUsWSrxDQyKOsgQ-mMwypE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HRG769I46ck-GouDQ9xU5fUsWSrxDQyKOsgQ-mMwypE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "雪景色の大沢の湯",
+        "sectionTitle": "野趣あふれる露天風呂で、湯治場文化を体感"
+      },
+      {
+        "description": "夕食は月替りの会席膳を、ダイニングレストラン「松風」または個室宴会場で。その時季にいちばんおいしい旬の食材を厳選しているので、岩手の四季を楽しめます。前沢牛陶板焼や鮑柔らか煮など、岩手が誇る高級食材は追加料理で注文も可能。お腹と相談しながらひひ食べてみてください。朝食は40種類の和洋バイキング。サラダやご飯のお供など品数豊富で、お椀に入ったミニ蕎麦もあります。しっかりと食べて、朝のエネルギーをチャージしてください。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/3iGOFzEWD4TWEdt1BYbsOAgxl3pHpTP_K2cLVE3NIZA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/3iGOFzEWD4TWEdt1BYbsOAgxl3pHpTP_K2cLVE3NIZA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/3iGOFzEWD4TWEdt1BYbsOAgxl3pHpTP_K2cLVE3NIZA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/3iGOFzEWD4TWEdt1BYbsOAgxl3pHpTP_K2cLVE3NIZA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/3iGOFzEWD4TWEdt1BYbsOAgxl3pHpTP_K2cLVE3NIZA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3iGOFzEWD4TWEdt1BYbsOAgxl3pHpTP_K2cLVE3NIZA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "会席膳の一例",
+        "sectionTitle": "月替わりの会食料理で岩手の旬を味わう"
+      },
+      {
+        "description": "山水閣のお部屋は全部で57室あり、そのうち48室は純和風の設えです。本館と新館があり、いずれもおすすめは渓流側のお部屋です。天井から床近くまで、一面がガラス窓のお部屋も多く、抜群の開放感を楽しめますよ。「牡丹の間」は、大沢温泉をたびたび訪れた高村光太郎のお気に入りを復元したお部屋です。渓流側にあり、10畳、6畳、3畳のゆったりした造りになっています。そのほか、ベッドがある「和洋室」も。桧の浴槽を備えたお部屋もあるので、こだわる方は予約の際に確認してくださいね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/aixyF58wukdUmYfBJqIi-k6bzEptwAL8pnyDXZlbeQw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/aixyF58wukdUmYfBJqIi-k6bzEptwAL8pnyDXZlbeQw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/aixyF58wukdUmYfBJqIi-k6bzEptwAL8pnyDXZlbeQw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/aixyF58wukdUmYfBJqIi-k6bzEptwAL8pnyDXZlbeQw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/aixyF58wukdUmYfBJqIi-k6bzEptwAL8pnyDXZlbeQw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aixyF58wukdUmYfBJqIi-k6bzEptwAL8pnyDXZlbeQw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "窓が大きくとられた新館の和室（一例）",
+        "sectionTitle": "せせらぎに癒やされながら純和風のお部屋でくつろく"
+      },
+      {
+        "description": "大沢温泉にゆかりのある文人といえば、宮沢賢治が挙げられます。少年の頃、賢治は信仰心の厚い父に連れられ花巻仏教会の講習会場だった大沢温泉を幾度となく訪れたそう。後年、花巻農学校の教師時代には、生徒たちを連れて湯浴みに来ています高村光太郎は、空襲で東京のアトリエを焼失したため、賢治の父を頼って花巻に疎開しました。それから７年間にわたって花巻を愛したそうで、大沢温泉を「本当の温泉の味がする」と言って喜んだという話も残っています。相田みつをも大沢温泉を好み、何度か訪れています。女将のリクエストでしたためた「ゆ」の文字の書は、山水閣の玄関に大切に展示されています。丸みを帯びた優しい字には、みつを先生のお人柄が表れているようです。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai_hotel/htl/2335001/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "sectionTitle": "大沢温泉を愛した文人たちを偲ぶ"
+      },
+      {
+        "description": "----------------------------------------------※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-03-05",
+    "c_ap_HeroImage": {
+      "alternateText": "湯治場風情も楽しめる純和風の近代ホテル【岩手県　大沢温泉山水閣】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/dYwmev0t7fPQiCxeNHyRR7BSYBP88kWCChHf0g1cXfk/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/dYwmev0t7fPQiCxeNHyRR7BSYBP88kWCChHf0g1cXfk/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/dYwmev0t7fPQiCxeNHyRR7BSYBP88kWCChHf0g1cXfk/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/dYwmev0t7fPQiCxeNHyRR7BSYBP88kWCChHf0g1cXfk/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/dYwmev0t7fPQiCxeNHyRR7BSYBP88kWCChHf0g1cXfk/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/dYwmev0t7fPQiCxeNHyRR7BSYBP88kWCChHf0g1cXfk/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "隣接する湯治屋と豊沢川",
+    "c_ap_LinkArticleSectionTitle": "岩手県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "大沢温泉山水閣 のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/2335001/plan/"
+      },
+      {
+        "linkText": "岩手のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/ranking/kokunai/iwate/"
+      },
+      {
+        "linkText": "岩手旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/iwate/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea1": [
+      "東北全般",
+      "岩手県"
+    ],
+    "c_ap_ShortDescription": "「大沢温泉山水閣」は、歴史ある大沢温泉の一軒宿。開湯は今から1200年ほど前と伝わり、坂上田村麻呂が東征の際に傷を癒やしたという伝説も残ります。\n豊沢川のほとりに立つのは、純和風の近代建築と、200年以上の歴史を「湯治屋」という、趣の異なる2つの館。宮沢賢治や高村光太郎ら、文人墨客にも愛された名湯で、湯治場風情が楽しめるとあって東北を代表する温泉宿のひとつに数えられます。\n館内からは豊沢川の対岸の山々を一望でき、新緑から紅葉、雪景色など、四季折々の景観を楽しむことができます。",
+    "c_ap_Tags": [
+      "湯治",
+      "歴史",
+      "純和風"
+    ],
+    "c_ap_Theme": [
+      "歴史・地理",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "湯治場風情も楽しめる純和風の近代ホテル【岩手県　大沢温泉山水閣】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "「大沢温泉山水閣」は、歴史ある大沢温泉の一軒宿。開湯は今から1200年ほど前と伝わり、坂上田村麻呂が東征の際に傷を癒やしたという伝説も残ります。\n豊沢川のほとりに立つのは、純和風の近代建築と、200年以上の歴…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "湯治場風情も楽しめる純和風の近代ホテル【岩手県　大沢温泉山水閣】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_t_kodera531_003",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "東北全般, 岩手県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "湯治場風情も楽しめる純和風の近代ホテル【岩手県　大沢温泉山水閣】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,589 @@
+{
+  "$id": "news_web_kaigai_0012",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1202,
+      "sourceUrl": "https://a.mktgcdn.com/p/LEgmsR-kcVs0oRvnPVEPpIa8JjuHxPuLZByqOp2kMAs/1759x1202.jpg",
+      "thumbnails": [
+        {
+          "height": 1202,
+          "url": "https://a.mktgcdn.com/p-sandbox/lj6mlfkOO2mZvOcO-TohNT_5X2HH1HusP5ss7P9bijg/1759x1202.jpg",
+          "width": 1759
+        },
+        {
+          "height": 423,
+          "url": "https://a.mktgcdn.com/p-sandbox/lj6mlfkOO2mZvOcO-TohNT_5X2HH1HusP5ss7P9bijg/619x423.jpg",
+          "width": 619
+        },
+        {
+          "height": 410,
+          "url": "https://a.mktgcdn.com/p-sandbox/lj6mlfkOO2mZvOcO-TohNT_5X2HH1HusP5ss7P9bijg/600x410.jpg",
+          "width": 600
+        },
+        {
+          "height": 134,
+          "url": "https://a.mktgcdn.com/p-sandbox/lj6mlfkOO2mZvOcO-TohNT_5X2HH1HusP5ss7P9bijg/196x134.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/lj6mlfkOO2mZvOcO-TohNT_5X2HH1HusP5ss7P9bijg/1759x1202.jpg",
+      "width": 1759
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "クロアチアの旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/croatia-slovenia/"
+      },
+      {
+        "linkText": "クロアチアの添乗員同行ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?houmen\u003d01\u0026kuni\u003dHR,SI"
+      },
+      {
+        "linkText": "クロアチアの航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air/search/search_result/?trvlType\u003d1\u0026deptDt1\u003d20240610\u0026deptCd1\u003dTYO\u0026arvlCd1\u003dDBV\u0026deptDt2\u003d20240615\u0026deptCd2\u003dVIE\u0026arvlCd2\u003dTYO\u0026totalNumAdlt\u003d2\u0026totalNumChld\u003d0\u0026totalNumIns\u003d0\u0026totalNumInf\u003d0"
+      },
+      {
+        "linkText": "クロアチアのホテルを探す",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/?freeword\u003d%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%81%E3%82%A2"
+      },
+      {
+        "linkText": "クロアチアの現地ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist?keyWord\u003d%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A2%25E3%2583%2581%25E3%2582%25A2"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "アドリア海の真珠と称されるドブロブニクをはじめ、数え切れないほどの絶景が集まる東欧「クロアチア共和国」。押さえておきたい定番観光スポットやクロアチアをよく知る現地スタッフのおすすめ情報をお届けします。",
+    "c_ap_Tags": [
+      "絶景",
+      "観光スポット",
+      "グルメ",
+      "おみゃげ",
+      "クロアチア",
+      "ヨーロッパ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "クロアチア観光におすすめのスポットを現地スタッフが厳選！食と絶景を満喫しよう！",
+    "c_linkedArea3News": [
+      "croatia"
+    ],
+    "c_metaDescription": "クロアチア観光といえば、アドリア海の真珠と称されるドブロブニクをはじめ、数え切れないほどの絶景があります。押さえておきたい定番観光スポットやクロアチアをよく知る現地スタッフのおすすめ情報をお届けします。",
+    "c_metaTitle": "クロアチア観光におすすめのスポットを現地スタッフが厳選！食と絶景を満喫しよう！",
+    "c_news_CTAs": [
+      {
+        "label": "クロアチアのホテルを探す",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/?freeword\u003d%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%81%E3%82%A2",
+        "linkType": "URL"
+      },
+      {
+        "label": "クロアチアの現地ツアーを探す",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist?keyWord\u003d%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A2%25E3%2583%2581%25E3%2582%25A2",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "クロアチア観光の基本情報をみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/e.europe-russia-c.asia/republic_of_croatia/index.html",
+          "linkType": "URL"
+        },
+        "description": "日本との時差はマイナス8時間、日本が正午のときにクロアチアは午前4時。ただし、サマータイム期間（3月最終日曜日～10月最終日曜日）はマイナス7時間です。公用語はクロアチア語ですが観光地では英語が通じる場合が多く、レストランでは英語メニューも多く見られます。ドブロブニクなど日本人観光客も多く訪れるレストランには日本語メニューが用意されていることもありますよ。",
+        "image": {
+          "height": 901,
+          "sourceUrl": "https://a.mktgcdn.com/p/-uKkhVf_F8j47MvtGWtdjOBdxQjMdqIlK-n1DFrn3vs/1400x901.jpg",
+          "thumbnails": [
+            {
+              "height": 901,
+              "url": "https://a.mktgcdn.com/p-sandbox/iQSonNHT7G5i6AjatcA-MRuxdjbDvMExmhXSdnFFfcM/1400x901.jpg",
+              "width": 1400
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/iQSonNHT7G5i6AjatcA-MRuxdjbDvMExmhXSdnFFfcM/619x398.jpg",
+              "width": 619
+            },
+            {
+              "height": 386,
+              "url": "https://a.mktgcdn.com/p-sandbox/iQSonNHT7G5i6AjatcA-MRuxdjbDvMExmhXSdnFFfcM/600x386.jpg",
+              "width": 600
+            },
+            {
+              "height": 126,
+              "url": "https://a.mktgcdn.com/p-sandbox/iQSonNHT7G5i6AjatcA-MRuxdjbDvMExmhXSdnFFfcM/196x126.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iQSonNHT7G5i6AjatcA-MRuxdjbDvMExmhXSdnFFfcM/1400x901.jpg",
+          "width": 1400
+        },
+        "imageCaption": "青の洞窟(ビシェボ島)",
+        "infoBlockLabel": "エクセルシオールホテルの基本情報",
+        "infoBlockText": "ホテルグレード：★★★★★☆ Lグレード住所：Frana Supila 12,Dubrovnik,20000,Croatiaアクセス：近隣駅ploce(電車) から70 km。タクシー110分(HRK 1500)。バス120分(HRK 70)。",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．クロアチアの基本情報"
+      },
+      {
+        "cTA1": {
+          "label": "ドブロブニクへ行くツアーはこちら",
+          "link": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?houmen\u003d01\u0026kuni\u003dHR,SI",
+          "linkType": "OTHER"
+        },
+        "description": "気候やイベントの充実さから5～9月の夏季がベストシーズンと言えるでしょう。ただし観光地は混雑するので、ゆっくり過ごしたい場合は春や秋もおすすめです。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/yjRHfZyCtb_UcbHR6vTzPsWyTRo_JyAppf__EBgVqMA/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/33tQR-_yB4RtwtAQWXRhQKlkvT9XemGvI37MmtpSStU/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/33tQR-_yB4RtwtAQWXRhQKlkvT9XemGvI37MmtpSStU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/33tQR-_yB4RtwtAQWXRhQKlkvT9XemGvI37MmtpSStU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/33tQR-_yB4RtwtAQWXRhQKlkvT9XemGvI37MmtpSStU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/33tQR-_yB4RtwtAQWXRhQKlkvT9XemGvI37MmtpSStU/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "山頂から見下ろすドブロブニクの街",
+        "infoBlockLabel": "グランド ヴィラ アルジェンティーナの基本情報",
+        "infoBlockText": "ホテルグレード：★★★★★☆ Lグレード住所：Frana Supila 14,Dubrovnik,20000,Croatiaアクセス：近隣駅Main Bus Station in Gruz (Dubrovnik)から3 km。タクシー10分。",
+        "sectionLevel": "h3",
+        "sectionTitle": "クロアチアの観光ベストシーズン"
+      },
+      {
+        "cTA1": {
+          "label": "プリトヴィツェ湖群国立公園現地観光ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/prddetail/p200010567/",
+          "linkType": "URL"
+        },
+        "description": "「ドブロブニクを見ずして、天国を語るなかれ」という英国の劇作家バーナード・ショーの言葉通り、絵のように美しいドブロブニク。一時は内戦の影響で“危機に瀕した世界遺産”となりましたが、現在は、公国として絶頂期を迎えた17世紀の姿にまでよみがえっています。陽光にきらめくエメラルドグリーンのアドリア海上に、真珠のようにたたずむオレンジ色の屋根。その町並みは、一目見ただけで生涯忘れられないでしょう。",
+        "image": {
+          "height": 752,
+          "sourceUrl": "https://a.mktgcdn.com/p/MmA0no8iy6jnFoI6o_XjkxrzNvXS7LA57ovLWvTgGww/1126x752.jpg",
+          "thumbnails": [
+            {
+              "height": 752,
+              "url": "https://a.mktgcdn.com/p-sandbox/6l_X2aic9B2z0oUAkEi1rqFvvhaM1jYJZZKcwvIjrfk/1126x752.jpg",
+              "width": 1126
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/6l_X2aic9B2z0oUAkEi1rqFvvhaM1jYJZZKcwvIjrfk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/6l_X2aic9B2z0oUAkEi1rqFvvhaM1jYJZZKcwvIjrfk/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/6l_X2aic9B2z0oUAkEi1rqFvvhaM1jYJZZKcwvIjrfk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6l_X2aic9B2z0oUAkEi1rqFvvhaM1jYJZZKcwvIjrfk/1126x752.jpg",
+          "width": 1126
+        },
+        "imageCaption": "牡蠣のイメージ",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．現地スタッフおすすめ！クロアチアの観光スポット"
+      },
+      {
+        "cTA1": {
+          "label": "スルジ山観光付きツアーをみる",
+          "link": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?brand\u003d00LK,02RR,0[…]\u003dHR\u0026freeword\u003d%E3%82%B9%E3%83%AB%E3%82%B8%E5%B1%B1\u0026vacantseat\u003d1",
+          "linkType": "URL"
+        },
+        "description": "無数の滝と16の湖が織り成す幻想的なプリトヴィツェ湖群国立公園もまた、クロアチアが誇る世界遺産です。年間を通じてさまざまな風景が楽しめますが、おすすめしたい季節は春と秋です。初春には桜やカスミソウ、野生のヒヤシンスが咲き誇り、晩春になるとシクラメンの原種、春エリカや貴婦人スリッパ（ラン）の花々が、公園中に優しい彩りと芳香を漂わせます。そして秋には、赤ハグマノキ、ヴェネチア漆、カエデ、ブナなどが色鮮やかに紅葉します。季節毎に移り変わる花々の風景を楽しみながら、ゆったりと大自然をご堪能ください。湖ではボート遊覧も楽しめますし、ご自身の体力に合わせ、どなたでもお気軽にご体験いただけるハイキングコースも整備されています。美しい景色をお楽しみいただいた後は、公園内にあるレストランで名物ペカ料理をどうぞ。心もお腹も満たされる至福のひとときです。",
+        "image": {
+          "height": 1050,
+          "sourceUrl": "https://a.mktgcdn.com/p/34c-3wmLdomnrCqF7RQG-jRTEoGeD3aWZe__wdBaudQ/1400x1050.jpg",
+          "thumbnails": [
+            {
+              "height": 1050,
+              "url": "https://a.mktgcdn.com/p-sandbox/GnrPHkfUZ8ef-CG_yZC2UB0eId-aArgwPQPISCM5ZsU/1400x1050.jpg",
+              "width": 1400
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/GnrPHkfUZ8ef-CG_yZC2UB0eId-aArgwPQPISCM5ZsU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/GnrPHkfUZ8ef-CG_yZC2UB0eId-aArgwPQPISCM5ZsU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/GnrPHkfUZ8ef-CG_yZC2UB0eId-aArgwPQPISCM5ZsU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/GnrPHkfUZ8ef-CG_yZC2UB0eId-aArgwPQPISCM5ZsU/1400x1050.jpg",
+          "width": 1400
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ドブロブニク旧市街"
+      },
+      {
+        "cTA1": {
+          "label": "エクセルシオールホテルに泊まる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/2412/",
+          "linkType": "URL"
+        },
+        "description": "プリトヴィツェ湖群国立公園をご堪能いただくには、余裕を持った日程がおすすめです。何百万年もかけて形成された大自然を満喫するには、公園内のホテルに宿泊していただくのがベストですが、部屋数が限られているため個人での予約は難しいのが現状です。さらにプリトヴィッツェへ行くには、首都ザグレブから車で約２時間もかかります。路線バスのチケットを購入するにもクロアチア語を話さなければなりません。あらかじめプリトヴィツェ湖群国立公園の宿泊と観光が付いているツアーをお選びいただくことをおすすめします。",
+        "image": {
+          "height": 1075,
+          "sourceUrl": "https://a.mktgcdn.com/p/F7PP5uINjw4-TX2u9S2sKu9xMIwAs-a0Jk1LhBVazL0/1536x1075.jpg",
+          "thumbnails": [
+            {
+              "height": 1075,
+              "url": "https://a.mktgcdn.com/p-sandbox/sjFSDwA4jk0HxETX3Lb3hj1YSXN3nj2hFBDqXTx0ueE/1536x1075.jpg",
+              "width": 1536
+            },
+            {
+              "height": 433,
+              "url": "https://a.mktgcdn.com/p-sandbox/sjFSDwA4jk0HxETX3Lb3hj1YSXN3nj2hFBDqXTx0ueE/619x433.jpg",
+              "width": 619
+            },
+            {
+              "height": 420,
+              "url": "https://a.mktgcdn.com/p-sandbox/sjFSDwA4jk0HxETX3Lb3hj1YSXN3nj2hFBDqXTx0ueE/600x420.jpg",
+              "width": 600
+            },
+            {
+              "height": 137,
+              "url": "https://a.mktgcdn.com/p-sandbox/sjFSDwA4jk0HxETX3Lb3hj1YSXN3nj2hFBDqXTx0ueE/196x137.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sjFSDwA4jk0HxETX3Lb3hj1YSXN3nj2hFBDqXTx0ueE/1536x1075.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "プリトヴィツェ湖群国立公園"
+      },
+      {
+        "cTA1": {
+          "label": "グランド ヴィラアルジェンティーナに泊まる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/3024/",
+          "linkType": "URL"
+        },
+        "description": "アドリア海沿岸で最大規模のローマ遺跡は、クロアチアのスプリットにあります。貧しい農家の出身でありながら、軍隊で頭角を現し、39歳でローマ皇帝に擁立されたディオクレティアヌスは、退位後に余生を過ごすためにアドリア海に面した風光明媚なこの地に宮殿を建設しました。約10年の歳月をかけて造営された宮殿は東京ドームの約3分の2ほどの大きさでした。壮麗かつ堅牢な宮殿も皇帝の死後は次第に寂れ、やがて廃墟となりました。7世紀初頭のその頃、他民族に追われて宮殿に逃げ込んできた近隣の「サロナ」の住民たちが城壁内に住みつき、やがて町を形成して行きます。かつての皇帝の地下住居跡は住民達が捨てたゴミ溜め場となりました。奇しくもこのゴミのおかげで4世紀に築かれた宮殿は世界最高水準の保存状態で私達に歴史を語ってくれます。今ではカラフルなパラソルに彩られたカフェが並び、市民が集い語らうこの世界遺産の町に歴史を訪ねにいらっしゃいませんか？",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/VQ_WJI0IX5rd2GOobKMG_KgjIu9bdgrM-A5pfZsywdM/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/VQ_WJI0IX5rd2GOobKMG_KgjIu9bdgrM-A5pfZsywdM/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/VQ_WJI0IX5rd2GOobKMG_KgjIu9bdgrM-A5pfZsywdM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/VQ_WJI0IX5rd2GOobKMG_KgjIu9bdgrM-A5pfZsywdM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/VQ_WJI0IX5rd2GOobKMG_KgjIu9bdgrM-A5pfZsywdM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VQ_WJI0IX5rd2GOobKMG_KgjIu9bdgrM-A5pfZsywdM/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "プリトヴィツェ湖群国立公園おすすめのホテル・ツアー情報"
+      },
+      {
+        "cTA1": {
+          "label": "ヨーロッパの記事一覧はこちら",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/europe",
+          "linkType": "URL"
+        },
+        "description": "陽光に煌くアドリア海のエメラルドグリーンは一度見たら、忘れられません。この美しいアドリア海を更にお楽しみ頂く為に、フヴァル島の「青の洞窟」を訪ねてみるのは如何でしょうか？スプリットからカーフェリーに乗船し約２時間でフヴァル島へ。ここで一泊して、次の日は終日ボートでビス島の「緑の洞窟」やビシェボ島の「青の洞窟」を巡るのがおすすめです。ビシェボ島の海岸では、ボートに備えられたキッチンにて海の幸を堪能する「ボートピクニック」の体験も。美しいアドリア海を満喫できる忘れられない一日をお過ごし頂けます。",
+        "image": {
+          "height": 960,
+          "sourceUrl": "https://a.mktgcdn.com/p/5LKn6r68aH_0tFPlQM9J81Sj7tUb9EjvAo9j6xYWPCE/1280x960.jpg",
+          "thumbnails": [
+            {
+              "height": 960,
+              "url": "https://a.mktgcdn.com/p-sandbox/iYsINCHto5EF30vF2N1_g2-Y01ZMgbA3V5HefF4ZZog/1280x960.jpg",
+              "width": 1280
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/iYsINCHto5EF30vF2N1_g2-Y01ZMgbA3V5HefF4ZZog/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/iYsINCHto5EF30vF2N1_g2-Y01ZMgbA3V5HefF4ZZog/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/iYsINCHto5EF30vF2N1_g2-Y01ZMgbA3V5HefF4ZZog/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iYsINCHto5EF30vF2N1_g2-Y01ZMgbA3V5HefF4ZZog/1280x960.jpg",
+          "width": 1280
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "スプリットのローマ遺跡"
+      },
+      {
+        "description": "ドブロブニクの背後にそびえる、標高412メートルのスルジ山山頂は、ドブロブニクの絶景ポイントです。山頂への道は狭く、大型観光バスでは上ることができないため、旧市街の入り口からタクシーで上ります。往復の所要時間は約１時間。絶景を堪能した後は、各国のVIP御用達レストラン「ナウティカ」でアドリア海の料理を味わってみてはいかがでしょうか？事前に予約をすれば、アドリア海を臨むテラス席で、かつてヨハネ・パウロⅡ世法王に提供された料理が味わえます。旧市街の入り口側なので、立地条件も最適です。",
+        "image": {
+          "height": 427,
+          "sourceUrl": "https://a.mktgcdn.com/p/jLEkghiqPO1Bcb0I0oqoDM7D9PzwQy4NZvUn6Ej812Y/640x427.jpg",
+          "thumbnails": [
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/z1lK4wPi2cUqY6HEyo3DgfwFfpbYMVaw5hqJO1Gro2Y/640x427.jpg",
+              "width": 640
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/z1lK4wPi2cUqY6HEyo3DgfwFfpbYMVaw5hqJO1Gro2Y/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/z1lK4wPi2cUqY6HEyo3DgfwFfpbYMVaw5hqJO1Gro2Y/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/z1lK4wPi2cUqY6HEyo3DgfwFfpbYMVaw5hqJO1Gro2Y/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/z1lK4wPi2cUqY6HEyo3DgfwFfpbYMVaw5hqJO1Gro2Y/640x427.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "青の洞窟"
+      },
+      {
+        "description": "ドブロブニクでは、腕時計を外してゆったり流れる時間をお楽しみください。旧市街近くにあるデラックスホテル「エクセルシオールホテル」や「グランド ヴィラ アルジェンティーナ」には、アドリア海と城塞に囲まれたドブロブニク旧市街の全景を眺められるカフェがあります。一杯のカプチーノを味わいながら中世に思いを馳せ、体全体を海風にさらしてみてください。心地よい波の音やさわやかな風の音、可愛らしい小鳥たちのさえずりが聞こえてきます。さらにドブロブニクのデラックスホテルには、プライベートビーチやスパ、エステサロン施設が充実しています。ぜひ連泊して、贅沢な時間をご堪能ください。",
+        "image": {
+          "height": 770,
+          "sourceUrl": "https://a.mktgcdn.com/p/53TSQ_ajQ02TsqVU00H3MYKlKwKjnShP-g3XPFsmr3I/1155x770.jpg",
+          "thumbnails": [
+            {
+              "height": 770,
+              "url": "https://a.mktgcdn.com/p-sandbox/AqkDpByMF_8KE94QrNd6KwAo22uEY0r_V6nHS12N4pk/1155x770.jpg",
+              "width": 1155
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/AqkDpByMF_8KE94QrNd6KwAo22uEY0r_V6nHS12N4pk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/AqkDpByMF_8KE94QrNd6KwAo22uEY0r_V6nHS12N4pk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/AqkDpByMF_8KE94QrNd6KwAo22uEY0r_V6nHS12N4pk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AqkDpByMF_8KE94QrNd6KwAo22uEY0r_V6nHS12N4pk/1155x770.jpg",
+          "width": 1155
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "スルジ山"
+      },
+      {
+        "description": "エクセルシオールホテルは、ドブロブニクにある5つ星ホテル。エレガントなお部屋にモダンな設備が整っています。クロアチアの有名アーティストによるアートが飾られているのもポイント。ほとんどの部屋から美しいアドリア海の景色を望める、絶好のロケーションです。さらに、プライベートビーチや屋内プール、ジャグジーなどの施設も充実しています",
+        "image": {
+          "height": 960,
+          "sourceUrl": "https://a.mktgcdn.com/p/qYYNv7TJhlasoRIlEuZ6W6TnpjMhcEAEfIuItA0O6NI/1280x960.jpg",
+          "thumbnails": [
+            {
+              "height": 960,
+              "url": "https://a.mktgcdn.com/p-sandbox/5g94OT5zsSknsbxgaAcOypL0cx9Nc56uGNPvqxdSSyU/1280x960.jpg",
+              "width": 1280
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/5g94OT5zsSknsbxgaAcOypL0cx9Nc56uGNPvqxdSSyU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/5g94OT5zsSknsbxgaAcOypL0cx9Nc56uGNPvqxdSSyU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/5g94OT5zsSknsbxgaAcOypL0cx9Nc56uGNPvqxdSSyU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5g94OT5zsSknsbxgaAcOypL0cx9Nc56uGNPvqxdSSyU/1280x960.jpg",
+          "width": 1280
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "3．クロアチア・ドブロブニクのおすすめホテル"
+      },
+      {
+        "description": "グランド ヴィラ アルジェンティーナもドブロブニクにある5つ星ホテルです。ビーチ直結で、プールやレストランが併設されており、ホテル内からでも景色を十分に楽しめます。また、スパや24時間対応のルームサービスなどきめ細やかなサービスも魅力。旧市街やバニェビーチなどの人気観光スポットにも近いので、観光の拠点にぴったりです。",
+        "sectionLevel": "h3",
+        "sectionTitle": "エクセルシオールホテル"
+      },
+      {
+        "description": "日本ではあまり馴染みのないクロアチアの料理。 様々な国から影響を受けた食文化を是非現地で味わってみてください。ここではおすすめの食材やメニューをご紹介します。",
+        "sectionLevel": "h3",
+        "sectionTitle": "グランド ヴィラ アルジェンティーナ"
+      },
+      {
+        "description": "フランスだけじゃない！クロアチアの名産「トリュフ」をご紹介します。イタリアに近いイストリア半島は、知る人ぞ知るトリュフの産地です。中でも森に囲まれたイストリア半島中央付近に位置するモトブン近郊では年間を通して「黒トリュフ」料理が食せる他、秋には「白トリュフ」のお料理もお楽しみ頂けます。また、現地ではトリュフ製品のお買い物を始め、「トリュフ狩り」も体験できます。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．クロアチアのグルメ情報"
+      },
+      {
+        "description": "クロアチアを旅したら是非、お試し頂きたいのが新鮮な海の幸。フランス料理みたいに手が込んだ料理ではありませんが、新鮮な素材だからこそ味が際立つシンプルなお料理の数々は、訪れた人々を魅了して止みません。",
+        "sectionLevel": "h3",
+        "sectionTitle": "トリュフ"
+      },
+      {
+        "description": "シチューを意味する「ブザラ」ですが、コトコト煮込むわけではなく、にんにく、白ワイン、トマト、ハーブを使い新鮮な手長エビ（スカンピ）をさっと蒸し煮した料理です。エビの旨みをよく感じることが出来ます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "シーフード料理"
+      },
+      {
+        "description": "ムール貝のブザラも白ワインとにんにくを使い、蒸し煮にします。ソースにパンを浸して食べるのもおすすめです。深いボールに山盛りに盛られたルーム貝からたっぷりの旨みが染み出します。",
+        "sectionLevel": "h4",
+        "sectionTitle": "手長エビのブザラ"
+      },
+      {
+        "description": "クロアチアの牡蠣は世界最高水準の味と言われています。年間食せる平牡蠣は苦味がなく、塩の甘みが”ぎゅっ”と詰まっています。新鮮な生牡蠣を是非一度ご賞味ください。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ムール貝のブザラ"
+      },
+      {
+        "description": "漁師さんが雑魚を煮込んで作ったことが始まりです。様々な種類の魚をトマトやハーブで煮込みます。とても軽い食べ心地で、海の恵みをしっかりと感じられます。その他、新鮮なあんこうやスズキを焼き、濃厚なオリーブオイルをさっと、かけて召し上がり頂くだけでも、口いっぱいにアドリア海が広がります。",
+        "sectionLevel": "h4",
+        "sectionTitle": "牡蠣"
+      },
+      {
+        "description": "クロアチアにいらっしゃった際には、記念にこんなお土産話と品物をお持ち帰りになっては如何でしょうか？",
+        "sectionLevel": "h4",
+        "sectionTitle": "魚のシチューブロデット"
+      },
+      {
+        "description": "ネクタイはクロアチア兵士が身に付けていたものが17世紀にフランスのファッション界に広まり、やがて世界各国で男性の礼装に取り入れられるようになりました。フランス語でネクタイを「クラバット」というのは、実はこんな歴史があるからなんです。",
+        "sectionLevel": "h2",
+        "sectionTitle": "5．クロアチアおすすめのお土産情報"
+      },
+      {
+        "description": "20世紀初頭にオートマチックペンシルと呼ばれるシャープペンを発明したのも、世界初の固定インクの万年筆を発明したのもクロアチア人なのです。観光地のお土産さんを覗きますと、ペンカラが発明した当時の姿のシャープペンシルや万年筆が売られています。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ネクタイ"
+      },
+      {
+        "description": "クロアチアは、九州と四国を合わせたほどの小さな国です。その為、クロアチアへご旅行の際には気軽に隣国の世界遺産にも足を伸ばせます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "万年筆＆シャープペンシル"
+      },
+      {
+        "description": "1986年にユネスコ世界遺産に登録された鍾乳洞では、約1時間30分の洞窟探検が楽しめます。洞窟内には息を呑む様々な景観が満載です。地底に眠る深さ250メートルの大渓谷に架かる吊り橋は迫力満点です。",
+        "sectionLevel": "h2",
+        "sectionTitle": "6．クロアチア近隣国のおすすめ観光スポット"
+      },
+      {
+        "description": "「楽園のイメージそのもの」と言われるブレッド湖はユリアンアルプスを背に、崖の上の城、緑深き森に囲まれ、可愛らしい湖の島にある教会には願いを叶える伝説の鐘があります。その鐘を鳴らそうと、沢山の観光客がボートで島へ渡ります。小さな島に立つ教会に美しい湖。まるで絵のようなメルヘンチックな風景が広がります。",
+        "sectionLevel": "h3",
+        "sectionTitle": "スロベニアのおすすめ観光スポット"
+      },
+      {
+        "description": "ブレッド湖の3倍の面積のボーヒン湖は、トリグラフ国立公園に位置する雄大な自然の中に佇む湖です。国立公園内にはハイキングや登山コースも充実しており、夏季には避暑地として沢山の観光客が訪れます。秋には美しい紅葉が望め、冬はスキーリゾート客で賑わいます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "シュコチアン鍾乳洞"
+      },
+      {
+        "description": "2005年に世界遺産登録されたモスタルは特異な文化と景観が魅力的です。オスマントルコ時代に地元の石切り場から切り出された石で作られた美しいアーチ型の橋を挟んで、宗教や民族を超えた人の交流がありました。しかし、1993年の内戦により数百年に渡って守られた町と人間の絆は橋と共に砕かれました。内戦後、ユネスコや世界銀行からの援助、民間の募金活動により、破壊されて川に落下した石を拾い出し、そして足りない部分は16世紀と同じ石切り場から補い、見事に橋や町は嘗ての姿に修復されました。スラブ語で「橋」を意味する「モスト」が起源となった町では、悲しい内戦の歴史を残しながらも、「石」の如く強い民族の力を感じます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ブレッド湖"
+      },
+      {
+        "description": "1979年に世界遺産に登録された三角形の町コトルは、美しいフィヨルドに囲まれた特異な景観を持ちます。前方をアドリア海に、後方を急峻な山に囲まれた堅固な城塞都市には15世紀のベネチア時代の姿のまま歴史を語ります。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ボーヒン湖"
+      },
+      {
+        "description": "旧ユーゴスラビアの国々ではスラブ語が基礎となった言葉が使われています。その為発音が難しく、「こんにちは」「ありがとう」といった基本用語もなかなか使いづらいです。しかし、私達日本人でもすぐに使えそうな言葉もいくつかあります。「コーヒー」＝カバ、クロアチアの通貨＝クナ（”食うな”がイメージ）、「お休みなさい」＝ラクノーチ（酪農地がイメージ）、「やって来る」＝ドジ、「ボク」＝こんにちは／バイバイ！、「ダ」＝はい、「ネ」\u003dいいえ、など。現地の言葉がわかるとなんだかその国が身近に感じられるものです。クロアチアへご旅行の際には是非試してみてください。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ボスニア・ヘルツェゴビナのおすすめ観光スポット"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "モスタル"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "モンテネグロのおすすめ観光スポット"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "コトル"
+      },
+      {
+        "sectionLevel": "h2",
+        "sectionTitle": "7．旅のプロからのワンポイントアドバイス"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "クロアチアの言葉"
+      }
+    ],
+    "c_news_PublicationDate": "2020-11-02",
+    "c_news_UpdateDate": "2024-07-18",
+    "c_news_ViewCount": "3808",
+    "c_news_ViewCount2of2": "3808",
+    "c_news_ViewCountNum": "3808",
+    "c_news_ViewCountNumForSorting": "89",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/europe/croatia/news_web_kaigai_0012",
+    "c_relatedAreas": [
+      "croatia",
+      "slovenia"
+    ],
+    "name": "クロアチア観光におすすめのスポットを現地スタッフが厳選！食と絶景を満喫しよう！",
+    "slug": "kaigai/europe/croatia/news_web_kaigai_0012",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

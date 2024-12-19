@@ -1,0 +1,234 @@
+{
+  "$id": "ap_k_okada018_005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ トラベルコンサルタント 岡田 かずこ",
+      "link": "https://consultants.jtb.co.jp/cp_k_okada018",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿者にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVe7",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "博物館で絶対に見逃せないのが、「舎房及び中央見張所」です。中央見張を中心に、5つの舎房が放射状に延びているため「五翼放射状房」とよばれています。中央見張と舎房は渡り廊下でつながっており、ここからどの舎房も目視で確認できる構造になっています。扉の両側には堅格子が施されていますが、向かい房同士は見通せないなど随所に工夫が凝らされています。ガラスの天窓を見上げると、どこかに「脱獄王」がいるとか。ぜひ探してくださいね。",
+        "image": {
+          "alternateText": "扉の両脇に竪格子が。上部には鉄格子付の窓が設置されている",
+          "height": 669,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZoD3vvmF7ityvsyPxoXxB4h_xE400PS9BHw0NnqWAEA/1000x669.jpg",
+          "thumbnails": [
+            {
+              "height": 669,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZoD3vvmF7ityvsyPxoXxB4h_xE400PS9BHw0NnqWAEA/1000x669.jpg",
+              "width": 1000
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZoD3vvmF7ityvsyPxoXxB4h_xE400PS9BHw0NnqWAEA/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZoD3vvmF7ityvsyPxoXxB4h_xE400PS9BHw0NnqWAEA/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZoD3vvmF7ityvsyPxoXxB4h_xE400PS9BHw0NnqWAEA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZoD3vvmF7ityvsyPxoXxB4h_xE400PS9BHw0NnqWAEA/1000x669.jpg",
+          "width": 1000
+        },
+        "imageCaption": "扉の両脇に竪格子が。上部には鉄格子付の窓が設置されている",
+        "sectionTitle": "絶対に見逃せない！国の重要文化財指定の「舎房及び中央見張所」"
+      },
+      {
+        "description": "「監獄歴史館」にある迫力ある体感シアター「赫い囚徒の森」では、130年前に囚人たちの手によって行われた道路開削などの過酷な北海道開拓の様子を知ることができます。",
+        "image": {
+          "alternateText": "音と映像で、臨場感たっぷりに囚人の生活を再現",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/9QFarTTGXb_cP38eAc35L8AzJke9pI_Ry00J80DCWZI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/9QFarTTGXb_cP38eAc35L8AzJke9pI_Ry00J80DCWZI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/9QFarTTGXb_cP38eAc35L8AzJke9pI_Ry00J80DCWZI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/9QFarTTGXb_cP38eAc35L8AzJke9pI_Ry00J80DCWZI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/9QFarTTGXb_cP38eAc35L8AzJke9pI_Ry00J80DCWZI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9QFarTTGXb_cP38eAc35L8AzJke9pI_Ry00J80DCWZI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "音と映像で、臨場感たっぷりに囚人の生活を再現",
+        "sectionTitle": "囚人たちの過酷な北海道開拓の様子をいまに伝える"
+      },
+      {
+        "description": "博物館にある「監獄食堂」では、現在の網走刑務所で収容者たちが実際に食べている昼食メニューを再現。「体験監獄食」として提供しています。麦飯や焼き魚、小皿、中皿、味噌汁（本来は番茶）がついていて、栄養バランスもよさそうですね。意外なおいしさの「秘密のレシピ」をお楽しみください。",
+        "image": {
+          "alternateText": "サンマがメインの監獄食の一例",
+          "height": 713,
+          "sourceUrl": "https://a.mktgcdn.com/p/SlUjTi3WzACa2FbvDkzQulqLdmr9rc15pva-5RK7Grg/1052x713.jpg",
+          "thumbnails": [
+            {
+              "height": 713,
+              "url": "https://a.mktgcdn.com/p-sandbox/SlUjTi3WzACa2FbvDkzQulqLdmr9rc15pva-5RK7Grg/1052x713.jpg",
+              "width": 1052
+            },
+            {
+              "height": 420,
+              "url": "https://a.mktgcdn.com/p-sandbox/SlUjTi3WzACa2FbvDkzQulqLdmr9rc15pva-5RK7Grg/619x420.jpg",
+              "width": 619
+            },
+            {
+              "height": 407,
+              "url": "https://a.mktgcdn.com/p-sandbox/SlUjTi3WzACa2FbvDkzQulqLdmr9rc15pva-5RK7Grg/600x407.jpg",
+              "width": 600
+            },
+            {
+              "height": 133,
+              "url": "https://a.mktgcdn.com/p-sandbox/SlUjTi3WzACa2FbvDkzQulqLdmr9rc15pva-5RK7Grg/196x133.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SlUjTi3WzACa2FbvDkzQulqLdmr9rc15pva-5RK7Grg/1052x713.jpg",
+          "width": 1052
+        },
+        "imageCaption": "サンマがメインの監獄食の一例",
+        "sectionTitle": "網走刑務所秘伝の味がここで食べられる。監獄食を体験"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-08-11",
+    "c_ap_HeroImage": {
+      "alternateText": "激動の北海道開拓史の生き証人。ドラマや漫画の舞台としても人気【北海道　博物館網走監獄】",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/u_p39FPBAm-28TdtjpjS7gkEdBRCZYuu9VY5mYUuXZw/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/u_p39FPBAm-28TdtjpjS7gkEdBRCZYuu9VY5mYUuXZw/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/u_p39FPBAm-28TdtjpjS7gkEdBRCZYuu9VY5mYUuXZw/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/u_p39FPBAm-28TdtjpjS7gkEdBRCZYuu9VY5mYUuXZw/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/u_p39FPBAm-28TdtjpjS7gkEdBRCZYuu9VY5mYUuXZw/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/u_p39FPBAm-28TdtjpjS7gkEdBRCZYuu9VY5mYUuXZw/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "かつての監獄が移築復原された野外歴史博物館",
+    "c_ap_LinkArticleSectionTitle": "北海道のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "北海道旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/hokkaido/"
+      },
+      {
+        "linkText": "知床・網走・北見・紋別のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/0108/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea1": [
+      "北海道"
+    ],
+    "c_ap_ShortDescription": "網走刑務所をご存じでしょうか？ 北の大地、北海道にある刑務所で、当時は脱出不可能な監獄として恐れられたといいます。古くは、映画『網走番外地』シリーズの舞台として知られ、ここ最近では明治時代の北海道を舞台にした漫画に登場したことでファンの間で人気となっています。\nこの「博物館網走監獄」は、実際に使われていた網走刑務所の旧建造物を移築復原し、保存公開している野外歴史博物館です。東京ドーム 3.5 個分相当という広大な敷地には、国の重要文化財や登録文化財に指定されている建物も多く、見ごたえたっぷり。当時の囚人たちの暮らしぶりも再現されていますよ。\n現在の網走刑務所とは別の施設なのでお間違いなく。",
+    "c_ap_Tags": [
+      "歴史",
+      "博物館",
+      "重要文化財",
+      "映画の舞台"
+    ],
+    "c_ap_Theme": [
+      "歴史・地理",
+      "美術鑑賞"
+    ],
+    "c_ap_Title": "激動の北海道開拓史の生き証人。ドラマや漫画の舞台としても人気【北海道　博物館網走監獄】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "網走刑務所をご存じでしょうか？ 北の大地、北海道にある刑務所で、当時は脱出不可能な監獄として恐れられたといいます。古くは、映画『網走番外地』シリーズの舞台として知られ、ここ最近では明治時代の北海道を舞台にした…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "激動の北海道開拓史の生き証人。ドラマや漫画の舞台としても人気【北海道　博物館網走監獄】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_k_okada018_005",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "激動の北海道開拓史の生き証人。ドラマや漫画の舞台としても人気【北海道　博物館網走監獄】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

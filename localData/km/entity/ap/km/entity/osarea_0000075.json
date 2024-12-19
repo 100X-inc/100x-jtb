@@ -1,0 +1,322 @@
+{
+  "$id": "ap_osarea_0000075",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "最初にご紹介するのは、スペインの代表的なタパスを取りそろえるバル「メソン・リンコン・デ・ラ・カバ」。17世紀に建てられたアーチ型のレンガ造りの建物を使用した、風格ある佇まいです。",
+        "image": {
+          "alternateText": "お店が刻んできた歴史を感じられる店内",
+          "height": 691,
+          "sourceUrl": "https://a.mktgcdn.com/p/vJcHdInIxcnOsPcnl8aOWBuihSa_sopAX_Iyu7UyopU/519x691.jpg",
+          "thumbnails": [
+            {
+              "height": 691,
+              "url": "https://a.mktgcdn.com/p-sandbox/vJcHdInIxcnOsPcnl8aOWBuihSa_sopAX_Iyu7UyopU/519x691.jpg",
+              "width": 519
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/vJcHdInIxcnOsPcnl8aOWBuihSa_sopAX_Iyu7UyopU/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/vJcHdInIxcnOsPcnl8aOWBuihSa_sopAX_Iyu7UyopU/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vJcHdInIxcnOsPcnl8aOWBuihSa_sopAX_Iyu7UyopU/519x691.jpg",
+          "width": 519
+        },
+        "imageCaption": "お店が刻んできた歴史を感じられる店内",
+        "sectionTitle": "メソン・リンコン・デ・ラ・カバ（Mesón Rincón de la Cava）"
+      },
+      {
+        "description": "人気メニュー「ガンバス・アル・アヒーリョ」は芝エビをニンニク入りオイルで炒めたもの。エビのプリっとした食感としっかりとした味わいが口の中に広がります。そのほか、5種類のシーフードを揚げた「フリトゥーラ・バリアーダ」€10などのおつまみを、スペイン産のスパークリングワイン「カバ」と一緒に楽しみましょう。DATAMesón Rincón de la Cava住所：Cava de San Miguel 17営業時間：12時～翌2時定休日：なし",
+        "image": {
+          "alternateText": "ガンバス・アル・アヒーリョ€8.50",
+          "height": 1037,
+          "sourceUrl": "https://a.mktgcdn.com/p/BCi9Y1Uwf7FGgS_ZAqnaYAFqziGkMKlIAiPMWX5tc1c/1382x1037.jpg",
+          "thumbnails": [
+            {
+              "height": 1037,
+              "url": "https://a.mktgcdn.com/p-sandbox/BCi9Y1Uwf7FGgS_ZAqnaYAFqziGkMKlIAiPMWX5tc1c/1382x1037.jpg",
+              "width": 1382
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/BCi9Y1Uwf7FGgS_ZAqnaYAFqziGkMKlIAiPMWX5tc1c/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/BCi9Y1Uwf7FGgS_ZAqnaYAFqziGkMKlIAiPMWX5tc1c/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/BCi9Y1Uwf7FGgS_ZAqnaYAFqziGkMKlIAiPMWX5tc1c/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BCi9Y1Uwf7FGgS_ZAqnaYAFqziGkMKlIAiPMWX5tc1c/1382x1037.jpg",
+          "width": 1382
+        },
+        "imageCaption": "ガンバス・アル・アヒーリョ€8.50",
+        "sectionTitle": "メソン・デル・チャンピニョン（Mesón del Champiñón）"
+      },
+      {
+        "description": "お次は、メソン・リンコン・デ・ラ・カバのお隣、徒歩5秒の「メソン・デル・チャンピニョン」をご紹介。要塞の入り口のような店先に各言語で「マッシュルーム」と書かれた看板が掛けられているとおり、こだわりのマッシュルームのお店です。外観とは対照的に、一足店内に踏み入れば賑やかな雰囲気が広がります。",
+        "image": {
+          "alternateText": "店員さんやお客さんとの交流もバルの魅力のひとつ",
+          "height": 518,
+          "sourceUrl": "https://a.mktgcdn.com/p/uvyXX_VybMwFuH9rYIz6YgtkA5Zj4oOkkCiEwpJUMaU/691x518.jpg",
+          "thumbnails": [
+            {
+              "height": 518,
+              "url": "https://a.mktgcdn.com/p-sandbox/uvyXX_VybMwFuH9rYIz6YgtkA5Zj4oOkkCiEwpJUMaU/691x518.jpg",
+              "width": 691
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/uvyXX_VybMwFuH9rYIz6YgtkA5Zj4oOkkCiEwpJUMaU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/uvyXX_VybMwFuH9rYIz6YgtkA5Zj4oOkkCiEwpJUMaU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/uvyXX_VybMwFuH9rYIz6YgtkA5Zj4oOkkCiEwpJUMaU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uvyXX_VybMwFuH9rYIz6YgtkA5Zj4oOkkCiEwpJUMaU/691x518.jpg",
+          "width": 691
+        },
+        "imageCaption": "店員さんやお客さんとの交流もバルの魅力のひとつ",
+        "sectionTitle": "メソン・デ・ラ・トルティーリャ（Mesón de la Tortilla）"
+      },
+      {
+        "description": "マドリードの南東部、アルバセテから仕入れているというマッシュルームを鉄板で焼き上げ、2本の太い楊枝を刺したのが名物の「チャンピョン・ア・ラ・プランチャ」。日本で食べられるものよりも一回り大きなマッシュルームは香ばしくジューシー。スペインの定番ドリンク、サングリア€2.20と一緒にいただきましょう。DATAMesón del Champiñón住所：Cava de San Miguel 17営業時間：11時～翌1時（金・土曜は～翌2時、日曜は12時～翌1時）定休日：なし",
+        "image": {
+          "alternateText": "チャンピニョン・ア・ラ・プランチャ€6.90～",
+          "height": 1037,
+          "sourceUrl": "https://a.mktgcdn.com/p/lEdLSd1k5jbOd2XpCYOFFvhMyrh-sMUktANMuRpGFFA/1382x1037.jpg",
+          "thumbnails": [
+            {
+              "height": 1037,
+              "url": "https://a.mktgcdn.com/p-sandbox/lEdLSd1k5jbOd2XpCYOFFvhMyrh-sMUktANMuRpGFFA/1382x1037.jpg",
+              "width": 1382
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/lEdLSd1k5jbOd2XpCYOFFvhMyrh-sMUktANMuRpGFFA/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/lEdLSd1k5jbOd2XpCYOFFvhMyrh-sMUktANMuRpGFFA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/lEdLSd1k5jbOd2XpCYOFFvhMyrh-sMUktANMuRpGFFA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lEdLSd1k5jbOd2XpCYOFFvhMyrh-sMUktANMuRpGFFA/1382x1037.jpg",
+          "width": 1382
+        },
+        "imageCaption": "チャンピニョン・ア・ラ・プランチャ€6.90～"
+      },
+      {
+        "description": "カバ・デ・サン・ミゲル通りの最後を飾るのは、「メソン・デ・ラ・トルティーリャ」。スペイン風オムレツ「トルティーリャ」の専門店です。タコスの生地の部分である“トルティーヤ”とは全くの別物ですので注意してくださいね。",
+        "image": {
+          "alternateText": "トルティーリャの専門店。昼間から多くのお客さんで賑わう",
+          "height": 518,
+          "sourceUrl": "https://a.mktgcdn.com/p/aHaad27GTbNyajJ3JA5HmCj-d_MbqsDY7e1gcTJkUdY/691x518.jpg",
+          "thumbnails": [
+            {
+              "height": 518,
+              "url": "https://a.mktgcdn.com/p-sandbox/aHaad27GTbNyajJ3JA5HmCj-d_MbqsDY7e1gcTJkUdY/691x518.jpg",
+              "width": 691
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/aHaad27GTbNyajJ3JA5HmCj-d_MbqsDY7e1gcTJkUdY/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/aHaad27GTbNyajJ3JA5HmCj-d_MbqsDY7e1gcTJkUdY/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/aHaad27GTbNyajJ3JA5HmCj-d_MbqsDY7e1gcTJkUdY/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aHaad27GTbNyajJ3JA5HmCj-d_MbqsDY7e1gcTJkUdY/691x518.jpg",
+          "width": 691
+        },
+        "imageCaption": "トルティーリャの専門店。昼間から多くのお客さんで賑わう"
+      },
+      {
+        "description": "ふわふわの生地の中にジャガイモやハムが入ったトルティーリャはボリューム満点。注文が入ってから作り始めるため、できたてをいただくことができます。放し飼いで育てられた鶏の卵を使用しており、味わいは濃厚。1人前からも注文ができます。ドリンクはティント・デ・ベラーノ（サマーワイン）がオススメ。サングリアよりもすっきりとした味わいで、こってりとしたトルティーリャとの相性も抜群です。DATAMesón de la Tortilla住所：Cava de San Miguel 15営業時間：19時～翌1時（金・土・日曜は13～17時、19時～翌1時）定休日：なし",
+        "image": {
+          "height": 2796,
+          "sourceUrl": "https://a.mktgcdn.com/p/fQ9it8vqd2YY4Uc0FN4H8l8IeeTyPe6GWFuIU7WX4Pc/3728x2796.jpg",
+          "thumbnails": [
+            {
+              "height": 2796,
+              "url": "https://a.mktgcdn.com/p-sandbox/r1sWZ3Y8uyQCTAxgAmleIO1yIWa7sxNyPi1s8YW-eng/3728x2796.jpg",
+              "width": 3728
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/r1sWZ3Y8uyQCTAxgAmleIO1yIWa7sxNyPi1s8YW-eng/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/r1sWZ3Y8uyQCTAxgAmleIO1yIWa7sxNyPi1s8YW-eng/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/r1sWZ3Y8uyQCTAxgAmleIO1yIWa7sxNyPi1s8YW-eng/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/r1sWZ3Y8uyQCTAxgAmleIO1yIWa7sxNyPi1s8YW-eng/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/r1sWZ3Y8uyQCTAxgAmleIO1yIWa7sxNyPi1s8YW-eng/3728x2796.jpg",
+          "width": 3728
+        },
+        "imageCaption": "トルティーリャは4種のサイズからセレクト。1人前€8、2人前€11"
+      },
+      {
+        "imageCaption": "※2023年6月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2023-07-06",
+    "c_ap_HeroImage": {
+      "alternateText": "カバ・デ・サン・ミゲル通りでタペオ体験！【スペイン マドリード】",
+      "height": 4608,
+      "sourceUrl": "https://a.mktgcdn.com/p/c9o-pjPvwlf3de7p9_u5MplSM8Aa0stoXuZqRIljJGA/3456x4608.jpg",
+      "thumbnails": [
+        {
+          "height": 4608,
+          "url": "https://a.mktgcdn.com/p-sandbox/c9o-pjPvwlf3de7p9_u5MplSM8Aa0stoXuZqRIljJGA/3456x4608.jpg",
+          "width": 3456
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/c9o-pjPvwlf3de7p9_u5MplSM8Aa0stoXuZqRIljJGA/1425x1900.jpg",
+          "width": 1425
+        },
+        {
+          "height": 825,
+          "url": "https://a.mktgcdn.com/p-sandbox/c9o-pjPvwlf3de7p9_u5MplSM8Aa0stoXuZqRIljJGA/619x825.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/c9o-pjPvwlf3de7p9_u5MplSM8Aa0stoXuZqRIljJGA/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/c9o-pjPvwlf3de7p9_u5MplSM8Aa0stoXuZqRIljJGA/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/c9o-pjPvwlf3de7p9_u5MplSM8Aa0stoXuZqRIljJGA/3456x4608.jpg",
+      "width": 3456
+    },
+    "c_ap_HeroImageCaption": "数々のバルが立ち並ぶ活気のある通り",
+    "c_ap_LinkArticleSectionTitle": "スペインのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "スペイン旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/spain/"
+      },
+      {
+        "linkText": "バルセロナのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dBCN"
+      },
+      {
+        "linkText": "スペインのホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/166/?freeword\u003d%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d166"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea3": [
+      "スペイン",
+      "西欧全般"
+    ],
+    "c_ap_ShortDescription": "1つのバルで料理１品とドリンク1杯を注文したら、すぐに次の店へ移るハシゴ酒のことをスペイン語で“タペオ”といいます。いくつものバルを巡りながら、あれもこれも食べて飲むのはスペイン旅行の醍醐味。なかでもバルが立ち並ぶマドリードの人気ストリート、カバ・デ・サン・ミゲル通りは、タペオ体験におすすめです。",
+    "c_ap_Tags": [
+      "マドリード",
+      "ハシゴ",
+      "タペオ",
+      "バル",
+      "メルカド"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "一人旅",
+      "グループ",
+      "街あるき",
+      "お酒"
+    ],
+    "c_ap_Title": "カバ・デ・サン・ミゲル通りでタペオ体験！【スペイン マドリード】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "1つのバルで料理１品とドリンク1杯を注文したら、すぐに次の店へ移るハシゴ酒のことをスペイン語で“タペオ”といいます。いくつものバルを巡りながら、あれもこれも食べて飲むのはスペイン旅行の醍醐味。なかでもバルが立ち並ぶマドリードの人気ストリート、カバ・デ・サン・ミゲル通りは、タペオ体験におすすめです。",
+    "c_metaTitle": "カバ・デ・サン・ミゲル通りでタペオ体験！【スペイン マドリード】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000075",
+    "c_searchArea1": [
+      "海外"
+    ],
+    "c_searchArea2": "スペイン, 西欧全般",
+    "name": "カバ・デ・サン・ミゲル通りでタペオ体験！【スペイン マドリード】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

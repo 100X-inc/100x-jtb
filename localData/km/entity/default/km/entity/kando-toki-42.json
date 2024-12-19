@@ -1,0 +1,39 @@
+{
+  "$id": "kando-toki-42",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/42_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d42.301769%2C141.001705",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "夏",
+      "秋",
+      "冬",
+      "海・湖・川・滝"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "絵鞆（えとも）半島の最南端に突き出た、室蘭の地球岬。太平洋に面する海岸線は、高さ100m前後の断崖絶壁が約14kmも続いており、断崖上の展望台からははるか遠くまで海が続く絶景を楽しむことができます。地球岬は「室蘭八景」の一つにも選ばれている景勝地で、地元の人々からは初日の出の名所として人気が高いスポットになっています。さらにこの地域は渡り鳥の営巣地でもあるため、渡り鳥を狙う野鳥など、さまざまな鳥を見つけることができます。晴れた日には遠く駒ヶ岳や青森県の下北半島まで望むこともでき、かすむ水平線に地球の丸さを実感できる大パノラマが広がります。また春から秋にかけては、運が良ければ太平洋を回遊するイルカやクジラを見られることもあります。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/42.asp",
+    "name": "室蘭地球岬の大パノラマ"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

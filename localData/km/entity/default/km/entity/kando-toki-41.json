@@ -1,0 +1,41 @@
+{
+  "$id": "kando-toki-41",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/41_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.555917%2C144.507215",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "冬",
+      "太陽・星・月",
+      "海・湖・川・滝"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "摩周湖の湖畔に建つ摩周第一展望台は、ほぼ360度の景観を見渡すことができます。周囲を山と湖に囲まれているため、展望台の周りに街の明かりはなく、夜ともなれば真っ暗な闇に沈んでしまいます。けれども空を見上げれば、視界いっぱいに広がる満天の星空が仰げます。音さえも吸い込まれるような暗闇の中、星の光だけが降り注ぐ絶景は、まさに言葉を失うほど。人工照明に慣れた日常を離れて、自然だけが生み出せる夜の暗闇や星のまたたきを感じてみませんか？晴れた日に見せる「摩周ブルー」の美しい青や霧に包まれた神秘的な風景とは全く違う、夜の摩周湖だけが見せる新しい魅力を見つけることができるでしょう。快晴時には星が湖面に映り込むこともあり、いっそう幻想的な風景を見ることができます。\n見所・お勧めポイント\n摩周第一展望台へは、硫黄の香りに包まれた温泉情緒のある川湯温泉に泊まるのが便利。『源泉100％かけ流し宣言』をしている温泉街です。温泉街から展望台へは車で約30分です。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/41.asp",
+    "name": "摩周の星空"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

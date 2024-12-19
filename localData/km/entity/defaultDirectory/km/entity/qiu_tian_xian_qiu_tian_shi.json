@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_qiu_tian_xian_qiu_tian_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247569"
+    ],
+    "dm_directoryChildren": [
+      "2249-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_qiu_tian_xian"
+    ],
+    "name": "秋田市",
+    "slug": "秋田県/秋田市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "defaultDirectory_chang_ye_xian",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "3",
+    "dm_childEntityIds": [
+      "1045019360",
+      "1045019401"
+    ],
+    "dm_directoryChildren": [
+      "defaultDirectory_chang_ye_xian_chang_ye_shi",
+      "defaultDirectory_chang_ye_xian_shang_tian_shi"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory"
+    ],
+    "name": "長野県",
+    "slug": "長野県"
+  },
+  "entityType": "ce_region",
+  "labels": []
+}

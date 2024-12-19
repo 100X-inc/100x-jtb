@@ -1,0 +1,36 @@
+{
+  "$id": "news_pa_hokkaido",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kokunai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "北海道",
+      "link": "https://www.jtb.co.jp/news/list/kokunai/hokkaido/hokkaido_all",
+      "linkType": "URL"
+    },
+    "c_news_PopularAreasImage": {
+      "height": 120,
+      "sourceUrl": "https://a.mktgcdn.com/p/jvm5UXESu2DrBg4oiY5PqUHSgJNDHoEzrJiYU5vjX3s/307x120.png",
+      "thumbnails": [
+        {
+          "height": 120,
+          "url": "https://a.mktgcdn.com/p-sandbox/jvm5UXESu2DrBg4oiY5PqUHSgJNDHoEzrJiYU5vjX3s/307x120.png",
+          "width": 307
+        },
+        {
+          "height": 77,
+          "url": "https://a.mktgcdn.com/p-sandbox/jvm5UXESu2DrBg4oiY5PqUHSgJNDHoEzrJiYU5vjX3s/196x77.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/jvm5UXESu2DrBg4oiY5PqUHSgJNDHoEzrJiYU5vjX3s/307x120.png",
+      "width": 307
+    },
+    "name": "北海道"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

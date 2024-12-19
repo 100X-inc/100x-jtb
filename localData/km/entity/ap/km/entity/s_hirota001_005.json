@@ -1,0 +1,240 @@
+{
+  "$id": "ap_s_hirota001_005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "美瑛のまちは、JR美瑛駅を境に大きく2つのエリアに分かれており、南東側は「パノラマロード」、とよばれています。パノラマロードのいちばんのおすすめは、360度の大パノラマを楽しめる「新栄の丘」です。ここからの眺めは本当に壮大！　東側にはCMなどでも有名な赤い屋根の家が見え、その向こうに十勝岳連峰がそびえます。夕日スポットとしても有名で、時間とともに空の色が変わる様子は感動的ですよ。そのほか、鮮やかな色彩の花畑を見渡せる「四季彩の丘」も人気スポットです。園内には農産物の直売所やアルパカ牧場などもあります。（有料）幻想的な「白金青い池」も、こちらのエリアにあります。ぜひ足を延ばしてくださいね。",
+        "image": {
+          "alternateText": "四季彩の丘の鮮やかな花畑",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/VhLSI9-0gegNrafkL6Kc3EMxsVOrB-HMb0n9rDvCj0c/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/VhLSI9-0gegNrafkL6Kc3EMxsVOrB-HMb0n9rDvCj0c/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/VhLSI9-0gegNrafkL6Kc3EMxsVOrB-HMb0n9rDvCj0c/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/VhLSI9-0gegNrafkL6Kc3EMxsVOrB-HMb0n9rDvCj0c/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/VhLSI9-0gegNrafkL6Kc3EMxsVOrB-HMb0n9rDvCj0c/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VhLSI9-0gegNrafkL6Kc3EMxsVOrB-HMb0n9rDvCj0c/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "四季彩の丘の鮮やかな花畑",
+        "sectionTitle": "まずはパノラマロードから。新栄の丘からの眺めは雄大！"
+      },
+      {
+        "description": "北西側は「パッチワークの路」とよばれます。色が異なる作物の畑が丘に広がり、パッチワークのように見えることからこの名がついたそう。特徴は、CMやポスターなどの舞台となった数々の絶景を見られること。ある年代以上の方にとっては、見たことがある懐かしい光景です。「ケンとメリーの木」は、50年ほど前に日産のスカイラインのCMに登場した木です。名前はＣＭの登場人物にちなんだもので、美瑛の丘を象徴する風景のひとつです。たばこのパッケージ採用された「セブンスターの木」も人気のスポット。道路脇に立つ大きなカシワの木で、こちらも美瑛らしい風景です。この、すぐ近くにあるシラカバ並木も隠れた撮影スポットになっています。こちらもお見逃しなく。",
+        "image": {
+          "alternateText": "セブンスターの木の脇にあるシラカバ並木",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/NIjF6BstNRono7o4UD2cqLVf-8_oAPBok5BZjHxyRGQ/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/NIjF6BstNRono7o4UD2cqLVf-8_oAPBok5BZjHxyRGQ/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/NIjF6BstNRono7o4UD2cqLVf-8_oAPBok5BZjHxyRGQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/NIjF6BstNRono7o4UD2cqLVf-8_oAPBok5BZjHxyRGQ/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/NIjF6BstNRono7o4UD2cqLVf-8_oAPBok5BZjHxyRGQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NIjF6BstNRono7o4UD2cqLVf-8_oAPBok5BZjHxyRGQ/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "セブンスターの木の脇にあるシラカバ並木",
+        "sectionTitle": "見たことがある光景が目の前に。CMなどでおなじみの風景を巡る"
+      },
+      {
+        "description": "お花が咲き誇る夏もおすすめですが、冬の真っ白な雪景色も素敵です。白い雪と葉を落とした木々のコントラストが幻想的で、春から秋にかけてとはまた違った風景を見られます。ただし積雪時の運転は気をつけて。幹線道路以外は除雪されていないこともあるので、十分にご注意ください。いかがだったでしょうか。お気に入りのBGM を流しながら、北海道ならではのドライブをぜひ楽しんで下さい。普段はすぐに飽きてしまう子どもたちも、きっと目を輝かせて喜んでくれるでしょう。また、美瑛周辺にはグルメスポットがたくさんあります。ドライブの途中で、おいしいものを食べるものもお忘れなく！",
+        "image": {
+          "alternateText": "雪原に立つケンとメリーの木",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Ufchj4DWpBb1VgQ06HJseGXWESLg7-5As3WfRr9mOmE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ufchj4DWpBb1VgQ06HJseGXWESLg7-5As3WfRr9mOmE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ufchj4DWpBb1VgQ06HJseGXWESLg7-5As3WfRr9mOmE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ufchj4DWpBb1VgQ06HJseGXWESLg7-5As3WfRr9mOmE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ufchj4DWpBb1VgQ06HJseGXWESLg7-5As3WfRr9mOmE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ufchj4DWpBb1VgQ06HJseGXWESLg7-5As3WfRr9mOmE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "雪原に立つケンとメリーの木",
+        "sectionTitle": "真っ白な雪景色も幻想的。四季を通じて楽しめます"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-08-08",
+    "c_ap_HeroImage": {
+      "alternateText": "まるでヨーロッパの大平原。日本離れしたスケールの風景と出合う【北海道　美瑛の丘】",
+      "height": 801,
+      "sourceUrl": "https://a.mktgcdn.com/p/jee4UVgSdkYuDvEGqY0_DyZXsCU1if2hHxfuezRSzJw/1200x801.jpg",
+      "thumbnails": [
+        {
+          "height": 801,
+          "url": "https://a.mktgcdn.com/p-sandbox/jee4UVgSdkYuDvEGqY0_DyZXsCU1if2hHxfuezRSzJw/1200x801.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/jee4UVgSdkYuDvEGqY0_DyZXsCU1if2hHxfuezRSzJw/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 401,
+          "url": "https://a.mktgcdn.com/p-sandbox/jee4UVgSdkYuDvEGqY0_DyZXsCU1if2hHxfuezRSzJw/600x401.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/jee4UVgSdkYuDvEGqY0_DyZXsCU1if2hHxfuezRSzJw/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/jee4UVgSdkYuDvEGqY0_DyZXsCU1if2hHxfuezRSzJw/1200x801.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "「パッチワークの路」の壮大な眺望",
+    "c_ap_LinkArticleSectionTitle": "北海道のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "JTBイランカラプテ北海道（北海道旅行のリモート相談専門店）",
+        "uRL": "https://stores.jtb.co.jp/lc-0001"
+      },
+      {
+        "linkText": "北海道旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/hokkaido/"
+      },
+      {
+        "linkText": "北海道のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/hokkaido/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea1": [
+      "北海道"
+    ],
+    "c_ap_ShortDescription": "思うように海外旅行に行けなくなったいま、日本離れしたスケールを感じたいときにおすすめなのが美瑛の丘です。\nその雄大な風景は、テレビドラマや数々のCMの舞台になっており、それぞれの風景が観光名所にもなっています。\nレンタサイクルや観光タクシーなどの移動手段がありますが、自由度が高いドライブがおすすめ。見覚えがある風景や名前がつけられた木々も多く、写真映えする景色を楽しみながらドライブができます。では早速、気ままな美瑛の丘ドライブにでかけましょう。",
+    "c_ap_Tags": [
+      "絶景",
+      "美瑛",
+      "パノラマ"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "夫婦旅",
+      "記念旅行",
+      "自然・山",
+      "ドライブ"
+    ],
+    "c_ap_Title": "まるでヨーロッパの大平原。日本離れしたスケールの風景と出合う【北海道　美瑛の丘】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "思うように海外旅行に行けなくなったいま、日本離れしたスケールを感じたいときにおすすめなのが美瑛の丘です。その雄大な風景は、テレビドラマや数々のCMの舞台になっており、それぞれの風景が観光名所にもなっています。…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "まるでヨーロッパの大平原。日本離れしたスケールの風景と出合う【北海道　美瑛の丘】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_s_hirota001_005",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "まるでヨーロッパの大平原。日本離れしたスケールの風景と出合う【北海道　美瑛の丘】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

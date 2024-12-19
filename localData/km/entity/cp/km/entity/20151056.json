@@ -1,0 +1,86 @@
+{
+  "$id": "cp_20151056",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "愛知県",
+    "c_cp_CTA1": {
+      "label": "村中 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVfV_2e",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVeixc",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "ビーチでのんびりしたり、シュノーケルをしたり、自然を満喫する旅が大好きです。特に沖縄へは離島含めて10回以上訪れています。リゾートへの家族旅行などお気軽にご相談ください。精一杯お手伝いをさせていただきます。",
+    "c_cp_DisplayName": "村中",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "クルーズ",
+      "温泉・立ち寄り湯"
+    ],
+    "c_cp_GeneralInfo": [
+      "資格：総合旅行業務取扱管理者、クルーズアドバイザーコンサルタント"
+    ],
+    "c_cp_HiraganaName": "むらなか",
+    "c_cp_JobTitle": "JTBイオン豊川店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 958,
+      "sourceUrl": "https://a.mktgcdn.com/p/6FymT0H_6TO1kl11f-NquVs2RBzVBMXNwgdyrdPsuTc/960x958.jpg",
+      "thumbnails": [
+        {
+          "height": 958,
+          "url": "https://a.mktgcdn.com/p-sandbox/USStMCpVBPUPIKt6TrdhrR62RSTZcggadUF_ZxuHHzI/960x958.jpg",
+          "width": 960
+        },
+        {
+          "height": 618,
+          "url": "https://a.mktgcdn.com/p-sandbox/USStMCpVBPUPIKt6TrdhrR62RSTZcggadUF_ZxuHHzI/619x618.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/USStMCpVBPUPIKt6TrdhrR62RSTZcggadUF_ZxuHHzI/451x450.jpg",
+          "width": 451
+        },
+        {
+          "height": 196,
+          "url": "https://a.mktgcdn.com/p-sandbox/USStMCpVBPUPIKt6TrdhrR62RSTZcggadUF_ZxuHHzI/196x196.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/USStMCpVBPUPIKt6TrdhrR62RSTZcggadUF_ZxuHHzI/960x958.jpg",
+      "width": 960
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム",
+      "パラオ"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "中部全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "三重県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 村中",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 村中",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_20151056",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2024/02/27　JBX対応（リテール外転出→日付不明）",
+    "name": "むらなか まゆみ_20151056",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

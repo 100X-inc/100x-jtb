@@ -1,0 +1,406 @@
+{
+  "$id": "ap_area_0000026",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "国内有数の中華街がある横浜は、江戸時代末期の横浜港開港を機に発展しました。異国情緒が漂う街並みでは、オーダー式の食べ放題や飲茶、気軽に立ち寄れるテイクアウトなど楽しみ方が自由自在。グルメだけでなくお土産ショップも充実しているので、かわいいチャイナ雑貨に出会えるかも。",
+        "image": {
+          "alternateText": "眼下にはローズガーデンが広がる",
+          "height": 2592,
+          "sourceUrl": "https://a.mktgcdn.com/p/9PixQlgPYRTOQ8Z0l-JG-ItpR4t2CEvmclECPhj3bEw/3872x2592.jpg",
+          "thumbnails": [
+            {
+              "height": 2592,
+              "url": "https://a.mktgcdn.com/p-sandbox/9PixQlgPYRTOQ8Z0l-JG-ItpR4t2CEvmclECPhj3bEw/3872x2592.jpg",
+              "width": 3872
+            },
+            {
+              "height": 1272,
+              "url": "https://a.mktgcdn.com/p-sandbox/9PixQlgPYRTOQ8Z0l-JG-ItpR4t2CEvmclECPhj3bEw/1900x1272.jpg",
+              "width": 1900
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/9PixQlgPYRTOQ8Z0l-JG-ItpR4t2CEvmclECPhj3bEw/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 402,
+              "url": "https://a.mktgcdn.com/p-sandbox/9PixQlgPYRTOQ8Z0l-JG-ItpR4t2CEvmclECPhj3bEw/600x402.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/9PixQlgPYRTOQ8Z0l-JG-ItpR4t2CEvmclECPhj3bEw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9PixQlgPYRTOQ8Z0l-JG-ItpR4t2CEvmclECPhj3bEw/3872x2592.jpg",
+          "width": 3872
+        },
+        "imageCaption": "横浜中華街の玄関口「善隣門」 写真提供：横浜中華街発展会協同組合Ⓒ薬袋勝代",
+        "sectionTitle": "異国情緒あふれる「横浜中華街」で腹ごしらえ（1日目11：00）"
+      },
+      {
+        "description": "「横浜中華街」のグルメを堪能したら、腹ごなしに少し歩いて「港の見える丘公園」へ。名前の通り横浜港を見下ろす高台に位置しており、展望台からは横浜ベイブリッジなど横浜の景色がバッチリ見えます。園内は四季を通してバラなどの草木が彩りを添えているので、リフレッシュには最適。中華街とは一味違った異国情緒を味わえる「山手十番館」は公園からのアクセスが抜群です。",
+        "image": {
+          "alternateText": "眼下にはローズガーデンが広がる",
+          "height": 1630,
+          "sourceUrl": "https://a.mktgcdn.com/p/fRcS-yd6oX1EzBwarN0-2guTI8UwK8reMEgUikNc_1M/2453x1630.jpg",
+          "thumbnails": [
+            {
+              "height": 1630,
+              "url": "https://a.mktgcdn.com/p-sandbox/fRcS-yd6oX1EzBwarN0-2guTI8UwK8reMEgUikNc_1M/2453x1630.jpg",
+              "width": 2453
+            },
+            {
+              "height": 1263,
+              "url": "https://a.mktgcdn.com/p-sandbox/fRcS-yd6oX1EzBwarN0-2guTI8UwK8reMEgUikNc_1M/1900x1263.jpg",
+              "width": 1900
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/fRcS-yd6oX1EzBwarN0-2guTI8UwK8reMEgUikNc_1M/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/fRcS-yd6oX1EzBwarN0-2guTI8UwK8reMEgUikNc_1M/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/fRcS-yd6oX1EzBwarN0-2guTI8UwK8reMEgUikNc_1M/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fRcS-yd6oX1EzBwarN0-2guTI8UwK8reMEgUikNc_1M/2453x1630.jpg",
+          "width": 2453
+        },
+        "imageCaption": "眼下にはローズガーデンが広がる",
+        "sectionTitle": "「港の見える丘公園」でリフレッシュ＆ひと休み（1日目15：00）"
+      },
+      {
+        "description": "100年以上前に建てられ、現在は文化商業施設として横浜のシンボルとなっている「横浜赤レンガ倉庫」。大規模改修工事のため2022年冬ごろまで休館予定ですが、屋外での各種イベントは通常通り行われているとのこと。世界各国のグルメが集結する夏季限定のフードマーケットをはじめ、横浜の地ならではのイベントが盛りだくさんです。旅行のスケジュールを立てる際には、赤レンガ倉庫のイベントもチェックしてみてください。",
+        "image": {
+          "alternateText": "海に面する広場「赤レンガパーク」が隣接 ©2022 YOKOHAMA RED BRICK WAREHOUSE",
+          "height": 2064,
+          "sourceUrl": "https://a.mktgcdn.com/p/o2KmOqOkAjUkpfPYrdIwf9vTEGzKN7smQCSksXSLYQs/3031x2064.jpg",
+          "thumbnails": [
+            {
+              "height": 2064,
+              "url": "https://a.mktgcdn.com/p-sandbox/2KCYFiKoOaxA9GBjtDq0GtfYTKdNSACS1Uxv4gO4deU/3031x2064.jpg",
+              "width": 3031
+            },
+            {
+              "height": 1294,
+              "url": "https://a.mktgcdn.com/p-sandbox/2KCYFiKoOaxA9GBjtDq0GtfYTKdNSACS1Uxv4gO4deU/1900x1294.jpg",
+              "width": 1900
+            },
+            {
+              "height": 422,
+              "url": "https://a.mktgcdn.com/p-sandbox/2KCYFiKoOaxA9GBjtDq0GtfYTKdNSACS1Uxv4gO4deU/619x422.jpg",
+              "width": 619
+            },
+            {
+              "height": 409,
+              "url": "https://a.mktgcdn.com/p-sandbox/2KCYFiKoOaxA9GBjtDq0GtfYTKdNSACS1Uxv4gO4deU/600x409.jpg",
+              "width": 600
+            },
+            {
+              "height": 133,
+              "url": "https://a.mktgcdn.com/p-sandbox/2KCYFiKoOaxA9GBjtDq0GtfYTKdNSACS1Uxv4gO4deU/196x133.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2KCYFiKoOaxA9GBjtDq0GtfYTKdNSACS1Uxv4gO4deU/3031x2064.jpg",
+          "width": 3031
+        },
+        "imageCaption": "海に面する広場「赤レンガパーク」が隣接 ©2022 YOKOHAMA RED BRICK WAREHOUSE",
+        "sectionTitle": "「横浜赤レンガ倉庫」でショッピング＆グルメを満喫（1日目17：00）"
+      },
+      {
+        "description": "横浜赤レンガ倉庫でショッピングを楽しんだら、ホテルへ向かいましょう。ステイ先のおすすめは赤レンガ倉庫からほど近いみなとみらいエリアです。未来都市として開発が進むこちらの地域には洗練された内装のホテルが立ち並んでいます。ホテルの窓から横浜の海や観覧車、ベイブリッジを眺めつつ、一日目の疲れを癒しましょう。",
+        "image": {
+          "alternateText": "「八」の部分にはハトのあしらいが",
+          "height": 505,
+          "sourceUrl": "https://a.mktgcdn.com/p/TZCMTbqvdGBxZLHjJNKwF3GJhCXjkaZlXXR9TDrZ4L4/758x505.jpg",
+          "thumbnails": [
+            {
+              "height": 505,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZbOb3MfzVMdZ7jOXNV9DBD2DDM8jWZ3YnsLvSqXmdI8/758x505.jpg",
+              "width": 758
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZbOb3MfzVMdZ7jOXNV9DBD2DDM8jWZ3YnsLvSqXmdI8/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZbOb3MfzVMdZ7jOXNV9DBD2DDM8jWZ3YnsLvSqXmdI8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZbOb3MfzVMdZ7jOXNV9DBD2DDM8jWZ3YnsLvSqXmdI8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZbOb3MfzVMdZ7jOXNV9DBD2DDM8jWZ3YnsLvSqXmdI8/758x505.jpg",
+          "width": 758
+        },
+        "imageCaption": "「八」の部分にはハトのあしらいが",
+        "sectionTitle": "「鶴岡八幡宮」で800年の歴史に触れる（2日目10：00）"
+      },
+      {
+        "description": "2日目のスタートは四季折々の美しい花が咲き乱れ、一年を通じて参拝客でにぎわう「鶴岡八幡宮」。国の重要文化財に指定されている本宮は、ぜひとも訪れておきたい名所のひとつです。春は桜、秋は紅葉を楽しめるので、花を愛でながら古の都に思いを馳せてみましょう。かわいいハトのストラップが付いた人気のおみくじにチャレンジして、旅の運勢を占ってみるのもオススメです。",
+        "image": {
+          "alternateText": "四季との調和も見どころのひとつ",
+          "height": 3111,
+          "sourceUrl": "https://a.mktgcdn.com/p/2uUYaGAI9XJ_VQWGdKuAphgS1XYiRpe6u4qDbduAVVs/4666x3111.jpg",
+          "thumbnails": [
+            {
+              "height": 3111,
+              "url": "https://a.mktgcdn.com/p-sandbox/2uUYaGAI9XJ_VQWGdKuAphgS1XYiRpe6u4qDbduAVVs/4666x3111.jpg",
+              "width": 4666
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/2uUYaGAI9XJ_VQWGdKuAphgS1XYiRpe6u4qDbduAVVs/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/2uUYaGAI9XJ_VQWGdKuAphgS1XYiRpe6u4qDbduAVVs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/2uUYaGAI9XJ_VQWGdKuAphgS1XYiRpe6u4qDbduAVVs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/2uUYaGAI9XJ_VQWGdKuAphgS1XYiRpe6u4qDbduAVVs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2uUYaGAI9XJ_VQWGdKuAphgS1XYiRpe6u4qDbduAVVs/4666x3111.jpg",
+          "width": 4666
+        },
+        "imageCaption": "JR鎌倉駅東口を出ればすぐにたどり着ける",
+        "sectionTitle": "「小町通り」を歩きながら食事処・スイーツに舌鼓（2日目12：00）"
+      },
+      {
+        "description": "鎌倉駅から「鶴岡八幡宮」へと続く「小町通り」は、食事処・カフェ・土産店などでにぎわっており、鎌倉観光のメインストリートとして人気の通りです。行列を作る人気店もあるので、行きたい店は事前に目星をつけておきましょう。お店ごとに食事の際のルールが設けてあるので、必ずチェックしてから召し上がるようにしてくださいね。",
+        "image": {
+          "height": 564,
+          "sourceUrl": "https://a.mktgcdn.com/p/gyX2Lq3CyYWtBw-K1gFjziRD6CezxFAGr_d8VeVxZZk/800x564.jpg",
+          "thumbnails": [
+            {
+              "height": 564,
+              "url": "https://a.mktgcdn.com/p-sandbox/gyX2Lq3CyYWtBw-K1gFjziRD6CezxFAGr_d8VeVxZZk/800x564.jpg",
+              "width": 800
+            },
+            {
+              "height": 436,
+              "url": "https://a.mktgcdn.com/p-sandbox/gyX2Lq3CyYWtBw-K1gFjziRD6CezxFAGr_d8VeVxZZk/619x436.jpg",
+              "width": 619
+            },
+            {
+              "height": 423,
+              "url": "https://a.mktgcdn.com/p-sandbox/gyX2Lq3CyYWtBw-K1gFjziRD6CezxFAGr_d8VeVxZZk/600x423.jpg",
+              "width": 600
+            },
+            {
+              "height": 138,
+              "url": "https://a.mktgcdn.com/p-sandbox/gyX2Lq3CyYWtBw-K1gFjziRD6CezxFAGr_d8VeVxZZk/196x138.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gyX2Lq3CyYWtBw-K1gFjziRD6CezxFAGr_d8VeVxZZk/800x564.jpg",
+          "width": 800
+        },
+        "imageCaption": "四季との調和も見どころのひとつ",
+        "sectionTitle": "「鎌倉大仏殿高徳院」で高さ13ｍの大仏に圧倒される（2日目14：00）"
+      },
+      {
+        "description": "その重さは120トンを超え、高さ約13ｍにもなる圧巻の大仏が鎮座する「高徳院」で旅の締めくくり。完成当時は金箔に包まれていたともいわれている国宝指定の大仏です。ひとめ見ただけでグッと心を掴まれるのは、巨大なだけでなく美しさも秘めているからでしょうか。鼻から眉への曲線や微笑を含ませた口元など、ジッと観察することで新しい魅力が見えてくるかもしれません。",
+        "image": {
+          "height": 651,
+          "sourceUrl": "https://a.mktgcdn.com/p/TM0b4tGjNWwj2lDG5gTlUEp1fMJQzxuJGggwdP4sITk/979x651.jpg",
+          "thumbnails": [
+            {
+              "height": 651,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y6JAlUxOGZ5gP35FQv5TOzVZd59d2pG97L_wxuTgXJc/979x651.jpg",
+              "width": 979
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y6JAlUxOGZ5gP35FQv5TOzVZd59d2pG97L_wxuTgXJc/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y6JAlUxOGZ5gP35FQv5TOzVZd59d2pG97L_wxuTgXJc/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y6JAlUxOGZ5gP35FQv5TOzVZd59d2pG97L_wxuTgXJc/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Y6JAlUxOGZ5gP35FQv5TOzVZd59d2pG97L_wxuTgXJc/979x651.jpg",
+          "width": 979
+        },
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      },
+      {
+        "description": "●合わせて読みたい神奈川県の観光情報▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_area_0000025\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e【神奈川県】異国情緒あふれる横浜から古都・鎌倉まで！さまざまな国と時代が混ざり合う神奈川の見どころ4エリア紹介！\u003c/a\u003e\u003c/span\u003e▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_area_0000027\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e【神奈川県】鎌倉を代表する観光スポット・鶴岡八幡宮の巡り方\u003c/a\u003e\u003c/span\u003e"
+      }
+    ],
+    "c_ap_DatePosted": "2022-08-20",
+    "c_ap_HeroImage": {
+      "alternateText": "【神奈川県_横浜・鎌倉】神奈川の定番スポットを押さえた王道の一泊二日モデルコース",
+      "height": 2800,
+      "sourceUrl": "https://a.mktgcdn.com/p/C4Fl5kbr-4cpeeoJOynpAaE4RzYktbEsKDqY9mQkNwQ/4200x2800.jpg",
+      "thumbnails": [
+        {
+          "height": 2800,
+          "url": "https://a.mktgcdn.com/p-sandbox/C4Fl5kbr-4cpeeoJOynpAaE4RzYktbEsKDqY9mQkNwQ/4200x2800.jpg",
+          "width": 4200
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/C4Fl5kbr-4cpeeoJOynpAaE4RzYktbEsKDqY9mQkNwQ/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/C4Fl5kbr-4cpeeoJOynpAaE4RzYktbEsKDqY9mQkNwQ/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/C4Fl5kbr-4cpeeoJOynpAaE4RzYktbEsKDqY9mQkNwQ/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/C4Fl5kbr-4cpeeoJOynpAaE4RzYktbEsKDqY9mQkNwQ/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/C4Fl5kbr-4cpeeoJOynpAaE4RzYktbEsKDqY9mQkNwQ/4200x2800.jpg",
+      "width": 4200
+    },
+    "c_ap_LinkArticleSectionTitle": "神奈川県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "神奈川県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/kanagawa/"
+      },
+      {
+        "linkText": "神奈川旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/kanagawa/"
+      },
+      {
+        "linkText": "『温泉のある宿』 神奈川県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/kanagawa/feature/k_onsen/"
+      },
+      {
+        "linkText": "横浜のホテル・旅館・宿おすすめランキング",
+        "uRL": "https://www.jtb.co.jp/ranking/kokunai/yokohama/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "関東全般",
+      "神奈川県"
+    ],
+    "c_ap_ShortDescription": "神奈川観光でぜひとも訪れたい「横浜」「鎌倉」をメインにした鉄板のモデルコースをご紹介！豊かな異国情緒に触れる「横浜中華街」や、古の日本を肌で感じられる「鶴岡八幡宮」など、離れた時代や遠くの国にいる様な気分になれるスポットが目白押し。神奈川県の魅力を詰め込んだ良い所取りプランです。",
+    "c_ap_Tags": [
+      "横浜",
+      "中華街",
+      "鎌倉",
+      "モデルプラン"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "自然・山",
+      "寺社・教会",
+      "建築・史跡",
+      "歴史・地理",
+      "動植物園・公園",
+      "街あるき",
+      "グルメ"
+    ],
+    "c_ap_Title": "神奈川の定番スポットを押さえた王道の一泊二日モデルコース【神奈川県　横浜・鎌倉】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "神奈川観光でぜひとも訪れたい「横浜」「鎌倉」をメインにした鉄板のモデルコースをご紹介！豊かな異国情緒に触れる「横浜中華街」や、古の日本を肌で感じられる「鶴岡八幡宮」など、離れた時代や遠くの国にいる様な気分にな…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "【神奈川県_横浜・鎌倉】神奈川の定番スポットを押さえた王道の一泊二日モデルコース | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_area_0000026",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "関東全般, 神奈川県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "【神奈川県_横浜・鎌倉】神奈川の定番スポットを押さえた王道の一泊二日モデルコース",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

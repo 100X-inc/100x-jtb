@@ -1,0 +1,333 @@
+{
+  "$id": "news_web_kaigai_0010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 2000,
+      "sourceUrl": "https://a.mktgcdn.com/p/CMb4BAnc3xeGMaccVNNS0iYoEhTZXbq8ZidGw8U-fUM/3000x2000.jpg",
+      "thumbnails": [
+        {
+          "height": 2000,
+          "url": "https://a.mktgcdn.com/p-sandbox/CMb4BAnc3xeGMaccVNNS0iYoEhTZXbq8ZidGw8U-fUM/3000x2000.jpg",
+          "width": 3000
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/CMb4BAnc3xeGMaccVNNS0iYoEhTZXbq8ZidGw8U-fUM/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/CMb4BAnc3xeGMaccVNNS0iYoEhTZXbq8ZidGw8U-fUM/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/CMb4BAnc3xeGMaccVNNS0iYoEhTZXbq8ZidGw8U-fUM/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/CMb4BAnc3xeGMaccVNNS0iYoEhTZXbq8ZidGw8U-fUM/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/CMb4BAnc3xeGMaccVNNS0iYoEhTZXbq8ZidGw8U-fUM/3000x2000.jpg",
+      "width": 3000
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ハワイ旅行・ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hawaii/"
+      },
+      {
+        "linkText": "ルックJTBならではのサービスをみる",
+        "uRL": "https://www.jtb.co.jp/lookjtb/service/hawaii/index.asp"
+      },
+      {
+        "linkText": "ハワイのおすすめホテルをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/"
+      },
+      {
+        "linkText": "現地オプショナルツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/bH1/"
+      },
+      {
+        "linkText": "子連れ家族におすすめの海外旅行をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/theme/family/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "美しい海とビーチ。ラグジュアリーなホテルと数々のグルメフード、そしてショッピング。ハワイは私たちにとって憧れの楽園です。そしてハワイは子連れ海外旅行の旅先としても、とても人気があります。子連れでハワイ旅行を楽しむためのポイントをまとめました。",
+    "c_ap_Tags": [
+      "アクティビティ",
+      "ハワイおすすめ",
+      "ビーチリゾート",
+      "子連れ",
+      "家族旅行",
+      "持ち物",
+      "海外のホテル",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "子連れハワイ旅行はこれで万全！ホテル・持ち物・楽しみ方完全ガイド",
+    "c_linkedArea3News": [
+      "hawaii"
+    ],
+    "c_metaDescription": "ハワイは子連れ海外旅行の旅先としても、大人気！子連れでハワイ旅行を楽しむためのポイントをまとめました。美しい海とビーチ。ラグジュアリーなホテルと数々のグルメフード、そしてショッピング。ハワイは私たちにとって憧れの楽園です！",
+    "c_metaTitle": "子連れハワイ旅行はこれで万全！ホテル・持ち物・楽しみ方完全ガイド",
+    "c_news_CTAs": [
+      {
+        "label": "ハワイ旅行・ツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/hawaii/",
+        "linkType": "URL"
+      },
+      {
+        "label": "ハワイのおすすめホテル特集",
+        "link": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/",
+        "linkType": "URL"
+      },
+      {
+        "label": "子連れ家族におすすめの海外旅行をみる",
+        "link": "https://www.jtb.co.jp/kaigai/theme/family/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ルックJTBMySTYLEの詳細をみる",
+          "link": "https://www.jtb.co.jp/lookjtb/service/hawaii/index.asp",
+          "linkType": "URL"
+        },
+        "description": "ハワイ旅行の経験があっても、子連れハワイ旅行はルックJTBMySTYLEがおすすめです。\u003cspan style\u003d\"color: #3498db;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dept\u003dTYO\u0026sc.dest%5B0%5D.country\u003dH1\u0026sc.dest%5B0%5D.city\u003dHNL\"\u003eルックJTBMySTYLE\u003c/a\u003e\u003c/span\u003eでは、空港ホテル間の送迎やワイキキ周辺巡回トロリー乗車券のサービス、対象ホテル宿泊者の専用ラウンジ、さらに滞在中は24時間日本語で対応してくれるコールセンターなど、さまざまなサービスやサポートがあります。何かと不安が多い子連れ旅行も、安心して出かけることができるでしょう。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/UOVLW-LqWsrBu6tDJ-Ft1GYD5Any1ZmaMSWrA7Z2lpg/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/UOVLW-LqWsrBu6tDJ-Ft1GYD5Any1ZmaMSWrA7Z2lpg/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/UOVLW-LqWsrBu6tDJ-Ft1GYD5Any1ZmaMSWrA7Z2lpg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/UOVLW-LqWsrBu6tDJ-Ft1GYD5Any1ZmaMSWrA7Z2lpg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/UOVLW-LqWsrBu6tDJ-Ft1GYD5Any1ZmaMSWrA7Z2lpg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/UOVLW-LqWsrBu6tDJ-Ft1GYD5Any1ZmaMSWrA7Z2lpg/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "1．おすすめ！子連れハワイ旅行のツアーやホテルの選び方"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイのホテルを選ぶ",
+          "link": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/#sec-kids",
+          "linkType": "URL"
+        },
+        "description": "子連れハワイ旅行を快適に楽しむためにはホテル選びも重要です。乳幼児を連れている場合はホテルを中心にのんびり過ごしたいという方も多いかと思いますので、ビーチに近く、広いプールがあり、アクティビティが充実しているホテルが人気です。例えば「\u003cspan style\u003d\"color: #3498db;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kaigai/area/hawaii/hotel/hilton-hawaiian-village/\"\u003eヒルトン・ハワイアン・ビレッジ・ワイキキ・ビーチ・リゾート\u003c/a\u003e\u003c/span\u003e」の「パラダイスプール」には、2つの温水プールとスパ、4つのウォータースライダーがあり、子供も大人も1日では遊びきれないほどです。また「\u003cspan style\u003d\"color: #3498db;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kaigai/area/hawaii/hotel/sheraton-waikiki-resort/\"\u003eシェラトン・ワイキキ\u003c/a\u003e\u003c/span\u003e」の託児ルーム「ポピンズ・ケイキ・ハワイ」は、日本での保育実績を持つ日系企業が運営しており、バイリンガルスタッフに安心して預けることができます。さらに、ホテルによってはお子様の食事が割引になるサービスを実施しているレストランもありますので、宿泊するホテルのレストラン情報は事前に確認しておきましょう。そして子連れだからこそ、ホテルの客室もしっかり選びましょう。ホテルによっては、18歳未満の子供まで添い寝無料というホテルもあります。赤ちゃん連れなら家族みんなで一緒に眠れるキングサイズのベッドのお部屋、小学生以上の子供ならダブルベッドやソファーベッドのお部屋がおすすめです。寝相の悪い子供なら、ベッドを2つ繋げられるハリウッドツインのお部屋を選んでみてはいかがでしょうか。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/zjPkN3niNBbQrtImkoU1Hr1dyvACNKyNkSpMA3u3aYw/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/zjPkN3niNBbQrtImkoU1Hr1dyvACNKyNkSpMA3u3aYw/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/zjPkN3niNBbQrtImkoU1Hr1dyvACNKyNkSpMA3u3aYw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/zjPkN3niNBbQrtImkoU1Hr1dyvACNKyNkSpMA3u3aYw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/zjPkN3niNBbQrtImkoU1Hr1dyvACNKyNkSpMA3u3aYw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zjPkN3niNBbQrtImkoU1Hr1dyvACNKyNkSpMA3u3aYw/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "子連れハワイ旅行はパッケージツアーが安心"
+      },
+      {
+        "cTA1": {
+          "label": "子連れ家族におすすめの海外旅行をみる",
+          "link": "https://www.jtb.co.jp/kaigai/theme/family/",
+          "linkType": "URL"
+        },
+        "description": "次に各航空会社の子連れ向けサービスをチェックしましょう。紙おむつは事前に予約できる航空会社もあります。ただし、数やサイズなどに限りがありますので、事前に確認しておきましょう。また航空会社によっては、粉ミルク用のお湯を機内で用意してもらえる場合があり、必要であればミルク作りのお手伝いをしてもらえます。機内で、2歳未満（体重制限あり）が利用できるバシネット(ベビーベッド）の貸出や、ベビーミールやチャイルドミールを希望する場合も事前に予約が必要です。お子様向けのプレゼント（おもちゃやゲーム）を用意している航空会社もあります。数に限りはありますが、いただけたらお子様も喜びますし、旅のいい記念にもなりますね。また、旅先での万が一のことも考えて、海外旅行保険には必ず加入しておきましょう。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/QMTXNflEeGPvleNRRtoTxiMU5lUKP2utqMIM2jRfv2w/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/QMTXNflEeGPvleNRRtoTxiMU5lUKP2utqMIM2jRfv2w/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/QMTXNflEeGPvleNRRtoTxiMU5lUKP2utqMIM2jRfv2w/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/QMTXNflEeGPvleNRRtoTxiMU5lUKP2utqMIM2jRfv2w/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/QMTXNflEeGPvleNRRtoTxiMU5lUKP2utqMIM2jRfv2w/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QMTXNflEeGPvleNRRtoTxiMU5lUKP2utqMIM2jRfv2w/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "お子様向けサービスが充実したホテル選びを"
+      },
+      {
+        "description": "子連れハワイ旅行の準備の第一歩は持ち物リストの作成です。まず必需品はお子様用の日焼け止め。現地にもたくさんありますが、日本のものとは成分が違うので肌が敏感なお子様はかぶれる場合があります。同様にお尻拭きシートや紙おむつなど、肌に直接触れるものは使い慣れたものを持って行った方が無難です。また大半のホテルではパジャマは用意されていないので、大人も子供もパジャマや部屋着が必要です。帽子、水着、ビーチサンダルなどは現地で、ハワイらしいものを調達できますが、着いてすぐ遊べるように最低１着（1足）は持参しましょう。粉ミルクやベビーフードは現地で調達可能ですが、飲み（食べ）慣れたものならお子様がぐずる前に準備でき、体調管理もしやすいでしょう。なおアメリカでは、食肉や肉エキス入の食品の持ち込みが規制されているので、ベビーフードを持ち込む際は注意が必要です。",
+        "image": {
+          "height": 682,
+          "sourceUrl": "https://a.mktgcdn.com/p/473M55yMR4yMKJakcyUUwmYUECLQ-RWTMV5tgIbaxcQ/1024x682.jpg",
+          "thumbnails": [
+            {
+              "height": 682,
+              "url": "https://a.mktgcdn.com/p-sandbox/473M55yMR4yMKJakcyUUwmYUECLQ-RWTMV5tgIbaxcQ/1024x682.jpg",
+              "width": 1024
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/473M55yMR4yMKJakcyUUwmYUECLQ-RWTMV5tgIbaxcQ/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/473M55yMR4yMKJakcyUUwmYUECLQ-RWTMV5tgIbaxcQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/473M55yMR4yMKJakcyUUwmYUECLQ-RWTMV5tgIbaxcQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/473M55yMR4yMKJakcyUUwmYUECLQ-RWTMV5tgIbaxcQ/1024x682.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "航空会社のサービスもしっかりチェック！"
+      },
+      {
+        "description": "子連れハワイ旅行の“隠れた必需品”と言えば洗濯ばさみの付いた小型の洗濯ピンチ。濡れた水着はもちろん、あっという間に溜まるちょっとした洗濯物を乾かすのに大活躍します。そして意外と忘れがちなのが水筒。日本のようにどこにでも自動販売機があるわけではないので、暑いハワイでの外出時には必携です。ただ、飛行機に搭乗する際には中身を空にした状態で持ち込む必要があります。また、ハワイではおしぼりが出てこないので、ウエットティッシュもあると便利です。一方、浮き輪などのビーチグッズや、バケツとシャベルなど砂場遊びのセットは現地調達で十分です。お子様が気に入ったらお土産にもなります。その他、常備薬はもちろん、虫よけ、虫刺され薬、下痢止め、酔い止め、絆創膏、体温計があれば安心です。",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．持ち物リストを作ろう！子連れ旅行はとにかく準備が命！"
+      },
+      {
+        "description": "\u003cspan style\u003d\"font-weight: bold\"\u003e▼乳幼児の持ち物リスト一例\u003c/span\u003e哺乳瓶ミルク紙おむつおしりふき水筒おしゃぶり抱っこ紐・スリング洗濯ピンチおもちゃ離乳食母子手帳（コピー）ビニール袋（多めに)　※使用済みのおむつや汚れた衣類を入れたりする普段使用しているスプーンやフォーク紙タイプのエプロン麦茶のパック赤ちゃん用の爪切り使い慣れた日焼け止め授乳ケープ（母乳の場合）スキンケア用品やシャンプーなどの赤ちゃん用アメニティ虫除けスプレーおでこに貼る冷却シートサングラス常備薬\u003cspan style\u003d\"font-weight: bold\"\u003e▼未就学児の持ち物リスト一例\u003c/span\u003e子供用の歯ブラシ＆歯磨き粉耳栓色鉛筆やノートトランプのようなカードゲーム使い慣れた日焼け止め虫除けスプレーおでこに貼る冷却シート粉末のスポーツ飲料サングラスゲームやタブレット（移動中の時間つぶし）ふりかけ常備薬",
+        "sectionLevel": "h3",
+        "sectionTitle": "子連れ旅行の準備は持ち物リストの作成から"
+      },
+      {
+        "description": "お子様がとびっきりの笑顔を見せてくれるのが、子連れハワイ旅行の醍醐味です。まだ小さな赤ちゃんでも楽しめる場所のひとつが\u003cspan style\u003d\"color: #3498db;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kaigai_guide/hawaii/the_united_states_of_america/HNL/100791/index.html\"\u003eシーライフパーク\u003c/a\u003e\u003c/span\u003e。「水槽のヘリから手を出してイルカにタッチ」「イルカの様子を見学」「水着不要」という『\u003cspan style\u003d\"color: #3498db;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/bH1/cHNL/?keyWord\u003d%25E3%2583%2589%25E3%2583%25AB%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25B3%25E3%2583%25BB%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%258F\"\u003eドルフィン・アロハ\u003c/a\u003e\u003c/span\u003e』というプランなら1歳から参加でき3歳まで無料。ワイキキから車で30分程度、送迎付きのツアーもあります。もうひとつは\u003cspan style\u003d\"color: #3498db;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kaigai_guide/hawaii/the_united_states_of_america/HNL/100763/index.html\"\u003eホノルル動物園\u003c/a\u003e\u003c/span\u003eの中の「ケイキ・ズー（子供動物園）」です。ケイキ・ズーは、子供の目線に合わせて柵が低めに設定されており、ニワトリや仔ヤギがいる柵内に子供が入って触れ合うこともできます。ホノルル動物園は上野公園と同じくらいの広さがあり、幼児から大人までたっぷりと1日遊べるスポットです。",
+        "sectionLevel": "h3",
+        "sectionTitle": "持ち物リストに追加したいおすすめの便利グッズをご紹介"
+      },
+      {
+        "description": "天気が悪い日に遊べる屋内スポットとしては「\u003cspan style\u003d\"color: #3498db;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kaigai_guide/hawaii/the_united_states_of_america/HNL/100777/index.html\"\u003eハワイ・チルドレンズ・ディスカバリー・センター\u003c/a\u003e\u003c/span\u003e」が人気です。こちらは職業体験やアート、エコ、異文化を学びながら楽しめる屋内プレイエリアです。室内でのびのびと遊べる「レインフォレスト・アドベンチャー」には3歳までの子供たちが遊べるプレイエリアが併設されているので、同じ施設の中で、よちよち歩きの小さなお子様から小学生のお子様まで、楽しむことができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "持ち物リスト一例"
+      },
+      {
+        "description": "食事はホテルのビュッフェやカフェ、フードコートなど、手軽で簡単に食べられるものが充実していますが、レストランでゆっくり食べたいという方は、事前に子連れでも入りやすいレストランを調べておくことをおすすめします。子連れでも入りやすいレストランはホテル周辺のほか、インターナショナルマーケットプレイスやアラモアナセンターなど観光客が立ち寄るエリアに比較的多いので、その日のプランに合わせて選びましょう。あらかじめ予約しておけば行列に並ぶ必要もありません。たまたま見つけた店に入る場合は、キッズメニューやハイチェアの有無を聞いてみましょう。とはいえ疲れていたり、子供がぐずったりする時はホテルの部屋でルームサービスやテイクアウトを上手に利用するのも一案です。",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．子供の笑顔がいちばん！子連れで楽しめるハワイのおすすめスポット＆アクティビティ"
+      },
+      {
+        "description": "子連れハワイ旅行で知っておくべき注意点をまとめてみました。",
+        "sectionLevel": "h3",
+        "sectionTitle": "動物と触れ合えばお子様もにっこり笑顔に"
+      },
+      {
+        "description": "離着陸時、気圧の変化により耳が詰まる感覚は、小さなお子様が大泣きする原因になります。対策としては飲み物を飲ませる、おしゃぶりをくわえさせるなどが有効といわれています。もう少し大きなお子様ならキャンディやガムなどを用意しましょう。冷房対策やお昼寝に対応できる薄手の大判タオルもあると便利です。またできるだけトイレに近い席を選び、着席する際は周囲に一言挨拶をするなど気配りも忘れずに。粉ミルクの調乳など、キャビンアテンダントにお願いがある時は早めに伝えておきましょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "屋内プレイエリアなら雨の日でも楽しめます"
+      },
+      {
+        "description": "アメリカでは基本的に授乳室というものがなく、ほとんどの人はケープを使って授乳しています。ただアラモアナセンターの「ニーマン・マーカス」「ブルーミングデールズ」などの女性トイレにはソファが置かれたスペースがあり、ゆったりと授乳できます。通常のショッピングセンターのファミリートイレ、女性トイレにはオムツ替え用の台があるので、大きめのタオルなど敷けば問題なく利用できるでしょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "子連れの食事は事前に調べておくと安心！"
+      },
+      {
+        "description": "ワイキキには旅行者向けの緊急対応クリニックや日本語が通じる医療機関があり、設備も整っています。ただし日本と比べて医療費は高額なので、海外旅行保険には必ず加入しておきましょう。体調を崩した時はまずホテルのフロントへ。救急用の薬で対処して様子を見て、症状が回復しない場合は無理せず病院へ連絡を入れます。旅行会社の現地サポートデスク、24時間対応のコールセンターなど、不安がある時にすぐ日本語で相談できる体制があれば安心です。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．子連れハワイ旅行で知っておくべき４つの注意点"
+      },
+      {
+        "description": "子連れハワイ旅行は事前準備を入念に、「持ち物リスト」のほか、現地で利用できるサービスの確認、予約、連絡先などもリスト化しておくと、いざという時にあわてず対処できます。そして、ゆったりとした余裕のあるスケジュールを組んでおくことも大切です。ハワイはホテル、レストラン、ショッピングセンターなど街の便利さと、常夏の島の美しい大自然が一体化している魅力的な場所です。さまざまな場面で日本語が通じる安心感があり、日本食やお米を使った料理が身近なのもハワイならでは。情報収集や事前準備をしっかり行って、充実した子連れハワイ旅行を楽しんでください。",
+        "sectionLevel": "h3",
+        "sectionTitle": "飛行機の中"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "ハワイでの授乳・オムツ事情"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "子供の体調が急変した時は？"
+      },
+      {
+        "sectionLevel": "h2",
+        "sectionTitle": "5．子連れでのハワイ家族旅行は準備万端で楽しんで！"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0005",
+      "news_web_kaigai_0008",
+      "news_web_kaigai_0006"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2019-07-03",
+    "c_news_UpdateDate": "2024-07-05",
+    "c_news_ViewCount": "2670",
+    "c_news_ViewCount2of2": "2670",
+    "c_news_ViewCountNum": "2670",
+    "c_news_ViewCountNumForSorting": "157",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_web_kaigai_0010",
+    "c_relatedAreas": [
+      "hawaii"
+    ],
+    "name": "子連れハワイ旅行はこれで万全！ホテル・持ち物・楽しみ方完全ガイド",
+    "slug": "kaigai/beach_resort/hawaii/news_web_kaigai_0010",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

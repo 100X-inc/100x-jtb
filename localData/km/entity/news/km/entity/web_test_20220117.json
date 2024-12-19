@@ -1,0 +1,125 @@
+{
+  "$id": "news_web_test_20220117",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "投稿者の名前",
+      "link": "https://consultants.jtb.co.jp/cp_m_takasawa518",
+      "linkType": "URL"
+    },
+    "c_ap_HeroImage": {
+      "height": 750,
+      "sourceUrl": "http://a.mktgcdn.com/p/6x6oVJCPzDM3nLSm-jGaNwParROTI65Y4FljqeqlID4/1035x750.jpg",
+      "thumbnails": [
+        {
+          "height": 750,
+          "url": "//a.mktgcdn.com/p-sandbox/6x6oVJCPzDM3nLSm-jGaNwParROTI65Y4FljqeqlID4/1035x750.jpg",
+          "width": 1035
+        },
+        {
+          "height": 449,
+          "url": "//a.mktgcdn.com/p-sandbox/6x6oVJCPzDM3nLSm-jGaNwParROTI65Y4FljqeqlID4/619x449.jpg",
+          "width": 619
+        },
+        {
+          "height": 435,
+          "url": "//a.mktgcdn.com/p-sandbox/6x6oVJCPzDM3nLSm-jGaNwParROTI65Y4FljqeqlID4/600x435.jpg",
+          "width": 600
+        },
+        {
+          "height": 142,
+          "url": "//a.mktgcdn.com/p-sandbox/6x6oVJCPzDM3nLSm-jGaNwParROTI65Y4FljqeqlID4/196x142.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/6x6oVJCPzDM3nLSm-jGaNwParROTI65Y4FljqeqlID4/1035x750.jpg",
+      "width": 1035
+    },
+    "c_ap_HeroImageCaption": "ここはメイン画像のキャプションです",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": false,
+    "c_ap_ShortDescription": "ここは記事のdescriptionです\n\nあああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ\n\nいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいい",
+    "c_ap_Tags": [
+      "テスト",
+      "記事",
+      "おすすめ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "記事テスト用～ここは記事のタイトルです～",
+    "c_linkedArea3News": [
+      "test_kaigai_others_level3",
+      "test_kokunai_level3_2"
+    ],
+    "c_metaDescription": "ここは記事のdescriptionです\n\nあああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ\n\nいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいい",
+    "c_metaTitle": "JTB | おすすめの旅 | 記事テスト用～ここは記事のタイトルです～",
+    "c_news_CTAs": [
+      {
+        "label": "description下部のリンクボタン",
+        "link": "https://www.jtb.co.jp/fukuharu/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "記事内の見出し1に対応する本文ああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいい▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai_hotel/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e国内宿泊検索ページはこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/krMqb0a2kk0_MQhVEUax1nJQ7avmT1I2Ul5rZOL3Xfw/600x450.png",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/krMqb0a2kk0_MQhVEUax1nJQ7avmT1I2Ul5rZOL3Xfw/600x450.png",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/krMqb0a2kk0_MQhVEUax1nJQ7avmT1I2Ul5rZOL3Xfw/196x147.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/krMqb0a2kk0_MQhVEUax1nJQ7avmT1I2Ul5rZOL3Xfw/600x450.png",
+          "width": 600
+        },
+        "imageCaption": "画像のキャプション",
+        "sectionTitle": "見出し1"
+      },
+      {
+        "description": "見出し2の本文ううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううえええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええ",
+        "sectionTitle": "見出し2"
+      },
+      {
+        "description": "見出し3の本文～見出し+画像+キャプション+本文のうち、どれかを省いてもOKです。省いた部分は上に詰められて表示されますので、例えば同じ見出し内に画像を複数掲載したい場合は、・まず「見出し+画像」のセットでセクションを作り、その後に「見出しなし＋画像+本文」のセットでセクションを作ると、見出し→画像1→画像2→本文　の順に上から表示されます",
+        "sectionTitle": "見出し3"
+      },
+      {
+        "description": "----------------------------------------------※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_chiki_100010",
+      "news_ap_h_takeuchi111_101",
+      "news_ap_h_takeuchi111_005"
+    ],
+    "c_news_FeaturedArticlesTitle": "関連記事",
+    "c_news_PublicationDate": "2022-01-17",
+    "c_news_UpdateDate": "2022-01-17",
+    "c_news_ViewCount": "0",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/test_kaigai/test_kaigai_others_level2/test_kaigai_others_level3/news_web_test_20220117",
+    "name": "Web販売部_記事テスト用",
+    "slug": "test_kaigai/test_kaigai_others_level2/test_kaigai_others_level3/news_web_test_20220117",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

@@ -1,0 +1,392 @@
+{
+  "$id": "news_ap_osarea_0000041",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 加川香菜子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "明洞",
+      "height": 236,
+      "sourceUrl": "https://a.mktgcdn.com/p/ZfnhDrXSp8oU2iqC9IHkpKaNhEraTRjF8iMn7Rdv5js/354x236.jpg",
+      "thumbnails": [
+        {
+          "height": 236,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZfnhDrXSp8oU2iqC9IHkpKaNhEraTRjF8iMn7Rdv5js/354x236.jpg",
+          "width": 354
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZfnhDrXSp8oU2iqC9IHkpKaNhEraTRjF8iMn7Rdv5js/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ZfnhDrXSp8oU2iqC9IHkpKaNhEraTRjF8iMn7Rdv5js/354x236.jpg",
+      "width": 354
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "韓国旅行・ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/korea/"
+      },
+      {
+        "linkText": "韓国の現地オプショナルツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bKR/"
+      },
+      {
+        "linkText": "ソウル行きの航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/asia/korea/seoul/"
+      },
+      {
+        "linkText": "ソウルの人気ホテルランキングを見る",
+        "uRL": "https://www.jtb.co.jp/ovs_htl_static/promotion/ranking/country/SEL/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "賑やかなショッピングエリアや若者であふれる学生街など、個性あふれるエリアが点在するソウル。最近注目のトレンドタウンも合わせ、それぞれの特徴をご紹介します。旅行前に頭に入れておくと、街歩きもスムーズに！（写真：明洞）",
+    "c_ap_Tags": [
+      "ソウル",
+      "最新トレンド",
+      "人気エリア",
+      "街歩き",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ",
+      "建築・史跡",
+      "街あるき",
+      "グルメ",
+      "ショッピング",
+      "カフェ",
+      "ご当地グルメ",
+      "おみやげ",
+      "伝統工芸・民芸"
+    ],
+    "c_ap_Title": "ソウルの繁華街ってどこ？韓国観光で欠かせない有名エリアをチェック",
+    "c_linkedArea3News": [
+      "korea"
+    ],
+    "c_metaDescription": "賑やかなショッピングエリアや若者であふれる学生街など、個性あふれるエリアが点在するソウル。最近注目のトレンドタウンも合わせ、それぞれの特徴をご紹介します。旅行前に頭に入れておくと、街歩きもスムーズに！（写真：明洞）",
+    "c_metaTitle": "ソウルの繁華街ってどこ？韓国観光で欠かせない有名エリアをチェック",
+    "c_news_CTAs": [
+      {
+        "label": "韓国旅行・ツアーを探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/korea/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "ソウル行きの航空券を探す",
+        "link": "https://www.jtb.co.jp/ovs_air_static/asia/korea/seoul/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "ソウルのホテルを探す",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/94/3124/?freeword\u003d%E3%82%BD%E3%82%A6%E3%83%AB\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d3124",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "明洞から始まる2泊3日モデルコースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_web_kaigai_0001",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "ソウルのおすすめスイーツをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_ap_osarea_0000048",
+          "linkType": "OTHER"
+        },
+        "description": "ソウルきっての繁華街で、真っ先に訪れたい中心エリア。名物料理のレストランやカフェ、コスメショップ、デパート、や免税店、ホテルなどがひしめき合い、地元っ子と多くの観光客で一日中賑わっています。韓国最古のカトリック教会「明洞聖堂」周辺に点在する、おしゃれなカフェやショップも要チェックです。",
+        "image": {
+          "alternateText": "明洞エリアのシンボルの1つ、明洞聖堂",
+          "height": 138,
+          "sourceUrl": "https://a.mktgcdn.com/p/d4Wh9PxcwHSMEzJjONOswQWu8lMof7RYr5KaeZgZITA/207x138.jpg",
+          "thumbnails": [
+            {
+              "height": 138,
+              "url": "https://a.mktgcdn.com/p-sandbox/d4Wh9PxcwHSMEzJjONOswQWu8lMof7RYr5KaeZgZITA/207x138.jpg",
+              "width": 207
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/d4Wh9PxcwHSMEzJjONOswQWu8lMof7RYr5KaeZgZITA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/d4Wh9PxcwHSMEzJjONOswQWu8lMof7RYr5KaeZgZITA/207x138.jpg",
+          "width": 207
+        },
+        "imageCaption": "明洞エリアのシンボルの1つ、明洞聖堂",
+        "sectionLevel": "h2",
+        "sectionTitle": "明洞（명동 / ミョンドン）"
+      },
+      {
+        "cTA1": {
+          "label": "ソウルのおすすめカフェをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_ap_osarea_0000042",
+          "linkType": "OTHER"
+        },
+        "description": "ソウルで最も古い歴史をもつ「南大門市場」を中心に広がるエリア。混沌とした雰囲気の中、韓国食材や衣類などあらゆるジャンルの店舗がぎっしりと並び、歩くだけでも楽しくなります。市場ならではの珍しい食材も多く、おみやげ探しにもぴったり。値切りにチャレンジしたり、掘り出し物を探したり、市場グルメを楽しんだりするのも醍醐味です。",
+        "image": {
+          "alternateText": "あちこちで店員の掛け声が飛び交います。午後は混雑するので、スリには要注意",
+          "height": 123,
+          "sourceUrl": "https://a.mktgcdn.com/p/tqvRx46YUVV4HSiXErfGLliVDohyZOKHhX0i69t_Bi4/185x123.jpg",
+          "thumbnails": [
+            {
+              "height": 123,
+              "url": "https://a.mktgcdn.com/p-sandbox/tqvRx46YUVV4HSiXErfGLliVDohyZOKHhX0i69t_Bi4/185x123.jpg",
+              "width": 185
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/tqvRx46YUVV4HSiXErfGLliVDohyZOKHhX0i69t_Bi4/185x123.jpg",
+          "width": 185
+        },
+        "imageCaption": "あちこちで店員の掛け声が飛び交います。午後は混雑するので、スリには要注意",
+        "sectionLevel": "h2",
+        "sectionTitle": "南大門（남대문 / ナムデムン）"
+      },
+      {
+        "cTA1": {
+          "label": "梨大を訪れる3泊4日モデルコースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_ap_osarea_0000049",
+          "linkType": "OTHER"
+        },
+        "description": "朝鮮王朝時代の街並みが今も残り、モダンな伝統工芸雑貨や骨董品などのショップが並ぶ周辺はアーティスティックな雰囲気。芸術鑑賞もできる人気のモール「サムジキル」、ハンドメイドのコリアンブランドが集まる「仁寺洞マル」が2大シンボルです。点在する伝統茶カフェでひと休みしながら、とっておきのアイテムを探してみてはいかが。",
+        "image": {
+          "alternateText": "メインストリートの「仁寺洞キル」を中心に雑貨ショップが並びます",
+          "height": 140,
+          "sourceUrl": "https://a.mktgcdn.com/p/GSb74y2z6bMaEYpaIyET8Yq-BRkahHHFyWQN7q5Tmvc/210x140.jpg",
+          "thumbnails": [
+            {
+              "height": 140,
+              "url": "https://a.mktgcdn.com/p-sandbox/GSb74y2z6bMaEYpaIyET8Yq-BRkahHHFyWQN7q5Tmvc/210x140.jpg",
+              "width": 210
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/GSb74y2z6bMaEYpaIyET8Yq-BRkahHHFyWQN7q5Tmvc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/GSb74y2z6bMaEYpaIyET8Yq-BRkahHHFyWQN7q5Tmvc/210x140.jpg",
+          "width": 210
+        },
+        "imageCaption": "メインストリートの「仁寺洞キル」を中心に雑貨ショップが並びます",
+        "sectionLevel": "h2",
+        "sectionTitle": "仁寺洞（인사동 / インサドン）"
+      },
+      {
+        "cTA1": {
+          "label": "韓国旅行の旅行費用をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/guide_0006",
+          "linkType": "OTHER"
+        },
+        "description": "朝鮮王朝時代の貴族たちが暮らしていた伝統家屋が残る街は、レトロな雰囲気いっぱい。どこを切り取っても絵になります。昔ながらの韓国風の屋敷「韓屋」をリノベーションしたレストランやカフェ、ショップなどが集まるのも、このエリアならではの魅力。伝統とモダンが共存する落ち着いた街並みをのんびり散策しながら、立ち寄るのがおすすめです。",
+        "image": {
+          "alternateText": "古宮にほど近い、由緒ある街並み",
+          "height": 219,
+          "sourceUrl": "https://a.mktgcdn.com/p/Hl4K7mlXcRqyxi7bbWgdBJycp-dk3aifGpYSglp38kM/328x219.jpg",
+          "thumbnails": [
+            {
+              "height": 219,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hl4K7mlXcRqyxi7bbWgdBJycp-dk3aifGpYSglp38kM/328x219.jpg",
+              "width": 328
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hl4K7mlXcRqyxi7bbWgdBJycp-dk3aifGpYSglp38kM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Hl4K7mlXcRqyxi7bbWgdBJycp-dk3aifGpYSglp38kM/328x219.jpg",
+          "width": 328
+        },
+        "imageCaption": "古宮にほど近い、由緒ある街並み",
+        "sectionLevel": "h2",
+        "sectionTitle": "三清洞（삼청동 / サムチョンドン）"
+      },
+      {
+        "description": "昔ながらの衣料問屋と最先端のファッションビルが立ち並ぶ、アジア屈指の衣料市場。早朝まで営業しているところも多い“眠らない街”です。市場とはいえ、観光客もショッピングを楽しむことができ、屋台グルメなども充実。巨大複合施設「東大門デザインプラザ」、通称「DDP」は、アート＆カルチャーの新拠点としても注目を集めています。",
+        "image": {
+          "alternateText": "明け方までグルメやショッピングを楽しめる不夜城",
+          "height": 165,
+          "sourceUrl": "https://a.mktgcdn.com/p/4Ua5ImZAr_OPvt6VQJnIQxpkjBy63w-GfTGIKuSKelk/247x165.jpg",
+          "thumbnails": [
+            {
+              "height": 165,
+              "url": "https://a.mktgcdn.com/p-sandbox/4Ua5ImZAr_OPvt6VQJnIQxpkjBy63w-GfTGIKuSKelk/247x165.jpg",
+              "width": 247
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/4Ua5ImZAr_OPvt6VQJnIQxpkjBy63w-GfTGIKuSKelk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4Ua5ImZAr_OPvt6VQJnIQxpkjBy63w-GfTGIKuSKelk/247x165.jpg",
+          "width": 247
+        },
+        "imageCaption": "明け方までグルメやショッピングを楽しめる不夜城",
+        "sectionLevel": "h2",
+        "sectionTitle": "東大門（동대문 / トンデムン）"
+      },
+      {
+        "description": "韓国随一の美術大学「弘益大学」周辺に広がるエリア。若者のサブカルスポットであり、アートや音楽の発信地としても知られています。ストリートアートやクラブが点在する街には夜遅くまで多くの人が集い、まさに若者パワー炸裂！　最近は北側の「延南洞」エリアにハイセンスなカフェも続々オープンしています。",
+        "image": {
+          "alternateText": "今っぽいトレンドショップが次々オープンしています",
+          "height": 161,
+          "sourceUrl": "https://a.mktgcdn.com/p/ayiVVe-v8trxCvGqK3HRpHoP4C9IAEzUFFnt3JllxQw/242x161.jpg",
+          "thumbnails": [
+            {
+              "height": 161,
+              "url": "https://a.mktgcdn.com/p-sandbox/ayiVVe-v8trxCvGqK3HRpHoP4C9IAEzUFFnt3JllxQw/242x161.jpg",
+              "width": 242
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/ayiVVe-v8trxCvGqK3HRpHoP4C9IAEzUFFnt3JllxQw/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ayiVVe-v8trxCvGqK3HRpHoP4C9IAEzUFFnt3JllxQw/242x161.jpg",
+          "width": 242
+        },
+        "imageCaption": "今っぽいトレンドショップが次々オープンしています",
+        "sectionLevel": "h2",
+        "sectionTitle": "弘大（홍대 / ホンデ）"
+      },
+      {
+        "description": "ソウルでいちばん国際色豊かなエリアといえばココ。米軍基地に隣接し、各国大使館も点在することから欧米人が多く住み、インターナショナルな雰囲気に包まれています。世界のグルメを楽しめるレストランやナイトスポットのほか、最近は街が整備され、おしゃれなショップが並ぶ「経理団キル」、北側に広がるトレンドエリア「解放区」も話題に。",
+        "image": {
+          "alternateText": "革製品の店が多いことで知られますが、新しいショップも急増中",
+          "height": 173,
+          "sourceUrl": "https://a.mktgcdn.com/p/otnUMelyZKnsi2yWofm0_c9a4MDR3ZFDstxTpSdJjbI/259x173.jpg",
+          "thumbnails": [
+            {
+              "height": 173,
+              "url": "https://a.mktgcdn.com/p-sandbox/otnUMelyZKnsi2yWofm0_c9a4MDR3ZFDstxTpSdJjbI/259x173.jpg",
+              "width": 259
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/otnUMelyZKnsi2yWofm0_c9a4MDR3ZFDstxTpSdJjbI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/otnUMelyZKnsi2yWofm0_c9a4MDR3ZFDstxTpSdJjbI/259x173.jpg",
+          "width": 259
+        },
+        "imageCaption": "革製品の店が多いことで知られますが、新しいショップも急増中",
+        "sectionLevel": "h2",
+        "sectionTitle": "梨泰院（이태원 / イテウォン）"
+      },
+      {
+        "description": "梨大には有名女子大「梨花女子大」、新村には名門「延世大学」があり、どちらもソウルきっての学生街です。両エリアとも手ごろなファッションのショップやレストランが多く、学生街ならではのパワーでいっぱい。両エリア間は地下鉄の駅1つ分の距離なので、散策しながら、ソウルのリアルなユースカルチャーを体感してみて。",
+        "image": {
+          "alternateText": "グルメもショッピングも学生向きのリーズナブルな店が充実",
+          "height": 197,
+          "sourceUrl": "https://a.mktgcdn.com/p/HkSDRkzn0_Xq6bhjYRxHrd3Lo8Q3rXaNxNCpfA1X2GY/296x197.jpg",
+          "thumbnails": [
+            {
+              "height": 197,
+              "url": "https://a.mktgcdn.com/p-sandbox/HkSDRkzn0_Xq6bhjYRxHrd3Lo8Q3rXaNxNCpfA1X2GY/296x197.jpg",
+              "width": 296
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/HkSDRkzn0_Xq6bhjYRxHrd3Lo8Q3rXaNxNCpfA1X2GY/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HkSDRkzn0_Xq6bhjYRxHrd3Lo8Q3rXaNxNCpfA1X2GY/296x197.jpg",
+          "width": 296
+        },
+        "imageCaption": "グルメもショッピングも学生向きのリーズナブルな店が充実",
+        "sectionLevel": "h2",
+        "sectionTitle": "梨大＆新村（이대＆신촌 / イデ＆シンチョン）"
+      },
+      {
+        "description": "清潭洞の大通りに高級ブランドがデパート、おしゃれなレストランが並ぶ街並みはハイソな雰囲気。芸能人御用達の店やエステサロンが多いことでも知られ、韓流ファンなら必訪の場所です。高級デパートの地下にある食品街のオシャレなスイーツも要チェック。",
+        "image": {
+          "alternateText": "他のエリアとは一線を画す、瀟洒な街並み。芸能事務所も集まっています",
+          "height": 132,
+          "sourceUrl": "https://a.mktgcdn.com/p/B8NJugqgI8PRrqO_cCXxMu9oUxwTyKY4UIAQdRSlv6A/198x132.jpg",
+          "thumbnails": [
+            {
+              "height": 132,
+              "url": "https://a.mktgcdn.com/p-sandbox/B8NJugqgI8PRrqO_cCXxMu9oUxwTyKY4UIAQdRSlv6A/198x132.jpg",
+              "width": 198
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/B8NJugqgI8PRrqO_cCXxMu9oUxwTyKY4UIAQdRSlv6A/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/B8NJugqgI8PRrqO_cCXxMu9oUxwTyKY4UIAQdRSlv6A/198x132.jpg",
+          "width": 198
+        },
+        "imageCaption": "他のエリアとは一線を画す、瀟洒な街並み。芸能事務所も集まっています",
+        "sectionTitle": "狎鷗亭洞＆清潭（압구정동＆청담동 / アプクジョンドン＆チョンダムドン）"
+      },
+      {
+        "description": "漢江の南側に広がり、ソウルの最先端をゆく江南地区の中でも、カロスキルは注目度No.1。街路樹が立つ美しい通りにハイセンスなセレクトショップやカフェが並び、流行を発信しています。芸能人やファッショニスタも多く訪れることでも有名。路地裏に並ぶオシャレな店も、街歩きの楽しさをアップさせてくれます。",
+        "image": {
+          "alternateText": "ココを歩けば、ソウルの最新トレンドがわかります",
+          "height": 181,
+          "sourceUrl": "https://a.mktgcdn.com/p/s2uloRO-C56F-dHavuJPmODDMuzDl-Ub1VcM3QQTry4/271x181.jpg",
+          "thumbnails": [
+            {
+              "height": 181,
+              "url": "https://a.mktgcdn.com/p-sandbox/s2uloRO-C56F-dHavuJPmODDMuzDl-Ub1VcM3QQTry4/271x181.jpg",
+              "width": 271
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/s2uloRO-C56F-dHavuJPmODDMuzDl-Ub1VcM3QQTry4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/s2uloRO-C56F-dHavuJPmODDMuzDl-Ub1VcM3QQTry4/271x181.jpg",
+          "width": 271
+        },
+        "imageCaption": "ココを歩けば、ソウルの最新トレンドがわかります",
+        "sectionTitle": "カロスキル（가로수길）"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000042",
+      "news_ap_osarea_0000043",
+      "news_ap_osarea_0000044",
+      "news_ap_osarea_0000045",
+      "news_ap_osarea_0000046",
+      "news_ap_osarea_0000047",
+      "news_ap_osarea_0000048",
+      "news_ap_osarea_0000049"
+    ],
+    "c_news_FeaturedArticlesTitle": "ソウルのその他の投稿記事",
+    "c_news_PublicationDate": "2023-05-09",
+    "c_news_UpdateDate": "2024-11-14",
+    "c_news_ViewCount": "1032",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "1032",
+    "c_news_ViewCountNum": "1032",
+    "c_news_ViewCountNumForSorting": "116",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_ap_osarea_0000041",
+    "name": "ソウルの繁華街ってどこ？韓国観光で欠かせない有名エリアをチェック",
+    "slug": "kaigai/asia/korea/news_ap_osarea_0000041",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

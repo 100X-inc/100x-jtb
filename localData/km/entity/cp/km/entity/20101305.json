@@ -1,0 +1,64 @@
+{
+  "$id": "cp_20101305",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "愛知県",
+    "c_cp_CTA1": {
+      "label": "加納 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVfr_2f",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVe7xd",
+      "linkType": "URL"
+    },
+    "c_cp_DisplayName": "加納",
+    "c_cp_HiraganaName": "かのう",
+    "c_cp_JobTitle": "JTB一宮店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "alternateText": "JTBトラベルコンサルタント ｜ 加納",
+      "height": 1200,
+      "sourceUrl": "https://a.mktgcdn.com/p/O-qJyM4BVVz4LSbxd9kTz95hlBeHHqUMGkDSf_mOD30/900x1200.jpg",
+      "thumbnails": [
+        {
+          "height": 1200,
+          "url": "https://a.mktgcdn.com/p-sandbox/O-qJyM4BVVz4LSbxd9kTz95hlBeHHqUMGkDSf_mOD30/900x1200.jpg",
+          "width": 900
+        },
+        {
+          "height": 825,
+          "url": "https://a.mktgcdn.com/p-sandbox/O-qJyM4BVVz4LSbxd9kTz95hlBeHHqUMGkDSf_mOD30/619x825.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/O-qJyM4BVVz4LSbxd9kTz95hlBeHHqUMGkDSf_mOD30/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/O-qJyM4BVVz4LSbxd9kTz95hlBeHHqUMGkDSf_mOD30/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/O-qJyM4BVVz4LSbxd9kTz95hlBeHHqUMGkDSf_mOD30/900x1200.jpg",
+      "width": 900
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 加納",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 加納",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_20101305",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2023/06/07　JBX対応（産休）",
+    "name": "かのう_20101305",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

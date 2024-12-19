@@ -1,0 +1,65 @@
+{
+  "$id": "cp_50040281",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "兵庫県",
+    "c_cp_CTA1": {
+      "label": "堀 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVNsBc",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVB7Bd",
+      "linkType": "URL"
+    },
+    "c_cp_DisplayName": "堀",
+    "c_cp_FieldOfExpertise": [
+      "お酒"
+    ],
+    "c_cp_JobTitle": "JTBイオン明石店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 815,
+      "sourceUrl": "https://a.mktgcdn.com/p/Q_xzr04DolAFWmmgYVBpLkzJpHKYIGHgc3uwmvIIVwk/1089x815.jpg",
+      "thumbnails": [
+        {
+          "height": 815,
+          "url": "https://a.mktgcdn.com/p-sandbox/Q_xzr04DolAFWmmgYVBpLkzJpHKYIGHgc3uwmvIIVwk/1089x815.jpg",
+          "width": 1089
+        },
+        {
+          "height": 463,
+          "url": "https://a.mktgcdn.com/p-sandbox/Q_xzr04DolAFWmmgYVBpLkzJpHKYIGHgc3uwmvIIVwk/619x463.jpg",
+          "width": 619
+        },
+        {
+          "height": 449,
+          "url": "https://a.mktgcdn.com/p-sandbox/Q_xzr04DolAFWmmgYVBpLkzJpHKYIGHgc3uwmvIIVwk/600x449.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/Q_xzr04DolAFWmmgYVBpLkzJpHKYIGHgc3uwmvIIVwk/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Q_xzr04DolAFWmmgYVBpLkzJpHKYIGHgc3uwmvIIVwk/1089x815.jpg",
+      "width": 1089
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント | 堀",
+    "c_metaTitle": "JTBトラベルコンサルタント | 堀",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_50040281",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2023/03/20　JBX対応（リテール外転出）",
+    "name": "ほり ともこ_50040281",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

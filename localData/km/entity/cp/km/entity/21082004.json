@@ -1,0 +1,76 @@
+{
+  "$id": "cp_21082004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_CTA1": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBgxd",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "～ご挨拶～\nいつもＪＴＢ東大阪店をご利用いただきまして誠にありがとうございます。\n\n東大阪市は花園ラグビー場がある「ラグビーの街」そして「モノづくりの街」としても有名です。そのような地域に愛される親しみやすい店づくりをモットーに営業しております。\n\nご旅行が素敵な思い出になりますよう、スタッフ一同精一杯お手伝いさせていただきます。お気軽にお立ち寄りくださいませ。",
+    "c_cp_DisplayName": "遠藤",
+    "c_cp_FieldOfExpertise": [
+      "夫婦旅",
+      "グループ旅行"
+    ],
+    "c_cp_GeneralInfo": [
+      "資格：旅行業務取扱管理者、クルーズコンサルタント、ウェディングコンサルタント、世界遺産検定2級、ハワイスペシャリスト"
+    ],
+    "c_cp_HiraganaName": "えんどう",
+    "c_cp_JobTitle": "JTB東大阪店 店長",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "alternateText": "JTBトラベルコンサルタント ｜ 遠藤",
+      "height": 371,
+      "sourceUrl": "https://a.mktgcdn.com/p/mF-02NnjBRo0xWdldyz4If5qoj3rHYDh3GhSaQdRUME/582x371.jpg",
+      "thumbnails": [
+        {
+          "height": 371,
+          "url": "https://a.mktgcdn.com/p-sandbox/CxtCnfWHon6YNBM1T_LV4oEpaJwSltyvvE_gElAPwhY/582x371.jpg",
+          "width": 582
+        },
+        {
+          "height": 125,
+          "url": "https://a.mktgcdn.com/p-sandbox/CxtCnfWHon6YNBM1T_LV4oEpaJwSltyvvE_gElAPwhY/196x125.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/CxtCnfWHon6YNBM1T_LV4oEpaJwSltyvvE_gElAPwhY/582x371.jpg",
+      "width": 582
+    },
+    "c_cp_Point": "1048",
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "東京都"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "京都府"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "香川県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 遠藤",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 遠藤",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21082004",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2023/04/03 JBX対応（リテール外転出）",
+    "name": "えんどう_21082004",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

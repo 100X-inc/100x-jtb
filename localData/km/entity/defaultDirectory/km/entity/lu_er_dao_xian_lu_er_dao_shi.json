@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_lu_er_dao_xian_lu_er_dao_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247788"
+    ],
+    "dm_directoryChildren": [
+      "8961-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_lu_er_dao_xian"
+    ],
+    "name": "鹿児島市",
+    "slug": "鹿児島県/鹿児島市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

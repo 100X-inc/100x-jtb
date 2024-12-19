@@ -1,0 +1,383 @@
+{
+  "$id": "news_web_kaigai_0009",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1434,
+      "sourceUrl": "https://a.mktgcdn.com/p/FNuoIVZ4piAIC_1Rv9tCexyF7AkEv7bC1TBrw4v24uQ/2150x1434.jpg",
+      "thumbnails": [
+        {
+          "height": 1434,
+          "url": "https://a.mktgcdn.com/p-sandbox/FNuoIVZ4piAIC_1Rv9tCexyF7AkEv7bC1TBrw4v24uQ/2150x1434.jpg",
+          "width": 2150
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/FNuoIVZ4piAIC_1Rv9tCexyF7AkEv7bC1TBrw4v24uQ/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/FNuoIVZ4piAIC_1Rv9tCexyF7AkEv7bC1TBrw4v24uQ/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/FNuoIVZ4piAIC_1Rv9tCexyF7AkEv7bC1TBrw4v24uQ/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/FNuoIVZ4piAIC_1Rv9tCexyF7AkEv7bC1TBrw4v24uQ/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/FNuoIVZ4piAIC_1Rv9tCexyF7AkEv7bC1TBrw4v24uQ/2150x1434.jpg",
+      "width": 2150
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ハワイの記事一覧はこちら",
+        "uRL": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii"
+      },
+      {
+        "linkText": "ハワイの旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hawaii/"
+      },
+      {
+        "linkText": "ハワイのツアーをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dept\u003dTYO\u0026sc.dest%5B0%5D.country\u003dH1\u0026sc.dest%5B0%5D.city\u003dHNL"
+      },
+      {
+        "linkText": "ホノルル行きの航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/hawaii/honolulu/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "誰にも気を使わず、自分が行きたいところに自由に行けるのがひとり旅の醍醐味です。\n\n日本人旅行者が多く、日本語も比較的通じるハワイはひとり旅におすすめ。ひとり旅初心者でも大満足の旅行になるように、失敗しない旅行プランの立て方から楽しみ方、注意点をご紹介します。",
+    "c_ap_Tags": [
+      "おみやげ",
+      "グルメ",
+      "ハワイおすすめ",
+      "ビーチリゾート",
+      "ひとり旅",
+      "海外のホテル",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "自由気ままにハワイを満喫！ひとり旅の楽しみ方と注意点",
+    "c_linkedArea3News": [
+      "hawaii"
+    ],
+    "c_metaDescription": "誰にも気を使わず、自分が行きたいところに自由に行けるのがひとり旅の醍醐味です。\n\n日本人旅行者が多く、日本語も比較的通じるハワイはひとり旅におすすめ。ひとり旅初心者でも大満足の旅行になるように、失敗しない旅行プランの立て方から楽しみ方、注意点をご紹介します。",
+    "c_metaTitle": "自由気ままにハワイを満喫！ひとり旅の楽しみ方と注意点 | JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "ハワイ旅行を探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/hawaii/",
+        "linkType": "URL"
+      },
+      {
+        "label": "ハワイ行き航空券を探す",
+        "link": "https://www.jtb.co.jp/ovs_air_static/hawaii/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ハワイ行きの航空券を探す",
+          "link": "https://www.jtb.co.jp/ovs_air_static/hawaii/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ハワイのツアーを探す",
+          "link": "https://www.jtb.co.jp/kaigai/area/hawaii/",
+          "linkType": "URL"
+        },
+        "description": "常夏の楽園ハワイは、美しいビーチをはじめ、雄大な自然、グルメ、ショッピング、アクティビティなどの魅力が満載です。ビーチでのんびり過ごしたり、シュノーケルやハイキング、ヨガ、ゴルフなどのアクティビティを体験したり、パワースポットやショッピングセンター巡りをしたりと、ひとり旅でも様々な楽しみ方ができます。日本からハワイのダニエル・K・イノウエ国際空港（ホノルル国際空港）までは、往路約7時間半、復路約8時間半の旅。成田空港と羽田空港だけではなく、中部国際空港や関西国際空港からも直行便が出ています。ハワイへの直行便は夜発もあるため、仕事帰りに行けることも魅力的です。例えば金曜22時頃の羽田発便を利用すると、ハワイ時間で金曜朝にホノルルに着きます。三連休に合わせたり、月曜日に有給をとったりすれば、2泊4日の週末ハワイ旅を楽しむことができます。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/lOiCGV6RBZzNyErwQwbSnmzJO662vINkCB4XI77JFJ8/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/lOiCGV6RBZzNyErwQwbSnmzJO662vINkCB4XI77JFJ8/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/lOiCGV6RBZzNyErwQwbSnmzJO662vINkCB4XI77JFJ8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/lOiCGV6RBZzNyErwQwbSnmzJO662vINkCB4XI77JFJ8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/lOiCGV6RBZzNyErwQwbSnmzJO662vINkCB4XI77JFJ8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lOiCGV6RBZzNyErwQwbSnmzJO662vINkCB4XI77JFJ8/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "1．おすすめ！ハワイひとり旅はこんなに楽しい"
+      },
+      {
+        "cTA1": {
+          "label": "ホノルル行き航空券を探す",
+          "link": "https://www.jtb.co.jp/ovs_air_static/hawaii/honolulu/",
+          "linkType": "URL"
+        },
+        "description": "日本人旅行者が多いハワイは、比較的治安もよく、ホノルル観光の中心部であるカラカウア大通りは夜遅くまで旅行客で賑わいます。ハワイには日本語のメニューを用意しているレストランが多く、現地の方も日本人観光客への対応に慣れているため、英語に不安がある人にもおすすめです。また大型ショッピングセンターや高級ホテルには日本人スタッフが常駐していたり、日本語に対応したアクティビティツアーがあったりと、日本人が快適に過ごしやすい環境が揃っています。",
+        "image": {
+          "height": 749,
+          "sourceUrl": "https://a.mktgcdn.com/p/n0qN61wgQsK5um7p9wEDli0dJ4STF7-KgUEa-dTRCds/1024x749.jpg",
+          "thumbnails": [
+            {
+              "height": 749,
+              "url": "https://a.mktgcdn.com/p-sandbox/n0qN61wgQsK5um7p9wEDli0dJ4STF7-KgUEa-dTRCds/1024x749.jpg",
+              "width": 1024
+            },
+            {
+              "height": 453,
+              "url": "https://a.mktgcdn.com/p-sandbox/n0qN61wgQsK5um7p9wEDli0dJ4STF7-KgUEa-dTRCds/619x453.jpg",
+              "width": 619
+            },
+            {
+              "height": 439,
+              "url": "https://a.mktgcdn.com/p-sandbox/n0qN61wgQsK5um7p9wEDli0dJ4STF7-KgUEa-dTRCds/600x439.jpg",
+              "width": 600
+            },
+            {
+              "height": 143,
+              "url": "https://a.mktgcdn.com/p-sandbox/n0qN61wgQsK5um7p9wEDli0dJ4STF7-KgUEa-dTRCds/196x143.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/n0qN61wgQsK5um7p9wEDli0dJ4STF7-KgUEa-dTRCds/1024x749.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "【おすすめポイント1】日本から直行便で行ける！便も多いから計画を立てやすい"
+      },
+      {
+        "cTA1": {
+          "label": "JTBMySTYLEの特典をみる",
+          "link": "https://www.jtb.co.jp/lookjtb/service/hawaii/",
+          "linkType": "URL"
+        },
+        "description": "テレビや雑誌で頻繁に特集が組まれるほど、流行の発信地として認知されているハワイ。おしゃれなカフェやレストラン、ショップが続々とオープンしており、世界中からトレンドに敏感な女性たちが訪れています。流行りのフォトジェニックスポットは、SNSやハワイの情報サイトなどで最新情報をチェック。常に進化するハワイで話題の食や美容の最新トレンドを満喫しましょう。",
+        "image": {
+          "height": 681,
+          "sourceUrl": "https://a.mktgcdn.com/p/PjIIMxwHg0ju83WIgDf8EMlwfsuIUCVwyhzRm0aFQDI/1024x681.jpg",
+          "thumbnails": [
+            {
+              "height": 681,
+              "url": "https://a.mktgcdn.com/p-sandbox/PjIIMxwHg0ju83WIgDf8EMlwfsuIUCVwyhzRm0aFQDI/1024x681.jpg",
+              "width": 1024
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/PjIIMxwHg0ju83WIgDf8EMlwfsuIUCVwyhzRm0aFQDI/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/PjIIMxwHg0ju83WIgDf8EMlwfsuIUCVwyhzRm0aFQDI/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/PjIIMxwHg0ju83WIgDf8EMlwfsuIUCVwyhzRm0aFQDI/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PjIIMxwHg0ju83WIgDf8EMlwfsuIUCVwyhzRm0aFQDI/1024x681.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "【おすすめポイント2】治安もよく日本人も多いハワイはひとり旅に最適"
+      },
+      {
+        "cTA1": {
+          "label": "JTBが厳選！ハワイのおすすめホテルをみる",
+          "link": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/",
+          "linkType": "URL"
+        },
+        "description": "ハワイへひとり旅に行きたいと思ったら、まずは予算から旅行計画を立てましょう。シーズンによっても差がありますが、エコノミークラスの場合、航空券は往復10万円台～。これ以外に、ホテルや食費、買い物、移動費、オプショナルツアー等の料金が発生します。価格が気になる場合は、航空券とホテルがセットになったパッケージツアーの方が航空券とホテルを別々に手配するよりも安い場合が多いです。シーズンやホテルのランクによって料金が異なりますが、パッケージツアーは10万円台前半～となっています。自由に行動できるフリープランなら、ひとり旅にもぴったりです。ゴールデンウィークや年末年始、夏休みなどの大型連休は、海外旅行に出かける人が多くなるため、航空券もホテルも料金が高くなります。逆に、連休明けの平日はぐっと価格が安くなることも。出発時期を自由に決められるのもひとり旅の醍醐味。予算が限られる場合は、旅行者が少ないオフシーズンを狙いましょう。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/CNg66BFXWVIn4N54i13bwB9_XQQk5-9sowahc4jQzLI/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/CNg66BFXWVIn4N54i13bwB9_XQQk5-9sowahc4jQzLI/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/CNg66BFXWVIn4N54i13bwB9_XQQk5-9sowahc4jQzLI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/CNg66BFXWVIn4N54i13bwB9_XQQk5-9sowahc4jQzLI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/CNg66BFXWVIn4N54i13bwB9_XQQk5-9sowahc4jQzLI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/CNg66BFXWVIn4N54i13bwB9_XQQk5-9sowahc4jQzLI/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "【おすすめポイント3】流行の発信地！最新のハワイを体験しよう"
+      },
+      {
+        "cTA1": {
+          "label": "ダイヤモンドヘッド・ハイキングの現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/prddetail/p309700/",
+          "linkType": "URL"
+        },
+        "description": "ツアーを選ぶ際には、旅行会社のサイトやパンフレットを比較することが多いのではないでしょうか。予算に合わせて選ぶことはもちろんですが、何がツアー料金に含まれるかもチェックしてみてください。航空券とホテルのみが含まれるツアーもあれば、朝食付きや、空港からホテルまでの送迎サービスなどが含まれるものもあります。例えばJTBの『JTBMySTYLE』を利用すると、追加料金なしでオリジナルバスやトロリーが乗り放題になるため、主要の観光スポットへのアクセスが便利です。他にもJTBではサポートデスクや24時間対応可能なコールセンターといったサービスがあり、ひとり旅をサポートしてくれます。",
+        "image": {
+          "height": 692,
+          "sourceUrl": "https://a.mktgcdn.com/p/Hf1G7RD54l8stZ1ZdeZS9o-I0ENv2vhSb7IWOK4VHN0/1024x692.jpg",
+          "thumbnails": [
+            {
+              "height": 692,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hf1G7RD54l8stZ1ZdeZS9o-I0ENv2vhSb7IWOK4VHN0/1024x692.jpg",
+              "width": 1024
+            },
+            {
+              "height": 418,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hf1G7RD54l8stZ1ZdeZS9o-I0ENv2vhSb7IWOK4VHN0/619x418.jpg",
+              "width": 619
+            },
+            {
+              "height": 405,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hf1G7RD54l8stZ1ZdeZS9o-I0ENv2vhSb7IWOK4VHN0/600x405.jpg",
+              "width": 600
+            },
+            {
+              "height": 132,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hf1G7RD54l8stZ1ZdeZS9o-I0ENv2vhSb7IWOK4VHN0/196x132.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Hf1G7RD54l8stZ1ZdeZS9o-I0ENv2vhSb7IWOK4VHN0/1024x692.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "2．費用はどれくらい？ハワイひとり旅を計画しよう"
+      },
+      {
+        "description": "観光地であるホノルルには、ホテルが数多くあります。立地やグレードによって料金が変わり、ワイキキビーチ沿いや高級ホテルの場合は料金も高めです。ホテル内でも、オーシャンビューの部屋は高めに設定されています。ホテルにこだわりがなく安く済ませたい方は、リーズナブルなホテル、または部屋指定なしのプランを選びましょう。ただしひとり旅の場合は、大通り沿いのホテルがおすすめです。宿泊費はリーズナブルに抑えたいけれど、ラグジュアリーなホテルにも泊まってみたい方は、最後の一泊だけ高級ホテルに宿泊するという方法もあります。航空券とホテルを自由に組み合わせできるダイナミックパッケージツアーなら、同じホテルに滞在するだけでなく、複数のホテルをハシゴすることもできるため、いろんなホテルを満喫したい方におすすめです。また英語が苦手な方は、日本語を話すスタッフが常駐するホテルを選ぶと安心です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "予約はツアーが安い？予算から旅行計画を立てよう"
+      },
+      {
+        "description": "ハワイの移動には、バスやレンタカー、タクシー、レンタサイクルが利用できます。ひとり旅だとタクシー移動は割高になってしまうので、バスやレンタカーが便利でしょう。バスには、ホノルル市内の主要スポットを巡るワイキキトロリーや、旅行会社が運行するトロリーバス、オアフ島を網羅する公共交通機関であるザ・バスがあります。またワイキキでの新しい交通手段として、自転車シェアプログラム「biki（ビキ）」が注目されています。セルフサービスで自転車を借りることが可能で、bikiストップならどこに返却してもOKという手軽さも人気です。短距離の移動におすすめです。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ハワイひとり旅のツアーの選び方"
+      },
+      {
+        "description": "海外の中では比較的治安のよいハワイですが、ひと気のない場所にはひとりで行くのはおすすめできません。どうしてもローカルな場所や人が少ない場所に行きたいときには、ガイドを付けたり、オプショナルツアーに参加したりするとひとり旅でも安心です。また日中は活気が溢れる場所でも、夜になると人通りが少なくなるスポットがあるので、夜遅くの外出には気をつけましょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ハワイひとり旅のホテルの選び方"
+      },
+      {
+        "description": "旅の楽しみのひとつであるグルメ。ロコモコやステーキ、パンケーキなどハワイで食べたい有名グルメが多くあります。ハワイにはおひとりさまNGのレストランは基本的にはありませんが、テーブル席に通されるような高級レストランは、周りの目が気になる人だと入りにくいと感じるでしょう。ひとり旅ではフードコートやテイクアウトを利用するのもおすすめです。フードコートは気軽に立ち寄れて、リーズナブルな価格でハワイの味を楽しめます。また、ハワイでは持ち帰りに対応しているレストランが多いので、テイクアウトしてホテルの部屋や公園などでのんびり食べることもできます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ハワイの移動手段"
+      },
+      {
+        "description": "ハワイを代表する観光スポットである「ダイヤモンドヘッド」。簡単な登山コースもあり、大人の足であれば1時間弱で頂上まで行くことができます。頂上からは美しいワイキキビーチをはじめ、ハワイの絶景を楽しむことができます。※ダイヤモンドヘッドの入場には事前オンライン予約が必要になります（2024年2月現在）。",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．ハワイひとり旅を楽しむコツ"
+      },
+      {
+        "description": "絶景を眺められるビュースポットとして、オアフ島に点在する「ピルボックス」が話題を集めています。「ピルボックス」は、戦時中に作られたコンクリート製の見張り台で、見晴らしのいい場所にあります。オアフ島には4つのピルボックスがあるので、巡ってみるのも面白いでしょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ひとりではおすすめできない場所もある"
+      },
+      {
+        "description": "ハワイ産の新鮮なフルーツや野菜にこだわったスムージーなどを提供する「ラニカイジュース」は、ローカルにも観光客にも愛される有名店。ハワイの名物グルメであるアサイーボウルも絶品だと評判なので、ぜひ味わってみましょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "フードコートやテイクアウトを利用しよう"
+      },
+      {
+        "description": "レジ袋が基本的に有料のハワイでは、多くのお店でエコバッグやトートバッグが販売されています。ハワイ限定の可愛いデザインのバッグは人気が高く、中には早朝から行列ができるお店もあるそうです。エコバッグやトートバッグは、帰りの荷物が大きく増える心配も少ないので、お土産にぴったりです。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．ハワイひとり旅におすすめのグルメ・観光情報"
+      },
+      {
+        "description": "誰かに合わせることなく、自由気ままに好きな場所を巡れるひとり旅は、グループ旅行では味わえない面白さがあります。観光スポットやアクティビティが豊富で、日本人観光客も多いハワイは、英語が苦手な人や、ひとり旅初心者にもおすすめの旅行先です。現地で快適に過ごすためには、計画を立てることはもちろんのこと、話題のスポットや注意点を知っておくことも大切です。今回紹介したポイントをしっかり押さえて、ひとり旅を思いっきり満喫しましょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ハワイひとり旅におすすめの観光スポット"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "ダイヤモンドヘッド"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "ピルボックス・トレイル巡り"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "ハワイひとり旅におすすめの最新グルメ"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "ラニカイジュースのアサイーボール"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "ハワイひとり旅におすすめの最新お土産"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "ハワイ限定エコバッグ"
+      },
+      {
+        "sectionLevel": "h2",
+        "sectionTitle": "5．これでバッチリ！ハワイひとり旅を満喫しよう"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0008",
+      "news_web_kaigai_0006",
+      "news_web_kaigai_0007",
+      "news_web_kaigai_0005"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2019-06-28",
+    "c_news_UpdateDate": "2024-04-25",
+    "c_news_ViewCount": "2575",
+    "c_news_ViewCount2of2": "2575",
+    "c_news_ViewCountNum": "2575",
+    "c_news_ViewCountNumForSorting": "121",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_web_kaigai_0009",
+    "c_relatedAreas": [
+      "hawaii"
+    ],
+    "name": "自由気ままにハワイを満喫！ひとり旅の楽しみ方と注意点",
+    "slug": "kaigai/beach_resort/hawaii/news_web_kaigai_0009",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

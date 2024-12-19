@@ -1,0 +1,20 @@
+{
+  "$id": "jp/etkt/tokutokuticket/",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_imageURL": "https://opt.jtb.co.jp/main/img/popular/tokutoku_300_250.jpg",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchTags": [
+      "沖縄"
+    ],
+    "description": "人気観光施設を周るならこちらをチェック！",
+    "landingPageUrl": "https://www.jtb.co.jp/etkt/tokutokuticket/",
+    "name": "【沖縄とくとくチケット特集】"
+  },
+  "entityType": "ce_plan",
+  "folder": "国内特集現地観光プランレジャーチケット定期観光バス",
+  "labels": []
+}

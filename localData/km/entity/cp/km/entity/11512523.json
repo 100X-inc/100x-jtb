@@ -1,0 +1,96 @@
+{
+  "$id": "cp_11512523",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "北海道",
+    "c_cp_CTA1": {
+      "label": "籠谷 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVqk_Kl",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVer",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "お客様と旅先の事を考えながら、楽しくご旅行の計画を立てていきたいと思っております。是非お気軽にご相談くださいませ。",
+    "c_cp_DisplayName": "籠谷",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ旅行",
+      "記念旅行"
+    ],
+    "c_cp_GeneralInfo": [
+      "●資格：ハワイスペシャリスト上級"
+    ],
+    "c_cp_HiraganaName": "こもりや",
+    "c_cp_JobTitle": "JTBトラベルゲート札幌 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 1217,
+      "sourceUrl": "https://a.mktgcdn.com/p/hEi-7DkWvj_vKeSONzqFxVVd5-jahL1zwuf010AtQPA/1217x1217.jpg",
+      "thumbnails": [
+        {
+          "height": 1217,
+          "url": "https://a.mktgcdn.com/p-sandbox/hEi-7DkWvj_vKeSONzqFxVVd5-jahL1zwuf010AtQPA/1217x1217.jpg",
+          "width": 1217
+        },
+        {
+          "height": 619,
+          "url": "https://a.mktgcdn.com/p-sandbox/hEi-7DkWvj_vKeSONzqFxVVd5-jahL1zwuf010AtQPA/619x619.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/hEi-7DkWvj_vKeSONzqFxVVd5-jahL1zwuf010AtQPA/450x450.jpg",
+          "width": 450
+        },
+        {
+          "height": 196,
+          "url": "https://a.mktgcdn.com/p-sandbox/hEi-7DkWvj_vKeSONzqFxVVd5-jahL1zwuf010AtQPA/196x196.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/hEi-7DkWvj_vKeSONzqFxVVd5-jahL1zwuf010AtQPA/1217x1217.jpg",
+      "width": 1217
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国",
+      "台湾"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "千葉県",
+      "東京都"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "大阪府"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "福岡県",
+      "大分県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 籠谷",
+    "c_metaTitle": "JTBトラベルコンサルタント | 籠谷",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_11512523",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10022_トラベルゲート札幌",
+    "name": "こもりや_11512523",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

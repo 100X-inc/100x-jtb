@@ -1,0 +1,319 @@
+{
+  "$id": "ap_chiki_100009",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター ゆり"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "ゲートホテル（THE GATE HOTEL）は、雷門（浅草）、東京（銀座・有楽町）、京都高瀬川（京都）、そして両国の全国4カ所に展開されているシティホテルです。ホテルの名前は「自分時間と街の間にある境界線の扉（＝GATE）でありたい」というコンセプトが由来だそう。それもあってか、ホテルの中はアートに溢れており、忙しい日常を忘れて自分自身の時間を過ごせるような工夫がされています。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/vR-zSyo3oAu5QKTG5XfqEu7yiqH8OZkWLZH8DXoDCuw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/vR-zSyo3oAu5QKTG5XfqEu7yiqH8OZkWLZH8DXoDCuw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/vR-zSyo3oAu5QKTG5XfqEu7yiqH8OZkWLZH8DXoDCuw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/vR-zSyo3oAu5QKTG5XfqEu7yiqH8OZkWLZH8DXoDCuw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/vR-zSyo3oAu5QKTG5XfqEu7yiqH8OZkWLZH8DXoDCuw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vR-zSyo3oAu5QKTG5XfqEu7yiqH8OZkWLZH8DXoDCuw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "フロントには川辺らしい「水」をあしらったアートがあります",
+        "sectionTitle": "THE GATE HOTELが両国にオープン"
+      },
+      {
+        "description": "THE  GATE HOTEL 両国 by HULICでは、隅田川やお相撲の名所 両国国技館といった、都内でも珍しい眺望をお部屋から楽しむことができます。おすすめは隅田川側。水上バスが頻繁に行き来しているので、見たことのないような船が通ったり、ジェットスキーを楽しむ人がいたり、ずっと眺めていても飽きません。ぼーっとしていると、あっという間に時間が経ってしまうほど！ご宿泊の際はぜひリバービューの客室をリクエストしてみてください。そして滞在時にぜひ注目していただきたいのはパジャマです。お部屋には二重ガーゼの上下セパレートタイプが用意されています。このパジャマが着心地抜群！ ゆっくり休むことができるよう配慮されているのも嬉しいポイントです。",
+        "image": {
+          "height": 802,
+          "sourceUrl": "https://a.mktgcdn.com/p/1LrfSUgc6GZP-_kGYlfXYXQCGW2YveHWMTeJE_CKc6k/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "https://a.mktgcdn.com/p-sandbox/1LrfSUgc6GZP-_kGYlfXYXQCGW2YveHWMTeJE_CKc6k/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/1LrfSUgc6GZP-_kGYlfXYXQCGW2YveHWMTeJE_CKc6k/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/1LrfSUgc6GZP-_kGYlfXYXQCGW2YveHWMTeJE_CKc6k/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/1LrfSUgc6GZP-_kGYlfXYXQCGW2YveHWMTeJE_CKc6k/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1LrfSUgc6GZP-_kGYlfXYXQCGW2YveHWMTeJE_CKc6k/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "〔上段：オーセンティックルームと国技館側の眺め／下段：クラッシールームと隅田川側の眺め〕",
+        "sectionTitle": "都内では珍しいリバーサイドホテル"
+      },
+      {
+        "description": "こちらはスイートルームの「THE GATE」。とにかく大きなテラスが特徴です。客室内には60インチのテレビや超高級スピーカーが設えてあります。テラスや広いお部屋で読書をして、上質な音に包まれて映画鑑賞して…という、のんびりした時間を過ごすのもいいかもしれませんね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/zsXJkJlofeOTuv27YqgHAQQh0Efduvr3LjuXYTKLAZ8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/zsXJkJlofeOTuv27YqgHAQQh0Efduvr3LjuXYTKLAZ8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/zsXJkJlofeOTuv27YqgHAQQh0Efduvr3LjuXYTKLAZ8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/zsXJkJlofeOTuv27YqgHAQQh0Efduvr3LjuXYTKLAZ8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/zsXJkJlofeOTuv27YqgHAQQh0Efduvr3LjuXYTKLAZ8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zsXJkJlofeOTuv27YqgHAQQh0Efduvr3LjuXYTKLAZ8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "〔上段：THE GATEのリビングとテラス／下段左：ベッドルーム／下段右：客室内には葛飾北斎の本が…！〕",
+        "sectionTitle": "ドリンクを片手に自分時間を"
+      },
+      {
+        "description": "最上階にある宿泊者専用のテラスは、朝6時から24時まで開いています。どのお部屋にお泊まりのお客様もご利用いただけるので、ご宿泊の際はぜひ足を運んでみてください。気になる景色は、もちろん隅田川ビュー。川に沿って走っている高速道路も常に動きがあり、見ていて飽きることがありません。日中はレストランでテイクアウトしたコーヒーを片手に、本を読んだりお仕事をしたり。夜はテラス内のバーがオープンするので、ドリンクと一緒に夜景を眺めながらおしゃべりしたり。ぜひ自分だけのとっておきの時間を過ごしてください。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/zHpTHi1JweVWWfbyoOVOTuENnfecaXAzMu3M7Crwmjg/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/zHpTHi1JweVWWfbyoOVOTuENnfecaXAzMu3M7Crwmjg/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/zHpTHi1JweVWWfbyoOVOTuENnfecaXAzMu3M7Crwmjg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/zHpTHi1JweVWWfbyoOVOTuENnfecaXAzMu3M7Crwmjg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/zHpTHi1JweVWWfbyoOVOTuENnfecaXAzMu3M7Crwmjg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zHpTHi1JweVWWfbyoOVOTuENnfecaXAzMu3M7Crwmjg/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "屋外テラスはご宿泊者だけの特権です",
+        "sectionTitle": "滞在の締めくくりはホテル自慢の朝食"
+      },
+      {
+        "description": "こちらのホテルに泊まったら、朝食付でのご予約をおすすめします。東京（銀座・有楽町）のゲートホテルでは、総料理長が総支配人を務めていたほど、食事にはこだわっているとか。その証拠に朝食を目当てに宿泊するお客様もいるそうです。ここ、両国の朝食は洋食セットメニュー。メインは「スモーブロー・エッグベネディクト・フレンチトースト」3種類からチョイスできます。スモーブローとはデンマークの言葉でオープンサンドイッチのこと。両国のオリジナルメニューです。サイドイッチの内容は季節によって変わるものもあるため、時期を変えて訪れるのもいいかもしれません。オレンジジュースは生搾り（それも搾りたて！）、そしてその絞ったオレンジはなんとオレンジスプレッドに大変身！ レストランで販売もしていて、お土産にも人気とのこと。フードロスに注目した、素敵な取り組みですね。ハムやソーセージは地元のものを利用しているそうで、両国らしさも味わうことができます。",
+        "image": {
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/X5zDWcjgkXI4Xt2UJJR34Ft32XtkbowLsJRmFllfmno/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/X5zDWcjgkXI4Xt2UJJR34Ft32XtkbowLsJRmFllfmno/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/X5zDWcjgkXI4Xt2UJJR34Ft32XtkbowLsJRmFllfmno/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/X5zDWcjgkXI4Xt2UJJR34Ft32XtkbowLsJRmFllfmno/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/X5zDWcjgkXI4Xt2UJJR34Ft32XtkbowLsJRmFllfmno/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/X5zDWcjgkXI4Xt2UJJR34Ft32XtkbowLsJRmFllfmno/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "〔上段左：朝食セットメニュー／上段右：絶品のオレンジスプレッド／下段左：エッグベネディクト／下段右：スモーブロー〕"
+      },
+      {
+        "description": "今回は「THE GATE HOTEL 両国　by HULIC」のご紹介をさせていただきました。都内では珍しい、川辺のホテル。キラキラしている水面を見ているとあっという間に時間が経ってしまう、ここにしかない滞在をすることができます。・アート好き・自分だけの時間を過ごしたい・朝食は絶対美味しいものが食べたい！・・・そんな方はぜひ予約をしてみてください。----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "image": {
+          "height": 803,
+          "sourceUrl": "https://a.mktgcdn.com/p/-p7zZJwtecMxXqRvuVuemfRHGQsVUE8zEhnkNvdNNr0/1200x803.jpg",
+          "thumbnails": [
+            {
+              "height": 803,
+              "url": "https://a.mktgcdn.com/p-sandbox/-p7zZJwtecMxXqRvuVuemfRHGQsVUE8zEhnkNvdNNr0/1200x803.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/-p7zZJwtecMxXqRvuVuemfRHGQsVUE8zEhnkNvdNNr0/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 402,
+              "url": "https://a.mktgcdn.com/p-sandbox/-p7zZJwtecMxXqRvuVuemfRHGQsVUE8zEhnkNvdNNr0/600x402.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/-p7zZJwtecMxXqRvuVuemfRHGQsVUE8zEhnkNvdNNr0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-p7zZJwtecMxXqRvuVuemfRHGQsVUE8zEhnkNvdNNr0/1200x803.jpg",
+          "width": 1200
+        },
+        "imageCaption": "〔上段：レストラン外観／下段左：地元墨田区の職人さんのアート／下段右：どこか両国らしいサイン〕"
+      }
+    ],
+    "c_ap_DatePosted": "2021-10-28",
+    "c_ap_HeroImage": {
+      "alternateText": "下町“両国“のおしゃれなリバーサイドホテル【東京都】【THE GATE HOTEL 両国 by HULIC】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/LdGy-Pum0sr9NUTBkdfxqp7LBU4ettkyq-HhMJf-Amk/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/LdGy-Pum0sr9NUTBkdfxqp7LBU4ettkyq-HhMJf-Amk/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/LdGy-Pum0sr9NUTBkdfxqp7LBU4ettkyq-HhMJf-Amk/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/LdGy-Pum0sr9NUTBkdfxqp7LBU4ettkyq-HhMJf-Amk/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/LdGy-Pum0sr9NUTBkdfxqp7LBU4ettkyq-HhMJf-Amk/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/LdGy-Pum0sr9NUTBkdfxqp7LBU4ettkyq-HhMJf-Amk/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkArticleSectionTitle": "東京都のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "THE GATE HOTEL 両国 by HULIC のWEB予約できるプランはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/4018124/plan/"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "東京都"
+    ],
+    "c_ap_ShortDescription": "本日は2020年11月にオープンしたTHE  GATE HOTEL 両国 by HULIC をご紹介します！ 花火大会で有名な隅田川と両国国技館の間に位置するリバーサイドホテル。隅田川に面しているので、水上バスでのアクセスもできます。客室やサービスだけではない、滞在そのものを彩る宿泊者専用テラスや美味しい朝食の魅力をお伝えします。",
+    "c_ap_Tags": [
+      "両国",
+      "ホテル朝食",
+      "アート"
+    ],
+    "c_ap_Theme": [
+      "一人旅",
+      "夫婦旅",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "下町“両国“のおしゃれなリバーサイドホテル【東京都　THE GATE HOTEL 両国 by HULIC】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "本日は2020年11月にオープンしたTHE  GATE HOTEL 両国 by HULIC をご紹介します！ 花火大会で有名な隅田川と両国国技館の間に位置するリバーサイドホテル。隅田川に面しているので、水上バ…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "下町“両国“のおしゃれなリバーサイドホテル【東京都】【THE GATE HOTEL 両国 by HULIC】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100009",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "東京都",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "下町“両国“のおしゃれなリバーサイドホテル【東京都】【THE GATE HOTEL 両国 by HULIC】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

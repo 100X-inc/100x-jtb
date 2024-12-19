@@ -1,0 +1,25 @@
+{
+  "$id": "defaultDirectory_chang_ye_xian_chang_ye_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "2",
+    "dm_childEntityIds": [
+      "1044199949",
+      "1044247756"
+    ],
+    "dm_directoryChildren": [
+      "lc-0020",
+      "5521-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_chang_ye_xian"
+    ],
+    "name": "長野市",
+    "slug": "長野県/長野市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

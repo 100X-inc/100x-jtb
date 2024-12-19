@@ -1,0 +1,308 @@
+{
+  "$id": "ap_chiki_100017",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター 大友 美蘭"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "伊豆急下田駅を降りると、駅前に現れるのが「下田ロープウェイ」。片道約5分の旅路を終えると、下田港を一望できる絶景が！心地よい風に吹かれながら、下田の青い海を眺めるのは最高です！ また、山頂の寝姿山は縁結びのパワースポットとしても知られています。ハートの絵馬に願いを書いて、お願いしてみましょう。山頂を散策したら、2019年のリニューアルオープン時に登場したレストラン「ザ・ロイヤルハウス」で一休み♪ 内装は、横浜から伊豆急下田を結ぶ「ロイヤルエクスプレス」に合わせたお洒落なデザインです。東京・目白にある有名洋食店「旬香亭」のシェフが監修したカツカレーは、一度は食してみたい逸品です。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/-0L58AiqOtS_RcGyKv1XjDxdGJwCjnOXXy6SH_qo2YA/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/-0L58AiqOtS_RcGyKv1XjDxdGJwCjnOXXy6SH_qo2YA/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/-0L58AiqOtS_RcGyKv1XjDxdGJwCjnOXXy6SH_qo2YA/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/-0L58AiqOtS_RcGyKv1XjDxdGJwCjnOXXy6SH_qo2YA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/-0L58AiqOtS_RcGyKv1XjDxdGJwCjnOXXy6SH_qo2YA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-0L58AiqOtS_RcGyKv1XjDxdGJwCjnOXXy6SH_qo2YA/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "下田ロープウェイ山頂からの眺め",
+        "sectionTitle": "伊豆急下田駅から徒歩約1分！縁結びのパワースポットで運気をチャージ！"
+      },
+      {
+        "description": "「下田海中水族館」には、海に浮かぶ大水槽があるんです。海に浮かぶ水族館なんて、わくわくしちゃいますよね！水槽を眺めていたら、ダイバーさんが水槽の中へ…。潜水をしながら生物たちに餌付けする「餌付けショー」が始まりました！大迫力の演出は必見です！下田海中水族館では、他にも「イルカショー」や「ペンギンショー」など様々なショーが目白押し。イルカが頭の上を超える「アメージングシート」は、気を抜くとイルカに水をかけられます。カップルでも、ご家族でも楽しめること間違いなしです♪",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/W9Yn8Ltmh67SK5YmvkL5N-ZJO0GvWRoQ84ZL9PO3OVA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/W9Yn8Ltmh67SK5YmvkL5N-ZJO0GvWRoQ84ZL9PO3OVA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/W9Yn8Ltmh67SK5YmvkL5N-ZJO0GvWRoQ84ZL9PO3OVA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/W9Yn8Ltmh67SK5YmvkL5N-ZJO0GvWRoQ84ZL9PO3OVA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/W9Yn8Ltmh67SK5YmvkL5N-ZJO0GvWRoQ84ZL9PO3OVA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/W9Yn8Ltmh67SK5YmvkL5N-ZJO0GvWRoQ84ZL9PO3OVA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "下田海中水族館（全景）",
+        "sectionTitle": "海に浮かぶ不思議な水族館で、可愛い動物たちと触れ合おう！"
+      },
+      {
+        "description": "つづいてご紹介するのは、ペリー艦隊が下田に上陸した際、ペリー提督一行が行進したとされる「ペリーロード」。伊豆石やなまこ壁のレトロな佇まいの建物が立ち並び、とっても素敵な雰囲気なんです。古民家をリニューアルしたカフェでコーヒーを飲みながら一息したり、お土産屋さんで可愛い雑貨を探したり…時間を忘れてのんびりできます♪個人的には、天気の良い日にペリーロードの川沿いのベンチに座ってコーヒー片手に雑誌を読む…優雅な休日に憧れてしまいます。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/RCKkYh6WEnTJslsgrpo27NtBHSuhBcjkq6XcLftI1RU/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/RCKkYh6WEnTJslsgrpo27NtBHSuhBcjkq6XcLftI1RU/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/RCKkYh6WEnTJslsgrpo27NtBHSuhBcjkq6XcLftI1RU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/RCKkYh6WEnTJslsgrpo27NtBHSuhBcjkq6XcLftI1RU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/RCKkYh6WEnTJslsgrpo27NtBHSuhBcjkq6XcLftI1RU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RCKkYh6WEnTJslsgrpo27NtBHSuhBcjkq6XcLftI1RU/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ペリーロードの川沿いカフェで",
+        "sectionTitle": "異国情緒あふれる”ペリーロード”のレトロカフェで一休み♪"
+      },
+      {
+        "description": "下田は、1854年日本で最初の開港場となった「開国の街」。そんな下田の歴史を詳しく紹介しているのが「下田開国博物館」です。日本開国に係る約2000点の資料・遺品の中から約1000点を入れ替えて展示しています。歴史好きの皆様にぜひ立ち寄っていただきたいスポットです。また、開港の舞台となった「下田港」を黒船『サスケハナ』に乗って約20分で一周する伊豆クルーズもおすすめです。下田の歴史を感じられるだけでなく、秋から春にかけては「カモメの餌付け」体験もできます。カモメたちがえさを求めて近づいてくる様子は、迫力満点！私もびくびくしながら、餌付け体験を楽しみました！",
+        "image": {
+          "height": 848,
+          "sourceUrl": "https://a.mktgcdn.com/p/3r8WzVdkjq2TATTC1cMbIeymciBoC_ykrhJyW11UjgQ/1200x848.jpg",
+          "thumbnails": [
+            {
+              "height": 848,
+              "url": "https://a.mktgcdn.com/p-sandbox/3r8WzVdkjq2TATTC1cMbIeymciBoC_ykrhJyW11UjgQ/1200x848.jpg",
+              "width": 1200
+            },
+            {
+              "height": 437,
+              "url": "https://a.mktgcdn.com/p-sandbox/3r8WzVdkjq2TATTC1cMbIeymciBoC_ykrhJyW11UjgQ/619x437.jpg",
+              "width": 619
+            },
+            {
+              "height": 424,
+              "url": "https://a.mktgcdn.com/p-sandbox/3r8WzVdkjq2TATTC1cMbIeymciBoC_ykrhJyW11UjgQ/600x424.jpg",
+              "width": 600
+            },
+            {
+              "height": 139,
+              "url": "https://a.mktgcdn.com/p-sandbox/3r8WzVdkjq2TATTC1cMbIeymciBoC_ykrhJyW11UjgQ/196x139.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3r8WzVdkjq2TATTC1cMbIeymciBoC_ykrhJyW11UjgQ/1200x848.jpg",
+          "width": 1200
+        },
+        "imageCaption": "黒船「サスケハナ号」",
+        "sectionTitle": "下田に来たら…「開国の街」下田の歴史を学びませんか？"
+      },
+      {
+        "description": "下田の観光スポットについてご紹介してまいりましたが、下田散策のあとは旅館・ホテルでの滞在をお楽しみに！お宿についたらまずは温泉でのんびり♪夜は「金目鯛」や「伊勢海老」などの食材を使用した美味しいお料理をぜひご堪能下さい！今回ご紹介したスポットを巡るなら…『下田観光満喫クーポン』がおすすめですよ♪下田市内の観光施設7カ所をめぐれるお得なチケットです。有効期限が3日間あるので、2日間に分けてゆっくり観光もできます。",
+        "image": {
+          "height": 650,
+          "sourceUrl": "https://a.mktgcdn.com/p/DD-NsPvI4TkguS-w7vjOpe8v5HdcSeNB8AkKHLM4R04/1040x650.jpg",
+          "thumbnails": [
+            {
+              "height": 650,
+              "url": "https://a.mktgcdn.com/p-sandbox/5P-hbDR0pzw3BinSTpFxuM4RHX8mQ02XiUPo8K6pDJw/1040x650.jpg",
+              "width": 1040
+            },
+            {
+              "height": 387,
+              "url": "https://a.mktgcdn.com/p-sandbox/5P-hbDR0pzw3BinSTpFxuM4RHX8mQ02XiUPo8K6pDJw/619x387.jpg",
+              "width": 619
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/5P-hbDR0pzw3BinSTpFxuM4RHX8mQ02XiUPo8K6pDJw/600x375.jpg",
+              "width": 600
+            },
+            {
+              "height": 123,
+              "url": "https://a.mktgcdn.com/p-sandbox/5P-hbDR0pzw3BinSTpFxuM4RHX8mQ02XiUPo8K6pDJw/196x123.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5P-hbDR0pzw3BinSTpFxuM4RHX8mQ02XiUPo8K6pDJw/1040x650.jpg",
+          "width": 1040
+        },
+        "imageCaption": "ホテル山田屋/露天風呂",
+        "sectionTitle": "下田の観光を満喫したら、旅館でのんびり滞在を！"
+      },
+      {
+        "description": "----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2021-12-06",
+    "c_ap_HeroImage": {
+      "alternateText": "”街歩き”が楽しいまち、下田。自然・歴史・文化を満喫するおすすめ旅♪【静岡県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 626,
+      "sourceUrl": "https://a.mktgcdn.com/p/tVcKBU0fZ-kqBo2Axt8_MKxwLsFPggq8zvGEI2snwPs/1183x626.jpg",
+      "thumbnails": [
+        {
+          "height": 626,
+          "url": "https://a.mktgcdn.com/p-sandbox/tVcKBU0fZ-kqBo2Axt8_MKxwLsFPggq8zvGEI2snwPs/1183x626.jpg",
+          "width": 1183
+        },
+        {
+          "height": 328,
+          "url": "https://a.mktgcdn.com/p-sandbox/tVcKBU0fZ-kqBo2Axt8_MKxwLsFPggq8zvGEI2snwPs/619x328.jpg",
+          "width": 619
+        },
+        {
+          "height": 317,
+          "url": "https://a.mktgcdn.com/p-sandbox/tVcKBU0fZ-kqBo2Axt8_MKxwLsFPggq8zvGEI2snwPs/600x317.jpg",
+          "width": 600
+        },
+        {
+          "height": 104,
+          "url": "https://a.mktgcdn.com/p-sandbox/tVcKBU0fZ-kqBo2Axt8_MKxwLsFPggq8zvGEI2snwPs/196x104.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/tVcKBU0fZ-kqBo2Axt8_MKxwLsFPggq8zvGEI2snwPs/1183x626.jpg",
+      "width": 1183
+    },
+    "c_ap_LinkArticleSectionTitle": "静岡県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "南伊豆の宿泊施設はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/2205/?staynight\u003d1\u0026room\u003d1\u0026roomassign\u003dm0f0a0b0c0d0\u0026stayplacedisplay\u003d%E5%8D%97%E4%BC%8A%E8%B1%86"
+      },
+      {
+        "linkText": "下田観光満喫クーポンのご予約はこちら",
+        "uRL": "https://opt.jtb.co.jp/kokunai_opt/m/pE1023971/"
+      },
+      {
+        "linkText": "下田特集ページ展開中！観光情報はこちら（2021年12月末まで）",
+        "uRL": "https://www.jtb.co.jp/myjtb/campaign/coupon/area/2021/shimoda2108/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "伊豆旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/izuhakone/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "静岡県"
+    ],
+    "c_ap_ShortDescription": "伊豆半島の南東部に位置する下田。”白い砂浜と青い海”のイメージが強いエリアですが、実は”街歩き”も楽しい場所なんです。天気の良い日は、自転車を借りてサイクリングもおすすめですよ♪\n今回は、下田の街歩きスポットをご紹介します！",
+    "c_ap_Tags": [
+      "伊豆",
+      "レトロ",
+      "歴史",
+      "絶景",
+      "女子旅"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "母娘旅",
+      "夫婦旅",
+      "歴史・地理",
+      "美術鑑賞",
+      "街あるき"
+    ],
+    "c_ap_Title": "”街歩き”が楽しいまち、下田。自然・歴史・文化を満喫するおすすめ旅♪【静岡県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "伊豆半島の南東部に位置する下田。”白い砂浜と青い海”のイメージが強いエリアですが、実は”街歩き”も楽しい場所なんです。天気の良い日は、自転車を借りてサイクリングもおすすめですよ♪\n今回は、下田の街歩きスポット…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "”街歩き”が楽しいまち、下田。自然・歴史・文化を満喫するおすすめ旅♪【静岡県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100017",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "静岡県",
+    "c_searchTags": [
+      "中部・北陸：静岡県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：静岡県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "”街歩き”が楽しいまち、下田。自然・歴史・文化を満喫するおすすめ旅♪【静岡県】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,517 @@
+{
+  "$id": "top-articles",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Hero-imageCaption {\ntext-shadow: 0 0 10px #010101;\n}\n\n/* バックグラウンドカラーを濃いめに */\n.Consultants-wrapper {\n    background-color: #f5f6f7;\n}\n.Locator-wrapper {\n    background-color: #f5f6f7;\n}\n.Teaser--article.Teaser--articleTop {\n    background-color: #f5f6f7;\n}\n.InfoItem {\n    background-color: #f5f6f7;\n}\n\n/* サブタイトルのラップ */\n.Consultants-subtitle {\nwhite-space: pre-wrap;\n}\n.Locator-subtitle {\nwhite-space: pre-wrap;\n}\n.Info-subtitle {\nwhite-space: pre-wrap;\n}\n\n\n/* Information セクションの画像をオリジナルのままの比率で表示 */\n.InfoItem-image {\n    height: unset;\n}\n\n/* アコーディオンタイトルのセンタリング */\n.FAQ-questionText {\n margin: auto;\nfont-size: 1.1rem;\n}\n\n/* FAQ のリンクの色 */\n.Consultants .FAQ--ace .FAQ-answerText a {\ncolor: #3498db;\n\n}\n\n/* スムーススクロール */\nhtml { \nscroll-behavior: smooth;\n}\n\n/* locator を hidden */\n#locator {\ndisplay: none;\n}",
+    "c_cSSMobile": "/* 現在地が折り返さないように */\na.Locator-button.Locator-geolocate {\n  width: 6rem;\n}\n\n\n/* locator を hidden */\n#locator {\ndisplay: none;\n}",
+    "c_metaDescription": "JTBスタッフが自らの体験にもとづくおすすめの旅やおでかけ先をご紹介。全国の旅のプロたちが日々記事を投稿します。ご旅行の参考にぜひ！ 投稿者のトラベルコンサルタントにオンラインでの旅行相談をすることもできます。",
+    "c_metaTitle": "JTB | スタッフ | おすすめ | 旅 | おでかけ | 記事 | ブログ | ジェイティービー |",
+    "c_news_NewsList": [
+      "news_ap_area_000005",
+      "news_ap_area_000004",
+      "news_ap_chiki_100026",
+      "news_ap_chiki_100027",
+      "news_ap_area_000002",
+      "news_ap_chiki_100029",
+      "news_ap_chiki_100028_01",
+      "news_ap_chiki_100022",
+      "news_ap_k_takeda507_006",
+      "news_ap_chiki_100025",
+      "news_ap_chiki_100024",
+      "news_ap_chiki_100018",
+      "news_ap_chiki_100021_01"
+    ],
+    "c_pagesURL": "https://consultants.jtb.co.jp/top-articles",
+    "c_topBreadcrumb": {
+      "label": "投稿記事TOP"
+    },
+    "c_top_AnchorLinks": [
+      {
+        "link": "#consultants",
+        "linkType": "OTHER"
+      },
+      {
+        "link": "#locator",
+        "linkType": "OTHER"
+      },
+      {
+        "link": "#info",
+        "linkType": "OTHER"
+      },
+      {
+        "link": "#info",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_top_Articles": [
+      "ap_area_000005",
+      "ap_area_000004",
+      "ap_chiki_100026",
+      "ap_chiki_100027",
+      "ap_area_000002",
+      "ap_chiki_100029",
+      "ap_chiki_100028_01",
+      "ap_chiki_100022",
+      "ap_k_takeda507_006",
+      "ap_chiki_100025",
+      "ap_chiki_100024",
+      "ap_chiki_100018",
+      "ap_chiki_100021_01"
+    ],
+    "c_top_ArticlesButton1": {
+      "label": "すべての記事を見る",
+      "link": "https://consultants.jtb.co.jp/articles",
+      "linkType": "OTHER"
+    },
+    "c_top_ArticlesButton2": {
+      "label": "すべての記事を見る",
+      "link": "https://consultants.jtb.co.jp/articles",
+      "linkType": "OTHER"
+    },
+    "c_top_ArticlesSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e",
+    "c_top_ArticlesSectionSubTitle": "▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/articles\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e記事の検索\u0026絞り込みはこちら\u003c/a\u003e\u003c/span\u003e",
+    "c_top_ArticlesSectionTitle": "Pick Up 記事",
+    "c_top_BannerBackgroundColor": "#FFF100",
+    "c_top_ConsultantsButton1": {
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_top_ConsultantsButton2": {
+      "link": "https://link.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNF1DN-qJBWQd",
+      "linkType": "URL"
+    },
+    "c_top_ConsultantsPullDownLabel": "記事についてのご案内",
+    "c_top_ConsultantsPullDownText": "※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。  \n※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+    "c_top_ConsultantsSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e\n\u003cscript\u003e\nwindow.addEventListener(\u0027load\u0027, function() {\n  atags \u003d document.querySelectorAll(\u0027.FAQ-answerText a[href^\u003d\"https:\"]\u0027);\n  atags.forEach(function(atag){atag.setAttribute(\u0027target\u0027, \u0027_blank\u0027);});\n});\n\u003c/script\u003e",
+    "c_top_ConsultantsSectionSubTitle": "日本三景「天橋立」を眺めながら、名物カニ会席を贅沢に！\n\n\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_m_takasawa518_002\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e【京都府　文珠荘】\u003c/a\u003e\u003c/span\u003e\n\n日本三景・天橋立をすべてのお部屋から望める純和風旅館「文珠荘」。\n和のリゾートとして親しまれ、2019年には和モダン客室や特別室「海のみどり」が改装オープン。\nさらに2021年8月には大宴会場を個室食会場に改装するなど、常に進化を遂げているのも魅力です。\n\n天橋立運河の畔にあり、天橋立周辺の数ある旅館のなかでも抜群の立地。\n丹後はブリしゃぶ料理の発祥の地として知られますが、冬の味覚で外せないのは、脂がたっぷりのった「寒鰤」と冬の味覚の王様「カニ」。丹後のブリとカニをぜひご堪能ください！",
+    "c_top_ConsultantsSectionTitle": "Pick Up！",
+    "c_top_HeroImage": {
+      "height": 547,
+      "sourceUrl": "http://a.mktgcdn.com/p/D7xgPJlcPfr1MSgB75bJbsMvlL0VI3zCWuo98GxHs7w/1272x547.jpg",
+      "thumbnails": [
+        {
+          "height": 547,
+          "url": "//a.mktgcdn.com/p-sandbox/D7xgPJlcPfr1MSgB75bJbsMvlL0VI3zCWuo98GxHs7w/1272x547.jpg",
+          "width": 1272
+        },
+        {
+          "height": 266,
+          "url": "//a.mktgcdn.com/p-sandbox/D7xgPJlcPfr1MSgB75bJbsMvlL0VI3zCWuo98GxHs7w/619x266.jpg",
+          "width": 619
+        },
+        {
+          "height": 258,
+          "url": "//a.mktgcdn.com/p-sandbox/D7xgPJlcPfr1MSgB75bJbsMvlL0VI3zCWuo98GxHs7w/600x258.jpg",
+          "width": 600
+        },
+        {
+          "height": 84,
+          "url": "//a.mktgcdn.com/p-sandbox/D7xgPJlcPfr1MSgB75bJbsMvlL0VI3zCWuo98GxHs7w/196x84.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/D7xgPJlcPfr1MSgB75bJbsMvlL0VI3zCWuo98GxHs7w/1272x547.jpg",
+      "width": 1272
+    },
+    "c_top_HeroImageMobile": {
+      "height": 741,
+      "sourceUrl": "http://a.mktgcdn.com/p/vnSdQI2NicP75jvA3R8T_Ateij7Mwi4uJEHYhJy8gZM/1269x741.jpg",
+      "thumbnails": [
+        {
+          "height": 741,
+          "url": "//a.mktgcdn.com/p-sandbox/Z1pd91V4l-ju5LVGh6Y5Q9xKtV6bvFgw2NydIW2PD9U/1269x741.jpg",
+          "width": 1269
+        },
+        {
+          "height": 361,
+          "url": "//a.mktgcdn.com/p-sandbox/Z1pd91V4l-ju5LVGh6Y5Q9xKtV6bvFgw2NydIW2PD9U/619x361.jpg",
+          "width": 619
+        },
+        {
+          "height": 350,
+          "url": "//a.mktgcdn.com/p-sandbox/Z1pd91V4l-ju5LVGh6Y5Q9xKtV6bvFgw2NydIW2PD9U/600x350.jpg",
+          "width": 600
+        },
+        {
+          "height": 114,
+          "url": "//a.mktgcdn.com/p-sandbox/Z1pd91V4l-ju5LVGh6Y5Q9xKtV6bvFgw2NydIW2PD9U/196x114.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/Z1pd91V4l-ju5LVGh6Y5Q9xKtV6bvFgw2NydIW2PD9U/1269x741.jpg",
+      "width": 1269
+    },
+    "c_top_Info": [
+      {
+        "cTA1": {
+          "label": "Twitter",
+          "link": "https://twitter.com/JTB_jp",
+          "linkType": "URL"
+        },
+        "description": "旅やおでかけ情報のほか、日常の出来事、クイズ、時には詩などもつぶやきます。観光地応援などのキャンペーンも要チェック。",
+        "image": {
+          "height": 667,
+          "sourceUrl": "http://a.mktgcdn.com/p/0SNCQqNoqXT4JfhZvrG0OuiCGnhb61CRx_aHkCSGGKs/1000x667.jpg",
+          "thumbnails": [
+            {
+              "height": 667,
+              "url": "//a.mktgcdn.com/p-sandbox/0SNCQqNoqXT4JfhZvrG0OuiCGnhb61CRx_aHkCSGGKs/1000x667.jpg",
+              "width": 1000
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/0SNCQqNoqXT4JfhZvrG0OuiCGnhb61CRx_aHkCSGGKs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/0SNCQqNoqXT4JfhZvrG0OuiCGnhb61CRx_aHkCSGGKs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/0SNCQqNoqXT4JfhZvrG0OuiCGnhb61CRx_aHkCSGGKs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/0SNCQqNoqXT4JfhZvrG0OuiCGnhb61CRx_aHkCSGGKs/1000x667.jpg",
+          "width": 1000
+        },
+        "title": "JTB公式Twitter"
+      },
+      {
+        "cTA1": {
+          "label": "Instagram",
+          "link": "https://www.instagram.com/jtb_jp/?hl\u003dja",
+          "linkType": "URL"
+        },
+        "description": "”旅に行きたくなる“情報をお届け！旅先の素敵な写真に #joytb をつけて投稿するとこちらのアカウントで紹介させていただきます。",
+        "image": {
+          "height": 667,
+          "sourceUrl": "http://a.mktgcdn.com/p/KL_NZVIYV18I-kn1lhpsViwa9A2Ndjg7Q8pn6S1oJnE/1000x667.jpg",
+          "thumbnails": [
+            {
+              "height": 667,
+              "url": "//a.mktgcdn.com/p-sandbox/KL_NZVIYV18I-kn1lhpsViwa9A2Ndjg7Q8pn6S1oJnE/1000x667.jpg",
+              "width": 1000
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/KL_NZVIYV18I-kn1lhpsViwa9A2Ndjg7Q8pn6S1oJnE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/KL_NZVIYV18I-kn1lhpsViwa9A2Ndjg7Q8pn6S1oJnE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/KL_NZVIYV18I-kn1lhpsViwa9A2Ndjg7Q8pn6S1oJnE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/KL_NZVIYV18I-kn1lhpsViwa9A2Ndjg7Q8pn6S1oJnE/1000x667.jpg",
+          "width": 1000
+        },
+        "title": "JTB公式Instagram"
+      },
+      {
+        "cTA1": {
+          "label": "YouTube",
+          "link": "https://www.youtube.com/channel/UCjDeNR2xFC4wFh3txHql20Q",
+          "linkType": "URL"
+        },
+        "description": "国内・海外旅行に纏わる様々なイメージ動画のほか、旅先の情報、旅のノウハウ、JTBの社会活動などをご紹介しています。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "http://a.mktgcdn.com/p/oQxD7AOyuiP3faHJODp1UkF4m6tYTamvnnk9pDu-zac/900x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "//a.mktgcdn.com/p-sandbox/oQxD7AOyuiP3faHJODp1UkF4m6tYTamvnnk9pDu-zac/900x600.jpg",
+              "width": 900
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/oQxD7AOyuiP3faHJODp1UkF4m6tYTamvnnk9pDu-zac/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/oQxD7AOyuiP3faHJODp1UkF4m6tYTamvnnk9pDu-zac/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/oQxD7AOyuiP3faHJODp1UkF4m6tYTamvnnk9pDu-zac/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/oQxD7AOyuiP3faHJODp1UkF4m6tYTamvnnk9pDu-zac/900x600.jpg",
+          "width": 900
+        },
+        "title": "JTB公式YouTube"
+      },
+      {
+        "cTA1": {
+          "label": "詳細",
+          "link": "https://www.jtb.co.jp/kando/",
+          "linkType": "URL"
+        },
+        "description": "その土地の、その瞬間やその季節にしか見られない風景があります。そんな貴重な「感動の瞬間」を切り取ってご紹介します！",
+        "image": {
+          "height": 600,
+          "sourceUrl": "http://a.mktgcdn.com/p/BSVmM5pfLeawg_n0CxxVKB43hR-gNCsJaOZHQhxr4Dw/900x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "//a.mktgcdn.com/p-sandbox/BSVmM5pfLeawg_n0CxxVKB43hR-gNCsJaOZHQhxr4Dw/900x600.jpg",
+              "width": 900
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/BSVmM5pfLeawg_n0CxxVKB43hR-gNCsJaOZHQhxr4Dw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/BSVmM5pfLeawg_n0CxxVKB43hR-gNCsJaOZHQhxr4Dw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/BSVmM5pfLeawg_n0CxxVKB43hR-gNCsJaOZHQhxr4Dw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/BSVmM5pfLeawg_n0CxxVKB43hR-gNCsJaOZHQhxr4Dw/900x600.jpg",
+          "width": 900
+        },
+        "title": "JTB「感動の瞬間」"
+      },
+      {
+        "cTA1": {
+          "label": "詳細",
+          "link": "https://column.jtb.co.jp/",
+          "linkType": "URL"
+        },
+        "description": "海外旅行おすすめの過ごし方をご提案！旅行会社だからこそ知っているこだわりの旅行プランをお届けします。",
+        "image": {
+          "height": 300,
+          "sourceUrl": "http://a.mktgcdn.com/p/qxqBb8dc0ss1cE5iGd7YGYDpubl420p5zYMtOGit0Xk/450x300.jpg",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "//a.mktgcdn.com/p-sandbox/qxqBb8dc0ss1cE5iGd7YGYDpubl420p5zYMtOGit0Xk/450x300.jpg",
+              "width": 450
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/qxqBb8dc0ss1cE5iGd7YGYDpubl420p5zYMtOGit0Xk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/qxqBb8dc0ss1cE5iGd7YGYDpubl420p5zYMtOGit0Xk/450x300.jpg",
+          "width": 450
+        },
+        "title": "海外おすすめモデルプラン"
+      }
+    ],
+    "c_top_Info2": [
+      {
+        "cTA1": {
+          "label": "詳細",
+          "link": "https://consultants.jtb.co.jp/top",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 203,
+          "sourceUrl": "http://a.mktgcdn.com/p/R4YSR5n3wQcHvyOgxkQfij1h1CtKcr547X-b6GfewlM/360x203.jpg",
+          "thumbnails": [
+            {
+              "height": 203,
+              "url": "//a.mktgcdn.com/p-sandbox/9ejiBKk0zGnI2mqYFbxjLayaZHHGIzoTJKEcK_Hwi5Q/360x203.jpg",
+              "width": 360
+            },
+            {
+              "height": 111,
+              "url": "//a.mktgcdn.com/p-sandbox/9ejiBKk0zGnI2mqYFbxjLayaZHHGIzoTJKEcK_Hwi5Q/196x111.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/9ejiBKk0zGnI2mqYFbxjLayaZHHGIzoTJKEcK_Hwi5Q/360x203.jpg",
+          "width": 360
+        },
+        "title": "オンライン相談"
+      },
+      {
+        "cTA1": {
+          "label": "詳細",
+          "link": "https://www.jtb.co.jp/stores/onlineconsul/local.asp",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 203,
+          "sourceUrl": "http://a.mktgcdn.com/p/wZIlJwJboGUHJ4UDTi8sm1ztsjC7C7x4Hhx3mxqzYp4/360x203.jpg",
+          "thumbnails": [
+            {
+              "height": 203,
+              "url": "//a.mktgcdn.com/p-sandbox/wZIlJwJboGUHJ4UDTi8sm1ztsjC7C7x4Hhx3mxqzYp4/360x203.jpg",
+              "width": 360
+            },
+            {
+              "height": 111,
+              "url": "//a.mktgcdn.com/p-sandbox/wZIlJwJboGUHJ4UDTi8sm1ztsjC7C7x4Hhx3mxqzYp4/196x111.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/wZIlJwJboGUHJ4UDTi8sm1ztsjC7C7x4Hhx3mxqzYp4/360x203.jpg",
+          "width": 360
+        },
+        "title": "旅先に旅行相談"
+      },
+      {
+        "cTA1": {
+          "label": "詳細",
+          "link": "https://www.jtb.co.jp/stores/callcenter/",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 203,
+          "sourceUrl": "http://a.mktgcdn.com/p/AXKivFT9F5b5DI65nJhMTl5YwbA8N_h0_5vVy0MPZXM/360x203.jpg",
+          "thumbnails": [
+            {
+              "height": 203,
+              "url": "//a.mktgcdn.com/p-sandbox/AXKivFT9F5b5DI65nJhMTl5YwbA8N_h0_5vVy0MPZXM/360x203.jpg",
+              "width": 360
+            },
+            {
+              "height": 111,
+              "url": "//a.mktgcdn.com/p-sandbox/AXKivFT9F5b5DI65nJhMTl5YwbA8N_h0_5vVy0MPZXM/196x111.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/AXKivFT9F5b5DI65nJhMTl5YwbA8N_h0_5vVy0MPZXM/360x203.jpg",
+          "width": 360
+        },
+        "title": "電話で旅行申込"
+      },
+      {
+        "cTA1": {
+          "label": "詳細",
+          "link": "https://www.jtb.co.jp/myjtb/campaign/coupon/",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 203,
+          "sourceUrl": "http://a.mktgcdn.com/p/AsRvWLArtP0jEMJf9SauYoH5Ev89WWXr9u4WNtl0cD8/360x203.jpg",
+          "thumbnails": [
+            {
+              "height": 203,
+              "url": "//a.mktgcdn.com/p-sandbox/70YETPSPzXfxp51wb_MRoX10zy0eWued_7M__7mnoAE/360x203.jpg",
+              "width": 360
+            },
+            {
+              "height": 111,
+              "url": "//a.mktgcdn.com/p-sandbox/70YETPSPzXfxp51wb_MRoX10zy0eWued_7M__7mnoAE/196x111.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/70YETPSPzXfxp51wb_MRoX10zy0eWued_7M__7mnoAE/360x203.jpg",
+          "width": 360
+        },
+        "title": "お得クーポン"
+      },
+      {
+        "cTA1": {
+          "label": "詳細",
+          "link": "https://www.jtb.co.jp/fukuharu/",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 203,
+          "sourceUrl": "http://a.mktgcdn.com/p/evBjfp1dP9Tx9L75M_DyBxPCaaehAdaOswt7tScuXdc/360x203.png",
+          "thumbnails": [
+            {
+              "height": 203,
+              "url": "//a.mktgcdn.com/p-sandbox/Iy56jx-F9X1rJO2J3lJTWfggxLdJgKISLpXHThCrqDw/360x203.png",
+              "width": 360
+            },
+            {
+              "height": 111,
+              "url": "//a.mktgcdn.com/p-sandbox/Iy56jx-F9X1rJO2J3lJTWfggxLdJgKISLpXHThCrqDw/196x111.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/Iy56jx-F9X1rJO2J3lJTWfggxLdJgKISLpXHThCrqDw/360x203.png",
+          "width": 360
+        },
+        "title": "いまだけ！お年玉"
+      },
+      {
+        "cTA1": {
+          "label": "詳細",
+          "link": "https://www.jtb.co.jp/kokunai/chiikiwari/",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 203,
+          "sourceUrl": "http://a.mktgcdn.com/p/mCZ6GmF4vAg1BfuIRSU4Z_w-t4Qb1-zX3FHHlZ14K8Y/360x203.jpg",
+          "thumbnails": [
+            {
+              "height": 203,
+              "url": "//a.mktgcdn.com/p-sandbox/KbMGxon96xVbpz5jodyPxmeY2pvKEQc_UckjmJEogyo/360x203.jpg",
+              "width": 360
+            },
+            {
+              "height": 111,
+              "url": "//a.mktgcdn.com/p-sandbox/KbMGxon96xVbpz5jodyPxmeY2pvKEQc_UckjmJEogyo/196x111.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/KbMGxon96xVbpz5jodyPxmeY2pvKEQc_UckjmJEogyo/360x203.jpg",
+          "width": 360
+        },
+        "title": "地域の旅行支援"
+      },
+      {
+        "cTA1": {
+          "label": "詳細",
+          "link": "https://www.jtb.co.jp/theme/onlinetour/",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 203,
+          "sourceUrl": "http://a.mktgcdn.com/p/cG38cgTNN-G22w0OQh7V1xVkQRHhpy0XmNIZbrhyQFc/360x203.jpg",
+          "thumbnails": [
+            {
+              "height": 203,
+              "url": "//a.mktgcdn.com/p-sandbox/PEKkbQsDzLoRZd4HeJJbomqaYDeVibnbvu8KGCtiDsY/360x203.jpg",
+              "width": 360
+            },
+            {
+              "height": 111,
+              "url": "//a.mktgcdn.com/p-sandbox/PEKkbQsDzLoRZd4HeJJbomqaYDeVibnbvu8KGCtiDsY/196x111.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/PEKkbQsDzLoRZd4HeJJbomqaYDeVibnbvu8KGCtiDsY/360x203.jpg",
+          "width": 360
+        },
+        "title": "オンラインツアー"
+      }
+    ],
+    "c_top_Info2SectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_Info2SectionTitle": "旅の相談\u0026お得情報はこちら",
+    "c_top_InfoSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_InfoSectionSubTitle": "記事の他にもSNSやWeb特集で旅のコンテンツを紹介しています",
+    "c_top_InfoSectionTitle": "まだある！JTBの旅コンテンツ",
+    "c_top_LocatorSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e",
+    "c_top_NotificationBannerMultiText": "JTBスタッフのおすすめ旅をご紹介！全国の旅のプロたちがおすすめの旅を日々投稿します",
+    "name": "TOP ARTICLES"
+  },
+  "entityType": "ce_tOP",
+  "labels": []
+}

@@ -1,0 +1,810 @@
+{
+  "$id": "news_web_kokunai_0016",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1363,
+      "sourceUrl": "https://a.mktgcdn.com/p/9hdYHfJ2b8yQSLvJgUlz3PSownEQgCm3T2ziQvgTv84/2048x1363.jpg",
+      "thumbnails": [
+        {
+          "height": 1363,
+          "url": "https://a.mktgcdn.com/p-sandbox/9hdYHfJ2b8yQSLvJgUlz3PSownEQgCm3T2ziQvgTv84/2048x1363.jpg",
+          "width": 2048
+        },
+        {
+          "height": 1265,
+          "url": "https://a.mktgcdn.com/p-sandbox/9hdYHfJ2b8yQSLvJgUlz3PSownEQgCm3T2ziQvgTv84/1900x1265.jpg",
+          "width": 1900
+        },
+        {
+          "height": 412,
+          "url": "https://a.mktgcdn.com/p-sandbox/9hdYHfJ2b8yQSLvJgUlz3PSownEQgCm3T2ziQvgTv84/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "https://a.mktgcdn.com/p-sandbox/9hdYHfJ2b8yQSLvJgUlz3PSownEQgCm3T2ziQvgTv84/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "https://a.mktgcdn.com/p-sandbox/9hdYHfJ2b8yQSLvJgUlz3PSownEQgCm3T2ziQvgTv84/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/9hdYHfJ2b8yQSLvJgUlz3PSownEQgCm3T2ziQvgTv84/2048x1363.jpg",
+      "width": 2048
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "沖縄の記事一覧はこちら",
+        "uRL": "https://www.jtb.co.jp/news/list/kokunai/okinawa"
+      },
+      {
+        "linkText": "沖縄の旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/"
+      },
+      {
+        "linkText": "沖縄のホテル・旅館・宿を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/"
+      },
+      {
+        "linkText": "沖縄のツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_air/a/okinawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "【JTB】がおすすめする沖縄2泊3日モデルコース！人気の観光スポットの数々を巡る、大満足なプランをご紹介！沖縄に来たらぜひ行きたい定番ともいえる名所から、話題のスポットまで、沖縄の多彩な魅力を体感できる3日間のプランをご提案します。",
+    "c_ap_Tags": [
+      "ビーチ",
+      "2泊3日",
+      "インスタ映え",
+      "ビーチリゾート",
+      "モデルコース",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "沖縄の2泊3日モデルコース！人気スポットを巡って沖縄の魅力を満喫しよう",
+    "c_linkedArea3News": [
+      "okinawa_all"
+    ],
+    "c_metaDescription": "【JTB】がおすすめする沖縄2泊3日モデルコース！人気の観光スポットの数々を巡る、大満足なプランをご紹介！沖縄に来たらぜひ行きたい定番ともいえる名所から、話題のスポットまで、沖縄の多彩な魅力を体感できる3日間のプランをご提案します。",
+    "c_metaTitle": "沖縄の2泊3日モデルコース！人気スポットを巡って沖縄の魅力を満喫しよう",
+    "c_news_CTAs": [
+      {
+        "label": "沖縄の旅行特集はこちら",
+        "link": "https://www.jtb.co.jp/kokunai/area/okinawa/",
+        "linkType": "URL"
+      },
+      {
+        "label": "沖縄のホテル・旅館・宿を探す",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/",
+        "linkType": "URL"
+      },
+      {
+        "label": "沖縄のツアーを探す",
+        "link": "https://www.jtb.co.jp/kokunai_air/a/okinawa/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "生命の神秘を辿る！ガンガラーの谷ガイドツアーをみる",
+          "link": "https://tabisugo.jtb.co.jp/coupons/13112",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "美ら海水族館のチケット付宿泊プランをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/feature/churaumitk/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "沖縄美ら海水族館のチケットをみる",
+          "link": "https://www.jtb.co.jp/leisure/fp/qKS005177/",
+          "linkType": "URL"
+        },
+        "description": "自然豊かな沖縄には、まるで日本とは思えないような絶景がいっぱい！レンタカーで簡単に巡ることができるスポットをいくつかご紹介しましょう。※下記はあくまで目安です。各スポットの滞在時間や移動時間は、ご自身の興味や体力に合わせて調整してください。",
+        "image": {
+          "alternateText": "沖縄満喫クーポンで訪れられる石垣島",
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/a8ZMY2aOs0pzncweY7vyiX5-6IVmKaTpY_Mn-_yxZBU/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/a8ZMY2aOs0pzncweY7vyiX5-6IVmKaTpY_Mn-_yxZBU/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/a8ZMY2aOs0pzncweY7vyiX5-6IVmKaTpY_Mn-_yxZBU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/a8ZMY2aOs0pzncweY7vyiX5-6IVmKaTpY_Mn-_yxZBU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/a8ZMY2aOs0pzncweY7vyiX5-6IVmKaTpY_Mn-_yxZBU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/a8ZMY2aOs0pzncweY7vyiX5-6IVmKaTpY_Mn-_yxZBU/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "掲載許可：南城市教育委員会",
+        "infoBlockLabel": "ガンガラーの谷の基本情報",
+        "infoBlockText": "交通：那覇空港から車で約30分住所：沖縄県南城市玉城前川202TEL：098-948-4192営業時間：9：00〜17：30（電話受付）※ツアー時間は要確認（電話／オンライン）料金：大人2,500円（保護者同伴の小学生以下無料）学生（中学生以上）1,500円（要学生証提示）所要時間：1時間20分※ツアー以外の入場不可",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．【1日目モデルコース】絶景に出会えるプラン"
+      },
+      {
+        "cTA1": {
+          "label": "蒼の絶景を巡る！4日間の沖縄周遊プランをみる",
+          "link": "https://www.jtb.co.jp/kokunai-escort/rweb/kokunai/pages/CourseData.aspx?COURSENO\u003dK09210",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "木漏れ日が差し込む幸福！備瀬のフクギを詳しくみる",
+          "link": "https://www.jtb.co.jp/kando/detail/200.asp",
+          "linkType": "URL"
+        },
+        "description": "今もなお美しい自然が多く残る沖縄。ガンガラーの谷は鍾乳洞だった場所が崩れてできた、豊かな自然が残る亜熱帯の森です。谷の広さは約1万4,500坪に及び、歩行距離は約1km。一足踏み入れるとそこには広大な太古の世界が広がっています。ガンガラーの谷では毎日ツアーが開催されており、専任のガイドさんによる案内のもと、森林や洞窟の中を散策することができます。森の賢者と言われるガジュマルや、古代人が住んでいたとされる住遺跡など自然や生命の神秘を感じられる場所が多く、見どころ満載。体験ツアーは出発時間が決められており定員制なので早めの予約がおすすめです。沖縄の大自然を満喫しましょう。",
+        "image": {
+          "alternateText": "JTBラウンジのイメージ",
+          "height": 1026,
+          "sourceUrl": "https://a.mktgcdn.com/p/cSZN_NLYjeszUMqxw1RsX6t_tNYqIvy4ngXY6neJ8MI/1536x1026.jpg",
+          "thumbnails": [
+            {
+              "height": 1026,
+              "url": "https://a.mktgcdn.com/p-sandbox/cSZN_NLYjeszUMqxw1RsX6t_tNYqIvy4ngXY6neJ8MI/1536x1026.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/cSZN_NLYjeszUMqxw1RsX6t_tNYqIvy4ngXY6neJ8MI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/cSZN_NLYjeszUMqxw1RsX6t_tNYqIvy4ngXY6neJ8MI/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/cSZN_NLYjeszUMqxw1RsX6t_tNYqIvy4ngXY6neJ8MI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cSZN_NLYjeszUMqxw1RsX6t_tNYqIvy4ngXY6neJ8MI/1536x1026.jpg",
+          "width": 1536
+        },
+        "imageCaption": "国営沖縄記念公園（海洋博公園）・沖縄美ら海水族館",
+        "infoBlockLabel": "ニライカナイ橋の基本情報",
+        "infoBlockText": "交通：那覇空港から車で約30分住所：沖縄県南城市知念知念",
+        "sectionLevel": "h3",
+        "sectionTitle": "10:00｜ガンガラーの谷"
+      },
+      {
+        "cTA1": {
+          "label": "斎場御嶽周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5000760/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "おきなわワールド周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5000730/",
+          "linkType": "URL"
+        },
+        "description": "ニライカナイ橋は沖縄県の南城市に位置し、ニライ橋とカナイ橋の2つの橋から成り立つドライブスポットです。橋の頂上付近にはトンネルがあり、トンネルを抜けると目の前には太平洋と青い空の絶景が広がります。ドライブしながら見ても十分きれいなのですが、じっくり景色を楽しみたいならトンネル上の展望所へ。展望所へは待機スペースに車を止めて徒歩で向かいましょう。展望所からはニライカナイ橋を一望でき、橋の曲線美や、海や周辺に広がる木々のコントラストに思わず見とれてしまいます。ニライカナイは島の方言で理想郷や楽園という意味があるそう。遠くには知念岬や久高島を望むことができる絶景はまさに名前の通り。ドライブの途中に一度立ち寄ってみてはいかがでしょうか。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/gj0nrMzyxl0rJRKmvhUrobXmHn_R0XSo7G5fVhANfMs/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/gj0nrMzyxl0rJRKmvhUrobXmHn_R0XSo7G5fVhANfMs/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/gj0nrMzyxl0rJRKmvhUrobXmHn_R0XSo7G5fVhANfMs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/gj0nrMzyxl0rJRKmvhUrobXmHn_R0XSo7G5fVhANfMs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/gj0nrMzyxl0rJRKmvhUrobXmHn_R0XSo7G5fVhANfMs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gj0nrMzyxl0rJRKmvhUrobXmHn_R0XSo7G5fVhANfMs/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "※画像はイメージです",
+        "infoBlockLabel": "斎場御嶽の基本情報",
+        "infoBlockText": "交通：那覇空港から車で約50分住所：沖縄県南城市知念久手堅地内TEL：098-949-1899営業時間：3月〜10月　9：00〜18：00（最終入館17：30）　　　　　11月〜2月　 9：00〜17：30（最終入館17：00）料金：大人（高校生以上）300円、小人（小・中学生）150円",
+        "sectionLevel": "h3",
+        "sectionTitle": "11:30｜ニライカナイ橋"
+      },
+      {
+        "cTA1": {
+          "label": "美浜アメリカンビレッジ周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5001325/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "初心者必見！沖縄の3泊4日モデルコースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0017",
+          "linkType": "URL"
+        },
+        "description": "御嶽（うたき）とは琉球の信仰における聖地の総称です。沖縄県には数々の御嶽が存在しますが、その中でも琉球王国最高の聖地として位置づけられている斎場御嶽。ここでは琉球の最高神女（さいこうしんじょ）であった聞得大君（きこえおおきみ）の就任の儀式が行われ、現在でもその信仰は絶えることなく続いています。2000年には「琉球王国のグスク及び関連遺産群」のひとつとして世界遺産にも登録されました。天気がいい日には久高島が望め、絶景を楽しむことができます。斎場御嶽はとても神聖な場所です。最低限のマナーを守り、しっかり心の準備を整えてから訪れましょう。また、斎場御嶽では静寂の確保・自然保護のため年2回の休息日が設けられています。訪れる際には休息日のご確認をお忘れなく。",
+        "image": {
+          "height": 1022,
+          "sourceUrl": "https://a.mktgcdn.com/p/0SokDCCBMYtfWNsmlT17IxYuPmB0J_8zD1xrWz-WDB0/1536x1022.jpg",
+          "thumbnails": [
+            {
+              "height": 1022,
+              "url": "https://a.mktgcdn.com/p-sandbox/0SokDCCBMYtfWNsmlT17IxYuPmB0J_8zD1xrWz-WDB0/1536x1022.jpg",
+              "width": 1536
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/0SokDCCBMYtfWNsmlT17IxYuPmB0J_8zD1xrWz-WDB0/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/0SokDCCBMYtfWNsmlT17IxYuPmB0J_8zD1xrWz-WDB0/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/0SokDCCBMYtfWNsmlT17IxYuPmB0J_8zD1xrWz-WDB0/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0SokDCCBMYtfWNsmlT17IxYuPmB0J_8zD1xrWz-WDB0/1536x1022.jpg",
+          "width": 1536
+        },
+        "imageCaption": "※画像はイメージです",
+        "infoBlockLabel": "美浜アメリカンビレッジの基本情報",
+        "infoBlockText": "アクセス：那覇空港から車で約45分住所：沖縄県中頭軍北谷町美浜9-1TEL：098-926-4455（北谷町観光情報センター）営業時間：店舗により異なる",
+        "sectionLevel": "h3",
+        "sectionTitle": "12:00｜斎場御嶽（せーふぁーうたき）"
+      },
+      {
+        "cTA1": {
+          "label": "北谷公園サンセットビーチ周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/J0040831/",
+          "linkType": "URL"
+        },
+        "description": "美浜アメリカンビレッジは米軍の基地跡を利用した複合リゾートタウン。大きな観覧車が目印で、施設の中には人気のアミューズメント施設やショップ、レストラン、映画館やライブハウスなど、子供から大人まで楽しめるエンタメスポットがひしめきあっています。ほかにも歩道がレンガになっていたり、あちらこちらにヤシの木が植えられていたりと施設内を歩いているだけでも海外に訪れたかのような気分を味わえます。アメリカンな雰囲気漂うショップや絶品グルメ、まるで映画のセットのようなカラフルな街並みはまさにフォトジェニック。異国情緒あふれる空間は、日本人観光客はもちろん、外国人にも大人気です。沖縄ならではの雰囲気を思う存分満喫しましょう。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/850-w-qG57bWr6Ub0zpCFuC1MWWeh8uLi_z9koOB7FQ/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/850-w-qG57bWr6Ub0zpCFuC1MWWeh8uLi_z9koOB7FQ/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/850-w-qG57bWr6Ub0zpCFuC1MWWeh8uLi_z9koOB7FQ/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/850-w-qG57bWr6Ub0zpCFuC1MWWeh8uLi_z9koOB7FQ/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/850-w-qG57bWr6Ub0zpCFuC1MWWeh8uLi_z9koOB7FQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/850-w-qG57bWr6Ub0zpCFuC1MWWeh8uLi_z9koOB7FQ/1536x1152.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "北谷公園サンセットビーチの基本情報",
+        "infoBlockText": "交通：那覇空港から車で約50分住所：沖縄県中頭郡北谷町美浜2TEL：098-936-8273（サンセットビーチ管理棟）遊泳期間：4月中旬〜10月末営業時間：9：00〜18：00（時期や天候により終了時間に変動あり）入場料：無料",
+        "sectionLevel": "h3",
+        "sectionTitle": "13:00｜美浜（みはま）アメリカンビレッジ"
+      },
+      {
+        "cTA1": {
+          "label": "読谷村・残波岬エリアの宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/4732401/",
+          "linkType": "URL"
+        },
+        "description": "北谷公園サンセットビーチは、美浜アメリカンビレッジに隣接するカジュアルなサンセットビーチ。海水浴はもちろん、近くにはアミューズメント施設も多いので、子供連れのファミリーから外国人の観光客まで幅広く人気の観光スポットです。ビーチサイドにはバーベキューエリアもあり、レンタル機材や各種食材メニューも充実しています。少人数から利用可能で、当日予約なしでも楽しめるプランもあります。夕方ごろには、ゆっくりと海に沈む美しい夕焼けを堪能できます。サンセットの見ごろは日の入りの30分前〜45分前がおすすめ。余裕をもって早めの到着を心がけましょう。",
+        "image": {
+          "height": 1018,
+          "sourceUrl": "https://a.mktgcdn.com/p/aAEhnV8Lv1q4hHcp3jTdYm1q0_xoMfuWLXDrOweNA0Y/1536x1018.jpg",
+          "thumbnails": [
+            {
+              "height": 1018,
+              "url": "https://a.mktgcdn.com/p-sandbox/aAEhnV8Lv1q4hHcp3jTdYm1q0_xoMfuWLXDrOweNA0Y/1536x1018.jpg",
+              "width": 1536
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/aAEhnV8Lv1q4hHcp3jTdYm1q0_xoMfuWLXDrOweNA0Y/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/aAEhnV8Lv1q4hHcp3jTdYm1q0_xoMfuWLXDrOweNA0Y/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/aAEhnV8Lv1q4hHcp3jTdYm1q0_xoMfuWLXDrOweNA0Y/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aAEhnV8Lv1q4hHcp3jTdYm1q0_xoMfuWLXDrOweNA0Y/1536x1018.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "沖縄美ら海水族館の基本情報",
+        "infoBlockText": "アクセス：那覇空港から車で約2時間（高速道路利用）　　　　　 バスで約2時間30分（乗り換えなし高速バス利用）住所：沖縄県国頭郡本部町石川424（海洋博公園内）TEL：0980-48-3748",
+        "sectionLevel": "h3",
+        "sectionTitle": "15:00｜北谷（ちゃたん）公園サンセットビーチ"
+      },
+      {
+        "cTA1": {
+          "label": "美ら海をおトクに満喫！美ら海とくとく5パスをみる",
+          "link": "https://www.jtb.co.jp/leisure/m/pE1028958/",
+          "linkType": "URL"
+        },
+        "description": "沖縄本島中部に位置する読谷村には、さわさわと揺れるサトウキビ畑をはじめ、海や森林などありのままの豊かな自然が多く残っています。2014年には日本一人口の多い村としても認定され、世界文化遺産の座喜味城跡（ざきみじょうあと）や琉球王国の街並みを再現した琉球王国 むら咲むらなど観光スポットも点在しています。なかでも、沖縄本島最西端にある残波岬は沖縄本島で夕日が最後に沈む場所としても有名な絶景スポット。高さ約30mの断崖が2kmほど連なるダイナミックな風景は日本有数の景勝地とされています。晴れた日には慶良間諸島（けらましょとう）も眺望でき、海岸沿いを歩きながら見るサンセットは必見です。そんな残波岬周辺には、透明度の高さを誇る美しいビーチや残波岬のサンセットを楽しめる人気リゾートホテルが点在しています。沖縄本島の観光スポットを巡る拠点としても便利な読谷村で、リゾートステイを満喫してみては？",
+        "image": {
+          "height": 1022,
+          "sourceUrl": "https://a.mktgcdn.com/p/acsbdQYR5NQk_JZA_8GoJfLXVUezY3-Ind35u_2wSdU/1536x1022.jpg",
+          "thumbnails": [
+            {
+              "height": 1022,
+              "url": "https://a.mktgcdn.com/p-sandbox/acsbdQYR5NQk_JZA_8GoJfLXVUezY3-Ind35u_2wSdU/1536x1022.jpg",
+              "width": 1536
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/acsbdQYR5NQk_JZA_8GoJfLXVUezY3-Ind35u_2wSdU/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/acsbdQYR5NQk_JZA_8GoJfLXVUezY3-Ind35u_2wSdU/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/acsbdQYR5NQk_JZA_8GoJfLXVUezY3-Ind35u_2wSdU/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/acsbdQYR5NQk_JZA_8GoJfLXVUezY3-Ind35u_2wSdU/1536x1022.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "備瀬のフクギ並木の基本情報",
+        "infoBlockText": "交通：那覇空港から車で約1時間50分住所：沖縄県国頭郡本部町備瀬389",
+        "sectionLevel": "h3",
+        "sectionTitle": "16:00｜読谷村（よみたんそん ）・残波岬 （ざんぱみさき ）"
+      },
+      {
+        "cTA1": {
+          "label": "備瀬のフクギ並木周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5001800/",
+          "linkType": "URL"
+        },
+        "description": "2日目は、旅のハイライトのひとつ、沖縄美ら海水族館を満喫。さらに、沖縄らしい自然やご当地グルメを満喫できるスポットを巡っていきます。※下記はあくまで目安です。各スポットの滞在時間や移動時間は、ご自身の興味や体力に合わせて調整してください。",
+        "image": {
+          "height": 973,
+          "sourceUrl": "https://a.mktgcdn.com/p/tYF8Xw7VZ3pxoy1rMHh0x0kWlTvmFkwyEFFI-Nbnink/1460x973.jpg",
+          "thumbnails": [
+            {
+              "height": 973,
+              "url": "https://a.mktgcdn.com/p-sandbox/F0eyYl-9lqlAYPQ6SS-ixi8pLssQ4SHD6Tx06qDgAPg/1460x973.jpg",
+              "width": 1460
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/F0eyYl-9lqlAYPQ6SS-ixi8pLssQ4SHD6Tx06qDgAPg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/F0eyYl-9lqlAYPQ6SS-ixi8pLssQ4SHD6Tx06qDgAPg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/F0eyYl-9lqlAYPQ6SS-ixi8pLssQ4SHD6Tx06qDgAPg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/F0eyYl-9lqlAYPQ6SS-ixi8pLssQ4SHD6Tx06qDgAPg/1460x973.jpg",
+          "width": 1460
+        },
+        "infoBlockLabel": "古宇利島の基本情報",
+        "infoBlockText": "アクセス：那覇空港から車で約1時間30分住所：沖縄県国頭郡今帰仁村古宇利 古宇利島",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．【2日目モデルコース】人気のスポットを巡るプラン"
+      },
+      {
+        "cTA1": {
+          "label": "古宇利島周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5001946/",
+          "linkType": "URL"
+        },
+        "description": "沖縄美ら海水族館は、雨の日でも遊びに行ける、沖縄観光の定番スポットです。世界最大級の水槽が目玉で、全長8.8mのジンベエザメやマンタなど多種多様な魚が泳ぐ姿は圧巻です。ほかにも約80種の造礁サンゴを飼育展示する「サンゴの海」、深海に生きる多様な生き物に出会えるエリアなど見所が満載です。「黒潮の海」大水槽を眺めながら、軽食を楽しめるカフェ「オーシャンブルー」も人気です。※開館状況等詳細は、沖縄美ら海水族館HPをご確認ください。",
+        "image": {
+          "height": 835,
+          "sourceUrl": "https://a.mktgcdn.com/p/S0zX4jdf6GLf-BjCdcgTQ0_XlntGaZ4neniwa9EYuxs/1024x835.jpg",
+          "thumbnails": [
+            {
+              "height": 835,
+              "url": "https://a.mktgcdn.com/p-sandbox/S0zX4jdf6GLf-BjCdcgTQ0_XlntGaZ4neniwa9EYuxs/1024x835.jpg",
+              "width": 1024
+            },
+            {
+              "height": 505,
+              "url": "https://a.mktgcdn.com/p-sandbox/S0zX4jdf6GLf-BjCdcgTQ0_XlntGaZ4neniwa9EYuxs/619x505.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/S0zX4jdf6GLf-BjCdcgTQ0_XlntGaZ4neniwa9EYuxs/552x450.jpg",
+              "width": 552
+            },
+            {
+              "height": 160,
+              "url": "https://a.mktgcdn.com/p-sandbox/S0zX4jdf6GLf-BjCdcgTQ0_XlntGaZ4neniwa9EYuxs/196x160.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/S0zX4jdf6GLf-BjCdcgTQ0_XlntGaZ4neniwa9EYuxs/1024x835.jpg",
+          "width": 1024
+        },
+        "infoBlockLabel": "「道の駅」許田やんばる物産センターの基本情報",
+        "infoBlockText": "アクセス：那覇空港から車で約1時間住所：沖縄県名護市許田17-1TEL：0980-54-0880営業時間：8：30〜19：00",
+        "sectionLevel": "h3",
+        "sectionTitle": "11:00｜海洋博公園　沖縄美ら海水族館"
+      },
+      {
+        "cTA1": {
+          "label": "恩納村の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/470306/",
+          "linkType": "URL"
+        },
+        "description": "フクギは台風の多い沖縄で防風林として用いられた植物の一種。備瀬の集落を取り囲むように植えられたフクギは数千本におよび、備瀬崎（びせざき）までおよそ1kmの並木道になっています。フクギの中には樹齢300年を超えるものも存在しているとか。",
+        "image": {
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/LLekdi9EecLwTr4_CDAIFPM81u5LSVfcz5LUa14c4z8/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/LLekdi9EecLwTr4_CDAIFPM81u5LSVfcz5LUa14c4z8/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/LLekdi9EecLwTr4_CDAIFPM81u5LSVfcz5LUa14c4z8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/LLekdi9EecLwTr4_CDAIFPM81u5LSVfcz5LUa14c4z8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/LLekdi9EecLwTr4_CDAIFPM81u5LSVfcz5LUa14c4z8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/LLekdi9EecLwTr4_CDAIFPM81u5LSVfcz5LUa14c4z8/1536x1025.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "万座毛の基本情報",
+        "infoBlockText": "交通：那覇空港から車で約1時間住所：沖縄県恩納村恩納",
+        "sectionLevel": "h3",
+        "sectionTitle": "13:00｜備瀬 （びせ ）のフクギ並木"
+      },
+      {
+        "cTA1": {
+          "label": "万座毛周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5001550/",
+          "linkType": "URL"
+        },
+        "description": "沖縄本島北部にある「古宇利島」は、2005年に隣接する屋我地島（やがじしま）との間に古宇利大橋が開通され、車で行ける離島として人気の観光スポットとなっています。橋を渡る際には真っ青な海の間を車で走り抜けることができるため、この絶景を目的に訪れる観光客も多いようです。島の入り口付近に広がる古宇利ビーチは、マリングッズのレンタルやシャワー、トイレ、駐車場などの施設が充実。観光客に人気のビーチです。海水浴はもちろん、シュノーケリングを楽しんだり、サンゴ礁をのぞいたりすることもできます。夕方にはきれいなサンセットが、夜になれば満点の星空を望むこともできるので、日が沈むまでゆったりと過ごすのもおすすめです。島の北部に位置するティーヌ浜には「ハートロック」と呼ばれるハート型の岩があることから、古宇利島は「恋の島」としても有名です。毎年多くのカップルがこの岩を見に訪れています。",
+        "image": {
+          "height": 1018,
+          "sourceUrl": "https://a.mktgcdn.com/p/7OU9iPn-E8BPc0fAW0ntDbHut4b8L7NR-FBCpmj4Fd0/1536x1018.jpg",
+          "thumbnails": [
+            {
+              "height": 1018,
+              "url": "https://a.mktgcdn.com/p-sandbox/7OU9iPn-E8BPc0fAW0ntDbHut4b8L7NR-FBCpmj4Fd0/1536x1018.jpg",
+              "width": 1536
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/7OU9iPn-E8BPc0fAW0ntDbHut4b8L7NR-FBCpmj4Fd0/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/7OU9iPn-E8BPc0fAW0ntDbHut4b8L7NR-FBCpmj4Fd0/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/7OU9iPn-E8BPc0fAW0ntDbHut4b8L7NR-FBCpmj4Fd0/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7OU9iPn-E8BPc0fAW0ntDbHut4b8L7NR-FBCpmj4Fd0/1536x1018.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "おきなわワールドの基本情報",
+        "infoBlockText": "アクセス：那覇空港から車で約30分住所：沖縄県南城市玉城前川1336TEL：098-949-7421営業時間：9：00〜17：30（最終受付16：00）料金：入園チケット 大人（15歳以上）2,000円、小人（4～14歳）1,000円",
+        "sectionLevel": "h3",
+        "sectionTitle": "14:00｜古宇利島（こうりじま）"
+      },
+      {
+        "cTA1": {
+          "label": "おきなわワールドのチケットをみる",
+          "link": "https://www.jtb.co.jp/leisure/fp/qKS005143/",
+          "linkType": "URL"
+        },
+        "description": "沖縄本島北部、やんばる地域に位置する「道の駅」許田やんばる物産センター。豊かな自然が多いやんばる地域ならではの新鮮野菜や特産品などを購入することができる沖縄県初の道の駅です。本格的な沖縄のソウルフードを堪能できるのがこちらの魅力。鉄板ステーキやタコス、沖縄そばはどれもボリューム満点。サーターアンダギー、黒糖などを用いたスイーツも多くあるので食後のおやつにもぴったりです。さらに「道の駅」許田やんばる物産センターでは、沖縄美ら海水族館をはじめとする主要観光施設の割引チケットを販売しています。ドライブの途中にぜひ立ち寄ってみましょう。併設する道路情報ターミナルには和室仕様の仮眠室や無料で利用できるラウンジも設けられており、旅の休憩にも最適です。",
+        "image": {
+          "height": 505,
+          "sourceUrl": "https://a.mktgcdn.com/p/vKUefu2Xw-f5ePnezd1dOYcLaQ0D-oip1UnRrjZe8XI/758x505.jpg",
+          "thumbnails": [
+            {
+              "height": 505,
+              "url": "https://a.mktgcdn.com/p-sandbox/JUfB2WtnaU8KXMC9st032e_lM14mkjlh45rq4-NUiF0/758x505.jpg",
+              "width": 758
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/JUfB2WtnaU8KXMC9st032e_lM14mkjlh45rq4-NUiF0/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/JUfB2WtnaU8KXMC9st032e_lM14mkjlh45rq4-NUiF0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/JUfB2WtnaU8KXMC9st032e_lM14mkjlh45rq4-NUiF0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JUfB2WtnaU8KXMC9st032e_lM14mkjlh45rq4-NUiF0/758x505.jpg",
+          "width": 758
+        },
+        "infoBlockLabel": "那覇国際通り商店街の基本情報",
+        "infoBlockText": "アクセス：那覇空港から車で約15分住所：沖縄県那覇市牧志3-2-10 ぶんかテンブス館3階（那覇市国際通り商店街振興組合連合会）TEL：098-863-2755営業時間：店舗により異なる",
+        "sectionLevel": "h3",
+        "sectionTitle": "15:30｜「道の駅」許田（きょだ）やんばる物産センター"
+      },
+      {
+        "cTA1": {
+          "label": "国際通り周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5000010/",
+          "linkType": "URL"
+        },
+        "description": "沖縄本島西海岸の中心にある恩納村は、美しい東シナ海を望む日本屈指のリゾート地として知られています。海岸沿いを走る国道58号線には、まるで海外のような高級リゾートホテルやコンドミニアムが数多く立ち並んでいます。ぜいたくなプール付きのホテルからオーシャンビューの絶景が望めるホテルまで、お気に入りのホテルがきっと見つかるはず。開放的なリゾート空間で特別な休日を過ごしましょう。恩納村はマリンリゾートとしても有名で、全国から多くの観光客が訪れます。那覇空港や沖縄美ら海水族館からもアクセスしやすく、周辺には沖縄県の天然記念物に指定されている万座毛や、青の洞窟で有名な真栄田岬など人気の観光スポットも点在しています。宿泊前後の時間も工夫すれば、様々な楽しみ方ができます。",
+        "image": {
+          "height": 706,
+          "sourceUrl": "https://a.mktgcdn.com/p/xQveuZEa_kXu9B629rRlPIGhkXbK1_z9FLvaSpuMoRM/1061x706.jpg",
+          "thumbnails": [
+            {
+              "height": 706,
+              "url": "https://a.mktgcdn.com/p-sandbox/S2GSLQZoguERbBaaUFaF-xxkyAxCCgwN2GlQyh6ljrw/1061x706.jpg",
+              "width": 1061
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/S2GSLQZoguERbBaaUFaF-xxkyAxCCgwN2GlQyh6ljrw/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/S2GSLQZoguERbBaaUFaF-xxkyAxCCgwN2GlQyh6ljrw/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/S2GSLQZoguERbBaaUFaF-xxkyAxCCgwN2GlQyh6ljrw/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/S2GSLQZoguERbBaaUFaF-xxkyAxCCgwN2GlQyh6ljrw/1061x706.jpg",
+          "width": 1061
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "16:00｜恩納村（おんなそん）"
+      },
+      {
+        "cTA1": {
+          "label": "瀬長島周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5000550/",
+          "linkType": "URL"
+        },
+        "description": "3日目は沖縄のカルチャーや歴史を体感しながら、最後にショッピングも楽しむ欲ばりコースをご紹介。空港に近い瀬長島ウミカジテラスで、ご当地グルメを堪能してから帰るのがおすすめです。※下記はあくまで目安です。各スポットの滞在時間や移動時間は、ご自身の興味や体力に合わせて調整してください。",
+        "image": {
+          "height": 864,
+          "sourceUrl": "https://a.mktgcdn.com/p/784WSissqYjVXJ_Ik80OuBNDGaqa-SZdi86eJsQPE8Y/1536x864.jpg",
+          "thumbnails": [
+            {
+              "height": 864,
+              "url": "https://a.mktgcdn.com/p-sandbox/784WSissqYjVXJ_Ik80OuBNDGaqa-SZdi86eJsQPE8Y/1536x864.jpg",
+              "width": 1536
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/784WSissqYjVXJ_Ik80OuBNDGaqa-SZdi86eJsQPE8Y/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/784WSissqYjVXJ_Ik80OuBNDGaqa-SZdi86eJsQPE8Y/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/784WSissqYjVXJ_Ik80OuBNDGaqa-SZdi86eJsQPE8Y/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/784WSissqYjVXJ_Ik80OuBNDGaqa-SZdi86eJsQPE8Y/1536x864.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "3．【3日目モデルコース】沖縄の伝統文化やショッピングも楽しむプラン"
+      },
+      {
+        "cTA1": {
+          "label": "「沖縄満喫クーポン」を使える沖縄旅行を探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/feature/tabisugo/",
+          "linkType": "OTHER"
+        },
+        "description": "万座毛は沖縄本島恩納村にある景勝地です。象の鼻のような形をした岩が有名で、東シナ海の絶景を眺めることのできる人気スポットです。短時間でも十分満喫できるので、旅の途中にぜひ立ち寄ってみてください。万座毛の名前の由来は、琉球王朝時代に「万人を座する毛」と呼ばれたことから。毛とは沖縄の方言で野原を指す言葉だそうです。岩の上には美しい草原が広がり、琉球石灰岩で形成された周り一帯の植物群落は県の天然記念物にも指定されています。下を見下ろすと透明度の高い海が広がり、海中のサンゴ礁を望むこともできます。岩が象の鼻の形に見える場所は人気の撮影スポットとなっているので順番待ちになることも。早めに訪れるのがおすすめです。",
+        "image": {
+          "height": 1266,
+          "sourceUrl": "https://a.mktgcdn.com/p/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+          "thumbnails": [
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/619x412.webp",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/600x400.webp",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/196x131.webp",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+          "width": 1900
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "10:00｜万座毛（まんざもう）"
+      },
+      {
+        "cTA1": {
+          "label": "JTBラウンジについてもっとみる",
+          "link": "https://www.jtb.co.jp/kokunai/area/okinawa/lounge/",
+          "linkType": "OTHER"
+        },
+        "description": "沖縄の自然と文化、歴史を感じながら楽しむことができる県内最大級の観光テーマパーク、おきなわワールド。昔の沖縄の街並みを再現した琉球王国城下町では、伝統工芸の実演や、体験教室を開催。まるで首里城の城下町へ迷い込んだかのようなタイムスリップ気分が味わえます。蛇・爬虫類の展示も行うハブ博物公園ではハブのショーを楽しんだり、大蛇との記念撮影をしたりすることも可能。ここでしか味わえないレア体験が満載です。国内最大の鍾乳洞、玉泉洞も見逃せません。全長は5,000メートルで、現在890メートルを公開、残りのエリアは研究用として保存されています。年間100万人が訪れる鍾乳洞は東洋で最も美しいと言われるほど。おきなわワールドで沖縄文化を全身で感じてみてはいかがでしょうか。",
+        "image": {
+          "height": 1267,
+          "sourceUrl": "https://a.mktgcdn.com/p/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+          "thumbnails": [
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/619x413.webp",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/600x400.webp",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/196x131.webp",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+          "width": 1900
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "11:00｜おきなわワールド"
+      },
+      {
+        "cTA1": {
+          "label": "効率よく名所を満喫！沖縄の1泊2日モデルコースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0018",
+          "linkType": "URL"
+        },
+        "description": "那覇国際通り商店街は沖縄観光の入り口ともされるメインスポット。沖縄料理店やお土産品店など沖縄を代表する約600のショップが軒を連ね、連日観光客や地元の人たちでにぎわいを見せています。毎週日曜日にはトランジットモールが行われ、県庁北口からゆいレール牧志駅前の区間が12：00〜18：00の間で全面歩行者天国に。路上ではエイサーをはじめとするストリートパフォーマンスやイベントが開催されます。小さなお子様連れの方も車を気にすることなくショッピングを楽しむことができますよ。また、毎年8月には「一万人のエイサー踊り隊」という県内最大級のエイサーのお祭りが行われます。1,000人の踊り手によるパフォーマンスが国際通りを埋め尽くし、その光景はまさに那覇の夏の風物詩です。国際通りではグルメやショッピングを楽しめるだけでなく、沖縄文化を感じられるイベントも多く開催されています。ぜひ事前に情報をチェックして訪れましょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "13:00｜那覇国際通り商店街"
+      },
+      {
+        "description": "瀬長島ウミカジテラスは那覇空港から車で15分ほどの距離にある、沖縄の新しいアイランドリゾート。沖縄産の食材にこだわったグルメやスイーツだけでなく、ジュエリーやクラフトショップなど約47の店舗が立ち並びます。海外をイメージしたという真っ白な建物はリゾート感たっぷり。目の前には東シナ海の絶景が広がり、建物の中をさわやかな海風（うみかじ）が吹き抜けます。夕方には海に沈む美しいサンセットが眺め、夜には建物がライトアップされるので、移ろう景色を楽しみながら、沖縄の夜をのんびり過ごすのもおすすめ。",
+        "sectionLevel": "h3",
+        "sectionTitle": "15:00｜瀬長島 （せながじま ）ウミカジテラス"
+      },
+      {
+        "description": "JTBでは、「旅の過ごし方対象プラン」で予約すると沖縄本島・離島合わせて32か所、滞在中に全施設1回ずつ利用できる「沖縄満喫クーポン」を利用できます。QRコードの提示だけで対象施設に入場できて便利。ナゴパイナップルパークやDINO恐竜PARK、おきなわワールドなど子どもが楽しめる施設が豊富なのがうれしいポイントです。石垣島や宮古島の施設も対象なので、長めの滞在で離島まで足を延ばしてみるのもおすすめですよ。32か所も含まれているので、1回の沖縄旅行で行きたいところすべてを観光できなかった方は、ぜひ次の沖縄旅行もJTBで予約して、「沖縄満喫クーポン」を活用してみてください！",
+        "sectionLevel": "h2",
+        "sectionTitle": "【JTB沖縄旅行の魅力】「沖縄満喫クーポン」で32か所料金不要"
+      },
+      {
+        "description": "「JTBラウンジ」があるホテルなら、いつでもラウンジでラグジュアリーなホテル滞在を楽しめるのも魅力。「JTBラウンジ」とは、ホテル滞在中なら毎日何度でも料金不要で利用できる、JTBのお客様専用のサービスです。スイーツ・ドリンク食べ放題で、リッチなホテルステイを体験できます。例えば「ルネッサンスリゾート オキナワ」のJTBラウンジなら以下のような贅沢なサービス付き！・ホテル自慢のスイーツとソフトドリンクが食べ放題・好みのトッピングでオリジナルクレープづくり・ハッピーアワーでアルコールドリンクとおつまみを楽しめるぜひ沖縄旅行の際はJTBで予約して、ホテルステイを楽しみましょう！",
+        "sectionLevel": "h2",
+        "sectionTitle": "【JTB沖縄旅行の魅力】JTBラウンジ利用で快適なホテルステイ"
+      },
+      {
+        "description": "絶景から人気のレジャースポット、沖縄の文化に触れる史跡まで盛りだくさんの2泊3日のモデルコースはいかがでしたか？ 沖縄は効率よく回れば、多くの観光スポットを巡ることができます。ぜひプランニングの参考にしてみてください。※2024年2月時点の情報です。内容は変更になることがあります。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．まとめ"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kokunai_0018",
+      "news_web_kokunai_0017",
+      "news_web_kokunai_0001",
+      "news_web_kokunai_0022",
+      "news_web_kokunai_0019"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2020-06-05",
+    "c_news_UpdateDate": "2024-10-21",
+    "c_news_ViewCount": "17182",
+    "c_news_ViewCount2of2": "17182",
+    "c_news_ViewCountNum": "17182",
+    "c_news_ViewCountNumForSorting": "846",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0016",
+    "name": "沖縄の2泊3日モデルコース！人気スポットを巡って沖縄の魅力を満喫しよう",
+    "slug": "kokunai/okinawa/okinawa_all/news_web_kokunai_0016",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

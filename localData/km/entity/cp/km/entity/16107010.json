@@ -1,0 +1,74 @@
+{
+  "$id": "cp_16107010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "滋賀県",
+    "c_cp_CTA1": {
+      "label": "米田 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVNgxd",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVe9xq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "最近はイベントや用事のために旅行をすることが増えてきました。旅先での美味しい食事やグルメを堪能する事が一番の楽しみです★お客様と楽しくお話をしながら、ご要望にそったプランをご提案させていただきます。どうぞよろしくお願いいたします。\n\n🌎大好きなエリア🌎\n（国内）北海道、東京ディズニーリゾート、広島、福岡\n（海外）ハワイ\n🌸好きなジャンル🌸食★グルメ、テーマパーク",
+    "c_cp_DisplayName": "米田",
+    "c_cp_FieldOfExpertise": [
+      "テーマパーク",
+      "グルメ",
+      "音楽ライブ"
+    ],
+    "c_cp_JobTitle": "JTB滋賀支店内個人旅行カウンター トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 200,
+      "sourceUrl": "https://a.mktgcdn.com/p/Gc1aDx8gmyPED4hF29f9h3QfMyoSm0sF3iCsU-DDSzI/390x200.jpg",
+      "thumbnails": [
+        {
+          "height": 200,
+          "url": "https://a.mktgcdn.com/p-sandbox/Gc1aDx8gmyPED4hF29f9h3QfMyoSm0sF3iCsU-DDSzI/390x200.jpg",
+          "width": 390
+        },
+        {
+          "height": 101,
+          "url": "https://a.mktgcdn.com/p-sandbox/Gc1aDx8gmyPED4hF29f9h3QfMyoSm0sF3iCsU-DDSzI/196x101.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Gc1aDx8gmyPED4hF29f9h3QfMyoSm0sF3iCsU-DDSzI/390x200.jpg",
+      "width": 390
+    },
+    "c_cp_Point": "1093",
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "東京都"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "広島県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "福岡県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 米田",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 米田",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_16107010",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10293_滋賀支店内 個人旅行受付カウンター",
+    "name": "よねだ わかえ_16107010",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

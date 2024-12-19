@@ -1,0 +1,51 @@
+{
+  "$id": "cp_loyalstaff_14985052",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "神奈川県",
+    "c_cp_DisplayName": "渡邊",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 732,
+      "sourceUrl": "https://a.mktgcdn.com/p/iFrQr3bVTXJeJC9LWm31gP0XRVcnAfeWdMjomv-KLbM/732x732.jpg",
+      "thumbnails": [
+        {
+          "height": 732,
+          "url": "https://a.mktgcdn.com/p-sandbox/6an18L1hIuZQsGPv5ZW1To300oS0ZOBnqPlW3McyY1s/732x732.jpg",
+          "width": 732
+        },
+        {
+          "height": 619,
+          "url": "https://a.mktgcdn.com/p-sandbox/6an18L1hIuZQsGPv5ZW1To300oS0ZOBnqPlW3McyY1s/619x619.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/6an18L1hIuZQsGPv5ZW1To300oS0ZOBnqPlW3McyY1s/450x450.jpg",
+          "width": 450
+        },
+        {
+          "height": 196,
+          "url": "https://a.mktgcdn.com/p-sandbox/6an18L1hIuZQsGPv5ZW1To300oS0ZOBnqPlW3McyY1s/196x196.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/6an18L1hIuZQsGPv5ZW1To300oS0ZOBnqPlW3McyY1s/732x732.jpg",
+      "width": 732
+    },
+    "c_cp_Point": "93",
+    "c_cp_RoyalStaff": true,
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_loyalstaff_14985052",
+    "c_responsibleService": [
+      "ロイヤルスタッフ"
+    ],
+    "c_v2Folder": "2024/05/30　JBX対応（リテール外転出）",
+    "name": "L.S_渡邊",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

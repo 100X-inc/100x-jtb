@@ -1,0 +1,22 @@
+{
+  "$id": "defaultDirectory_zi_he_xian",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "2",
+    "dm_childEntityIds": [
+      "1045019364"
+    ],
+    "dm_directoryChildren": [
+      "defaultDirectory_zi_he_xian_cao_jin_shi"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory"
+    ],
+    "name": "滋賀県",
+    "slug": "滋賀県"
+  },
+  "entityType": "ce_region",
+  "labels": []
+}

@@ -1,0 +1,130 @@
+{
+  "$id": "cp_test_retail_011",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_Articles": [
+      "ap_chiki_100001"
+    ],
+    "c_cp_ArticlesSectionTitle": "このコンサルタントの投稿記事",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "リモート相談予約",
+      "link": "https://link.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNF1DN-qJBbQVBd",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "コンサルタント一覧",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_cp_CaseStudies": [
+      "ap_test_004",
+      "3511005588108258709"
+    ],
+    "c_cp_CaseStudySectionTitle": "BLOG",
+    "c_cp_Description": "これはテストです",
+    "c_cp_DisplayName": "リテールテスト11",
+    "c_cp_EnrollmentArea": "東京",
+    "c_cp_FieldOfExpertise": [
+      "記念旅行",
+      "クルーズ"
+    ],
+    "c_cp_GeneralInfo": [
+      "世界遺産検定1級",
+      "出身地：東京",
+      "趣味：神社仏閣訪問"
+    ],
+    "c_cp_HeroImage": {
+      "alternateText": "hero",
+      "height": 203,
+      "sourceUrl": "http://a.mktgcdn.com/p/wK2pQNmL-7G7fjsQw9auIDns1yf7_c4R1nbJUQtG2nU/360x203.jpg",
+      "thumbnails": [
+        {
+          "height": 203,
+          "url": "//a.mktgcdn.com/p-sandbox/wK2pQNmL-7G7fjsQw9auIDns1yf7_c4R1nbJUQtG2nU/360x203.jpg",
+          "width": 360
+        },
+        {
+          "height": 111,
+          "url": "//a.mktgcdn.com/p-sandbox/wK2pQNmL-7G7fjsQw9auIDns1yf7_c4R1nbJUQtG2nU/196x111.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/wK2pQNmL-7G7fjsQw9auIDns1yf7_c4R1nbJUQtG2nU/360x203.jpg",
+      "width": 360
+    },
+    "c_cp_HiraganaName": "てすと かずみ",
+    "c_cp_JobTitle": "JTBトラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "alternateText": "JTBトラベルコンサルタント ｜ テストリテールコンサルタント011",
+      "height": 600,
+      "sourceUrl": "http://a.mktgcdn.com/p/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/800x600.jpg",
+      "thumbnails": [
+        {
+          "height": 600,
+          "url": "//a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/800x600.jpg",
+          "width": 800
+        },
+        {
+          "height": 464,
+          "url": "//a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "//a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "//a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/800x600.jpg",
+      "width": 800
+    },
+    "c_cp_StrongAbroadArea3": [
+      "フランス",
+      "スペイン"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "中国",
+      "香港・マカオ"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道",
+      "山形県",
+      "福島県"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "栃木県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "京都府",
+      "奈良県"
+    ],
+    "c_cp_Tags": [
+      "ウォーキング",
+      "トレッキング"
+    ],
+    "c_cp_notificationBannerMultiText": "お知らせバナーが表示されます。",
+    "c_metaDescription": "リテールテスト11",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ テストリテールコンサルタント011",
+    "c_news_NewsList": [
+      "news_ap_chiki_100001"
+    ],
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_test_retail_011",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "name": "テストリテールコンサルタント011",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

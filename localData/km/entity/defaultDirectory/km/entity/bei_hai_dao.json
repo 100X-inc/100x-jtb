@@ -1,0 +1,28 @@
+{
+  "$id": "defaultDirectory_bei_hai_dao",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "4",
+    "dm_childEntityIds": [
+      "1045019357",
+      "1045019365",
+      "1045019372",
+      "1045019400"
+    ],
+    "dm_directoryChildren": [
+      "defaultDirectory_bei_hai_dao_han_guan_shi",
+      "defaultDirectory_bei_hai_dao_zha_huang_shi",
+      "defaultDirectory_bei_hai_dao_xu_chuan_shi",
+      "defaultDirectory_bei_hai_dao_dai_guang_shi"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory"
+    ],
+    "name": "北海道",
+    "slug": "北海道"
+  },
+  "entityType": "ce_region",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "defaultDirectory_qi_fu_xian",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "4",
+    "dm_childEntityIds": [
+      "1045019355",
+      "1045019358"
+    ],
+    "dm_directoryChildren": [
+      "defaultDirectory_qi_fu_xian_qi_fu_shi",
+      "defaultDirectory_qi_fu_xian_da_yuan_shi"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory"
+    ],
+    "name": "岐阜県",
+    "slug": "岐阜県"
+  },
+  "entityType": "ce_region",
+  "labels": []
+}

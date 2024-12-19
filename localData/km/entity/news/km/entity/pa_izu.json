@@ -1,0 +1,34 @@
+{
+  "$id": "news_pa_izu",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreasCTA": {
+      "label": "伊豆",
+      "link": "https://www.jtb.co.jp/news/list/index.html?tag\u003d伊豆",
+      "linkType": "URL"
+    },
+    "c_news_PopularAreasImage": {
+      "alternateText": "伊豆",
+      "height": 325,
+      "sourceUrl": "https://a.mktgcdn.com/p/RSf_cdVFTWBYCJjRbKLPSbqe_Wl-7elOnDjIHAb-TGk/530x325.jpg",
+      "thumbnails": [
+        {
+          "height": 325,
+          "url": "https://a.mktgcdn.com/p-sandbox/lrtWjs1GyrogNqHe1SEpOHM9paPIXWU3wyFXhGwaOC8/530x325.jpg",
+          "width": 530
+        },
+        {
+          "height": 120,
+          "url": "https://a.mktgcdn.com/p-sandbox/lrtWjs1GyrogNqHe1SEpOHM9paPIXWU3wyFXhGwaOC8/196x120.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/lrtWjs1GyrogNqHe1SEpOHM9paPIXWU3wyFXhGwaOC8/530x325.jpg",
+      "width": 530
+    },
+    "name": "伊豆"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

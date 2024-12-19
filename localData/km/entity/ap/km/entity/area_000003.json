@@ -1,0 +1,261 @@
+{
+  "$id": "ap_area_000003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ 編集部 竹内 寿夫"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "「こんぴら参り」では御本宮まで785段、その先の奥宮までは1368段もの石段を上ることになるので、体力自慢の方であっても、杖が必須アイテムになります。参道の途中には、杖の貸し出しを行っている店がいくつもあるので、忘れずにレンタルを！ちなみに、境内の入り口である大門までは、こんぴら参拝登山バス「しあわせ号」で行くこともできます。少しでもショートカットしたいという方は、こちらの利用がおすすめです。無理せずゆっくりと石段を上っていき、ゴールの御本宮に到着！参拝を終えたら、讃岐平野や讃岐富士を一望できる展望台へ。疲れも吹き飛んでしまうような、壮大な景色を見ることができますよ。",
+        "image": {
+          "height": 1944,
+          "sourceUrl": "https://a.mktgcdn.com/p/ssbdEdlvdGG0KIB1I7d5xi4njKMnvTjPaUBC0nYe65M/2592x1944.jpg",
+          "thumbnails": [
+            {
+              "height": 1944,
+              "url": "https://a.mktgcdn.com/p-sandbox/kJNUzHEKCCVr9HXiGby6ah4NSw8Uui0NfisPbTLuRDg/2592x1944.jpg",
+              "width": 2592
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/kJNUzHEKCCVr9HXiGby6ah4NSw8Uui0NfisPbTLuRDg/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/kJNUzHEKCCVr9HXiGby6ah4NSw8Uui0NfisPbTLuRDg/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/kJNUzHEKCCVr9HXiGby6ah4NSw8Uui0NfisPbTLuRDg/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/kJNUzHEKCCVr9HXiGby6ah4NSw8Uui0NfisPbTLuRDg/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kJNUzHEKCCVr9HXiGby6ah4NSw8Uui0NfisPbTLuRDg/2592x1944.jpg",
+          "width": 2592
+        },
+        "imageCaption": "美しい景色はここまで上がってきた人へのご褒美です（画像提供：金刀比羅宮）",
+        "sectionTitle": "杖を頼りにゆっくりと。「こんぴら参り」のキホン"
+      },
+      {
+        "description": "金刀比羅宮の境内は、たくさんの重要文化財があるアートスポットでもあります。『十一面観音立像』や『三十六歌仙額』を展示する「宝物館」、日本洋画の父・高橋由一の油絵が鑑賞できる「高橋由一館」などは、参拝前後の立ち寄りにおすすめです。なかでも、ぜひチェックしていただきたいのが「表書院」。かつては客殿として使われていたというこの建物には、江戸時代後期の画家・円山応挙の描いた障壁画『遊虎図（水飲みの虎）』があります。描かれている虎たち表情やしぐさは生き生きとしていて、襖から飛び出してくるような迫力が味わえます。",
+        "image": {
+          "height": 3840,
+          "sourceUrl": "https://a.mktgcdn.com/p/2DWWAVH7Vds7AbJJLFDedFdtkoE8ehPdKxGQvPXlwE8/5760x3840.jpg",
+          "thumbnails": [
+            {
+              "height": 3840,
+              "url": "https://a.mktgcdn.com/p-sandbox/8dzr0dNnCcm-IcPYQDCB7kShHrYTJ6DsvMMbxSDx0JY/5760x3840.jpg",
+              "width": 5760
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/8dzr0dNnCcm-IcPYQDCB7kShHrYTJ6DsvMMbxSDx0JY/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/8dzr0dNnCcm-IcPYQDCB7kShHrYTJ6DsvMMbxSDx0JY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/8dzr0dNnCcm-IcPYQDCB7kShHrYTJ6DsvMMbxSDx0JY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/8dzr0dNnCcm-IcPYQDCB7kShHrYTJ6DsvMMbxSDx0JY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8dzr0dNnCcm-IcPYQDCB7kShHrYTJ6DsvMMbxSDx0JY/5760x3840.jpg",
+          "width": 5760
+        },
+        "imageCaption": "重要文化財である「表書院」の『遊虎図』（画像提供：金刀比羅宮）",
+        "sectionTitle": "重要文化財があちこちに。参拝の道中でアートを鑑賞"
+      },
+      {
+        "description": "参拝が終わったら、門前町を散策してみませんか。名物グルメを味わったり、定番みやげをゲットしたりするのも、「こんぴら参り」の楽しみの一つです。おすすめのおみやげは、「灸まん本舗 石段や」の「灸まん」。お灸のもぐさを模した名物まんじゅうで、上品な甘みの黄身餡がぎっしりとつまった一品です。かつてお灸のサービスをしていたことが形の由来なのだそうですよ。",
+        "image": {
+          "height": 1286,
+          "sourceUrl": "https://a.mktgcdn.com/p/D2Q6SMar1LRJth6jGylvlXnH9fjMvLbqyDIMw1kyk1U/1929x1286.jpg",
+          "thumbnails": [
+            {
+              "height": 1286,
+              "url": "https://a.mktgcdn.com/p-sandbox/RklYtpa7gxuzCqMybOv_OCCyRLAWlqfJFKIOrdlnkT4/1929x1286.jpg",
+              "width": 1929
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/RklYtpa7gxuzCqMybOv_OCCyRLAWlqfJFKIOrdlnkT4/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/RklYtpa7gxuzCqMybOv_OCCyRLAWlqfJFKIOrdlnkT4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/RklYtpa7gxuzCqMybOv_OCCyRLAWlqfJFKIOrdlnkT4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/RklYtpa7gxuzCqMybOv_OCCyRLAWlqfJFKIOrdlnkT4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RklYtpa7gxuzCqMybOv_OCCyRLAWlqfJFKIOrdlnkT4/1929x1286.jpg",
+          "width": 1929
+        },
+        "imageCaption": "老舗和菓子店「灸まん本舗 石段や」の「灸まん」。イートインも可",
+        "sectionTitle": "門前町をぶらり散策。名物グルメやみやげをチェック！"
+      },
+      {
+        "description": "●スポット情報【金刀比羅宮（ことひらぐう）】電話：0877-75-2121（金刀比羅宮社務所） 住所：香川県仲多度郡琴平町892-1料金：参拝無料（一部有料施設あり） 時間：参拝6～18時（有料施設9～17時）休み：無休駐車場：町営駅前駐車場利用●合わせて読みたい香川県の観光情報▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_area_000001\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e【香川県】香川のみどころ３大エリア紹介\u003c/a\u003e\u003c/span\u003e▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_area_000002\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e【琴平・坂出・丸亀エリア】香川を全身で感じる一泊二日王道モデルコース\u003c/a\u003e\u003c/span\u003e",
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。　　※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-04-10",
+    "c_ap_HeroImage": {
+      "alternateText": "一生に一度は訪れたい金刀比羅宮！「こんぴら参り」のススメ【香川県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 2006,
+      "sourceUrl": "https://a.mktgcdn.com/p/QsWwtIEeSOlBVQVKPp5nTqbY5ZX0UGyDVHAEQuPfgpc/3117x2006.jpg",
+      "thumbnails": [
+        {
+          "height": 2006,
+          "url": "https://a.mktgcdn.com/p-sandbox/JxoKAtzZ5JPfCQ4uceAf0-Wrg3y7iVk0Wg17QPwoV9M/3117x2006.jpg",
+          "width": 3117
+        },
+        {
+          "height": 1223,
+          "url": "https://a.mktgcdn.com/p-sandbox/JxoKAtzZ5JPfCQ4uceAf0-Wrg3y7iVk0Wg17QPwoV9M/1900x1223.jpg",
+          "width": 1900
+        },
+        {
+          "height": 398,
+          "url": "https://a.mktgcdn.com/p-sandbox/JxoKAtzZ5JPfCQ4uceAf0-Wrg3y7iVk0Wg17QPwoV9M/619x398.jpg",
+          "width": 619
+        },
+        {
+          "height": 386,
+          "url": "https://a.mktgcdn.com/p-sandbox/JxoKAtzZ5JPfCQ4uceAf0-Wrg3y7iVk0Wg17QPwoV9M/600x386.jpg",
+          "width": 600
+        },
+        {
+          "height": 126,
+          "url": "https://a.mktgcdn.com/p-sandbox/JxoKAtzZ5JPfCQ4uceAf0-Wrg3y7iVk0Wg17QPwoV9M/196x126.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/JxoKAtzZ5JPfCQ4uceAf0-Wrg3y7iVk0Wg17QPwoV9M/3117x2006.jpg",
+      "width": 3117
+    },
+    "c_ap_HeroImageCaption": "画像提供：（公社）香川県観光協会",
+    "c_ap_LinkArticleSectionTitle": "香川県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "2022年上期JTBキャンペーン　心つなぐ旅「日本の旬　四国」",
+        "uRL": "https://www.jtb.co.jp/nihonnoshun/shikoku/"
+      },
+      {
+        "linkText": "金刀比羅宮のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/3740302/"
+      },
+      {
+        "linkText": "香川旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/kagawa/"
+      },
+      {
+        "linkText": "香川県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/kagawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea5": [
+      "四国全般",
+      "香川県"
+    ],
+    "c_ap_ShortDescription": "香川随一のパワースポットといわれているのが、「こんぴらさん」の愛称で知られる「金刀比羅宮」です。海上の交通安全や五穀豊穣にご利益があるとされ、江戸時代には「一生に一度はこんぴら参り」という言葉まで生まれたほど、庶民から高い人気を誇っていました。金刀比羅神社の総本宮で、現在も全国から数多くの参拝客が訪れます。\n御本宮まで続く長い石段を上りきるのは大変ですが、ゴールにたどり着いた時の達成感と展望台からの眺めは格別。願いを込めながら一段一段上りましょう。\n道中にも、国指定の重要文化財となっている建造物や美術品を鑑賞できるスポットなどもあり、みどころがたくさん。参拝後は、門前町で名物グルメの食べ歩きやおみやげ探しをするのも楽しいですよ。",
+    "c_ap_Tags": [
+      "こんぴらさん",
+      "金刀比羅宮"
+    ],
+    "c_ap_Theme": [
+      "寺社・教会",
+      "歴史・地理",
+      "美術鑑賞",
+      "街あるき",
+      "グルメ"
+    ],
+    "c_ap_Title": "一生に一度は訪れたい金刀比羅宮！「こんぴら参り」のススメ【香川県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "香川随一のパワースポットといわれているのが、「こんぴらさん」の愛称で知られる「金刀比羅宮」です。海上の交通安全や五穀豊穣にご利益があるとされ、江戸時代には「一生に一度はこんぴら参り」という言葉まで生まれたほど…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "一生に一度は訪れたい金刀比羅宮！「こんぴら参り」のススメ【香川県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_area_000003",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "四国全般, 香川県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：四国全般, 香川県",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：四国全般, 香川県",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "【香川県】一生に一度は訪れたい金刀比羅宮！「こんぴら参り」のススメ",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,165 @@
+{
+  "$id": "cp_15030311",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "愛知県",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVes_q",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "15年以上法人営業に携わり、社員旅行や褒賞旅行のお手伝いをさせて頂いておりました。\n添乗で訪れたニューヨークやヨーロッパ、国内の数々の忘れられない風景を皆さんにも見ていただくお手伝いをこれからもさせて頂きたいと思っております。\n\nプライベートでは、アメリカの絶景を見にグランドサークルを廻ったり、大好きなディズニーは全世界＋ディズニークルーズにも行ったことは私の宝物です。\n\n国内外、ぜひどんな些細なことでもご相談くださいませ。",
+    "c_cp_DisplayName": "日比野",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ旅行",
+      "ウエディング",
+      "ハネムーン",
+      "記念旅行",
+      "クルーズ",
+      "自然・山",
+      "寺社・教会",
+      "歴史・地理",
+      "文芸・文学",
+      "動植物園・公園",
+      "世界遺産",
+      "テーマパーク",
+      "スポーツ観戦",
+      "街あるき",
+      "ドライブ",
+      "飛行機",
+      "グルメ",
+      "ショッピング",
+      "カフェ",
+      "ご当地グルメ",
+      "おみやげ",
+      "温泉・立ち寄り湯"
+    ],
+    "c_cp_GeneralInfo": [
+      "●資格：北南米スペシャリスト、ハワイスペシャリスト検定上級",
+      "総合旅行業取扱管理者"
+    ],
+    "c_cp_HiraganaName": "ひびの",
+    "c_cp_JobTitle": "JTBイオンモール大高店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 1125,
+      "sourceUrl": "https://a.mktgcdn.com/p/X2G3c4OwtjyO9i5JgWYzJVlvfJ2ltU70g3pLeiu3DrI/1500x1125.jpg",
+      "thumbnails": [
+        {
+          "height": 1125,
+          "url": "https://a.mktgcdn.com/p-sandbox/X2G3c4OwtjyO9i5JgWYzJVlvfJ2ltU70g3pLeiu3DrI/1500x1125.jpg",
+          "width": 1500
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/X2G3c4OwtjyO9i5JgWYzJVlvfJ2ltU70g3pLeiu3DrI/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/X2G3c4OwtjyO9i5JgWYzJVlvfJ2ltU70g3pLeiu3DrI/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/X2G3c4OwtjyO9i5JgWYzJVlvfJ2ltU70g3pLeiu3DrI/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/X2G3c4OwtjyO9i5JgWYzJVlvfJ2ltU70g3pLeiu3DrI/1500x1125.jpg",
+      "width": 1500
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム",
+      "サイパン",
+      "オーストラリア",
+      "ニュージーランド"
+    ],
+    "c_cp_StrongAbroadArea2": [
+      "アメリカ",
+      "カナダ",
+      "北米全般"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "イギリス",
+      "フランス",
+      "スペイン",
+      "イタリア",
+      "ドイツ"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "香港・マカオ",
+      "韓国",
+      "台湾",
+      "タイ",
+      "マレーシア",
+      "ベトナム",
+      "カンボジア・アンコールワット",
+      "インドネシア・バリ島",
+      "シンガポール",
+      "フィリピン",
+      "東アジア全般"
+    ],
+    "c_cp_StrongAbroadArea5": [
+      "ドバイ",
+      "エジプト"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道",
+      "青森県",
+      "宮城県"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "栃木県",
+      "群馬県",
+      "千葉県",
+      "東京都",
+      "神奈川県"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "中部全般",
+      "北陸全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "近畿全般"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "四国全般",
+      "岡山県",
+      "広島県",
+      "山口県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "高級ホテル",
+      "高級旅館",
+      "団体旅行",
+      "褒賞旅行",
+      "社員旅行",
+      "キャンプ",
+      "ワーケーション",
+      "ラーケーション"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 日比野",
+    "c_metaTitle": "JTBトラベルコンサルタント | 日比野",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_15030311",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2024/04/05　JBX対応（名古屋エリア内グループ旅行受注センターに異動）",
+    "name": "ひびの_15030311",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

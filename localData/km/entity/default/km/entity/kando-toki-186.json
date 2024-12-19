@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-186",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/186_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d33.26478%2C130.244488",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "佐賀県",
+    "c_searchTags": [
+      "佐賀県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "海・湖・川・滝"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "1783年、熱気球の有人飛行成功によって、人類の空への扉は開かれました。その後、飛行船や飛行機など多彩な乗り物の出現によって熱気球の乗り物としての出番は減りましたが、スポーツ競技としての熱気球は独自の発展を遂げてきました。九州では、1978年、福岡の開催を機に始まった熱気球大会が、1980年に会場を佐賀平野に移し、現在の佐賀インターナショナルバルーンフェスティバルに繋がる大会となりました。今ではアジア最大級の規模を誇る熱気球大会として、80万人の観客を集める一大イベントとなっています。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/186.asp",
+    "name": "熱気球は空高く、影は水深く"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

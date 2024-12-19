@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-43",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/43_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.670862%2C142.960648",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "日本で一番早く紅葉が訪れるのが、ここ、北海道の大雪山系です。北海道の夏は短く、あっという間に終わります。この一瞬の夏が終われば、今度は山々があっという間に色づきはじめるのです。夏は濃い緑に覆われていた山が鮮やかな赤や黄色に染まり、瞬く間に広がってゆくさまは息を呑むような美しさ。なかでも大雪山系・赤岳の登山口にある「銀泉台」の紅葉は、針葉樹の濃い緑と広葉樹の赤や黄色といった鮮やかな色彩が絶妙に折り重なり、華やかなグラデーションで山全体を彩ります。例年、木々が色づきはじめるのが9月初旬頃。9月中旬ともなれば、山全体が美しい紅葉に覆われた絶景を目にすることができます。また早朝の銀泉台では、運がよければ雲海を見られることもあります。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/43.asp",
+    "name": "大雪山銀泉台の紅葉"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

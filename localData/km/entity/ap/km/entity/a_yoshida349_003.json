@@ -1,0 +1,267 @@
+{
+  "$id": "ap_a_yoshida349_003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "夕食は、食材の宝庫とも呼ばれる瀬戸内の旬の味覚をさまざまなスタイルで楽しめます。なかでも魚介類は、地元の契約漁師さんが毎朝届けるものだから鮮度は抜群です。モダンなダイニング「潮路」では、有もとオリジナルの創作和風会席をいただけます。窓の外に広がる手入れの行き届いた庭園を眺めながら、美食を満喫してください。新ダイニング個室「弥山」は、京職人が手がけた本物の数寄屋造り。隠れ家のような個室で、本格的な京懐石料理をいただけます。こちらは露天風呂客室のゲスト専用なので、個室の食事処にこだわるなら露天風呂付客室を選ぶのもいいですね。朝食でも瀬戸内の旬をたっぷりと。品数も多く、どんどん箸が進んでしまうので、食べすぎにご注意くださいね。",
+        "image": {
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/ByMaOK20MGPIEccxJN7xPiE-vYdAgZZvrAKu63VXhe8/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/ByMaOK20MGPIEccxJN7xPiE-vYdAgZZvrAKu63VXhe8/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ByMaOK20MGPIEccxJN7xPiE-vYdAgZZvrAKu63VXhe8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/ByMaOK20MGPIEccxJN7xPiE-vYdAgZZvrAKu63VXhe8/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ByMaOK20MGPIEccxJN7xPiE-vYdAgZZvrAKu63VXhe8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ByMaOK20MGPIEccxJN7xPiE-vYdAgZZvrAKu63VXhe8/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "牡蠣と広島牛焼き物が付いた会席料理の一例",
+        "sectionTitle": "瀬戸内の豊富な食材を、本格的な京懐石で味わう"
+      },
+      {
+        "description": "広島といえば牡蠣が有名ですが、この宿でも絶品の牡蠣を食べられます。島内で牡蠣の養殖を手掛けている「森脇水産」から直送しているので新鮮そのもの。焼き牡蠣をはじめ、オリジナル牡蠣鍋や牡蠣フライ、牡蠣釜飯など、料理のバリエーションも豊富です。プリプリの食感と牡蠣本来の甘みを存分に楽しめますよ。",
+        "image": {
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/JetrJ6HDDip6m4u7Uf4QkdWw99R5WTMrRY3CJ7xniuk/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/JetrJ6HDDip6m4u7Uf4QkdWw99R5WTMrRY3CJ7xniuk/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/JetrJ6HDDip6m4u7Uf4QkdWw99R5WTMrRY3CJ7xniuk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/JetrJ6HDDip6m4u7Uf4QkdWw99R5WTMrRY3CJ7xniuk/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/JetrJ6HDDip6m4u7Uf4QkdWw99R5WTMrRY3CJ7xniuk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JetrJ6HDDip6m4u7Uf4QkdWw99R5WTMrRY3CJ7xniuk/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "冬のお楽しみ、牡蠣懐石の一例",
+        "sectionTitle": "地元の水産会社から直接仕入れた牡蠣料理をさまざまに"
+      },
+      {
+        "description": "スタンダードな和室や和洋室のほか、数寄屋造りの和室や露天風呂付など、多彩なお部屋が選べるのもこの宿の魅力です。「数寄屋和室」は京職人の手による本物の数寄屋造り。全室に異なる模様の唐紙をあしらっており、純和風の風情を楽しめます。ベッドを置いた「数寄屋和洋室」は、使いやすさを重視した和洋折衷のお部屋です。なかでもおすすめしたいのは、窓から嚴島神社が見えるお部屋です。「露天風呂付スイート」「露天風呂付数寄屋和室」「洋室フォースルーム」からは、それぞれ嚴島神社を眺めることができます。夕暮れの宮島を眺めながら過ごす時間は、本当に贅沢な気持ちにさせてくれます。",
+        "image": {
+          "height": 698,
+          "sourceUrl": "https://a.mktgcdn.com/p/Dc24zldBpZyPl8hDUO-dRCWvrXuLvs6xn4gbgftPQeA/1200x698.jpg",
+          "thumbnails": [
+            {
+              "height": 698,
+              "url": "https://a.mktgcdn.com/p-sandbox/Dc24zldBpZyPl8hDUO-dRCWvrXuLvs6xn4gbgftPQeA/1200x698.jpg",
+              "width": 1200
+            },
+            {
+              "height": 360,
+              "url": "https://a.mktgcdn.com/p-sandbox/Dc24zldBpZyPl8hDUO-dRCWvrXuLvs6xn4gbgftPQeA/619x360.jpg",
+              "width": 619
+            },
+            {
+              "height": 349,
+              "url": "https://a.mktgcdn.com/p-sandbox/Dc24zldBpZyPl8hDUO-dRCWvrXuLvs6xn4gbgftPQeA/600x349.jpg",
+              "width": 600
+            },
+            {
+              "height": 114,
+              "url": "https://a.mktgcdn.com/p-sandbox/Dc24zldBpZyPl8hDUO-dRCWvrXuLvs6xn4gbgftPQeA/196x114.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Dc24zldBpZyPl8hDUO-dRCWvrXuLvs6xn4gbgftPQeA/1200x698.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「洋室フォースルーム」からは大鳥居が見える",
+        "sectionTitle": "嚴島神社が見えるお部屋も。多彩なお部屋でくつろぎのひとときを"
+      },
+      {
+        "description": "宿は、宮島の中にある数少ない宿のひとつです。島に到着したら、宿に荷物を預けて宮島散策へ。嚴島神社周辺や参道商店街など、たっぷりと時間をかけて散策してください。夕食の後は、有もとオリジナルのナイトガイドツアーへ。夜の魅力を地元ガイドの案内でめぐるツアーです。翌朝は、早朝ウォーキングツアーに出発。野鳥のさえずりを聞きながら散策する宮島は、日中とはまったく違った表情を見せてくれます。どちらも宿泊者限定の無料ツアーです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/cPslXnYK8PQeEC3udorgDWMZZlSfskC6Ahg6QCROO1o/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/cPslXnYK8PQeEC3udorgDWMZZlSfskC6Ahg6QCROO1o/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/cPslXnYK8PQeEC3udorgDWMZZlSfskC6Ahg6QCROO1o/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/cPslXnYK8PQeEC3udorgDWMZZlSfskC6Ahg6QCROO1o/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/cPslXnYK8PQeEC3udorgDWMZZlSfskC6Ahg6QCROO1o/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cPslXnYK8PQeEC3udorgDWMZZlSfskC6Ahg6QCROO1o/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "嚴島神社ライトアップ　※大鳥居は保存修理工事が行われていて現在は足場や覆いが設置されています。この画像は工事前のイメージカット",
+        "sectionTitle": "宿泊者だけが楽しめる、貴重な宮島体験を"
+      },
+      {
+        "description": "----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2021-12-09",
+    "c_ap_HeroImage": {
+      "alternateText": "嚴島神社から一番近い宿で、牡蠣づくしの会席を【広島県　宮島グランドホテル有もと】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/mEkrrk9gBZ_dBQPQKgDZQuCtCLAMTB311vyDsFFLcHQ/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/mEkrrk9gBZ_dBQPQKgDZQuCtCLAMTB311vyDsFFLcHQ/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/mEkrrk9gBZ_dBQPQKgDZQuCtCLAMTB311vyDsFFLcHQ/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/mEkrrk9gBZ_dBQPQKgDZQuCtCLAMTB311vyDsFFLcHQ/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/mEkrrk9gBZ_dBQPQKgDZQuCtCLAMTB311vyDsFFLcHQ/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/mEkrrk9gBZ_dBQPQKgDZQuCtCLAMTB311vyDsFFLcHQ/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "5階から嚴島神社方面を望む（イメージ）",
+    "c_ap_LinkArticleSectionTitle": "広島県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "この記事の投稿者にリモート相談予約をする",
+        "uRL": "https://link.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNF1DN-qJBbQgBd"
+      },
+      {
+        "linkText": "宮島グランドホテル有もと のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/7213002/plan/"
+      },
+      {
+        "linkText": "宮島のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/340108/"
+      },
+      {
+        "linkText": "広島旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/hiroshima/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea5": [
+      "中国全般",
+      "広島県"
+    ],
+    "c_ap_ShortDescription": "世界遺産・宮島の嚴島神社からいちばん近くにあり、宮島でいちばんの老舗宿が「宮島グランドホテル有もと」です。創業から400年という長い歴史を誇り、江戸初期から宮島の参道入口の海岸沿いで参拝客をもてなしてきた「大根屋」という旅館が前身。その別館として40年ほど前にオープンしました。\n宿の自慢は、瀬戸内の旬を盛り込んだ、本格的な料亭懐石料理です。食材が豊富なことで知られる瀬戸内の味覚を存分に味わってみてください。なかでも、生産者から直接仕入れる牡蠣を使った料理は絶品です。\n宿泊者限定の宮島のナイトガイドツアーは、宮島に滞在した人しか体験できない特別なひととき。早朝のウォーキングツアーも日中とは別の楽しみが満載です。時間を変えて何度も宮島を満喫できる、とっておきの宿ですよ。",
+    "c_ap_Tags": [
+      "嚴島神社",
+      "宮島",
+      "料亭懐石"
+    ],
+    "c_ap_Theme": [
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "嚴島神社から一番近い宿で、牡蠣づくしの会席を【広島県　宮島グランドホテル有もと】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "世界遺産・宮島の嚴島神社からいちばん近くにあり、宮島でいちばんの老舗宿が「宮島グランドホテル有もと」です。創業から400年という長い歴史を誇り、江戸初期から宮島の参道入口の海岸沿いで参拝客をもてなしてきた「大…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "嚴島神社から一番近い宿で、牡蠣づくしの会席を【広島県　宮島グランドホテル有もと】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_a_yoshida349_003",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "中国全般, 広島県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：中国全般, 広島県",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：中国全般, 広島県",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "嚴島神社から一番近い宿で、牡蠣づくしの会席を【広島県　宮島グランドホテル有もと】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

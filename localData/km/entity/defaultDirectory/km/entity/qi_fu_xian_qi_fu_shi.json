@@ -1,0 +1,27 @@
+{
+  "$id": "defaultDirectory_qi_fu_xian_qi_fu_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "3",
+    "dm_childEntityIds": [
+      "1044199871",
+      "1044200112",
+      "1044247775"
+    ],
+    "dm_directoryChildren": [
+      "t5654-0",
+      "t5593-0",
+      "5552-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_qi_fu_xian"
+    ],
+    "name": "岐阜市",
+    "slug": "岐阜県/岐阜市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

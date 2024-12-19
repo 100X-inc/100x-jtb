@@ -1,0 +1,66 @@
+{
+  "$id": "cp_16067076",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "大阪府",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBVxc",
+      "linkType": "OTHER"
+    },
+    "c_cp_Description": "アートを巡る旅が大好きです。特に直島のことなら何でも聞いてください！ライブやイベント、お酒も大好きです♪\nお客様のご要望に沿ったご提案をできるよう心がけております。ご来店、お待ちしております！",
+    "c_cp_DisplayName": "藤原",
+    "c_cp_FieldOfExpertise": [
+      "一人旅",
+      "夫婦旅",
+      "美術鑑賞",
+      "グルメ",
+      "お酒",
+      "音楽ライブ"
+    ],
+    "c_cp_GeneralInfo": [
+      "●資格：ハワイスペシャリスト"
+    ],
+    "c_cp_HiraganaName": "ふじはら",
+    "c_cp_JobTitle": "JTB鳳アリオ店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 320,
+      "sourceUrl": "https://a.mktgcdn.com/p/53ZTSVRUShuw_fM47xlTwNCVnjukArdYgDGbGE1MJsw/240x320.jpg",
+      "thumbnails": [
+        {
+          "height": 320,
+          "url": "https://a.mktgcdn.com/p-sandbox/53ZTSVRUShuw_fM47xlTwNCVnjukArdYgDGbGE1MJsw/240x320.jpg",
+          "width": 240
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/53ZTSVRUShuw_fM47xlTwNCVnjukArdYgDGbGE1MJsw/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/53ZTSVRUShuw_fM47xlTwNCVnjukArdYgDGbGE1MJsw/240x320.jpg",
+      "width": 240
+    },
+    "c_cp_StrongLocalArea5": [
+      "香川県"
+    ],
+    "c_cp_Tags": [
+      "ハワイスペシャリスト"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 藤原",
+    "c_metaTitle": "JTBトラベルコンサルタント | 藤原",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_16067076",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10332_鳳アリオ店",
+    "name": "ふじはらみか_16067076",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

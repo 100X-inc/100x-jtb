@@ -1,0 +1,14 @@
+{
+  "$id": "ServicCloudLEX",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": false,
+    "c_answer_HTML": "はい、Service Cloudは次世代の生産性を向上させるユーザーエクスペリエンス、「Lightning Experience」に対応しています。\u003cbr\u003eLightning サービスコンソールでは、サービスチームのメンバー が各顧客とそのケースをパーソナライズしたビューで確認でき、解決率の向上、解決スピードの向上、そしてカスタマーエンゲージメントの向上を実現することができます。\u003cbr\u003e\u003cbr\u003eLightning ExperienceにおけるService CloudについてはTrailheadの\u003ca href\u003d\"https://trailhead.salesforce.com/ja/trails/service_cloud_move\" target\u003d\"_blank\"\u003eこちら\u003c/a\u003eのトレイルで学習することができます。",
+    "landingPageUrl": "https://customerhelp.jtb.co.jp/s/article/ServicCloudLEX",
+    "name": "Service CloudのLightning Experience対応",
+    "question": "Service CloudのLightning Experience対応"
+  },
+  "entityType": "faq",
+  "labels": []
+}

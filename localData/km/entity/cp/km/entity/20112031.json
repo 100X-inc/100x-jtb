@@ -1,0 +1,83 @@
+{
+  "$id": "cp_20112031",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_CTA1": {
+      "label": "横山 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVfk_Kq",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVeiBG",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "\u003cfont color\u003d\"red\"\u003e一緒に素敵な旅の計画をしましょう♫\u003c/font\u003e\n\n●今は色々な規制や制限があるとは思いますが、よりお客様にとって素敵な思い出に残るような旅行のお手伝いを精一杯させて頂きます。これまでの私の経験を最大限に活用し、最高の選択肢になるように目的に合わせておすすめのお宿や観光地もご提案させて頂きます。是非一緒に楽しい旅の計画をしましょう！",
+    "c_cp_DisplayName": "横山",
+    "c_cp_FieldOfExpertise": [
+      "母娘旅",
+      "夫婦旅",
+      "ドライブ",
+      "音楽ライブ"
+    ],
+    "c_cp_GeneralInfo": [
+      "資格：ハワイスペシャリスト検定上級"
+    ],
+    "c_cp_HiraganaName": "よこやま",
+    "c_cp_JobTitle": "JTB知立ギャラリエアピタ店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 2744,
+      "sourceUrl": "https://a.mktgcdn.com/p/e7-4YJpA9MSO0Axa1h7j6X2ZU3oBXlgL7lyq0gFbuZ0/4030x2744.jpg",
+      "thumbnails": [
+        {
+          "height": 2744,
+          "url": "https://a.mktgcdn.com/p-sandbox/bhcLcBCvft1uJ0ESrT5pvET7Yw_Pu-uyZ9PJsaYkszU/4030x2744.jpg",
+          "width": 4030
+        },
+        {
+          "height": 1294,
+          "url": "https://a.mktgcdn.com/p-sandbox/bhcLcBCvft1uJ0ESrT5pvET7Yw_Pu-uyZ9PJsaYkszU/1900x1294.jpg",
+          "width": 1900
+        },
+        {
+          "height": 421,
+          "url": "https://a.mktgcdn.com/p-sandbox/bhcLcBCvft1uJ0ESrT5pvET7Yw_Pu-uyZ9PJsaYkszU/619x421.jpg",
+          "width": 619
+        },
+        {
+          "height": 409,
+          "url": "https://a.mktgcdn.com/p-sandbox/bhcLcBCvft1uJ0ESrT5pvET7Yw_Pu-uyZ9PJsaYkszU/600x409.jpg",
+          "width": 600
+        },
+        {
+          "height": 133,
+          "url": "https://a.mktgcdn.com/p-sandbox/bhcLcBCvft1uJ0ESrT5pvET7Yw_Pu-uyZ9PJsaYkszU/196x133.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/bhcLcBCvft1uJ0ESrT5pvET7Yw_Pu-uyZ9PJsaYkszU/4030x2744.jpg",
+      "width": 4030
+    },
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 横山",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 横山",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_20112031",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2023/04/26 JBX対応（4/1CC中部異動→CC中部の方は生成フラグがいいえのため修正せずフラグ・フォルダのみ変更）",
+    "name": "よこやま ひろこ_20112031",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

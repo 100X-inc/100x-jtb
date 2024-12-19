@@ -1,0 +1,873 @@
+{
+  "$id": "lc-0001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "additionalHoursText": "受付終了時間　各閉店時間の60分前となります。",
+    "address": {
+      "city": "函館市",
+      "countryCode": "JP",
+      "line1": "6-7",
+      "line2": "函館第一ビル1階",
+      "postalCode": "040-0011",
+      "region": "北海道",
+      "sublocality": "本町"
+    },
+    "addressHidden": true,
+    "appleCompanyId": "1480313529409856512",
+    "c_00_イベントページ生成": true,
+    "c_01_イベントタブ説明": "お好みのイベントをクリックすると、詳細情報がご覧いただけます。\nイベントの参加予約は「イベント予約」または、「電話」でお申込みください。また、各種ご相談の来店予約は随時受付しております。",
+    "c_01_タブ名1": "店舗ニュース",
+    "c_01_タブ名2": "イベント",
+    "c_02_イベントなしメッセージ": "\u003cspan\u003e※ご相談は毎日承っております。\nお待たせしないためにもご来店は予約をお勧め致します。\n\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"[[c_plusJTBリンク1URL]]\"\u003eご予約はインターネット（24時間OK）から、\u003c/a\u003e\u003c/span\u003eまたはお電話（\u003cspan\u003e\u003ca href\u003d\"tel:[[c_02_イベント予約電話]]\"\u003e\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e[[c_02_イベント予約電話]]\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e）でどうぞ。\u003c/span\u003e",
+    "c_02_イベント予約ボタンラベル": "イベント予約",
+    "c_02_イベント予約説明": "イベントの参加予約は、\nイベント予約ボタンまたはお電話からお申込みください。",
+    "c_02_イベント予約電話": "03-5524-7431",
+    "c_02_デコレーション画像1": {
+      "image": {
+        "height": 995,
+        "sourceUrl": "http://a.mktgcdn.com/p/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/177x995.png",
+        "thumbnails": [
+          {
+            "height": 995,
+            "url": "http://a.mktgcdn.com/p-sandbox/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/177x995.png",
+            "width": 177
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/80x450.png",
+            "width": 80
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/71x400.png",
+            "width": 71
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/XKA64Op5PjJrwWUN6xCDEOltVTVFYrITQ-jGb7hchQQ/177x995.png",
+        "width": 177
+      }
+    },
+    "c_02_デコレーション画像2": {
+      "image": {
+        "height": 994,
+        "sourceUrl": "http://a.mktgcdn.com/p/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/178x994.png",
+        "thumbnails": [
+          {
+            "height": 994,
+            "url": "http://a.mktgcdn.com/p-sandbox/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/178x994.png",
+            "width": 178
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/81x450.png",
+            "width": 81
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/72x400.png",
+            "width": 72
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/yeRYMBdIYNzRvjkxyOyGxMHlXis87U1At5gYPXFHJqs/178x994.png",
+        "width": 178
+      }
+    },
+    "c_03_法人支店取扱サービスリスト": [
+      {
+        "url": "http://www.jtb.co.jp/shop/othersite/jtbtabicard.asp?CODE\u003d1123\u0026P\u003d1",
+        "ラベル名": "JTB旅カード"
+      },
+      {
+        "url": "https://exchange.jtb.co.jp/Gaika/Main/Top.aspx?c\u003dW021113300",
+        "ラベル名": "JTBの外貨両替"
+      },
+      {
+        "url": "https://memb-web-moneytg.aplus.co.jp/TR001Action_doInit.action?kkkbn\u003dJT\u0026sscode\u003d1133",
+        "ラベル名": "世界のキャッシュカード"
+      },
+      {
+        "url": "http://www.worldsp.jp/?fromsite\u003d910709",
+        "ラベル名": "JTB世界のおみやげ"
+      },
+      {
+        "url": "http://www.jtb.co.jp/shop/othersite/jihoken.asp?SHITEN_CD\u003dj1133-0\u0026P\u003d1",
+        "ラベル名": "JTB旅行保険"
+      },
+      {
+        "url": "https://tabitabibank.jtb.co.jp/jtb/memberAffiliate.do?SiteCode\u003d1133",
+        "ラベル名": "JTB旅行積立"
+      }
+    ],
+    "c_03_配色_イベントタブフォント": "#e09191",
+    "c_03_配色_イベントタブ背景": "#ffeded",
+    "c_03_配色_イベントリスト背景": "#ffffff",
+    "c_03_配色_イベント予約ボタンアクティブフォント": "#ffffff",
+    "c_03_配色_イベント予約ボタンフォント": "#ffffff",
+    "c_03_配色_土曜タイトルフォント": "#96FFFF",
+    "c_03_配色_日付タイトルフォント": "#ffffff",
+    "c_03_配色_日付タイトル背景": "#664800",
+    "c_03_配色_日曜タイトルフォント": "#FF96B4",
+    "c_03_配色_月タブフォント": "#ffffff",
+    "c_03_配色_月タブ背景": "#664800",
+    "c_03_配色_祝日タイトルフォント": "#FF96B4",
+    "c_03_配色_選択月タブフォント": "#333333",
+    "c_03_配色_選択月タブ背景": "#ffffff",
+    "c_about_Section_Sub_font_color": "#e0211a",
+    "c_about_Section_Title_font_color": "#e0211a",
+    "c_about_Section_background": "#c0c0c0",
+    "c_altName": "JTBイランカラプテ北海道（オンライン相談専門デスク／JTBトラベルゲート札幌・JTBイオン北見店・JTB函館五稜郭店）",
+    "c_cTA0来店予約URL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfr",
+    "c_cTA0来店予約ラベル": "オンライン相談予約",
+    "c_cTA1URL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfr",
+    "c_cTA1ラベル": "オンライン相談を\u003cbr/\u003e予約する",
+    "c_cTA3URL": "https://stores.jtb.co.jp/lc-0001#flow",
+    "c_cTA3ラベル": "オンライン相談の予約方法",
+    "c_cTA_Main_background": "#e0211a",
+    "c_cTA_Main_border": "#E09191",
+    "c_cTA_Main_font_color": "#FFFFFF",
+    "c_cTA_Main_hover_background": "#e0211a",
+    "c_cTA_Sub_hover_background": "#FFFFFF",
+    "c_footer_Section_background": "#e0211a",
+    "c_locDescript": "JTBイランカラプテ北海道（オンライン相談専門デスク／JTBトラベルゲート札幌・JTBイオン北見店・JTB函館五稜郭店）",
+    "c_mobile_Menu_background": "#e0211a",
+    "c_nAP_Section_Sub_font_color": "#e0211a",
+    "c_nearby_Section_Title_font_color": "#FFFFFF",
+    "c_pagesEventsURL": "https://stores.jtb.co.jp/lc-0001/events",
+    "c_pagesSortCode": "011011",
+    "c_pagesSortGroup": "X",
+    "c_pagesURL": "[[c_v2PagesURL]]",
+    "c_plusJTBTitle": "関連サービス・商品のご案内",
+    "c_plusJTBリンク1URL": "https://www.jtb.co.jp/theme/onlinetour/",
+    "c_plusJTBリンク1ラベル": "オンラインツアー",
+    "c_plusJTBリンク2URL": "https://www.jtb.co.jp/gift/",
+    "c_plusJTBリンク2ラベル": "ギフト券",
+    "c_plusJTBリンク3URL": "https://www.jtb.co.jp/myjtb/card/",
+    "c_plusJTBリンク3ラベル": "JTB旅カード",
+    "c_plusJTBリンク4URL": "https://www.jtb.co.jp/jihoken/kokunai/index.asp",
+    "c_plusJTBリンク4ラベル": "旅行保険（国内）",
+    "c_plusJTBリンク5URL": "https://www.jtb.co.jp/tabitabibank/",
+    "c_plusJTBリンク5ラベル": "旅行積立",
+    "c_plusJTBリンク6URL": "https://shopping.jtb.co.jp/",
+    "c_plusJTBリンク6ラベル": "JTBショッピング",
+    "c_plusJTBリンク7URL": "https://rurubu.jp/andmore",
+    "c_plusJTBリンク7ラベル": "るるぶ\u0026more",
+    "c_plusJTBリンク8URL": "https://tabinobi.jp/",
+    "c_plusJTBリンク8ラベル": "たびのび　ー旅行動画サイトー",
+    "c_promo1_Section_Title_font_color": "#e0211a",
+    "c_promo1_Section_background": "#c0c0c0",
+    "c_promo2_Section_Title_font_color": "#423c3c",
+    "c_promo2_Section_background": "#FFFFFF",
+    "c_socialFacebookURL": "https://www.facebook.com/jtb.jp",
+    "c_socialLINEURL": "https://line.me/ti/p/%40jtbhd",
+    "c_v2AboutLink1": {
+      "label": "オンラインツアー",
+      "link": "https://www.jtb.co.jp/theme/onlinetour/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink2": {
+      "label": "ギフト券",
+      "link": "https://www.jtb.co.jp/gift/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink3": {
+      "label": "JTB旅カード",
+      "link": "https://www.jtb.co.jp/myjtb/card/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink4": {
+      "label": "旅行保険（国内）",
+      "link": "https://www.jtb.co.jp/jihoken/kokunai/index.asp",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink5": {
+      "label": "旅行積立",
+      "link": "https://www.jtb.co.jp/tabitabibank/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink6": {
+      "label": "JTBショッピング",
+      "link": "https://shopping.jtb.co.jp/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutSectionTitle": "[[name]]について",
+    "c_v2AdditionalHoursText": "[[additionalHoursText]]",
+    "c_v2AdditionalHoursText1": "受付終了時間　各閉店時間の60分前となります。",
+    "c_v2AdditionalHoursText2": "当デスクは複数店舗で運営しています。5月の担当窓口店舗：函館五稜郭店",
+    "c_v2AvailableService": [
+      "オンライン・リモートでの相談専門店"
+    ],
+    "c_v2CTAReservation": {
+      "label": "オンライン相談を予約する",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfr",
+      "linkType": "OTHER"
+    },
+    "c_v2CTASecondary2": {
+      "label": "オンライン相談の予約方法 \u003cstyle\u003e.About-map {display:none;} .Nearby {display: none;} .Hero-anchors {display:none;} .Hero-anchorsMobile{display:none;} .Core-title--address{display:none;} .c-address{display:none;} \u003c/style\u003e",
+      "link": "https://stores.jtb.co.jp/lc-0001#promos",
+      "linkType": "OTHER"
+    },
+    "c_v2CTATel1": {
+      "label": "オンライン相談のご予約は24時間いつでもこのページからどうぞ。",
+      "link": "+81157695550",
+      "linkType": "PHONE"
+    },
+    "c_v2CTATel2": {
+      "label": "＜ご注意＞ご出発地やご相談内容によっては当店でご予約を承れない場合があります",
+      "linkType": "PHONE"
+    },
+    "c_v2DomesticAirlineTicketsSubtitle": "※国内航空券の取扱いは店舗によって異なります。別途取扱料金を申し受けます（1区間あたり1,100円/人）",
+    "c_v2GiftCertificatesAndTravelCouponsSubtitle": "※商品の詳細は\u003ca href\u003d\"https://www.jtb.co.jp/gift/\" target\u003d\"_blank\"\u003eこちら\u003c/a\u003e（店頭支払方法は、現金のみ）",
+    "c_v2ImportantStoreInformationTag": {
+      "label": "ご来店前にお読みください",
+      "link": "#important-store-information",
+      "linkType": "OTHER"
+    },
+    "c_v2LocationPhotoList": [
+      {
+        "image": {
+          "height": 3842,
+          "sourceUrl": "https://a.mktgcdn.com/p/hqUH_63zzzDmv3YzTY35TgKataRE7FTyrJrUIjsV8H8/5985x3842.jpg",
+          "thumbnails": [
+            {
+              "height": 3842,
+              "url": "http://a.mktgcdn.com/p-sandbox/hqUH_63zzzDmv3YzTY35TgKataRE7FTyrJrUIjsV8H8/5985x3842.jpg",
+              "width": 5985
+            },
+            {
+              "height": 1220,
+              "url": "http://a.mktgcdn.com/p-sandbox/hqUH_63zzzDmv3YzTY35TgKataRE7FTyrJrUIjsV8H8/1900x1220.jpg",
+              "width": 1900
+            },
+            {
+              "height": 397,
+              "url": "http://a.mktgcdn.com/p-sandbox/hqUH_63zzzDmv3YzTY35TgKataRE7FTyrJrUIjsV8H8/619x397.jpg",
+              "width": 619
+            },
+            {
+              "height": 385,
+              "url": "http://a.mktgcdn.com/p-sandbox/hqUH_63zzzDmv3YzTY35TgKataRE7FTyrJrUIjsV8H8/600x385.jpg",
+              "width": 600
+            },
+            {
+              "height": 126,
+              "url": "http://a.mktgcdn.com/p-sandbox/hqUH_63zzzDmv3YzTY35TgKataRE7FTyrJrUIjsV8H8/196x126.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/hqUH_63zzzDmv3YzTY35TgKataRE7FTyrJrUIjsV8H8/5985x3842.jpg",
+          "width": 5985
+        }
+      }
+    ],
+    "c_v2MetaDescription": "JTB　オンライン相談　予約　リモート　いらっしゃいませ　イランカラプテ　北海道　札幌　旅行相談",
+    "c_v2MetaTitle": "オンライン相談専門デスク　JTBイランカラプテ北海道",
+    "c_v2News1": {
+      "description": "開拓の歴史が色濃く残る「創成川東」を巡ろう。\n\n現在の札幌は、創成川を挟んで西側が中心街で、定番の観光コースも西側が中心。川の東側は、「創成川東（イースト）」と呼ばれ、10数年前から再開発が始まった、北海道開拓期の歴史と新しさが混在するエリアです。2030年に北海道新幹線が札幌に延伸された際の新幹線改札口は、創成川辺りに造られることが決まっており、観光客の流れも東に広がる可能性を秘めています。古い建物や懐かしい街並み、生業とともにある人々の暮らしが見られることから「札幌の下町」とも呼ばれています。古いものを活かして新しい事業を起こす人も多く、個性豊かで独創的なお店が集まることでも注目されています。まだ知らない札幌がそこにある！JTB限定のオリジナルコースで、地元ガイドと共に「創成川東（イースト）」を探検散歩しよう！\n\n【コースの見どころ】\n・二条市場\n札幌の台所と呼ばれる明治30年代発祥の市場。歴史から旬のオススメ食材まで幅広くご案内。\n・LITTLE JUICE BAR（リトル ジュース バー）\n130年以上も前に建てられた石蔵を改装したフレッシュジュース専門店。\n・千歳鶴 酒ミュージアム\n古い味噌蔵を移築・復元した建物。地下から湧き出る仕込み水や様々な銘柄酒の試飲が楽しめる。\n・旧札幌麦酒会社工場\n北海道庁、サッポロビール園と並ぶ札幌の代表的な赤煉瓦建築。\n\n設定期間\n2021年11月1日～2022年3月31日（利用日基準）",
+      "endDate": "2021-09-30",
+      "image": {
+        "height": 508,
+        "sourceUrl": "https://a.mktgcdn.com/p/fmPQtv23jv233_BJ1NaXeGuVLCCdGYC5vMe5ya8GB0Y/648x508.png",
+        "thumbnails": [
+          {
+            "height": 508,
+            "url": "http://a.mktgcdn.com/p-sandbox/fmPQtv23jv233_BJ1NaXeGuVLCCdGYC5vMe5ya8GB0Y/648x508.png",
+            "width": 648
+          },
+          {
+            "height": 485,
+            "url": "http://a.mktgcdn.com/p-sandbox/fmPQtv23jv233_BJ1NaXeGuVLCCdGYC5vMe5ya8GB0Y/619x485.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/fmPQtv23jv233_BJ1NaXeGuVLCCdGYC5vMe5ya8GB0Y/574x450.png",
+            "width": 574
+          },
+          {
+            "height": 154,
+            "url": "http://a.mktgcdn.com/p-sandbox/fmPQtv23jv233_BJ1NaXeGuVLCCdGYC5vMe5ya8GB0Y/196x154.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/fmPQtv23jv233_BJ1NaXeGuVLCCdGYC5vMe5ya8GB0Y/648x508.png",
+        "width": 648
+      },
+      "startDate": "2021-08-23",
+      "title": "北海道新幹線延伸予定の札幌駅東エリアが今熱い！プライベートガイド 地元ガイドとあるくさっぽろ創成川東（イースト）",
+      "url": "https://www.jtb.co.jp/smartphone/kokunai/promotion/theme/tabinosugoshikata/21_secondhalf/hokkaido/details.asp?areacd\u003dhokkaido\u0026plancd\u003d200201004"
+    },
+    "c_v2News2": {
+      "description": "今こそ旅の力で日本を元気にする展示会\n「第１回　日本観光ショーケース in大阪・関西」日本中の観光地が一堂に出展する旅の祭典に、JTBのサービス体験ブースを出展します!!　ぜひ、ご視聴・ご参加くださいね♪　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n☆　JTBブースでの体験メニュー　☆　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　旅の予習「オンラインセミナー」や「オンライン旅行相談」を実際に体験・ご覧頂けます　　　　　　　　　　　　　　　　　　　　　　　　　お家からJTB旅行相談OK！来場者限定「JTBご当地オンライン相談」体験　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　人気の観光地のJTBスタッフが地元目線で、あなたの旅をプロデュース！\n　　JTBイランカラプテ北海道　　☆　地元北海道スタッフのおすすめ情報　　　☆　10:30頃～\n\n\n会場からお家からもご参加OK！現地同時生中継も！「JTBオンラインセミナー」　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　オンライン参加の方はこちら⇒https://www.jtb.co.jp/theme/onlinetour/\n\n\n\n***************\n催事名 　：第1回 日本観光ショーケース in 大阪・関西\n会期：2022年3月25日（金）～27日（日）　　　　　　　　　　　　　　　　　　　　　　　　　※一般参加（上記、オンラインセミナー・旅行相談体験）は26日（土）・27日（日）のみ\n会場：インテックス大阪\n入場料：無料　\n主催：「日本観光ショーケース in 大阪・関西」実行委員会（株式会社マイナビ ほか)\n特別協力：（公財）大阪観光局\n※本展示会は、コロナウイルス感染症対策の一環として、来場事前登録制です。公式ホームページのトップ画面右上の「来場登録」より登録が必要です\n【ご注意・ご案内】\n・内容は急遽変更となる場合があります\n・開始、終了時間は変更となる場合があります",
+      "endDate": "2022-03-27",
+      "image": {
+        "height": 533,
+        "sourceUrl": "https://a.mktgcdn.com/p/KdteZlmDfn-KDRoY6OanfBp3f7V_SORQfE0x1KBHHh0/800x533.png",
+        "thumbnails": [
+          {
+            "height": 533,
+            "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/800x533.png",
+            "width": 800
+          },
+          {
+            "height": 412,
+            "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/619x412.png",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/600x400.png",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/800x533.png",
+        "width": 800
+      },
+      "startDate": "2022-02-20",
+      "title": "あの旅の祭典に「イランカラプテ北海道」オンライン相談が登場！"
+    },
+    "c_v2NewsSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2NewsSectionTitle": "JTBいらっしゃいませ北海道スタッフがおすすめ！現地オプショナルツアーのご紹介",
+    "c_v2NotificationBanner": "現地店舗のスタッフへのオンライン相談を通してご希望に叶う旅行を提案します！北海道全体の知識を持った「北海道観光マスター」が4名在籍。まずはオンライン相談のご予約をお願いします。",
+    "c_v2PagesURL": "https://stores.jtb.co.jp/lc-0001",
+    "c_v2Promo1": {
+      "description": "【手順① 相談日時を予約してください】\n・\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfr\"\u003eこちらの相談予約画面\u003c/a\u003e\u003c/span\u003eにて、〇が付いている日程の中からご希望の日時で予約できます。\n\n【手順② メールによる本人確認をお願いします】\n・相談予約画面で登録いただいたメールアドレス宛に本人確認のためのメールをお送りします。\n・メールに記載のURLにアクセスし、相談予約日時を確認のうえ相談予約を確定してください。\n\n【手順③ 当日指定のURLへアクセス】\n・オンライン相談予約完了後にご指定のメールアドレスへ当日アクセスいただくためのURLをお送りします。\n・時間になりましたら、PC、スマートフォンなどからお送りしたURLへアクセスしてください。\n・画面に繋がったらオンライン相談を開始します。ご希望の旅行などをご自由にご相談ください。スタッフがご要望に沿った旅行プランをご提案します。",
+      "image": {
+        "height": 775,
+        "sourceUrl": "http://a.mktgcdn.com/p/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+        "thumbnails": [
+          {
+            "height": 775,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+            "width": 1141
+          },
+          {
+            "height": 420,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/619x420.jpg",
+            "width": 619
+          },
+          {
+            "height": 408,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/600x408.jpg",
+            "width": 600
+          },
+          {
+            "height": 133,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/196x133.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+        "width": 1141
+      },
+      "title": "オンライン相談を予約する"
+    },
+    "c_v2Promo2": {
+      "description": "\u003cp id\u003d\"rightnow\"\u003e今すぐオンライン相談したい場合の手順をご案内します。\u003c/p\u003e\n【手順① まずはお電話をお願いします】\n・当店までお電話\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"tel:050-3614-0650\"\u003e050-3614-0650\u003c/a\u003e\u003c/span\u003e（営業時間10:00-18:00）をいただき、スタッフへ今すぐ相談したい旨をお伝えください。\n・お手元にインターネット接続可能なPCまたはスマートフォンなどをご用意ください。\n※携帯・タブレットなどでのご参加の場合、投影する画像や情報が十分に閲覧できない場合があります。\n　このため、PCからのご参加をおすすめします。\n※内容によってはそのままお電話でも相談できます。\n\n【手順② ルームキーをご案内します】\n・オンライン相談ご希望の場合は相談ルームへ入室できる「ワンタイムルームキー」（8桁の数字）をお電話でご案内します。\n・この数字をメモ等に控えてお電話をお切りください。\n\n【手順③ ルームキーを入力して相談開始】\n・\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://link.rooms-online.jp/roomkey/jtb_ccd\"\u003eこちらの画面\u003c/a\u003e\u003c/span\u003eにアクセスして、先ほどのワンタイムルームキーを入力してください。\n・ルームキーの認証が完了すると、そのままオンライン相談画面に繋がります。ご希望の旅行などをご自由にご相談ください。スタッフがご要望に沿った旅行プランを提案します。",
+      "endDate": "2021-06-01",
+      "image": {
+        "height": 740,
+        "sourceUrl": "http://a.mktgcdn.com/p/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+        "thumbnails": [
+          {
+            "height": 740,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+            "width": 1190
+          },
+          {
+            "height": 385,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/619x385.jpg",
+            "width": 619
+          },
+          {
+            "height": 373,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/600x373.jpg",
+            "width": 600
+          },
+          {
+            "height": 122,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/196x122.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+        "width": 1190
+      },
+      "startDate": "2021-04-01",
+      "title": "今すぐオンライン相談する",
+      "url": "https://link.rooms-online.jp/roomkey/jtb_ccd"
+    },
+    "c_v2Promo3": {
+      "description": "●オンライン相談をご利用の際は事前に下記の点をご確認お願いします\n・インターネット接続可能なPC、スマートフォンなどをご用意ください。インターネット接続の通信費はお客様のご負担となります。\n・通信環境、及びデバイス、ブラウザのバージョン等によって画面や音声が不明瞭になる場合や、接続不良となる場合があります。\n・推奨環境は以下となります。\n　Windows10…GoogleChrome/Edge/InternetExplorer 最新版\n　Mac…Safari 最新版\n　iOS…iOS13/safari 最新版\n　Android…Android7.0/GoogleChrome　最新版\n・ご相談内容は、正確性の確保とお客様サービス向上のため、録音及び録画する場合があります。\n・オンライン相談は無料です。旅行に行くかどうか迷っている、必ず予約するとは限らないといった場合でもまずはお気軽にご相談ください。\n\n●下記の商品や内容に関するご相談は本サービスの対象外です。ご了承ください。\n・宿泊を伴わないJR・各社私鉄の乗車券特急券、国内航空券、ギフト券のみのご相談、お申込み\n・旅行に関連しないご相談",
+      "image": {
+        "height": 551,
+        "sourceUrl": "http://a.mktgcdn.com/p/OJCDyyzD6FtxERNTWbkJd_jUSZz9HIiVLTEMAWSYZzw/683x551.png",
+        "thumbnails": [
+          {
+            "height": 551,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/683x551.png",
+            "width": 683
+          },
+          {
+            "height": 499,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/619x499.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/558x450.png",
+            "width": 558
+          },
+          {
+            "height": 158,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/196x158.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/683x551.png",
+        "width": 683
+      },
+      "title": "事前にご確認いただくこと"
+    },
+    "c_v2PromoSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2PromoSectionTitle": "オンライン相談のご利用方法",
+    "c_v2ReservationForVisitSubtitle": "（予約ボタンからご予約ください）",
+    "c_v2StaffSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2StaffSectionTitle": "[[name]] 店舗スタッフの紹介",
+    "c_v2StoreManagerDescription": "総合旅行業務取扱管理者：酒井 久恵　当デスクは複数店舗で運営しています。　 5月の担当窓口店舗：函館五稜郭店　0138-56-1714",
+    "c_v2Tel1": {
+      "label": "オンライン相談のご予約は24時間いつでもこのページからどうぞ。",
+      "number": "0138-56-1714"
+    },
+    "c_v2Tel2": {
+      "label": "＜ご注意＞ご出発地やご相談内容によっては当店でご予約を承れない場合があります"
+    },
+    "c_wd_post_news_1": false,
+    "c_wd_post_news_2": false,
+    "c_wd_post_news_3": false,
+    "c_wd_post_news_4": false,
+    "c_wd_post_news_5": false,
+    "c_wd_post_news_6": false,
+    "c_wd_post_news_7": false,
+    "c_wd_post_news_8": false,
+    "c_wed_Menu_background": "#e0211a",
+    "c_wed_Menu_border": "#E09191",
+    "c_wed_Menu_font_color": "#FFFFFF",
+    "c_wed_Menu_font_color_on_light": "#FFFFFF",
+    "c_wed_Menu_light_background": "#808080",
+    "c_おすすめ情報1タイトル": "オンライン相談を予約する",
+    "c_おすすめ情報1ボタンラベル": "オンライン相談予約",
+    "c_おすすめ情報1画像": {
+      "image": {
+        "height": 775,
+        "sourceUrl": "http://a.mktgcdn.com/p/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+        "thumbnails": [
+          {
+            "height": 775,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+            "width": 1141
+          },
+          {
+            "height": 420,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/619x420.jpg",
+            "width": 619
+          },
+          {
+            "height": 408,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/600x408.jpg",
+            "width": 600
+          },
+          {
+            "height": 133,
+            "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/196x133.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/aUxpAF_YWySGXrKwbfTukxnjlRUTw-W4zcbIlkxqWds/1141x775.jpg",
+        "width": 1141
+      }
+    },
+    "c_おすすめ情報1表示": true,
+    "c_おすすめ情報1説明": "【手順① 相談日時を予約してください】\n・\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfr\"\u003eこちらの相談予約画面\u003c/a\u003e\u003c/span\u003eにて、〇が付いている日程の中からご希望の日時で予約できます。\n\n【手順② メールによる本人確認をお願いします】\n・相談予約画面で登録いただいたメールアドレス宛に本人確認のためのメールをお送りします。\n・メールに記載のURLにアクセスし、相談予約日時を確認のうえ相談予約を確定してください。\n\n【手順③ 当日指定のURLへアクセス】\n・オンライン相談予約完了後にご指定のメールアドレスへ当日アクセスいただくためのURLをお送りします。\n・時間になりましたら、PC、スマートフォンなどからお送りしたURLへアクセスしてください。\n・画面に繋がったらオンライン相談を開始します。ご希望の旅行などをご自由にご相談ください。スタッフがご要望に沿った旅行プランをご提案します。",
+    "c_おすすめ情報2タイトル": "今すぐオンライン相談する",
+    "c_おすすめ情報2ボタンURL": "https://link.rooms-online.jp/roomkey/jtb_ccd",
+    "c_おすすめ情報2ボタンラベル": "ルームキー入力画面",
+    "c_おすすめ情報2掲載始め": "2021-04-01",
+    "c_おすすめ情報2掲載終り": "2021-06-01",
+    "c_おすすめ情報2画像": {
+      "image": {
+        "height": 740,
+        "sourceUrl": "http://a.mktgcdn.com/p/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+        "thumbnails": [
+          {
+            "height": 740,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+            "width": 1190
+          },
+          {
+            "height": 385,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/619x385.jpg",
+            "width": 619
+          },
+          {
+            "height": 373,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/600x373.jpg",
+            "width": 600
+          },
+          {
+            "height": 122,
+            "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/196x122.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/jrF60QbvB-PsNhTa354qtjAz6lcLxZkfyVgM__qTPX0/1190x740.jpg",
+        "width": 1190
+      }
+    },
+    "c_おすすめ情報2表示": false,
+    "c_おすすめ情報2説明": "\u003cp id\u003d\"rightnow\"\u003e今すぐオンライン相談したい場合の手順をご案内します。\u003c/p\u003e\n【手順① まずはお電話をお願いします】\n・当店までお電話\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"tel:050-3614-0650\"\u003e050-3614-0650\u003c/a\u003e\u003c/span\u003e（営業時間10:00-18:00）をいただき、スタッフへ今すぐ相談したい旨をお伝えください。\n・お手元にインターネット接続可能なPCまたはスマートフォンなどをご用意ください。\n※携帯・タブレットなどでのご参加の場合、投影する画像や情報が十分に閲覧できない場合があります。\n　このため、PCからのご参加をおすすめします。\n※内容によってはそのままお電話でも相談できます。\n\n【手順② ルームキーをご案内します】\n・オンライン相談ご希望の場合は相談ルームへ入室できる「ワンタイムルームキー」（8桁の数字）をお電話でご案内します。\n・この数字をメモ等に控えてお電話をお切りください。\n\n【手順③ ルームキーを入力して相談開始】\n・\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://link.rooms-online.jp/roomkey/jtb_ccd\"\u003eこちらの画面\u003c/a\u003e\u003c/span\u003eにアクセスして、先ほどのワンタイムルームキーを入力してください。\n・ルームキーの認証が完了すると、そのままオンライン相談画面に繋がります。ご希望の旅行などをご自由にご相談ください。スタッフがご要望に沿った旅行プランを提案します。",
+    "c_おすすめ情報3タイトル": "事前にご確認いただくこと",
+    "c_おすすめ情報3画像": {
+      "image": {
+        "height": 551,
+        "sourceUrl": "http://a.mktgcdn.com/p/OJCDyyzD6FtxERNTWbkJd_jUSZz9HIiVLTEMAWSYZzw/683x551.png",
+        "thumbnails": [
+          {
+            "height": 551,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/683x551.png",
+            "width": 683
+          },
+          {
+            "height": 499,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/619x499.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/558x450.png",
+            "width": 558
+          },
+          {
+            "height": 158,
+            "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/196x158.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/hSiiQFxkSuwG7az51tFEueoQvksTeuCAhUfbJJS0-aU/683x551.png",
+        "width": 683
+      }
+    },
+    "c_おすすめ情報3表示": true,
+    "c_おすすめ情報3説明": "●オンライン相談をご利用の際は事前に下記の点をご確認お願いします\n・インターネット接続可能なPC、スマートフォンなどをご用意ください。インターネット接続の通信費はお客様のご負担となります。\n・通信環境、及びデバイス、ブラウザのバージョン等によって画面や音声が不明瞭になる場合や、接続不良となる場合があります。\n・推奨環境は以下となります。\n　Windows10…GoogleChrome/Edge/InternetExplorer 最新版\n　Mac…Safari 最新版\n　iOS…iOS13/safari 最新版\n　Android…Android7.0/GoogleChrome　最新版\n・ご相談内容は、正確性の確保とお客様サービス向上のため、録音及び録画する場合があります。\n・オンライン相談は無料です。旅行に行くかどうか迷っている、必ず予約するとは限らないといった場合でもまずはお気軽にご相談ください。\n\n●下記の商品や内容に関するご相談は本サービスの対象外です。ご了承ください。\n・宿泊を伴わないJR・各社私鉄の乗車券特急券、国内航空券、ギフト券のみのご相談、お申込み\n・旅行に関連しないご相談",
+    "c_おすすめ情報タイトル": "\u003cp id\u003d\"flow\"\u003eオンライン相談のご利用方法\u003c/p\u003e",
+    "c_スタッフ紹介20説明": "　",
+    "c_リモートパンくず": "JTB店舗一覧",
+    "c_住所非表示フラグ": true,
+    "c_地図非表示フラグ": true,
+    "c_店舗MetaDescription": "JTB　オンライン相談　予約　リモート　いらっしゃいませ　イランカラプテ　北海道　札幌　旅行相談",
+    "c_店舗MetaTitle": "オンライン相談専門デスク　JTBイランカラプテ北海道",
+    "c_店舗お知らせ通常": "現地店舗のスタッフへのオンライン相談を通してご希望に叶う旅行を提案します！北海道全体の知識を持った「北海道観光マスター」が4名在籍。まずはオンライン相談のご予約をお願いします。",
+    "c_店舗の特色フィルタ": [
+      "オンライン・リモートでの相談専門店"
+    ],
+    "c_店舗ニュース1URL": "https://www.jtb.co.jp/smartphone/kokunai/promotion/theme/tabinosugoshikata/21_secondhalf/hokkaido/details.asp?areacd\u003dhokkaido\u0026plancd\u003d200201004",
+    "c_店舗ニュース1タイトル": "北海道新幹線延伸予定の札幌駅東エリアが今熱い！プライベートガイド 地元ガイドとあるくさっぽろ創成川東（イースト）",
+    "c_店舗ニュース1掲載始め": "2021-08-23",
+    "c_店舗ニュース1掲載終り": "2021-09-30",
+    "c_店舗ニュース1画像": {
+      "clickthroughUrl": "https://www.jtb.co.jp/smartphone/kokunai/promotion/theme/tabinosugoshikata/21_secondhalf/hokkaido/details.asp?areacd\u003dhokkaido\u0026plancd\u003d200201004",
+      "image": {
+        "height": 508,
+        "sourceUrl": "https://a.mktgcdn.com/p/fmPQtv23jv233_BJ1NaXeGuVLCCdGYC5vMe5ya8GB0Y/648x508.png",
+        "thumbnails": [
+          {
+            "height": 508,
+            "url": "http://a.mktgcdn.com/p-sandbox/fmPQtv23jv233_BJ1NaXeGuVLCCdGYC5vMe5ya8GB0Y/648x508.png",
+            "width": 648
+          },
+          {
+            "height": 485,
+            "url": "http://a.mktgcdn.com/p-sandbox/fmPQtv23jv233_BJ1NaXeGuVLCCdGYC5vMe5ya8GB0Y/619x485.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/fmPQtv23jv233_BJ1NaXeGuVLCCdGYC5vMe5ya8GB0Y/574x450.png",
+            "width": 574
+          },
+          {
+            "height": 154,
+            "url": "http://a.mktgcdn.com/p-sandbox/fmPQtv23jv233_BJ1NaXeGuVLCCdGYC5vMe5ya8GB0Y/196x154.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/fmPQtv23jv233_BJ1NaXeGuVLCCdGYC5vMe5ya8GB0Y/648x508.png",
+        "width": 648
+      }
+    },
+    "c_店舗ニュース1表示": true,
+    "c_店舗ニュース1説明": "開拓の歴史が色濃く残る「創成川東」を巡ろう。\n\n現在の札幌は、創成川を挟んで西側が中心街で、定番の観光コースも西側が中心。川の東側は、「創成川東（イースト）」と呼ばれ、10数年前から再開発が始まった、北海道開拓期の歴史と新しさが混在するエリアです。2030年に北海道新幹線が札幌に延伸された際の新幹線改札口は、創成川辺りに造られることが決まっており、観光客の流れも東に広がる可能性を秘めています。古い建物や懐かしい街並み、生業とともにある人々の暮らしが見られることから「札幌の下町」とも呼ばれています。古いものを活かして新しい事業を起こす人も多く、個性豊かで独創的なお店が集まることでも注目されています。まだ知らない札幌がそこにある！JTB限定のオリジナルコースで、地元ガイドと共に「創成川東（イースト）」を探検散歩しよう！\n\n【コースの見どころ】\n・二条市場\n札幌の台所と呼ばれる明治30年代発祥の市場。歴史から旬のオススメ食材まで幅広くご案内。\n・LITTLE JUICE BAR（リトル ジュース バー）\n130年以上も前に建てられた石蔵を改装したフレッシュジュース専門店。\n・千歳鶴 酒ミュージアム\n古い味噌蔵を移築・復元した建物。地下から湧き出る仕込み水や様々な銘柄酒の試飲が楽しめる。\n・旧札幌麦酒会社工場\n北海道庁、サッポロビール園と並ぶ札幌の代表的な赤煉瓦建築。\n\n設定期間\n2021年11月1日～2022年3月31日（利用日基準）",
+    "c_店舗ニュース2タイトル": "あの旅の祭典に「イランカラプテ北海道」オンライン相談が登場！",
+    "c_店舗ニュース2掲載始め": "2022-02-20",
+    "c_店舗ニュース2掲載終り": "2022-03-27",
+    "c_店舗ニュース2画像": {
+      "image": {
+        "height": 533,
+        "sourceUrl": "https://a.mktgcdn.com/p/KdteZlmDfn-KDRoY6OanfBp3f7V_SORQfE0x1KBHHh0/800x533.png",
+        "thumbnails": [
+          {
+            "height": 533,
+            "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/800x533.png",
+            "width": 800
+          },
+          {
+            "height": 412,
+            "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/619x412.png",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/600x400.png",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/ybrqXJ_sqztZCVGRVmyHsQ9RsCigN2U3TNi7oYCcNm0/800x533.png",
+        "width": 800
+      }
+    },
+    "c_店舗ニュース2表示": true,
+    "c_店舗ニュース2説明": "今こそ旅の力で日本を元気にする展示会\n「第１回　日本観光ショーケース in大阪・関西」日本中の観光地が一堂に出展する旅の祭典に、JTBのサービス体験ブースを出展します!!　ぜひ、ご視聴・ご参加くださいね♪　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n☆　JTBブースでの体験メニュー　☆　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　旅の予習「オンラインセミナー」や「オンライン旅行相談」を実際に体験・ご覧頂けます　　　　　　　　　　　　　　　　　　　　　　　　　お家からJTB旅行相談OK！来場者限定「JTBご当地オンライン相談」体験　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　人気の観光地のJTBスタッフが地元目線で、あなたの旅をプロデュース！\n　　JTBイランカラプテ北海道　　☆　地元北海道スタッフのおすすめ情報　　　☆　10:30頃～\n\n\n会場からお家からもご参加OK！現地同時生中継も！「JTBオンラインセミナー」　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　オンライン参加の方はこちら⇒https://www.jtb.co.jp/theme/onlinetour/\n\n\n\n***************\n催事名 　：第1回 日本観光ショーケース in 大阪・関西\n会期：2022年3月25日（金）～27日（日）　　　　　　　　　　　　　　　　　　　　　　　　　※一般参加（上記、オンラインセミナー・旅行相談体験）は26日（土）・27日（日）のみ\n会場：インテックス大阪\n入場料：無料　\n主催：「日本観光ショーケース in 大阪・関西」実行委員会（株式会社マイナビ ほか)\n特別協力：（公財）大阪観光局\n※本展示会は、コロナウイルス感染症対策の一環として、来場事前登録制です。公式ホームページのトップ画面右上の「来場登録」より登録が必要です\n【ご注意・ご案内】\n・内容は急遽変更となる場合があります\n・開始、終了時間は変更となる場合があります",
+    "c_店舗ニュース3表示": true,
+    "c_店舗ニュース4表示": false,
+    "c_店舗ニュース5表示": false,
+    "c_店舗ニュース6表示": false,
+    "c_店舗ニュース7表示": false,
+    "c_店舗ニュース8表示": false,
+    "c_店舗ニュース9URL": "https://www.jtb.co.jp/operate/weather.asp",
+    "c_店舗ニュース9タイトル": "悪天候による影響について",
+    "c_店舗ニュース9掲載始め": "2021-03-01",
+    "c_店舗ニュース9掲載終り": "2021-06-01",
+    "c_店舗ニュース9画像": {
+      "image": {
+        "height": 496,
+        "sourceUrl": "http://a.mktgcdn.com/p/mQyqDun5jPwBuJJ-zt68shWUrCDL4Z39j0sXDdsGTCU/750x496.jpg",
+        "thumbnails": [
+          {
+            "height": 496,
+            "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/750x496.jpg",
+            "width": 750
+          },
+          {
+            "height": 409,
+            "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/619x409.jpg",
+            "width": 619
+          },
+          {
+            "height": 397,
+            "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/600x397.jpg",
+            "width": 600
+          },
+          {
+            "height": 130,
+            "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/196x130.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/K521ScgsEGD7uOxToNZcQ_wlSoXNz4HLMw7srmxiM8g/750x496.jpg",
+        "width": 750
+      }
+    },
+    "c_店舗ニュース9表示": false,
+    "c_店舗ニュース9説明": "悪天候時の、ご対応について\n記載しております。",
+    "c_店舗ページ生成": true,
+    "c_店舗営業時間追記0": "受付終了時間　各閉店時間の60分前となります。",
+    "c_店舗営業時間追記1": "受付終了時間　各閉店時間の60分前となります。",
+    "c_店舗営業時間追記2": "当デスクは複数店舗で運営しています１１月の担当窓口店舗：函館五稜郭店",
+    "c_店舗外観写真": {
+      "image": {
+        "height": 3842,
+        "sourceUrl": "https://a.mktgcdn.com/p/hqUH_63zzzDmv3YzTY35TgKataRE7FTyrJrUIjsV8H8/5985x3842.jpg",
+        "thumbnails": [
+          {
+            "height": 3842,
+            "url": "http://a.mktgcdn.com/p-sandbox/hqUH_63zzzDmv3YzTY35TgKataRE7FTyrJrUIjsV8H8/5985x3842.jpg",
+            "width": 5985
+          },
+          {
+            "height": 1220,
+            "url": "http://a.mktgcdn.com/p-sandbox/hqUH_63zzzDmv3YzTY35TgKataRE7FTyrJrUIjsV8H8/1900x1220.jpg",
+            "width": 1900
+          },
+          {
+            "height": 397,
+            "url": "http://a.mktgcdn.com/p-sandbox/hqUH_63zzzDmv3YzTY35TgKataRE7FTyrJrUIjsV8H8/619x397.jpg",
+            "width": 619
+          },
+          {
+            "height": 385,
+            "url": "http://a.mktgcdn.com/p-sandbox/hqUH_63zzzDmv3YzTY35TgKataRE7FTyrJrUIjsV8H8/600x385.jpg",
+            "width": 600
+          },
+          {
+            "height": 126,
+            "url": "http://a.mktgcdn.com/p-sandbox/hqUH_63zzzDmv3YzTY35TgKataRE7FTyrJrUIjsV8H8/196x126.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/hqUH_63zzzDmv3YzTY35TgKataRE7FTyrJrUIjsV8H8/5985x3842.jpg",
+        "width": 5985
+      }
+    },
+    "c_店舗責任者": "総合旅行業務取扱管理者：横浜　慶子　　当デスクは複数店舗で運営しています。　 11月の担当窓口店舗：函館五稜郭店 0138-56-1714",
+    "c_経路検索ボタン非表示": true,
+    "c_電話番号1ラベル": "オンライン相談のご予約は24時間いつでもこのページからどうぞ。",
+    "c_電話番号2ラベル": "＜ご注意＞ご出発地やご相談内容によっては当店でご予約を承れない場合があります",
+    "categoryIds": [
+      "1084",
+      "1960"
+    ],
+    "description": "「JTBいらっしゃいませ北海道」デスクでは北海道内店舗に在籍する知識豊富な専門のスタッフがご希望の旅をご提案します。",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_bei_hai_dao",
+      "defaultDirectory_bei_hai_dao_han_guan_shi"
+    ],
+    "facebookCallToAction": {
+      "type": "BOOK_NOW",
+      "value": "[[reservation.url]]"
+    },
+    "featuredMessage": {
+      "description": "リモートで旅のご相談・お申込みを承ります。知識豊富なスタッフがご希望の旅をご提案します！",
+      "url": "http://www.jtb.co.jp"
+    },
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "10:00"
+          }
+        ]
+      }
+    },
+    "logo": {
+      "image": {
+        "height": 829,
+        "sourceUrl": "http://a.mktgcdn.com/p/8rF0yEISTHNSCg-3PRvEHGnXcvZ3mbWAkPDo22nulwY/829x829.png",
+        "thumbnails": [
+          {
+            "height": 829,
+            "url": "http://a.mktgcdn.com/p-sandbox/9jDW0TdvDeany1RPWt1xhYfdBPYnLjj64v_hoT7CcoI/829x829.png",
+            "width": 829
+          },
+          {
+            "height": 150,
+            "url": "http://a.mktgcdn.com/p-sandbox/9jDW0TdvDeany1RPWt1xhYfdBPYnLjj64v_hoT7CcoI/150x150.png",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "http://a.mktgcdn.com/p-sandbox/9jDW0TdvDeany1RPWt1xhYfdBPYnLjj64v_hoT7CcoI/94x94.png",
+            "width": 94
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/9jDW0TdvDeany1RPWt1xhYfdBPYnLjj64v_hoT7CcoI/829x829.png",
+        "width": 829
+      }
+    },
+    "mainPhone": "+81138561714",
+    "name": "JTBイランカラプテ北海道（オンライン相談専門デスク／JTBトラベルゲート札幌・ＪＴＢイオン北見店・ＪＴＢ函館五稜郭店）",
+    "paymentOptions": [
+      "ALIPAY",
+      "AMERICANEXPRESS",
+      "ANDROIDPAY",
+      "APPLEPAY",
+      "BANKPAY",
+      "CASH",
+      "CHECK",
+      "FINANCING",
+      "INVOICE",
+      "JCB",
+      "LINEPAY",
+      "MASTERCARD",
+      "Merpay",
+      "SUICA",
+      "TRAVELERSCHECK",
+      "TSCUBIC",
+      "VISA",
+      "WAON",
+      "Yucho Pay",
+      "dBarai"
+    ],
+    "priceRange": "TWO",
+    "reservationUrl": {
+      "url": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfr"
+    },
+    "slug": "[[entityId]]",
+    "timezone": "Asia/Tokyo",
+    "twitterHandle": "JTB_jp",
+    "websiteUrl": {
+      "preferDisplayUrl": false,
+      "url": "https://stores.jtb.co.jp/lc-0001"
+    },
+    "yearEstablished": 1911
+  },
+  "entityType": "location",
+  "folder": "396721",
+  "labels": [
+    "label3ライセンスなし"
+  ]
+}

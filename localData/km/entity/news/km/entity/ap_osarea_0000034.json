@@ -1,0 +1,318 @@
+{
+  "$id": "news_ap_osarea_0000034",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "レトロな問屋街・迪化街(ティーホアチエ)でショッピングやランチや街歩きを楽しもう！【台湾　台北】",
+      "height": 297,
+      "sourceUrl": "https://a.mktgcdn.com/p/Gw_d_SijS3LXyRF-8R0L78lJ_Nohf8O_KYWfJesN1xQ/446x297.jpg",
+      "thumbnails": [
+        {
+          "height": 297,
+          "url": "https://a.mktgcdn.com/p-sandbox/Gw_d_SijS3LXyRF-8R0L78lJ_Nohf8O_KYWfJesN1xQ/446x297.jpg",
+          "width": 446
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/Gw_d_SijS3LXyRF-8R0L78lJ_Nohf8O_KYWfJesN1xQ/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Gw_d_SijS3LXyRF-8R0L78lJ_Nohf8O_KYWfJesN1xQ/446x297.jpg",
+      "width": 446
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "台湾の旅行・ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/taiwan/"
+      },
+      {
+        "linkText": "台湾のホテルをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/?freeword\u003d%E5%8F%B0%E6%B9%BE\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d176"
+      },
+      {
+        "linkText": "台北のツアーをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dTW\u0026sc.dest%5B0%5D.city\u003dTPE"
+      },
+      {
+        "linkText": "台北の現地ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bTW/cTPE/"
+      },
+      {
+        "linkText": "台北のホテルをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/3518/?freeword\u003d%E5%8F%B0%E5%8C%97%20%20%E5%8F%B0%E6%B9%BE\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d3518"
+      },
+      {
+        "linkText": "台北のの航空券をみる",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/asia/taiwan/taipei/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "迪化街は、古くは問屋街として栄えた建物をおしゃれにリノベーションし、いまや観光客にも人気のスポットになりました。乾物やカラスミ、お茶や漢方薬など多彩な商品が集まっているので、おみやげ探しにもぴったり。ランチやティータイムは趣あるレトロなカフェで。\n\nエリアへの最寄り駅：松山新店線・北門駅、中和新蘆線・大橋頭駅",
+    "c_ap_Tags": [
+      "街歩き",
+      "台北",
+      "迪化街",
+      "民藝埕"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ",
+      "建築・史跡",
+      "歴史・地理",
+      "街あるき",
+      "グルメ",
+      "ショッピング",
+      "カフェ"
+    ],
+    "c_ap_Title": "レトロな問屋街・迪化街(ティーホアチエ)でショッピングやランチや街歩きを楽しもう！【台湾　台北】",
+    "c_linkedArea3News": [
+      "taiwan"
+    ],
+    "c_metaDescription": "迪化街は、台湾随一の問屋街として栄えた建物をおしゃれにリノベーションし、いまや観光客にも人気のスポットになりました。レトロな雰囲気も残る迪化街で、買い物やカフェでティータイムを楽しみましょう！",
+    "c_metaTitle": "レトロな問屋街・迪化街(ティーホアチエ)でショッピングやランチや街歩きを楽しもう！【台湾　台北】",
+    "c_news_CTAs": [
+      {
+        "label": "台北のホテルをみる",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/3518/?freeword\u003d%E5%8F%B0%E5%8C%97%20%20%E5%8F%B0%E6%B9%BE\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d3518",
+        "linkType": "URL"
+      },
+      {
+        "label": "台北の現地ツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bTW/cTPE/",
+        "linkType": "URL"
+      },
+      {
+        "label": "台北のツアーをみる",
+        "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dTW\u0026sc.dest%5B0%5D.city\u003dTPE",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "台北のおしゃれな街を歩こう！中山・赤峰街を詳しくみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000035",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ショップ巡りにおすすめ！トレンドの発信地 東区・西門をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000038",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "グルメとショッピングを堪能！永康街を詳しくみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000037",
+          "linkType": "URL"
+        },
+        "description": "迪化街のリノベーションブームの火付け役的存在の複合施設です。1913年に建てられた間口より奥行きが長い「三進式」の建物をリノベ―ションしました。昔の東洋民芸をテーマにしたレトロな雰囲気が漂うカフェやデザインの可愛い雑貨を扱うショップなどが入っています。",
+        "image": {
+          "alternateText": "リノベを手がけたのは、古い建物をおしゃれに再生させることで人気の世代群(Sedai Group)",
+          "height": 126,
+          "sourceUrl": "https://a.mktgcdn.com/p/Mdgzm888QJoa2R0q7BbZzN50u7F7fVHc5oBFXyRcRhA/84x126.jpg",
+          "thumbnails": [
+            {
+              "height": 126,
+              "url": "https://a.mktgcdn.com/p-sandbox/Mdgzm888QJoa2R0q7BbZzN50u7F7fVHc5oBFXyRcRhA/84x126.jpg",
+              "width": 84
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Mdgzm888QJoa2R0q7BbZzN50u7F7fVHc5oBFXyRcRhA/84x126.jpg",
+          "width": 84
+        },
+        "imageCaption": "リノベを手がけたのは、古い建物をおしゃれに再生させることで人気の世代群(Sedai Group)",
+        "infoBlockLabel": "民藝埕（ミンイーチョン）の情報",
+        "infoBlockText": "アクセス：松山新店線北門駅から徒歩10分住所：迪化街一段67號営業時間：10～19時定休日：なし",
+        "sectionTitle": "民藝埕（ミンイーチョン）"
+      },
+      {
+        "description": "「民藝埕」2階にある茶芸館です。大きくとられた窓からは、賑わう迪化街を見下ろすことができ、クラシカルな空間は、まるで隠れ家のよう。メニューは台湾茶をはじめ日本茶やハーブティーなど、種類豊富なお茶とドライフルーツや中華菓子など数種のお菓子のセットです。",
+        "image": {
+          "alternateText": "時が止まったようなレトロな空間で本格的なお茶を味わう至福のティータイム",
+          "height": 119,
+          "sourceUrl": "https://a.mktgcdn.com/p/f-wMXSlcur6BJDfIxFzTXvhtuFAdoNX-1KZGi0hHEn4/178x119.jpg",
+          "thumbnails": [
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/f-wMXSlcur6BJDfIxFzTXvhtuFAdoNX-1KZGi0hHEn4/178x119.jpg",
+              "width": 178
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/f-wMXSlcur6BJDfIxFzTXvhtuFAdoNX-1KZGi0hHEn4/178x119.jpg",
+          "width": 178
+        },
+        "imageCaption": "時が止まったようなレトロな空間で本格的なお茶を味わう至福のティータイム",
+        "infoBlockLabel": "南街得意（ナンチエトーイー）の情報",
+        "infoBlockText": "営業時間：10～19時定休日：なし",
+        "sectionTitle": "南街得意（ナンチエトーイー）"
+      },
+      {
+        "description": "最初に紹介した「民藝埕」と同様、リノベ集団の「世代群(Sedai Group)」が最初に手がけた商業施設です。雑貨店やカフェ、台湾各地から集めたメイドイン台湾の商品を扱う人気のセレクトショップなど、現在進行形で新店が続々とオープンしています。",
+        "image": {
+          "alternateText": "香港の薬局「ワトソンズ」として建てられたもの。壁には当時のWatoson’sの文字が",
+          "height": 144,
+          "sourceUrl": "https://a.mktgcdn.com/p/xHlKpv_3kQNmC9-wbAbuTeNHXBu710MrWxL9zleSseo/216x144.jpg",
+          "thumbnails": [
+            {
+              "height": 144,
+              "url": "https://a.mktgcdn.com/p-sandbox/xHlKpv_3kQNmC9-wbAbuTeNHXBu710MrWxL9zleSseo/216x144.jpg",
+              "width": 216
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/xHlKpv_3kQNmC9-wbAbuTeNHXBu710MrWxL9zleSseo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xHlKpv_3kQNmC9-wbAbuTeNHXBu710MrWxL9zleSseo/216x144.jpg",
+          "width": 216
+        },
+        "imageCaption": "香港の薬局「ワトソンズ」として建てられたもの。壁には当時のWatoson’sの文字が",
+        "infoBlockLabel": "小藝埕（シャオイーチョン）の情報",
+        "infoBlockText": "アクセス：松山新店線北門駅から徒歩8分住所：迪化街一段34號営業時間：10～19時（店により異なる）定休日：なし",
+        "sectionTitle": "小藝埕（シャオイーチョン）"
+      },
+      {
+        "description": "「小藝埕」内にある台湾紅茶が味わえるお店です。日月潭産など台湾各地から集められた上質な台湾紅茶を豊富に取り揃えています。特に作りのスコーンや軽食がセットになった3種類の「アフタヌーンティーセット（NT$340～）」が人気です。",
+        "image": {
+          "alternateText": "紅茶の国、イギリス風にしつらえた空間で味わう",
+          "height": 242,
+          "sourceUrl": "https://a.mktgcdn.com/p/R_HmFbFuEkj2zeCBFuw8xFRCNeo_ih74J0ScdjMkNy8/323x242.jpg",
+          "thumbnails": [
+            {
+              "height": 242,
+              "url": "https://a.mktgcdn.com/p-sandbox/R_HmFbFuEkj2zeCBFuw8xFRCNeo_ih74J0ScdjMkNy8/323x242.jpg",
+              "width": 323
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/R_HmFbFuEkj2zeCBFuw8xFRCNeo_ih74J0ScdjMkNy8/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/R_HmFbFuEkj2zeCBFuw8xFRCNeo_ih74J0ScdjMkNy8/323x242.jpg",
+          "width": 323
+        },
+        "imageCaption": "紅茶の国、イギリス風にしつらえた空間で味わう",
+        "infoBlockLabel": "沃森 WOSOM | ASWの情報",
+        "infoBlockText": "営業時間：11～19時（茶酒館は水〜日曜19時30分〜翌0時30分）定休日：祝日",
+        "sectionTitle": "沃森 WOSOM | ASW（ウォーセンWOSOM | ASW）"
+      },
+      {
+        "description": "媽祖を祀る「慈聖宮」前の広場には、屋台や地元で人気のB級グルメ店が軒を連ねています。お参りを済ませた後は、問屋が扱う乾物などの食材を使ったローカルフードを味わってみましょう。いろいろな屋台で買った料理を広場に置かれたテーブルで食べることができます。",
+        "image": {
+          "alternateText": "大きなガジュマルの木が作るほどよい日陰で屋台料理を味わえば地元っ子の気分",
+          "height": 185,
+          "sourceUrl": "https://a.mktgcdn.com/p/GZvJ-0CuxNseAuQibFaDbOqMCq-1oZfkV9b-IrXPgjs/123x185.jpg",
+          "thumbnails": [
+            {
+              "height": 185,
+              "url": "https://a.mktgcdn.com/p-sandbox/GZvJ-0CuxNseAuQibFaDbOqMCq-1oZfkV9b-IrXPgjs/123x185.jpg",
+              "width": 123
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/GZvJ-0CuxNseAuQibFaDbOqMCq-1oZfkV9b-IrXPgjs/123x185.jpg",
+          "width": 123
+        },
+        "imageCaption": "大きなガジュマルの木が作るほどよい日陰で屋台料理を味わえば地元っ子の気分",
+        "infoBlockLabel": "大稲埕慈聖宮（タータオチョンツーションコン）の情報",
+        "infoBlockText": "アクセス：中和新蘆線大橋頭駅から徒歩10分住所：保安街49巷17號営業時間：10～15時ごろ定休日：店舗により異なる",
+        "sectionTitle": "大稲埕慈聖宮（タータオチョンツーションコン）"
+      },
+      {
+        "description": "もともと米屋の精米工場だった築約110年の赤レンガ造りの洋館を、往時の趣を残しつつリノベーションした店舗。お店で精米したての台中霧峰産の香米と迪化街の乾物を取り入れたおかずのセットなどが味わえます。レトロな趣の店内は、見学自由なので気軽にのぞいてみましょう。",
+        "image": {
+          "alternateText": "その日に提供する分だけを精米した自慢のご飯は、もちっとした食感がたまらない",
+          "height": 247,
+          "sourceUrl": "https://a.mktgcdn.com/p/gEGHAAPsoJXDvhOnzE1pWUB08ECW4rQK7COSn0lB6FM/164x247.jpg",
+          "thumbnails": [
+            {
+              "height": 247,
+              "url": "https://a.mktgcdn.com/p-sandbox/gEGHAAPsoJXDvhOnzE1pWUB08ECW4rQK7COSn0lB6FM/164x247.jpg",
+              "width": 164
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gEGHAAPsoJXDvhOnzE1pWUB08ECW4rQK7COSn0lB6FM/164x247.jpg",
+          "width": 164
+        },
+        "imageCaption": "その日に提供する分だけを精米した自慢のご飯は、もちっとした食感がたまらない",
+        "infoBlockLabel": "稲舍Rice \u0026 Shineの情報",
+        "infoBlockText": "アクセス：中和新蘆線大橋頭駅から徒歩6分住所：迪化街一段329號営業時間：12～15時、17時30分～21時定休日：なし",
+        "sectionTitle": "稲舍Rice \u0026 Shine（タオショーRice \u0026 Shin）"
+      },
+      {
+        "description": "創業1895年という老舗の中華菓子店です。豊富な種類が並ぶ中華菓子のなかでも日本人に人気というのが、「平安亀」という亀の形をしたおまんじゅう風の菓子。黒ゴマ餡をピーナッツ風味の生地で包んでいます。同じく亀の形をした金色の紙で包まれた「金亀小財布」は縁起もよさそう。",
+        "image": {
+          "alternateText": "2020年に店舗をリニューアルした際、併設したおしゃれなカフェで昔ながらの中華菓子を",
+          "height": 265,
+          "sourceUrl": "https://a.mktgcdn.com/p/ekjBliQMrdia9La4xhrxkVPkeN4M594tN03rJN1zJ_4/470x265.jpg",
+          "thumbnails": [
+            {
+              "height": 265,
+              "url": "https://a.mktgcdn.com/p-sandbox/ekjBliQMrdia9La4xhrxkVPkeN4M594tN03rJN1zJ_4/470x265.jpg",
+              "width": 470
+            },
+            {
+              "height": 111,
+              "url": "https://a.mktgcdn.com/p-sandbox/ekjBliQMrdia9La4xhrxkVPkeN4M594tN03rJN1zJ_4/196x111.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ekjBliQMrdia9La4xhrxkVPkeN4M594tN03rJN1zJ_4/470x265.jpg",
+          "width": 470
+        },
+        "imageCaption": "2020年に店舗をリニューアルした際、併設したおしゃれなカフェで昔ながらの中華菓子を",
+        "infoBlockLabel": "李亭香（リーティンシャン）の情報",
+        "infoBlockText": "アクセス：中和新蘆線大橋頭駅から徒歩5分住所：迪化街一段309號営業時間：10～19時（18時LO）定休日：無休",
+        "sectionTitle": "李亭香（リーティンシャン）"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000020",
+      "news_ap_osarea_0000021",
+      "news_ap_osarea_0000022",
+      "news_ap_osarea_0000023",
+      "news_ap_osarea_0000024",
+      "news_ap_osarea_0000025",
+      "news_ap_osarea_0000026",
+      "news_ap_osarea_0000027",
+      "news_ap_osarea_0000028",
+      "news_ap_osarea_0000029",
+      "news_ap_osarea_0000030",
+      "news_ap_osarea_0000031",
+      "news_ap_osarea_0000032",
+      "news_ap_osarea_0000033",
+      "news_ap_osarea_0000050",
+      "news_ap_osarea_0000035",
+      "news_ap_osarea_0000036",
+      "news_ap_osarea_0000037",
+      "news_ap_osarea_0000038",
+      "news_ap_osarea_0000039",
+      "news_ap_osarea_0000040"
+    ],
+    "c_news_FeaturedArticlesTitle": "台湾のその他の投稿記事",
+    "c_news_PublicationDate": "2023-04-01",
+    "c_news_UpdateDate": "2024-08-23",
+    "c_news_ViewCount": "1365",
+    "c_news_ViewCount1of2": "3",
+    "c_news_ViewCount2of2": "1365",
+    "c_news_ViewCountNum": "1365",
+    "c_news_ViewCountNumForSorting": "82",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000034",
+    "name": "レトロな問屋街・迪化街(ティーホアチエ)でショッピングやランチや街歩きを楽しもう！【台湾　台北】",
+    "slug": "kaigai/asia/taiwan/news_ap_osarea_0000034",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

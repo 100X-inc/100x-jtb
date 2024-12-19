@@ -1,0 +1,176 @@
+{
+  "$id": "top-overseas",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": "/* Tags #1321845 */\n#main \u003e div \u003e div:nth-child(3) \u003e div \u003e div \u003e p {\n  background-color: #FFFF33 !important;\n}\n\n.Hero-imageCaption {\ntext-shadow: 0 0 10px #010101;\n}\n\n/* バックグラウンドカラーを濃いめに */\n.Consultants-wrapper {\n    background-color: #f5f6f7;\n}\n.Locator-wrapper {\n    background-color: #f5f6f7;\n}\n.Teaser--article.Teaser--articleTop {\n    background-color: #f5f6f7;\n}\n.InfoItem {\n    background-color: #f5f6f7;\n}\n\n/* サブタイトルのラップ */\n.Consultants-subtitle {\nwhite-space: pre-wrap;\n}\n.Locator-subtitle {\nwhite-space: pre-wrap;\n}\n.Info-subtitle {\nwhite-space: pre-wrap;\n}\n\n\n/* Information セクションの画像をオリジナルのままの比率で表示 */\n.InfoItem-image {\n    height: unset;\n}\n\n/* アコーディオンタイトルのセンタリング */\n.FAQ-questionText {\n margin: auto;\nfont-size: 1.1rem;\n}\n\n/* FAQ のリンクの色 */\n.Consultants .FAQ--ace .FAQ-answerText a {\ncolor: #3498db;\n\n}\n\n/* スムーススクロール */\nhtml { \nscroll-behavior: smooth;\n}",
+    "c_activeOnTops": true,
+    "c_cSSMobile": "/* 現在地が折り返さないように */\na.Locator-button.Locator-geolocate {\n  width: 6rem;\n}",
+    "c_metaDescription": "JTB 海外旅行リモート相談専門デスク |リモートでも、お店でも、あなたの旅をご提案します！",
+    "c_metaTitle": "JTB 海外旅行リモート相談専門デスク |リモートでも、お店でも、あなたの旅をご提案します！",
+    "c_pagesURL": "https://consultants.jtb.co.jp/top-overseas",
+    "c_topBreadcrumb": {
+      "label": "海外旅行専門デスク",
+      "link": "https://consultants.jtb.co.jp/top-overseas-desk",
+      "linkType": "URL"
+    },
+    "c_topTemplate": "STANDARD",
+    "c_top_ArticlesButton1": {
+      "label": "海外おすすめプラン特集はこちら",
+      "link": "https://column.jtb.co.jp/",
+      "linkType": "OTHER"
+    },
+    "c_top_ArticlesButton2": {
+      "label": "海外現地レポート・観光ガイドはこちら",
+      "link": "https://www.jtb.co.jp/kaigai_guide/top/index.php",
+      "linkType": "OTHER"
+    },
+    "c_top_ArticlesSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e",
+    "c_top_ArticlesSectionTitle": "海外旅行おすすめ記事やモデルプラン",
+    "c_top_BannerBackgroundColor": "#FFFF33",
+    "c_top_Consultants": [
+      "cp_m_takasawa518",
+      "cp_m_omatsu513",
+      "cp_y_kitano151",
+      "cp_m_tachibana004",
+      "cp_h_nakamura327",
+      "cp_h_tominaga084",
+      "cp_m_ban303",
+      "cp_n_morita323",
+      "cp_k_takeda507",
+      "cp_y_sakakibara002"
+    ],
+    "c_top_ConsultantsSectionHTML": "\u003cscript\u003e\nwindow.addEventListener(\u0027load\u0027, function() {\n  atags \u003d document.querySelectorAll(\u0027.FAQ-answerText a[href^\u003d\"https:\"]\u0027);\n  atags.forEach(function(atag){atag.setAttribute(\u0027target\u0027, \u0027_blank\u0027);});\n});\n\u003c/script\u003e",
+    "c_top_ConsultantsSectionTitle": "海外エキスパートに相談",
+    "c_top_HeroImage": {
+      "height": 1500,
+      "sourceUrl": "https://a.mktgcdn.com/p/_1l7G9Hp-3E10j5A3pfJfEXIeafnyEs819e2xrkgPs0/2000x1500.jpg",
+      "thumbnails": [
+        {
+          "height": 1500,
+          "url": "https://a.mktgcdn.com/p-sandbox/8IiJJpKzTEM63IgcCmT9fs4yhxNLs8IKHdyEhS3UdcY/2000x1500.jpg",
+          "width": 2000
+        },
+        {
+          "height": 1425,
+          "url": "https://a.mktgcdn.com/p-sandbox/8IiJJpKzTEM63IgcCmT9fs4yhxNLs8IKHdyEhS3UdcY/1900x1425.jpg",
+          "width": 1900
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/8IiJJpKzTEM63IgcCmT9fs4yhxNLs8IKHdyEhS3UdcY/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/8IiJJpKzTEM63IgcCmT9fs4yhxNLs8IKHdyEhS3UdcY/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/8IiJJpKzTEM63IgcCmT9fs4yhxNLs8IKHdyEhS3UdcY/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/8IiJJpKzTEM63IgcCmT9fs4yhxNLs8IKHdyEhS3UdcY/2000x1500.jpg",
+      "width": 2000
+    },
+    "c_top_HeroImageCaption": "\u003ch1\u003e～海外旅行リモート相談専門デスク～\u003c/h1\u003e",
+    "c_top_HeroImageMobile": {
+      "height": 1500,
+      "sourceUrl": "https://a.mktgcdn.com/p/_1l7G9Hp-3E10j5A3pfJfEXIeafnyEs819e2xrkgPs0/2000x1500.jpg",
+      "thumbnails": [
+        {
+          "height": 1500,
+          "url": "https://a.mktgcdn.com/p-sandbox/8IiJJpKzTEM63IgcCmT9fs4yhxNLs8IKHdyEhS3UdcY/2000x1500.jpg",
+          "width": 2000
+        },
+        {
+          "height": 1425,
+          "url": "https://a.mktgcdn.com/p-sandbox/8IiJJpKzTEM63IgcCmT9fs4yhxNLs8IKHdyEhS3UdcY/1900x1425.jpg",
+          "width": 1900
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/8IiJJpKzTEM63IgcCmT9fs4yhxNLs8IKHdyEhS3UdcY/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/8IiJJpKzTEM63IgcCmT9fs4yhxNLs8IKHdyEhS3UdcY/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/8IiJJpKzTEM63IgcCmT9fs4yhxNLs8IKHdyEhS3UdcY/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/8IiJJpKzTEM63IgcCmT9fs4yhxNLs8IKHdyEhS3UdcY/2000x1500.jpg",
+      "width": 2000
+    },
+    "c_top_InfoSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_LocatorDefaultText": "住所、地名、駅名などを入力ください",
+    "c_top_LocatorDirectoryButton": {
+      "label": "都道府県・市区町村から店舗を探す",
+      "link": "https://stores.jtb.co.jp/",
+      "linkType": "URL"
+    },
+    "c_top_LocatorSearchBarSubTitle": "住所、地名、駅名などを入力ください",
+    "c_top_LocatorSearchBarTitle": "JTBの店舗検索",
+    "c_top_LocatorSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_PromotionBanners": [
+      {
+        "clickthroughUrl": "https://stores.jtb.co.jp/os-0116",
+        "description": "ヨーロッパ専門資格所有エキスパートが所属",
+        "details": "「エリア・スペシャリスト（ヨーロッパⅠ・Ⅱ・Ⅲ）」トラベルカウンセラー制度/JATAなどの資格を持つJTBフランス・イタリア・スペインエキスパートも所属しています",
+        "image": {
+          "height": 438,
+          "sourceUrl": "https://a.mktgcdn.com/p/MZhhd9ZAi0sQDDNhlrhkjrY_tgTvrc-kastWl6G17xM/600x438.png",
+          "thumbnails": [
+            {
+              "height": 438,
+              "url": "https://a.mktgcdn.com/p-sandbox/MZhhd9ZAi0sQDDNhlrhkjrY_tgTvrc-kastWl6G17xM/600x438.png",
+              "width": 600
+            },
+            {
+              "height": 143,
+              "url": "https://a.mktgcdn.com/p-sandbox/MZhhd9ZAi0sQDDNhlrhkjrY_tgTvrc-kastWl6G17xM/196x143.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MZhhd9ZAi0sQDDNhlrhkjrY_tgTvrc-kastWl6G17xM/600x438.png",
+          "width": 600
+        }
+      },
+      {
+        "clickthroughUrl": "https://stores.jtb.co.jp/os-0115",
+        "description": "ハワイ州観光局資格所有ハワイエキスパートが所属",
+        "details": "ハワイ州観光局「アロハプログラム」上級、「エリア・スペシャリスト（ハワイ・マリアナ）」トラベルカウンセラー制度/JATAなどの資格を持つJTBハワイ　エキスパートも所属しています",
+        "image": {
+          "height": 438,
+          "sourceUrl": "https://a.mktgcdn.com/p/4N97BXZQ6s7rJl9iqyldlkwD66K9vNG0HN5kHvANs3o/600x438.png",
+          "thumbnails": [
+            {
+              "height": 438,
+              "url": "https://a.mktgcdn.com/p-sandbox/y57pjPYYPpcDQvhkVrdSwJmJLHHzjvIvKiR1mxfjK-c/600x438.png",
+              "width": 600
+            },
+            {
+              "height": 143,
+              "url": "https://a.mktgcdn.com/p-sandbox/y57pjPYYPpcDQvhkVrdSwJmJLHHzjvIvKiR1mxfjK-c/196x143.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/y57pjPYYPpcDQvhkVrdSwJmJLHHzjvIvKiR1mxfjK-c/600x438.png",
+          "width": 600
+        }
+      }
+    ],
+    "c_top_PromotionBannersSectionSubTitle": "お客様それぞれの目的、ご出発時期、ご予算などに合わせた海外旅行のご提案をコンサルタントが承ります。ご予約後はご出発前に準備すべきことなども、アドバイスさせていただくため、海外旅行の不安や疑問にしっかりとお応えし、安心してご参加いただけます。\n※ご旅行内容によっては、一部取り扱い出来ないものがございます。詳しく旅のコンサルタントへご相談ください",
+    "c_top_PromotionBannersSectionTitle": "～JTB海外旅行リモート相談専門デスクとは～",
+    "name": "TOP 海外旅行リモート相談専門デスク"
+  },
+  "entityType": "ce_tOP",
+  "labels": []
+}

@@ -1,0 +1,110 @@
+{
+  "$id": "cp_a_aoyama330",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_cp_Articles": [
+      "ap_a_aoyama330_007",
+      "ap_a_aoyama330_006",
+      "ap_a_aoyama330_005",
+      "ap_a_aoyama330_004",
+      "ap_a_aoyama330_002",
+      "ap_a_aoyama330_003"
+    ],
+    "c_cp_ArticlesSectionTitle": "このコンサルタントの投稿記事",
+    "c_cp_CTA1": {
+      "label": "青山 愛 のリモート相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVfg",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "コンサルタント一覧",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_cp_Certification": [
+      "総合旅行業取扱管理者"
+    ],
+    "c_cp_Description": "旅行を売る仕事は夢を売る仕事と思っています。お客様に夢を語っていただけるよう、アットホームにお話いただけるように心がけてお話しています。旅行というカタチのないものをお客様と一緒にお客様の描くカタチにできるようお手伝いしたいと思います。",
+    "c_cp_DisplayName": "青山 愛",
+    "c_cp_EnrollmentArea": "大阪",
+    "c_cp_FieldOfExpertise": [
+      "歴史・地理",
+      "美術鑑賞",
+      "スポーツ観戦"
+    ],
+    "c_cp_GeneralInfo": [
+      "趣味：ダイビング、スポーツ観戦",
+      "最近のお気に入り：ガイドさんが案内してくれるツアー",
+      "必ず押さえていること：定番の食べもの、おみやげ、お酒は絶対外しません"
+    ],
+    "c_cp_HiraganaName": "あおやま あい",
+    "c_cp_JobTitle": "JTBリモートコンシェルジュ　トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 462,
+      "sourceUrl": "https://a.mktgcdn.com/p/XwgGKDtoHUtcjZpFhG3V1ftGB2g82q_FESZN3O40cJ4/709x462.png",
+      "thumbnails": [
+        {
+          "height": 462,
+          "url": "https://a.mktgcdn.com/p-sandbox/XwgGKDtoHUtcjZpFhG3V1ftGB2g82q_FESZN3O40cJ4/709x462.png",
+          "width": 709
+        },
+        {
+          "height": 403,
+          "url": "https://a.mktgcdn.com/p-sandbox/XwgGKDtoHUtcjZpFhG3V1ftGB2g82q_FESZN3O40cJ4/619x403.png",
+          "width": 619
+        },
+        {
+          "height": 391,
+          "url": "https://a.mktgcdn.com/p-sandbox/XwgGKDtoHUtcjZpFhG3V1ftGB2g82q_FESZN3O40cJ4/600x391.png",
+          "width": 600
+        },
+        {
+          "height": 128,
+          "url": "https://a.mktgcdn.com/p-sandbox/XwgGKDtoHUtcjZpFhG3V1ftGB2g82q_FESZN3O40cJ4/196x128.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/XwgGKDtoHUtcjZpFhG3V1ftGB2g82q_FESZN3O40cJ4/709x462.png",
+      "width": 709
+    },
+    "c_cp_Point": "120",
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "イギリス",
+      "スペイン"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "大阪府"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "歴史",
+      "スキューバダイビング",
+      "スポーツ観戦"
+    ],
+    "c_metaDescription": "「JTBリモートコンシェルジュ」は、オンラインでの旅行相談・申込の専門店です。知識豊富なスタッフがご希望の旅をご提案します。 オンライ相談の予約も承ります。",
+    "c_metaTitle": "JTBリモートコンシェルジュ ｜  青山 愛 ｜ リモートトラベルコンシェルジュ | オンライン旅行相談",
+    "c_news_NewsList": [
+      "news_ap_a_aoyama330_007",
+      "news_ap_a_aoyama330_006",
+      "news_ap_a_aoyama330_005",
+      "news_ap_a_aoyama330_004",
+      "news_ap_a_aoyama330_002",
+      "news_ap_a_aoyama330_003"
+    ],
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_a_aoyama330",
+    "c_responsibleService": [
+      "リモートコンシェルジュ"
+    ],
+    "name": "a_aoyama330",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

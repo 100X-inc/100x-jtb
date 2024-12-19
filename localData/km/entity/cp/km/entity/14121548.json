@@ -1,0 +1,79 @@
+{
+  "$id": "cp_14121548",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_CTA1": {
+      "label": "西森 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVes_2l",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf-Bq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "\u003cfont color\u003d“blue”\u003e温泉・記念旅行の宿選びならお任せください！\u003c/font\u003e\n\n★★得意方面★★\n国内：関東近郊・京都・奄美大島・東北\n海外：ハワイ・パリ・シンガポール\n\n★★得意ジャンル★★\n・温泉宿（秘湯・露天風呂付客室）\n・社寺巡り（特に仏像が好きです）\n\n★★ご挨拶★★\n「どこかに行きたいけど、具体的にどこがいいのかわからない」そんなことありませんか？\n過去のご旅行経験やこんな雰囲気が好き等、お聞かせください。\n一緒に最適な旅行地、旅館、ホテル探しのお手伝いができれば幸いです。\nクラシックなもの（古墳・遺跡・仏像・シェイクスピア等）が好きです。\nよろしくお願いいたします。",
+    "c_cp_DisplayName": "西森",
+    "c_cp_FieldOfExpertise": [
+      "温泉・立ち寄り湯"
+    ],
+    "c_cp_JobTitle": "JTB虎ノ門店　トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 740,
+      "sourceUrl": "https://a.mktgcdn.com/p/1YqlVkSqfdu7ftGIeABM3fQJlAwFs-Zm51qocNCwhHo/600x740.jpg",
+      "thumbnails": [
+        {
+          "height": 740,
+          "url": "https://a.mktgcdn.com/p-sandbox/mqEwkabKPUbtxlmoKY01_KXZv-dHiOJL7sJTEYBS36s/600x740.jpg",
+          "width": 600
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/mqEwkabKPUbtxlmoKY01_KXZv-dHiOJL7sJTEYBS36s/365x450.jpg",
+          "width": 365
+        },
+        {
+          "height": 242,
+          "url": "https://a.mktgcdn.com/p-sandbox/mqEwkabKPUbtxlmoKY01_KXZv-dHiOJL7sJTEYBS36s/196x242.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/mqEwkabKPUbtxlmoKY01_KXZv-dHiOJL7sJTEYBS36s/600x740.jpg",
+      "width": 600
+    },
+    "c_cp_Point": "1520",
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "フランス"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "シンガポール"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "東北全般"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "京都府"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 西森",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 西森",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_14121548",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2023/05/19 JBX対応（リテール外転出）",
+    "name": "にしもり まいこ_14121548",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

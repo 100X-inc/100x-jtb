@@ -1,0 +1,674 @@
+{
+  "$id": "news_web_kaigai_0018",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1280,
+      "sourceUrl": "https://a.mktgcdn.com/p/Ma_K4mOb5zXohIb4NvkTLh5R21CQMsheSoi2pP_DqEA/1920x1280.jpg",
+      "thumbnails": [
+        {
+          "height": 1280,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ma_K4mOb5zXohIb4NvkTLh5R21CQMsheSoi2pP_DqEA/1920x1280.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ma_K4mOb5zXohIb4NvkTLh5R21CQMsheSoi2pP_DqEA/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ma_K4mOb5zXohIb4NvkTLh5R21CQMsheSoi2pP_DqEA/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ma_K4mOb5zXohIb4NvkTLh5R21CQMsheSoi2pP_DqEA/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ma_K4mOb5zXohIb4NvkTLh5R21CQMsheSoi2pP_DqEA/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Ma_K4mOb5zXohIb4NvkTLh5R21CQMsheSoi2pP_DqEA/1920x1280.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ヨーロッパの記事一覧をみる",
+        "uRL": "https://www.jtb.co.jp/news/list/kaigai/europe"
+      },
+      {
+        "linkText": "イギリスツアー・旅行をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/united-kingdom/"
+      },
+      {
+        "linkText": "イギリスのホテルをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/190/2114/?freeword\u003d%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%20%20%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%20%20%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d2114"
+      },
+      {
+        "linkText": "イギリス航空券をみる",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/europe/united_kingdom/"
+      },
+      {
+        "linkText": "ロンドンツアーをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dGB\u0026sc.dest%5B0%5D.city\u003dLON"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "【JTB】現地スタッフがおすすめする、イギリス観光！世界遺産などの人気スポットや一度は訪れたい観光名所、さらに現地グルメ情報まで！旅のプロが厳選した、イギリス観光を満喫するための過ごし方をご紹介いたします。",
+    "c_ap_Tags": [
+      "グルメ",
+      "世界遺産",
+      "街歩き",
+      "イギリス",
+      "ヨーロッパ",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "イギリス観光【現地スタッフが選ぶ】おすすめスポット＆旅の過ごし方",
+    "c_linkedArea3News": [
+      "united_kingdom"
+    ],
+    "c_metaDescription": "【JTB】現地スタッフがおすすめする、イギリスの観光情報をロンドン中心にご紹介！世界遺産や人気スポット、一度は訪れたい観光名所、さらに現地グルメ情報まで！ロンドン観光を満喫するための過ごし方を旅のプロが厳選。イギリスの首都ロンドンで、最高の観光体験をお楽しみください。",
+    "c_metaTitle": "イギリス観光【現地スタッフが選ぶ】おすすめスポット＆旅の過ごし方",
+    "c_news_CTAs": [
+      {
+        "label": "イギリスのホテルをみる",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/190/2114/?freeword\u003d%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%20%20%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%20%20%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d2114",
+        "linkType": "URL"
+      },
+      {
+        "label": "イギリス旅行をみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/united-kingdom/",
+        "linkType": "URL"
+      },
+      {
+        "label": "イギリス航空券をみる",
+        "link": "https://www.jtb.co.jp/ovs_air_static/europe/united_kingdom/",
+        "linkType": "URL"
+      },
+      {
+        "label": "ロンドンツアーをみる",
+        "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dGB\u0026sc.dest%5B0%5D.city\u003dLON",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "日本との時差はマイナス9時間、日本が正午のときにイギリスは午前3時。ただし、サマータイム期間（3月最終日曜日～10月最終日曜日）はマイナス8時間です。春はイースターと共に始まり、4月中旬頃からエイプリルシャワーと呼ばれるほど、とくに天候が変わりやすく雨も急に降り出すような時期となります。6～8月にかけての平均気温が20度以下なので、夏でも過ごしやすい日が多く、晴天続きでカラリとする日が多いです。9月は紅葉のシーズンです。冬の期間は長く、気温も低くなります。また冬至の頃になると16時頃には日が落ち、朝は8時頃まで日が昇りません。",
+        "image": {
+          "height": 1311,
+          "sourceUrl": "https://a.mktgcdn.com/p/HtWoN6DMq1QGOqYgOh0TN9U5YwaTVJjxtAC-MzSh8pA/1536x1311.jpg",
+          "thumbnails": [
+            {
+              "height": 1311,
+              "url": "https://a.mktgcdn.com/p-sandbox/HtWoN6DMq1QGOqYgOh0TN9U5YwaTVJjxtAC-MzSh8pA/1536x1311.jpg",
+              "width": 1536
+            },
+            {
+              "height": 528,
+              "url": "https://a.mktgcdn.com/p-sandbox/HtWoN6DMq1QGOqYgOh0TN9U5YwaTVJjxtAC-MzSh8pA/619x528.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/HtWoN6DMq1QGOqYgOh0TN9U5YwaTVJjxtAC-MzSh8pA/527x450.jpg",
+              "width": 527
+            },
+            {
+              "height": 167,
+              "url": "https://a.mktgcdn.com/p-sandbox/HtWoN6DMq1QGOqYgOh0TN9U5YwaTVJjxtAC-MzSh8pA/196x167.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HtWoN6DMq1QGOqYgOh0TN9U5YwaTVJjxtAC-MzSh8pA/1536x1311.jpg",
+          "width": 1536
+        },
+        "imageCaption": "©The View from the Shard",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．イギリスの基本情報"
+      },
+      {
+        "description": "5月～9月頃がおすすめの時期となります。夏（7月・8月）の平均気温は18～19度ほどで湿度も低く、真冬でもあまり0度以下にはならないという、日本と比べて過ごしやすい気候といえます。とくに7月は日没が21時半頃と日も長いので、時間を有効的に使えるというのも魅力的です。また、国立の美術館・博物館は特別展を除いて入場無料で、夏季なら開館時間が曜日によって延長されているというメリットもあります。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/YtNjTUarcuQuaCWEt0pJbRnAiFHtBYXM5CFxGK7-rbY/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/YtNjTUarcuQuaCWEt0pJbRnAiFHtBYXM5CFxGK7-rbY/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/YtNjTUarcuQuaCWEt0pJbRnAiFHtBYXM5CFxGK7-rbY/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/YtNjTUarcuQuaCWEt0pJbRnAiFHtBYXM5CFxGK7-rbY/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/YtNjTUarcuQuaCWEt0pJbRnAiFHtBYXM5CFxGK7-rbY/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YtNjTUarcuQuaCWEt0pJbRnAiFHtBYXM5CFxGK7-rbY/1536x1152.jpg",
+          "width": 1536
+        },
+        "imageCaption": "©Leeds Castle",
+        "sectionLevel": "h3",
+        "sectionTitle": "ロンドン観光のベストシーズン"
+      },
+      {
+        "description": "古き良き伝統を受け継ぎながら、新しい文化で世界をリードする街「ロンドン」。ファッションやアート、ミュージックなど多様なカルチャーが五感を刺激し、流行の最先端に出会える場所といっても過言ではありません。「ポートベロー」「カムデン」「スピタルフィールズ」など、ロンドンに30ヶ所以上あるといわれるストリートマーケットで、最新のトレンドに触れてみてはいかがでしょうか。",
+        "image": {
+          "height": 1536,
+          "sourceUrl": "https://a.mktgcdn.com/p/cH882_VkSm-aUkPJT9nEhHI5-4N7fEYfz9-vt4mcYno/1322x1536.jpg",
+          "thumbnails": [
+            {
+              "height": 1536,
+              "url": "https://a.mktgcdn.com/p-sandbox/cH882_VkSm-aUkPJT9nEhHI5-4N7fEYfz9-vt4mcYno/1322x1536.jpg",
+              "width": 1322
+            },
+            {
+              "height": 719,
+              "url": "https://a.mktgcdn.com/p-sandbox/cH882_VkSm-aUkPJT9nEhHI5-4N7fEYfz9-vt4mcYno/619x719.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/cH882_VkSm-aUkPJT9nEhHI5-4N7fEYfz9-vt4mcYno/387x450.jpg",
+              "width": 387
+            },
+            {
+              "height": 228,
+              "url": "https://a.mktgcdn.com/p-sandbox/cH882_VkSm-aUkPJT9nEhHI5-4N7fEYfz9-vt4mcYno/196x228.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cH882_VkSm-aUkPJT9nEhHI5-4N7fEYfz9-vt4mcYno/1322x1536.jpg",
+          "width": 1322
+        },
+        "imageCaption": "ギールズ・レストラン／フィッシュアンドチップス",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．イギリスの世界遺産・観光名所"
+      },
+      {
+        "description": "イングランド南東部のケント州・メードストンにある森と草原、濠に囲まれた中世の石造の城です。その優雅な姿から、かつては「貴婦人の館」とも呼ばれていました。16世紀初期の美しく飾られた居間や応接間、寝台などを見ることができ、庭園が美しいことでも知られています。",
+        "image": {
+          "height": 513,
+          "sourceUrl": "https://a.mktgcdn.com/p/n7aGwtBRU7OdcU2uUk25Mi6Y3gMxR7Byn9H9jObo2vQ/640x513.jpg",
+          "thumbnails": [
+            {
+              "height": 513,
+              "url": "https://a.mktgcdn.com/p-sandbox/n7aGwtBRU7OdcU2uUk25Mi6Y3gMxR7Byn9H9jObo2vQ/640x513.jpg",
+              "width": 640
+            },
+            {
+              "height": 496,
+              "url": "https://a.mktgcdn.com/p-sandbox/n7aGwtBRU7OdcU2uUk25Mi6Y3gMxR7Byn9H9jObo2vQ/619x496.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/n7aGwtBRU7OdcU2uUk25Mi6Y3gMxR7Byn9H9jObo2vQ/561x450.jpg",
+              "width": 561
+            },
+            {
+              "height": 157,
+              "url": "https://a.mktgcdn.com/p-sandbox/n7aGwtBRU7OdcU2uUk25Mi6Y3gMxR7Byn9H9jObo2vQ/196x157.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/n7aGwtBRU7OdcU2uUk25Mi6Y3gMxR7Byn9H9jObo2vQ/640x513.jpg",
+          "width": 640
+        },
+        "imageCaption": "フィッシャーズ・イン・ザ・シティ／ホットシェル",
+        "sectionLevel": "h3",
+        "sectionTitle": "ロンドンのストリートマーケット"
+      },
+      {
+        "description": "イングランド南部のウェスト・サセックス州にあり、かつてエリザベス1世が所有していたアンバーリー城。900年以上の歴史あるお城の城壁に見事にマッチした庭園があり、見ごたえがあります。現在はキャッスルホテルとなっており、ロンドンから約1時間半でアクセスできます。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/c3RWyGQvWjD9qL_BVGn3-8gY3JW87VjUVkH9ySlrTLc/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/c3RWyGQvWjD9qL_BVGn3-8gY3JW87VjUVkH9ySlrTLc/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/c3RWyGQvWjD9qL_BVGn3-8gY3JW87VjUVkH9ySlrTLc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/c3RWyGQvWjD9qL_BVGn3-8gY3JW87VjUVkH9ySlrTLc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/c3RWyGQvWjD9qL_BVGn3-8gY3JW87VjUVkH9ySlrTLc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/c3RWyGQvWjD9qL_BVGn3-8gY3JW87VjUVkH9ySlrTLc/1536x1024.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "リーズ城と庭園"
+      },
+      {
+        "description": "ロンドンから北西へ約90kmほどのオックスフォード郊外ウッドストックにある世界遺産のブレナム宮殿。英国の元首相チャーチルの生誕地でもあり、国内随一のバロック式宮殿と18世紀を代表する風景式庭園は必見です。",
+        "image": {
+          "height": 424,
+          "sourceUrl": "https://a.mktgcdn.com/p/512VQ0RfZwYgQbR4KSiTIddlaa2hwE_kX7jWj6Odr5s/640x424.jpg",
+          "thumbnails": [
+            {
+              "height": 424,
+              "url": "https://a.mktgcdn.com/p-sandbox/512VQ0RfZwYgQbR4KSiTIddlaa2hwE_kX7jWj6Odr5s/640x424.jpg",
+              "width": 640
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/512VQ0RfZwYgQbR4KSiTIddlaa2hwE_kX7jWj6Odr5s/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/512VQ0RfZwYgQbR4KSiTIddlaa2hwE_kX7jWj6Odr5s/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/512VQ0RfZwYgQbR4KSiTIddlaa2hwE_kX7jWj6Odr5s/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/512VQ0RfZwYgQbR4KSiTIddlaa2hwE_kX7jWj6Odr5s/640x424.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "アンバーリー城"
+      },
+      {
+        "description": "どうやって建てられたのか？どんな風に使われていたのか？謎の多いストーンサークルとしても知られているストーンヘンジ。世界的にも有名なこの「巨石群」は、紀元前3,000年に造られたといいます。古代の天文観測台や太陽崇拝のための場所だったという説もあるそうですが、近年このストーンヘンジの石に怪我や病気を治す力がある、と信じた古代の人々の巡礼地であったのではないか？とも言われているようです。",
+        "image": {
+          "height": 427,
+          "sourceUrl": "https://a.mktgcdn.com/p/r-GNoAuJ-oVF-c5ONuaYyqswlUM_5cJCiYVJUcz5ZR0/640x427.jpg",
+          "thumbnails": [
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/r-GNoAuJ-oVF-c5ONuaYyqswlUM_5cJCiYVJUcz5ZR0/640x427.jpg",
+              "width": 640
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/r-GNoAuJ-oVF-c5ONuaYyqswlUM_5cJCiYVJUcz5ZR0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/r-GNoAuJ-oVF-c5ONuaYyqswlUM_5cJCiYVJUcz5ZR0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/r-GNoAuJ-oVF-c5ONuaYyqswlUM_5cJCiYVJUcz5ZR0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/r-GNoAuJ-oVF-c5ONuaYyqswlUM_5cJCiYVJUcz5ZR0/640x427.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ブレナム宮殿"
+      },
+      {
+        "description": "イングランド南西部のサマセット州にある、14世紀に建てられた塔が残る丘で、ここはヨーロッパで最も美しく神秘的な聖地の一つともいわれています。イエス・キリストが亡くなった時の血を受けた聖杯が眠るといわれている井戸の伝説が有名です。",
+        "image": {
+          "height": 1030,
+          "sourceUrl": "https://a.mktgcdn.com/p/Xus91tggDhnxiDsDhihuwVGr3MpHE4SQwkYm2zpiIsg/1536x1030.jpg",
+          "thumbnails": [
+            {
+              "height": 1030,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xus91tggDhnxiDsDhihuwVGr3MpHE4SQwkYm2zpiIsg/1536x1030.jpg",
+              "width": 1536
+            },
+            {
+              "height": 415,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xus91tggDhnxiDsDhihuwVGr3MpHE4SQwkYm2zpiIsg/619x415.jpg",
+              "width": 619
+            },
+            {
+              "height": 402,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xus91tggDhnxiDsDhihuwVGr3MpHE4SQwkYm2zpiIsg/600x402.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xus91tggDhnxiDsDhihuwVGr3MpHE4SQwkYm2zpiIsg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Xus91tggDhnxiDsDhihuwVGr3MpHE4SQwkYm2zpiIsg/1536x1030.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ストーンヘンジ"
+      },
+      {
+        "description": "イギリスの南西部にあり、約1,500年前に大天使ミカエルが降り立ったという伝説がある美しい島は、石畳が敷かれた道で本土とつながり、まるで海の中を歩いているかのような新鮮な体験ができます。その外観やロケーションなどから、イギリス版の「モン・サン・ミシェル」とも呼ばれることもあります。満潮時には島が独立するので、ボートで渡ってみるのもおすすめです。穏やかなイギリス南部の魅力をゆったりと感じられるこの島も、近年ではパワースポットとして、多くの人々が訪れるようになりました。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/FBwPrTGpTtWSsIITcu4XPD3FuNAk--SH9GeNxrGKmrY/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/FBwPrTGpTtWSsIITcu4XPD3FuNAk--SH9GeNxrGKmrY/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/FBwPrTGpTtWSsIITcu4XPD3FuNAk--SH9GeNxrGKmrY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/FBwPrTGpTtWSsIITcu4XPD3FuNAk--SH9GeNxrGKmrY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/FBwPrTGpTtWSsIITcu4XPD3FuNAk--SH9GeNxrGKmrY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FBwPrTGpTtWSsIITcu4XPD3FuNAk--SH9GeNxrGKmrY/1536x1024.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "グラストンベリー・トー"
+      },
+      {
+        "description": "イギリス北部のスコットランドの首都エディンバラ。街全体が世界遺産に登録されているこの街はぜひ訪れたい都市の１つです。趣きのある重厚な石造りの古都の街並みは、とても美しくロマンティックで、どこからか聞こえてくるバグパイプの音色に、目に映る色鮮やかなタータンチェックのキルト。きっと歩いているだけでワクワクしてくるはずです。新市街地の東部にある小高いこの丘「カールトン・ヒル」から一望できるエディンバラの景観は、歴史情緒に溢れ大変美しく、よく絵葉書にも使われています。古代は火山だったこの場所に立つ丸いドーム型の旧天文台は風格があり、数多くの著名人たちの記念碑や歴史的建造物を見ることができます。ライトアップされた旧市街を望む夕景も大変ロマンティックです。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/AQU758j_a_qZgKaSIsvy3pDWfAJUhHiBifOhPeRpBn4/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/AQU758j_a_qZgKaSIsvy3pDWfAJUhHiBifOhPeRpBn4/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/AQU758j_a_qZgKaSIsvy3pDWfAJUhHiBifOhPeRpBn4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/AQU758j_a_qZgKaSIsvy3pDWfAJUhHiBifOhPeRpBn4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/AQU758j_a_qZgKaSIsvy3pDWfAJUhHiBifOhPeRpBn4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AQU758j_a_qZgKaSIsvy3pDWfAJUhHiBifOhPeRpBn4/1536x1024.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "セント・マイケルズ・マウント"
+      },
+      {
+        "description": "城が築かれる以前から天然の要塞となっていた険しい岩山の高台にそびえ立つこの美しいお城は、云わずと知れたエディンバラのシンボル。長い歴史の中で、スコットランド歴代の王の居住地と要塞の役目を果たしてきたこのお城の堅牢な佇まいは迫力満点です。オナーズ・オブ・スコットランド（3種の宝器：王冠、御剣、御笏）、運命の石（三種の宝器と共に代々の王の戴冠式の際に用いられてきたスコットランドの守護石）、有名な15世紀の大砲モンス・メグ、場内で最も古い建物となるセント・マーガレット教会堂や、国立スコットランド戦争博物館など見どころがたくさんあり、午後1時に場内のミルズ・マウント・バテリーから発射される空砲ワン・オクロック・ガンは、日曜・祝日以外、毎日行われている観光客に人気のイベントです。",
+        "image": {
+          "height": 455,
+          "sourceUrl": "https://a.mktgcdn.com/p/_HlM5zJArVNurONP2OzE4-CRN4sPdyTFHkTp0igxCvo/640x455.jpg",
+          "thumbnails": [
+            {
+              "height": 455,
+              "url": "https://a.mktgcdn.com/p-sandbox/_HlM5zJArVNurONP2OzE4-CRN4sPdyTFHkTp0igxCvo/640x455.jpg",
+              "width": 640
+            },
+            {
+              "height": 440,
+              "url": "https://a.mktgcdn.com/p-sandbox/_HlM5zJArVNurONP2OzE4-CRN4sPdyTFHkTp0igxCvo/619x440.jpg",
+              "width": 619
+            },
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/_HlM5zJArVNurONP2OzE4-CRN4sPdyTFHkTp0igxCvo/600x427.jpg",
+              "width": 600
+            },
+            {
+              "height": 139,
+              "url": "https://a.mktgcdn.com/p-sandbox/_HlM5zJArVNurONP2OzE4-CRN4sPdyTFHkTp0igxCvo/196x139.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_HlM5zJArVNurONP2OzE4-CRN4sPdyTFHkTp0igxCvo/640x455.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "エディンバラ（スコットランド）"
+      },
+      {
+        "description": "エディンバラ城から皇室の避暑地であるホーリールード宮殿までを結ぶ石畳の大通りロイヤル・マイルは、大変賑わいがあり、セントジャイルズ大聖堂など歴史的な建物やパブ・カフェなどが多数あり、バグパイプの音色と共にエディンバラの歴史を感じながら楽しい散策ができます。スコティッシュカシミヤやタータンの専門店ががズラリと並び、人気アイテムが現地価格で購入できるのも魅力的です。",
+        "image": {
+          "height": 1070,
+          "sourceUrl": "https://a.mktgcdn.com/p/4p7ZiUQNT4gVSYUINZN89fs1cHLMgyMaQ-EjrKGCQYs/1536x1070.jpg",
+          "thumbnails": [
+            {
+              "height": 1070,
+              "url": "https://a.mktgcdn.com/p-sandbox/4p7ZiUQNT4gVSYUINZN89fs1cHLMgyMaQ-EjrKGCQYs/1536x1070.jpg",
+              "width": 1536
+            },
+            {
+              "height": 431,
+              "url": "https://a.mktgcdn.com/p-sandbox/4p7ZiUQNT4gVSYUINZN89fs1cHLMgyMaQ-EjrKGCQYs/619x431.jpg",
+              "width": 619
+            },
+            {
+              "height": 418,
+              "url": "https://a.mktgcdn.com/p-sandbox/4p7ZiUQNT4gVSYUINZN89fs1cHLMgyMaQ-EjrKGCQYs/600x418.jpg",
+              "width": 600
+            },
+            {
+              "height": 137,
+              "url": "https://a.mktgcdn.com/p-sandbox/4p7ZiUQNT4gVSYUINZN89fs1cHLMgyMaQ-EjrKGCQYs/196x137.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4p7ZiUQNT4gVSYUINZN89fs1cHLMgyMaQ-EjrKGCQYs/1536x1070.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "エディンバラ城"
+      },
+      {
+        "description": "スコットランドのフォートウィリアムにある、世界で最も古いといわれるコンクリート製の高架橋で、映画のロケ地になったことでも有名です。現在も蒸気機関車ジャコバイト号が走っており、ハイランド地方の大自然を眺めることができる絶景スポットです。",
+        "image": {
+          "height": 427,
+          "sourceUrl": "https://a.mktgcdn.com/p/WxBKY0N2rclkHKLGtx8oszCAIFc9T9aOIeZKxAZYFNY/640x427.jpg",
+          "thumbnails": [
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/WxBKY0N2rclkHKLGtx8oszCAIFc9T9aOIeZKxAZYFNY/640x427.jpg",
+              "width": 640
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/WxBKY0N2rclkHKLGtx8oszCAIFc9T9aOIeZKxAZYFNY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/WxBKY0N2rclkHKLGtx8oszCAIFc9T9aOIeZKxAZYFNY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/WxBKY0N2rclkHKLGtx8oszCAIFc9T9aOIeZKxAZYFNY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WxBKY0N2rclkHKLGtx8oszCAIFc9T9aOIeZKxAZYFNY/640x427.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ロイヤル・マイル"
+      },
+      {
+        "description": "ロンドンは世界の味が集まる「グルメ都市」で、手頃な価格のお店も多く、世界中のワインが入手できるワインの宝庫だったりもします。フレンチ・イタリアンをミックスしたモダン・ブリティッシュ料理も街中では定着しており、東欧・南欧・インド・中国料理から日本料理に至るまで多彩な料理を楽しめるので、お好みや予算に応じて幅広くお店を選ぶことができます。伝統的な英国料理の一つとして有名な「フィッシュアンドチップス」ですが、メイフェア地区には、オバマ元・米国大統領夫人が好んだといわれるフィッシュアンドチップスを提供したパブなどもあります。",
+        "image": {
+          "height": 832,
+          "sourceUrl": "https://a.mktgcdn.com/p/3Vdhvmov30cqi8GMHGGFaQv_E7M4HuWXepdOKm5nHDA/960x832.jpg",
+          "thumbnails": [
+            {
+              "height": 832,
+              "url": "https://a.mktgcdn.com/p-sandbox/3Vdhvmov30cqi8GMHGGFaQv_E7M4HuWXepdOKm5nHDA/960x832.jpg",
+              "width": 960
+            },
+            {
+              "height": 536,
+              "url": "https://a.mktgcdn.com/p-sandbox/3Vdhvmov30cqi8GMHGGFaQv_E7M4HuWXepdOKm5nHDA/619x536.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3Vdhvmov30cqi8GMHGGFaQv_E7M4HuWXepdOKm5nHDA/519x450.jpg",
+              "width": 519
+            },
+            {
+              "height": 170,
+              "url": "https://a.mktgcdn.com/p-sandbox/3Vdhvmov30cqi8GMHGGFaQv_E7M4HuWXepdOKm5nHDA/196x170.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3Vdhvmov30cqi8GMHGGFaQv_E7M4HuWXepdOKm5nHDA/960x832.jpg",
+          "width": 960
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "グレンフィナン高架橋"
+      },
+      {
+        "description": "イギリス発祥ともいわれる「ヴィーガン（完全菜食主義）」。もともとベジタリアンが多かったというイギリスでは、ヴィーガンへ切り替える人も少なくないようで、近年、ヴィーガン対応のレストランも増えています。身体にも優しく、旅行中に陥りやすい野菜不足の解消にもなるかもしれません。ヘルシーなものが食べたい時などに、試してみてはいかがでしょうか。",
+        "image": {
+          "height": 959,
+          "sourceUrl": "https://a.mktgcdn.com/p/F0Kh8LlLaTfGg7YCA_JuB9ZYzm1jZwmQwGDi1UxqX8M/1280x959.jpg",
+          "thumbnails": [
+            {
+              "height": 959,
+              "url": "https://a.mktgcdn.com/p-sandbox/F0Kh8LlLaTfGg7YCA_JuB9ZYzm1jZwmQwGDi1UxqX8M/1280x959.jpg",
+              "width": 1280
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/F0Kh8LlLaTfGg7YCA_JuB9ZYzm1jZwmQwGDi1UxqX8M/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/F0Kh8LlLaTfGg7YCA_JuB9ZYzm1jZwmQwGDi1UxqX8M/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/F0Kh8LlLaTfGg7YCA_JuB9ZYzm1jZwmQwGDi1UxqX8M/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/F0Kh8LlLaTfGg7YCA_JuB9ZYzm1jZwmQwGDi1UxqX8M/1280x959.jpg",
+          "width": 1280
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "3．イギリスのおすすめグルメ・料理"
+      },
+      {
+        "description": "ミシュランの星付きレストランが、ロンドンに次いでイギリス国内で2番目に多いエディンバラでは、もちろんグルメもお楽しみいただけます。スコットランドの朝食で特徴的なのは国民食ハギス、ブラックプディングとスコティッシュ・スコーンです。ハギスは羊の心臓、肝臓、腎臓、肺などの内臓のミンチにオートミール、玉ねぎ、スパイスなどを加え羊の胃袋に詰めて茹でたもので、スコットランドの伝統食として愛されています。ブラックプディングは豚肉、オートミールに血が混ぜてある名前のとおり、黒く太めのソーセージで、輪切りにしたものを焼いて食べます。また、エディンバラで夏にぜひ食べたいのがムール貝。身も大きくぷりぷりで、日本と比べると安価に食べられます。「Mussel and Steak Bar」では、ムール貝だけでなく牡蠣やロブスターなどの魚介も人気で、スコッチビーフも食べたいという方にはステーキとムール貝のセットのメニューもおすすめです。",
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://a.mktgcdn.com/p/SQbrsgoC9QE1zONLfSKcBAGs2Jh1C8uMOxgxYIQ6ivo/481x640.jpg",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "https://a.mktgcdn.com/p-sandbox/SQbrsgoC9QE1zONLfSKcBAGs2Jh1C8uMOxgxYIQ6ivo/481x640.jpg",
+              "width": 481
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/SQbrsgoC9QE1zONLfSKcBAGs2Jh1C8uMOxgxYIQ6ivo/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/SQbrsgoC9QE1zONLfSKcBAGs2Jh1C8uMOxgxYIQ6ivo/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SQbrsgoC9QE1zONLfSKcBAGs2Jh1C8uMOxgxYIQ6ivo/481x640.jpg",
+          "width": 481
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ヴィーガン料理"
+      },
+      {
+        "description": "「イギリスのことをもっと知ってみたい」「イギリス人生活を体験したい」といった旅行者の方におすすめしたいのが、イギリスならではの散歩の楽しみ方です。休日や週末になると、イギリス人はよく公園へ散歩に出かけていきます。家族でなかよく楽しんだり、犬を連れて歩いたり、サークルの仲間同士で連れ立ってと、楽しみ方は人それぞれ。散歩道の近くにはパブもあり、ランチ後に散歩をしたり、散歩を楽しんだ後でスナックと飲み物と一緒にくつろいだりしている人も多いです。そんな散歩道があるのは、カントリーサイドだけではありません。ロンドン市内でも、朝もやの中、柔らかな朝日がかかるハイドパーク（Hyde Park）へ散歩に出かけると、リスやハリネズミに出会うことがあります。また、リッチモンド・パーク（Richmond Park）では鹿の群れに遭遇することがあり、都会の中にいてもたっぷりと自然を楽しむことができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "エディンバラでのおすすめグルメ・料理"
+      },
+      {
+        "description": "映画でも有名となったノッティングヒルの西にある「ウエストフィールド」は、街の中心部にあるショッピングセンターとしては欧州一ともいわれる広大な施設で、家族連れや若いカップルで賑わっています。ファッション系の店舗が充実し、今までショッピングセンターに出店していなかったブランドが多数出店しているのも魅力的です。また、ロンドン市内でお買い物を楽しむなら、狙い目なのがクリスマスセール・サマーセールの年2回のセール期間。ロンドンのショッピング天国といえるこの時期に、世界的にも有名な老舗の「ハロッズ」、豪華で実用的な商品の多い「リバティ」、若者のファッションの最先端を担う「ハーヴェイ・ニコルス」などをめぐりながら、最新ファッションやお気に入りの品を探すのも楽しいでしょう。ウィンドウショッピングだけでも一日たっぷりと過ごせます。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．イギリスの現地スタッフ情報"
+      },
+      {
+        "description": "エディンバラ城のエスプラナード広場で、毎年8月に行われる夏の一大イベント「ロイヤル・ミリタリー・タトゥー」。素晴らしいショーと音楽、スコットランドの伝統が結集する壮大なイベントで、伝統衣装を着た軍楽隊によるドラムとバグパイプの演奏を楽しむことができます。ちなみにタトゥーとは、軍隊の帰営ラッパのこと。第二次世界大戦以降の復興期に国民を音楽で勇気づけようと、スコットランドとイングランドの連隊が公演を行ったことをきっかけにスタートしました。その後、徐々に世界からの注目も集まり、現在では約40カ国が参加する一大行事となり、チャリティーの目的も合わせ持つようになりました。なおエディンバラの夜は、8月でも想像以上に冷え込みます。持ち運びのいいライトダウンなどの防寒具なども、お忘れなく。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ロンドンならではの散歩の楽しみ方"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "ロンドンでのおすすめショッピング・スポット"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "スコットランド夏の祭典「ロイヤル・ミリタリー・タトゥー」"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0013",
+      "news_web_kaigai_0017",
+      "news_web_kaigai_0020"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2020-10-21",
+    "c_news_UpdateDate": "2024-07-01",
+    "c_news_ViewCount": "3205",
+    "c_news_ViewCount2of2": "3205",
+    "c_news_ViewCountNum": "3205",
+    "c_news_ViewCountNumForSorting": "231",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/europe/united_kingdom/news_web_kaigai_0018",
+    "name": "イギリス観光【現地スタッフが選ぶ】おすすめスポット＆旅の過ごし方",
+    "slug": "kaigai/europe/united_kingdom/news_web_kaigai_0018",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

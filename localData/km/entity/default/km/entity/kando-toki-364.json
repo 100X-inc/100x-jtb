@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-364",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/364_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d34.666067%2C133.78137",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "岡山県",
+    "c_searchTags": [
+      "岡山県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "建物・景観",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "古くから地元の人々を見守り続けてきた備中国分寺。木造本瓦葺で高さ34.3ｍの五重塔は遠くからでも見える土地のシンボルです。そんな備中国分寺のすぐそばに広がる田園風景の一角に、赤い穂を持つ「赤米」が植えられています。1400年以上の歴史を持つ赤米は、元々新本地区にある国司神社の神事に用いられてきました。備中国分寺近くに植えられているのは観光用の田んぼですが、赤い稲穂で田んぼが一面赤く染まる様子は、他の土地ではほとんど見ることができないめずらしい光景です。この赤い稲穂を見ることができるのは9月上旬～中旬にかけての2週間ほど。他の季節も、春にはれんげの花、夏にはひまわり、秋にはコスモスが咲く美しい土地です。\n見所・お勧めポイント",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/364.asp",
+    "name": "田園風景に赤く染まる古代の「赤米」と備中国分寺五重塔"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

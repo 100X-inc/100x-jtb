@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/4_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.330111%2C141.716828",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "秋",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "石狩平野の稲作地帯、広大な田園風景の中にある「宮島沼」。ここにはありふれた沼でありながら世界有数のマガンの飛来地として有名です。毎年春と秋、マガンやコハクチョウなどが長い渡りの中継地に利用しており、国際的に重要な湿地としてラムサール条約にも登録されています。マガンは早朝になるとエサである落ちモミを求めて周辺の田んぼに向かって一斉に飛び立ちます。これがマガンの「ねぐら立ち」です。\n見所・お勧めポイント\n最大6万羽を越すマガンが、水面からはがれるように次々と飛び立つ様子は迫力満点。ねぐら立ちしたマガンが、夕方になると田んぼからV字編隊を作って沼に戻ってくる｢ねぐら入り」も、一見の価値あり。ねぐら立ちの時間に合わせて早朝トイレも開放されているので、訪れた際にも安心してご覧いただけます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/4.asp",
+    "name": "宮島沼 マガンのねぐら立ち"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

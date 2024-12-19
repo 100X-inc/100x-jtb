@@ -1,0 +1,1131 @@
+{
+  "$id": "news_web_kaigai_0020",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1081,
+      "sourceUrl": "https://a.mktgcdn.com/p/aCNUsVOyi15y4SGhsEYKZVnJjqh80spl4ltDb7iKPjA/1920x1081.jpg",
+      "thumbnails": [
+        {
+          "height": 1081,
+          "url": "https://a.mktgcdn.com/p-sandbox/aCNUsVOyi15y4SGhsEYKZVnJjqh80spl4ltDb7iKPjA/1920x1081.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1070,
+          "url": "https://a.mktgcdn.com/p-sandbox/aCNUsVOyi15y4SGhsEYKZVnJjqh80spl4ltDb7iKPjA/1900x1070.jpg",
+          "width": 1900
+        },
+        {
+          "height": 349,
+          "url": "https://a.mktgcdn.com/p-sandbox/aCNUsVOyi15y4SGhsEYKZVnJjqh80spl4ltDb7iKPjA/619x349.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p-sandbox/aCNUsVOyi15y4SGhsEYKZVnJjqh80spl4ltDb7iKPjA/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p-sandbox/aCNUsVOyi15y4SGhsEYKZVnJjqh80spl4ltDb7iKPjA/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/aCNUsVOyi15y4SGhsEYKZVnJjqh80spl4ltDb7iKPjA/1920x1081.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "イタリアの旅行を探す",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/italy/"
+      },
+      {
+        "linkText": "イタリアの添乗員同行ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?houmen\u003d01\u0026kuni\u003dIT"
+      },
+      {
+        "linkText": "ローマ行きの航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/europe/italy/roma/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_Tags": [
+      "温泉",
+      "観光スポット",
+      "世界遺産",
+      "イタリア",
+      "グルメ",
+      "ヨーロッパ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "イタリア観光【JTB現地スタッフおすすめ】人気スポットと楽しみ方",
+    "c_linkedArea3News": [
+      "italy"
+    ],
+    "c_metaDescription": "JTBの現地スタッフがおすすめする、イタリアの観光スポットと楽しみ方をご紹介します。ベネチアやフィレンツェなど人気観光エリアはもちろん、イタリアで食べたいグルメやイベント情報もピックアップ！ぜひJTBでイタリア旅行をお楽しみください",
+    "c_metaTitle": "イタリア観光【JTB現地スタッフおすすめ】人気スポットと楽しみ方",
+    "c_news_CTAs": [
+      {
+        "label": "イタリアの旅行を探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/italy/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "イタリアの現地ツアーを探す",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aEUR/bIT/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "イタリアの基本情報をみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/western_europe/republic_of_italy/index.html",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "フィレンツェ・ローマ・ベネチア周遊ツアーを探す",
+          "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dIT\u0026sc.dest%5B0%5D.city\u003dFLR\u0026sc.dest%5B1%5D.country\u003dIT\u0026sc.dest%5B1%5D.city\u003dROM\u0026sc.dest%5B2%5D.country\u003dIT\u0026sc.dest%5B2%5D.city\u003dVCE",
+          "linkType": "OTHER"
+        },
+        "description": "日本との時差はマイナス8時間、日本が正午のときにイタリアは午前4時。ただし、サマータイム期間（3月最終日曜日～10月最終日曜日）はマイナス7時間です。日本同様に四季があり、気温的に過ごしやすいのは春・秋です。4月は桃や桜などが咲き始め春になりますが、雨の日が多くなります。7月以降の真夏は高温多湿な地域が多くなりますが、海側のリゾートエリアは比較的気候が穏やかです。",
+        "image": {
+          "height": 1130,
+          "sourceUrl": "https://a.mktgcdn.com/p/WKywqdTb9k5pbORiE5zCUxg4lDlBIXN3ESuYdNALnFs/1536x1130.jpg",
+          "thumbnails": [
+            {
+              "height": 1130,
+              "url": "https://a.mktgcdn.com/p-sandbox/WKywqdTb9k5pbORiE5zCUxg4lDlBIXN3ESuYdNALnFs/1536x1130.jpg",
+              "width": 1536
+            },
+            {
+              "height": 455,
+              "url": "https://a.mktgcdn.com/p-sandbox/WKywqdTb9k5pbORiE5zCUxg4lDlBIXN3ESuYdNALnFs/619x455.jpg",
+              "width": 619
+            },
+            {
+              "height": 441,
+              "url": "https://a.mktgcdn.com/p-sandbox/WKywqdTb9k5pbORiE5zCUxg4lDlBIXN3ESuYdNALnFs/600x441.jpg",
+              "width": 600
+            },
+            {
+              "height": 144,
+              "url": "https://a.mktgcdn.com/p-sandbox/WKywqdTb9k5pbORiE5zCUxg4lDlBIXN3ESuYdNALnFs/196x144.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WKywqdTb9k5pbORiE5zCUxg4lDlBIXN3ESuYdNALnFs/1536x1130.jpg",
+          "width": 1536
+        },
+        "imageCaption": "©Elicona Servizi Culturali – Ufficio Turistico Comunale di Pienza",
+        "sectionLevel": "h2",
+        "sectionSubtitle": "南イタリアの特産、水牛のモッツァレッラチーズ工場と、アマルフィの紙の博物館をご紹介します。",
+        "sectionTitle": "1．イタリアの基本情報"
+      },
+      {
+        "cTA1": {
+          "label": "ベネチアに行く添乗員同行ツアーをみる",
+          "link": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?brand\u003d00LK,02RR,01CZ\u0026houmen\u003d01\u0026kuni\u003dIT\u0026freeword\u003dベネチア\u0026vacantseat\u003d1",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "アマルフィに行く添乗員同行ツアーをみる",
+          "link": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?brand\u003d00LK,02RR,01CZ\u0026houmen\u003d01\u0026kuni\u003dIT\u0026freeword\u003dアマルフィ\u0026vacantseat\u003d1",
+          "linkType": "OTHER"
+        },
+        "description": "ローマ、フィレンツェ、ベネチアなどの都市観光だけでなく、青の洞窟、ポンペイ遺跡など自然や史跡も楽しめるイタリア。世界遺産は55件とヨーロッパでも最多の数を誇っています。街全体が世界遺産に登録されている場所が多く、一歩足を踏み入れればまるでタイムスリップしたかのような景色が広がります。",
+        "image": {
+          "height": 364,
+          "sourceUrl": "https://a.mktgcdn.com/p/jC4hWOnU9X6klXz34ZAPU0CSHZcr0prjNrdAqfVlyjY/600x364.jpg",
+          "thumbnails": [
+            {
+              "height": 364,
+              "url": "https://a.mktgcdn.com/p-sandbox/jC4hWOnU9X6klXz34ZAPU0CSHZcr0prjNrdAqfVlyjY/600x364.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/jC4hWOnU9X6klXz34ZAPU0CSHZcr0prjNrdAqfVlyjY/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jC4hWOnU9X6klXz34ZAPU0CSHZcr0prjNrdAqfVlyjY/600x364.jpg",
+          "width": 600
+        },
+        "imageCaption": "ボッカネグラ ／ビステッカ・フィオレンティーナ",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．旅のプロが選ぶ！イタリアのおすすめ観光スポット"
+      },
+      {
+        "cTA1": {
+          "label": "ベネチアの名所を巡る現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aEUR/bIT/cVCE/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "アマルフィの現地ツアーを探す",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aEUR/bIT/?keyWord\u003d%25E3%2582%25A2%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2595%25E3%2582%25A3\u0026searchFlag\u003d1",
+          "linkType": "OTHER"
+        },
+        "description": "アドリア海の水の都、ベネチアを州都とする7つの県から成る「ヴェネト州」。2024年7月現在、この州には9つの世界遺産が点在しています。ベネチア周辺の観光スポットとして世界遺産をご紹介いたします。",
+        "image": {
+          "height": 433,
+          "sourceUrl": "https://a.mktgcdn.com/p/8sGbAQeT_o2pKWUh2rQpvgKhZ4rxkZObfFg67Wx_6Tw/640x433.jpg",
+          "thumbnails": [
+            {
+              "height": 433,
+              "url": "https://a.mktgcdn.com/p-sandbox/8sGbAQeT_o2pKWUh2rQpvgKhZ4rxkZObfFg67Wx_6Tw/640x433.jpg",
+              "width": 640
+            },
+            {
+              "height": 419,
+              "url": "https://a.mktgcdn.com/p-sandbox/8sGbAQeT_o2pKWUh2rQpvgKhZ4rxkZObfFg67Wx_6Tw/619x419.jpg",
+              "width": 619
+            },
+            {
+              "height": 406,
+              "url": "https://a.mktgcdn.com/p-sandbox/8sGbAQeT_o2pKWUh2rQpvgKhZ4rxkZObfFg67Wx_6Tw/600x406.jpg",
+              "width": 600
+            },
+            {
+              "height": 133,
+              "url": "https://a.mktgcdn.com/p-sandbox/8sGbAQeT_o2pKWUh2rQpvgKhZ4rxkZObfFg67Wx_6Tw/196x133.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8sGbAQeT_o2pKWUh2rQpvgKhZ4rxkZObfFg67Wx_6Tw/640x433.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "【ベネチア】ヴェネト州8つの世界遺産"
+      },
+      {
+        "cTA1": {
+          "label": "ベネチアのツアーを探す",
+          "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dIT\u0026sc.dest%5B0%5D.city\u003dVCE",
+          "linkType": "OTHER"
+        },
+        "description": "州都であり、サンマルコ寺院、ドゥカーレ宮殿、大運河に立ち並ぶ貴族の館が有名な東西貿易の中継地として繁栄し「アドリア海の女王」と呼ばれるまでに発展した水の都・ベネチア（ヴェネツィア）。大運河をはじめ100を超える運河が町全体に網の目のようにはりめぐらされています。「ヴェネツィアとその潟」として1987年に文化遺産として登録されました。",
+        "image": {
+          "height": 427,
+          "sourceUrl": "https://a.mktgcdn.com/p/jbQZkw7U8hM8S9fJyecNrdMV9_NWPTbLBMvKHZs16e4/640x427.jpg",
+          "thumbnails": [
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/jbQZkw7U8hM8S9fJyecNrdMV9_NWPTbLBMvKHZs16e4/640x427.jpg",
+              "width": 640
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/jbQZkw7U8hM8S9fJyecNrdMV9_NWPTbLBMvKHZs16e4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/jbQZkw7U8hM8S9fJyecNrdMV9_NWPTbLBMvKHZs16e4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/jbQZkw7U8hM8S9fJyecNrdMV9_NWPTbLBMvKHZs16e4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jbQZkw7U8hM8S9fJyecNrdMV9_NWPTbLBMvKHZs16e4/640x427.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "1．ヴェネツィアとその潟（ベネチア）"
+      },
+      {
+        "cTA1": {
+          "label": "フィレンツェに行く添乗員同行ツアーをみる",
+          "link": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?brand\u003d00LK,02RR,01CZ\u0026houmen\u003d01\u0026kuni\u003dIT\u0026freeword\u003dフィレンツェ\u0026vacantseat\u003d1",
+          "linkType": "OTHER"
+        },
+        "description": "日本では長年、ドロミテの名で親しまれていた山岳群「ドロミーティ」。イタリア北部にある山岳地帯でドロミーティ・アルプスの麓の街ベッルーノ、そして北西部の山岳地帯の国立公園へと続きます。3,000ｍを超える峰は18を数え、尖塔のように突き出た尖峰や岸壁、氷河やカルスト地形など、地形と景観の多様さを誇ります。",
+        "image": {
+          "height": 427,
+          "sourceUrl": "https://a.mktgcdn.com/p/MSIOgaJOipIf55CUqaO7_QZY6O3dbUVbABJguQj4qx8/640x427.jpg",
+          "thumbnails": [
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/MSIOgaJOipIf55CUqaO7_QZY6O3dbUVbABJguQj4qx8/640x427.jpg",
+              "width": 640
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/MSIOgaJOipIf55CUqaO7_QZY6O3dbUVbABJguQj4qx8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/MSIOgaJOipIf55CUqaO7_QZY6O3dbUVbABJguQj4qx8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/MSIOgaJOipIf55CUqaO7_QZY6O3dbUVbABJguQj4qx8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MSIOgaJOipIf55CUqaO7_QZY6O3dbUVbABJguQj4qx8/640x427.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "2．ドロミーティ（ベネチア）"
+      },
+      {
+        "cTA1": {
+          "label": "フィレンツェの名所を巡る現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aEUR/bIT/cFLR/",
+          "linkType": "OTHER"
+        },
+        "description": "イタリアのトリエステの西45kmにある町、アクイレイア。ここにある遺跡の多くは未発掘のまま地下に眠っています。総大司教座聖堂のバシリカ床下から発見された床一面を覆う鳥や獣の4世紀のモザイク装飾が特に有名です。ロマネスク様式の聖堂は、4世紀に建てられ廃墟となっていた聖堂を11世紀に造り直したもの。周辺には、公共浴場や劇場、フォルム（広場）などの遺構も見つかっています。",
+        "image": {
+          "height": 468,
+          "sourceUrl": "https://a.mktgcdn.com/p/yQWUxYyREOpvntgQF2uFoSnkgOC7gC42qCETYSrXZi0/640x468.jpg",
+          "thumbnails": [
+            {
+              "height": 468,
+              "url": "https://a.mktgcdn.com/p-sandbox/yQWUxYyREOpvntgQF2uFoSnkgOC7gC42qCETYSrXZi0/640x468.jpg",
+              "width": 640
+            },
+            {
+              "height": 453,
+              "url": "https://a.mktgcdn.com/p-sandbox/yQWUxYyREOpvntgQF2uFoSnkgOC7gC42qCETYSrXZi0/619x453.jpg",
+              "width": 619
+            },
+            {
+              "height": 439,
+              "url": "https://a.mktgcdn.com/p-sandbox/yQWUxYyREOpvntgQF2uFoSnkgOC7gC42qCETYSrXZi0/600x439.jpg",
+              "width": 600
+            },
+            {
+              "height": 143,
+              "url": "https://a.mktgcdn.com/p-sandbox/yQWUxYyREOpvntgQF2uFoSnkgOC7gC42qCETYSrXZi0/196x143.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yQWUxYyREOpvntgQF2uFoSnkgOC7gC42qCETYSrXZi0/640x468.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "3．アクイレイアの遺跡地域と総主教聖堂バシリカ（ベネチア）"
+      },
+      {
+        "cTA1": {
+          "label": "フィレンツェのツアーを探す",
+          "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dIT\u0026sc.dest%5B0%5D.city\u003dFLR",
+          "linkType": "OTHER"
+        },
+        "description": "シェークスピア戯曲・ロミオとジュリエットの舞台にもなった街「ベローナ」。観光スポットになっているジュリエッタの家には、恋愛成就を祈願する観光客の姿も。中世の面影を色濃く残すベローナには、街を一望できるランベルティの塔や、1世紀に建設されほぼ完全な形で残るアレーナ（円形劇場）の遺跡、夕景が美しいスカリジェロ橋など、小さな街の中に見所が詰まっています。",
+        "image": {
+          "height": 428,
+          "sourceUrl": "https://a.mktgcdn.com/p/WiB6bdjCgwlCQcaPrw7bsWLbKZ73EZnLCsRKmd-Wf1k/640x428.jpg",
+          "thumbnails": [
+            {
+              "height": 428,
+              "url": "https://a.mktgcdn.com/p-sandbox/WiB6bdjCgwlCQcaPrw7bsWLbKZ73EZnLCsRKmd-Wf1k/640x428.jpg",
+              "width": 640
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/WiB6bdjCgwlCQcaPrw7bsWLbKZ73EZnLCsRKmd-Wf1k/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/WiB6bdjCgwlCQcaPrw7bsWLbKZ73EZnLCsRKmd-Wf1k/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/WiB6bdjCgwlCQcaPrw7bsWLbKZ73EZnLCsRKmd-Wf1k/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WiB6bdjCgwlCQcaPrw7bsWLbKZ73EZnLCsRKmd-Wf1k/640x428.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "4．ヴェローナ市街（ベローナ）"
+      },
+      {
+        "cTA1": {
+          "label": "アマルフィの旅行を探す",
+          "link": "https://www.jtb.co.jp/kaigai/area/amalfi/",
+          "linkType": "OTHER"
+        },
+        "description": "建築家アンドレア・パッラーディオが手がけた「ヴィッラ・ラ・ロトンダ」に代表される優雅でシンプルな邸宅、建築物が旧市街とその郊外に点在するヴィチェンツァ。紀元前2世紀に起源をもつ古い街です。ロトンダをはじめ、パッラーディオが手掛けたパラッツォ・デッラ・ラジョーネ、オリンピコ劇場など、町の有力者から依頼されて設計した邸宅や公共施設が残っています。",
+        "image": {
+          "height": 432,
+          "sourceUrl": "https://a.mktgcdn.com/p/tQovdaV2Kh9e4loIswI8oRzYhaw5S6c2USCrRO5JtUA/640x432.jpg",
+          "thumbnails": [
+            {
+              "height": 432,
+              "url": "https://a.mktgcdn.com/p-sandbox/tQovdaV2Kh9e4loIswI8oRzYhaw5S6c2USCrRO5JtUA/640x432.jpg",
+              "width": 640
+            },
+            {
+              "height": 418,
+              "url": "https://a.mktgcdn.com/p-sandbox/tQovdaV2Kh9e4loIswI8oRzYhaw5S6c2USCrRO5JtUA/619x418.jpg",
+              "width": 619
+            },
+            {
+              "height": 405,
+              "url": "https://a.mktgcdn.com/p-sandbox/tQovdaV2Kh9e4loIswI8oRzYhaw5S6c2USCrRO5JtUA/600x405.jpg",
+              "width": 600
+            },
+            {
+              "height": 132,
+              "url": "https://a.mktgcdn.com/p-sandbox/tQovdaV2Kh9e4loIswI8oRzYhaw5S6c2USCrRO5JtUA/196x132.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/tQovdaV2Kh9e4loIswI8oRzYhaw5S6c2USCrRO5JtUA/640x432.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "5．ヴィチェンツァ市街とヴェネト地方のパッラーディオ様式の邸宅群（ビチェンツァ）"
+      },
+      {
+        "cTA1": {
+          "label": "アマルフィのツアーを探す",
+          "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dIT\u0026sc.dest%5B0%5D.city\u003dAQF",
+          "linkType": "OTHER"
+        },
+        "description": "1545年に造られたヨーロッパ最古の植物園があるパドヴァ。ヨーロッパで初めてヒマワリの花を開花させることに成功したり、ジャガイモの栽培も行われたりと、開園以来、植物学や生態系学の研究に大きく寄与してきました。植物園はイタリアで2番目に古いパドヴァ大学の付属施設として作られました。パドヴァは学術都市としての一面も持っています。",
+        "image": {
+          "height": 428,
+          "sourceUrl": "https://a.mktgcdn.com/p/HDGfVgJaBvLJ5-D3-5nJ1JBIj8L3O5YaFXTRVDwKThc/640x428.jpg",
+          "thumbnails": [
+            {
+              "height": 428,
+              "url": "https://a.mktgcdn.com/p-sandbox/HDGfVgJaBvLJ5-D3-5nJ1JBIj8L3O5YaFXTRVDwKThc/640x428.jpg",
+              "width": 640
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/HDGfVgJaBvLJ5-D3-5nJ1JBIj8L3O5YaFXTRVDwKThc/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/HDGfVgJaBvLJ5-D3-5nJ1JBIj8L3O5YaFXTRVDwKThc/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/HDGfVgJaBvLJ5-D3-5nJ1JBIj8L3O5YaFXTRVDwKThc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HDGfVgJaBvLJ5-D3-5nJ1JBIj8L3O5YaFXTRVDwKThc/640x428.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "6．パドヴァの植物園（パドバ）"
+      },
+      {
+        "cTA1": {
+          "label": "ベネチアのシーフードパスタのおすすめをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/europe/italy/news_ap_osarea_0000130",
+          "linkType": "OTHER"
+        },
+        "description": "「15～17世紀におけるベネチア共和国防衛施設群：スタート・ダ・テーラと西スタート・ダ・マル」は、ベネチア共和国が外海からの侵略に備え建設した城壁、城塞、地下トンネルなどの軍事防衛施設です。登録範囲は約1,000km以上、イタリア・ロンバルディア州からアドリア海沿岸までの広範囲に点在しています。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/2sHRWeUSyXivV7s5Raa64SxyVfnaSo3pJof9yZGi8Yo/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/2sHRWeUSyXivV7s5Raa64SxyVfnaSo3pJof9yZGi8Yo/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/2sHRWeUSyXivV7s5Raa64SxyVfnaSo3pJof9yZGi8Yo/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/2sHRWeUSyXivV7s5Raa64SxyVfnaSo3pJof9yZGi8Yo/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/2sHRWeUSyXivV7s5Raa64SxyVfnaSo3pJof9yZGi8Yo/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2sHRWeUSyXivV7s5Raa64SxyVfnaSo3pJof9yZGi8Yo/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "7．15～17世紀におけるベネチア共和国防衛施設群：スタート・ダ・テーラと西スタート・ダ・マル"
+      },
+      {
+        "description": "ワインの生産地として知られるコネリアーノとヴァルドッビアーデネのぶどう畑が2019年、世界文化遺産に登録されました。シャンパンやカヴァに並ぶ有名スパークリングワイン「プロセッコ」が生産されています。コネリアーノとヴァルドッビアーデのプロセッコはDOCGの格付けがされていて、お手頃ワインのイメージを覆してくれます。北方民族から侵略を避ける為に住人が湿地帯に避難してくることから始まるベネチアの歴史。東地中海貿易によって栄えた海洋国家であり、7世紀末期から1797年まで1000年以上の間に亘り、歴史上最も長く続いたベネチア共和国。その歴史に育まれた豊かな文化遺産、風光明媚な自然の美しさは、今も昔も訪れる旅人たちを魅了し心を惹きつけてやみません。",
+        "image": {
+          "height": 1026,
+          "sourceUrl": "https://a.mktgcdn.com/p/ViKbYHC8LXN2x_8gCXzOZJRC1WYubS2v1zx95wnC8Oc/1536x1026.jpg",
+          "thumbnails": [
+            {
+              "height": 1026,
+              "url": "https://a.mktgcdn.com/p-sandbox/ViKbYHC8LXN2x_8gCXzOZJRC1WYubS2v1zx95wnC8Oc/1536x1026.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ViKbYHC8LXN2x_8gCXzOZJRC1WYubS2v1zx95wnC8Oc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/ViKbYHC8LXN2x_8gCXzOZJRC1WYubS2v1zx95wnC8Oc/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ViKbYHC8LXN2x_8gCXzOZJRC1WYubS2v1zx95wnC8Oc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ViKbYHC8LXN2x_8gCXzOZJRC1WYubS2v1zx95wnC8Oc/1536x1026.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "8．コネリアーノとヴァルドッビアーデネのプロセッコ栽培丘陵群"
+      },
+      {
+        "description": "「オンブレ・エ・チケッティ」－ 伝統的なベネチアの食文化を表現する言葉です。オンブレはイタリア語で「日陰」。昔、ワイン売りがワインを適温に保つ為、鐘楼の陰に移動したことからワインを意味します。チケッティは一口サイズの惣菜の事で、ワインのつまみとして、旬の野菜、タコやイカなどシーフードを中心とするベネト州の名物を取り揃えたフィンガーフードです。昨今のワインバーでは「バカロ」や「チケッテリア」などとも言われます。お惣菜のなかで人気があるのは、トマト味やニンニク風味のバッカラマンテカート(干し鱈)のブルスケッタ、モスカルディーニと呼ばれるイイダコやスキエという小エビにポレンタ(とうもろこし粉を煮たもの)添え、中身があふれんばかりのボリュームサンドなどで、一夜のうちに3～4軒の「オンブレ・エ・チケッティ」を回り、色々なものを少しずつ楽しむのが「通」の食べ歩きスタイルです。地元のベネチアン達は、夕方からと言わず時には午前中から、コーヒーでも飲むような気軽な感覚でお気に入りのチケッテリアを巡り、美味しいものを味わい、ワインを楽しみ、心豊かに人生の享楽を謳歌しています。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/9C_WgB4Fqb_Q_spatM_omssxhF91vi1VXEmf23e9ZB8/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/9C_WgB4Fqb_Q_spatM_omssxhF91vi1VXEmf23e9ZB8/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/9C_WgB4Fqb_Q_spatM_omssxhF91vi1VXEmf23e9ZB8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/9C_WgB4Fqb_Q_spatM_omssxhF91vi1VXEmf23e9ZB8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/9C_WgB4Fqb_Q_spatM_omssxhF91vi1VXEmf23e9ZB8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9C_WgB4Fqb_Q_spatM_omssxhF91vi1VXEmf23e9ZB8/1536x1024.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "【JTB現地スタッフが教える】ベネチアの観光情報"
+      },
+      {
+        "description": "花の都フィレンツェを州都とし、ピサ、シエナ等の古都を擁する「トスカーナ州」。街歩きだけでも歴史を感じられるトスカーナ地方には、世界遺産になった街が複数存在します。",
+        "image": {
+          "height": 1020,
+          "sourceUrl": "https://a.mktgcdn.com/p/k31BV4ULelO8u-3rJbBXWC9zp5Lx-uMNAImUJCOy7bw/1536x1020.jpg",
+          "thumbnails": [
+            {
+              "height": 1020,
+              "url": "https://a.mktgcdn.com/p-sandbox/k31BV4ULelO8u-3rJbBXWC9zp5Lx-uMNAImUJCOy7bw/1536x1020.jpg",
+              "width": 1536
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/k31BV4ULelO8u-3rJbBXWC9zp5Lx-uMNAImUJCOy7bw/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/k31BV4ULelO8u-3rJbBXWC9zp5Lx-uMNAImUJCOy7bw/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/k31BV4ULelO8u-3rJbBXWC9zp5Lx-uMNAImUJCOy7bw/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/k31BV4ULelO8u-3rJbBXWC9zp5Lx-uMNAImUJCOy7bw/1536x1020.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "【フィレンツェ】トスカーナ州のおすすめ観光スポット5選"
+      },
+      {
+        "description": "天井のない美術館と呼ばれるほど街全体に見所が凝縮された、州都・フィレンツェ。フィレンツェのベストスポットは、ミケランジェロ広場。フィレンツェの街全体を写真に収めたい場合は必須のスポットです。赤茶色の屋根で埋め尽くされた、息を呑むような景色を堪能できます。ジョットの鐘楼に登った際、真近でみたクーポラの迫力もスゴイですよ。その他、サンタ・マリア・フィオーレ大聖堂、クーポラ、サン・ジョバンニ洗礼堂、ジョットの鐘楼が集まるドゥオモ広場から始まり、ウフィツィ美術館、メディチ家礼拝堂、ベッキオ宮殿、ベッキオ橋など見所が満載です。",
+        "image": {
+          "height": 354,
+          "sourceUrl": "https://a.mktgcdn.com/p/xr48QtK7wQJ1YZok8p3x2hEXHqwwkQPVz17PvvIlpx8/640x354.jpg",
+          "thumbnails": [
+            {
+              "height": 354,
+              "url": "https://a.mktgcdn.com/p-sandbox/xr48QtK7wQJ1YZok8p3x2hEXHqwwkQPVz17PvvIlpx8/640x354.jpg",
+              "width": 640
+            },
+            {
+              "height": 342,
+              "url": "https://a.mktgcdn.com/p-sandbox/xr48QtK7wQJ1YZok8p3x2hEXHqwwkQPVz17PvvIlpx8/619x342.jpg",
+              "width": 619
+            },
+            {
+              "height": 332,
+              "url": "https://a.mktgcdn.com/p-sandbox/xr48QtK7wQJ1YZok8p3x2hEXHqwwkQPVz17PvvIlpx8/600x332.jpg",
+              "width": 600
+            },
+            {
+              "height": 108,
+              "url": "https://a.mktgcdn.com/p-sandbox/xr48QtK7wQJ1YZok8p3x2hEXHqwwkQPVz17PvvIlpx8/196x108.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xr48QtK7wQJ1YZok8p3x2hEXHqwwkQPVz17PvvIlpx8/640x354.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "1．ミケランジェロ広場（フィレンツェ）"
+      },
+      {
+        "description": "一度は目にしたことがある、ドゥオモ広場の斜塔。間近で見るとその傾き加減に驚きます。入場は完全予約制なので、ツアーや入場券付きのオプショナルツアーがおすすめです。",
+        "image": {
+          "height": 427,
+          "sourceUrl": "https://a.mktgcdn.com/p/vwLbCjzd1yBp2Wejer7KpkRwoXTYd0rhklvJgYa8Wb8/640x427.jpg",
+          "thumbnails": [
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/vwLbCjzd1yBp2Wejer7KpkRwoXTYd0rhklvJgYa8Wb8/640x427.jpg",
+              "width": 640
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/vwLbCjzd1yBp2Wejer7KpkRwoXTYd0rhklvJgYa8Wb8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/vwLbCjzd1yBp2Wejer7KpkRwoXTYd0rhklvJgYa8Wb8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/vwLbCjzd1yBp2Wejer7KpkRwoXTYd0rhklvJgYa8Wb8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vwLbCjzd1yBp2Wejer7KpkRwoXTYd0rhklvJgYa8Wb8/640x427.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "2．ピサの斜塔（ピサ）"
+      },
+      {
+        "description": "世界遺産になった古都シエナ。健脚の方は、是非マンジャの塔に登ってみてください。カンポ広場を含めシエナの街全体が見渡せます。",
+        "image": {
+          "height": 427,
+          "sourceUrl": "https://a.mktgcdn.com/p/-JPJ9LJNDnL_X4qCSGX1Ei2Jm8DKurF7lBsToY8zOpA/640x427.jpg",
+          "thumbnails": [
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/-JPJ9LJNDnL_X4qCSGX1Ei2Jm8DKurF7lBsToY8zOpA/640x427.jpg",
+              "width": 640
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/-JPJ9LJNDnL_X4qCSGX1Ei2Jm8DKurF7lBsToY8zOpA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/-JPJ9LJNDnL_X4qCSGX1Ei2Jm8DKurF7lBsToY8zOpA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/-JPJ9LJNDnL_X4qCSGX1Ei2Jm8DKurF7lBsToY8zOpA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-JPJ9LJNDnL_X4qCSGX1Ei2Jm8DKurF7lBsToY8zOpA/640x427.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "3．シエナ歴史地区"
+      },
+      {
+        "description": "ピエンツァでは『愛の小路（Via dell’Amore）』で、写真を一枚いかがでしょうか。その先にはトスカーナの丘陵が広がります。キャンチャーノ・テルメからサン・クイリコ・ドルチャにつながる道は、途中に世界遺産のピエンツァ、赤ワインで有名なモンテプルチャーノという有名な街があり、これぞトスカーナ！というオルチャ渓谷の景色を楽しめます。",
+        "image": {
+          "height": 427,
+          "sourceUrl": "https://a.mktgcdn.com/p/SKpifn3S3q_XAMzBnseLJZaT3CeZajbOxw5iPZjjEOI/640x427.jpg",
+          "thumbnails": [
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/SKpifn3S3q_XAMzBnseLJZaT3CeZajbOxw5iPZjjEOI/640x427.jpg",
+              "width": 640
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/SKpifn3S3q_XAMzBnseLJZaT3CeZajbOxw5iPZjjEOI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/SKpifn3S3q_XAMzBnseLJZaT3CeZajbOxw5iPZjjEOI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/SKpifn3S3q_XAMzBnseLJZaT3CeZajbOxw5iPZjjEOI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SKpifn3S3q_XAMzBnseLJZaT3CeZajbOxw5iPZjjEOI/640x427.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "4．ピエンツァ歴史地区"
+      },
+      {
+        "description": "たくさんの小さな塔が並ぶサン・ジミニャーノは、1990年世界文化遺産に登録されました。数々の塔をはじ、ポポロ宮やサンタ・マリア・アッスンタ参事会聖堂など、今なお中世の面影を色濃く残しています。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/1kNfz_PELjy9BMjbvoFwLx4JcvTRYqBk3khy5QPF2-g/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/1kNfz_PELjy9BMjbvoFwLx4JcvTRYqBk3khy5QPF2-g/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/1kNfz_PELjy9BMjbvoFwLx4JcvTRYqBk3khy5QPF2-g/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1kNfz_PELjy9BMjbvoFwLx4JcvTRYqBk3khy5QPF2-g/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/1kNfz_PELjy9BMjbvoFwLx4JcvTRYqBk3khy5QPF2-g/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1kNfz_PELjy9BMjbvoFwLx4JcvTRYqBk3khy5QPF2-g/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "5．サンジミニャーノ歴史地区"
+      },
+      {
+        "description": "トスカーナ地方には、たくさんの温泉が点在します。イタリアの温泉は水着を着用し、基本男女混浴となります。『サトゥルニア温泉』『サン・フィリッポ温泉』『ペトリオーロ温泉』は、着替えも木陰で隠れてとワイルドな体験ですが、自然の中で源泉かけ流しの温泉が楽しめます。（ワイルド体験をご希望でない方は、きちんとした有料の宿泊温泉施設が周辺にありますのでご安心を。）また、ピエンツァの近くにキャンチャーノ・テルメという街がありますが、温泉湯治を目的に訪れる方もいろ保養地です。自然豊かな雰囲気で家族連れにも楽しめる『テイア』、照明に雰囲気があり大人のカップルで楽しみたい『センソリアリ温泉』など、温泉の種類がバラエティにとんだ温泉街です。どの温泉も公共交通機関では難しいロケーションにありますので、イタリアをレンタカーで旅行される方は、旅の目的地候補にしてみてはいかがでしょうか。",
+        "image": {
+          "height": 427,
+          "sourceUrl": "https://a.mktgcdn.com/p/XqeFNa74azZ4wg-8WBGSx3bT_y6ZxafrRvT1bJ-_RJo/640x427.jpg",
+          "thumbnails": [
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/XqeFNa74azZ4wg-8WBGSx3bT_y6ZxafrRvT1bJ-_RJo/640x427.jpg",
+              "width": 640
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/XqeFNa74azZ4wg-8WBGSx3bT_y6ZxafrRvT1bJ-_RJo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/XqeFNa74azZ4wg-8WBGSx3bT_y6ZxafrRvT1bJ-_RJo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/XqeFNa74azZ4wg-8WBGSx3bT_y6ZxafrRvT1bJ-_RJo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/XqeFNa74azZ4wg-8WBGSx3bT_y6ZxafrRvT1bJ-_RJo/640x427.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "【JTB現地スタッフが教える】トスカーナ地方の温泉情報"
+      },
+      {
+        "description": "世界で最も美しく華麗な場所のひとつと称される「アマルフィ海岸」の海岸線とおすすめしたい周辺の街をご紹介します。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/toYKBYOsn0Ps-KKCpKFjXgDYdvlU_s8P60os6ofBtw0/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/toYKBYOsn0Ps-KKCpKFjXgDYdvlU_s8P60os6ofBtw0/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/toYKBYOsn0Ps-KKCpKFjXgDYdvlU_s8P60os6ofBtw0/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/toYKBYOsn0Ps-KKCpKFjXgDYdvlU_s8P60os6ofBtw0/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/toYKBYOsn0Ps-KKCpKFjXgDYdvlU_s8P60os6ofBtw0/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/toYKBYOsn0Ps-KKCpKFjXgDYdvlU_s8P60os6ofBtw0/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "アマルフィのおすすめ観光スポット"
+      },
+      {
+        "description": "「ギリシャの神々の細道」といわれるハイキングロードです。アマルフィ海岸線にボメラーノからノチェッラへと約7ｋｍ続きます。左手にティレニア海を臨みながら、高低差約200メートルの行程です。初心者でも楽しめる平坦な道になっています。",
+        "image": {
+          "height": 427,
+          "sourceUrl": "https://a.mktgcdn.com/p/v7hZEZW5FqHUdkSCLBKQXg4vhLnN2PzyGBrACFDyLps/640x427.jpg",
+          "thumbnails": [
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/v7hZEZW5FqHUdkSCLBKQXg4vhLnN2PzyGBrACFDyLps/640x427.jpg",
+              "width": 640
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/v7hZEZW5FqHUdkSCLBKQXg4vhLnN2PzyGBrACFDyLps/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/v7hZEZW5FqHUdkSCLBKQXg4vhLnN2PzyGBrACFDyLps/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/v7hZEZW5FqHUdkSCLBKQXg4vhLnN2PzyGBrACFDyLps/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/v7hZEZW5FqHUdkSCLBKQXg4vhLnN2PzyGBrACFDyLps/640x427.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "1. 神々の道"
+      },
+      {
+        "description": "アマルフィ海岸の西端にある高級リゾート地。世界的に美しい避暑地とされていて、高台からの景色は圧巻です。",
+        "image": {
+          "height": 1090,
+          "sourceUrl": "https://a.mktgcdn.com/p/CTzvEO449lNl6_uk-_cpJJ0y4GNq-Tc1H02-fQOeT4M/1536x1090.jpg",
+          "thumbnails": [
+            {
+              "height": 1090,
+              "url": "https://a.mktgcdn.com/p-sandbox/CTzvEO449lNl6_uk-_cpJJ0y4GNq-Tc1H02-fQOeT4M/1536x1090.jpg",
+              "width": 1536
+            },
+            {
+              "height": 439,
+              "url": "https://a.mktgcdn.com/p-sandbox/CTzvEO449lNl6_uk-_cpJJ0y4GNq-Tc1H02-fQOeT4M/619x439.jpg",
+              "width": 619
+            },
+            {
+              "height": 426,
+              "url": "https://a.mktgcdn.com/p-sandbox/CTzvEO449lNl6_uk-_cpJJ0y4GNq-Tc1H02-fQOeT4M/600x426.jpg",
+              "width": 600
+            },
+            {
+              "height": 139,
+              "url": "https://a.mktgcdn.com/p-sandbox/CTzvEO449lNl6_uk-_cpJJ0y4GNq-Tc1H02-fQOeT4M/196x139.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/CTzvEO449lNl6_uk-_cpJJ0y4GNq-Tc1H02-fQOeT4M/1536x1090.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "2. ポジターノ"
+      },
+      {
+        "description": "現地スタッフのおすすめ観光コースをご紹介します。バスなどの公共交通機関でポジターノに到着された場合、先ず、Viale Pasiteaからポジターノ観光が始まります。歩行者専用となっており、両脇にあるお店や素晴らしい景色を見ながら下り坂を下っていくと、ポジターノのシンボルでもある、マジョルカ焼きのカラフルなクーポラが美しい「サンタ・マリタ・アッスンタ教会」が見えてきますので、立ち寄ってみてはいかがでしょうか。その先を下ると、ポジターノビーチに到着します。右手にはカラフルな家々がびっしりと隙間なく埋め尽くした絵葉書のような景観が。海が見えるお店でシーフードを食べてから、『恋人達の小路(Sentiero degli Innamorati)』をのんびりと散策してはいかがでしょう。海を正面に見て、右手の道になります。フォルニッロビーチまで続いています。夏に観光する場合は、各都市から船でポジターノへ行くのもお勧めです。アマルフィからフェリーで25分、サレルノからフェリーで70分、ソレントから高速翼船で35分です。海から向かうとアマルフィ海岸の海岸線を見ながら、ダイナミックなパノラマとともにポジターノの港に到着します。ポジターノではサンダルを購入しませんか。職人達が丹精込めて作った、ヒールがほとんどないフラットなサンダルが有名です。ソール（足底）の部分が肌色・薄茶色の革で、サンダルの紐の部分が色とりどりのバリエーションがあり、お好みのスタイルでご購入できます。modello francescano（モデッロ・フランチェスカーノ/平行の2本の紐で足の甲を包むタイプ）、modello infradito（モデッロ・インフラディート/ビーチサンダルタイプ）、 fascia solo l’alluce（親指に紐が巻き付いているタイプ）など、お好きなタイプをお店の方に告げて、試してみてはいかがですか？",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/gbhzkFuBH_o4lC5SatwWlsXfzhGbm6Fr9keZsfgivKM/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/gbhzkFuBH_o4lC5SatwWlsXfzhGbm6Fr9keZsfgivKM/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/gbhzkFuBH_o4lC5SatwWlsXfzhGbm6Fr9keZsfgivKM/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/gbhzkFuBH_o4lC5SatwWlsXfzhGbm6Fr9keZsfgivKM/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/gbhzkFuBH_o4lC5SatwWlsXfzhGbm6Fr9keZsfgivKM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gbhzkFuBH_o4lC5SatwWlsXfzhGbm6Fr9keZsfgivKM/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "【JTB現地スタッフが教える】ポジターノおすすめ観光コース"
+      },
+      {
+        "description": "エメラルドグリーンに輝くミステリアスな洞窟があり、アマルフィ海岸の真珠とも言われる小さな村です。エメラルドの洞窟には船だけでなく国道沿いに建つエレベーターで降りることも。",
+        "image": {
+          "height": 425,
+          "sourceUrl": "https://a.mktgcdn.com/p/Hu-Ok5kbFf8JtvfkKhKR_ajdw6UoKw-9SafnFZSW0ZM/640x425.jpg",
+          "thumbnails": [
+            {
+              "height": 425,
+              "url": "https://a.mktgcdn.com/p-sandbox/Yq7KsD0kscpB0IuXF9VWmeSSt25jvHLBBaYpi3erkGA/640x425.jpg",
+              "width": 640
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/Yq7KsD0kscpB0IuXF9VWmeSSt25jvHLBBaYpi3erkGA/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/Yq7KsD0kscpB0IuXF9VWmeSSt25jvHLBBaYpi3erkGA/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/Yq7KsD0kscpB0IuXF9VWmeSSt25jvHLBBaYpi3erkGA/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Yq7KsD0kscpB0IuXF9VWmeSSt25jvHLBBaYpi3erkGA/640x425.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "3. コンカ・デイ・マリーニ"
+      },
+      {
+        "description": "9～10世紀に創建されたアマルフィ大聖堂には、漁師の守り神である聖アンドレアが祀られています。隣接する天国の回廊も、聖堂と同じくアラブ・ノルマン様式の影響を受けています。それらを取り囲むようにして、まるで迷路のように地中海都市ならではの坂道と路地が張り巡らされています。",
+        "image": {
+          "height": 1059,
+          "sourceUrl": "https://a.mktgcdn.com/p/h_YOnIx0zMbgeWbu2WJdPCTr41tLLj81oWJmn5wnZ5Y/1417x1059.jpg",
+          "thumbnails": [
+            {
+              "height": 1059,
+              "url": "https://a.mktgcdn.com/p-sandbox/h_YOnIx0zMbgeWbu2WJdPCTr41tLLj81oWJmn5wnZ5Y/1417x1059.jpg",
+              "width": 1417
+            },
+            {
+              "height": 463,
+              "url": "https://a.mktgcdn.com/p-sandbox/h_YOnIx0zMbgeWbu2WJdPCTr41tLLj81oWJmn5wnZ5Y/619x463.jpg",
+              "width": 619
+            },
+            {
+              "height": 448,
+              "url": "https://a.mktgcdn.com/p-sandbox/h_YOnIx0zMbgeWbu2WJdPCTr41tLLj81oWJmn5wnZ5Y/600x448.jpg",
+              "width": 600
+            },
+            {
+              "height": 146,
+              "url": "https://a.mktgcdn.com/p-sandbox/h_YOnIx0zMbgeWbu2WJdPCTr41tLLj81oWJmn5wnZ5Y/196x146.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/h_YOnIx0zMbgeWbu2WJdPCTr41tLLj81oWJmn5wnZ5Y/1417x1059.jpg",
+          "width": 1417
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "4. アマルフィ"
+      },
+      {
+        "description": "隣村の「アトラーニ」には、大富豪もお気に入りというレストランがあり、ラッタリ山の頂の町「ラベッロ」には、ワーグナーに魔法の花園をイメージさせたという優美な館があります。そして、イタリア人に人気のパティスリーがある「ミノーリ」、コラトゥーラという鰯のソースをつかった料理が有名な漁師町の「チェターラ」。最後は南イタリアからの玄関口、陶器で有名な「ビエトリ・スル・マーレ」へと続きます。中世、この海岸線の街々はオリエントや黒海との交易が盛んで、羅針盤の発明など航海術にも長けていました。今でも異国情緒漂う当時の面影が所々に残ります。",
+        "image": {
+          "height": 512,
+          "sourceUrl": "https://a.mktgcdn.com/p/SXjsFts-WuqeTYdZfyvBljwdx-5L9udJsEE1-PX1klU/384x512.jpg",
+          "thumbnails": [
+            {
+              "height": 512,
+              "url": "https://a.mktgcdn.com/p-sandbox/SXjsFts-WuqeTYdZfyvBljwdx-5L9udJsEE1-PX1klU/384x512.jpg",
+              "width": 384
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/SXjsFts-WuqeTYdZfyvBljwdx-5L9udJsEE1-PX1klU/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/SXjsFts-WuqeTYdZfyvBljwdx-5L9udJsEE1-PX1klU/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SXjsFts-WuqeTYdZfyvBljwdx-5L9udJsEE1-PX1klU/384x512.jpg",
+          "width": 384
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "ひと足伸ばして行ってみたい！アマルフィ周辺の町"
+      },
+      {
+        "description": "・パエストゥムモッツァレッラチーズのメッカとして知られているのが、アマルフィの南に位置する「パエストゥム」です。ここでは、モッツァレッラチーズの製造工程の見学と試食ができます。洗車用のブラシでマッサージされ清潔に管理されている水牛の乳から造ったカプチーノやジェラート、ヨーグルト、生クリームやバターなど、バラエティーに富んだ商品も取り揃えています。・紙の博物館そして、アマルフィのドゥオモから徒歩で10分ほどのところにあるのが、「MUSEO DELLA CARTA」（紙の博物館）です。中世、近くを流れるカネット川の水車を利用し、綿の切れ端を材料とした紙作りが始まりました。完全予約制ですが、ここでも紙の製造工程をご覧いただけます。現在、ここで作られる紙は大変貴重なため、結婚式などの特別な儀式でしか使用されません。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/xnZ4XT4sbqEQ8vmrK-n44aVwNXBDfVnAdu2H89xHSbU/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/xnZ4XT4sbqEQ8vmrK-n44aVwNXBDfVnAdu2H89xHSbU/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/xnZ4XT4sbqEQ8vmrK-n44aVwNXBDfVnAdu2H89xHSbU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/xnZ4XT4sbqEQ8vmrK-n44aVwNXBDfVnAdu2H89xHSbU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/xnZ4XT4sbqEQ8vmrK-n44aVwNXBDfVnAdu2H89xHSbU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xnZ4XT4sbqEQ8vmrK-n44aVwNXBDfVnAdu2H89xHSbU/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "【JTB現地スタッフが選ぶ】アマルフィのベストスポット"
+      },
+      {
+        "description": "ベネチアはお祭りが多く、代表的なものでは、街中が仮面舞踏会のような「カーニバル(謝肉祭)」に始まり、4月にはゴンドラレースの「フェスタ・ディ・サンマルコ」、5月は市長が指輪を海に捧げアドリア海との絆を深め海の安全を願う「スポサリッツイ・デル・マーレ」。6月は各種ボートレース、30キロを競う「ボガロンガ」、かつての4大海洋国対抗のボートレースなどが開催されます。7月の「レデントーレ」ではジュデッカ島に祈りを捧げ、海上で打ち上げられる花火に盛り上がります。9月のイベントはベネチア映画祭と伝統のゴンドラレース「レガータストリカ」、11月はサルーテ教会へ浮橋が架かり、蝋燭を手に健康を祈願する人々の長い列が続く「サルーテのお祭り」で賑わいます。お祭り期間はヴェニスが格別に華やぐ時です。輝かしい歴史と文化を肌で感じてみてはいかがでしょうか。",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．イタリアのイベント情報"
+      },
+      {
+        "description": "2月～3月頃にかけては「ヴィアレッジョのカーニバル」。トスカーナ州の海沿いに位置するヴィアレッジョで開催される、巨大な山車が特徴のカーニバルです。期間中は演劇やグルメイベントなども町中で開催されます。毎年6月24日は「サン・ジョバンニの日」。祝日のフィレンツェでは各地に出店があり、ミケランジェロ広場から年に1度だけの花火が打ち上がります。毎年7月2日と8月16日は競馬「パリオ」。シエナのカンポ広場で開催される伝統行事です。普段石畳のカンポ広場に、この時期のみ砂が敷き詰められ町中が盛り上がります。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ベネチア周辺のイベント情報"
+      },
+      {
+        "description": "お酒好きの方なら『キャンティ』と聞いて、知らない方はいないでしょう。キャンティ地方の赤ワインは、世界中のワイン通を虜にしています。その赤ワインに合うのが、希少なキアニーナ牛を使用したステーキ『ビステッカ・アッラ・フィオレンティーナ』です。見た目は迫力のある分厚い赤身肉ですが、キアニーナ牛の予想以上に柔らかなくちどけにワインが進みます。フィレンツェにお越しの際は是非食べてみてください。",
+        "sectionLevel": "h3",
+        "sectionTitle": "フィレンツェ周辺のイベント情報"
+      },
+      {
+        "description": "夏の季節におすすめしたい料理はパンを煮込んだトマトのスープ『パッパ・アル・ポモドーロ』。日本ではあまり見かけない「パン粥」ですが夏のトスカーナ名物です。同じくパンを使ったトスカーナ風パンサラダ『パンツァネッラ』もさっぱりした風味でおすすめです。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．イタリア観光で食べたいおすすめのイタリア料理"
+      },
+      {
+        "description": "冬はトスカーナ定番の家庭料理『リボリータ』をお試しください。豆や野菜を煮込んで、旨みをぎゅっと詰めたスープです。飽きの来ない素朴な家庭料理ゆえに、レストランによって特長が違うのでお気に入りを探すのも良いですね。",
+        "sectionLevel": "h3",
+        "sectionTitle": "フィレンツェでおすすめの料理・お酒"
+      },
+      {
+        "description": "パスタが大好きな方には、うどんにも似た太麺Piciをトマトとにんにくのソースでいただく『ピチ・アル・アリオーネ』、猪肉のミートソースをきし麺のような平打ち極太麺にからませた『パッパルデッラ・アル・チンギアーレ』もおすすめです。",
+        "sectionLevel": "h4",
+        "sectionTitle": "赤ワインにおすすめのイタリア料理"
+      },
+      {
+        "description": "ベネチアの代表的な食前酒をご紹介しましょう。",
+        "sectionLevel": "h4",
+        "sectionTitle": "夏におすすめのイタリア料理"
+      },
+      {
+        "description": "ヨーロッパの皇族や大富豪、著名人たちに愛され続けている「ハリーズ・バー」でベリーニは生まれました。中でも、文豪ヘミングウェイはここをこよなく愛し、彼専用のテーブルもあったほどでした。彼のいくつかの作品には、この「ハリーズ・バー」が描写され、「河を渡って木立の中へ」では、ハリィーの店と呼んでいます。この店のオーナーであるジュセッペ・チプリアーニがジョバンニ・ベリーニの絵画からインスピレーションを得て生まれたと言われるフレッシュな白桃とベネト産のプロセッコ(微発泡性ワイン)のカクテルが「ベリーニ」です。ピンク色の甘美なカクテルは女性ばかりか意外に男性にも人気があるのだとか。",
+        "sectionLevel": "h4",
+        "sectionTitle": "冬におすすめのイタリア料理"
+      },
+      {
+        "description": "夕方6時は、アフヌーンティーならぬスプリッツタイム。お好みに応じて「アペロール」または「カンパリ」をペースに、「炭酸水」または「プロセッコ」で割ります。程よく甘くほろ苦いこのオレンジ色のカクテルはベネチアン達には欠かせない食欲増進酒です。",
+        "sectionLevel": "h4",
+        "sectionTitle": "イタリアで食べたい本場のパスタ"
+      },
+      {
+        "description": "おつまみはスナックの他に、小きゅうりのコルニッション等の野菜系ピクルスやグリーンオリーブ。お薦めは、ずばり「ケッパーベリー」、ケッパーの花の実の酢漬けで、オリーブくらいの大きさで枝付き、フルーツ感覚の甘酸っぱさと、種の食感が刺激的で繊細な一品です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ベネチアでおすすめの料理・お酒"
+      },
+      {
+        "description": "断崖絶壁の岩肌には色とりどりの南国の花々のほか、レモンやぶどうの段々畑が連なります。レモンの木から採った蜂蜜、レモンのジャムやクリーム、ケーキ、シャンプー、せっけんなど、ビタミンたっぷりのレモン製品はお土産にもおすすめです。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ベリーニ"
+      },
+      {
+        "description": "夏におすすめなのが、イタリア風レモンのシャーベット『グラニータ・ディ・リモーネ』。冷たくてさわやかな甘さが人気です。",
+        "sectionLevel": "h4",
+        "sectionTitle": "スプリッツ"
+      },
+      {
+        "description": "レモンの果皮を使った、爽やかに香るレモンのリキュール。街の中には数多くのリモンチェッロのお店があります。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ベネチアのお酒に合うおつまみ"
+      },
+      {
+        "description": "ナポリの南にあるアベリーノ圏一帯は、古代ローマ時代から続くワインの一大産地。白は辛口でアロマティックな『フィアノ・ディ・アベリーノ』や『グレーコ・ディ・トゥフォ』、赤は力強さの中にタンニンの優美さを感じさせる『タウラージ』など、世界に評価された長期熟成のワインが生産されています。",
+        "sectionLevel": "h3",
+        "sectionTitle": "アマルフィでおすすめの料理・お酒"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "グラニータ・ディ・リモーネ"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "リモンチェッロ"
+      },
+      {
+        "sectionLevel": "h4",
+        "sectionTitle": "アベリーノ圏のワイン"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0017",
+      "news_web_kaigai_0016",
+      "news_web_kaigai_0019"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2020-10-21",
+    "c_news_UpdateDate": "2024-07-04",
+    "c_news_ViewCount": "1816",
+    "c_news_ViewCount2of2": "1816",
+    "c_news_ViewCountNum": "1816",
+    "c_news_ViewCountNumForSorting": "133",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/europe/italy/news_web_kaigai_0020",
+    "name": "イタリア観光【JTB現地スタッフおすすめ】人気スポットと楽しみ方",
+    "slug": "kaigai/europe/italy/news_web_kaigai_0020",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

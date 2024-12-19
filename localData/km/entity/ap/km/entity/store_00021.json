@@ -1,0 +1,396 @@
+{
+  "$id": "ap_store_00021",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB玉川髙島屋ショッピングセンター店 松田",
+      "link": "https://consultants.jtb.co.jp/cp_14153518",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗に相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfsxG",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "※以下個々の食材紹介となるため、このセクションの前置きとなる前文があったほうがよいかも。",
+        "image": {
+          "height": 299,
+          "sourceUrl": "https://a.mktgcdn.com/p/I18NDOf85cFhBcH0SpJUbyrfmB7mKjt2Kw5WELNH16E/343x299.jpg",
+          "thumbnails": [
+            {
+              "height": 299,
+              "url": "https://a.mktgcdn.com/p-sandbox/I18NDOf85cFhBcH0SpJUbyrfmB7mKjt2Kw5WELNH16E/343x299.jpg",
+              "width": 343
+            },
+            {
+              "height": 171,
+              "url": "https://a.mktgcdn.com/p-sandbox/I18NDOf85cFhBcH0SpJUbyrfmB7mKjt2Kw5WELNH16E/196x171.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/I18NDOf85cFhBcH0SpJUbyrfmB7mKjt2Kw5WELNH16E/343x299.jpg",
+          "width": 343
+        },
+        "imageCaption": "あわび",
+        "sectionTitle": "食の富山～天然のいけすといわれる富山湾～"
+      },
+      {
+        "description": "※pptに該当テキストなし。原稿をください",
+        "image": {
+          "height": 309,
+          "sourceUrl": "https://a.mktgcdn.com/p/fz87jWzkOMbY2aawOiSffM8zPHvnyUupxaT-OgsIKig/327x309.jpg",
+          "thumbnails": [
+            {
+              "height": 309,
+              "url": "https://a.mktgcdn.com/p-sandbox/fz87jWzkOMbY2aawOiSffM8zPHvnyUupxaT-OgsIKig/327x309.jpg",
+              "width": 327
+            },
+            {
+              "height": 185,
+              "url": "https://a.mktgcdn.com/p-sandbox/fz87jWzkOMbY2aawOiSffM8zPHvnyUupxaT-OgsIKig/196x185.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fz87jWzkOMbY2aawOiSffM8zPHvnyUupxaT-OgsIKig/327x309.jpg",
+          "width": 327
+        },
+        "imageCaption": "氷見牛",
+        "sectionTitle": "伝統文化とものづくりの町　高岡"
+      },
+      {
+        "description": "※pptに該当テキストなし。原稿をください",
+        "image": {
+          "height": 306,
+          "sourceUrl": "https://a.mktgcdn.com/p/qz2aEd7V9OW1VtdMRMto1haazuK4m6DLsXfYQwAThxA/373x306.jpg",
+          "thumbnails": [
+            {
+              "height": 306,
+              "url": "https://a.mktgcdn.com/p-sandbox/qz2aEd7V9OW1VtdMRMto1haazuK4m6DLsXfYQwAThxA/373x306.jpg",
+              "width": 373
+            },
+            {
+              "height": 161,
+              "url": "https://a.mktgcdn.com/p-sandbox/qz2aEd7V9OW1VtdMRMto1haazuK4m6DLsXfYQwAThxA/196x161.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qz2aEd7V9OW1VtdMRMto1haazuK4m6DLsXfYQwAThxA/373x306.jpg",
+          "width": 373
+        },
+        "imageCaption": "富山産日本酒",
+        "sectionTitle": "おわら風の盆で名高い坂の町　越中八尾"
+      },
+      {
+        "description": "※pptに該当テキストなし。原稿をください",
+        "image": {
+          "height": 308,
+          "sourceUrl": "https://a.mktgcdn.com/p/Nf9gCotqOCDB44oWcBhLCgI6yx4bYxCUfPQ0NWgncYI/361x308.jpg",
+          "thumbnails": [
+            {
+              "height": 308,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nf9gCotqOCDB44oWcBhLCgI6yx4bYxCUfPQ0NWgncYI/361x308.jpg",
+              "width": 361
+            },
+            {
+              "height": 167,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nf9gCotqOCDB44oWcBhLCgI6yx4bYxCUfPQ0NWgncYI/196x167.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Nf9gCotqOCDB44oWcBhLCgI6yx4bYxCUfPQ0NWgncYI/361x308.jpg",
+          "width": 361
+        },
+        "imageCaption": "富山湾寿司",
+        "sectionTitle": "2024年新ルート始動　宇奈月～黒部ダム"
+      },
+      {
+        "description": "※pptに該当テキストなし。原稿をください",
+        "image": {
+          "height": 304,
+          "sourceUrl": "https://a.mktgcdn.com/p/43x23WIlnvkOP7S1wSsUaRlUqf1sFVqwYIH9Z7BYEyY/356x304.jpg",
+          "thumbnails": [
+            {
+              "height": 304,
+              "url": "https://a.mktgcdn.com/p-sandbox/43x23WIlnvkOP7S1wSsUaRlUqf1sFVqwYIH9Z7BYEyY/356x304.jpg",
+              "width": 356
+            },
+            {
+              "height": 167,
+              "url": "https://a.mktgcdn.com/p-sandbox/43x23WIlnvkOP7S1wSsUaRlUqf1sFVqwYIH9Z7BYEyY/196x167.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/43x23WIlnvkOP7S1wSsUaRlUqf1sFVqwYIH9Z7BYEyY/356x304.jpg",
+          "width": 356
+        },
+        "imageCaption": "海鮮お造り"
+      },
+      {
+        "description": "※pptに該当テキストなし。原稿をください",
+        "image": {
+          "height": 306,
+          "sourceUrl": "https://a.mktgcdn.com/p/oWRP-xESOgiBe67K78Cm2z5u3bf-GuDBgJHMWf15Hvc/359x306.jpg",
+          "thumbnails": [
+            {
+              "height": 306,
+              "url": "https://a.mktgcdn.com/p-sandbox/oWRP-xESOgiBe67K78Cm2z5u3bf-GuDBgJHMWf15Hvc/359x306.jpg",
+              "width": 359
+            },
+            {
+              "height": 167,
+              "url": "https://a.mktgcdn.com/p-sandbox/oWRP-xESOgiBe67K78Cm2z5u3bf-GuDBgJHMWf15Hvc/196x167.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oWRP-xESOgiBe67K78Cm2z5u3bf-GuDBgJHMWf15Hvc/359x306.jpg",
+          "width": 359
+        },
+        "imageCaption": "げんげのから揚げ"
+      },
+      {
+        "description": "【ゲンゲ】水深200～300m以下の冷たい海にすむ「ゲンゲ」は、深海魚らしい顔つきが災いし、嫌われものの魚種。流通改革とともに、全身を覆うゼラチン質に含まれる豊富なコラーゲンに注目が集まり、滅多に口にできない「幻魚（ゲンゲ）」として人気。松田はからあげがおすすめ。",
+        "image": {
+          "height": 171,
+          "sourceUrl": "https://a.mktgcdn.com/p/QXbCu5vM7zxdA8846g8lHXh_pwCz0-W2cEAZ9OOC5YU/255x171.jpg",
+          "thumbnails": [
+            {
+              "height": 171,
+              "url": "https://a.mktgcdn.com/p-sandbox/QXbCu5vM7zxdA8846g8lHXh_pwCz0-W2cEAZ9OOC5YU/255x171.jpg",
+              "width": 255
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/QXbCu5vM7zxdA8846g8lHXh_pwCz0-W2cEAZ9OOC5YU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QXbCu5vM7zxdA8846g8lHXh_pwCz0-W2cEAZ9OOC5YU/255x171.jpg",
+          "width": 255
+        },
+        "imageCaption": "八尾曳山"
+      },
+      {
+        "description": "開町４００年の歴史を持つ高岡は戦渦がなかったため金屋町はいまでも江戸時代の風情が残っています。大寺幸八郎商店は１８６０年に鋳物工場として創業。現在は製造卸と共に自宅を開放しギャラリーとして展示販売の他、鋳のアクセサリー体験や歴史の息吹を感じる空間で茶房を営んでいます。作り手の想いを丁寧にお伝えすることで鋳物文化を継承したいと語る大寺雅子さんがとても魅力的でした。",
+        "image": {
+          "height": 158,
+          "sourceUrl": "https://a.mktgcdn.com/p/-yyyc2txY86cP32YlPK-O9E666xHc0-x4nqudiobhFw/170x158.jpg",
+          "thumbnails": [
+            {
+              "height": 158,
+              "url": "https://a.mktgcdn.com/p-sandbox/-yyyc2txY86cP32YlPK-O9E666xHc0-x4nqudiobhFw/170x158.jpg",
+              "width": 170
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-yyyc2txY86cP32YlPK-O9E666xHc0-x4nqudiobhFw/170x158.jpg",
+          "width": 170
+        },
+        "imageCaption": "八尾おわら資料館"
+      },
+      {
+        "description": "（株）能作はものづくりに関する歴史、技術、職人の想いを五感で楽しめる場所でした。高岡銅器の魅力を後世に伝えるためチャレンジ精神から生み出される作品はとても洗練されています。井沢さんからはＳＤＧＳのお話、長く使ったすずを買い取り、溶かして再利用。お客様にはポイントで還元しそのポイントで新しいものを買って貰う取り組みしてます。すずの熱伝導の速さの特性を利用したグラスで飲むビールはとっても美味しそうです！",
+        "image": {
+          "height": 160,
+          "sourceUrl": "https://a.mktgcdn.com/p/2qAMpYlJ-Utlu9IGegipdYc_g4lXIoasxDYEmH3JLIk/153x160.jpg",
+          "thumbnails": [
+            {
+              "height": 160,
+              "url": "https://a.mktgcdn.com/p-sandbox/2qAMpYlJ-Utlu9IGegipdYc_g4lXIoasxDYEmH3JLIk/153x160.jpg",
+              "width": 153
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2qAMpYlJ-Utlu9IGegipdYc_g4lXIoasxDYEmH3JLIk/153x160.jpg",
+          "width": 153
+        },
+        "imageCaption": "トロッコ列車"
+      },
+      {
+        "description": "八尾に３００年伝わる文化や歴史を伝える谷井さん。秋の「おわら風の盆」だけでなく春には曳山祭が開催されてます。八尾の街は昔お蚕で栄えた街で、その財力は、富山藩の財政蔵として御納戸（おなんど）と言われ、富山藩の収益の６割以上を賄えたほど豊かだったとのこと。八尾町人たちは自分たちが築いた財力を基盤に、贅を尽くした彫刻や彫金、そして漆工・金細工などで飾った曳山を作ったといわれおり、そんな豪華で迫力のある曳山を曳山展示館では、６台の曳山のうち、常時３台みることができます。",
+        "image": {
+          "height": 166,
+          "sourceUrl": "https://a.mktgcdn.com/p/z0HYLqYaiPweOtgQBLksq8sJxFmZleCdl4R4VJ18JoI/259x166.jpg",
+          "thumbnails": [
+            {
+              "height": 166,
+              "url": "https://a.mktgcdn.com/p-sandbox/z0HYLqYaiPweOtgQBLksq8sJxFmZleCdl4R4VJ18JoI/259x166.jpg",
+              "width": 259
+            },
+            {
+              "height": 126,
+              "url": "https://a.mktgcdn.com/p-sandbox/z0HYLqYaiPweOtgQBLksq8sJxFmZleCdl4R4VJ18JoI/196x126.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/z0HYLqYaiPweOtgQBLksq8sJxFmZleCdl4R4VJ18JoI/259x166.jpg",
+          "width": 259
+        },
+        "imageCaption": "延楽　客室露天風呂　渓谷を独り占め"
+      },
+      {
+        "description": "おわら風の盆の歌詞や踊り、衣装や歴史、由来について伝えている川井さん。お祭りのときは川井さん本人も歌い手となりお祭りを楽しんでいます。そんな川井さんだからこそ知っているお祭りの回り方、楽しみ方を教えてもらいました。伝統的な屋根瓦と格子戸、白壁が特徴の建物が立ち並ぶ八尾の街、中でも諏訪町本通りは「日本の道１００選」にも選ばれています。お祭り開催期間以外にも是非訪れておきたいスポットです。",
+        "image": {
+          "height": 166,
+          "sourceUrl": "https://a.mktgcdn.com/p/uvJyRGv0vYDGQbPMaYKahKrFaxzISA53qF_gYJjld2o/265x166.jpg",
+          "thumbnails": [
+            {
+              "height": 166,
+              "url": "https://a.mktgcdn.com/p-sandbox/uvJyRGv0vYDGQbPMaYKahKrFaxzISA53qF_gYJjld2o/265x166.jpg",
+              "width": 265
+            },
+            {
+              "height": 123,
+              "url": "https://a.mktgcdn.com/p-sandbox/uvJyRGv0vYDGQbPMaYKahKrFaxzISA53qF_gYJjld2o/196x123.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uvJyRGv0vYDGQbPMaYKahKrFaxzISA53qF_gYJjld2o/265x166.jpg",
+          "width": 265
+        },
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      },
+      {
+        "description": "宇奈月温泉から現在はトロッコで欅平まで行かれますが、２年後黒部ダムにつながり新ルートが始動します。始動に向け、お越しいただいた方々にもっと富山県を楽しんでもらおうとモニターツアーなど実施しています。今回は富山湾鮨とセットになった「観光列車アルプスエキスプレスの旅」を体験してきました。宇奈月から蜃気楼で有名な魚津、ホタルイカで有名な滑川を通過して、立山まて繋ぐデザイン観光列車に乗車。デザインはお馴染みの水戸岡悦治さん、車内は薬や越中和紙などのギャラリーも設置。アルプスエキスプレスは現代では希少なロングライフ電車で、西武レッドアロー号を改装してます。車内ではガイド下澤弥生さんから富山の歴史、立山カルデラの説明を受けながら、外向きのカウンター席で、街から渓谷、立山連峰の景色を楽しめます。千垣鉄橋がおすすめです。",
+        "image": {
+          "height": 521,
+          "sourceUrl": "https://a.mktgcdn.com/p/SUPIBsYo0Ub-sqBCFtnlzOU7VvJCW0staVMc5HQU9ds/1006x521.jpg",
+          "thumbnails": [
+            {
+              "height": 521,
+              "url": "https://a.mktgcdn.com/p-sandbox/SUPIBsYo0Ub-sqBCFtnlzOU7VvJCW0staVMc5HQU9ds/1006x521.jpg",
+              "width": 1006
+            },
+            {
+              "height": 321,
+              "url": "https://a.mktgcdn.com/p-sandbox/SUPIBsYo0Ub-sqBCFtnlzOU7VvJCW0staVMc5HQU9ds/619x321.jpg",
+              "width": 619
+            },
+            {
+              "height": 311,
+              "url": "https://a.mktgcdn.com/p-sandbox/SUPIBsYo0Ub-sqBCFtnlzOU7VvJCW0staVMc5HQU9ds/600x311.jpg",
+              "width": 600
+            },
+            {
+              "height": 102,
+              "url": "https://a.mktgcdn.com/p-sandbox/SUPIBsYo0Ub-sqBCFtnlzOU7VvJCW0staVMc5HQU9ds/196x102.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SUPIBsYo0Ub-sqBCFtnlzOU7VvJCW0staVMc5HQU9ds/1006x521.jpg",
+          "width": 1006
+        }
+      },
+      {
+        "description": "※pptに該当テキストなし。",
+        "image": {
+          "height": 177,
+          "sourceUrl": "https://a.mktgcdn.com/p/NavvAP0rDFcmfrO9Z5ejmcwoslL780bFDFncKCbWLEc/131x177.jpg",
+          "thumbnails": [
+            {
+              "height": 177,
+              "url": "https://a.mktgcdn.com/p-sandbox/NavvAP0rDFcmfrO9Z5ejmcwoslL780bFDFncKCbWLEc/131x177.jpg",
+              "width": 131
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NavvAP0rDFcmfrO9Z5ejmcwoslL780bFDFncKCbWLEc/131x177.jpg",
+          "width": 131
+        }
+      }
+    ],
+    "c_ap_DatePosted": "2023-02-24",
+    "c_ap_HeroImage": {
+      "height": 797,
+      "sourceUrl": "https://a.mktgcdn.com/p/uBPbJfdFok1scH4SP7gN106qNKWnxYvudOAZJkCLXA8/970x797.jpg",
+      "thumbnails": [
+        {
+          "height": 797,
+          "url": "https://a.mktgcdn.com/p-sandbox/uBPbJfdFok1scH4SP7gN106qNKWnxYvudOAZJkCLXA8/970x797.jpg",
+          "width": 970
+        },
+        {
+          "height": 509,
+          "url": "https://a.mktgcdn.com/p-sandbox/uBPbJfdFok1scH4SP7gN106qNKWnxYvudOAZJkCLXA8/619x509.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/uBPbJfdFok1scH4SP7gN106qNKWnxYvudOAZJkCLXA8/548x450.jpg",
+          "width": 548
+        },
+        {
+          "height": 161,
+          "url": "https://a.mktgcdn.com/p-sandbox/uBPbJfdFok1scH4SP7gN106qNKWnxYvudOAZJkCLXA8/196x161.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/uBPbJfdFok1scH4SP7gN106qNKWnxYvudOAZJkCLXA8/970x797.jpg",
+      "width": 970
+    },
+    "c_ap_LinkArticleSectionTitle": "富山県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "この記事の投稿者に相談予約をする",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVesxVG"
+      },
+      {
+        "linkText": "JTB玉川髙島屋ショッピングセンター店（店舗情報）はこちら",
+        "uRL": "https://stores.jtb.co.jp/t3417-0"
+      },
+      {
+        "linkText": "富山旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/toyama/"
+      },
+      {
+        "linkText": "北陸旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/hokuriku/"
+      },
+      {
+        "linkText": "富山県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/toyama/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "中部全般",
+      "富山県"
+    ],
+    "c_ap_ShortDescription": "※pptに該当テキストなし。リード文（記事全体の概要を伝えるテキスト）の原稿をください。120文字～300文字程度",
+    "c_ap_Tags": [
+      "富山湾",
+      "美食"
+    ],
+    "c_ap_Title": "食！文化！自然！ 富山でスローな美食旅！【富山県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "食！文化！自然！ 富山でスローな美食旅！【富山県】",
+    "c_metaTitle": "食！文化！自然！ 富山でスローな美食旅！【富山県】",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_store_00021",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "中部全般, 富山県",
+    "keywords": [
+      "中部・北陸：中部全般, 富山県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "食！文化！自然！ 富山でスローな美食旅！【富山県】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

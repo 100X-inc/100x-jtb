@@ -1,0 +1,46 @@
+{
+  "$id": "news_pa_singapore",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kaigai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "シンガポール",
+      "link": "https://www.jtb.co.jp/news/list/kaigai/asia/singapore",
+      "linkType": "OTHER"
+    },
+    "c_news_PopularAreasImage": {
+      "height": 546,
+      "sourceUrl": "https://a.mktgcdn.com/p/wt1-6uQI3d1WnNyg32KzbNTX_2NqW_6LaHXEfYKwBTw/1200x546.jpg",
+      "thumbnails": [
+        {
+          "height": 546,
+          "url": "https://a.mktgcdn.com/p-sandbox/wt1-6uQI3d1WnNyg32KzbNTX_2NqW_6LaHXEfYKwBTw/1200x546.jpg",
+          "width": 1200
+        },
+        {
+          "height": 282,
+          "url": "https://a.mktgcdn.com/p-sandbox/wt1-6uQI3d1WnNyg32KzbNTX_2NqW_6LaHXEfYKwBTw/619x282.jpg",
+          "width": 619
+        },
+        {
+          "height": 273,
+          "url": "https://a.mktgcdn.com/p-sandbox/wt1-6uQI3d1WnNyg32KzbNTX_2NqW_6LaHXEfYKwBTw/600x273.jpg",
+          "width": 600
+        },
+        {
+          "height": 89,
+          "url": "https://a.mktgcdn.com/p-sandbox/wt1-6uQI3d1WnNyg32KzbNTX_2NqW_6LaHXEfYKwBTw/196x89.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/wt1-6uQI3d1WnNyg32KzbNTX_2NqW_6LaHXEfYKwBTw/1200x546.jpg",
+      "width": 1200
+    },
+    "name": "シンガポール"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

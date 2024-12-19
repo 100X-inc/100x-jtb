@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-50",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/50_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d41.980669%2C140.64375",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "山・森・野・里",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "豊かな自然に囲まれた大沼国定公園の中に、標高303mの日暮山（ひぐらしやま）はあります。小沼（こぬま）と蓴菜沼（じゅんさいぬま）の間にある日暮山の山頂には展望台が設置されており、眼下に大沼湖や小沼湖を一望できます。また、尾根の反対側には蓴菜沼、さらによく晴れた日には遠く太平洋まで見渡すことができます。新緑の季節や真夏の湖水も大変な絶景ですが、この一帯がとりわけ美しくなるのが、秋。紅葉の時期には駒ケ岳の麓に広がる大沼、小沼一帯がいっせいに鮮やかな錦に染まり、華やかな景観を楽しむことができます。かつてこの山に登った人々があまりの眺望の美しさに時間を忘れ、気が付いたら日暮れになってしまっていたということから、日暮山と呼ばれるようになったと言われています。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/50.asp",
+    "name": "日暮山から見る大沼・小沼の紅葉"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

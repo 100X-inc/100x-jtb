@@ -1,0 +1,106 @@
+{
+  "$id": "cp_y_sonoda006",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_CTA1": {
+      "label": "園田 有希 のリモート相談予約はこちらから",
+      "link": "https://link.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNF1DN-qJBbQ7BG",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "コンサルタント一覧",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_cp_Description": "皆様のご旅行が思い出深く素敵な時間となりますよう、 精一杯お手伝いさせていただきます。",
+    "c_cp_DisplayName": "園田 有希",
+    "c_cp_FieldOfExpertise": [
+      "母娘旅",
+      "ドライブ",
+      "お酒",
+      "カフェ"
+    ],
+    "c_cp_HeroImage": {
+      "height": 934,
+      "sourceUrl": "https://a.mktgcdn.com/p/jisfzledL6NWmwitJm81YdEo8G8l5fQ_4A1D77Rm66E/1200x934.jpg",
+      "thumbnails": [
+        {
+          "height": 934,
+          "url": "https://a.mktgcdn.com/p-sandbox/jisfzledL6NWmwitJm81YdEo8G8l5fQ_4A1D77Rm66E/1200x934.jpg",
+          "width": 1200
+        },
+        {
+          "height": 482,
+          "url": "https://a.mktgcdn.com/p-sandbox/jisfzledL6NWmwitJm81YdEo8G8l5fQ_4A1D77Rm66E/619x482.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/jisfzledL6NWmwitJm81YdEo8G8l5fQ_4A1D77Rm66E/578x450.jpg",
+          "width": 578
+        },
+        {
+          "height": 153,
+          "url": "https://a.mktgcdn.com/p-sandbox/jisfzledL6NWmwitJm81YdEo8G8l5fQ_4A1D77Rm66E/196x153.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/jisfzledL6NWmwitJm81YdEo8G8l5fQ_4A1D77Rm66E/1200x934.jpg",
+      "width": 1200
+    },
+    "c_cp_HiraganaName": "そのだ ゆうき",
+    "c_cp_JobTitle": "JTBリモートコンシェルジュ トラベルコンサルタント",
+    "c_cp_Photo": {
+      "height": 871,
+      "sourceUrl": "https://a.mktgcdn.com/p/fc2eo2OzHH6pXUDuG3nogZgPB8o1egL0JglBhnA3rFs/1000x871.jpg",
+      "thumbnails": [
+        {
+          "height": 871,
+          "url": "https://a.mktgcdn.com/p-sandbox/fc2eo2OzHH6pXUDuG3nogZgPB8o1egL0JglBhnA3rFs/1000x871.jpg",
+          "width": 1000
+        },
+        {
+          "height": 539,
+          "url": "https://a.mktgcdn.com/p-sandbox/fc2eo2OzHH6pXUDuG3nogZgPB8o1egL0JglBhnA3rFs/619x539.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/fc2eo2OzHH6pXUDuG3nogZgPB8o1egL0JglBhnA3rFs/517x450.jpg",
+          "width": 517
+        },
+        {
+          "height": 171,
+          "url": "https://a.mktgcdn.com/p-sandbox/fc2eo2OzHH6pXUDuG3nogZgPB8o1egL0JglBhnA3rFs/196x171.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/fc2eo2OzHH6pXUDuG3nogZgPB8o1egL0JglBhnA3rFs/1000x871.jpg",
+      "width": 1000
+    },
+    "c_cp_StrongLocalArea6": [
+      "佐賀県",
+      "長崎県",
+      "熊本県"
+    ],
+    "c_cp_Tags": [
+      "女子旅",
+      "インスタ映え",
+      "テーマパーク"
+    ],
+    "c_cp_notificationBannerMultiText": "【お知らせ】システム切替のため 9/28（水）と9/29（木）は終日オンライン相談の予約受付ができません。この2日間に相談希望の方は9/27（火）以前に相談予約の申込をお願いします。また、9/30（金）以降に相談希望の方は9/30午前9:00以降に相談予約の申込をいただくようお願いします。",
+    "c_metaDescription": "「JTBリモートコンシェルジュ」は、オンラインでの旅行相談・申込の専門店です。知識豊富なスタッフがご希望の旅をご提案します。 オンライ相談の予約も承ります。",
+    "c_metaTitle": "JTBリモートトラベルコンシェルジュ ｜ y_sonoda006｜ リモートトラベルコンシェルジュ | オンライン旅行相談",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_y_sonoda006",
+    "c_responsibleService": [
+      "リモートコンシェルジュ"
+    ],
+    "name": "y_sonoda006",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

@@ -1,0 +1,242 @@
+{
+  "$id": "ap_k_anzai602_002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "都会からわずか30分とは思えないほどの自然に包まれているのが不死王閣の魅力です。窓の外に広がる風景を眺めながらのんびり滞在するなら、露天風呂付客室がおすすめです。20室のお部屋があるのは、建物の6階・7階部分。「自然派」「数寄屋モダン」など、趣の異なる4つのタイプがあり、お部屋に付く専用の露天風呂も4タイプ。昼は森の木々を、夜は満天の星空を眺めながら入浴できます。ほかにも、和室や洋室、和室ツインなど様々なタイプのお部屋があります。大人数ならグループでも使いやすいフレキシブルルームがおすすめです。",
+        "image": {
+          "height": 748,
+          "sourceUrl": "https://a.mktgcdn.com/p/bkcP3tYkzG8lZe3Ptlq2pA30B6kpPsoHvJaiezEZIg0/1085x748.jpg",
+          "thumbnails": [
+            {
+              "height": 748,
+              "url": "https://a.mktgcdn.com/p-sandbox/VlHowdT2v4rs37d-Izj6V77_AxPw2stkyop4oSVOo5w/1085x748.jpg",
+              "width": 1085
+            },
+            {
+              "height": 427,
+              "url": "https://a.mktgcdn.com/p-sandbox/VlHowdT2v4rs37d-Izj6V77_AxPw2stkyop4oSVOo5w/619x427.jpg",
+              "width": 619
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/VlHowdT2v4rs37d-Izj6V77_AxPw2stkyop4oSVOo5w/600x414.jpg",
+              "width": 600
+            },
+            {
+              "height": 135,
+              "url": "https://a.mktgcdn.com/p-sandbox/VlHowdT2v4rs37d-Izj6V77_AxPw2stkyop4oSVOo5w/196x135.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VlHowdT2v4rs37d-Izj6V77_AxPw2stkyop4oSVOo5w/1085x748.jpg",
+          "width": 1085
+        },
+        "imageCaption": "露天風呂付客室は全室マッサージチェア付",
+        "sectionTitle": "リーズナブルに贅沢気分、露天風呂付客室でリラックス"
+      },
+      {
+        "description": "ホルシミス効果がある天然ラジウム温泉は、お肌にも身体にも、とてもやさしいといわれています。庭園の中にあるような露天風呂では、木々のざわめきや星空を眺めながら湯浴みを楽しめますよ。大浴場にはサウナも備えているので、しっかりと整えていただけます。女性の脱衣室にはお肌ケアに欠かせない保湿美顔器も備えています。温泉に入った後、お肌をケアできるのはうれしいポイントですね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/gBzossj_-em35uaPXMlUXY8gz2vxvlpTz2Z1AGxVa5k/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/gBzossj_-em35uaPXMlUXY8gz2vxvlpTz2Z1AGxVa5k/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/gBzossj_-em35uaPXMlUXY8gz2vxvlpTz2Z1AGxVa5k/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/gBzossj_-em35uaPXMlUXY8gz2vxvlpTz2Z1AGxVa5k/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/gBzossj_-em35uaPXMlUXY8gz2vxvlpTz2Z1AGxVa5k/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gBzossj_-em35uaPXMlUXY8gz2vxvlpTz2Z1AGxVa5k/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "自然の中にいるような野趣あふれる露天風呂",
+        "sectionTitle": "美肌効果にも期待！　敷地内から湧出するラジウム温泉"
+      },
+      {
+        "description": "食事は滋味豊かな京風会席料理を。山海の幸がたっぷり入った「満月会席」や溶岩プレートで焼き上げる「溶岩焼会席」、黒毛和牛づくしの「美山会席」など様々なプランがあります。冬なら、日本の三大猪肉名産地・丹波篠山産の猪肉を使ったぼたん鍋を。猪肉は高タンパクで低カロリー、コラーゲンもたっぷり含んでいるので美容食材ともいわれます。人気のジビエを「ヘルシーぼたんしゃぶしゃぶ」や、特製ダレで仕上げる「ヘルシーぼたん鍋」などで味わってみてください。猪肉はしっかりと血抜きがされているので、臭みをまったく感じさせない驚きのおいしさです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZRdl2v2GJLi2yV1G5BvmFsahmX6pN7zVYmJksI_rpso/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZRdl2v2GJLi2yV1G5BvmFsahmX6pN7zVYmJksI_rpso/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZRdl2v2GJLi2yV1G5BvmFsahmX6pN7zVYmJksI_rpso/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZRdl2v2GJLi2yV1G5BvmFsahmX6pN7zVYmJksI_rpso/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZRdl2v2GJLi2yV1G5BvmFsahmX6pN7zVYmJksI_rpso/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZRdl2v2GJLi2yV1G5BvmFsahmX6pN7zVYmJksI_rpso/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "冬の味覚、ぼたんしゃぶしゃぶ",
+        "sectionTitle": "山海の幸にジビエ料理も！　季節の味わいに舌鼓"
+      },
+      {
+        "description": "大阪市内や京都から近いので、街なかをたっぷり観光した後に温泉に浸かれるのが魅力です。近隣在住の方なら、金曜に仕事を済ませてから宿に向かってもたっぷりと温泉を楽しめます。また、宿の近くには、ワラビーやウォンバットなどがいる「五月山動物園」(入園料無料）やオリジナル「カップヌードル」などが作れる「カップヌードルミュージアム 大阪池田」もあります。話題のエキスポシティへも車なら25分ほどと、観光の拠点にもぴったりです。",
+        "sectionTitle": "観光の拠点や、週末のプチ贅沢にも使えます！"
+      },
+      {
+        "description": "----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2021-11-16",
+    "c_ap_HeroImage": {
+      "alternateText": "落語「池田の猪買い」でも有名な不死王閣名物「ぼたん鍋」を【大阪府　不死王閣】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 683,
+      "sourceUrl": "https://a.mktgcdn.com/p/X-P9cKrhiHy_9vuTnamp8wMh6fjvGmwTEomIsV5gClU/1024x683.jpg",
+      "thumbnails": [
+        {
+          "height": 683,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ok0MT-NwxiA-QQVkwVyGtDePnDV56HaPfWyvceO9YHM/1024x683.jpg",
+          "width": 1024
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ok0MT-NwxiA-QQVkwVyGtDePnDV56HaPfWyvceO9YHM/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ok0MT-NwxiA-QQVkwVyGtDePnDV56HaPfWyvceO9YHM/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/Ok0MT-NwxiA-QQVkwVyGtDePnDV56HaPfWyvceO9YHM/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Ok0MT-NwxiA-QQVkwVyGtDePnDV56HaPfWyvceO9YHM/1024x683.jpg",
+      "width": 1024
+    },
+    "c_ap_HeroImageCaption": "豊かな自然に包まれた料理自慢の温泉宿",
+    "c_ap_LinkArticleSectionTitle": "大阪府のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "トラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "この記事の投稿者にリモート相談予約をする",
+        "uRL": "https://link.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNF1DN-qJBbQgxd"
+      },
+      {
+        "linkText": "不死王閣 のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/6402010/plan/"
+      },
+      {
+        "linkText": "大阪府のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/osaka/"
+      },
+      {
+        "linkText": "大阪旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/osaka/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea4": [
+      "大阪府"
+    ],
+    "c_ap_ShortDescription": "大阪市内から車で30分。大阪とは思えない自然の景色の中に「不死王閣」はあります。敷地内より湧き出る温泉は、お肌にやさしい天然ラジウム温泉。露天風呂からの景色は、春には桜、夏には新緑、秋には紅葉、冬には満天の星空と、四季折々の風情を楽しめます。温泉を楽しんだ後は、冬のおすすめ料理「ぼたん鍋」がおすすめ。美味しくて栄養価の高い猪肉を調理した不死王閣名物で、落語のネタ「池田の猪買い」でも有名ですね。煮込むほどに柔らかく旨味が増す自慢の鍋を味わってみてください。梅田から20分ほどの阪急池田駅からは無料送迎バス（要予約）もあります。思い立ったらすぐに行けるのも近場の温泉の魅力です。",
+    "c_ap_Tags": [
+      "ラジウム温泉",
+      "ぼたん鍋"
+    ],
+    "c_ap_Theme": [
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "落語「池田の猪買い」でも有名な不死王閣名物「ぼたん鍋」を【大阪府　不死王閣】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "大阪市内から車で30分。大阪とは思えない自然の景色の中に「不死王閣」はあります。敷地内より湧き出る温泉は、お肌にやさしい天然ラジウム温泉。露天風呂からの景色は、春には桜、夏には新緑、秋には紅葉、冬には満天の星…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "落語「池田の猪買い」でも有名な不死王閣名物「ぼたん鍋」を【大阪府　不死王閣】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_k_anzai602_002",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "大阪府",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：大阪府",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：大阪府",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "落語「池田の猪買い」でも有名な不死王閣名物「ぼたん鍋」を【大阪府　不死王閣】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

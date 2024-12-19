@@ -1,0 +1,62 @@
+{
+  "$id": "cp_20071322",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "岐阜県",
+    "c_cp_CTA1": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVerBG",
+      "linkType": "URL"
+    },
+    "c_cp_Certification": [
+      "トラベルコーディネーターA級",
+      "総合旅行業取扱管理者",
+      "ウエディングコンサルタント"
+    ],
+    "c_cp_Description": "国内・海外・クルーズのパッケージ旅行から、\nオーダーメイド、グループ旅行など、ワクワクするような\n楽しいご旅行の計画を、お客様とご一緒に旅する心持ちで\nご提案させていただきます。\n是非、お気軽にご相談くださいませ。 \n皆様のご来店を心よりお待ちしております。",
+    "c_cp_DisplayName": "増田",
+    "c_cp_GeneralInfo": [
+      "資格：クルーズコンサルタント、ヨーロッパスペシャリストⅡ、Ⅲ、ハワイスペシャリスト(上級）"
+    ],
+    "c_cp_HiraganaName": "ますだ",
+    "c_cp_JobTitle": "JTBイオンモール各務原インター店 店長",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 345,
+      "sourceUrl": "https://a.mktgcdn.com/p/-s3LzH4OLXe6eyaCC9R1VexeG8HLou-HzfE6s3FBZH4/420x345.jpg",
+      "thumbnails": [
+        {
+          "height": 345,
+          "url": "https://a.mktgcdn.com/p-sandbox/-s3LzH4OLXe6eyaCC9R1VexeG8HLou-HzfE6s3FBZH4/420x345.jpg",
+          "width": 420
+        },
+        {
+          "height": 161,
+          "url": "https://a.mktgcdn.com/p-sandbox/-s3LzH4OLXe6eyaCC9R1VexeG8HLou-HzfE6s3FBZH4/196x161.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/-s3LzH4OLXe6eyaCC9R1VexeG8HLou-HzfE6s3FBZH4/420x345.jpg",
+      "width": 420
+    },
+    "c_cp_Tags": [
+      "ハワイスペシャリスト（上級）",
+      "クルーズ/ウェディングコンサルタント",
+      "ヨーロッパエリアスペシャリストⅡ・Ⅲ"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 増田",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 増田",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_20071322",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10233_イオンモール各務原インター店",
+    "name": "ますだ_20071322",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

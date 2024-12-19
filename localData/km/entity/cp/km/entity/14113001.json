@@ -1,0 +1,91 @@
+{
+  "$id": "cp_14113001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "神奈川県",
+    "c_cp_CTA1": {
+      "label": "小嶋の来店予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVeVB2q",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVeVB2q",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "温泉とお酒が好きで、思い立ったらふらっと一人旅に出かけます。\nご旅行や現地での過ごし方もお客様の合ったプランをお手伝いさせていただきます。\nお気軽にご相談くださいませ。",
+    "c_cp_DisplayName": "小嶋",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "一人旅",
+      "夫婦旅"
+    ],
+    "c_cp_HiraganaName": "こじま",
+    "c_cp_JobTitle": "JTB橋本アリオ店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 955,
+      "sourceUrl": "https://a.mktgcdn.com/p/XI1vDA1ERnGFLioR2Jw3l6z_pNwmdsup5Olnjrnyh1c/752x955.jpg",
+      "thumbnails": [
+        {
+          "height": 955,
+          "url": "https://a.mktgcdn.com/p-sandbox/aHys-Zp77sx8LMbdIUlbK5K-vR9TqVj3Gu6PErfavfY/752x955.jpg",
+          "width": 752
+        },
+        {
+          "height": 786,
+          "url": "https://a.mktgcdn.com/p-sandbox/aHys-Zp77sx8LMbdIUlbK5K-vR9TqVj3Gu6PErfavfY/619x786.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/aHys-Zp77sx8LMbdIUlbK5K-vR9TqVj3Gu6PErfavfY/354x450.jpg",
+          "width": 354
+        },
+        {
+          "height": 249,
+          "url": "https://a.mktgcdn.com/p-sandbox/aHys-Zp77sx8LMbdIUlbK5K-vR9TqVj3Gu6PErfavfY/196x249.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/aHys-Zp77sx8LMbdIUlbK5K-vR9TqVj3Gu6PErfavfY/752x955.jpg",
+      "width": 752
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "フランス"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "ベトナム"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "栃木県",
+      "群馬県"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "広島県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 小嶋",
+    "c_metaTitle": "JTBトラベルコンサルタント | 小嶋",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_14113001",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2024/04/01　JBX対応（リテール外転出）",
+    "name": "こじま_14113001",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

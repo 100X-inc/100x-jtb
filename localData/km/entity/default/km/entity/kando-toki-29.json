@@ -1,0 +1,40 @@
+{
+  "$id": "kando-toki-29",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/29_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d42.502049%2C141.147547",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "冬",
+      "海・湖・川・滝"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "「日和山」は、約1万5千年前の火山活動で形成され、地元の漁師がこの山の煙の見え方や流れる方角をみて天候を予測していたことからこの名がつけられた。溶岩が盛り上がってできた溶岩ドームであり、標高377mと小さな山だが、現在も噴煙やお湯を噴き上げ地球の息吹を感じさせてくれる。そして山の麓には、常に真っ白な湯煙を立ち上げる周囲約1kmのひょうたん型の温泉の沼、「大湯沼」がある。水深は約22mあり底からは約130度の高温のお湯が湧出し、1949年くらいまではこの沼で硫黄を採取していたくらい硫黄成分が豊富である。そこからさらに進むと、大湯沼からあふれた湯の流れを利用した「大湯沼川天然足湯」があります。ここでは、川に沿って作られたデッキに座って森林浴を楽しみながら、散策で歩き疲れた足を源泉かけ流し100％の温泉の川に浸して癒すことができます。登別原始林に囲まれた天然足湯は四季を通じて北海道の自然を感じられるスポットです。スノーシューを装着して歩く冬の体験プログラムも人気です。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/29.asp",
+    "name": "早朝の登別温泉「大湯沼・天然足湯」"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

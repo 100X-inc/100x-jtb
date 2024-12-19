@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-31",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/31_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d44.432101%2C141.414633",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "夏",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "豊かな自然を守る焼尻島（やぎしりとう）には春と秋には多くの渡り鳥が訪れ、エゾカンゾウをはじめとした花が四季折々に咲き乱れます。その中央部に広がる町営の牧場では、青々とした草原の中、羊が草を食みながらゆったりと過ごす景色を眺めることができます。潮風で適度な塩分を含んだ牧草地でのんびり過ごしているのは、サフォーク種の羊たち。焼尻島は周囲が海に囲まれていることから外敵である野犬がおらず、羊のストレスが限りなく少ない環境が実現されているといいます。本場フランスのラム肉にも匹敵する味わいと絶賛されるこの焼尻産サフォーク種の「プレ・サレ焼尻」は、首都圏ではフランス料理の素材としても珍重されており、ブランド肉として定評があります。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/31.asp",
+    "name": "焼尻島 サフォークの放牧"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

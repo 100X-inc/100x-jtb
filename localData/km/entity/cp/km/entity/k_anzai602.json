@@ -1,0 +1,59 @@
+{
+  "$id": "cp_k_anzai602",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_cp_ArticlesSectionTitle": "このコンサルタントの投稿記事",
+    "c_cp_DisplayName": "あんざい",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 815,
+      "sourceUrl": "https://a.mktgcdn.com/p/8OiPvc3qutYYyXvm1F6A-7uFVPMx9bdVxVHfe-hQv50/791x815.jpg",
+      "thumbnails": [
+        {
+          "height": 815,
+          "url": "https://a.mktgcdn.com/p-sandbox/kSNM-EzLhZ7hk9F1AEcOxvguxSARbEUbt2soA41zZKc/791x815.jpg",
+          "width": 791
+        },
+        {
+          "height": 638,
+          "url": "https://a.mktgcdn.com/p-sandbox/kSNM-EzLhZ7hk9F1AEcOxvguxSARbEUbt2soA41zZKc/619x638.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/kSNM-EzLhZ7hk9F1AEcOxvguxSARbEUbt2soA41zZKc/437x450.jpg",
+          "width": 437
+        },
+        {
+          "height": 202,
+          "url": "https://a.mktgcdn.com/p-sandbox/kSNM-EzLhZ7hk9F1AEcOxvguxSARbEUbt2soA41zZKc/196x202.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/kSNM-EzLhZ7hk9F1AEcOxvguxSARbEUbt2soA41zZKc/791x815.jpg",
+      "width": 791
+    },
+    "c_cp_StrongLocalArea2": [
+      "千葉県"
+    ],
+    "c_news_NewsList": [
+      "news_ap_k_anzai602_008",
+      "news_ap_k_anzai602_007",
+      "news_ap_k_anzai602_006",
+      "news_ap_k_anzai602_005",
+      "news_ap_k_anzai602_004",
+      "news_ap_k_anzai602_003",
+      "news_ap_k_anzai602_001",
+      "news_ap_k_anzai602_002"
+    ],
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_k_anzai602",
+    "c_responsibleService": [
+      "リモートコンシェルジュ"
+    ],
+    "name": "k_anzai602",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

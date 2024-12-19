@@ -1,0 +1,295 @@
+{
+  "$id": "ap_chiki_100011",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター あべ"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "大涌谷へと続く箱根ロープウェイへの乗り継ぎ場所でもある「早雲山駅」に2020年7月にオープンした「cu—mo箱根」。スムージーの上に、雲をイメージしたふわふわのわたがしを乗せた「ニューベル」は、最初にそれぞれ別で食べた後、わたがしとドリンクを混ぜて味変もお楽しみいただけます。壮大な景色が広がる無料の足湯は必見です！",
+        "image": {
+          "height": 960,
+          "sourceUrl": "https://a.mktgcdn.com/p/wu85uOJT_Kt9EvflJM5sx1Lff4bh6C9kbez-MYQ5a9g/1280x960.jpg",
+          "thumbnails": [
+            {
+              "height": 960,
+              "url": "https://a.mktgcdn.com/p-sandbox/wu85uOJT_Kt9EvflJM5sx1Lff4bh6C9kbez-MYQ5a9g/1280x960.jpg",
+              "width": 1280
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/wu85uOJT_Kt9EvflJM5sx1Lff4bh6C9kbez-MYQ5a9g/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wu85uOJT_Kt9EvflJM5sx1Lff4bh6C9kbez-MYQ5a9g/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/wu85uOJT_Kt9EvflJM5sx1Lff4bh6C9kbez-MYQ5a9g/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wu85uOJT_Kt9EvflJM5sx1Lff4bh6C9kbez-MYQ5a9g/1280x960.jpg",
+          "width": 1280
+        },
+        "imageCaption": "cu—mo箱根の「ニューベル」",
+        "sectionTitle": "①ふわふわモクモクのスイーツ。足湯と絶景とともに癒されませんか？"
+      },
+      {
+        "description": "箱根登山鉄道強羅駅構内にあるカフェ「Shake \u0026 Dog」。名前の通り、地元箱根で作られたオリジナルソーセージを使用したホットドッグやどの味を選べば良いか迷ってしまうフルーツたっぷりのシェイクの他、強羅でちょっと一息つきたいときに是非お立ち寄りください♪",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/8mme_SOoGom4bFaqbKVRD73vW-MuAC6MkudDrt1TBa0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/8mme_SOoGom4bFaqbKVRD73vW-MuAC6MkudDrt1TBa0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/8mme_SOoGom4bFaqbKVRD73vW-MuAC6MkudDrt1TBa0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/8mme_SOoGom4bFaqbKVRD73vW-MuAC6MkudDrt1TBa0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/8mme_SOoGom4bFaqbKVRD73vW-MuAC6MkudDrt1TBa0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8mme_SOoGom4bFaqbKVRD73vW-MuAC6MkudDrt1TBa0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "Shake \u0026 Dog（イメージ）",
+        "sectionTitle": "②まるでアメリカ気分♪ シェイクやホットドッグをお楽しみください。"
+      },
+      {
+        "description": "箱根の名店として名高い「渡邊ベーカリー」。なんといっても注文してからトーストしてもらえる温泉シチューパンは、シチューの温泉に溺れたいと思ってしまう程、味の深みとパンとのマッチングがとても美味しいです。他のパンもすべて箱根の湧き水を使っていたりとこだわりが詰まっているので是非お立ち寄りください。",
+        "image": {
+          "height": 520,
+          "sourceUrl": "https://a.mktgcdn.com/p/arjHjbsUjCnxZCj3qPxP9cO4VQg77jVIVwekITaBEwE/520x520.jpg",
+          "thumbnails": [
+            {
+              "height": 520,
+              "url": "https://a.mktgcdn.com/p-sandbox/arjHjbsUjCnxZCj3qPxP9cO4VQg77jVIVwekITaBEwE/520x520.jpg",
+              "width": 520
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/arjHjbsUjCnxZCj3qPxP9cO4VQg77jVIVwekITaBEwE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/arjHjbsUjCnxZCj3qPxP9cO4VQg77jVIVwekITaBEwE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/arjHjbsUjCnxZCj3qPxP9cO4VQg77jVIVwekITaBEwE/520x520.jpg",
+          "width": 520
+        },
+        "imageCaption": "渡邊ベーカリーの「温泉シチューパン」",
+        "sectionTitle": "③宮ノ下の名店！絶対食べてほしいパンがここにあります！"
+      },
+      {
+        "description": "強羅の坂の途中に位置する「Studio Cafe SHIMA」。店内には歴史を感じる箱根の写真がたくさんあるので、提供されるまでのお時間も楽しくお過ごしいただけます。ここでは食べるのがもったいない！と思ってしまうトコトコ登山電車のパウンドケーキがかわいすぎるすぎる！！数量限定なのでお気を付けください。その他スペシャリティドリンクドリンクなどもご用意しておりますので、強羅散歩におすすめです。",
+        "image": {
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/_t7Z2DyjPY5gcFq3kuNLsbSSz9LjupObSfcUNu6JskY/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/_t7Z2DyjPY5gcFq3kuNLsbSSz9LjupObSfcUNu6JskY/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/_t7Z2DyjPY5gcFq3kuNLsbSSz9LjupObSfcUNu6JskY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/_t7Z2DyjPY5gcFq3kuNLsbSSz9LjupObSfcUNu6JskY/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/_t7Z2DyjPY5gcFq3kuNLsbSSz9LjupObSfcUNu6JskY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_t7Z2DyjPY5gcFq3kuNLsbSSz9LjupObSfcUNu6JskY/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "Studio Cafe SHIMAの「トコトコ登山電車のパウンドケーキ」",
+        "sectionTitle": "④写真館で食す！ 登山電車パウンドケーキやスペシャリティドリンクはここだけ！"
+      },
+      {
+        "description": "小田原風祭駅から近い「えれんなごっそ CAFE107」。箱根百年水を使った「地ビール」とここでしか味わえない「かまぼこピンチョス」のコラボレーションはお酒好きにはたまりません！その他にもとってもかわいい登山電車ケーキのご用意もあるので、幅広い年齢層の方にお楽しみいただけます。鈴廣かまぼこの里内になりますので、一息ついた後も手作り体験やお土産選び等内容が盛りだくさんです！",
+        "image": {
+          "height": 1037,
+          "sourceUrl": "https://a.mktgcdn.com/p/6XJ99mcvcpv1KmZE8NVSiVxVUeGth2VQrfe4CVJWevM/1556x1037.jpg",
+          "thumbnails": [
+            {
+              "height": 1037,
+              "url": "https://a.mktgcdn.com/p-sandbox/zgBW6p7nAXEeeNhRjGHiwPtDuOlKEbMQoetkcfJfSek/1556x1037.jpg",
+              "width": 1556
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/zgBW6p7nAXEeeNhRjGHiwPtDuOlKEbMQoetkcfJfSek/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/zgBW6p7nAXEeeNhRjGHiwPtDuOlKEbMQoetkcfJfSek/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/zgBW6p7nAXEeeNhRjGHiwPtDuOlKEbMQoetkcfJfSek/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zgBW6p7nAXEeeNhRjGHiwPtDuOlKEbMQoetkcfJfSek/1556x1037.jpg",
+          "width": 1556
+        },
+        "imageCaption": "えれんなごっそ CAFE107の「登山電車ケーキ」",
+        "sectionTitle": "⑤引退した箱根登山電車「モハ1形107号」で地ビール！ピンチョス！スイーツ！"
+      },
+      {
+        "description": "----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2021-11-11",
+    "c_ap_HeroImage": {
+      "alternateText": "温泉だけじゃもったいない！箱根・小田原エリアのおすすめグルメ・スイーツ5選☆【神奈川県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 1280,
+      "sourceUrl": "https://a.mktgcdn.com/p/kbTJkZS2o_2o_6DcvWfWEpc8pdLuS_770_z2PMXir7o/960x1280.jpg",
+      "thumbnails": [
+        {
+          "height": 1280,
+          "url": "https://a.mktgcdn.com/p-sandbox/kbTJkZS2o_2o_6DcvWfWEpc8pdLuS_770_z2PMXir7o/960x1280.jpg",
+          "width": 960
+        },
+        {
+          "height": 825,
+          "url": "https://a.mktgcdn.com/p-sandbox/kbTJkZS2o_2o_6DcvWfWEpc8pdLuS_770_z2PMXir7o/619x825.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/kbTJkZS2o_2o_6DcvWfWEpc8pdLuS_770_z2PMXir7o/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/kbTJkZS2o_2o_6DcvWfWEpc8pdLuS_770_z2PMXir7o/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/kbTJkZS2o_2o_6DcvWfWEpc8pdLuS_770_z2PMXir7o/960x1280.jpg",
+      "width": 960
+    },
+    "c_ap_LinkArticleSectionTitle": "神奈川県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "箱根旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/hakone/"
+      },
+      {
+        "linkText": "小田原・箱根・湯河原のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/1406/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "神奈川県"
+    ],
+    "c_ap_ShortDescription": "四季折々魅力溢れる箱根。温泉や自然、伝統工芸等めぐりたい場所がたくさんありますよね。観光中にほっと一息つきたいあなたへSNS映えするキュートなスイーツから、箱根に来たら外せないご当地グルメのおすすめを紹介します。",
+    "c_ap_Tags": [
+      "SNS映え",
+      "女子旅",
+      "スイーツ"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "母娘旅",
+      "夫婦旅",
+      "グループ",
+      "街あるき",
+      "グルメ",
+      "カフェ",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "温泉だけじゃもったいない！箱根・小田原エリアのおすすめグルメ・スイーツ5選☆【神奈川県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "四季折々魅力溢れる箱根。温泉や自然、伝統工芸等めぐりたい場所がたくさんありますよね。観光中にほっと一息つきたいあなたへSNS映えするキュートなスイーツから、箱根に来たら外せないご当地グルメのおすすめを紹介しま…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "温泉だけじゃもったいない！箱根・小田原エリアのおすすめグルメ・スイーツ5選☆【神奈川県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100011",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "神奈川県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "温泉だけじゃもったいない！箱根・小田原エリアのおすすめグルメ・スイーツ5選☆【神奈川県】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

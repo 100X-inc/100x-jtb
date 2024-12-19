@@ -1,0 +1,603 @@
+{
+  "$id": "news_ap_chiki_100202",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 岐阜県担当 所 千晶"
+    },
+    "c_ap_HeroImage": {
+      "height": 795,
+      "sourceUrl": "https://a.mktgcdn.com/p/iKurMthhoBOGtTl17za1gqKFJWZ8yRwEl3E7bZFxR8M/1200x795.jpg",
+      "thumbnails": [
+        {
+          "height": 795,
+          "url": "https://a.mktgcdn.com/p-sandbox/iKurMthhoBOGtTl17za1gqKFJWZ8yRwEl3E7bZFxR8M/1200x795.jpg",
+          "width": 1200
+        },
+        {
+          "height": 410,
+          "url": "https://a.mktgcdn.com/p-sandbox/iKurMthhoBOGtTl17za1gqKFJWZ8yRwEl3E7bZFxR8M/619x410.jpg",
+          "width": 619
+        },
+        {
+          "height": 398,
+          "url": "https://a.mktgcdn.com/p-sandbox/iKurMthhoBOGtTl17za1gqKFJWZ8yRwEl3E7bZFxR8M/600x398.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "https://a.mktgcdn.com/p-sandbox/iKurMthhoBOGtTl17za1gqKFJWZ8yRwEl3E7bZFxR8M/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/iKurMthhoBOGtTl17za1gqKFJWZ8yRwEl3E7bZFxR8M/1200x795.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "2023年4月にリニューアルした和モダンの客室「琴高」",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://www.jtb.co.jp/news/list/index.html?tag\u003d%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "岐阜旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/gifu/"
+      },
+      {
+        "linkText": "岐阜県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/gifu/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "江戸時代の面影を色濃く残す古い町並みが続く飛騨高山温泉で、数少ない自家源泉の温泉が楽しめる「飛騨亭花扇」。天然木にこだわった純和風の湯宿は、夫婦や家族、3世代でもゆったりくつろげる露天風呂付きの客室が多く、神代杉、神代けやき、吉野杉など飛騨の木を贅沢に使った部屋はまさに心が落ち着く癒しの空間。",
+    "c_ap_Tags": [
+      "温泉",
+      "飛騨高山",
+      "リモートコンシェルジュ",
+      "JTBの一押しホテル"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "夫婦旅",
+      "グルメ",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "飛騨高山の数少ない自家源泉の温泉や贅沢な飛騨牛の会席が味わえる湯宿【岐阜県 飛騨亭花扇】",
+    "c_linkedArea3News": [
+      "gifu"
+    ],
+    "c_metaDescription": "江戸時代の面影を色濃く残す古い町並みが続く飛騨高山温泉で、数少ない自家源泉の温泉が楽しめる「飛騨亭花扇」。天然木にこだわった純和風の湯宿は、夫婦や家族、3世代でもゆったりくつろげる露天風呂付きの客室が多く、神代杉、神代けやき、吉野杉など飛騨の木を贅沢に使った部屋はまさに心が落ち着く癒しの空間。",
+    "c_metaTitle": "飛騨高山の数少ない自家源泉の温泉や贅沢な飛騨牛の会席が味わえる湯宿【岐阜県 飛騨亭花扇】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "飛騨亭花扇を予約する",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5475034/plan/",
+        "linkType": "URL"
+      },
+      {
+        "label": "リモートでの旅行相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#consultants",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "JTB店舗・専門店への相談はこちら",
+        "link": "https://stores.jtb.co.jp/index.html",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "飛騨高山が誇るブランド牛「飛騨牛」をさまざまな調理法で味わえる会席料理や希少な源泉の湯を存分に楽しめる大浴場、露天風呂など日常を忘れて和の伝統を心ゆくまで満喫できます。また、飛騨高山駅からは車で約10分の距離ですが無料の送迎バスもあり、到着してから湯宿を後にするまで同じ仲居さんが専任のコンシェルジュのようにきめ細やかに対応してくれるので安心。「飛騨亭花扇」の魅力と周辺観光を存分に楽しみましょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/YjQh1du0Db4ExeZvXg_E7XL-01PsWhPzGjglZHkFlKs/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/2vaNQfNfe5FyFMi1e9FGw5wUpGIqV60TyzJIUdu1M6A/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/2vaNQfNfe5FyFMi1e9FGw5wUpGIqV60TyzJIUdu1M6A/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/2vaNQfNfe5FyFMi1e9FGw5wUpGIqV60TyzJIUdu1M6A/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/2vaNQfNfe5FyFMi1e9FGw5wUpGIqV60TyzJIUdu1M6A/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2vaNQfNfe5FyFMi1e9FGw5wUpGIqV60TyzJIUdu1M6A/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "囲炉裏やゆっくりくつろげるソファーが並ぶ、全面畳敷きのロビー",
+        "sectionLevel": "h2",
+        "sectionTitle": "木の温もりに包まれた露天風呂付客室で、贅沢な時間を満喫"
+      },
+      {
+        "description": "飛騨亭花扇では11タイプある客室のうち、2023年4月に4つの客室がリニューアルされ、より快適にくつろげる空間に生まれ変わりました。そこで、それぞれの客室の魅力をご紹介しましょう。「琴高（きんこう）」は、庭を望む12.5畳の和室とツインベッドが置かれた寝室、マッサージチェアがあるリラクゼーションスペースとシャワーブース付温泉露天風呂がある、和モダンの客室です。角部屋なので窓も多く、心地いい光と風を感じながらくつろいだり、自家源泉の露天風呂を楽しんだり、夫婦で気兼ねなく過ごせます。",
+        "image": {
+          "height": 797,
+          "sourceUrl": "https://a.mktgcdn.com/p/okHC5X1mhTvrf_CteRPjyp0lF3aMoH3umIZ_vnITLnQ/1200x797.jpg",
+          "thumbnails": [
+            {
+              "height": 797,
+              "url": "https://a.mktgcdn.com/p-sandbox/okHC5X1mhTvrf_CteRPjyp0lF3aMoH3umIZ_vnITLnQ/1200x797.jpg",
+              "width": 1200
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/okHC5X1mhTvrf_CteRPjyp0lF3aMoH3umIZ_vnITLnQ/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/okHC5X1mhTvrf_CteRPjyp0lF3aMoH3umIZ_vnITLnQ/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/okHC5X1mhTvrf_CteRPjyp0lF3aMoH3umIZ_vnITLnQ/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/okHC5X1mhTvrf_CteRPjyp0lF3aMoH3umIZ_vnITLnQ/1200x797.jpg",
+          "width": 1200
+        },
+        "imageCaption": "寝室と和室が一体となっている広々とした「琴高（きんこう）」",
+        "sectionLevel": "h2",
+        "sectionTitle": "厳選された飛騨牛と旬の味覚が並ぶ、豪華な会席料理を堪能"
+      },
+      {
+        "description": "どこからでも庭を眺められる造りの「宝珠（ほうじゅ）」は、飛騨の木に囲まれた温もりのある客室。ツインベッドとソファーが置かれた板の間と9畳の和室がシームレスにレイアウトされています。シャワーブース付温泉露天風呂なので、市内観光から戻ったときはシャワーや大浴場で汗を流し、夕食後に自家源泉の露天風呂でゆったりするなど、思い思いに過ごしましょう。",
+        "image": {
+          "height": 794,
+          "sourceUrl": "https://a.mktgcdn.com/p/t0EnajxAYHf43kcDrXL_2bcC99h7fF-zry66ef9CTpE/1200x794.jpg",
+          "thumbnails": [
+            {
+              "height": 794,
+              "url": "https://a.mktgcdn.com/p-sandbox/t0EnajxAYHf43kcDrXL_2bcC99h7fF-zry66ef9CTpE/1200x794.jpg",
+              "width": 1200
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/t0EnajxAYHf43kcDrXL_2bcC99h7fF-zry66ef9CTpE/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 397,
+              "url": "https://a.mktgcdn.com/p-sandbox/t0EnajxAYHf43kcDrXL_2bcC99h7fF-zry66ef9CTpE/600x397.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/t0EnajxAYHf43kcDrXL_2bcC99h7fF-zry66ef9CTpE/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/t0EnajxAYHf43kcDrXL_2bcC99h7fF-zry66ef9CTpE/1200x794.jpg",
+          "width": 1200
+        },
+        "imageCaption": "庭を眺めながらのんびりと湯浴みが楽しめる温泉露天風呂",
+        "sectionLevel": "h2",
+        "sectionTitle": "美容液のような自家源泉の温泉で滑らかな美肌を"
+      },
+      {
+        "description": "ツインベッドに加えて、15畳の和室に布団を2組敷くことで4名まで宿泊できる「神馬（じんま）」は、夫婦や家族での宿泊に最適です。シャワーブース付温泉露天風呂はふたりで入っても十分な広さがあり、近くにはマッサージチェアや鏡があるドレッシングスペースもあるので、快適に部屋で過ごせます。",
+        "image": {
+          "height": 794,
+          "sourceUrl": "https://a.mktgcdn.com/p/00L3DrSyiR-DvzbYppIfrFFjFSNLM98MP_VPu9tzs2U/1200x794.jpg",
+          "thumbnails": [
+            {
+              "height": 794,
+              "url": "https://a.mktgcdn.com/p-sandbox/00L3DrSyiR-DvzbYppIfrFFjFSNLM98MP_VPu9tzs2U/1200x794.jpg",
+              "width": 1200
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/00L3DrSyiR-DvzbYppIfrFFjFSNLM98MP_VPu9tzs2U/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 397,
+              "url": "https://a.mktgcdn.com/p-sandbox/00L3DrSyiR-DvzbYppIfrFFjFSNLM98MP_VPu9tzs2U/600x397.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/00L3DrSyiR-DvzbYppIfrFFjFSNLM98MP_VPu9tzs2U/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/00L3DrSyiR-DvzbYppIfrFFjFSNLM98MP_VPu9tzs2U/1200x794.jpg",
+          "width": 1200
+        },
+        "imageCaption": "定員2名で広々とした65㎡の室内と庭がある「宝珠（ほうじゅ）」",
+        "sectionLevel": "h2",
+        "sectionTitle": "周辺観光から戻った後は、足湯で疲れを癒しましょう"
+      },
+      {
+        "description": "「石橋（しゃっきょう）」は、ツインベッドと和室の向こうに、シャワーブース付温泉露天風呂と庭がある客室。温泉露天風呂に浸った後にシャワーを浴び、傍らにある洗面スペースで髪を乾かせば、すぐに和室でゆったりできる、コンパクトな空間を贅沢かつスマートに過ごせるのが魅力です。以上が、リニューアルオープンした4つの客室です。では、そのほかにどんな客室があるのか代表的な客室を見ていきましょう。",
+        "image": {
+          "height": 791,
+          "sourceUrl": "https://a.mktgcdn.com/p/AMrOi9Zplh3VA75H2Op79GO8IHJf1zZbsEb05u-wdwg/1200x791.jpg",
+          "thumbnails": [
+            {
+              "height": 791,
+              "url": "https://a.mktgcdn.com/p-sandbox/AMrOi9Zplh3VA75H2Op79GO8IHJf1zZbsEb05u-wdwg/1200x791.jpg",
+              "width": 1200
+            },
+            {
+              "height": 408,
+              "url": "https://a.mktgcdn.com/p-sandbox/AMrOi9Zplh3VA75H2Op79GO8IHJf1zZbsEb05u-wdwg/619x408.jpg",
+              "width": 619
+            },
+            {
+              "height": 396,
+              "url": "https://a.mktgcdn.com/p-sandbox/AMrOi9Zplh3VA75H2Op79GO8IHJf1zZbsEb05u-wdwg/600x396.jpg",
+              "width": 600
+            },
+            {
+              "height": 129,
+              "url": "https://a.mktgcdn.com/p-sandbox/AMrOi9Zplh3VA75H2Op79GO8IHJf1zZbsEb05u-wdwg/196x129.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AMrOi9Zplh3VA75H2Op79GO8IHJf1zZbsEb05u-wdwg/1200x791.jpg",
+          "width": 1200
+        },
+        "imageCaption": "和室から町並みの眺めも楽しめる「神馬（じんま）」"
+      },
+      {
+        "description": "「錦（にしき）」は12.5畳と7.5畳の和室に加えて、飛騨の木のフレームにシモンズのマットレスを組み合わせたオリジナルのツインベッドが置かれた8畳の和室があり、三間続きの空間に最大6名まで宿泊可能。家族やグループにおすすめです。和室と温泉露天風呂からは、季節により景観が変わる庭が眺められるので飛騨の四季を間近で感じ取ることができます。",
+        "image": {
+          "height": 793,
+          "sourceUrl": "https://a.mktgcdn.com/p/F3UOqwnIeJoCyLgo1F3Z7U-eZQZ1EZp75YdkwhtTE_I/1200x793.jpg",
+          "thumbnails": [
+            {
+              "height": 793,
+              "url": "https://a.mktgcdn.com/p-sandbox/F3UOqwnIeJoCyLgo1F3Z7U-eZQZ1EZp75YdkwhtTE_I/1200x793.jpg",
+              "width": 1200
+            },
+            {
+              "height": 409,
+              "url": "https://a.mktgcdn.com/p-sandbox/F3UOqwnIeJoCyLgo1F3Z7U-eZQZ1EZp75YdkwhtTE_I/619x409.jpg",
+              "width": 619
+            },
+            {
+              "height": 397,
+              "url": "https://a.mktgcdn.com/p-sandbox/F3UOqwnIeJoCyLgo1F3Z7U-eZQZ1EZp75YdkwhtTE_I/600x397.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/F3UOqwnIeJoCyLgo1F3Z7U-eZQZ1EZp75YdkwhtTE_I/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/F3UOqwnIeJoCyLgo1F3Z7U-eZQZ1EZp75YdkwhtTE_I/1200x793.jpg",
+          "width": 1200
+        },
+        "imageCaption": "寝室から温泉露天風呂まで直線上に広がる「石橋（しゃっきょう）」"
+      },
+      {
+        "description": "「匠（たくみ）」は、三間続きの部屋にテラスタイプの温泉露天風呂がある客室。和室は12.5畳、7.5畳、8畳と部屋ごとに複数名が就寝できる広さがあるので、三世代の家族やグループで訪れても余裕で過ごせるはずです。温泉露天風呂のテラスには、テーブルやチェアが用意されているので、入浴後の火照ったからだを心地よく整えましょう。ほかにも、温泉露天風呂付客室や内風呂タイプの客室があるので、人数や旅の過ごし方など旅行プランに合わせて客室を選んでみたいですね。",
+        "image": {
+          "height": 792,
+          "sourceUrl": "https://a.mktgcdn.com/p/aa2xp0fAf9xViM5a6T2t7NGz5l_l441RetvauWdef8E/1200x792.jpg",
+          "thumbnails": [
+            {
+              "height": 792,
+              "url": "https://a.mktgcdn.com/p-sandbox/aa2xp0fAf9xViM5a6T2t7NGz5l_l441RetvauWdef8E/1200x792.jpg",
+              "width": 1200
+            },
+            {
+              "height": 409,
+              "url": "https://a.mktgcdn.com/p-sandbox/aa2xp0fAf9xViM5a6T2t7NGz5l_l441RetvauWdef8E/619x409.jpg",
+              "width": 619
+            },
+            {
+              "height": 396,
+              "url": "https://a.mktgcdn.com/p-sandbox/aa2xp0fAf9xViM5a6T2t7NGz5l_l441RetvauWdef8E/600x396.jpg",
+              "width": 600
+            },
+            {
+              "height": 129,
+              "url": "https://a.mktgcdn.com/p-sandbox/aa2xp0fAf9xViM5a6T2t7NGz5l_l441RetvauWdef8E/196x129.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aa2xp0fAf9xViM5a6T2t7NGz5l_l441RetvauWdef8E/1200x792.jpg",
+          "width": 1200
+        },
+        "imageCaption": "温泉露天風呂に浸かりながら飛騨の四季が楽しめる「錦（にしき）」"
+      },
+      {
+        "description": "飛騨亭花扇の夕食と朝食は、客室ではなく「さんまち小路」と呼ばれる料亭の落ち着いた個室でゆっくり楽しめます。夕食は会席料理で、飛騨高山の名産品「飛騨牛」や清流で獲れる川魚、雪解けとともに芽吹く山菜など、旬の素材を京風に仕上げた「飛騨亭花扇・京風会席」。とろけるような旨味と甘みが特徴の飛騨牛をステーキやしゃぶしゃぶ、炙りにぎりなど、さまざまな調理法で堪能できる「飛騨牛尽くし会席」がラインナップ。飛騨の地酒と一緒に味わいましょう。",
+        "image": {
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/rPoQgrfD-AK-D5CW-guriMAJEr6TeP1cPPJ_i8tZZlQ/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/rPoQgrfD-AK-D5CW-guriMAJEr6TeP1cPPJ_i8tZZlQ/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/rPoQgrfD-AK-D5CW-guriMAJEr6TeP1cPPJ_i8tZZlQ/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/rPoQgrfD-AK-D5CW-guriMAJEr6TeP1cPPJ_i8tZZlQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/rPoQgrfD-AK-D5CW-guriMAJEr6TeP1cPPJ_i8tZZlQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rPoQgrfD-AK-D5CW-guriMAJEr6TeP1cPPJ_i8tZZlQ/1200x799.jpg",
+          "width": 1200
+        },
+        "imageCaption": "露天風呂に浸り、テラスで火照ったからだを癒やせる「匠（たくみ）」"
+      },
+      {
+        "description": "朝食は飛騨高山のお米をおいしく味わってもらいたいという思いから、ご飯に合う料理を用意。なかでも、朴葉の上に味噌やキノコ、ネギなどをのせて焼く「朴葉味噌」は、飛騨高山の名物として知られる郷土料理なのでおすすめの一品です。",
+        "image": {
+          "height": 1002,
+          "sourceUrl": "https://a.mktgcdn.com/p/X_G_kSZMhFwuJRbZ3dPs2xrOXUKcJ6_lU8-s0yrMpIM/1200x1002.jpg",
+          "thumbnails": [
+            {
+              "height": 1002,
+              "url": "https://a.mktgcdn.com/p-sandbox/X_G_kSZMhFwuJRbZ3dPs2xrOXUKcJ6_lU8-s0yrMpIM/1200x1002.jpg",
+              "width": 1200
+            },
+            {
+              "height": 517,
+              "url": "https://a.mktgcdn.com/p-sandbox/X_G_kSZMhFwuJRbZ3dPs2xrOXUKcJ6_lU8-s0yrMpIM/619x517.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/X_G_kSZMhFwuJRbZ3dPs2xrOXUKcJ6_lU8-s0yrMpIM/539x450.jpg",
+              "width": 539
+            },
+            {
+              "height": 164,
+              "url": "https://a.mktgcdn.com/p-sandbox/X_G_kSZMhFwuJRbZ3dPs2xrOXUKcJ6_lU8-s0yrMpIM/196x164.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/X_G_kSZMhFwuJRbZ3dPs2xrOXUKcJ6_lU8-s0yrMpIM/1200x1002.jpg",
+          "width": 1200
+        },
+        "imageCaption": "飛騨名物の飛騨牛と旬の料理が勢揃いした、飛騨亭花扇・京風会席"
+      },
+      {
+        "description": "飛騨亭花扇の温泉は、飛騨高山では珍しい自家源泉から湧き出る湯を存分に楽しめるのが最大の魅力です。泉質はナトリウム炭酸水素塩泉で、とろみのある美容液のようなぬるっとした優しい質感で肌を滑らかにする効果が期待できます。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/vEEExI2OoncTYHI4w5fZ5xr2oYg3vuAZsfJvVZMyfiI/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/vEEExI2OoncTYHI4w5fZ5xr2oYg3vuAZsfJvVZMyfiI/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/vEEExI2OoncTYHI4w5fZ5xr2oYg3vuAZsfJvVZMyfiI/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/vEEExI2OoncTYHI4w5fZ5xr2oYg3vuAZsfJvVZMyfiI/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/vEEExI2OoncTYHI4w5fZ5xr2oYg3vuAZsfJvVZMyfiI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vEEExI2OoncTYHI4w5fZ5xr2oYg3vuAZsfJvVZMyfiI/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "飛騨牛のおいしさを多彩に引き出した、飛騨牛尽くし会席"
+      },
+      {
+        "description": "男女別の大浴場は、どちらも大きな浴槽があるゆったりと湯に浸れる空間。併設の露天風呂から飛騨の四季を映し出す庭を眺めながら、風情漂う中で温泉が楽しめます。大浴場内にはサウナと水風呂もあります。朝の時間帯に男女が入れ替わるので異なる大浴場を満喫しましょう。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/rifR5x9LRghTYKNIXE1FCBevVGmylrlRSF-WDJJd-dA/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/rifR5x9LRghTYKNIXE1FCBevVGmylrlRSF-WDJJd-dA/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/rifR5x9LRghTYKNIXE1FCBevVGmylrlRSF-WDJJd-dA/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/rifR5x9LRghTYKNIXE1FCBevVGmylrlRSF-WDJJd-dA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/rifR5x9LRghTYKNIXE1FCBevVGmylrlRSF-WDJJd-dA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rifR5x9LRghTYKNIXE1FCBevVGmylrlRSF-WDJJd-dA/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "風情が感じられる大浴場にある露天風呂"
+      },
+      {
+        "description": "飛騨亭花扇では、客室にある自家源泉の露天風呂や大浴場で温泉をたっぷり楽しめるほか、開放的な貸切露天風呂も利用可能。周囲を気にすることなくプライベートな時間を爽やかな風を感じながら過ごせます。予約は当日受付となっています。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/OLHZcF9153SzCN6xUpTtWjbyKC_ZX6Gm2g91bKwuECU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/OLHZcF9153SzCN6xUpTtWjbyKC_ZX6Gm2g91bKwuECU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/OLHZcF9153SzCN6xUpTtWjbyKC_ZX6Gm2g91bKwuECU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/OLHZcF9153SzCN6xUpTtWjbyKC_ZX6Gm2g91bKwuECU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/OLHZcF9153SzCN6xUpTtWjbyKC_ZX6Gm2g91bKwuECU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OLHZcF9153SzCN6xUpTtWjbyKC_ZX6Gm2g91bKwuECU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "大浴場と露天風呂は男女入れ替え制なので2つの施設が楽しめます"
+      },
+      {
+        "description": "飛騨亭花扇の1階にあるオープンスペースには、中庭を眺めながら気軽に利用できる足湯があります。日本三大朝市の宮川朝市や歴史的な町並みの散策、周辺の観光名所を巡った後に足を湯に浸せば、疲れを癒してリラックスできるはずです。",
+        "image": {
+          "height": 1488,
+          "sourceUrl": "https://a.mktgcdn.com/p/KwhOlbARNrVz6caN6pszJ42OiXRSnlWt5hEyA1DyMQI/1200x1488.jpg",
+          "thumbnails": [
+            {
+              "height": 1488,
+              "url": "https://a.mktgcdn.com/p-sandbox/KwhOlbARNrVz6caN6pszJ42OiXRSnlWt5hEyA1DyMQI/1200x1488.jpg",
+              "width": 1200
+            },
+            {
+              "height": 768,
+              "url": "https://a.mktgcdn.com/p-sandbox/KwhOlbARNrVz6caN6pszJ42OiXRSnlWt5hEyA1DyMQI/619x768.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/KwhOlbARNrVz6caN6pszJ42OiXRSnlWt5hEyA1DyMQI/363x450.jpg",
+              "width": 363
+            },
+            {
+              "height": 243,
+              "url": "https://a.mktgcdn.com/p-sandbox/KwhOlbARNrVz6caN6pszJ42OiXRSnlWt5hEyA1DyMQI/196x243.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KwhOlbARNrVz6caN6pszJ42OiXRSnlWt5hEyA1DyMQI/1200x1488.jpg",
+          "width": 1200
+        },
+        "imageCaption": "広々とした貸切露天風呂でプライベートな時間を"
+      },
+      {
+        "description": "飛騨亭花扇の館内には、湯上がりの火照ったからだを冷やす健康茶を飲みながらくつろげる「湯上がりサロン」、小腹が空いたときの夜食として飛騨高山名物の高山ラーメンが味わえる「飛騨亭そば」、からだを解きほぐして心身のバランスを整えるエステなど、温泉を楽しんだ後に立ちよりたいスポットが多くあるので、ぜひ訪れてみましょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/CxjKjL9NhR3N2O8N8MEBshhv1CfeGC3aNIkFFIk_yTI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/CxjKjL9NhR3N2O8N8MEBshhv1CfeGC3aNIkFFIk_yTI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/CxjKjL9NhR3N2O8N8MEBshhv1CfeGC3aNIkFFIk_yTI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/CxjKjL9NhR3N2O8N8MEBshhv1CfeGC3aNIkFFIk_yTI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/CxjKjL9NhR3N2O8N8MEBshhv1CfeGC3aNIkFFIk_yTI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/CxjKjL9NhR3N2O8N8MEBshhv1CfeGC3aNIkFFIk_yTI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "気軽に立ち寄れる足湯でリラックス"
+      },
+      {
+        "image": {
+          "height": 797,
+          "sourceUrl": "https://a.mktgcdn.com/p/dSFN0UVjglWtOmibe5IlSrWchqScCKGyD7PUOGPuPYM/1200x797.jpg",
+          "thumbnails": [
+            {
+              "height": 797,
+              "url": "https://a.mktgcdn.com/p-sandbox/dSFN0UVjglWtOmibe5IlSrWchqScCKGyD7PUOGPuPYM/1200x797.jpg",
+              "width": 1200
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/dSFN0UVjglWtOmibe5IlSrWchqScCKGyD7PUOGPuPYM/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/dSFN0UVjglWtOmibe5IlSrWchqScCKGyD7PUOGPuPYM/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/dSFN0UVjglWtOmibe5IlSrWchqScCKGyD7PUOGPuPYM/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dSFN0UVjglWtOmibe5IlSrWchqScCKGyD7PUOGPuPYM/1200x797.jpg",
+          "width": 1200
+        },
+        "imageCaption": "大浴場や貸切露天風呂を楽しんだ後に訪れたい湯上がりサロン"
+      }
+    ],
+    "c_news_PublicationDate": "2024-07-08",
+    "c_news_UpdateDate": "2024-07-08",
+    "c_news_ViewCount": "26",
+    "c_news_ViewCount2of2": "26",
+    "c_news_ViewCountNum": "26",
+    "c_news_ViewCountNumForSorting": "1",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/tokai/gifu/news_ap_chiki_100202",
+    "name": "飛騨高山の数少ない自家源泉の温泉や贅沢な飛騨牛の会席が味わえる湯宿【岐阜県 飛騨亭花扇】",
+    "slug": "kokunai/tokai/gifu/news_ap_chiki_100202",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "仕入記事"
+  ]
+}

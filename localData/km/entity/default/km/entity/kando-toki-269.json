@@ -1,0 +1,40 @@
+{
+  "$id": "kando-toki-269",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/269_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d34.51637%2C133.720953",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "岡山県",
+    "c_searchTags": [
+      "岡山県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "冬",
+      "建物・景観"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "岡山県倉敷市南部の瀬戸内海に面した一角に築かれた、巨大な工業地帯。およそ2500haの土地に石油精製・石油化学や鋼鉄産業、自動車産業など、さまざまな重化学工業の事業所が密集している「水島コンビナート」は、日本有数の規模を誇るコンビナートです。日が沈んでも休むことなく稼働し続けているその様子は、まさに不夜城。眠らぬ城が点す灯りは、「全国夜景100選」に選ばれるほどの絶景を生み出し、色とりどりに輝くプラント群や立ち昇る白煙、煙突のシルエットが作り上げる非現実的な光景は、見る人々を幻想の世界へと誘います。特に山の上を通り抜ける旧鷲羽山スカイラインからの展望では、見渡す限り広がる工場群が、想像を越えるほどの大迫力で一望できます。日本の産業を支えるコンビナートが生み出す絶景は、今なお少しずつ発展を遂げています。\n見所・お勧めポイント",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/269.asp",
+    "name": "不夜城のように眠ることのない「水島コンビナート夜景鑑賞」"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

@@ -1,0 +1,615 @@
+{
+  "$id": "news_ap_y_ishihara225_025",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 石原　優子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "東京のおすすめ温泉地MV",
+      "height": 826,
+      "sourceUrl": "https://a.mktgcdn.com/p/qtm0ndyr70-1LgZrMut2mAFKDAR6OEbOvFuUrQT9ceI/1271x826.png",
+      "thumbnails": [
+        {
+          "height": 826,
+          "url": "https://a.mktgcdn.com/p-sandbox/qtm0ndyr70-1LgZrMut2mAFKDAR6OEbOvFuUrQT9ceI/1271x826.png",
+          "width": 1271
+        },
+        {
+          "height": 402,
+          "url": "https://a.mktgcdn.com/p-sandbox/qtm0ndyr70-1LgZrMut2mAFKDAR6OEbOvFuUrQT9ceI/619x402.png",
+          "width": 619
+        },
+        {
+          "height": 390,
+          "url": "https://a.mktgcdn.com/p-sandbox/qtm0ndyr70-1LgZrMut2mAFKDAR6OEbOvFuUrQT9ceI/600x390.png",
+          "width": 600
+        },
+        {
+          "height": 127,
+          "url": "https://a.mktgcdn.com/p-sandbox/qtm0ndyr70-1LgZrMut2mAFKDAR6OEbOvFuUrQT9ceI/196x127.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/qtm0ndyr70-1LgZrMut2mAFKDAR6OEbOvFuUrQT9ceI/1271x826.png",
+      "width": 1271
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "東京都のホテル・旅館・宿をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/tokyo/"
+      },
+      {
+        "linkText": "東京都の『温泉宿』をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/tokyo/feature/k_onsen/"
+      },
+      {
+        "linkText": "東京旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/tokyo/"
+      },
+      {
+        "linkText": "温泉旅行におすすめの温泉宿・旅館・ホテル",
+        "uRL": "https://www.jtb.co.jp/onsen/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "巨大都市・東京にはあまり農地もありませんが、練馬ダイコンや谷中ショウガ、拝島ネギなどの「江戸東京野菜」が知られています。なんといっても新宿、渋谷、六本木、それに浅草、銀座、お台場などの街が魅力の観光エリア。歴史的建造物からニューウェーブまで、楽しみが満載です。温泉は奥多摩の渓谷沿いに点在するほか、三原山温泉など伊豆諸島の温泉も訪ねてみたい場所。そんな東京の温泉地14選をご紹介します。",
+    "c_ap_Tags": [
+      "関東エリア",
+      "東京都",
+      "温泉",
+      "温泉地まとめ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "温泉・立ち寄り湯"
+    ],
+    "c_ap_Title": "東京都の人気温泉地 おすすめ14選",
+    "c_linkedArea3News": [
+      "tokyo"
+    ],
+    "c_metaDescription": "東京都の有名温泉地10選をご紹介！日帰りでも楽しめる温泉や、旅館でゆっくり過ごせる人気の温泉地、露天風呂からの景色が魅力の穴場温泉などもピックアップ！温泉街で散策を楽しむのもおすすめです。",
+    "c_metaTitle": "東京都の人気温泉地 おすすめ14選｜JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "東京の温泉宿をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/tokyo/feature/k_onsen/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "東京都のホテル・旅館をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/tokyo/",
+        "linkType": "URL"
+      },
+      {
+        "label": "東京都のツアー・パックをみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/tokyo/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "蛇の湯温泉 たから荘",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/4584A02/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "東京ドーム天然温泉 Spa LaQuaの情報をみる",
+          "link": "https://www.jtb.co.jp/kokunai-guide/detail/index.html?spotID\u003d80011283",
+          "linkType": "OTHER"
+        },
+        "description": "東京のおすすめ温泉地10選をご紹介します。大都会に位置する温泉施設から、秘境と呼ばれる奥多摩の温泉地まで、幅広い楽しみ方ができますよ。",
+        "image": {
+          "alternateText": "氷川郷麻葉の湯",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/qZqsNfd01YlfGfCK6xC7wGsaDM1UVOzwCUdMO2Z3MI4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/qZqsNfd01YlfGfCK6xC7wGsaDM1UVOzwCUdMO2Z3MI4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/qZqsNfd01YlfGfCK6xC7wGsaDM1UVOzwCUdMO2Z3MI4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/qZqsNfd01YlfGfCK6xC7wGsaDM1UVOzwCUdMO2Z3MI4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/qZqsNfd01YlfGfCK6xC7wGsaDM1UVOzwCUdMO2Z3MI4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qZqsNfd01YlfGfCK6xC7wGsaDM1UVOzwCUdMO2Z3MI4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "氷川郷麻葉の湯（ひかわごうあさはのゆ）",
+        "infoBlockLabel": "氷川郷麻葉の湯の情報",
+        "infoBlockText": "所在地：東京都西多摩郡奥多摩町氷川1414泉温：17.5℃源泉：1湯量：不明飲用：不可泉質：温泉法上の温泉温泉効能：疲労回復宿泊施設：1アクセス：（公共交通機関）ＪＲ奥多摩駅から徒歩5分（車）圏央道青梅ICから青梅街道、国道411号経由26km",
+        "sectionLevel": "h2",
+        "sectionTitle": "東京の人気温泉地10選"
+      },
+      {
+        "cTA1": {
+          "label": "檜原村のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/130905/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "深大寺天然温泉の情報をみる",
+          "link": "https://www.jtb.co.jp/kokunai-guide/detail/index.html?spotID\u003d80012449",
+          "linkType": "OTHER"
+        },
+        "description": "JR奥多摩駅から徒歩5分の地に湧く温泉をご紹介します。氷川郷麻葉の湯は、JR青梅線奥多摩駅そばの創業200年近い老舗宿「三河屋旅館」が、昭和30年代に掘り当てた自家源泉の療養泉。かつてこの地で朝廷にも献上されるほど丈夫な麻が採れたことから、麻葉の湯と名付けられました。奥多摩の大自然と清流を眺めながら入浴できるが魅力。日帰り入浴も可能です。料理は山菜、や川魚、猪鍋などが食膳に並ぶ絶品！昼食や入浴、休憩など気軽に利用できますよ。",
+        "image": {
+          "alternateText": "蛇の湯温泉（じゃのゆおんせん）",
+          "height": 1200,
+          "sourceUrl": "https://a.mktgcdn.com/p/pC1Ve7evEjZChFohjU38QgXO7KHAU3v8i-UiZvMxSaA/800x1200.jpg",
+          "thumbnails": [
+            {
+              "height": 1200,
+              "url": "https://a.mktgcdn.com/p-sandbox/pC1Ve7evEjZChFohjU38QgXO7KHAU3v8i-UiZvMxSaA/800x1200.jpg",
+              "width": 800
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/pC1Ve7evEjZChFohjU38QgXO7KHAU3v8i-UiZvMxSaA/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/pC1Ve7evEjZChFohjU38QgXO7KHAU3v8i-UiZvMxSaA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/pC1Ve7evEjZChFohjU38QgXO7KHAU3v8i-UiZvMxSaA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/pC1Ve7evEjZChFohjU38QgXO7KHAU3v8i-UiZvMxSaA/800x1200.jpg",
+          "width": 800
+        },
+        "imageCaption": "蛇の湯温泉（じゃのゆおんせん）",
+        "infoBlockLabel": "蛇の湯温泉の情報",
+        "infoBlockText": "所在地：東京都西多摩郡檜原村数馬泉温：10℃源泉：1湯量：不明飲用：不可泉質：単純硫黄冷鉱泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、打ち身、慢性消化器病、高血圧、動脈硬化症、糖尿病、慢性皮ふ病、切り傷、痔疾、慢性婦人病など宿泊施設：1アクセス：（公共交通機関）ＪＲ武蔵五日市駅から西東京バス数馬行きで1時間、バス停：終点下車、徒歩2分（車）中央道上野原ICから県道33号・都道206号経由27km",
+        "sectionLevel": "h3",
+        "sectionTitle": "氷川郷麻葉の湯"
+      },
+      {
+        "cTA1": {
+          "label": "東京ドームホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/4019051/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "奥多摩温泉もえぎの湯の情報をみる",
+          "link": "https://www.jtb.co.jp/kokunai-guide/detail/index.html?spotID\u003d80012712",
+          "linkType": "OTHER"
+        },
+        "description": "東京都にありながら秘湯ムード漂う蛇の湯温泉。「蛇の湯温泉 たから荘」が自家温泉を持つ一軒宿の温泉で、築300年以上の歴史を誇る兜造の檜皮葺き屋根が印象的。建物は国登録有形文化財にも指定されています。蛇の湯温泉は、江戸時代の古い文献にも記載される、多摩に残る数少ない温泉のひとつ。傷ついた大蛇が川原に湧く湯で傷を癒したという伝説により「蛇の湯」と名付けられたと言われています。日本秘湯を守る会にも加盟する宿で、単純硫黄冷鉱泉を浴用加温しているのが特徴日帰り入浴もできて、宿では山菜や川魚など、山の幸もふんだんに味わえますよ。",
+        "image": {
+          "alternateText": "檜原温泉（ひのはらおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/IhHFziC8PSXslx7WzWrqhw2BDBJN_4d4WC3BJDETIAs/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/IhHFziC8PSXslx7WzWrqhw2BDBJN_4d4WC3BJDETIAs/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/IhHFziC8PSXslx7WzWrqhw2BDBJN_4d4WC3BJDETIAs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/IhHFziC8PSXslx7WzWrqhw2BDBJN_4d4WC3BJDETIAs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/IhHFziC8PSXslx7WzWrqhw2BDBJN_4d4WC3BJDETIAs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/IhHFziC8PSXslx7WzWrqhw2BDBJN_4d4WC3BJDETIAs/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "檜原温泉（ひのはらおんせん）",
+        "infoBlockLabel": "檜原温泉の情報",
+        "infoBlockText": "所在地：東京都西多摩郡檜原村数馬泉温：26℃源泉：1湯量：138リットル／分飲用：不可泉質：アルカリ性単純温泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、打ち身、慢性消化器病、痔疾など宿泊施設：なしアクセス：（公共交通機関）ＪＲ武蔵五日市駅から西東京バス数馬行きで50分、バス停：温泉センター前下車（車）中央道上野原ICから県道33号・都道206号経由26km",
+        "sectionLevel": "h3",
+        "sectionTitle": "蛇の湯温泉"
+      },
+      {
+        "cTA1": {
+          "label": "深大寺周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/A1500300/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "奥多摩のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1309/",
+          "linkType": "OTHER"
+        },
+        "description": "檜原温泉は、檜原村・数馬集落に湧く日帰り入浴施設「檜原温泉センター 数馬の湯」に引かれている温泉です。肌がすべらかになるアルカリ性単純温泉で、圧注浴風呂やジャグジーがある内湯から、露天風呂まで温泉を満喫できます。レストランや休憩所も備えてられているので、奥多摩周辺のハイキングの後、汗を流すのにぴったりな施設です。",
+        "image": {
+          "alternateText": "東京ドーム天然温泉（Spa LaQua）（とうきょうどーむてんねんおんせん（スパ ラクーア））",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/YFaxiryxMWwS6F72yaLfkW0f7uQB1WZZtvafo-wMIiQ/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/YFaxiryxMWwS6F72yaLfkW0f7uQB1WZZtvafo-wMIiQ/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/YFaxiryxMWwS6F72yaLfkW0f7uQB1WZZtvafo-wMIiQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/YFaxiryxMWwS6F72yaLfkW0f7uQB1WZZtvafo-wMIiQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/YFaxiryxMWwS6F72yaLfkW0f7uQB1WZZtvafo-wMIiQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YFaxiryxMWwS6F72yaLfkW0f7uQB1WZZtvafo-wMIiQ/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "東京ドーム天然温泉（Spa LaQua）（とうきょうどーむてんねんおんせん（スパ ラクーア））",
+        "infoBlockLabel": "東京ドーム天然温泉（Spa LaQua）の情報",
+        "infoBlockText": "所在地：東京都文京区春日泉温：41.3℃源泉：1湯量：400リットル／分飲用：不可泉質：ナトリウム-塩化物強塩泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、打ち身、切り傷、やけど、肩こり、慢性婦人病、美肌など宿泊施設：なしアクセス：（公共交通機関）東京メトロ後楽園駅から徒歩1分（車）首都高速飯田橋出入口から外堀通り・白山通り経由1.5km",
+        "sectionLevel": "h3",
+        "sectionTitle": "檜原温泉"
+      },
+      {
+        "cTA1": {
+          "label": "大島温泉ホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/4167003/plan/",
+          "linkType": "OTHER"
+        },
+        "description": "東京ドームシティにも温泉が湧出しているんです。「東京ドームシティ ラクーアビル」の5～9階を占める温泉入浴施設｢東京ドーム天然温泉 Spa LaQua｣に引かれている温泉です。かつては小石川温泉いわれていました。東京ドームシティの地下1700mから湧き出た、美肌効果のある琥珀色の温泉を、屋内の大浴槽や露天風呂で満喫できるのが魅力。館内には、低温サウナでじっくりと汗を流し、デトックス効果も期待できるリゾートムード満点の大人の空間｢ヒーリング　バーデ｣をはじめ、エステやリラクゼーション施設が充実しています。大都会ならではの個性派スパとして人気があり、リピーターも多いですよ。リクライニングシートで仮眠もとれるので、夜間の利用もおすすめです。",
+        "image": {
+          "alternateText": "深大寺温泉（じんだいじおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/FjQ3R43Su_Yr56FOzZqZGJTAR2Ex4Mspo_SUQl0W6kI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/FjQ3R43Su_Yr56FOzZqZGJTAR2Ex4Mspo_SUQl0W6kI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/FjQ3R43Su_Yr56FOzZqZGJTAR2Ex4Mspo_SUQl0W6kI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/FjQ3R43Su_Yr56FOzZqZGJTAR2Ex4Mspo_SUQl0W6kI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/FjQ3R43Su_Yr56FOzZqZGJTAR2Ex4Mspo_SUQl0W6kI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FjQ3R43Su_Yr56FOzZqZGJTAR2Ex4Mspo_SUQl0W6kI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "深大寺温泉（じんだいじおんせん）",
+        "infoBlockLabel": "深大寺温泉の情報",
+        "infoBlockText": "所在地：東京都調布市深大寺元町泉温：40.3℃源泉：1湯量：180リットル／分飲用：不可泉質：ナトリウム-塩化物泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、打ち身、慢性消化器病、切り傷、やけど、慢性皮ふ病、痔疾、慢性婦人病、美肌など宿泊施設：なしアクセス：（公共交通機関）京王調布駅から無料送迎バスで10分。JR中央本線武蔵境駅から無料送迎バスで20分（車）中央道調布ICから甲州街道・三鷹通経由4km",
+        "sectionLevel": "h3",
+        "sectionTitle": "東京ドーム天然温泉（Spa LaQua）"
+      },
+      {
+        "cTA1": {
+          "label": "山下旅館 別館をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/4186001/plan/",
+          "linkType": "URL"
+        },
+        "description": "深大寺参拝の後は、温泉でさっぱりしましょう！深大寺温泉は、蕎麦で有名な深大寺の近くにあり、参拝の後に立ち寄りたい日帰り入浴施設｢深大寺天然温泉　湯守の里｣に引かれている温泉です。平成11年(1999)、掘削により武蔵野で初めて地下1500mから湧出した温泉で、都内でも有数の湯量と泉質を誇ります。建物は昭和初期の旅籠をイメージして作られた和風の落ち着いた造り。風水を設計に取り入れた浴槽は、檜・竹・炭・波動石などを使用した内風呂が多彩に揃っています。東京とは思えない緑豊かな大露天風呂や滝見風呂、五右衛門風呂もありますよ。あかすりやマッサージ、東洋整体などのボディケアやエステ、岩盤浴、食事処など、付帯設備も充実しているのが魅力です。",
+        "image": {
+          "alternateText": "三原山温泉（みはらやまおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/6u76xXn8wj4PTfU3ACbFT6xFa6x7OwIXJcszAWgndvM/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/6u76xXn8wj4PTfU3ACbFT6xFa6x7OwIXJcszAWgndvM/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/6u76xXn8wj4PTfU3ACbFT6xFa6x7OwIXJcszAWgndvM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/6u76xXn8wj4PTfU3ACbFT6xFa6x7OwIXJcszAWgndvM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/6u76xXn8wj4PTfU3ACbFT6xFa6x7OwIXJcszAWgndvM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6u76xXn8wj4PTfU3ACbFT6xFa6x7OwIXJcszAWgndvM/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "三原山温泉（みはらやまおんせん）",
+        "infoBlockLabel": "三原山温泉の情報",
+        "infoBlockText": "所在地：東京都大島町泉津字木積場泉温：69.3℃源泉：1湯量：不明飲用：不可泉質：単純温泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、打ち身、慢性消化器病、肝臓病、痔疾など宿泊施設：1アクセス：（公共交通機関）大島元町港・岡田港から大島バス三原山頂上行きで18分、バス停：三原山温泉下車東京都大島元町港から都道208号・207号経由9km",
+        "sectionLevel": "h3",
+        "sectionTitle": "深大寺温泉"
+      },
+      {
+        "cTA1": {
+          "label": "奥多摩の温泉宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1309/feature/k_onsen/",
+          "linkType": "OTHER"
+        },
+        "description": "三原山の雄大な風景を見ながら露天風呂に入れる！伊豆大島三原山七合目に位置する「大島温泉ホテル」が、三原山温泉の一軒宿です。地下300mから高温の単純温泉が豊富に湧出し、男女別のパノラマ大浴場だけでなく、客室に付いているお風呂でも温泉を堪能できます。雄大な三原山と、溶岩流や三原砂漠などが広がる荒涼とした風景が目の前に広がり、風流露天風呂からの眺めは最高！心も体もリラックスできること間違いなしです。日帰り入浴も午後と夜の一定時間に受け付けている(営業時間等は要確認)ので、気軽に訪れられますよ。椿油で揚げる、名物の椿フォンデュ料理も味わってみてください。",
+        "image": {
+          "alternateText": "湯柱温泉（ゆばしらおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/s9nrodo_mg16dPrAPSnP1VFRoHP3Lfr4v_Adp_1T4qo/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/s9nrodo_mg16dPrAPSnP1VFRoHP3Lfr4v_Adp_1T4qo/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/s9nrodo_mg16dPrAPSnP1VFRoHP3Lfr4v_Adp_1T4qo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/s9nrodo_mg16dPrAPSnP1VFRoHP3Lfr4v_Adp_1T4qo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/s9nrodo_mg16dPrAPSnP1VFRoHP3Lfr4v_Adp_1T4qo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/s9nrodo_mg16dPrAPSnP1VFRoHP3Lfr4v_Adp_1T4qo/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "湯柱温泉（ゆばしらおんせん）",
+        "infoBlockLabel": "湯柱温泉の情報",
+        "infoBlockText": "所在地：東京都神津島村泉温：40.5℃源泉：1湯量：95リットル／分飲用：不可泉質：塩化物泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、打ち身、慢性消化器病、皮ふ病、切り傷、婦人病など宿泊施設：1アクセス：（公共交通機関）神津島港から徒歩15分東京都神津島港から一般道経由0.5km",
+        "sectionLevel": "h3",
+        "sectionTitle": "三原山温泉"
+      },
+      {
+        "cTA1": {
+          "label": "奥多摩の風 はとのす荘をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/4164002/plan/",
+          "linkType": "OTHER"
+        },
+        "description": "神津島で一軒のみ温泉を引く「山下旅館 別館」で入浴できるのが湯柱温泉です。伊豆七島・神津島の宿泊施設の中で唯一温泉を引く宿。大小3つの内風呂があり、湯船からは港や夕日が眺められます。塩分を含むナトリウム-塩化物強塩泉の温泉は、体がよく温まると人気！ほかにも神津島には、海を望む自然の岩場を利用した広さ275㎡の大露天風呂(露天風呂は水着着用)や、日帰り入浴施設の「神津島温泉保養センター」があるので、あわせて訪れてみてくださいね。",
+        "image": {
+          "alternateText": "奥多摩温泉（おくたまおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/43DQO74Bhimqc0hh6gWPBCtGCN9f1rjAEQB13igM5DE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/43DQO74Bhimqc0hh6gWPBCtGCN9f1rjAEQB13igM5DE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/43DQO74Bhimqc0hh6gWPBCtGCN9f1rjAEQB13igM5DE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/43DQO74Bhimqc0hh6gWPBCtGCN9f1rjAEQB13igM5DE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/43DQO74Bhimqc0hh6gWPBCtGCN9f1rjAEQB13igM5DE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/43DQO74Bhimqc0hh6gWPBCtGCN9f1rjAEQB13igM5DE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "奥多摩温泉（おくたまおんせん）",
+        "infoBlockLabel": "奥多摩温泉の情報",
+        "infoBlockText": "所在地：東京都西多摩郡奥多摩町氷川泉温：21.8℃源泉：2湯量：29リットル／分飲用：不可泉質：フッ素、メタホウ酸の項で該当する温泉法上の温泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、打ち身、慢性消化器病、痔疾など宿泊施設：なしアクセス：（公共交通機関）ＪＲ奥多摩駅から徒歩10分圏央道青梅ICから青梅街道、国道411号経由27km",
+        "sectionLevel": "h3",
+        "sectionTitle": "湯柱温泉"
+      },
+      {
+        "cTA1": {
+          "label": "亀の井ホテル 青梅をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/4482001/plan/",
+          "linkType": "URL"
+        },
+        "description": "奥多摩ハイキングの後は温泉でくつろぎたいですよね。JR奥多摩駅から徒歩10分ほどの断崖上に立つ、日帰り温泉施設「奥多摩温泉 もえぎの湯」に引かれる湯です。奥多摩の地中深く、古生層とよばれる地層から湧き出る温泉で、木々に囲まれた露天風呂からの渓谷の眺めも絶景。月替わりで男女の浴室を交替しており、食事処や休憩室、おみやげコーナーなども併設されています。ハイカーの利用も多く、土日は入場制限がされることもある人気の温泉施設です。",
+        "image": {
+          "alternateText": "鶴の湯温泉（つるのゆおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/LuGt-W4nio-_ej6AR48WWipDxenhPSH5QUT5eQN-nA0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/LuGt-W4nio-_ej6AR48WWipDxenhPSH5QUT5eQN-nA0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/LuGt-W4nio-_ej6AR48WWipDxenhPSH5QUT5eQN-nA0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/LuGt-W4nio-_ej6AR48WWipDxenhPSH5QUT5eQN-nA0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/LuGt-W4nio-_ej6AR48WWipDxenhPSH5QUT5eQN-nA0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/LuGt-W4nio-_ej6AR48WWipDxenhPSH5QUT5eQN-nA0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "鶴の湯温泉（つるのゆおんせん）",
+        "infoBlockLabel": "鶴の湯温泉の情報",
+        "infoBlockText": "所在地：東京都西多摩郡奥多摩町川野、原、氷川、鳩ノ巣泉温：29.6℃源泉：3湯量：450リットル／分飲用：不可泉質：単純硫黄泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、打ち身、慢性消化器病、慢性皮ふ病、切り傷、糖尿病、痔疾、慢性婦人病、美肌など宿泊施設：9アクセス：（公共交通機関）ＪＲ奥多摩駅から西東京バス奥多摩湖方面行きで30分、バス停：小河内神社前、深山橋などで下車。または奥多摩駅・鳩ノ巣駅下車圏央道青梅ICから青梅街道、国道411号経由22～37km",
+        "sectionLevel": "h3",
+        "sectionTitle": "奥多摩温泉"
+      },
+      {
+        "cTA1": {
+          "label": "お台場周辺の温泉付きホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/130111/feature/k_onsen/",
+          "linkType": "OTHER"
+        },
+        "description": "鶴の湯温泉は、奥多摩湖畔に湧く美肌の温泉です。南北朝の時代から利用されている、奥多摩の歴史ある温泉。小河内ダム建設によって水没していた3つの源泉を、平成3年(1991)に湖底よりポンプでくみ上げて復活させました。かすかに硫黄のにおいがする美肌の湯が魅力。奥多摩湖を望む地に立つ民宿の「小河内荘」で、入浴できますよ。周辺の売店や食堂では、温泉の販売もされています。JR奥多摩駅近くの氷川渓谷にある｢玉翠荘｣、「民話の宿 荒澤屋」、「観光荘」、JR鳩ノ巣駅近く鳩ノ巣渓谷のホテル「奥多摩の風 はとのす荘」、民宿「雲仙屋」、「山鳩山荘」にも鶴の湯温泉が分湯されるようになりました。",
+        "image": {
+          "alternateText": "青梅鮎美の湯（おうめあゆみのゆ）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/0Ld5Kjbe6huYdvRcJWc-3uAWKx2fpzNxAgLNkGX9AU8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/0Ld5Kjbe6huYdvRcJWc-3uAWKx2fpzNxAgLNkGX9AU8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/0Ld5Kjbe6huYdvRcJWc-3uAWKx2fpzNxAgLNkGX9AU8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/0Ld5Kjbe6huYdvRcJWc-3uAWKx2fpzNxAgLNkGX9AU8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/0Ld5Kjbe6huYdvRcJWc-3uAWKx2fpzNxAgLNkGX9AU8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0Ld5Kjbe6huYdvRcJWc-3uAWKx2fpzNxAgLNkGX9AU8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "青梅鮎美の湯（おうめあゆみのゆ）",
+        "infoBlockLabel": "青梅鮎美の湯の情報",
+        "infoBlockText": "所在地：東京都青梅市駒木町3-668-2泉温：25.1℃源泉：1湯量：43.6リットル／分飲用：不可泉質：アルカリ性単純温泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、打ち身、痔疾など宿泊施設：1アクセス：（公共交通機関）ＪＲ青梅駅から車で5分圏央道青梅ICから一般道経由9km",
+        "sectionLevel": "h3",
+        "sectionTitle": "鶴の湯温泉"
+      },
+      {
+        "cTA1": {
+          "label": "東京駅周辺の温泉付きホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1301/feature/k_onsen/",
+          "linkType": "OTHER"
+        },
+        "description": "青梅鮎美の湯は、多摩川のほとりに湧く青梅の温泉です。JR青梅駅から徒歩約20分、多摩川沿いに立つ「かんぽの宿（現 亀の井ホテル） 青梅」に湧出しています。「青梅鮎美（あゆみ）の湯」と名付けられた自家源泉をもち、pH10を誇るアルカリ性の単純温泉で、肌がスベスベになると人気！大浴場は最上階の7階にあるので、奥多摩の山々を眺めながらのんびり湯に浸かれます。日帰り入浴も受け付けているのがうれしいポイント(営業時間等は要確認)。四季折々の美しい景観と、昭和の香り漂うレトロな青梅の街の散策を一緒に楽しんでみてください。",
+        "sectionLevel": "h3",
+        "sectionTitle": "青梅鮎美の湯"
+      },
+      {
+        "cTA1": {
+          "label": "新宿周辺温泉付きホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/130202/feature/k_onsen/",
+          "linkType": "OTHER"
+        },
+        "description": "ここからは、東京で温泉付きホテルが人気のエリアをご紹介します。大都会に位置する温泉ならではの、ゴージャスな景色を楽しめる場所が多いですよ。",
+        "sectionLevel": "h2",
+        "sectionTitle": "東京で温泉付きホテルが人気のエリア4選"
+      },
+      {
+        "cTA1": {
+          "label": "羽田空港周辺の温泉付きホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/130509/feature/k_onsen/",
+          "linkType": "OTHER"
+        },
+        "description": "お台場周辺は、都心にありながら温泉を楽しめる人気のエリアです。天然温泉を使用した大浴場を備えたホテルが複数あり、東京の絶景を眺めながらゆったりと湯浴みを楽しむことができます。東京湾や都市の夜景を一望できる展望浴場は必見。高層ホテルの最上階に位置する温泉では、入浴しながら東京タワーやレインボーブリッジがキラキラ輝く絶景を眺められます。露天風呂付きの施設もあるので、開放感たっぷりな空間で温泉を満喫できますよ。",
+        "sectionLevel": "h3",
+        "sectionTitle": "お台場周辺"
+      },
+      {
+        "cTA1": {
+          "label": "東京の日帰り温泉施設をみる",
+          "link": "https://www.jtb.co.jp/kokunai-guide/list/index.html?area\u003d13\u0026feature\u003d0\u0026genre\u003d701",
+          "linkType": "OTHER"
+        },
+        "description": "東京駅周辺はビジネスの中心地として知られていますが、実は温泉も楽しめる場所なんです。天然温泉だけでなくスパやプール、ジャグジーなどが備えられたラグジュアリーな施設があるのも魅力。日帰り利用可能な入浴施設も多く、ビジネスマンや観光客が気軽に立ち寄れるのも魅力。仕事や観光の合間に、都市型温泉で心身ともにリフレッシュしましょう！",
+        "sectionLevel": "h3",
+        "sectionTitle": "東京駅周辺"
+      },
+      {
+        "description": "新宿周辺の温泉は、都会の喧騒の中に佇む癒しのオアシスとして人気を集めています。高層ビルの上層階に位置する温泉施設からは、東京らしい壮大な夜景を一望でき、都会の景色を楽しみながらの入浴という贅沢な体験ができますよ。マッサージやエステなどのリラクゼーションサービスもが充実している施設もあり、癒しの時間を過ごせます。新宿駅から徒歩圏内にある施設が多いため、仕事帰りや観光の合間に気軽に立ち寄れるのも魅力。忙しない都会の空気にに疲れた心身を癒しにいってみましょう！",
+        "sectionLevel": "h3",
+        "sectionTitle": "新宿周辺"
+      },
+      {
+        "description": "羽田空港周辺の温泉は、旅の疲れを癒す絶好の場所。中には24時間営業の施設もあり、深夜や早朝のフライトにも対応しているのがうれしいポイントです。大浴場や露天風呂からは、滑走路や東京湾の絶景を眺められるのも魅力。長時間のフライト後のリフレッシュや、フライト前の時間つぶしにぴったり！時差ボケの解消にも効果的ですよ。",
+        "sectionLevel": "h3",
+        "sectionTitle": "羽田空港周辺"
+      },
+      {
+        "description": "東京には、観光のついでや仕事帰りに気軽に立ち寄れる日帰り温泉も充実していますよ。場所によって泉質や効能が異なったり、サウナやスパがついていたりと個性があるので、ぜひ東京の温泉巡りを楽しんでみてくださいね。",
+        "sectionLevel": "h2",
+        "sectionTitle": "東京の日帰り温泉施設"
+      },
+      {
+        "description": "\u003cp\u003e東京都の温泉を探す\u003c/p\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1309/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e奥多摩の温泉宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/130107/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e有楽町の温泉宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1310108/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e秋葉原の温泉宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/130101/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e東京駅周辺の温泉宿\u003c/a\u003eーーーーーーーーーーーーーーーーー ※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。 ※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_y_ishihara225_023",
+      "news_ap_y_ishihara225_021",
+      "news_ap_y_ishihara225_026",
+      "news_ap_y_ishihara225_027"
+    ],
+    "c_news_FeaturedArticlesTitle": "関東エリアの温泉記事",
+    "c_news_PublicationDate": "2023-02-08",
+    "c_news_UpdateDate": "2024-09-10",
+    "c_news_ViewCount": "9970",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "9970",
+    "c_news_ViewCountNum": "9970",
+    "c_news_ViewCountNumForSorting": "777",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_y_ishihara225_025",
+    "name": "東京都の人気温泉地 おすすめ14選",
+    "slug": "kokunai/kanto/tokyo/news_ap_y_ishihara225_025",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "温泉地"
+  ]
+}

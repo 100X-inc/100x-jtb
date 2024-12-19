@@ -1,0 +1,129 @@
+{
+  "$id": "cp_12345678",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "旅野 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVBsxDy",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の来店予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVN-_q",
+      "linkType": "URL"
+    },
+    "c_cp_Certification": [
+      "トラベルコーディネーターA級",
+      "総合旅行業取扱管理者",
+      "ウエディングコンサルタント"
+    ],
+    "c_cp_Description": "生まれも育ちも北海道、生粋の道産子（どさんこ）です。\n学生時代は、思い立ったらカメラ片手にアクティブに一人旅をしていました。社会人になってからは、ヨーロッパを中心とした添乗員同行ツアーで参加者どうし一期一会の出会いの素晴らしさを体感したほか、今ではクルーズ船でのんびりゆとり旅を満喫するまでになりました。\n旅行はジェットコースターに似ています。「タビマエ」のドキドキ・ワクワクな高揚感、「タビナカ」で迎えるクライマックス、「タビアト」の余韻…。お客様のご旅行を彩るお手伝いをさせていただけたら光栄です。\n航空券一枚から世界一周クルーズまでお気軽にご相談くださいませ。",
+    "c_cp_DisplayName": "旅野　夢子",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "ウエディング",
+      "ハネムーン",
+      "街あるき",
+      "グルメ",
+      "音楽ライブ"
+    ],
+    "c_cp_GeneralInfo": [
+      "●資格：ハワイスペシャリスト上級",
+      "出身地：北海道",
+      "好きな街：ホノルル、台北"
+    ],
+    "c_cp_HeroImage": {
+      "height": 300,
+      "sourceUrl": "https://a.mktgcdn.com/p/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/400x300.jpg",
+      "thumbnails": [
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/400x300.jpg",
+          "width": 400
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/400x300.jpg",
+      "width": 400
+    },
+    "c_cp_HiraganaName": "たびの　ゆめこ",
+    "c_cp_JobTitle": "JTBテスト店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "alternateText": "JTBトラベルコンサルタント ｜ 旅野　夢子",
+      "height": 300,
+      "sourceUrl": "https://a.mktgcdn.com/p/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/400x300.jpg",
+      "thumbnails": [
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/400x300.jpg",
+          "width": 400
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/400x300.jpg",
+      "width": 400
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム",
+      "オーストラリア"
+    ],
+    "c_cp_StrongAbroadArea2": [
+      "アメリカ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "イギリス",
+      "フランス",
+      "スペイン",
+      "イタリア"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国",
+      "台湾",
+      "タイ"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "富山県",
+      "石川県",
+      "山梨県",
+      "静岡県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "スキー"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 旅野 夢子",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 旅野 夢子",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_12345678",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "99999_JBXテスト店舗",
+    "name": "たびの ゆめこ_12345678",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

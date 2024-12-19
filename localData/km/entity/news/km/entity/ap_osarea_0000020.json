@@ -1,0 +1,345 @@
+{
+  "$id": "news_ap_osarea_0000020",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "台北のオシャレエリアから人気のおすすめエリアまで！台北まるごと観光情報【台湾】",
+      "height": 4000,
+      "sourceUrl": "https://a.mktgcdn.com/p/S11LZzgsKhUBUM0eBRr767pMwg06ibWIVoZJdLMZZj0/6000x4000.jpg",
+      "thumbnails": [
+        {
+          "height": 4000,
+          "url": "https://a.mktgcdn.com/p-sandbox/S11LZzgsKhUBUM0eBRr767pMwg06ibWIVoZJdLMZZj0/6000x4000.jpg",
+          "width": 6000
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/S11LZzgsKhUBUM0eBRr767pMwg06ibWIVoZJdLMZZj0/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/S11LZzgsKhUBUM0eBRr767pMwg06ibWIVoZJdLMZZj0/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/S11LZzgsKhUBUM0eBRr767pMwg06ibWIVoZJdLMZZj0/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/S11LZzgsKhUBUM0eBRr767pMwg06ibWIVoZJdLMZZj0/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/S11LZzgsKhUBUM0eBRr767pMwg06ibWIVoZJdLMZZj0/6000x4000.jpg",
+      "width": 6000
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "台湾旅行をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/taiwan/"
+      },
+      {
+        "linkText": "台北のツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dTPE"
+      },
+      {
+        "linkText": "台北の現地ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bTW/cTPE/"
+      },
+      {
+        "linkText": "台北のホテルをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/3518/?freeword\u003d%E5%8F%B0%E5%8C%97%20%20%E5%8F%B0%E6%B9%BE\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d3518"
+      },
+      {
+        "linkText": "台湾の航空券をみる",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/asia/taiwan/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "台湾の魅力がたっぷり詰まったビッグシティ・台北には、おしゃれなショッピング街や学生街、レトロな風情に包まれた建物やストリートなど、それぞれに特徴ある街が点在しています。旅行前に各エリアの特徴をつかんでおきましょう。(写真：迪化街)",
+    "c_ap_Tags": [
+      "観光スポット",
+      "台北",
+      "迪化街",
+      "台北101",
+      "東区",
+      "永康街"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "自然・山",
+      "建築・史跡",
+      "街あるき",
+      "グルメ",
+      "ショッピング"
+    ],
+    "c_ap_Title": "台北のオシャレエリアから人気のおすすめエリアまで！台北まるごと観光情報【台湾】",
+    "c_linkedArea3News": [
+      "taiwan"
+    ],
+    "c_metaDescription": "台湾の魅力が詰まった台北には、おしゃれなショッピング街や学生街、レトロな風情に包まれた街など、特徴的なエリアがあります。旅行前に各エリアの特徴をつかんでおきましょう。",
+    "c_metaTitle": "台北のオシャレエリアから人気のおすすめエリアまで！台北まるごと観光情報【台湾】",
+    "c_news_CTAs": [
+      {
+        "label": "台北のホテルをみる",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/3518/?freeword\u003d%E5%8F%B0%E5%8C%97%20%20%E5%8F%B0%E6%B9%BE\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d3518",
+        "linkType": "URL"
+      },
+      {
+        "label": "台北の現地ツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bTW/cTPE/",
+        "linkType": "URL"
+      },
+      {
+        "label": "台湾旅行をみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/taiwan/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "レトロな雰囲気の迪化街を詳しくみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000034",
+          "linkType": "URL"
+        },
+        "description": "迪化街は台北最大の問屋街で、雑貨や茶葉などを扱う老舗が多く集まっています。また19世紀末の風情ある建物が街のいたるところに残り、それらをリノベーションしたレトロ\u0026モダンなショップやカフェも人気。近くには縁結びで有名な「霞海城隍廟」があります。",
+        "image": {
+          "alternateText": "フォトスポットにぴったりなレトロな街並みが続く",
+          "height": 189,
+          "sourceUrl": "https://a.mktgcdn.com/p/CesqMLZLGvYrJHQlsoP0YCxhnXi6kQirP-XwhlC7KW8/283x189.jpg",
+          "thumbnails": [
+            {
+              "height": 189,
+              "url": "https://a.mktgcdn.com/p-sandbox/CesqMLZLGvYrJHQlsoP0YCxhnXi6kQirP-XwhlC7KW8/283x189.jpg",
+              "width": 283
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/CesqMLZLGvYrJHQlsoP0YCxhnXi6kQirP-XwhlC7KW8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/CesqMLZLGvYrJHQlsoP0YCxhnXi6kQirP-XwhlC7KW8/283x189.jpg",
+          "width": 283
+        },
+        "imageCaption": "フォトスポットにぴったりなレトロな街並みが続く",
+        "infoBlockLabel": "台北101の情報",
+        "infoBlockText": "住所：台北市信義路五段7號営業時間：11時～21時30分(金・土曜は～22時)、展望フロア11時～21時(20時15分最終入場)※祝日やイベント時、ショップ等の時間は異なる定休日：なし入場料：有料大人:500NTドル、 展望台は有料(大人450NTドル。団体400NTドル。)",
+        "sectionTitle": "迪化街 （ティーホアチエ）"
+      },
+      {
+        "cTA1": {
+          "label": "アートな街 中山・赤峰街を詳しくみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000035",
+          "linkType": "URL"
+        },
+        "description": "MRT中山駅のすぐ近くには、街路樹の美しいメインストリート「中山北路」が延びています。通り沿いには高級ホテルや一流ブランドのショップが軒を連ねていて洗練された雰囲気に包まれています。その西側には、町工場の多い庶民的なエリア「赤峰街」が広がります。特徴ある２つの街を散策しながら、個性的なショップやカフェ巡りが楽しめます。",
+        "image": {
+          "alternateText": "赤峰街にはアートが描かれた雰囲気のある壁も",
+          "height": 118,
+          "sourceUrl": "https://a.mktgcdn.com/p/-Ae_E5llLp0aMwryD_AAxLPyfynax_OpVhSWzyqYEEA/178x118.jpg",
+          "thumbnails": [
+            {
+              "height": 118,
+              "url": "https://a.mktgcdn.com/p-sandbox/-Ae_E5llLp0aMwryD_AAxLPyfynax_OpVhSWzyqYEEA/178x118.jpg",
+              "width": 178
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-Ae_E5llLp0aMwryD_AAxLPyfynax_OpVhSWzyqYEEA/178x118.jpg",
+          "width": 178
+        },
+        "imageCaption": "赤峰街にはアートが描かれた雰囲気のある壁も",
+        "sectionTitle": "中山・赤峰街（ツォンシャン・チーフォンチエ）"
+      },
+      {
+        "cTA1": {
+          "label": "台北101の展望台チケットはこちら",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/prddetail/p200012393/",
+          "linkType": "URL"
+        },
+        "description": "縦横に走る路地におしゃれモダンなカフェやバーがオープンし、センスのよい新進のアパレル\u0026雑貨ショップも多い「台北の裏原宿」。東区は主に復興南路より東側、市民大道と信義路の間にあるエリアを指し、大安区、信義区、松山区が含まれます。台北市でデパートが集まる地区の一つです。おしゃれなお店をブラブラしてみるのも楽しいです。",
+        "image": {
+          "alternateText": "こだわりのあるセレクトショップがたくさん",
+          "height": 113,
+          "sourceUrl": "https://a.mktgcdn.com/p/yQW-MiV-OdYDx1lXKAOdI7E3u4fAMD5b519o7f9AP9E/170x113.jpg",
+          "thumbnails": [
+            {
+              "height": 113,
+              "url": "https://a.mktgcdn.com/p-sandbox/yQW-MiV-OdYDx1lXKAOdI7E3u4fAMD5b519o7f9AP9E/170x113.jpg",
+              "width": 170
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yQW-MiV-OdYDx1lXKAOdI7E3u4fAMD5b519o7f9AP9E/170x113.jpg",
+          "width": 170
+        },
+        "imageCaption": "こだわりのあるセレクトショップがたくさん",
+        "sectionTitle": "東区（トンチュー）"
+      },
+      {
+        "cTA1": {
+          "label": "ショッピングとグルメを満喫！永康街を詳しくみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000037",
+          "linkType": "URL"
+        },
+        "description": "台湾のランドマークともいえる台北101がそびえ立ち、超モダンな街並みが広がる流行最先端スポットが、台北101と信義周辺です。周辺には高級デパートやおしゃれなカフェ、バーなどが集まっています。台北101には、89階（地上382ｍ！）の屋内展望台、91階の屋外展望台があり、そこからの景色は圧巻です。タワー内には有名な小籠包のお店や巨大ショッピングモールが入っています。",
+        "image": {
+          "alternateText": "竹をイメージしたデザインが目を引く台北101",
+          "height": 2000,
+          "sourceUrl": "https://a.mktgcdn.com/p/JeIQBKwXZqDcBbTxIPXhSWwBXqjx_hVS3bqu6nipvPo/1333x2000.jpg",
+          "thumbnails": [
+            {
+              "height": 2000,
+              "url": "https://a.mktgcdn.com/p-sandbox/_g05VU-p3l_tckGgQspsXCPtmPUxOwLIeU7AkcMFuRY/1333x2000.jpg",
+              "width": 1333
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/_g05VU-p3l_tckGgQspsXCPtmPUxOwLIeU7AkcMFuRY/1266x1900.jpg",
+              "width": 1266
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/_g05VU-p3l_tckGgQspsXCPtmPUxOwLIeU7AkcMFuRY/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/_g05VU-p3l_tckGgQspsXCPtmPUxOwLIeU7AkcMFuRY/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/_g05VU-p3l_tckGgQspsXCPtmPUxOwLIeU7AkcMFuRY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_g05VU-p3l_tckGgQspsXCPtmPUxOwLIeU7AkcMFuRY/1333x2000.jpg",
+          "width": 1333
+        },
+        "imageCaption": "竹をイメージしたデザインが目を引く台北101",
+        "sectionTitle": "台北101・信義（タイペイイーリンイー・シンイー）"
+      },
+      {
+        "description": "淡水河に近い街で、西洋風のレンガ建築「西門紅楼」を中心に、若者向けのアパレル店や小吃店などが集まっています。若手クリエイターによるショップやカフェなどが人気を呼んで、台北でも屈指の流行の発信地となっています。また西門駅前に広がるレインボーロードのような、写真映えするスポットが点在しているのも人気の理由の一つです。",
+        "image": {
+          "alternateText": "西門エリアのランドマーク「西門紅楼」",
+          "height": 113,
+          "sourceUrl": "https://a.mktgcdn.com/p/y2-aruHM1Ey1WlzRiCLK5GHLzKPopanUW4uq9ePww08/170x113.jpg",
+          "thumbnails": [
+            {
+              "height": 113,
+              "url": "https://a.mktgcdn.com/p-sandbox/y2-aruHM1Ey1WlzRiCLK5GHLzKPopanUW4uq9ePww08/170x113.jpg",
+              "width": 170
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/y2-aruHM1Ey1WlzRiCLK5GHLzKPopanUW4uq9ePww08/170x113.jpg",
+          "width": 170
+        },
+        "imageCaption": "西門エリアのランドマーク「西門紅楼」",
+        "sectionTitle": "西門（シーメン）"
+      },
+      {
+        "description": "東門駅前に広がるエリアで、小籠包の名店やかき氷など、台湾グルメの人気店のほか、雑貨や茶器を扱う店が数多く集まっています。まずはメイン通りの永康街を南下しながら歩き、グルメとショッピング。永康街の南側には、閑静な住宅街が広がり、日本式住宅をリノベした店なども点在します。帰りは永康街と並行して延びる麗水街を北上し、再び買い物を楽しむのがおすすめです。",
+        "image": {
+          "alternateText": "おいしい匂いを漂わせる小吃の店も多い、賑やかなエリア",
+          "height": 189,
+          "sourceUrl": "https://a.mktgcdn.com/p/gJ8RGN5T_cI2N_RZX-tk3_MfZxKCPrPGiMOK3Dwy-MQ/284x189.jpg",
+          "thumbnails": [
+            {
+              "height": 189,
+              "url": "https://a.mktgcdn.com/p-sandbox/gJ8RGN5T_cI2N_RZX-tk3_MfZxKCPrPGiMOK3Dwy-MQ/284x189.jpg",
+              "width": 284
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/gJ8RGN5T_cI2N_RZX-tk3_MfZxKCPrPGiMOK3Dwy-MQ/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gJ8RGN5T_cI2N_RZX-tk3_MfZxKCPrPGiMOK3Dwy-MQ/284x189.jpg",
+          "width": 284
+        },
+        "imageCaption": "おいしい匂いを漂わせる小吃の店も多い、賑やかなエリア",
+        "sectionTitle": "永康街（ヨンカンチエ）"
+      },
+      {
+        "description": "台北の空の玄関口「台北松山空港」近くにあり、近年開発が進むトレンドエリア。戦後、米軍の居住エリアとして整備された閑静な住宅地におしゃれな雑貨店やカフェ、アパレルショップが点在しています。台北の市街地ながらたくさんの植物や公園があり、癒やされる空間も豊富。都会の喧騒をしばし忘れさせるオアシスみたいな街並みが特徴的です。",
+        "image": {
+          "alternateText": "住宅地ならではの、街路樹や植え込みが美しい街並み",
+          "height": 151,
+          "sourceUrl": "https://a.mktgcdn.com/p/KlZCHbE6YW2mjnLkBCtzrCkNFwvoH4jMkHgPTDyg61o/227x151.jpg",
+          "thumbnails": [
+            {
+              "height": 151,
+              "url": "https://a.mktgcdn.com/p-sandbox/KlZCHbE6YW2mjnLkBCtzrCkNFwvoH4jMkHgPTDyg61o/227x151.jpg",
+              "width": 227
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/KlZCHbE6YW2mjnLkBCtzrCkNFwvoH4jMkHgPTDyg61o/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KlZCHbE6YW2mjnLkBCtzrCkNFwvoH4jMkHgPTDyg61o/227x151.jpg",
+          "width": 227
+        },
+        "imageCaption": "住宅地ならではの、街路樹や植え込みが美しい街並み",
+        "sectionTitle": "富錦街（フーチンチエ）"
+      },
+      {
+        "imageCaption": "※2023年3月末時点の情報です。営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000050",
+      "news_ap_osarea_0000021",
+      "news_ap_osarea_0000022",
+      "news_ap_osarea_0000023",
+      "news_ap_osarea_0000024",
+      "news_ap_osarea_0000025",
+      "news_ap_osarea_0000026",
+      "news_ap_osarea_0000027",
+      "news_ap_osarea_0000028",
+      "news_ap_osarea_0000029",
+      "news_ap_osarea_0000030",
+      "news_ap_osarea_0000031",
+      "news_ap_osarea_0000032",
+      "news_ap_osarea_0000033",
+      "news_ap_osarea_0000034",
+      "news_ap_osarea_0000035",
+      "news_ap_osarea_0000036",
+      "news_ap_osarea_0000037",
+      "news_ap_osarea_0000038",
+      "news_ap_osarea_0000039",
+      "news_ap_osarea_0000040"
+    ],
+    "c_news_FeaturedArticlesTitle": "台湾のその他の投稿記事",
+    "c_news_PublicationDate": "2023-04-10",
+    "c_news_UpdateDate": "2024-07-22",
+    "c_news_ViewCount": "3158",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "3158",
+    "c_news_ViewCountNum": "3158",
+    "c_news_ViewCountNumForSorting": "167",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000020",
+    "name": "台北のオシャレエリアから人気のおすすめエリアまで！台北まるごと観光情報【台湾】",
+    "slug": "kaigai/asia/taiwan/news_ap_osarea_0000020",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

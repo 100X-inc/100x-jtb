@@ -1,0 +1,457 @@
+{
+  "$id": "ap_remoteconcierge_00007",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "日光の旅は、JR新宿駅から東武日光駅へ直通運転している特急「日光1号」で向かいました。なぜ移動手段に電車を選んだかと言えば、車窓から景色を楽しんでいる間の約2時間でちゃんと到着するので時間のムダがなく、旅行プランが立てやすいから。車移動では混雑でイライラしたり、運転で疲れたりすることもありますからね。東武浅草駅やJR東京駅からのアクセス方法もあり、電車移動はとても便利です。そうこうしているうちに東武日光駅に到着。宿泊先の「日光千姫物語」までは無料のシャトルバスで移動しました。この無料シャトルバスは定時制で事前の予約は不要。東武日光駅とJR日光駅から1日に7本運行しています。私が訪れたときは、駅周辺や名所に近い駐車場がとても混雑していて入庫待ちの車が何台もありましたが、「日光千姫物語」は世界遺産の二社一寺へ歩いて行けるので宿を拠点に身軽に観光が楽しめます。車で訪れた場合でも宿の駐車場に車を停めて出かけられるのでおすすめです。東武日光駅から無料のシャトルバスで約20分。「日光千姫物語」に到着しました。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/bToxGIbn8ESrhIpJVjl_9ilwriGFOhZo4311kERmK0A/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/nfafzfWB9-GAxwnG0UnleboDXzCWNMYzMGUekb9USdE/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/nfafzfWB9-GAxwnG0UnleboDXzCWNMYzMGUekb9USdE/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/nfafzfWB9-GAxwnG0UnleboDXzCWNMYzMGUekb9USdE/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/nfafzfWB9-GAxwnG0UnleboDXzCWNMYzMGUekb9USdE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nfafzfWB9-GAxwnG0UnleboDXzCWNMYzMGUekb9USdE/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "巡るターミナルステーションの1つ、東武日光駅",
+        "sectionTitle": "日光へのアクセスは電車移動がおすすめ"
+      },
+      {
+        "description": "純和風旅館「日光千姫物語」の客室はすべて和室で全44室。窓からは眼下に大谷川、遠くに四季折々の日光連山の景色が広がり、日光の大自然が一望できます。客室タイプは、半露天風呂の客室や和洋室、特別室など複数あり、なかでも2022年にリニューアルされた半露天風呂付和風ツインはおすすめの客室。窓を全開にすると露天風呂になる浴室では、鳴虫山と大谷川の景観を楽しみながら湯浴みができ、15畳サイズの和室にはツインベッドが置かれ、ゆったりと過ごすことができます。",
+        "image": {
+          "height": 796,
+          "sourceUrl": "https://a.mktgcdn.com/p/OSweffXhlLpD8u5a_JwlpQDdhVcBfCkDfUN9X47s-pk/1200x796.jpg",
+          "thumbnails": [
+            {
+              "height": 796,
+              "url": "https://a.mktgcdn.com/p-sandbox/xSm2tnHj6Y5uJYSkR97FKc7f3rbWp-n-aORIXsOJR40/1200x796.jpg",
+              "width": 1200
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/xSm2tnHj6Y5uJYSkR97FKc7f3rbWp-n-aORIXsOJR40/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/xSm2tnHj6Y5uJYSkR97FKc7f3rbWp-n-aORIXsOJR40/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/xSm2tnHj6Y5uJYSkR97FKc7f3rbWp-n-aORIXsOJR40/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xSm2tnHj6Y5uJYSkR97FKc7f3rbWp-n-aORIXsOJR40/1200x796.jpg",
+          "width": 1200
+        },
+        "imageCaption": "女性用の露天風呂。ウッドデッキで入浴の合間にくつろぐことも",
+        "sectionTitle": "大自然の眺望と露天風呂で心身をリフレッシュできる和の旅館"
+      },
+      {
+        "description": "また、客室を女性向けにアレンジした最上階のレディースルームは、ナノミスト加湿器付空気清浄機や窓際にリクライニングチェアとマッサージチェアを設置。日光の山々と大谷川の渓流を眺めながらリフレッシュすることも。15畳の和室とベットルーム(ツイン)、ラウンジの3部屋からなる特別室は、ベッドマットに有名人やトップアスリートが利用しているエアウィーヴを使用。常設のマッサージチェアで心身を解きほぐし、快適な睡眠で心地よい朝を迎えることができます。",
+        "image": {
+          "height": 709,
+          "sourceUrl": "https://a.mktgcdn.com/p/1tOMlgE_IczUqTkIDYFvDoncEWmxZr6Aa050BNC-xIU/1019x709.jpg",
+          "thumbnails": [
+            {
+              "height": 709,
+              "url": "https://a.mktgcdn.com/p-sandbox/zTdAjiR5m-AMk83rOr0Q9w84nVQcPg2oDAnroJ876RA/1019x709.jpg",
+              "width": 1019
+            },
+            {
+              "height": 431,
+              "url": "https://a.mktgcdn.com/p-sandbox/zTdAjiR5m-AMk83rOr0Q9w84nVQcPg2oDAnroJ876RA/619x431.jpg",
+              "width": 619
+            },
+            {
+              "height": 417,
+              "url": "https://a.mktgcdn.com/p-sandbox/zTdAjiR5m-AMk83rOr0Q9w84nVQcPg2oDAnroJ876RA/600x417.jpg",
+              "width": 600
+            },
+            {
+              "height": 136,
+              "url": "https://a.mktgcdn.com/p-sandbox/zTdAjiR5m-AMk83rOr0Q9w84nVQcPg2oDAnroJ876RA/196x136.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zTdAjiR5m-AMk83rOr0Q9w84nVQcPg2oDAnroJ876RA/1019x709.jpg",
+          "width": 1019
+        },
+        "imageCaption": "人気の半露天風呂付和風ツイン。湯船からの景観が美しい",
+        "sectionTitle": "街ブラがさらに楽しくなる、お得なクーポンを活用してみた"
+      },
+      {
+        "description": "「日光千姫物語」は溫泉施設も充実しています。肌にやさしい単純アルカリ泉でゆったり足を伸ばせる大浴場や露天風呂に加え、ジェットバスやミストサウナがあり、女性用には美容効果が期待できるシルキーバスも。男女とも早朝から夜24時まで利用できるので、刻々と変化する美しい景観を眺めながら旅の疲れを癒やしてみてはいかがでしょうか。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/b06zRZT1RvxLCy0SjFleZoZu21SCPKXVrphFVPPGO0Q/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/KHBhMAjPf5V0HhJtwt5oQpuEazoHrho4DDk3hwHHHK8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/KHBhMAjPf5V0HhJtwt5oQpuEazoHrho4DDk3hwHHHK8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/KHBhMAjPf5V0HhJtwt5oQpuEazoHrho4DDk3hwHHHK8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/KHBhMAjPf5V0HhJtwt5oQpuEazoHrho4DDk3hwHHHK8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KHBhMAjPf5V0HhJtwt5oQpuEazoHrho4DDk3hwHHHK8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "テーブル＆チェアとツインベッドを置いてもゆったりした半露天風呂付和風ツイン"
+      },
+      {
+        "description": "夕食は栃木県のブランド牛「とちぎ和牛」や日光名産の「日光湯波」、栃木県産コシヒカリをはじめ、厳選した旬の食材をふんだんに使った懐石膳となります。「日光千姫物語」は、日光東照宮まで徒歩約8分、日光山輪王寺まで徒歩約7分、日光二荒山神社まで徒歩約9分と、二社一寺の世界遺産まで徒歩10分圏内。豪華絢爛な美しさを放ち、荘厳な佇まいを魅せ、宝物や芸術品の数々を目の当たりできるので、「日光千姫物語」を拠点に日光の名所を歩いて巡り、夜は地元産の料理と溫泉でくつろぎの時間を堪能してはいかがでしょうか。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/g2jPFuH_1JDb4h5ybYvly1pZoJ20l_H6jvL-dK7jACw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/g2jPFuH_1JDb4h5ybYvly1pZoJ20l_H6jvL-dK7jACw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/g2jPFuH_1JDb4h5ybYvly1pZoJ20l_H6jvL-dK7jACw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/g2jPFuH_1JDb4h5ybYvly1pZoJ20l_H6jvL-dK7jACw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/g2jPFuH_1JDb4h5ybYvly1pZoJ20l_H6jvL-dK7jACw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/g2jPFuH_1JDb4h5ybYvly1pZoJ20l_H6jvL-dK7jACw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "窓際に設置された特別室のリクライニングチェア。入浴後のひとときをのんびりすごしましょう"
+      },
+      {
+        "description": "今回の旅では、JTBが独自に展開しているサービス「旅の過ごし方＋PLUS」の特典の1つ「マイカップ・マイボトルde旅グルメ」を利用してみました。「マイカップ・マイボトルde旅グルメ」とは、対象の宿泊施設やプランを申し込んだ方が、リユース可能なカップやボトルなどを対象店舗に提示すると、さまざまなグルメサービスが受けられるJTBオリジナルの周遊クーポン。対象の宿泊施設「日光千姫物語」を利用したので、「マイカップ・マイボトル de 旅グルメ 北関東」の中から日光エリアの3店舗を訪れてみました。果たしてどんな特典だったのでしょうか？最初のお店は、創業が明治34年（1901年）の老舗「日光甚五郎煎餅本舗　石田屋」。日光田母沢御用邸に向かう途中にあります。塩バターの風味がくせになる「日光甚五郎煎餅」は人気の煎餅。マイカップを提示すると、日光甚五郎煎餅プチBOX（6枚入り）を無料でいただくことができました。箱入りなので、その場で味わうだけでなくおみやげにもできます。\u003cp style\u003d\"color:#3498DB; font-weight:bold;\"\u003e\u003ca href\u003d\"https://tabisugo.jtb.co.jp/themes/600\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e⇒「マイカップ・マイボトル de 旅グルメ 北関東」の詳細はこちら\u003c/a\u003e\u003c/p\u003e",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/h4VrAr2Zx-FkAenmV8owJcqnCidc3RFBL7MzKizKe_A/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/vQumUrWkgGkzKix-pVgSoyF3gBvq_EPiVS9jktsbYWo/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/vQumUrWkgGkzKix-pVgSoyF3gBvq_EPiVS9jktsbYWo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/vQumUrWkgGkzKix-pVgSoyF3gBvq_EPiVS9jktsbYWo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/vQumUrWkgGkzKix-pVgSoyF3gBvq_EPiVS9jktsbYWo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vQumUrWkgGkzKix-pVgSoyF3gBvq_EPiVS9jktsbYWo/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "広い湯船でゆっくり湯が楽しめる男性用大浴場"
+      },
+      {
+        "description": "次に訪れたのは「三ツ山羊羹本舗」です。こちらでは、みずみずしい舌触りの水羊羹が無料に。持ち帰り用の容器の持参が必要です。二社一寺から東武日光駅に向かうメインストリート沿いにあるので帰りの電車内のおやつにぴったりです。",
+        "image": {
+          "height": 604,
+          "sourceUrl": "https://a.mktgcdn.com/p/2PJ1UnmJjQ2wmE-fr3x8VgfwbhK3wTixj6f3Ra5EmGo/800x604.jpg",
+          "thumbnails": [
+            {
+              "height": 604,
+              "url": "https://a.mktgcdn.com/p-sandbox/vlWGc7PuS64a7ZxDMzRJuy0vX_EgwRXeUCxgCyWoIzQ/800x604.jpg",
+              "width": 800
+            },
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p-sandbox/vlWGc7PuS64a7ZxDMzRJuy0vX_EgwRXeUCxgCyWoIzQ/619x467.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/vlWGc7PuS64a7ZxDMzRJuy0vX_EgwRXeUCxgCyWoIzQ/596x450.jpg",
+              "width": 596
+            },
+            {
+              "height": 148,
+              "url": "https://a.mktgcdn.com/p-sandbox/vlWGc7PuS64a7ZxDMzRJuy0vX_EgwRXeUCxgCyWoIzQ/196x148.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vlWGc7PuS64a7ZxDMzRJuy0vX_EgwRXeUCxgCyWoIzQ/800x604.jpg",
+          "width": 800
+        },
+        "imageCaption": "気泡や湯の噴出が心地よいジェットバス"
+      },
+      {
+        "description": "最後は「元祖 海老屋長造」で、袋入りの日光湯波せんべいを無料でいただきました。なんとも言えない食感でくせになります。さしみ湯波や揚巻湯波など、厳選された国産大豆と日光のおいしい水を原料にした日光湯波の商品が揃っているのでおみやげとしてチェックしてみましょう。以上が、1泊２日で訪れた日光世界遺産を満喫する旅でした。次回は足を延ばして鬼怒川や奥日光にも行ってみたいです。",
+        "image": {
+          "height": 833,
+          "sourceUrl": "https://a.mktgcdn.com/p/M82L4d_WjgAo_izXdR8qY-aWu97k5h95Wdlgx_7HnQI/1200x833.jpg",
+          "thumbnails": [
+            {
+              "height": 833,
+              "url": "https://a.mktgcdn.com/p-sandbox/M82L4d_WjgAo_izXdR8qY-aWu97k5h95Wdlgx_7HnQI/1200x833.jpg",
+              "width": 1200
+            },
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/M82L4d_WjgAo_izXdR8qY-aWu97k5h95Wdlgx_7HnQI/619x430.jpg",
+              "width": 619
+            },
+            {
+              "height": 417,
+              "url": "https://a.mktgcdn.com/p-sandbox/M82L4d_WjgAo_izXdR8qY-aWu97k5h95Wdlgx_7HnQI/600x417.jpg",
+              "width": 600
+            },
+            {
+              "height": 136,
+              "url": "https://a.mktgcdn.com/p-sandbox/M82L4d_WjgAo_izXdR8qY-aWu97k5h95Wdlgx_7HnQI/196x136.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/M82L4d_WjgAo_izXdR8qY-aWu97k5h95Wdlgx_7HnQI/1200x833.jpg",
+          "width": 1200
+        },
+        "imageCaption": "季節替りの懐石膳「千姫御膳」（イメージ）"
+      },
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/Weavuj228bHo9ngg6aEKkfl-5owY55eHMcEliZBJXLw/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/X1eL_w5tRwkD6mud6xwSgb8-0Wk5NquW4cSX10pAPKM/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/X1eL_w5tRwkD6mud6xwSgb8-0Wk5NquW4cSX10pAPKM/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/X1eL_w5tRwkD6mud6xwSgb8-0Wk5NquW4cSX10pAPKM/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/X1eL_w5tRwkD6mud6xwSgb8-0Wk5NquW4cSX10pAPKM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/X1eL_w5tRwkD6mud6xwSgb8-0Wk5NquW4cSX10pAPKM/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "煎餅などの和菓子だけでなく、こだわり製法のチョコ菓子も人気"
+      },
+      {
+        "image": {
+          "height": 1600,
+          "sourceUrl": "https://a.mktgcdn.com/p/Z-N55MR8_ec7ZfrKki5MAGdQx8c0xqspyrdZz-W7PKg/1200x1600.jpg",
+          "thumbnails": [
+            {
+              "height": 1600,
+              "url": "https://a.mktgcdn.com/p-sandbox/fmgRe0SCLd4Zi-tGA8Ql8zUhjLaCSSGy7V--NXD6dKE/1200x1600.jpg",
+              "width": 1200
+            },
+            {
+              "height": 825,
+              "url": "https://a.mktgcdn.com/p-sandbox/fmgRe0SCLd4Zi-tGA8Ql8zUhjLaCSSGy7V--NXD6dKE/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/fmgRe0SCLd4Zi-tGA8Ql8zUhjLaCSSGy7V--NXD6dKE/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/fmgRe0SCLd4Zi-tGA8Ql8zUhjLaCSSGy7V--NXD6dKE/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fmgRe0SCLd4Zi-tGA8Ql8zUhjLaCSSGy7V--NXD6dKE/1200x1600.jpg",
+          "width": 1200
+        },
+        "imageCaption": "明治28年（1895年）創業の老舗で人気の銘菓をいただこう"
+      },
+      {
+        "image": {
+          "height": 1600,
+          "sourceUrl": "https://a.mktgcdn.com/p/q9DbDZTJTL6MqZnP25Nfi1T8JJIVb3pW7afbA2crVaM/1200x1600.jpg",
+          "thumbnails": [
+            {
+              "height": 1600,
+              "url": "https://a.mktgcdn.com/p-sandbox/7ON-rwn-4u1GGXnVv5pqrRjtV7HOe_EGE2lE4n9LMsc/1200x1600.jpg",
+              "width": 1200
+            },
+            {
+              "height": 825,
+              "url": "https://a.mktgcdn.com/p-sandbox/7ON-rwn-4u1GGXnVv5pqrRjtV7HOe_EGE2lE4n9LMsc/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/7ON-rwn-4u1GGXnVv5pqrRjtV7HOe_EGE2lE4n9LMsc/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/7ON-rwn-4u1GGXnVv5pqrRjtV7HOe_EGE2lE4n9LMsc/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7ON-rwn-4u1GGXnVv5pqrRjtV7HOe_EGE2lE4n9LMsc/1200x1600.jpg",
+          "width": 1200
+        },
+        "imageCaption": "日光の名産品、湯波を使った一品"
+      }
+    ],
+    "c_ap_DatePosted": "2024-02-16",
+    "c_ap_HeroImage": {
+      "height": 900,
+      "sourceUrl": "https://a.mktgcdn.com/p/UeR1Nuz6N5NKMGL1pdDSUETebjsw9wwSiXqY90PVS9c/1200x900.jpg",
+      "thumbnails": [
+        {
+          "height": 900,
+          "url": "https://a.mktgcdn.com/p-sandbox/N1p_gQdhDLUbzRf9pac9z0lT_qx8T4RkMuHYnuPeJZg/1200x900.jpg",
+          "width": 1200
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/N1p_gQdhDLUbzRf9pac9z0lT_qx8T4RkMuHYnuPeJZg/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/N1p_gQdhDLUbzRf9pac9z0lT_qx8T4RkMuHYnuPeJZg/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/N1p_gQdhDLUbzRf9pac9z0lT_qx8T4RkMuHYnuPeJZg/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/N1p_gQdhDLUbzRf9pac9z0lT_qx8T4RkMuHYnuPeJZg/1200x900.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "世界遺産まで徒歩圏の好立地に建つ「日光千姫物語」の外観",
+    "c_ap_LinkArticleSectionTitle": "栃木県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "栃木旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/tochigi/"
+      },
+      {
+        "linkText": "栃木県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/tochigi/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "関東全般",
+      "栃木県"
+    ],
+    "c_ap_ShortDescription": "東京から日光までは電車で約2時間。徳川家康が祀られている日光東照宮、日光山輪王寺、日光二荒山神社の103棟（国宝９棟、重要文化財94棟）を合わせた建造物群と遺跡（文化的景観）は「日光の社寺」として世界遺産に登録され、豪華絢爛な美しさと歴史的な価値で\n国内外からの観光客を魅了しています。\n\nそこで今回は、車移動での混雑を避けるために世界遺産の二社一寺へ歩いて訪れることができる「日光千姫物語」に宿泊。世界遺産巡りを楽しむだけでなく、街中を散策しながらJTBオリジナルプラン「旅の過ごし方＋PLUS」の特典を利用して地元グルメを無料で味わってみたのでご紹介します。\n世界遺産で知られる日光の新しい旅の楽しみ方として参考にしてください！",
+    "c_ap_Tags": [
+      "日光",
+      "鬼怒川",
+      "純和風",
+      "美肌の湯",
+      "和モダン",
+      "露天風呂"
+    ],
+    "c_ap_Theme": [
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "世界遺産「日光の社寺」を歩いて巡れる宿に泊まり、お得な街ブラ体験も【栃木県　日光千姫物語】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "東京から日光までは電車で約2時間。徳川家康が祀られている日光東照宮、日光山輪王寺、日光二荒山神社の103棟（国宝９棟、重要文化財94棟）を合わせた建造物群と遺跡（文化的景観）は「日光の社寺」として世界遺産に登…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "世界遺産「日光の社寺」を歩いて巡れる宿に泊まり、お得な街ブラ体験も【栃木県　日光千姫物語】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_remoteconcierge_00007",
+    "name": "世界遺産「日光の社寺」を歩いて巡れる宿に泊まり、お得な街ブラ体験も【栃木県　日光千姫物語】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

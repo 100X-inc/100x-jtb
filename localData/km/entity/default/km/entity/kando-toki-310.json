@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-310",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/310_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d35.150282%2C138.980829",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "静岡県",
+    "c_searchTags": [
+      "静岡県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "冬",
+      "建物・景観"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "全長400mと歩行者専用吊橋としては日本一を誇る三島スカイウォーク。この橋から見える景色もまた、日本一。長い橋を渡りながら見ることができるのは、「日本一の高さを誇る富士山」と「日本一の深さを誇る駿河湾」。静岡が誇る大パノラマの絶景の中、三つの「日本一」を同時に味わえるのが三島スカイウォークの魅力。日が短くなる冬の時期、11月～1月頃には橋の歩行可能時間帯内に夕暮れを迎えることができるため、駿河湾に沈んでいく美しい夕日の絶景を満喫できます。暮れゆく光に照らされる伊豆の山並みと富士山、そして夕日に輝く駿河湾までもが贅沢に一望できるため、冬の夕暮れ時はおすすめです。橋を渡った向こう側にある北エリアには展望デッキも設置されているので、こちらでは足を休めつつ、ゆったりと落ちついて景色を楽しめます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/310.asp",
+    "name": "日本一を架ける橋　三島スカイウォーク"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

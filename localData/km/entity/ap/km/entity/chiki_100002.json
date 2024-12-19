@@ -1,0 +1,457 @@
+{
+  "$id": "ap_chiki_100002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター 諸 さつき",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "「The Magic of Halloween 2021」をテーマに秋の味覚をふんだんに盛り込んだアフタヌーンティーがお部屋で楽しめる贅沢なプラン。プライベート感を重視する方や周りを気にせずたくさん写真を撮りたい方にとってもおすすめです。アフタヌーンティーを楽しんだあとは思い思いの時間をお過ごしください。もっと気軽に楽しみたい方には、最大13時間の滞在が可能なデイユースプランもおすすめです。",
+        "image": {
+          "height": 1000,
+          "sourceUrl": "https://a.mktgcdn.com/p/HrvehZrZBzL3esSBAHmnTGRUFJTFFY1wprVdd1fCBKI/1500x1000.jpg",
+          "thumbnails": [
+            {
+              "height": 1000,
+              "url": "https://a.mktgcdn.com/p-sandbox/HrvehZrZBzL3esSBAHmnTGRUFJTFFY1wprVdd1fCBKI/1500x1000.jpg",
+              "width": 1500
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/HrvehZrZBzL3esSBAHmnTGRUFJTFFY1wprVdd1fCBKI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/HrvehZrZBzL3esSBAHmnTGRUFJTFFY1wprVdd1fCBKI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/HrvehZrZBzL3esSBAHmnTGRUFJTFFY1wprVdd1fCBKI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HrvehZrZBzL3esSBAHmnTGRUFJTFFY1wprVdd1fCBKI/1500x1000.jpg",
+          "width": 1500
+        },
+        "imageCaption": "アフタヌーンティー（イメージ）",
+        "sectionTitle": "①お部屋で楽しめる♡「Afternoon Tea ～The Magic of Halloween 2021～」付き宿泊プラン"
+      },
+      {
+        "description": "約10種類のスイーツ中には、今話題のマリトッツォも。秋を感じる栗をベースにした、ラム酒が香る大人の味でした。そして個人的MVPは「ピスタチオのざくざくクッキーシュークリーム」！ピスタチオ好きにはたまりません。",
+        "image": {
+          "height": 2129,
+          "sourceUrl": "https://a.mktgcdn.com/p/QYpbkDXA6w_kBAGUNg6mQc2C9HGVnHsp7rH7pAVZuxQ/3236x2129.jpg",
+          "thumbnails": [
+            {
+              "height": 2129,
+              "url": "https://a.mktgcdn.com/p-sandbox/xU16RJAp6OdHaIMeApVBihoupWIXFJaRPKtBdadlylI/3236x2129.jpg",
+              "width": 3236
+            },
+            {
+              "height": 1250,
+              "url": "https://a.mktgcdn.com/p-sandbox/xU16RJAp6OdHaIMeApVBihoupWIXFJaRPKtBdadlylI/1900x1250.jpg",
+              "width": 1900
+            },
+            {
+              "height": 407,
+              "url": "https://a.mktgcdn.com/p-sandbox/xU16RJAp6OdHaIMeApVBihoupWIXFJaRPKtBdadlylI/619x407.jpg",
+              "width": 619
+            },
+            {
+              "height": 395,
+              "url": "https://a.mktgcdn.com/p-sandbox/xU16RJAp6OdHaIMeApVBihoupWIXFJaRPKtBdadlylI/600x395.jpg",
+              "width": 600
+            },
+            {
+              "height": 129,
+              "url": "https://a.mktgcdn.com/p-sandbox/xU16RJAp6OdHaIMeApVBihoupWIXFJaRPKtBdadlylI/196x129.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xU16RJAp6OdHaIMeApVBihoupWIXFJaRPKtBdadlylI/3236x2129.jpg",
+          "width": 3236
+        },
+        "imageCaption": "トレンドスイーツ「マリトッツォ」、ディルマ紅茶のt-シリーズなど",
+        "sectionTitle": "②泊まって満喫♪ハロウィーンルーム宿泊プラン"
+      },
+      {
+        "description": "アフタヌーンティーを堪能したあとはお部屋でまったり。ホテルではDVDプレイヤーの貸し出しもあるので、お部屋で映画鑑賞もいいですね。1名からご予約可能なので、頑張った自分へのご褒美にもぴったり！",
+        "image": {
+          "height": 2343,
+          "sourceUrl": "https://a.mktgcdn.com/p/lqKxQDkvDS05ssAH93Hc9Y7Y3SNDbpooYDnLIgTZfpQ/2953x2343.jpg",
+          "thumbnails": [
+            {
+              "height": 2343,
+              "url": "https://a.mktgcdn.com/p-sandbox/Cpuff1xn9VeeNRnG-lA-HEWU6ODFCrOnGDa2dfMTXvE/2953x2343.jpg",
+              "width": 2953
+            },
+            {
+              "height": 1508,
+              "url": "https://a.mktgcdn.com/p-sandbox/Cpuff1xn9VeeNRnG-lA-HEWU6ODFCrOnGDa2dfMTXvE/1900x1508.jpg",
+              "width": 1900
+            },
+            {
+              "height": 491,
+              "url": "https://a.mktgcdn.com/p-sandbox/Cpuff1xn9VeeNRnG-lA-HEWU6ODFCrOnGDa2dfMTXvE/619x491.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Cpuff1xn9VeeNRnG-lA-HEWU6ODFCrOnGDa2dfMTXvE/567x450.jpg",
+              "width": 567
+            },
+            {
+              "height": 156,
+              "url": "https://a.mktgcdn.com/p-sandbox/Cpuff1xn9VeeNRnG-lA-HEWU6ODFCrOnGDa2dfMTXvE/196x156.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Cpuff1xn9VeeNRnG-lA-HEWU6ODFCrOnGDa2dfMTXvE/2953x2343.jpg",
+          "width": 2953
+        },
+        "imageCaption": "可愛くて美味しいスイーツに楽しいおしゃべり...控えめに言って最高！",
+        "sectionTitle": "③暗号を集めてお菓子をゲット！魔女のキーワードラリー"
+      },
+      {
+        "description": "期間限定でハロウィーン仕様になったスペシャルルーム。ハロウィーンカラーのガーランドやベッドの上に飾られたアートパネル、お部屋の真ん中に佇むシックなオブジェなど写真映えするアイテムが盛りだくさん！お部屋で仮装して写真撮影を楽しむのもいいですね。",
+        "image": {
+          "height": 1000,
+          "sourceUrl": "https://a.mktgcdn.com/p/3b5c8vZhSzbA7BoIAvQw23EXkBM2JlDfDExDzDVvLtM/1500x1000.jpg",
+          "thumbnails": [
+            {
+              "height": 1000,
+              "url": "https://a.mktgcdn.com/p-sandbox/3b5c8vZhSzbA7BoIAvQw23EXkBM2JlDfDExDzDVvLtM/1500x1000.jpg",
+              "width": 1500
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/3b5c8vZhSzbA7BoIAvQw23EXkBM2JlDfDExDzDVvLtM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/3b5c8vZhSzbA7BoIAvQw23EXkBM2JlDfDExDzDVvLtM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/3b5c8vZhSzbA7BoIAvQw23EXkBM2JlDfDExDzDVvLtM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3b5c8vZhSzbA7BoIAvQw23EXkBM2JlDfDExDzDVvLtM/1500x1000.jpg",
+          "width": 1500
+        },
+        "imageCaption": "ハロウィーンルーム",
+        "sectionTitle": "GBAC STAR™認証を取得したホテルオークラ東京ベイで安心のホテルステイを"
+      },
+      {
+        "description": "「TRICK OR TREAT?」の可愛いリースがお出迎え。ハロウィーンスイーツ付きなのも嬉しいポイントです。スイーツが入ったかぼちゃ型の陶器はお持ち帰りOKなので、旅の想い出にもぴったり。オーシャンビューの眺めも最高でした。",
+        "image": {
+          "height": 1818,
+          "sourceUrl": "https://a.mktgcdn.com/p/y6tI1NsDi_zmxl53doljMG6HMUhnX4H99ztMJVggN2o/3732x1818.jpg",
+          "thumbnails": [
+            {
+              "height": 1818,
+              "url": "https://a.mktgcdn.com/p-sandbox/r7-tXvoF3bMqs2KIbhzhECBu4bo1_D9fFg5UJtBSPOQ/3732x1818.jpg",
+              "width": 3732
+            },
+            {
+              "height": 926,
+              "url": "https://a.mktgcdn.com/p-sandbox/r7-tXvoF3bMqs2KIbhzhECBu4bo1_D9fFg5UJtBSPOQ/1900x926.jpg",
+              "width": 1900
+            },
+            {
+              "height": 302,
+              "url": "https://a.mktgcdn.com/p-sandbox/r7-tXvoF3bMqs2KIbhzhECBu4bo1_D9fFg5UJtBSPOQ/619x302.jpg",
+              "width": 619
+            },
+            {
+              "height": 292,
+              "url": "https://a.mktgcdn.com/p-sandbox/r7-tXvoF3bMqs2KIbhzhECBu4bo1_D9fFg5UJtBSPOQ/600x292.jpg",
+              "width": 600
+            },
+            {
+              "height": 95,
+              "url": "https://a.mktgcdn.com/p-sandbox/r7-tXvoF3bMqs2KIbhzhECBu4bo1_D9fFg5UJtBSPOQ/196x95.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/r7-tXvoF3bMqs2KIbhzhECBu4bo1_D9fFg5UJtBSPOQ/3732x1818.jpg",
+          "width": 3732
+        },
+        "imageCaption": "ハロウィーンルーム（スイーツ・眺望）"
+      },
+      {
+        "description": "魔女がいたずらで、お菓子がもらえる暗号を隠しちゃった！4つの暗号から導き出したキーワードをホテルスタッフに伝えるとお菓子がもらえるイベントをホテル館内1階で開催中。小学生までのお子様が対象なのですが、今回特別に参加させていただきました。",
+        "image": {
+          "height": 3456,
+          "sourceUrl": "https://a.mktgcdn.com/p/-C-DUNK_cuXs-AbpveVmlSqHXpEE_LFBsWY6x1IBMvg/5184x3456.jpg",
+          "thumbnails": [
+            {
+              "height": 3456,
+              "url": "https://a.mktgcdn.com/p-sandbox/mG4X8MHF70H81BEuYX5pnFLgsQe5SqpQt2DeMdVDQas/5184x3456.jpg",
+              "width": 5184
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/mG4X8MHF70H81BEuYX5pnFLgsQe5SqpQt2DeMdVDQas/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/mG4X8MHF70H81BEuYX5pnFLgsQe5SqpQt2DeMdVDQas/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/mG4X8MHF70H81BEuYX5pnFLgsQe5SqpQt2DeMdVDQas/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/mG4X8MHF70H81BEuYX5pnFLgsQe5SqpQt2DeMdVDQas/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/mG4X8MHF70H81BEuYX5pnFLgsQe5SqpQt2DeMdVDQas/5184x3456.jpg",
+          "width": 5184
+        },
+        "imageCaption": "仕事から解放されるひととき･･･"
+      },
+      {
+        "description": "想像以上に難易度高めでしたが、無事4つの暗号を集めてお菓子をゲットすることができました。どんなお菓子がもらえるかはやってみてのお楽しみ....♡",
+        "image": {
+          "height": 2548,
+          "sourceUrl": "https://a.mktgcdn.com/p/QqGfMnVnD9ETM0Pm3s8g8bJ4TWzgJiall0xUFBQkWSM/3481x2548.jpg",
+          "thumbnails": [
+            {
+              "height": 2548,
+              "url": "https://a.mktgcdn.com/p-sandbox/QqGfMnVnD9ETM0Pm3s8g8bJ4TWzgJiall0xUFBQkWSM/3481x2548.jpg",
+              "width": 3481
+            },
+            {
+              "height": 1391,
+              "url": "https://a.mktgcdn.com/p-sandbox/QqGfMnVnD9ETM0Pm3s8g8bJ4TWzgJiall0xUFBQkWSM/1900x1391.jpg",
+              "width": 1900
+            },
+            {
+              "height": 453,
+              "url": "https://a.mktgcdn.com/p-sandbox/QqGfMnVnD9ETM0Pm3s8g8bJ4TWzgJiall0xUFBQkWSM/619x453.jpg",
+              "width": 619
+            },
+            {
+              "height": 439,
+              "url": "https://a.mktgcdn.com/p-sandbox/QqGfMnVnD9ETM0Pm3s8g8bJ4TWzgJiall0xUFBQkWSM/600x439.jpg",
+              "width": 600
+            },
+            {
+              "height": 143,
+              "url": "https://a.mktgcdn.com/p-sandbox/QqGfMnVnD9ETM0Pm3s8g8bJ4TWzgJiall0xUFBQkWSM/196x143.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QqGfMnVnD9ETM0Pm3s8g8bJ4TWzgJiall0xUFBQkWSM/3481x2548.jpg",
+          "width": 3481
+        },
+        "imageCaption": "やるからには本気で探すぞー！"
+      },
+      {
+        "description": "いかがでしたでしょうか。ホテルオークラ東京ベイではハロウィーン以外にも季節に合わせた様々なイベントをご用意しています。季節ごとに足を運んでいただければまた違った楽しみ方がみなさまをお待ちしています。また、ホテルオークラ東京ベイでは、感染症予防対策において国際的な衛生基準を満たした施設であることを証明する、GBAC STAR Facility Accreditationを2021年6月1日に取得しており、安心安全なホテルステイをお約束いたします。----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "image": {
+          "height": 1108,
+          "sourceUrl": "https://a.mktgcdn.com/p/dBZa5ilthLNHbh7g33qZbmxBpncq_JuPVTT2VKKp8s8/1478x1108.jpg",
+          "thumbnails": [
+            {
+              "height": 1108,
+              "url": "https://a.mktgcdn.com/p-sandbox/dBZa5ilthLNHbh7g33qZbmxBpncq_JuPVTT2VKKp8s8/1478x1108.jpg",
+              "width": 1478
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/dBZa5ilthLNHbh7g33qZbmxBpncq_JuPVTT2VKKp8s8/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dBZa5ilthLNHbh7g33qZbmxBpncq_JuPVTT2VKKp8s8/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/dBZa5ilthLNHbh7g33qZbmxBpncq_JuPVTT2VKKp8s8/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dBZa5ilthLNHbh7g33qZbmxBpncq_JuPVTT2VKKp8s8/1478x1108.jpg",
+          "width": 1478
+        },
+        "imageCaption": "QRコードを発見！"
+      },
+      {
+        "image": {
+          "height": 276,
+          "sourceUrl": "https://a.mktgcdn.com/p/2YCVSI25H9lVtkyHyR9qFqMDaa-eCnqh7fjygcjiUU4/978x276.jpg",
+          "thumbnails": [
+            {
+              "height": 276,
+              "url": "https://a.mktgcdn.com/p-sandbox/bvf05LYxrfpVWAmvrRngcPRGhsZaV3oaRm0RnVlfryk/978x276.jpg",
+              "width": 978
+            },
+            {
+              "height": 175,
+              "url": "https://a.mktgcdn.com/p-sandbox/bvf05LYxrfpVWAmvrRngcPRGhsZaV3oaRm0RnVlfryk/619x175.jpg",
+              "width": 619
+            },
+            {
+              "height": 169,
+              "url": "https://a.mktgcdn.com/p-sandbox/bvf05LYxrfpVWAmvrRngcPRGhsZaV3oaRm0RnVlfryk/600x169.jpg",
+              "width": 600
+            },
+            {
+              "height": 55,
+              "url": "https://a.mktgcdn.com/p-sandbox/bvf05LYxrfpVWAmvrRngcPRGhsZaV3oaRm0RnVlfryk/196x55.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bvf05LYxrfpVWAmvrRngcPRGhsZaV3oaRm0RnVlfryk/978x276.jpg",
+          "width": 978
+        },
+        "imageCaption": "GBAC STAR™認証を取得"
+      }
+    ],
+    "c_ap_DatePosted": "2021-09-27",
+    "c_ap_HeroImage": {
+      "alternateText": "ホテルオークラ東京ベイでハロウィーンの世界観に浸る！～仕入担当者の体験記～【千葉県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 2204,
+      "sourceUrl": "https://a.mktgcdn.com/p/OO39Klgvjb2Fy3YniAqFk0aGLf70nH21aosm9E35_Lc/3306x2204.jpg",
+      "thumbnails": [
+        {
+          "height": 2204,
+          "url": "https://a.mktgcdn.com/p-sandbox/Hma2L8R6weV5OBKIrk07mFhzSli_BVt3TO9vR7RrqmM/3306x2204.jpg",
+          "width": 3306
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/Hma2L8R6weV5OBKIrk07mFhzSli_BVt3TO9vR7RrqmM/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/Hma2L8R6weV5OBKIrk07mFhzSli_BVt3TO9vR7RrqmM/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/Hma2L8R6weV5OBKIrk07mFhzSli_BVt3TO9vR7RrqmM/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/Hma2L8R6weV5OBKIrk07mFhzSli_BVt3TO9vR7RrqmM/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Hma2L8R6weV5OBKIrk07mFhzSli_BVt3TO9vR7RrqmM/3306x2204.jpg",
+      "width": 3306
+    },
+    "c_ap_LinkArticleSectionTitle": "千葉県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ホテルオークラ東京ベイの宿泊プランはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/4296004/plan/?hotellistsort\u003drecommend\u0026staynight\u003d1\u0026room\u003d1\u0026roomassign\u003dm0f0a0b0c0d0\u0026mapdisp\u003d0\u0026planinfokeywordon\u003d0\u0026tyfilteron\u003d1\u0026hotelkeyword\u003d%E3%83%9B%E3%83%86%E3%83%AB%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%A9%E6%9D%B1%E4%BA%AC%E3%83%99%E3%82%A4\u0026planinfokeyword\u003d%E3%83%9B%E3%83%86%E3%83%AB%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%A9%E6%9D%B1%E4%BA%AC%E3%83%99%E3%82%A4%E3%80%801%E3%83%87%E3%83%BC%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88\u0026temproomassign\u003d0"
+      },
+      {
+        "linkText": "舞浜・新浦安の宿泊プランはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/120105/?planinfokeyword\u003d\u0026area\u003d\u0026godate\u003d\u0026staynight\u003d\u0026roomassign\u003d\u0026room\u003d\u0026roomstyle\u003d\u0026mealtype\u003d\u0026kodawari\u003d\u0026stayplacedisplay\u003d%E6%9D%B1%E4%BA%AC%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%EF%BC%88R%29"
+      },
+      {
+        "linkText": "東京ディズニーリゾート🄬提携ホテル特集はこちら",
+        "uRL": "https://www.jtb.co.jp/tdr/"
+      },
+      {
+        "linkText": "東京ディズニーリゾート®その他提携ホテル　パークチケット確約プランはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/feature/tdr_ticket02/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "千葉県"
+    ],
+    "c_ap_ShortDescription": "秋の代表的なイベントといえばハロウィーン。東京ディズニーリゾート®️・オフィシャルホテルのホテルオークラ東京ベイでは、2021年10月31日（日）までハロウィーンを楽しむ様々なイベントを開催しています。今回は、実際に仕入担当者がホテルオークラ東京ベイにお邪魔してハロウィーンの魔法を体験してきました！お部屋で楽しめるアフタヌーンティーや写真映え間違いなしのハロウィーンルーム、館内イベントなどどれもハロウィーン感満載！期間限定なので、この機会にぜひみなさんも体験してみてくださいね。",
+    "c_ap_Tags": [
+      "ハロウィーン",
+      "スイーツ",
+      "期間限定"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "グループ",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "ホテルオークラ東京ベイでハロウィーンの世界観に浸る！～仕入担当者の体験記～【千葉県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "秋の代表的なイベントといえばハロウィーン。東京ディズニーリゾート®️・オフィシャルホテルのホテルオークラ東京ベイでは、2021年10月31日（日）までハロウィーンを楽しむ様々なイベントを開催しています。今回は…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "ホテルオークラ東京ベイでハロウィーンの世界観に浸る！～仕入担当者の体験記～【千葉県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100002",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "千葉県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "ホテルオークラ東京ベイでハロウィーンの世界観に浸る！【千葉県】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

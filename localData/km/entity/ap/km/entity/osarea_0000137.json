@@ -1,0 +1,351 @@
+{
+  "$id": "ap_osarea_0000137",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "グアムの豊かな自然を残したいという思いから始まったナチュラルコスメのお店です。ナチュラルソープや基礎化粧品など、植物性成分を使用したヴィーガンのコスメアイテムが揃っています。ゴミゼロを目指すため、多くのアイテムはリフィル販売。ボトルを持参して、必要な分を購入するスタイルです。マイボトルを持参して、環境にやさしいコスメを試してみてはいかがでしょうか。NUMA’LO zero waste refilleryDATA住所：Chamorro Village,unit 142・143営業時間：11～19時（水曜は～20時、土・日曜は～17時）定休日：月曜",
+        "image": {
+          "alternateText": "グアムの環境に意識を向ける人たちが通う",
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/DLer5F8cdEEiEmlKuZJ4r_5_MfmYGMRegn7Hoq2w9Qc/900x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/sKtwWYpK1DGwg2BcprPKwVMVjKyzW8G_ByAx2sDnml4/900x600.jpg",
+              "width": 900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/sKtwWYpK1DGwg2BcprPKwVMVjKyzW8G_ByAx2sDnml4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/sKtwWYpK1DGwg2BcprPKwVMVjKyzW8G_ByAx2sDnml4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/sKtwWYpK1DGwg2BcprPKwVMVjKyzW8G_ByAx2sDnml4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sKtwWYpK1DGwg2BcprPKwVMVjKyzW8G_ByAx2sDnml4/900x600.jpg",
+          "width": 900
+        },
+        "imageCaption": "グアムの環境に意識を向ける人たちが通う",
+        "sectionTitle": "ヌマロ・ゼロ・ウェスト・リフィルレリー（NUMA’LO zero waste refillery）"
+      },
+      {
+        "description": "ちょっとユニークなおみやげなら、グアム在住のアーティストが手がけるお店へ。貝を使ったオリジナルのアクセサリーを販売するほか、ローカルアーティストたちの作品が店頭に並びます。人気商品は、ココバードや野生の豚、イルカなど、グアムに生息する動物たちをモチーフとした木製の3Dパズル。完成したあとは、インテリアとしてお部屋に飾って。",
+        "image": {
+          "alternateText": "カメをかたどったピアス＄18.75と3Dパズル各＄22～",
+          "height": 2744,
+          "sourceUrl": "https://a.mktgcdn.com/p/obYuMJk0AzzEW5qCZi6273YiBS_egSp4SFNLp5Lmcvs/4182x2744.jpg",
+          "thumbnails": [
+            {
+              "height": 2744,
+              "url": "https://a.mktgcdn.com/p-sandbox/HhmuHyn1NlK2yUUlNXWN86ExQ-ZFgpZdFFBh1ANJgkU/4182x2744.jpg",
+              "width": 4182
+            },
+            {
+              "height": 1247,
+              "url": "https://a.mktgcdn.com/p-sandbox/HhmuHyn1NlK2yUUlNXWN86ExQ-ZFgpZdFFBh1ANJgkU/1900x1247.jpg",
+              "width": 1900
+            },
+            {
+              "height": 406,
+              "url": "https://a.mktgcdn.com/p-sandbox/HhmuHyn1NlK2yUUlNXWN86ExQ-ZFgpZdFFBh1ANJgkU/619x406.jpg",
+              "width": 619
+            },
+            {
+              "height": 394,
+              "url": "https://a.mktgcdn.com/p-sandbox/HhmuHyn1NlK2yUUlNXWN86ExQ-ZFgpZdFFBh1ANJgkU/600x394.jpg",
+              "width": 600
+            },
+            {
+              "height": 129,
+              "url": "https://a.mktgcdn.com/p-sandbox/HhmuHyn1NlK2yUUlNXWN86ExQ-ZFgpZdFFBh1ANJgkU/196x129.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HhmuHyn1NlK2yUUlNXWN86ExQ-ZFgpZdFFBh1ANJgkU/4182x2744.jpg",
+          "width": 4182
+        },
+        "imageCaption": "カメをかたどったピアス＄18.75と3Dパズル各＄22～",
+        "sectionTitle": "グイナハン・チャモル・ギフト・ショップ（Guinahan CHamoru Gift Shop）"
+      },
+      {
+        "description": "Guinahan CHamoru Gift ShopDATA住所：Ipao., 14B営業時間：11時30分～日没定休日：月～木曜",
+        "image": {
+          "alternateText": "グアムのアーティストの作品が集まる",
+          "height": 1000,
+          "sourceUrl": "https://a.mktgcdn.com/p/b5c3d8Zf1NJjnVl3SipZB3HhbYA2DetY0-FkIP4srkU/1500x1000.jpg",
+          "thumbnails": [
+            {
+              "height": 1000,
+              "url": "https://a.mktgcdn.com/p-sandbox/HCpcafj6OeTcgcPC6XjDJc0QGehKKCEPqknwsnnp8KM/1500x1000.jpg",
+              "width": 1500
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/HCpcafj6OeTcgcPC6XjDJc0QGehKKCEPqknwsnnp8KM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/HCpcafj6OeTcgcPC6XjDJc0QGehKKCEPqknwsnnp8KM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/HCpcafj6OeTcgcPC6XjDJc0QGehKKCEPqknwsnnp8KM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HCpcafj6OeTcgcPC6XjDJc0QGehKKCEPqknwsnnp8KM/1500x1000.jpg",
+          "width": 1500
+        },
+        "imageCaption": "グアムのアーティストの作品が集まる",
+        "sectionTitle": "ココナッツ・ツリー・カンパニー（Coconut Tree Company）"
+      },
+      {
+        "description": "グルメみやげなら、グアムで古くから親しまれている伝統スイーツで決まり。ココナッツキャンディは、ココナッツの果肉を使ったチャモロ料理です。「ココナッツ・ツリー・カンパニー」では、オーナー一家に代々伝わるレシピでココナッツキャンディを製造しています。フレーバーは定番のトラディショナル、チョコレート、マンゴーの3種類あり、食べ比べがおすすめです。Coconut Tree CompanyDATA住所：Ste 104 T.S Tanaka BLDG, 4営業時間：9～16時定休日：日・月曜",
+        "image": {
+          "alternateText": "レクタングルティン＄12.80は12個入り",
+          "height": 1711,
+          "sourceUrl": "https://a.mktgcdn.com/p/YXnF76EKZz14a1e5udcoH-JeEqpYF0TYYgK3Qo-LbxI/3808x1711.jpg",
+          "thumbnails": [
+            {
+              "height": 1711,
+              "url": "https://a.mktgcdn.com/p-sandbox/4kTUDuEa3-4LKDio0NDf8lqBCb7rdaB3-jhK5L1ieu8/3808x1711.jpg",
+              "width": 3808
+            },
+            {
+              "height": 854,
+              "url": "https://a.mktgcdn.com/p-sandbox/4kTUDuEa3-4LKDio0NDf8lqBCb7rdaB3-jhK5L1ieu8/1900x854.jpg",
+              "width": 1900
+            },
+            {
+              "height": 278,
+              "url": "https://a.mktgcdn.com/p-sandbox/4kTUDuEa3-4LKDio0NDf8lqBCb7rdaB3-jhK5L1ieu8/619x278.jpg",
+              "width": 619
+            },
+            {
+              "height": 270,
+              "url": "https://a.mktgcdn.com/p-sandbox/4kTUDuEa3-4LKDio0NDf8lqBCb7rdaB3-jhK5L1ieu8/600x270.jpg",
+              "width": 600
+            },
+            {
+              "height": 88,
+              "url": "https://a.mktgcdn.com/p-sandbox/4kTUDuEa3-4LKDio0NDf8lqBCb7rdaB3-jhK5L1ieu8/196x88.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4kTUDuEa3-4LKDio0NDf8lqBCb7rdaB3-jhK5L1ieu8/3808x1711.jpg",
+          "width": 3808
+        },
+        "imageCaption": "レクタングルティン＄12.80は12個入り",
+        "sectionTitle": "シュガークッキー（Sugar Cookie）"
+      },
+      {
+        "description": "ファミリーで楽しめる大型ショッピングモール、マイクロネシア・モール内にあるコスメショップ。オーガニック素材のオリジナルコスメを扱っています。特に100%ココナッツオイルはフェイス、ヘア、ボディ、ハンドなどに使えて人気。バラマキみやげにちょうどいいプチプライスなアイテムがあるのもうれしいところです。旅行のおともに重宝しそうな個包装＆ミニサイズのアイテムにも注目。アロエやローヤルゼリー、アプリコットを配合したスキンオイルは1回分が個包装になっています。全身に使えるボディバームはグアム滞在中にも大活躍しそうです。Sugar Cookie DATA住所：088 W.Marine Corps Dr.（マイクロネシア・モール内）営業時間：11～20時（金・土曜は～21時）定休日：なし",
+        "image": {
+          "alternateText": "スキンオイル各＄12、バーム＄8.95",
+          "height": 2784,
+          "sourceUrl": "https://a.mktgcdn.com/p/UncOtokVibTL-4GfkFWjCBDBziv_dDLJrH0uRdNRaLI/4219x2784.jpg",
+          "thumbnails": [
+            {
+              "height": 2784,
+              "url": "https://a.mktgcdn.com/p-sandbox/N1D0QFCPIZZ3jnLZsTQvcZUXOdVCTGMlyXo0wjaaHHQ/4219x2784.jpg",
+              "width": 4219
+            },
+            {
+              "height": 1254,
+              "url": "https://a.mktgcdn.com/p-sandbox/N1D0QFCPIZZ3jnLZsTQvcZUXOdVCTGMlyXo0wjaaHHQ/1900x1254.jpg",
+              "width": 1900
+            },
+            {
+              "height": 408,
+              "url": "https://a.mktgcdn.com/p-sandbox/N1D0QFCPIZZ3jnLZsTQvcZUXOdVCTGMlyXo0wjaaHHQ/619x408.jpg",
+              "width": 619
+            },
+            {
+              "height": 396,
+              "url": "https://a.mktgcdn.com/p-sandbox/N1D0QFCPIZZ3jnLZsTQvcZUXOdVCTGMlyXo0wjaaHHQ/600x396.jpg",
+              "width": 600
+            },
+            {
+              "height": 129,
+              "url": "https://a.mktgcdn.com/p-sandbox/N1D0QFCPIZZ3jnLZsTQvcZUXOdVCTGMlyXo0wjaaHHQ/196x129.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/N1D0QFCPIZZ3jnLZsTQvcZUXOdVCTGMlyXo0wjaaHHQ/4219x2784.jpg",
+          "width": 4219
+        },
+        "imageCaption": "スキンオイル各＄12、バーム＄8.95",
+        "sectionTitle": "Kマート（Ｋmart）"
+      },
+      {
+        "description": "おみやげをまとめ買いするのにおすすめなのが大型スーパー。「Ｋマート」は倉庫のような巨大空間に食料品や衣料品、日用雑貨が集まる便利なお店です。バラマキみやげなら、チョコレートやクッキー、ドライフルーツなど定番アイテムがずらりと並ぶ食品エリアへ。グアムのおみやげをまとめたコーナーもあり、旅行者でも商品が探しやすくなっています。ローカルビールやスナック菓子は、ホテルでのくつろぎタイムのおともにどうぞ。",
+        "image": {
+          "alternateText": "アイテム数はグアム随一と評判",
+          "height": 1112,
+          "sourceUrl": "https://a.mktgcdn.com/p/6B6WfPMMYJGDJnVA_paRHNoTdGCj1XXcFMixmpYKtIk/1667x1112.jpg",
+          "thumbnails": [
+            {
+              "height": 1112,
+              "url": "https://a.mktgcdn.com/p-sandbox/L6TYdk06Aumww2D_Uupqx2UShiG11pDEiISL1-nZM6c/1667x1112.jpg",
+              "width": 1667
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/L6TYdk06Aumww2D_Uupqx2UShiG11pDEiISL1-nZM6c/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/L6TYdk06Aumww2D_Uupqx2UShiG11pDEiISL1-nZM6c/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/L6TYdk06Aumww2D_Uupqx2UShiG11pDEiISL1-nZM6c/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/L6TYdk06Aumww2D_Uupqx2UShiG11pDEiISL1-nZM6c/1667x1112.jpg",
+          "width": 1667
+        },
+        "imageCaption": "アイテム数はグアム随一と評判"
+      },
+      {
+        "description": "おみやげ以外のローカルアイテムが揃うのもスーパーの魅力。浮き輪やフロートマット、スノーケリングセットなどのマリングッズを買ってビーチに直行するのも◎。Ｔシャツやワンピースなどのファッションアイテムはリーズナブルな値段なので、着替えが足りなくなったときのお助けアイテムとして使えます。家具や電化製品など、地元の人向けの商品も多く、店内を見て歩くだけでも楽しめます。ＫmartDATA住所：404 N.Marine Crops Dr.営業時間：24時間定休日：なし※2023年10月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。",
+        "image": {
+          "alternateText": "売り上げNo.1のGUAM1ビール6本セットは＄13.99",
+          "height": 1690,
+          "sourceUrl": "https://a.mktgcdn.com/p/8t_CggKl0oSJnKI6YVZrRSkvtVNkeFauugBypSuSZpw/3111x1690.jpg",
+          "thumbnails": [
+            {
+              "height": 1690,
+              "url": "https://a.mktgcdn.com/p-sandbox/6o2t7sX-pJFR0k_0I7KUMks7ZKeu8qgWHDAaWcgCRMY/3111x1690.jpg",
+              "width": 3111
+            },
+            {
+              "height": 1032,
+              "url": "https://a.mktgcdn.com/p-sandbox/6o2t7sX-pJFR0k_0I7KUMks7ZKeu8qgWHDAaWcgCRMY/1900x1032.jpg",
+              "width": 1900
+            },
+            {
+              "height": 336,
+              "url": "https://a.mktgcdn.com/p-sandbox/6o2t7sX-pJFR0k_0I7KUMks7ZKeu8qgWHDAaWcgCRMY/619x336.jpg",
+              "width": 619
+            },
+            {
+              "height": 326,
+              "url": "https://a.mktgcdn.com/p-sandbox/6o2t7sX-pJFR0k_0I7KUMks7ZKeu8qgWHDAaWcgCRMY/600x326.jpg",
+              "width": 600
+            },
+            {
+              "height": 106,
+              "url": "https://a.mktgcdn.com/p-sandbox/6o2t7sX-pJFR0k_0I7KUMks7ZKeu8qgWHDAaWcgCRMY/196x106.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6o2t7sX-pJFR0k_0I7KUMks7ZKeu8qgWHDAaWcgCRMY/3111x1690.jpg",
+          "width": 3111
+        },
+        "imageCaption": "売り上げNo.1のGUAM1ビール6本セットは＄13.99"
+      }
+    ],
+    "c_ap_DatePosted": "2023-04-01",
+    "c_ap_HeroImage": {
+      "alternateText": "ナチュラルコスメ＆南国雑貨の人気ショップでおみやげ集め【グアム】",
+      "height": 900,
+      "sourceUrl": "https://a.mktgcdn.com/p/YrnN_OvoMNAnkogdBHcuB_OY_zZ9sGbA-nYSDFNxYO8/1350x900.jpg",
+      "thumbnails": [
+        {
+          "height": 900,
+          "url": "https://a.mktgcdn.com/p-sandbox/NXN9lOJR4OmvE82r1MsrqKWBiCooCWFHG7i8kdCUEGQ/1350x900.jpg",
+          "width": 1350
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/NXN9lOJR4OmvE82r1MsrqKWBiCooCWFHG7i8kdCUEGQ/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/NXN9lOJR4OmvE82r1MsrqKWBiCooCWFHG7i8kdCUEGQ/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/NXN9lOJR4OmvE82r1MsrqKWBiCooCWFHG7i8kdCUEGQ/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/NXN9lOJR4OmvE82r1MsrqKWBiCooCWFHG7i8kdCUEGQ/1350x900.jpg",
+      "width": 1350
+    },
+    "c_ap_HeroImageCaption": "品質の高いコスメはローカルの人たちにも評判",
+    "c_ap_LinkArticleSectionTitle": "グアムのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea1": [
+      "グアム"
+    ],
+    "c_ap_ShortDescription": "グアムではローカルブランドのショップがオープンラッシュ。コスメはヴィーガンやオーガニックなど、体だけでなく環境に優しいアイテムがトレンドです。アパレルや雑貨で人気なのは、やっぱり南国らしいデザイン。現地で手に入れたファッションアイテムで、友達や家族とリンクコーデを楽しむのもおすすめです。おみやげのまとめ買いに最適な大型スーパーもチェックして。（写真：ヌマロ・ゼロ・ウェスト・リフィルレリー）",
+    "c_ap_Tags": [
+      "コスメ　",
+      "雑貨",
+      "アパレル",
+      "スイーツ",
+      "スーパー"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "夫婦旅",
+      "グループ"
+    ],
+    "c_ap_Title": "ナチュラルコスメ＆南国雑貨の人気ショップでおみやげ集め【グアム】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "グアムではローカルブランドのショップがオープンラッシュ。コスメはヴィーガンやオーガニックなど、体だけでなく環境に優しいアイテムがトレンドです。アパレルや雑貨で人気なのは、やっぱり南国らしいデザイン。現地で手に入れたファッションアイテムで、友達や家族とリンクコーデを楽しむのもおすすめです。おみやげのまとめ買いに最適な大型スーパーもチェックして。（写真：ヌマロ・ゼロ・ウェスト・リフィルレリー）",
+    "c_metaTitle": "ナチュラルコスメ＆南国雑貨の人気ショップでおみやげ集め【グアム】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000137",
+    "name": "ナチュラルコスメ＆南国雑貨の人気ショップでおみやげ集め【グアム】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

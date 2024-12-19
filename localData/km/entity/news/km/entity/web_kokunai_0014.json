@@ -1,0 +1,680 @@
+{
+  "$id": "news_web_kokunai_0014",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1363,
+      "sourceUrl": "https://a.mktgcdn.com/p/khgHlzMsqUrbYg3RhAfnMicnup7PUfvcwzaCQ9eIqZ8/1920x1363.jpg",
+      "thumbnails": [
+        {
+          "height": 1363,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tqpl-Lg7xa_7o6hLGDKbbDk49vmrf90kGTNsxnPvGkQ/1920x1363.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1349,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tqpl-Lg7xa_7o6hLGDKbbDk49vmrf90kGTNsxnPvGkQ/1900x1349.jpg",
+          "width": 1900
+        },
+        {
+          "height": 439,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tqpl-Lg7xa_7o6hLGDKbbDk49vmrf90kGTNsxnPvGkQ/619x439.jpg",
+          "width": 619
+        },
+        {
+          "height": 426,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tqpl-Lg7xa_7o6hLGDKbbDk49vmrf90kGTNsxnPvGkQ/600x426.jpg",
+          "width": 600
+        },
+        {
+          "height": 139,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tqpl-Lg7xa_7o6hLGDKbbDk49vmrf90kGTNsxnPvGkQ/196x139.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Tqpl-Lg7xa_7o6hLGDKbbDk49vmrf90kGTNsxnPvGkQ/1920x1363.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "沖縄の記事一覧はこちら",
+        "uRL": "https://www.jtb.co.jp/news/list/kokunai/okinawa"
+      },
+      {
+        "linkText": "西表島の旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/s_iriomotejima/"
+      },
+      {
+        "linkText": "西表島のホテル・旅館・宿を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/470506/"
+      },
+      {
+        "linkText": "西表島のツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_air/a/470506/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "八重山諸島に位置する西表島は、沖縄では沖縄本島に次ぐ大きさです。島全体が国立公園に指定され、手つかずの自然が残り、亜熱帯原生林が覆う面積は島の約9割。特別天然記念物であるイリオモテヤマネコやカンムリワシをはじめ、国指定天然記念物をいくつも有しています。\n\n“東洋のガラパゴス”とも称される、沖縄エリアきっての大自然が広がる島です。",
+    "c_ap_Tags": [
+      "自然",
+      "アクティビティ",
+      "ビーチリゾート",
+      "沖縄おすすめ",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "大自然を満喫！西表島のおすすめ観光スポット\u0026アクティビティ15選",
+    "c_linkedArea3News": [
+      "okinawa_all"
+    ],
+    "c_metaDescription": "手つかずの自然が残る西表島を満喫できる、おすすめの観光スポットとアクティビティをご紹介します。水牛車で有名な由布島から、ジャングルやマングローブ林などの大自然、絶景の島まで。カヌーやトレッキング、キャニオニングなど、アクティビティ体験も楽しみましょう！",
+    "c_metaTitle": "大自然を満喫！西表島のおすすめ観光スポット\u0026アクティビティ15選",
+    "c_news_CTAs": [
+      {
+        "label": "西表島の旅行を探す",
+        "link": "https://www.jtb.co.jp/kokunai/area/okinawa/s_iriomotejima/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "西表島の添乗員同行ツアーを探す",
+        "link": "https://www.jtb.co.jp/kokunai-escort/rweb/kensaku/pages/kensakukekka_d.aspx?brand\u003d02RR,01CZ,03GR,04TM\u0026houmen\u003d07\u0026freeword\u003d%E8%A5%BF%E8%A1%A8\u0026vacantseat\u003d0",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "西表島のホテルを探す",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/470506/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "仲間川周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5002950/",
+          "linkType": "OTHER"
+        },
+        "description": "マングローブの生い茂る川、沖縄最大の落差を誇る滝、地図には載らない島…。感動必至の名所を10ヶ所、厳選して紹介します。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/iOQhyypAsVWR_-4Z6li54qxLEp1JrQUJmHgVxqLaGME/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/iOQhyypAsVWR_-4Z6li54qxLEp1JrQUJmHgVxqLaGME/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/iOQhyypAsVWR_-4Z6li54qxLEp1JrQUJmHgVxqLaGME/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/iOQhyypAsVWR_-4Z6li54qxLEp1JrQUJmHgVxqLaGME/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/iOQhyypAsVWR_-4Z6li54qxLEp1JrQUJmHgVxqLaGME/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iOQhyypAsVWR_-4Z6li54qxLEp1JrQUJmHgVxqLaGME/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "rachel / PIXTA(ピクスタ)",
+        "infoBlockLabel": "仲間川（マングローブクルーズ）の基本情報",
+        "infoBlockText": "アクセス：大原港から徒歩で約1分住所：沖縄県八重山郡竹富町南風見201",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．西表島でおすすめの観光スポット"
+      },
+      {
+        "cTA1": {
+          "label": "ピナイサーラの滝周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5002990/",
+          "linkType": "OTHER"
+        },
+        "description": "マングローブの流域面積日本一を誇る仲間川。日本最大のサキシマスオウノキ、西表島でも東部地区にしか生えていないマヤプシキなど大迫力のマングローブを間近に見学することができます。定番は、遊覧船に揺られながらゆったりと過ごすことができるマングローブクルーズ。干潟観察やジャングルトレッキング、カヌーツアーなどアクティブなエコツアーも人気を集めているので、自分に合ったスタイルでマングローブを楽しみましょう。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/FSleWURPZCPj4i52idbINJmrIK5zRbd4ZZN_I4vYQY8/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/FSleWURPZCPj4i52idbINJmrIK5zRbd4ZZN_I4vYQY8/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/FSleWURPZCPj4i52idbINJmrIK5zRbd4ZZN_I4vYQY8/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/FSleWURPZCPj4i52idbINJmrIK5zRbd4ZZN_I4vYQY8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/FSleWURPZCPj4i52idbINJmrIK5zRbd4ZZN_I4vYQY8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FSleWURPZCPj4i52idbINJmrIK5zRbd4ZZN_I4vYQY8/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "MakiEni / PIXTA(ピクスタ)",
+        "infoBlockLabel": "由布島の基本情報",
+        "infoBlockText": "アクセス：西表島の由布島行き水牛車乗り場から水牛車で約15分住所：沖縄県八重山郡竹富町古見",
+        "sectionLevel": "h3",
+        "sectionTitle": "仲間川"
+      },
+      {
+        "cTA1": {
+          "label": "カンビレーの滝周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/23441430/",
+          "linkType": "OTHER"
+        },
+        "description": "由布島は西表島東部から約400mの距離にある、周囲約2kmの小さな島。由布島と西表島の間の海は満潮時でも水深が1m程度のため、往来には水牛車が活躍しています。西表島から由布島まで、水牛車で約15分。島から海へ、また島へと景色が移り変わり、気持ちのよい潮風とともにのどかな時間を過ごすことができます。由布島全体が亜熱帯植物園にもなっているので、上陸後は美しい樹木や花々を観賞しましょう。郷土料理が評判のレストランや、バラエティ豊かなみやげの売店もあります。",
+        "image": {
+          "height": 1022,
+          "sourceUrl": "https://a.mktgcdn.com/p/Y9b7SJtarNn39eeDde0oAV2RfucdmWNfWdt-d9HRlR8/1536x1022.jpg",
+          "thumbnails": [
+            {
+              "height": 1022,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y9b7SJtarNn39eeDde0oAV2RfucdmWNfWdt-d9HRlR8/1536x1022.jpg",
+              "width": 1536
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y9b7SJtarNn39eeDde0oAV2RfucdmWNfWdt-d9HRlR8/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y9b7SJtarNn39eeDde0oAV2RfucdmWNfWdt-d9HRlR8/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y9b7SJtarNn39eeDde0oAV2RfucdmWNfWdt-d9HRlR8/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Y9b7SJtarNn39eeDde0oAV2RfucdmWNfWdt-d9HRlR8/1536x1022.jpg",
+          "width": 1536
+        },
+        "imageCaption": "y.s / PIXTA(ピクスタ)",
+        "infoBlockLabel": "ユツン川の基本情報",
+        "infoBlockText": "アクセス：上原港から車で約20分住所：沖縄県八重山郡竹富町高那",
+        "sectionLevel": "h3",
+        "sectionTitle": "由布島（水牛車）"
+      },
+      {
+        "cTA1": {
+          "label": "星砂の浜周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/23441630/",
+          "linkType": "OTHER"
+        },
+        "description": "西表島の北東部に位置するユツン川。全長は短いですが、豊かな自然を凝縮したような場所に流れています。カヌーやトレッキングで進んでいけば、海、マングローブ、ジャングル、滝と次々に景色が変わり、植物や生き物の観察も楽しめるところが大きな魅力。上流へと進んでいけばユツンの滝が出現します。下から三段の滝を見上げれば興奮すること間違いなし。上に登れば大パノラマが広がり爽快な気分に。ネイチャーガイドによるツアーに参加し、安心して自然のなかに飛び込みましょう。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/Q6JW9EiVJwyktSnvxwWat1ZH0Z82XokO7xnQFiJ0EbU/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/Q6JW9EiVJwyktSnvxwWat1ZH0Z82XokO7xnQFiJ0EbU/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/Q6JW9EiVJwyktSnvxwWat1ZH0Z82XokO7xnQFiJ0EbU/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Q6JW9EiVJwyktSnvxwWat1ZH0Z82XokO7xnQFiJ0EbU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Q6JW9EiVJwyktSnvxwWat1ZH0Z82XokO7xnQFiJ0EbU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Q6JW9EiVJwyktSnvxwWat1ZH0Z82XokO7xnQFiJ0EbU/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "genki / PIXTA(ピクスタ)",
+        "infoBlockLabel": "ピナイサーラの滝の基本情報",
+        "infoBlockText": "アクセス：上原港から車で約11分住所：沖縄県八重山郡竹富町上原",
+        "sectionLevel": "h3",
+        "sectionTitle": "ユツン川"
+      },
+      {
+        "cTA1": {
+          "label": "イダの浜周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/J0072109/",
+          "linkType": "OTHER"
+        },
+        "description": "豊かな自然に恵まれ、豪快な滝の多い西表島のなかでもきっての迫力といわれる のがピナイサーラの滝です。約54mもの落差を誇り、西表島だけでなく沖縄でも最大級のスケール。遠くの県道からも目にすることができますが、人気を集めているのはカヌーとトレッキングでめぐるツアー。川の中流までカヌーで進み、そこからジャングルを歩いて滝壺へと向かいます。滝壺から眺める落水は大迫力のひと言。別ルートをたどれば滝上に立つことも可能です。滝上に立てばマングローブの森のみならず海まで一望でき、西表島きっての絶景を堪能することができます。",
+        "image": {
+          "height": 827,
+          "sourceUrl": "https://a.mktgcdn.com/p/vsATw-zFvskCY-O3DpvmHGG6rxwtwt-RfTBq1fQh3qo/1240x827.jpg",
+          "thumbnails": [
+            {
+              "height": 827,
+              "url": "https://a.mktgcdn.com/p-sandbox/wZBz_Roqd2MBJVQG_-gKR4UExG2Z06EGge2RPIx7dOg/1240x827.jpg",
+              "width": 1240
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/wZBz_Roqd2MBJVQG_-gKR4UExG2Z06EGge2RPIx7dOg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/wZBz_Roqd2MBJVQG_-gKR4UExG2Z06EGge2RPIx7dOg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/wZBz_Roqd2MBJVQG_-gKR4UExG2Z06EGge2RPIx7dOg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wZBz_Roqd2MBJVQG_-gKR4UExG2Z06EGge2RPIx7dOg/1240x827.jpg",
+          "width": 1240
+        },
+        "imageCaption": "OF-5 / PIXTA(ピクスタ)",
+        "infoBlockLabel": "浦内川の基本情報",
+        "infoBlockText": "アクセス：上原港から車で約11分住所：沖縄県八重山郡竹富町",
+        "sectionLevel": "h3",
+        "sectionTitle": "ピナイサーラの滝"
+      },
+      {
+        "cTA1": {
+          "label": "バラス島の魅力をもっとみる",
+          "link": "https://www.jtb.co.jp/kando/detail/283.asp",
+          "linkType": "OTHER"
+        },
+        "description": "浦内川は全長約18km、支流も含めると約39kmになる沖縄最長の川です。その流域は亜熱帯の動植物の宝庫。川の両側にマングローブの森が生い茂り、棲息する魚は400種類以上。それを求めて動物や野鳥も水辺に集まります。人気のツアーは遊覧船でのクルージング。大自然に囲まれたひと時を船上でのんびりと過ごせるだけでなく、折り返し地点の船着場からは遊歩道が延びているためトレッキングも可能です。奥地にひっそりと佇む滝とセットで楽しみましょう。",
+        "image": {
+          "height": 730,
+          "sourceUrl": "https://a.mktgcdn.com/p/yTiUM-Bwp0hdwVRFPKXgun1GvX5VGMDwqD2YEl5TNQU/1096x730.jpg",
+          "thumbnails": [
+            {
+              "height": 730,
+              "url": "https://a.mktgcdn.com/p-sandbox/OxkGE_RBg3yjm7d04f66ubKgJOCCiV-oJZKr7yqhuu4/1096x730.jpg",
+              "width": 1096
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/OxkGE_RBg3yjm7d04f66ubKgJOCCiV-oJZKr7yqhuu4/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/OxkGE_RBg3yjm7d04f66ubKgJOCCiV-oJZKr7yqhuu4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/OxkGE_RBg3yjm7d04f66ubKgJOCCiV-oJZKr7yqhuu4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OxkGE_RBg3yjm7d04f66ubKgJOCCiV-oJZKr7yqhuu4/1096x730.jpg",
+          "width": 1096
+        },
+        "imageCaption": "Jake Images / PIXTA(ピクスタ)",
+        "infoBlockLabel": "マリユドゥの滝・カンピレーの滝の基本情報",
+        "infoBlockText": "アクセス：浦内川上流船着場から徒歩で約40分住所：沖縄県八重山郡竹富町上原",
+        "sectionLevel": "h3",
+        "sectionTitle": "浦内川"
+      },
+      {
+        "description": "車では訪れることができないジャングルの奥地、浦内川の上流にある神秘的な滝。それがマリユドゥの滝とカンピレーの滝です。マリユドゥの滝は二段になった壮観な流れと、丸い滝壺が特徴的。一方、カンピレーの滝は「神の座」や「神々の交際」を意味するといわれ、幅が広く、高低差の少ない滝が長さ約200mにもわたって続いています。遊覧船に乗船して浦内川でクルージングをする際には、このふたつの滝まで足を延ばすこともお忘れなく。",
+        "image": {
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/vezSE08_uPwuBhjdIqDghe8DxizST3GG37hxUyx9Siw/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/vezSE08_uPwuBhjdIqDghe8DxizST3GG37hxUyx9Siw/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/vezSE08_uPwuBhjdIqDghe8DxizST3GG37hxUyx9Siw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/vezSE08_uPwuBhjdIqDghe8DxizST3GG37hxUyx9Siw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/vezSE08_uPwuBhjdIqDghe8DxizST3GG37hxUyx9Siw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vezSE08_uPwuBhjdIqDghe8DxizST3GG37hxUyx9Siw/1536x1025.jpg",
+          "width": 1536
+        },
+        "imageCaption": "Jake Images / PIXTA(ピクスタ)",
+        "infoBlockLabel": "星砂の浜の基本情報",
+        "infoBlockText": "アクセス：上原港から車で約7分住所：沖縄県八重山郡竹富町上原",
+        "sectionLevel": "h3",
+        "sectionTitle": "マリユドゥの滝・カンピレーの滝"
+      },
+      {
+        "description": "星砂の浜は西表島でもっとも有名なビーチのひとつです 。名前のとおり、星の形をした砂のような有孔虫の殻がたくさん見つけられることから名づけられたそうです。沖合に岩があるので波が穏やかで 、遠浅で水温も高いため、ファミリーで過ごすにはぴったりな場所。遠くまで泳がずとも 美しい魚をたくさん目にすることができます。海水浴やシュノーケリングをのんびりと楽しみたい人におすすめです。",
+        "image": {
+          "height": 1022,
+          "sourceUrl": "https://a.mktgcdn.com/p/7eqdLVxQNvYoK7s9l0XVyIcc7yPeQICBEEnH5NFW5wY/1536x1022.jpg",
+          "thumbnails": [
+            {
+              "height": 1022,
+              "url": "https://a.mktgcdn.com/p-sandbox/7eqdLVxQNvYoK7s9l0XVyIcc7yPeQICBEEnH5NFW5wY/1536x1022.jpg",
+              "width": 1536
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/7eqdLVxQNvYoK7s9l0XVyIcc7yPeQICBEEnH5NFW5wY/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/7eqdLVxQNvYoK7s9l0XVyIcc7yPeQICBEEnH5NFW5wY/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/7eqdLVxQNvYoK7s9l0XVyIcc7yPeQICBEEnH5NFW5wY/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7eqdLVxQNvYoK7s9l0XVyIcc7yPeQICBEEnH5NFW5wY/1536x1022.jpg",
+          "width": 1536
+        },
+        "imageCaption": "moroma / PIXTA(ピクスタ)",
+        "infoBlockLabel": "トゥドゥマリの浜の基本情報",
+        "infoBlockText": "アクセス：上原港から車で約10分住所：沖縄県八重山郡竹富町上原",
+        "sectionLevel": "h3",
+        "sectionTitle": "星砂の浜"
+      },
+      {
+        "description": "西表島の北部に位置するトゥドゥマリの浜は、地元では神様が“留まる”浜と言い伝えられています。まるで三日月のように弧を描いていることから、別名は月ヶ浜。真っ白で、とても細かな砂からできた浜は素足にも快適で、開放的な気分で過ごすことができます。そして最大の魅力はここから眺める夕焼け。西半分に道路が延びておらず、サンセットポイントの少ない西表島では、このトゥドゥマリの浜から見る夕焼けがいちばん美しいといわれています。遠く水平線へと太陽が沈む絶景を堪能しましょう。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/xdY7WN6-AXzLlmxFo1mM0qYutbJlOplgVVhfLqs6-18/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/xdY7WN6-AXzLlmxFo1mM0qYutbJlOplgVVhfLqs6-18/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/xdY7WN6-AXzLlmxFo1mM0qYutbJlOplgVVhfLqs6-18/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/xdY7WN6-AXzLlmxFo1mM0qYutbJlOplgVVhfLqs6-18/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/xdY7WN6-AXzLlmxFo1mM0qYutbJlOplgVVhfLqs6-18/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xdY7WN6-AXzLlmxFo1mM0qYutbJlOplgVVhfLqs6-18/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "miiko / PIXTA(ピクスタ)",
+        "infoBlockLabel": "イダの浜の基本情報",
+        "infoBlockText": "アクセス：白浜港から船で約10分、さらに船浮港から徒歩で約10分住所：沖縄県八重山郡竹富町西表",
+        "sectionLevel": "h3",
+        "sectionTitle": "トゥドゥマリの浜"
+      },
+      {
+        "description": "西表島の西半分には道路が延びていません。そのため陸路の交通手段がなく、訪れるには船の利用が不可欠。そんな西部の船浮エリアにひっそりと広がるイダの浜は、知る人ぞ知る秘境とされる場所で、まるでプライベートビーチのよう。人や船の往来が少ないので、海の美しさと透明度は西表島でも随一。波のない日には、泳ぐ魚を海面の上からでも見ることができます。遠浅なのでファミリーにも安心。人気スポットの喧騒から離れて、極上のビーチを独り占めしてはいかがでしょうか。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/f19ejWgq5mUSjyja3HbVdCdy7YMBfwap8ir9t1cJ500/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/f19ejWgq5mUSjyja3HbVdCdy7YMBfwap8ir9t1cJ500/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/f19ejWgq5mUSjyja3HbVdCdy7YMBfwap8ir9t1cJ500/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/f19ejWgq5mUSjyja3HbVdCdy7YMBfwap8ir9t1cJ500/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/f19ejWgq5mUSjyja3HbVdCdy7YMBfwap8ir9t1cJ500/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/f19ejWgq5mUSjyja3HbVdCdy7YMBfwap8ir9t1cJ500/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "MakiEni / PIXTA(ピクスタ)",
+        "infoBlockLabel": "バラス島の基本情報",
+        "infoBlockText": "アクセス：上原港から船で約20分住所：沖縄県八重山郡竹富町上原",
+        "sectionLevel": "h3",
+        "sectionTitle": "イダの浜"
+      },
+      {
+        "description": "バラス島は上原港の沖合にポツンと浮かぶ小さな島。サンゴのかけらが集まってできた島は、潮の満ち引きによって消えては現れます。そのため一般の地図には載っておらず、いつからか“奇跡の島”とまで呼ばれるようになりました。上陸するにはツアーに参加しなければならず、時間帯によって島のサイズも見える景色も変化します。茜色に染まる夕焼けや星空が浮かぶ夜は必見。撮影した写真をSNSに投稿する人も多い、西表島でも随一の写真映えスポットです。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/xKBxOBf1pzuXd0V8QtycUhJ04ix1czShBgwbjtwC4s8/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/xKBxOBf1pzuXd0V8QtycUhJ04ix1czShBgwbjtwC4s8/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/xKBxOBf1pzuXd0V8QtycUhJ04ix1czShBgwbjtwC4s8/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/xKBxOBf1pzuXd0V8QtycUhJ04ix1czShBgwbjtwC4s8/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/xKBxOBf1pzuXd0V8QtycUhJ04ix1czShBgwbjtwC4s8/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xKBxOBf1pzuXd0V8QtycUhJ04ix1czShBgwbjtwC4s8/1536x1152.jpg",
+          "width": 1536
+        },
+        "imageCaption": "masa / PIXTA(ピクスタ)",
+        "sectionLevel": "h3",
+        "sectionTitle": "バラス島"
+      },
+      {
+        "description": "ツアーに参加して、雄大な自然をとことん満喫しましょう。西表島には海でも陸でも楽しめるアクティビティが豊富に揃っています。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/zpxesK3Z3R4dMUlK6Ci3daRDFTUVZASIlpk-Y-fNCcM/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/zpxesK3Z3R4dMUlK6Ci3daRDFTUVZASIlpk-Y-fNCcM/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/zpxesK3Z3R4dMUlK6Ci3daRDFTUVZASIlpk-Y-fNCcM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/zpxesK3Z3R4dMUlK6Ci3daRDFTUVZASIlpk-Y-fNCcM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/zpxesK3Z3R4dMUlK6Ci3daRDFTUVZASIlpk-Y-fNCcM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zpxesK3Z3R4dMUlK6Ci3daRDFTUVZASIlpk-Y-fNCcM/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "eco / PIXTA(ピクスタ)",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．西表島で体験したい人気アクティビティ"
+      },
+      {
+        "description": "西表島ならではのマングローブを満喫するには、カヌーで川をさかのぼるのがおすすめです。開放的な空の下、自分の腕でパドルを漕いで進めば気分は爽快。マングローブを間近に見学できるのも、川をフィールドにするカヌーというアクティビティならではのもの。日本でダントツに多いマングローブの自生地をとことん満喫できます。長大な仲間川を進むツアーや、ピナイサーラの滝へのトレッキングと組み合わせるのが定番です。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/V4rgOg8a69OrtFXa6OQxWwyggrHd2ZAgsdot7aNETIw/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/V4rgOg8a69OrtFXa6OQxWwyggrHd2ZAgsdot7aNETIw/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/V4rgOg8a69OrtFXa6OQxWwyggrHd2ZAgsdot7aNETIw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/V4rgOg8a69OrtFXa6OQxWwyggrHd2ZAgsdot7aNETIw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/V4rgOg8a69OrtFXa6OQxWwyggrHd2ZAgsdot7aNETIw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/V4rgOg8a69OrtFXa6OQxWwyggrHd2ZAgsdot7aNETIw/1536x1024.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "マングローブをカヌーで"
+      },
+      {
+        "description": "亜熱帯の原生林に覆われた西表島のトレッキングは、山ではなく森が舞台です。大迫力の原生林に足を踏み入れれば、そこから先は癒しと興奮に満ちた大冒険。美しい自然が次々と目の前に現れ、耳を澄ませば鳥のさえずりや動物の鳴き声までもが聞こえてきます。春に輝きを放つヤエヤマボタルや、初夏にひと晩しか花を咲かせないサガリバナのように、四季折々の自然の変化を楽しめるのも大きな魅力。ピナイサーラの滝壺や滝上など、西表島には歩いていかなければ見られない絶景がそこかしこに隠れているのです。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/yK4jE37KUjHJdRZQ-rYp1mzPUW7QlnWh66RT_-C2Gzs/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/yK4jE37KUjHJdRZQ-rYp1mzPUW7QlnWh66RT_-C2Gzs/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/yK4jE37KUjHJdRZQ-rYp1mzPUW7QlnWh66RT_-C2Gzs/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/yK4jE37KUjHJdRZQ-rYp1mzPUW7QlnWh66RT_-C2Gzs/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/yK4jE37KUjHJdRZQ-rYp1mzPUW7QlnWh66RT_-C2Gzs/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yK4jE37KUjHJdRZQ-rYp1mzPUW7QlnWh66RT_-C2Gzs/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ジャングル・トレッキング"
+      },
+      {
+        "description": "キャニオニングとは、ジャングルの川や滝を遊び尽くすための水遊び。滝壺へ飛び込んだり、天然のウォータースライダーを滑ったり、よりアクティブに自然を味わうことができます。一方、ケイビングとは洞窟探検のこと。西表島の地下に広がる神秘的な鍾乳洞は、ケイビングでしか見ることができない独特な景色です。コースによっては小学1年生から参加できるので、家族旅行の思い出づくりにもぴったりのアクティビティ。ネイチャーガイドのアドバイスに従って、西表島の大自然をとことん楽しみましょう。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/ktCY9izIeldDO7iVs5I7DU1teV0u7DKaX92xhrpxaFQ/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/ktCY9izIeldDO7iVs5I7DU1teV0u7DKaX92xhrpxaFQ/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/ktCY9izIeldDO7iVs5I7DU1teV0u7DKaX92xhrpxaFQ/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ktCY9izIeldDO7iVs5I7DU1teV0u7DKaX92xhrpxaFQ/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/ktCY9izIeldDO7iVs5I7DU1teV0u7DKaX92xhrpxaFQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ktCY9izIeldDO7iVs5I7DU1teV0u7DKaX92xhrpxaFQ/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "キャニオニング＆ケイビング"
+      },
+      {
+        "description": "沖縄エリアの大定番といえるダイビングとシュノーケリングは、もちろん西表島でも人気のアクティビティ。石垣島と西表島の間には日本最大級のサンゴ礁が発達しています。サンゴのかけらでできたバラス島の周辺はとくに美しく、ツアーの定番コース。半日コースから1日コースまであるので、旅程に合わせて計画しましょう。季節や天候によって、経験豊富なガイドがその日いちばんのポイントへと案内してくれます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ダイビング＆シュノーケリング"
+      },
+      {
+        "description": "SUPとは「スタンド・アップ・パドル・ボード」の略で、老若男女が手軽に楽しめるとして人気上昇中のマリンアクティビティです。その名のとおりボードの上に立ち、パドルを漕いで水面を移動します。海を進めば足下に透明度抜群の海面が広がり、川を進めば西表島自慢のマングローブの森を堪能できます。風を心地よく身体で感じたり、ボードの上で記念撮影をしたり、水平線に沈む太陽をゆっくりと眺めたり。ただ移動するだけではない、SUPならではの魅力を味わいましょう。2〜3時間の体験ツアーが一般的で、初心者でもすぐに立てるようになるケースが多いようです。",
+        "sectionLevel": "h3",
+        "sectionTitle": "SUP (サップ）"
+      },
+      {
+        "description": "豊富な自然に恵まれた西表島は、アクティビティと組み合わせることでよりディープにその魅力を味わうことができます。海に、川に、森にと自分にぴったりな楽しみ方を探してみましょう。※2024年2月時点の情報です。内容は変更になることがあります。",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．まとめ"
+      }
+    ],
+    "c_news_PublicationDate": "2020-08-25",
+    "c_news_UpdateDate": "2024-04-01",
+    "c_news_ViewCount": "859",
+    "c_news_ViewCount2of2": "859",
+    "c_news_ViewCountNum": "859",
+    "c_news_ViewCountNumForSorting": "36",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0014",
+    "name": "大自然を満喫！西表島のおすすめ観光スポット\u0026アクティビティ15選",
+    "slug": "kokunai/okinawa/okinawa_all/news_web_kokunai_0014",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

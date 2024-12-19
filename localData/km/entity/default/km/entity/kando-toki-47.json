@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-47",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/47_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d42.547339%2C141.277663",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "海・湖・川・滝",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "秋の北海道といえば、上流に向かって川を泳ぐ「サケの遡上」が見所です。白老町を流れるウヨロ川は、北海道の道央圏では最も間近にサケが観察できる川のひとつです。ホロホロ山の山麓を水源とし、太平洋まで流れる全長18.8kmのこの川には、毎年多くのサケが産卵のために遡上してきます。ウヨロ川の上流から泳ぎ出したサケは、はるばる太平洋を回遊しながら約4年かけて成長し、ウヨロ川へと帰ってきます。毎年秋になる頃、白老町では里地里山の田園風景が残されている散策コースを歩きつつ、ウヨロ川を遡上するサケを観察することができます。サケは日中いつでも見ることができますが、川の中のサケが見やすいのは、秋の晴れた日の午前中。元気に川面を飛び跳ねるサケの姿を観察できます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/47.asp",
+    "name": "白老ウヨロ川 サケの遡上"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

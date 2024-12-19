@@ -1,0 +1,65 @@
+{
+  "$id": "nagasaki",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "kyushu"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_y_ishihara225_010",
+      "news_ap_area_0000058",
+      "news_ap_area_0000059",
+      "news_ap_chiki_100091",
+      "news_ap_a_murata303_003",
+      "news_ap_area_0000060",
+      "news_ap_k_harada924_007",
+      "news_ap_k_harada924_005",
+      "news_ap_a_yoshida349_006",
+      "news_ap_m_takahashi509_004",
+      "news_ap_a_aoyama330_003",
+      "news_ap_k_harada924_006"
+    ],
+    "c_metaDescription": "長崎に関する記事をピックアップ！JTBニュースでは、長崎で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 長崎 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "長崎",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/vIKI9ifyljMZSzsMrZSfPJ0OC6coD7rtq-C1V6dU13o/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/RM2Q52RsNpqGF8fzN40CGNvaXsGZH9u7MwyKsD1tebg/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/RM2Q52RsNpqGF8fzN40CGNvaXsGZH9u7MwyKsD1tebg/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/RM2Q52RsNpqGF8fzN40CGNvaXsGZH9u7MwyKsD1tebg/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/RM2Q52RsNpqGF8fzN40CGNvaXsGZH9u7MwyKsD1tebg/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/RM2Q52RsNpqGF8fzN40CGNvaXsGZH9u7MwyKsD1tebg/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/RM2Q52RsNpqGF8fzN40CGNvaXsGZH9u7MwyKsD1tebg/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "長崎",
+    "slug": "kokunai/kyushu/nagasaki"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

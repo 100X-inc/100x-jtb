@@ -1,0 +1,81 @@
+{
+  "$id": "cp_21114005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "岐阜県",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVerBc",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "思い出に残るご旅行になりますよう、精一杯お手伝いさせていただきます。\n皆様のご来店をお待ちしております。",
+    "c_cp_DisplayName": "山本",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "夫婦旅"
+    ],
+    "c_cp_GeneralInfo": [
+      "●資格：ハワイスペシャリスト"
+    ],
+    "c_cp_HiraganaName": "やまもと",
+    "c_cp_JobTitle": "JTB岐阜カラフルタウン店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/r24wqA7f8b1Lc0KQXcuPvjeDuIT024nIx1W4KtgR26g/1193x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/r24wqA7f8b1Lc0KQXcuPvjeDuIT024nIx1W4KtgR26g/1193x960.jpg",
+          "width": 1193
+        },
+        {
+          "height": 498,
+          "url": "https://a.mktgcdn.com/p-sandbox/r24wqA7f8b1Lc0KQXcuPvjeDuIT024nIx1W4KtgR26g/619x498.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/r24wqA7f8b1Lc0KQXcuPvjeDuIT024nIx1W4KtgR26g/559x450.jpg",
+          "width": 559
+        },
+        {
+          "height": 158,
+          "url": "https://a.mktgcdn.com/p-sandbox/r24wqA7f8b1Lc0KQXcuPvjeDuIT024nIx1W4KtgR26g/196x158.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/r24wqA7f8b1Lc0KQXcuPvjeDuIT024nIx1W4KtgR26g/1193x960.jpg",
+      "width": 1193
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国",
+      "台湾"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道",
+      "東北全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "沖縄県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 山本",
+    "c_metaTitle": "JTBトラベルコンサルタント | 山本",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21114005",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10235_岐阜カラフルタウン店",
+    "name": "やまもと_21114005",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

@@ -1,0 +1,357 @@
+{
+  "$id": "os-0116",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "address": {
+      "city": "品川区",
+      "countryCode": "JP",
+      "line1": "東品川2-3-11",
+      "postalCode": "140-8602",
+      "region": "東京都"
+    },
+    "addressHidden": true,
+    "alternatePhone": "+815036140969",
+    "appleCompanyId": "1480313529409856512",
+    "c_03_法人支店取扱サービスリスト": [
+      {
+        "url": "http://www.jtb.co.jp/shop/othersite/jtbtabicard.asp?CODE\u003d1123\u0026P\u003d1",
+        "ラベル名": "JTB旅カード"
+      },
+      {
+        "url": "https://exchange.jtb.co.jp/Gaika/Main/Top.aspx?c\u003dW021113300",
+        "ラベル名": "JTBの外貨両替"
+      },
+      {
+        "url": "https://memb-web-moneytg.aplus.co.jp/TR001Action_doInit.action?kkkbn\u003dJT\u0026sscode\u003d1133",
+        "ラベル名": "世界のキャッシュカード"
+      },
+      {
+        "url": "http://www.worldsp.jp/?fromsite\u003d910709",
+        "ラベル名": "JTB世界のおみやげ"
+      },
+      {
+        "url": "http://www.jtb.co.jp/shop/othersite/jihoken.asp?SHITEN_CD\u003dj1133-0\u0026P\u003d1",
+        "ラベル名": "JTB旅行保険"
+      },
+      {
+        "url": "https://tabitabibank.jtb.co.jp/jtb/memberAffiliate.do?SiteCode\u003d1133",
+        "ラベル名": "JTB旅行積立"
+      }
+    ],
+    "c_altName": "JTBリモートコンシェルジュ ヨーロッパ専門デスク",
+    "c_locDescript": "JTBリモートコンシェルジュ ヨーロッパ専門デスク",
+    "c_pagesSortCode": "131091",
+    "c_pagesSortGroup": "X",
+    "c_plusJTBTitle": "関連サービス・商品のご案内",
+    "c_plusJTBリンク1URL": "https://www.jtb.co.jp/theme/onlinetour/",
+    "c_plusJTBリンク1ラベル": "オンラインツアー",
+    "c_plusJTBリンク2URL": "https://www.jtb.co.jp/gift/",
+    "c_plusJTBリンク2ラベル": "ギフト券",
+    "c_plusJTBリンク3URL": "https://www.jtb.co.jp/myjtb/card/",
+    "c_plusJTBリンク3ラベル": "JTB旅カード",
+    "c_plusJTBリンク4URL": "https://www.jtb.co.jp/tabitabibank/",
+    "c_plusJTBリンク4ラベル": "旅行積立",
+    "c_plusJTBリンク5URL": "https://shopping.jtb.co.jp/",
+    "c_plusJTBリンク5ラベル": "JTBショッピング",
+    "c_plusJTBリンク6URL": "https://rurubu.jp/andmore",
+    "c_plusJTBリンク6ラベル": "るるぶ\u0026more",
+    "c_plusJTBリンク7URL": "https://tabinobi.jp/",
+    "c_plusJTBリンク7ラベル": "たびのび　ー旅行動画サイトー",
+    "c_socialFacebookURL": "https://www.facebook.com/jtb.jp",
+    "c_socialLINEURL": "https://line.me/ti/p/%40jtbhd",
+    "c_socialYouTubeURL": "https://www.youtube.com/c/jtbjp/videos",
+    "c_v2AboutLink1": {
+      "label": "オンラインツアー",
+      "link": "https://www.jtb.co.jp/theme/onlinetour/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink2": {
+      "label": "ギフト券",
+      "link": "https://www.jtb.co.jp/gift/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink3": {
+      "label": "JTB旅カード",
+      "link": "https://www.jtb.co.jp/myjtb/card/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink4": {
+      "label": "旅行積立",
+      "link": "https://www.jtb.co.jp/tabitabibank/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutLink5": {
+      "label": "JTBショッピング",
+      "link": "https://shopping.jtb.co.jp/",
+      "linkType": "OTHER"
+    },
+    "c_v2AboutSectionTitle": "[[name]]",
+    "c_v2AdditionalHoursText": "[[additionalHoursText]]",
+    "c_v2AdditionalHoursText2": "休業日：12/30～1/3",
+    "c_v2AvailableService": [
+      "オンライン・リモートでの相談専門店"
+    ],
+    "c_v2CTAReservation": {
+      "label": "リモート相談を予約する\u003cstyle\u003e.About-map {display:none;} .Nearby {display: none;} .Hero-anchors {display:none;} .Hero-anchorsMobile{display:none;} .Core-title--address{display:none;} .c-address{display:none;} \u003c/style\u003e",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVN-xd",
+      "linkType": "OTHER"
+    },
+    "c_v2LocationPhotoList": [
+      {
+        "image": {
+          "height": 438,
+          "sourceUrl": "https://a.mktgcdn.com/p/KkRM-bj77EPtfLR20NH5LRaldQTrBZlNzNKfNQbLXXk/600x438.png",
+          "thumbnails": [
+            {
+              "height": 438,
+              "url": "http://a.mktgcdn.com/p-sandbox/NYt5C1sbSMgvBDkgu9-NCGNcJY3mVBvejCa_feNSzL0/600x438.png",
+              "width": 600
+            },
+            {
+              "height": 143,
+              "url": "http://a.mktgcdn.com/p-sandbox/NYt5C1sbSMgvBDkgu9-NCGNcJY3mVBvejCa_feNSzL0/196x143.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/NYt5C1sbSMgvBDkgu9-NCGNcJY3mVBvejCa_feNSzL0/600x438.png",
+          "width": 600
+        }
+      }
+    ],
+    "c_v2MetaDescription": "JTB　オンライン相談　予約　リモート　コンシェルジュ　旅行相談",
+    "c_v2MetaTitle": "JTBリモートコンシェルジュ ヨーロッパ専門デスク（リモート相談専門デスク）",
+    "c_v2News1": {
+      "description": "\u003cdiv style\u003d\"font-size:16px;\"\u003e\u003cspan style\u003d\"font-weight:bold;\"\u003e【手順① 相談日時を予約してください】\u003c/span\u003e\n・\u003cspan style\u003d\"border-bottom: solid 1px #3498DB; color:#3498DB;\"\u003e\u003ca href\u003d\"https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVN-xd?_gl\u003d1*1tok2k4*_gcl_au*MTc4MjExNzkwNS4xNzAzNjM2MzI2\"\u003eこちらの相談予約画面\u003c/a\u003e\u003c/span\u003eにて、〇または△が付いている日程の中からご希望の日時をお選びください。\n\n\u003cspan style\u003d\"font-weight:bold;\"\u003e【手順② メールによる本人確認をお願いします】 \u003c/span\u003e\n・相談予約画面で登録いただいたメールアドレス宛に本人確認のためのメールをお送りします。\n・メール配信から10分以内に記載のURLにアクセスし、相談予約日時を確認のうえ相談予約を確定してください。\n\n\u003cspan style\u003d\"font-weight:bold;\"\u003e【手順③ 当日指定のURLへアクセス】\u003c/span\u003e\n・リモート相談予約確定後にご指定のメールアドレスへ当日アクセスいただくためのURLをお送りします。\n・時間になりましたらお客様のPC、タブレット、スマートフォンからお送りしたURLへアクセスしてください。\n・画面に繋がったらリモート相談を開始します。ご希望の旅行などをご自由にご相談ください。\n・開始時刻から10分以内に入室がない場合はキャンセルとさせていただきます。\u003c/div\u003e",
+      "image": {
+        "height": 430,
+        "sourceUrl": "https://a.mktgcdn.com/p/j2rVHcy6bU-gAkY0oV-hoN7QuUPgXiJZD_Dgpf6od_g/710x430.png",
+        "thumbnails": [
+          {
+            "height": 430,
+            "url": "http://a.mktgcdn.com/p-sandbox/j2rVHcy6bU-gAkY0oV-hoN7QuUPgXiJZD_Dgpf6od_g/710x430.png",
+            "width": 710
+          },
+          {
+            "height": 375,
+            "url": "http://a.mktgcdn.com/p-sandbox/j2rVHcy6bU-gAkY0oV-hoN7QuUPgXiJZD_Dgpf6od_g/619x375.png",
+            "width": 619
+          },
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/j2rVHcy6bU-gAkY0oV-hoN7QuUPgXiJZD_Dgpf6od_g/600x363.png",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/j2rVHcy6bU-gAkY0oV-hoN7QuUPgXiJZD_Dgpf6od_g/196x119.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/j2rVHcy6bU-gAkY0oV-hoN7QuUPgXiJZD_Dgpf6od_g/710x430.png",
+        "width": 710
+      },
+      "title": "\u003cspan style\u003d\"padding-top:12px; font-size:18px;\"\u003eリモート相談の予約手順のご案内\u003c/span\u003e"
+    },
+    "c_v2News2": {
+      "description": "\u003cdiv style\u003d\"font-size:16px;\"\u003e●リモート相談をご利用の際は事前に下記の点をご確認お願いします。\n\u003cp style\u003d\"margin-top:8px;\"\u003e・インターネット接続可能なPC、タブレット、スマートフォンなどをご用意ください。インターネット接続の通信費はお客様のご負担となります。\n・通信環境、及びデバイス、ブラウザのバージョン等によって画面や音声が不明瞭になる場合や、接続不良となる場合があります。\n・リモート相談では、株式会社Bloom Actが提供するオンライン商談ツール「ROOMS」を利用いたします。ブラウザからアクセスしますのでアプリ等のダウンロードの必要はありません。\n・推奨環境は以下となります。\n　Windows10…GoogleChrome/Edge 最新版\n　Mac…10.12以上、GoogleChrome/Safari 最新版\n　iOS…iOS12.2以上、safari 最新版\n　Android…Android7.0以上、GoogleChrome 最新版\n・ご相談内容は、正確性の確保とお客様サービス向上のため、録音及び録画する場合があります。 \u003c/p\u003e\u003c/div\u003e\n\n\u003cdiv style\u003d\"font-size:16px;\"\u003e●下記の商品や内容に関するご相談は本サービスの対象外です。ご了承ください。\n\u003cp style\u003d\"margin-top:8px;\"\u003e・日帰り旅行、JR・各社私鉄の乗車券特急券、国内航空券、その他チケット単品、ギフト券\n・すでに予約済みの旅行に関する問合せ\n・旅行に関連しないご相談 \n※一部お取り扱いのできない商品もあります。\n※なお、相談の際に、法令・公序良俗に反する行為、本サービスの運営を妨害するおそれのある行為、その他当社が不適切と判断する行為等があった場合には、相談を中止させていただきます。\u003c/p\u003e\u003c/div\u003e",
+      "image": {
+        "height": 430,
+        "sourceUrl": "https://a.mktgcdn.com/p/M-Ker1rnE9JQIUtyRuRvr4h0sFaaVuGODa1VT3t0Fps/710x430.png",
+        "thumbnails": [
+          {
+            "height": 430,
+            "url": "http://a.mktgcdn.com/p-sandbox/M-Ker1rnE9JQIUtyRuRvr4h0sFaaVuGODa1VT3t0Fps/710x430.png",
+            "width": 710
+          },
+          {
+            "height": 375,
+            "url": "http://a.mktgcdn.com/p-sandbox/M-Ker1rnE9JQIUtyRuRvr4h0sFaaVuGODa1VT3t0Fps/619x375.png",
+            "width": 619
+          },
+          {
+            "height": 363,
+            "url": "http://a.mktgcdn.com/p-sandbox/M-Ker1rnE9JQIUtyRuRvr4h0sFaaVuGODa1VT3t0Fps/600x363.png",
+            "width": 600
+          },
+          {
+            "height": 119,
+            "url": "http://a.mktgcdn.com/p-sandbox/M-Ker1rnE9JQIUtyRuRvr4h0sFaaVuGODa1VT3t0Fps/196x119.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/M-Ker1rnE9JQIUtyRuRvr4h0sFaaVuGODa1VT3t0Fps/710x430.png",
+        "width": 710
+      },
+      "title": "\u003cspan style\u003d\"padding-top:12px; font-size:18px;\"\u003eリモート相談にあたり事前にご確認いただくこと\u003c/span\u003e"
+    },
+    "c_v2News3": {
+      "description": "【手順① まずはお電話をお願いします】\n・当店までお電話\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"tel:050-3614-0650\"\u003e050-3614-0650\u003c/a\u003e\u003c/span\u003e（営業時間10:00-20:30）をいただき、スタッフへ今すぐ相談したい旨をお伝えください。\n・お手元にインターネット接続可能なPCまたはスマートフォンなどをご用意ください。\n※事前予約優先のため「今すぐリモート相談」は対応できない場合があります。\n※内容によってはそのままお電話でも相談できます。\n\n【手順② ルームキーをご案内します】\n・リモート相談ご希望の場合は相談ルームへ入室できるルームキー（8桁の数字）をお電話でご案内します。\n・この数字をメモ等に控えてお電話をお切りください。\n\n【手順③ ルームキーを入力して相談開始】\n・\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://jtb.rooms-online.jp/roomkey/jtb\"\u003eこちらの画面\u003c/a\u003e\u003c/span\u003eにアクセスして、先ほどのルームキーを入力してください。\n・ルームキーの認証が完了すると、そのままリモート相談画面に繋がります。ご希望の旅行などをご自由にご相談ください。スタッフがご要望に沿った旅行プランを提案します。",
+      "image": {
+        "height": 482,
+        "sourceUrl": "https://a.mktgcdn.com/p/5BOG_hRwv5a5J6u7veFCcRishVeNkYA735Earggvu_8/596x482.png",
+        "thumbnails": [
+          {
+            "height": 482,
+            "url": "http://a.mktgcdn.com/p-sandbox/5BOG_hRwv5a5J6u7veFCcRishVeNkYA735Earggvu_8/596x482.png",
+            "width": 596
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/5BOG_hRwv5a5J6u7veFCcRishVeNkYA735Earggvu_8/556x450.png",
+            "width": 556
+          },
+          {
+            "height": 159,
+            "url": "http://a.mktgcdn.com/p-sandbox/5BOG_hRwv5a5J6u7veFCcRishVeNkYA735Earggvu_8/196x159.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/5BOG_hRwv5a5J6u7veFCcRishVeNkYA735Earggvu_8/596x482.png",
+        "width": 596
+      },
+      "title": "今すぐ相談"
+    },
+    "c_v2NewsSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2NewsSectionTitle": "リモート相談のご利用方法",
+    "c_v2PagesURL": "https://stores.jtb.co.jp/os-0116",
+    "c_v2PromoSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2StaffSectionHTML": "\u003cstyle\u003e\u003c/style\u003e",
+    "c_v2StaffSectionTitle": "[[name]] 店舗スタッフの紹介",
+    "c_v2StoreManagerDescription": "株式会社JTB コンタクトセンター 050-3614-0969",
+    "c_v2Tel1": {
+      "number": "050-3614-0969"
+    },
+    "c_v2Tel3": {
+      "label": "●お電話での連絡先",
+      "number": "050-3614-0969"
+    },
+    "c_リモートパンくず": "オンライン相談専門店",
+    "c_住所非表示フラグ": true,
+    "c_地図非表示フラグ": true,
+    "c_店舗MetaDescription": "JTB　オンライン相談　予約　リモート　コンシェルジュ　旅行相談",
+    "c_店舗MetaTitle": "JTBリモートコンシェルジュ ヨーロッパ専門デスク（オンライン相談専門デスク）",
+    "c_店舗ページ生成": true,
+    "c_経路検索ボタン非表示": true,
+    "c_近隣店舗非表示フラグ": true,
+    "description": "「JTBリモートコンシェルジュ」は、リモート旅行相談・申込の専門店です。知識豊富なスタッフがご希望の旅をご提案します。",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_dong_jing_du",
+      "defaultDirectory_dong_jing_du_pin_chuan_qu"
+    ],
+    "facebookCallToAction": {
+      "type": "BOOK_NOW",
+      "value": "[[reservation.url]]"
+    },
+    "featuredMessage": {
+      "description": "リモートで旅行のご相談・お申込を承ります。知識豊富なスタッフがご希望の旅を提案します！",
+      "url": "https://stores.jtb.co.jp/os-0116"
+    },
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "20:30",
+            "start": "10:00"
+          }
+        ]
+      },
+      "holidayHours": [
+        {
+          "date": "2024-12-30",
+          "isClosed": true
+        },
+        {
+          "date": "2024-12-31",
+          "isClosed": true
+        },
+        {
+          "date": "2025-01-01",
+          "isClosed": true
+        },
+        {
+          "date": "2025-01-02",
+          "isClosed": true
+        },
+        {
+          "date": "2025-01-03",
+          "isClosed": true
+        }
+      ],
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "20:30",
+            "start": "10:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "20:30",
+            "start": "10:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "20:30",
+            "start": "10:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "20:30",
+            "start": "10:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "20:30",
+            "start": "10:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "20:30",
+            "start": "10:00"
+          }
+        ]
+      }
+    },
+    "instagramHandle": "jtb_jp",
+    "mainPhone": "+815036140969",
+    "name": "JTBリモートコンシェルジュ ヨーロッパ専門デスク",
+    "paymentOptions": [
+      "AMERICANEXPRESS",
+      "DINERSCLUB",
+      "DISCOVER",
+      "JCB",
+      "MASTERCARD"
+    ],
+    "reservationUrl": {
+      "url": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVN-xd"
+    },
+    "slug": "[[entityId]]",
+    "timezone": "Asia/Tokyo",
+    "twitterHandle": "JTB_jp",
+    "websiteUrl": {
+      "preferDisplayUrl": false,
+      "url": "https://stores.jtb.co.jp/os-0116"
+    }
+  },
+  "entityType": "location",
+  "folder": "396721",
+  "labels": [
+    "label3ライセンスなし"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "defaultDirectory_nai_liang_xian",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1045019382"
+    ],
+    "dm_directoryChildren": [
+      "defaultDirectory_nai_liang_xian_jiang_yuan_shi"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory"
+    ],
+    "name": "奈良県",
+    "slug": "奈良県"
+  },
+  "entityType": "ce_region",
+  "labels": []
+}

@@ -1,0 +1,296 @@
+{
+  "$id": "ap_chiki_100015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター 千葉県仕入担当者"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "ランチにおすすめ。旬の地場産魚介類を８種類楽しめる、スペシャル海鮮どんぶり「館山炙り海鮮丼」。特製の三段どんぶりを使い、上から順に「炙り海鮮」(一の膳)、「刺身」(二の膳)、「彩り花ちらし」(三の膳)。新鮮な海の幸ががテーブルいっぱいに広がります。オリジナルのドリンク、デザート等もついた満足なセットです。素材は地産にこだわり、お米も館山産。串に刺さった魚は自分で炙ってお好みの調味料でいただけます。市内の飲食店、ホテルの一部でのみ提供。ぜひお召し上がりください。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/vuEiZXGAKz21bPFVzWhWFOyeoJFvqYo8E5PRsMrMjuI/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/vuEiZXGAKz21bPFVzWhWFOyeoJFvqYo8E5PRsMrMjuI/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/vuEiZXGAKz21bPFVzWhWFOyeoJFvqYo8E5PRsMrMjuI/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/vuEiZXGAKz21bPFVzWhWFOyeoJFvqYo8E5PRsMrMjuI/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/vuEiZXGAKz21bPFVzWhWFOyeoJFvqYo8E5PRsMrMjuI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vuEiZXGAKz21bPFVzWhWFOyeoJFvqYo8E5PRsMrMjuI/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「たてやま旬鮨　海の花」（JR館山駅から徒歩１分）の「館山炙り海鮮丼」",
+        "sectionTitle": "房総と言えば、海の幸！お得でボリュームたっぷり「館山炙り海鮮丼」"
+      },
+      {
+        "description": "JR館山駅から車またはバスで約15分に建つ「崖観音」。少し頑張って階段を上った先には鏡ケ浦を見渡す絶景が広がります。東京湾の入り口にあたる館山湾は、波が穏やかで海面が鏡のようであることから、別名「鏡ヶ浦」と呼ばれています。空気の澄んだ日には海越しの富士山を眺めることも。また、一面をオレンジ色に染めて海へと沈む夕日は必見です。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/iV3Qnjt3MTLGX_iWvTOHJKZhj6Mx1nUXLCSTjAiQVaU/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/iV3Qnjt3MTLGX_iWvTOHJKZhj6Mx1nUXLCSTjAiQVaU/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/iV3Qnjt3MTLGX_iWvTOHJKZhj6Mx1nUXLCSTjAiQVaU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/iV3Qnjt3MTLGX_iWvTOHJKZhj6Mx1nUXLCSTjAiQVaU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/iV3Qnjt3MTLGX_iWvTOHJKZhj6Mx1nUXLCSTjAiQVaU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iV3Qnjt3MTLGX_iWvTOHJKZhj6Mx1nUXLCSTjAiQVaU/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "崖観音からの眺望",
+        "sectionTitle": "館山湾を一望！ 「崖観音」"
+      },
+      {
+        "description": "JR館山駅から車またはバスで約15分。館山市民もリピートするピーナッツ専門店「ピネキ」のソフトクリーム。これでもか！と思うほどにピーナッツの風味とナッツならではのコクが口いっぱいに広がります。千葉県民は落花生の「塩茹で」がスタンダード。お土産用もありますので、こちらもぜひ一度ご賞味ください。店内にはこの他、様々なピーナッツ商品を販売。お気に入りのピーナッツが見つかること間違いなし！です。",
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://a.mktgcdn.com/p/PaPGuxt0ZrgaACvnftvRgJe0XqeyTl-KJAd-C253FCI/640x480.jpg",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/RbElR7gAccGVKIeQEb1jYJfOlhXAUsDFTrrBsqKyhaM/640x480.jpg",
+              "width": 640
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/RbElR7gAccGVKIeQEb1jYJfOlhXAUsDFTrrBsqKyhaM/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/RbElR7gAccGVKIeQEb1jYJfOlhXAUsDFTrrBsqKyhaM/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/RbElR7gAccGVKIeQEb1jYJfOlhXAUsDFTrrBsqKyhaM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RbElR7gAccGVKIeQEb1jYJfOlhXAUsDFTrrBsqKyhaM/640x480.jpg",
+          "width": 640
+        },
+        "imageCaption": "専門店ならではの味わい豊かなソフトクリーム",
+        "sectionTitle": "行列の絶えないピーナッツ専門店のソフトクリーム"
+      },
+      {
+        "description": "JR館山駅から車5分。徒歩15分。知る人ぞ知るバナナ専門「佐藤商店」。都内のジュースバーや、デパ地下などでも扱われる人気の一品です。産地の選択はもちろん、シュガースポットの状態を見極めつつ、お好みの一房を選べます。そんなに沢山は・・という方には、2本セットもあるので安心。お土産にもおすすめです。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/cRzL3tjZ5aipnnEwde7k6Uf8qUbgVI6Xt56NxPkXUgk/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/cRzL3tjZ5aipnnEwde7k6Uf8qUbgVI6Xt56NxPkXUgk/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/cRzL3tjZ5aipnnEwde7k6Uf8qUbgVI6Xt56NxPkXUgk/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/cRzL3tjZ5aipnnEwde7k6Uf8qUbgVI6Xt56NxPkXUgk/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/cRzL3tjZ5aipnnEwde7k6Uf8qUbgVI6Xt56NxPkXUgk/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cRzL3tjZ5aipnnEwde7k6Uf8qUbgVI6Xt56NxPkXUgk/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "自分好みのバナナが見つかる「バナナ専門店」",
+        "sectionTitle": "売っているのはバナナだけ！三代続く専門店のこだわりバナナ"
+      },
+      {
+        "description": "JR館山駅から車・バス約20分の安房国一之宮　洲崎神社。長く急な階段を上った先には本殿、振り返ると自然豊かな木々の中に美しい海が望めます。本殿から10分ほど歩いた浜鳥居からは天気が良ければ富士山も。鳥居から見える富士山はよりパワーを感じられ、インスタのスポットとしてもおすすめです。季節によっては富士山の頂上に夕日が乗ったダイヤモンド富士を拝むことができます。",
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://a.mktgcdn.com/p/hcJiOM-zRKMgZkZbpMV4llmrGtyyqxwXUgACJg3vgT0/640x480.jpg",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/hq9plX08R-z9cdIhTFV_1qLRieNuLqRpjRx8mcoLvsM/640x480.jpg",
+              "width": 640
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/hq9plX08R-z9cdIhTFV_1qLRieNuLqRpjRx8mcoLvsM/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/hq9plX08R-z9cdIhTFV_1qLRieNuLqRpjRx8mcoLvsM/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/hq9plX08R-z9cdIhTFV_1qLRieNuLqRpjRx8mcoLvsM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hq9plX08R-z9cdIhTFV_1qLRieNuLqRpjRx8mcoLvsM/640x480.jpg",
+          "width": 640
+        },
+        "imageCaption": "洲の崎神社　浜鳥居",
+        "sectionTitle": "鳥居越しに青い海と富士が見える良縁パワースポット"
+      },
+      {
+        "description": "----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2021-11-21",
+    "c_ap_HeroImage": {
+      "alternateText": "お手軽房総プチトリップ♪ ご当地グルメ＆スポットをご紹介【千葉県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 900,
+      "sourceUrl": "https://a.mktgcdn.com/p/qqeffqJQsu-D77hxhrkUj2I-ImZlMFxvtINA3q8uQ4A/1200x900.jpg",
+      "thumbnails": [
+        {
+          "height": 900,
+          "url": "https://a.mktgcdn.com/p-sandbox/qqeffqJQsu-D77hxhrkUj2I-ImZlMFxvtINA3q8uQ4A/1200x900.jpg",
+          "width": 1200
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/qqeffqJQsu-D77hxhrkUj2I-ImZlMFxvtINA3q8uQ4A/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/qqeffqJQsu-D77hxhrkUj2I-ImZlMFxvtINA3q8uQ4A/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/qqeffqJQsu-D77hxhrkUj2I-ImZlMFxvtINA3q8uQ4A/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/qqeffqJQsu-D77hxhrkUj2I-ImZlMFxvtINA3q8uQ4A/1200x900.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "館山海岸通り",
+    "c_ap_LinkArticleSectionTitle": "千葉県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "館山エリア宿泊先はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/120502/?hotellistsort\u003drecommend\u0026staynight\u003d1\u0026room\u003d1\u0026roomassign\u003dm0f0a0b0c0d0\u0026mapdisp\u003d0\u0026planinfokeywordon\u003d1\u0026tyfilteron\u003d1\u0026rawareaname\u003d1205\u0026area\u003d120502"
+      },
+      {
+        "linkText": "千葉県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/list/chiba/?hotellistsort\u003drecommend\u0026staynight\u003d1\u0026room\u003d1\u0026roomassign\u003dm0f0a0b0c0d0\u0026mapdisp\u003d0\u0026planinfokeywordon\u003d1\u0026tyfilteron\u003d1\u0026rawareaname\u003d120502\u0026area\u003d12"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "千葉県"
+    ],
+    "c_ap_ShortDescription": "東京駅や新宿駅からも高速バスで約2時間のらくらくアクセス♪ ほぼ毎時運行しているので、その日の気分で気軽におでかけできます。市内中心にレトロバスが運行中。バスから眺める美しい海も素敵です。※時期によりバスの運行状況が異なりますのでおでかけの際は事前にご確認ください。",
+    "c_ap_Tags": [
+      "館山",
+      "南房総",
+      "絶景",
+      "ソフトクリーム"
+    ],
+    "c_ap_Theme": [
+      "夫婦旅",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "お手軽房総プチトリップ♪ ご当地グルメ＆スポットをご紹介【千葉県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "東京駅や新宿駅からも高速バスで約2時間のらくらくアクセス♪ ほぼ毎時運行しているので、その日の気分で気軽におでかけできます。市内中心にレトロバスが運行中。バスから眺める美しい海も素敵です。※時期によりバスの運…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "お手軽房総プチトリップ♪ ご当地グルメ＆スポットをご紹介【千葉県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100015",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "千葉県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "お手軽房総プチトリップ♪ ご当地グルメ＆スポットをご紹介【千葉県】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

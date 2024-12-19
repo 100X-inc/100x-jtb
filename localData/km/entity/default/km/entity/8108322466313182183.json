@@ -1,0 +1,130 @@
+{
+  "$id": "8108322466313182183",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "address": {
+      "city": "船橋市",
+      "countryCode": "JP",
+      "line1": "本町1-3-1",
+      "line2": "船橋FACE3階",
+      "postalCode": "273-0005",
+      "region": "千葉県"
+    },
+    "addressHidden": false,
+    "appleCompanyId": "1480313529409856512",
+    "c_altName": "[[name]]",
+    "c_pagesSortGroup": "B",
+    "c_socialLINEURL": "https://line.me/ti/p/%40jtbhd",
+    "c_socialYouTubeURL": "https://www.youtube.com/channel/UCjDeNR2xFC4wFh3txHql20Q",
+    "c_v2AdditionalHoursText": "[[additionalHoursText]]",
+    "c_v2CTAGetDirection": {
+      "label": "アクセス"
+    },
+    "c_v2CTAReservation": {
+      "label": "相談予約\u003c/br\u003e（来店／オンライン）",
+      "linkType": "OTHER"
+    },
+    "c_v2CTASecondary2": {
+      "label": "イベント予約",
+      "linkType": "OTHER"
+    },
+    "c_v2CTASecondary3": {
+      "label": "受付状況",
+      "linkType": "OTHER"
+    },
+    "c_v2DomesticAirlineTicketsSubtitle": "※国内航空券の取扱いは店舗によって異なります。別途取扱料金を申し受けます（1区間あたり1,100円/人）",
+    "c_v2GiftCertificatesAndTravelCouponsSubtitle": "※商品の詳細は\u003ca href\u003d\"https://www.jtb.co.jp/gift/\" target\u003d\"_blank\"\u003eこちら\u003c/a\u003e（店頭支払方法は、現金のみ）",
+    "c_v2ImportantStoreInformationTag": {
+      "label": "ご来店前にお読みください",
+      "link": "#important-store-information",
+      "linkType": "OTHER"
+    },
+    "c_v2MetaDescription": "[[c_altName]] | [[address.region]] [[address.city]] [[address.line1]] - JTBスタッフが旅心を刺激するご提案をいたします",
+    "c_v2MetaTitle": "[[c_altName]]: [[address.region]] [[address.city]]",
+    "c_v2PromoSectionTitle": "JTBからのご案内",
+    "c_v2ReservationForVisitSubtitle": "（予約ボタンからご予約ください）",
+    "c_v2StaffSectionTitle": "店舗ニュース・イベント",
+    "c_v2Tel1": {
+      "label": "●店舗の電話番号はこちら（来店予約、店舗で予約した旅行の変更や取消など）"
+    },
+    "c_v2Tel3": {
+      "label": "●新規旅行の申込・相談は「JTB旅の予約センター」でも承れます（この電話は店舗には繋がりません） ※JR券のみのお取り扱いはございません"
+    },
+    "c_店舗MetaDescription": "[[c_altName]] | [[address.region]] [[address.city]] [[address.line1]] - JTBスタッフが旅心を刺激するご提案をいたします",
+    "c_店舗MetaTitle": "[[c_altName]]: [[address.region]] [[address.city]]",
+    "categoryIds": [
+      "1384835",
+      "1960",
+      "303",
+      "1322995",
+      "1322996",
+      "1322997"
+    ],
+    "facebookCoverPhoto": {
+      "height": 315,
+      "sourceUrl": "http://a.mktgcdn.com/p/vafruIRlKe18mCJnJEpbA94-0UU2CBOk1Vj2C22bU3g/851x315.png",
+      "thumbnails": [
+        {
+          "height": 315,
+          "url": "http://a.mktgcdn.com/p-sandbox/73CJnTRFck5dyo3Vj-czdMKpBizj3BecXHcSbYG-zJg/851x315.png",
+          "width": 851
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/73CJnTRFck5dyo3Vj-czdMKpBizj3BecXHcSbYG-zJg/851x315.png",
+      "width": 851
+    },
+    "facebookName": "JTB",
+    "facebookParentPageId": "119682294718779",
+    "facebookProfilePhoto": {
+      "height": 404,
+      "sourceUrl": "http://a.mktgcdn.com/p/40P8avuMMkKHt9ca8aKx5Zqvq3RFdXsfXeY9kHlRRr8/404x404.jpg",
+      "thumbnails": [
+        {
+          "height": 404,
+          "url": "http://a.mktgcdn.com/p-sandbox/40P8avuMMkKHt9ca8aKx5Zqvq3RFdXsfXeY9kHlRRr8/404x404.jpg",
+          "width": 404
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/40P8avuMMkKHt9ca8aKx5Zqvq3RFdXsfXeY9kHlRRr8/404x404.jpg",
+      "width": 404
+    },
+    "featuredMessage": {
+      "description": "旅行予約はJTB！旅を楽しくする多彩なプラン、安心と信頼のツアーラインナップが満載。"
+    },
+    "logo": {
+      "image": {
+        "height": 150,
+        "sourceUrl": "http://a.mktgcdn.com/p/8rF0yEISTHNSCg-3PRvEHGnXcvZ3mbWAkPDo22nulwY/150x150.png",
+        "thumbnails": [
+          {
+            "height": 150,
+            "url": "http://a.mktgcdn.com/p-sandbox/L1Wh87Gbikm5eVk0WP5AB2UrG-NaNDv7dssyyjlTAhA/150x150.png",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "http://a.mktgcdn.com/p-sandbox/L1Wh87Gbikm5eVk0WP5AB2UrG-NaNDv7dssyyjlTAhA/94x94.png",
+            "width": 94
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/L1Wh87Gbikm5eVk0WP5AB2UrG-NaNDv7dssyyjlTAhA/150x150.png",
+        "width": 150
+      }
+    },
+    "mainPhone": "+81474137880",
+    "name": "船橋店個人カレンダー",
+    "slug": "[[entityId]]",
+    "timezone": "Asia/Tokyo",
+    "websiteUrl": {
+      "displayUrl": "[[c_pagesURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_pagesURL]]"
+    }
+  },
+  "entityType": "location",
+  "folder": "10105船橋店",
+  "labels": [
+    "label3ライセンスなし"
+  ]
+}

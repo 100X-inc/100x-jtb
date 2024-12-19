@@ -1,0 +1,40 @@
+{
+  "$id": "kando-toki-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/5_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.588149%2C144.722554",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "冬",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "シマフクロウは「日本最大のフクロウ」といわれ、国内では北海道の知床など東部だけに生息しています。現在の生息数はわずか百羽程度といわれており、絶滅のおそれが最も高い絶滅危惧ⅠＡ類に指定されています。夜行性のため、見られる機会も限られています。屈斜路湖・摩周湖にほど近い中標津にある養老牛温泉は、そんなシマフクロウ達が棲む森の中にあり、400年ほど前からアイヌの人々に愛されてきた歴史ある温泉です。\n見所・お勧めポイント\n養老牛温泉の森の中でシマフクロウを見ることが出来るポイントが「湯宿だいいち」です。運が良ければロビーの大きな窓から止まり木にたたずむ巨大なシマフクロウの姿を存分に楽しむことが出来ます。また、露天風呂に入っている際もシマフクロウの鳴き声が聞こえてくるかもしれません。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/5.asp",
+    "name": "養老牛温泉のシマフクロウ"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

@@ -1,0 +1,52 @@
+{
+  "$id": "news_pa_korea",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kaigai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "韓国",
+      "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea",
+      "linkType": "URL"
+    },
+    "c_news_PopularAreasImage": {
+      "alternateText": "韓国",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/UAayVCcNtFnVOxcEpOLVTW1nDcWv79qvYGlVnp1_wEc/1920x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/UAayVCcNtFnVOxcEpOLVTW1nDcWv79qvYGlVnp1_wEc/1920x800.jpg",
+          "width": 1920
+        },
+        {
+          "height": 792,
+          "url": "https://a.mktgcdn.com/p-sandbox/UAayVCcNtFnVOxcEpOLVTW1nDcWv79qvYGlVnp1_wEc/1900x792.jpg",
+          "width": 1900
+        },
+        {
+          "height": 258,
+          "url": "https://a.mktgcdn.com/p-sandbox/UAayVCcNtFnVOxcEpOLVTW1nDcWv79qvYGlVnp1_wEc/619x258.jpg",
+          "width": 619
+        },
+        {
+          "height": 250,
+          "url": "https://a.mktgcdn.com/p-sandbox/UAayVCcNtFnVOxcEpOLVTW1nDcWv79qvYGlVnp1_wEc/600x250.jpg",
+          "width": 600
+        },
+        {
+          "height": 82,
+          "url": "https://a.mktgcdn.com/p-sandbox/UAayVCcNtFnVOxcEpOLVTW1nDcWv79qvYGlVnp1_wEc/196x82.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/UAayVCcNtFnVOxcEpOLVTW1nDcWv79qvYGlVnp1_wEc/1920x800.jpg",
+      "width": 1920
+    },
+    "name": "韓国"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

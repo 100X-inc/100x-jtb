@@ -1,0 +1,417 @@
+{
+  "$id": "news_ap_osarea_0000071",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "バルセロナ郷土の味！　カタルーニャ料理を楽しむ【スペイン バルセロナ】",
+      "height": 1424,
+      "sourceUrl": "http://a.mktgcdn.com/p/uabUZUTl8LsTJ_RJcVPmTPqj5scf-Zvopef34Ouv_9Y/2144x1424.jpg",
+      "thumbnails": [
+        {
+          "height": 1424,
+          "url": "//a.mktgcdn.com/p-sandbox/fML4j3z7TcpOYeBZf_6Jrcs-Md1taqNnPu36mduOpsE/2144x1424.jpg",
+          "width": 2144
+        },
+        {
+          "height": 1262,
+          "url": "//a.mktgcdn.com/p-sandbox/fML4j3z7TcpOYeBZf_6Jrcs-Md1taqNnPu36mduOpsE/1900x1262.jpg",
+          "width": 1900
+        },
+        {
+          "height": 411,
+          "url": "//a.mktgcdn.com/p-sandbox/fML4j3z7TcpOYeBZf_6Jrcs-Md1taqNnPu36mduOpsE/619x411.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "//a.mktgcdn.com/p-sandbox/fML4j3z7TcpOYeBZf_6Jrcs-Md1taqNnPu36mduOpsE/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "//a.mktgcdn.com/p-sandbox/fML4j3z7TcpOYeBZf_6Jrcs-Md1taqNnPu36mduOpsE/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/fML4j3z7TcpOYeBZf_6Jrcs-Md1taqNnPu36mduOpsE/2144x1424.jpg",
+      "width": 2144
+    },
+    "c_ap_HeroImageCaption": "豚肉を腸詰めにした定番料理「ブティファラ」",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "スペイン旅行をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/spain/"
+      },
+      {
+        "linkText": "バルセロナの現地ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aEUR/bES/cBCN/"
+      },
+      {
+        "linkText": "バルセロナのツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dBCN"
+      },
+      {
+        "linkText": "スペインのホテルをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/166/?freeword\u003d%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d166"
+      },
+      {
+        "linkText": "バルセロナ行きの航空券をみる",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/europe/spain/barcelona/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "バルセロナが位置するスペイン北東部・カタルーニャ地方は、東は地中海、北はピレネー山脈に面した自然豊かな土地。この地で育まれたカタルーニャ料理には、キノコや地中海の新鮮魚介など、山海の幸をシンプルに調理したものが多いです。バルセロナでぜひ堪能したいカタルーニャ料理の人気店をご紹介します。（写真：ジュリベルト・メウ）",
+    "c_ap_Tags": [
+      "グルメ",
+      "バルセロナ",
+      "カタルーニャ料理",
+      "海の幸",
+      "ワイン",
+      "レストラン"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "ファミリー",
+      "一人旅",
+      "グループ",
+      "街あるき",
+      "グルメ",
+      "お酒"
+    ],
+    "c_ap_Title": "バルセロナ名物！カタルーニャ料理を楽しもう【スペイン】",
+    "c_linkedArea3News": [
+      "spain"
+    ],
+    "c_metaDescription": "バルセロナが位置するカタルーニャ地方では、郷土料理のカタルーニャ料理が味わえます。カタルーニャ料理には、キノコや地中海の新鮮魚介など、山海の幸をシンプルに調理したものが多いです。バルセロナでぜひ堪能したいカタルーニャ料理の人気店をご紹介します。",
+    "c_metaTitle": "バルセロナ名物！カタルーニャ料理を楽しもう【スペイン】",
+    "c_news_CTAs": [
+      {
+        "label": "バルセロナのツアー・パックをみる",
+        "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dBCN",
+        "linkType": "URL"
+      },
+      {
+        "label": "バルセロナの現地ツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aEUR/bES/cBCN/",
+        "linkType": "URL"
+      },
+      {
+        "label": "スペインのホテルをみる",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/166/?freeword\u003d%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d166",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ロス・カラコレスを詳しくみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/western_europe/spain/BCN/115901/index.html",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "バルセロナで軽く一杯！おすすめバルをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/europe/spain/news_ap_osarea_0000063",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "バルセロナみやげに！ユニークな雑貨ショップをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/europe/spain/news_ap_osarea_0000073",
+          "linkType": "URL"
+        },
+        "description": "ゴシック地区にある1835年創業の老舗「ロス・カラコレス」は、天才画家・ダリも訪れたという名店。風情ある店内には多くの著名人のサインが飾られており、お店の盛況ぶりが伺えます。",
+        "image": {
+          "alternateText": "ブティファラ€9.90",
+          "height": 2000,
+          "sourceUrl": "https://a.mktgcdn.com/p/WuKv8b2I0bMcN1b3sE5tm6x3iOlktQ4fk5GtPFmwApI/3008x2000.jpg",
+          "thumbnails": [
+            {
+              "height": 2000,
+              "url": "https://a.mktgcdn.com/p-sandbox/WuKv8b2I0bMcN1b3sE5tm6x3iOlktQ4fk5GtPFmwApI/3008x2000.jpg",
+              "width": 3008
+            },
+            {
+              "height": 1263,
+              "url": "https://a.mktgcdn.com/p-sandbox/WuKv8b2I0bMcN1b3sE5tm6x3iOlktQ4fk5GtPFmwApI/1900x1263.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/WuKv8b2I0bMcN1b3sE5tm6x3iOlktQ4fk5GtPFmwApI/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/WuKv8b2I0bMcN1b3sE5tm6x3iOlktQ4fk5GtPFmwApI/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/WuKv8b2I0bMcN1b3sE5tm6x3iOlktQ4fk5GtPFmwApI/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WuKv8b2I0bMcN1b3sE5tm6x3iOlktQ4fk5GtPFmwApI/3008x2000.jpg",
+          "width": 3008
+        },
+        "imageCaption": "お店の伝統を伝える格調高い雰囲気の店内",
+        "infoBlockLabel": "Los Caracolesの情報",
+        "infoBlockText": "住所：C. dels Escudellers営業時間：13～24時（料理提供は13時～15時30分、19時30分～22時30分）定休日：火曜（夏季と1月に長期休暇あり）",
+        "sectionTitle": "ロス・カラコレス（Los Caracoles）"
+      },
+      {
+        "cTA1": {
+          "label": "バルセロナでパエリアを堪能しよう！",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/europe/spain/news_ap_osarea_0000062",
+          "linkType": "URL"
+        },
+        "description": "名物はカタツムリを辛めのトマトソースで煮込んだ「カラコレス」。スペインでは、カタツムリは路上でも売られているほど一般的なおつまみです。巻貝を食べるように楊枝を使って食べます。百聞は一見に如かず！　食べてみると、意外にジューシーな味わいに驚かされることでしょう。",
+        "image": {
+          "alternateText": "カネロニ€9.50",
+          "height": 2519,
+          "sourceUrl": "https://a.mktgcdn.com/p/xK_2CD4QcQj1fAuV6w_8jxaOXjYQ2E8BBoX6F_xXpJU/3359x2519.jpg",
+          "thumbnails": [
+            {
+              "height": 2519,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rk_KVvUSv_mgjqPFi0N2T4RcbTICilK4lDj9WpJYsS4/3359x2519.jpg",
+              "width": 3359
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rk_KVvUSv_mgjqPFi0N2T4RcbTICilK4lDj9WpJYsS4/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rk_KVvUSv_mgjqPFi0N2T4RcbTICilK4lDj9WpJYsS4/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rk_KVvUSv_mgjqPFi0N2T4RcbTICilK4lDj9WpJYsS4/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rk_KVvUSv_mgjqPFi0N2T4RcbTICilK4lDj9WpJYsS4/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Rk_KVvUSv_mgjqPFi0N2T4RcbTICilK4lDj9WpJYsS4/3359x2519.jpg",
+          "width": 3359
+        },
+        "imageCaption": "カラコレス€13.50",
+        "infoBlockLabel": "Julivert Meuの情報",
+        "infoBlockText": "住所：C. Bonsuccés 7営業時間：13時～翌1時（金曜は13～16時、土・月曜は13～24時）定休日：日曜",
+        "sectionTitle": "ジュリベルト・メウ（Julivert Meu）"
+      },
+      {
+        "description": "壁に並べられたワインの数々、天井付近に飾られたお皿がノスタルジックな雰囲気を醸し出す「ジュリベルト・メウ」。カタルーニャの素朴な郷土料理を扱うレストランで、昔からの変わらぬ味を大切にしています。「ブティファラ」は豚肉を腸詰めにしたカタルーニャのスタンダードな料理で、豚の血入りと血なしから選ぶことができます。ほかには、焼き野菜にヤギのチーズのキャラメリゼを乗せた「エスカリバーダ・コン・ケソ・デ・ガブラ」€9.50などがおすすめ。カタルーニャやスペイン北部を産地とする数十種類のワインは、いずれも料理と抜群の相性を誇ります。心ゆくまでカタルーニャ郷土の味を楽しみましょう。",
+        "image": {
+          "alternateText": "フィデウア€21（1人前）",
+          "height": 4288,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZV16P0sAFW5VMHwNVEId1iCGgpF8zpGP6vverJpRU0k/2848x4288.jpg",
+          "thumbnails": [
+            {
+              "height": 4288,
+              "url": "https://a.mktgcdn.com/p-sandbox/vl5MH0hLsQSXjXrmCxuNhS9qaiT8hmZzlgXrOWII8pc/2848x4288.jpg",
+              "width": 2848
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/vl5MH0hLsQSXjXrmCxuNhS9qaiT8hmZzlgXrOWII8pc/1262x1900.jpg",
+              "width": 1262
+            },
+            {
+              "height": 932,
+              "url": "https://a.mktgcdn.com/p-sandbox/vl5MH0hLsQSXjXrmCxuNhS9qaiT8hmZzlgXrOWII8pc/619x932.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/vl5MH0hLsQSXjXrmCxuNhS9qaiT8hmZzlgXrOWII8pc/299x450.jpg",
+              "width": 299
+            },
+            {
+              "height": 295,
+              "url": "https://a.mktgcdn.com/p-sandbox/vl5MH0hLsQSXjXrmCxuNhS9qaiT8hmZzlgXrOWII8pc/196x295.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vl5MH0hLsQSXjXrmCxuNhS9qaiT8hmZzlgXrOWII8pc/2848x4288.jpg",
+          "width": 2848
+        },
+        "imageCaption": "ブティファラ€9.90",
+        "infoBlockLabel": "Can Culleretesの情報",
+        "infoBlockText": "住所：Quintana, 5営業時間：13時30分～15時30分、20時～22時30分定休日：月曜、日曜の夜",
+        "sectionTitle": "カン・クジェレテス （Can Culleretes）"
+      },
+      {
+        "description": "マドリードのボティンに次ぎ、スペインで2番目に古いレストラン「カン・クジェレテス」。創業は1786年で元々はホットチョコレートを提供するカフェでしたが、現在は伝統的なカタルーニャ料理のお店になりました。看板料理「カネロニ」は板状のパスタでひき肉を巻き、クリームソースをかけてオーブンで焼いた一品で、カタルーニャ定番の家庭料理です。仔豚がパリッと焼かれた「レチョン・ア・ラ・カタラナ」€21や鴨のロースト「パト・ギサド・コン・シルエラス」€15などの肉料理もおすすめ。一部に創業時の内装を残す歴史ある店内で、思う存分カタルーニャの郷土の味をいただきましょう。",
+        "image": {
+          "alternateText": "テラス席から地中海を眺めることができる",
+          "height": 630,
+          "sourceUrl": "https://a.mktgcdn.com/p/hGA1V1QxQjP1_mZUewxPfRbLh3nTXS-QwcPYM8AqB5E/945x630.jpg",
+          "thumbnails": [
+            {
+              "height": 630,
+              "url": "https://a.mktgcdn.com/p-sandbox/AXyEbPUhbFRCZrf_JxwWh6mhWzFVA4IMlz0z0s18uXg/945x630.jpg",
+              "width": 945
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/AXyEbPUhbFRCZrf_JxwWh6mhWzFVA4IMlz0z0s18uXg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/AXyEbPUhbFRCZrf_JxwWh6mhWzFVA4IMlz0z0s18uXg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/AXyEbPUhbFRCZrf_JxwWh6mhWzFVA4IMlz0z0s18uXg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AXyEbPUhbFRCZrf_JxwWh6mhWzFVA4IMlz0z0s18uXg/945x630.jpg",
+          "width": 945
+        },
+        "imageCaption": "カネロニ€9.50",
+        "infoBlockLabel": "La Mar Saladaの情報",
+        "infoBlockText": "住所：Passeig de Joan de Borbó, 58営業時間：13時～15時45分（土・日曜は13時～16時15分）、20時～22時45分定休日：火曜、日曜の夜",
+        "sectionTitle": "ラ・マル・サラーダ （La Mar Salada）"
+      },
+      {
+        "description": "バルセロネータに店を構える「ラ・マル・サラーダ」は、オーナーが毎朝市場から魚介を仕入れてくる本格的な地中海料理店。清潔感あふれる白を基調とした店内も良いですが、海風を感じるテラス席でシーフードを味わうのがおすすめです。こちらのお店の名物「フィデウア」は米の代わりに2cmほどのショートパスタを使用し、魚介と一緒に調理した“パエーリャの亜種”。米を切らしていたのでパスタを使用したというお茶目なエピソードが起源とされています。",
+        "image": {
+          "alternateText": "サルスエラ€26",
+          "height": 639,
+          "sourceUrl": "https://a.mktgcdn.com/p/2aD7LMEb7cQYt3Kgkpzc0I3ejyPzCSHIyDnt44QNVog/958x639.jpg",
+          "thumbnails": [
+            {
+              "height": 639,
+              "url": "https://a.mktgcdn.com/p-sandbox/we4-F4-m0JNdlH9ykHaa_6Ab2Wuh1AX-Ntros3ajWIc/958x639.jpg",
+              "width": 958
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/we4-F4-m0JNdlH9ykHaa_6Ab2Wuh1AX-Ntros3ajWIc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/we4-F4-m0JNdlH9ykHaa_6Ab2Wuh1AX-Ntros3ajWIc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/we4-F4-m0JNdlH9ykHaa_6Ab2Wuh1AX-Ntros3ajWIc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/we4-F4-m0JNdlH9ykHaa_6Ab2Wuh1AX-Ntros3ajWIc/958x639.jpg",
+          "width": 958
+        },
+        "imageCaption": "フィデウア€21（1人前）",
+        "infoBlockLabel": "Can Majóの情報",
+        "infoBlockText": "住所：Almirall Aixada 23営業時間：13時～22時30分(火・日曜は13時～16時30分)定休日：月曜",
+        "sectionTitle": "カン・マジョ （Can Majó）"
+      },
+      {
+        "description": "同じくバルセロネータにある「カン・マジョ」は、この地で50年以上続く家族経営のお店。テラス席では地中海を眺めながらの優雅な食事を楽しめます。新鮮な魚介を使ったオーブン焼きや鉄板焼き、多種多様な米料理は、地元の人も太鼓判を押す絶品揃い。",
+        "image": {
+          "height": 918,
+          "sourceUrl": "https://a.mktgcdn.com/p/nrdDmzYeKIOU_btSiEi-FBk0bUgRH7Ck8H5a90B8GMI/1380x918.jpg",
+          "thumbnails": [
+            {
+              "height": 918,
+              "url": "https://a.mktgcdn.com/p-sandbox/nrdDmzYeKIOU_btSiEi-FBk0bUgRH7Ck8H5a90B8GMI/1380x918.jpg",
+              "width": 1380
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/nrdDmzYeKIOU_btSiEi-FBk0bUgRH7Ck8H5a90B8GMI/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/nrdDmzYeKIOU_btSiEi-FBk0bUgRH7Ck8H5a90B8GMI/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/nrdDmzYeKIOU_btSiEi-FBk0bUgRH7Ck8H5a90B8GMI/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nrdDmzYeKIOU_btSiEi-FBk0bUgRH7Ck8H5a90B8GMI/1380x918.jpg",
+          "width": 1380
+        },
+        "imageCaption": "テラス席から地中海を眺めることができる"
+      },
+      {
+        "description": "アガサエビ、イカ、ムール貝、アンコウ、白身魚などをトマトベースのスープで煮込んだ「サルスエラ」は、メニューには書いていない“シークレットメニュー”。直接お店の方に注文を伝えましょう。茹でたポテトを加えたタコ料理「プルポ・ア・ラ・ガジェガ」€19もおすすめの品です。",
+        "image": {
+          "height": 918,
+          "sourceUrl": "https://a.mktgcdn.com/p/LPgc2CtKvYlBp42476Gq6Pl8ch7-cV2lrbCr1r1DyUw/1382x918.jpg",
+          "thumbnails": [
+            {
+              "height": 918,
+              "url": "https://a.mktgcdn.com/p-sandbox/LPgc2CtKvYlBp42476Gq6Pl8ch7-cV2lrbCr1r1DyUw/1382x918.jpg",
+              "width": 1382
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/LPgc2CtKvYlBp42476Gq6Pl8ch7-cV2lrbCr1r1DyUw/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/LPgc2CtKvYlBp42476Gq6Pl8ch7-cV2lrbCr1r1DyUw/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/LPgc2CtKvYlBp42476Gq6Pl8ch7-cV2lrbCr1r1DyUw/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/LPgc2CtKvYlBp42476Gq6Pl8ch7-cV2lrbCr1r1DyUw/1382x918.jpg",
+          "width": 1382
+        },
+        "imageCaption": "サルスエラ€26"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000073",
+      "news_ap_osarea_0000075",
+      "news_ap_osarea_0000074",
+      "news_ap_osarea_0000060",
+      "news_ap_osarea_0000063",
+      "news_ap_osarea_0000061",
+      "news_ap_osarea_0000062",
+      "news_ap_osarea_0000072",
+      "news_ap_osarea_0000064"
+    ],
+    "c_news_FeaturedArticlesTitle": "スペインのその他の投稿記事",
+    "c_news_PublicationDate": "2023-07-13",
+    "c_news_UpdateDate": "2024-09-09",
+    "c_news_ViewCount": "496",
+    "c_news_ViewCount1of2": "4",
+    "c_news_ViewCount2of2": "496",
+    "c_news_ViewCountNum": "496",
+    "c_news_ViewCountNumForSorting": "37",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/europe/spain/news_ap_osarea_0000071",
+    "name": "バルセロナ名物！カタルーニャ料理を楽しもう【スペイン】",
+    "slug": "kaigai/europe/spain/news_ap_osarea_0000071"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

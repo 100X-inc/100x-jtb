@@ -1,0 +1,798 @@
+{
+  "$id": "news_ap_store_00016",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB北千住マルイ店　たなぴー、うえぴぃ、おかぴ"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "「SdCoffee」の牛乳シェイク。銭湯モチーフの内装もキュート！",
+      "height": 800,
+      "sourceUrl": "http://a.mktgcdn.com/p/Jdp_3RLTxg0UQZ5YO7b_ORdEX990suO-rkNVJnPnEaM/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "//a.mktgcdn.com/p-sandbox/Jdp_3RLTxg0UQZ5YO7b_ORdEX990suO-rkNVJnPnEaM/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/Jdp_3RLTxg0UQZ5YO7b_ORdEX990suO-rkNVJnPnEaM/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/Jdp_3RLTxg0UQZ5YO7b_ORdEX990suO-rkNVJnPnEaM/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/Jdp_3RLTxg0UQZ5YO7b_ORdEX990suO-rkNVJnPnEaM/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/Jdp_3RLTxg0UQZ5YO7b_ORdEX990suO-rkNVJnPnEaM/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "「SdCoffee」の牛乳シェイク。銭湯モチーフの内装もキュート！",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "東京旅行・ツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/tokyo/"
+      },
+      {
+        "linkText": "東京のホテル・旅館・宿をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/tokyo/"
+      },
+      {
+        "linkText": "JTB北千住店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/j3385-0"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "北千住を1日で巡るモデルコースをご紹介♪　人情商店街で知られる「宿場町通り商店街」、パワースポット「五丁目大川町氷川神社」、“キング・オブ・縁側”として人気の銭湯「タカラ湯」など見どころいっぱい。旅のシメはカフェ「Sd Coffee」で昭和にタイムトラベル！？　一周回って新しい、人情味とレトロがあふれる１日を過ごそう★\n\n＜投稿者コメント＞\n北千住在住のスタッフ、足立区千住が大好き、飲みに行くなら北千住！というスタッフからの情報のほんの一部、魅力溢れるコースをご紹介致します！！駅からすぐ、がやがやと活気ある街を是非散策してみてください～♪",
+    "c_ap_Tags": [
+      "観光スポット",
+      "神社",
+      "モデルコース",
+      "街歩き",
+      "大江戸プラン",
+      "商店街",
+      "銭湯",
+      "パワーポイント",
+      "カフェ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "寺社・教会",
+      "街あるき",
+      "グルメ",
+      "ショッピング",
+      "カフェ",
+      "ご当地グルメ",
+      "温泉・立ち寄り湯"
+    ],
+    "c_ap_Title": "北千住の魅力がまるわかり！商店街や銭湯を巡る1日観光モデルコース",
+    "c_linkedArea3News": [
+      "tokyo"
+    ],
+    "c_metaDescription": "北千住を巡る1日観光のモデルコースをご紹介♪　人情商店街で知られる「宿場町通り商店街」をはじめ、銭湯やこだわりカフェを巡ります。北千住観光を楽しみましょう！",
+    "c_metaTitle": "北千住の魅力がまるわかり！商店街や銭湯を巡る1日観光モデルコース",
+    "c_news_CTAs": [
+      {
+        "label": "東京旅行・ツアー・パックをみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/tokyo/",
+        "linkType": "URL"
+      },
+      {
+        "label": "東京のホテル・旅館・宿をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/tokyo/",
+        "linkType": "URL"
+      },
+      {
+        "label": "JTB大江戸デスクホームページはこちら",
+        "link": "https://consultants.jtb.co.jp/top-tokyo",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "レトロな下町・深川で昭和にタイムスリップしよう！",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00007",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "あのアニメの聖地巡礼！亀有半日散策コースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00017",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "神楽坂エリアで御朱印巡りをしよう！",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00003",
+          "linkType": "URL"
+        },
+        "description": "まずは、北千住駅東口から徒歩5分の「ここのつ 2号店」へ！　“究極のレバニラ”を求めて遠方からもお客さんが訪れる定食店「ここのつ」の新店です。",
+        "image": {
+          "alternateText": "令和3年（2021）年に開店した2号店",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/A6FaPaAqcdIIFwIXgY7Im73NGdBi8K23vjQv0MqDUww/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/A6FaPaAqcdIIFwIXgY7Im73NGdBi8K23vjQv0MqDUww/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/A6FaPaAqcdIIFwIXgY7Im73NGdBi8K23vjQv0MqDUww/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/A6FaPaAqcdIIFwIXgY7Im73NGdBi8K23vjQv0MqDUww/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/A6FaPaAqcdIIFwIXgY7Im73NGdBi8K23vjQv0MqDUww/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/A6FaPaAqcdIIFwIXgY7Im73NGdBi8K23vjQv0MqDUww/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "令和3年（2021）年に開店した2号店",
+        "infoBlockLabel": "ここのつ 2号店の情報",
+        "infoBlockText": "電話：03-5284-9141住所：東京都足立区千住東2-3-7時間：11～15時、17時30分～22時（祝日は11～21時）※ラストオーダーは各30分前まで休み：日曜アクセス：各線北千住駅から徒歩5分",
+        "sectionTitle": "11：30｜究極のレバにら＆まかない飯が人気の「ここのつ」でランチ"
+      },
+      {
+        "description": "看板メニュー「“元祖”のレバにら炒め」は、新鮮な鶏のレバーとニラのみを使ったシンプルな一品。素材の魅力を存分に味わえます。希少な白レバーを使用していて、その味はまるでフォアグラと評されるほど濃厚で上品。苦みが少ないので、レバーが苦手な人でも食べられちゃいます。甘辛い絶妙な味付けで、ご飯が進む進む…！",
+        "image": {
+          "alternateText": "店内はカウンター席が中心です",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/4SfErqAYMwrB_K3arnqNzfg1retaLYRKU0XSB7uwutA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/4SfErqAYMwrB_K3arnqNzfg1retaLYRKU0XSB7uwutA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/4SfErqAYMwrB_K3arnqNzfg1retaLYRKU0XSB7uwutA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/4SfErqAYMwrB_K3arnqNzfg1retaLYRKU0XSB7uwutA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/4SfErqAYMwrB_K3arnqNzfg1retaLYRKU0XSB7uwutA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4SfErqAYMwrB_K3arnqNzfg1retaLYRKU0XSB7uwutA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "店内はカウンター席が中心です",
+        "infoBlockLabel": "宿場町通り商店街の情報",
+        "infoBlockText": "電話：なし住所：東京都足立区千住3-76時間：店舗により異なる休み：店舗により異なるアクセス：各線北千住駅から徒歩3分",
+        "sectionTitle": "13：00｜「LUSH-COFFEE」のコーヒーを片手に「宿場町通り商店街」を散策"
+      },
+      {
+        "description": "もうひとつの看板メニュー「幸せライス」950円は、オーナーの修業時代のまかない飯を再現したものだそう。鶏ひき肉に鶏皮、トマト、玉ねぎ、チーズ、海苔を合わせて白いご飯にかけた「幸せライス」は、“食べるとみんなが幸せになる”というネーミングの由来にぴったりの味！",
+        "image": {
+          "alternateText": "ボリューム満点の「“元祖”のレバにら炒め」950円。付け合わせの小鉢やみそ汁の味も好評です",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/97T06bgQKYNvb1nlLNjs_JAKjaf49cccTy5fTw2OvYY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/97T06bgQKYNvb1nlLNjs_JAKjaf49cccTy5fTw2OvYY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/97T06bgQKYNvb1nlLNjs_JAKjaf49cccTy5fTw2OvYY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/97T06bgQKYNvb1nlLNjs_JAKjaf49cccTy5fTw2OvYY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/97T06bgQKYNvb1nlLNjs_JAKjaf49cccTy5fTw2OvYY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/97T06bgQKYNvb1nlLNjs_JAKjaf49cccTy5fTw2OvYY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ボリューム満点の「“元祖”のレバにら炒め」950円。付け合わせの小鉢やみそ汁の味も好評です",
+        "infoBlockLabel": "LUSH-COFFEE Roaster and Laboratoryの情報",
+        "infoBlockText": "電話：03-3881-3558住所：東京都足立区千住3-33 園生ビル1階時間：11～20時（土・日曜、祝日は10時～）休み：無休アクセス：各線北千住駅から徒歩3分",
+        "sectionTitle": "14：00｜地元民集う「五丁目大川町氷川神社」の「富士塚」でエナジーチャージ"
+      },
+      {
+        "description": "サイドメニューも豊富で、からあげやご飯のお供を注文できるのも“おいしい”ポイント。もちろんレバにら炒めの単品注文もOK。お腹いっぱい食べて、この後の散策に向けて元気をチャージしましょう★",
+        "image": {
+          "alternateText": "「レバにら炒めと幸せライス」1680円なら、店のイチオシを同時に味わえる♪",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/cadmkuqDCtJIF_BLeVwF6KpoYnKEeb-ECbTbnqRTm8w/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/cadmkuqDCtJIF_BLeVwF6KpoYnKEeb-ECbTbnqRTm8w/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/cadmkuqDCtJIF_BLeVwF6KpoYnKEeb-ECbTbnqRTm8w/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/cadmkuqDCtJIF_BLeVwF6KpoYnKEeb-ECbTbnqRTm8w/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/cadmkuqDCtJIF_BLeVwF6KpoYnKEeb-ECbTbnqRTm8w/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cadmkuqDCtJIF_BLeVwF6KpoYnKEeb-ECbTbnqRTm8w/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「レバにら炒めと幸せライス」1680円なら、店のイチオシを同時に味わえる♪",
+        "infoBlockLabel": "五丁目大川町氷川神社の情報",
+        "infoBlockText": "電話：非公開住所：東京都足立区千住大川町12-3料金：境内無料時間：散策自由休み：散策自由アクセス：各線北千住駅から徒歩16分",
+        "sectionTitle": "15：00｜「キング・オブ・縁側」！日本庭園を望む「タカラ湯」で癒される"
+      },
+      {
+        "description": "腹ごしらえが済んだら、散策へレッツゴー！　江戸時代、宿場町「千住宿」として栄えた北千住。その面影が残る旧日光街道沿いにあるのが「宿場町通り商店街」です。",
+        "image": {
+          "alternateText": "商店街としての発足は昭和25年（1950）、70年以上の歴史を築いています",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/QOJ9Y0VApcu8HZ6SHkL0HnQKToUlt9i6BzOB4kvS_hI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/QOJ9Y0VApcu8HZ6SHkL0HnQKToUlt9i6BzOB4kvS_hI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/QOJ9Y0VApcu8HZ6SHkL0HnQKToUlt9i6BzOB4kvS_hI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/QOJ9Y0VApcu8HZ6SHkL0HnQKToUlt9i6BzOB4kvS_hI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/QOJ9Y0VApcu8HZ6SHkL0HnQKToUlt9i6BzOB4kvS_hI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QOJ9Y0VApcu8HZ6SHkL0HnQKToUlt9i6BzOB4kvS_hI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "商店街としての発足は昭和25年（1950）、70年以上の歴史を築いています",
+        "infoBlockLabel": "タカラ湯の情報",
+        "infoBlockText": "電話：03-3881-2660住所：東京都足立区千住元町27-1料金：入浴500円時間：15～23時休み：金曜アクセス：各線北千住駅から徒歩18分",
+        "sectionTitle": "16：00｜銭湯がモチーフのカフェ「Sd Coffee」で昭和へタイムスリップ"
+      },
+      {
+        "description": "歴史を感じる建物や個人商店に混ざって、今も新しい店が増えている活気あふれるエリア。たとえば、江戸時代から8代続く絵馬店や、昔ながらの団子がおいしい和菓子店など、風情あるお店のそばに、若者に人気の飲食店があったりおしゃれな雑貨店があったりと、まるで商店の博物館のような街並み。",
+        "image": {
+          "alternateText": "カウンター3席、テラス席4席のこぢんまりとしたくつろぎ空間",
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/RBVLQr4QcUFpKK08nUOTGop7IQzIqlDeRQT_ZKTsnqc/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/RBVLQr4QcUFpKK08nUOTGop7IQzIqlDeRQT_ZKTsnqc/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/RBVLQr4QcUFpKK08nUOTGop7IQzIqlDeRQT_ZKTsnqc/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/RBVLQr4QcUFpKK08nUOTGop7IQzIqlDeRQT_ZKTsnqc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/RBVLQr4QcUFpKK08nUOTGop7IQzIqlDeRQT_ZKTsnqc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RBVLQr4QcUFpKK08nUOTGop7IQzIqlDeRQT_ZKTsnqc/1200x799.jpg",
+          "width": 1200
+        },
+        "imageCaption": "カウンター3席、テラス席4席のこぢんまりとしたくつろぎ空間",
+        "infoBlockLabel": "Sd Coffeeの情報",
+        "infoBlockText": "電話：03-6806-1013住所：東京都足立区千住4-19-11 サーパスビル1階時間：11時30分～18時休み：火曜アクセス：各線北千住駅から徒歩5分"
+      },
+      {
+        "description": "そんな商店街の入口にあるのが、「LUSH-COFFEE Roaster and Laboratory」。令和3年（2021）にオープンした東ティモール専門のコーヒーショップです。コーヒー専門店はよくありますが、東ティモール産コーヒーの専門店というのは日本初だそう。店名の「LUSH」は「豊潤な」という意味。生産者が誇りを持って作ったコーヒーを消費者に繋げることで、生産者と消費者のどちらもの人生を豊かにしたいという店主の願いが込められています。",
+        "image": {
+          "alternateText": "店内飲食時は、コーヒーの香りを存分に楽しめるデカンタとグラスで提供",
+          "height": 807,
+          "sourceUrl": "https://a.mktgcdn.com/p/z3NMgX9ijENIM-mKOHQcu_gAX7f9dkEfLUOBXylRVVc/1200x807.jpg",
+          "thumbnails": [
+            {
+              "height": 807,
+              "url": "https://a.mktgcdn.com/p-sandbox/z3NMgX9ijENIM-mKOHQcu_gAX7f9dkEfLUOBXylRVVc/1200x807.jpg",
+              "width": 1200
+            },
+            {
+              "height": 416,
+              "url": "https://a.mktgcdn.com/p-sandbox/z3NMgX9ijENIM-mKOHQcu_gAX7f9dkEfLUOBXylRVVc/619x416.jpg",
+              "width": 619
+            },
+            {
+              "height": 404,
+              "url": "https://a.mktgcdn.com/p-sandbox/z3NMgX9ijENIM-mKOHQcu_gAX7f9dkEfLUOBXylRVVc/600x404.jpg",
+              "width": 600
+            },
+            {
+              "height": 132,
+              "url": "https://a.mktgcdn.com/p-sandbox/z3NMgX9ijENIM-mKOHQcu_gAX7f9dkEfLUOBXylRVVc/196x132.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/z3NMgX9ijENIM-mKOHQcu_gAX7f9dkEfLUOBXylRVVc/1200x807.jpg",
+          "width": 1200
+        },
+        "imageCaption": "店内飲食時は、コーヒーの香りを存分に楽しめるデカンタとグラスで提供"
+      },
+      {
+        "description": "コーヒー豆の評価や農園の管理指導ができる国際資格を持つ店主が、生豆の選定、焙煎、抽出、提供まで監修。コーヒー豆は、東ティモールのさらに細かい集落ごとに全10種類を扱い、時期ごとに4種類ずつローテーションで提供しています。",
+        "image": {
+          "alternateText": "「本日のコーヒー」は360円。コーヒー以外のドリンクやスイーツの取り扱いも",
+          "height": 807,
+          "sourceUrl": "https://a.mktgcdn.com/p/IwlbRSGVlRXBxPVRWJESdZgwuz_xQnr0567uUpPsvVw/1200x807.jpg",
+          "thumbnails": [
+            {
+              "height": 807,
+              "url": "https://a.mktgcdn.com/p-sandbox/IwlbRSGVlRXBxPVRWJESdZgwuz_xQnr0567uUpPsvVw/1200x807.jpg",
+              "width": 1200
+            },
+            {
+              "height": 416,
+              "url": "https://a.mktgcdn.com/p-sandbox/IwlbRSGVlRXBxPVRWJESdZgwuz_xQnr0567uUpPsvVw/619x416.jpg",
+              "width": 619
+            },
+            {
+              "height": 404,
+              "url": "https://a.mktgcdn.com/p-sandbox/IwlbRSGVlRXBxPVRWJESdZgwuz_xQnr0567uUpPsvVw/600x404.jpg",
+              "width": 600
+            },
+            {
+              "height": 132,
+              "url": "https://a.mktgcdn.com/p-sandbox/IwlbRSGVlRXBxPVRWJESdZgwuz_xQnr0567uUpPsvVw/196x132.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/IwlbRSGVlRXBxPVRWJESdZgwuz_xQnr0567uUpPsvVw/1200x807.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「本日のコーヒー」は360円。コーヒー以外のドリンクやスイーツの取り扱いも"
+      },
+      {
+        "description": "ビターな中にリンゴやレモンのようなフルーティさがあるという東ティモールコーヒー。詳しい味の特徴はぜひお店の方に尋ねてみてくださいね！人との出会いも街歩きの醍醐味。気になる場所に立ち寄りながら、お店の歴史やこだわりを感じてみましょう。",
+        "image": {
+          "alternateText": "古くから現在に至るまで、地元住民に親しまれています",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/rex7bJ1vD53xaezSYP6WXdiaGP0LVVqGFdvQuAmpbcc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/rex7bJ1vD53xaezSYP6WXdiaGP0LVVqGFdvQuAmpbcc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/rex7bJ1vD53xaezSYP6WXdiaGP0LVVqGFdvQuAmpbcc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/rex7bJ1vD53xaezSYP6WXdiaGP0LVVqGFdvQuAmpbcc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/rex7bJ1vD53xaezSYP6WXdiaGP0LVVqGFdvQuAmpbcc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rex7bJ1vD53xaezSYP6WXdiaGP0LVVqGFdvQuAmpbcc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "古くから現在に至るまで、地元住民に親しまれています"
+      },
+      {
+        "description": "宿場町通り商店街を抜けて、そのまま旧日光街道沿いを進むと、荒川の河川敷に到着。カラフルなレンガで虹を表現した広場や、子どもたちが集まる野球場があり、ほのぼのとした空気が流れています。この地域ならではの景色を眺めつつ、川辺を歩いて次の目的地まで向かいましょう。",
+        "image": {
+          "alternateText": "足立区登録有形民俗文化財指定の「富士塚」",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/oH6QtEGmq06IddvkR5l5NIBiiVrkn-9ti_pwLuZAJzg/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/oH6QtEGmq06IddvkR5l5NIBiiVrkn-9ti_pwLuZAJzg/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/oH6QtEGmq06IddvkR5l5NIBiiVrkn-9ti_pwLuZAJzg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/oH6QtEGmq06IddvkR5l5NIBiiVrkn-9ti_pwLuZAJzg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/oH6QtEGmq06IddvkR5l5NIBiiVrkn-9ti_pwLuZAJzg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oH6QtEGmq06IddvkR5l5NIBiiVrkn-9ti_pwLuZAJzg/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "足立区登録有形民俗文化財指定の「富士塚」"
+      },
+      {
+        "description": "10分ほど歩いたところに「五丁目大川町氷川神社」があります。こちらは、永仁2年（1294）に創建されたという歴史ある神社。もとは近くの千住5丁目にあり、大正2年（1913）に現在の大川町に移転、大正4年（1915）に現在の場所に遷座しました。",
+        "image": {
+          "alternateText": "「布袋尊」は無病息災や商売繁盛のご利益があるといわれている神様",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Gg24jPbrcriY8nX5A0MdJxmn6MZJthO9hBfUsOueK18/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gg24jPbrcriY8nX5A0MdJxmn6MZJthO9hBfUsOueK18/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gg24jPbrcriY8nX5A0MdJxmn6MZJthO9hBfUsOueK18/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gg24jPbrcriY8nX5A0MdJxmn6MZJthO9hBfUsOueK18/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Gg24jPbrcriY8nX5A0MdJxmn6MZJthO9hBfUsOueK18/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Gg24jPbrcriY8nX5A0MdJxmn6MZJthO9hBfUsOueK18/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「布袋尊」は無病息災や商売繁盛のご利益があるといわれている神様"
+      },
+      {
+        "description": "注目したいのが「富士塚」。「富士塚」とは、富士山を神と見立てて信仰する「富士信仰」に基づいて、富士山を模して作った人工の山のこと。この五丁目大川町氷川神社にある富士塚は、富士山の溶岩を積み上げて、文政7年（1824）に作ったものといわれています。都内では9番目に古く、足立区では現存する最古の富士塚なのだそうです。高さは約3メートルで、登山道や標石も再現。かつてはこの富士塚に登ることで富士登山と同じご利益を得られると信じられていました。現在は、原則登ることはできませんが、日本一の山を再現した立派な富士塚、訪れるだけで神秘的なパワーをいただけそうです！",
+        "image": {
+          "alternateText": "銭湯といえばペンキ絵の富士山！",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/nYxRc9UV7oC3SfchnVNCMunYqpcyNBLbP2N2dxjbSVg/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/nYxRc9UV7oC3SfchnVNCMunYqpcyNBLbP2N2dxjbSVg/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/nYxRc9UV7oC3SfchnVNCMunYqpcyNBLbP2N2dxjbSVg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/nYxRc9UV7oC3SfchnVNCMunYqpcyNBLbP2N2dxjbSVg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/nYxRc9UV7oC3SfchnVNCMunYqpcyNBLbP2N2dxjbSVg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nYxRc9UV7oC3SfchnVNCMunYqpcyNBLbP2N2dxjbSVg/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "入口ののれんや木製案内板にも注目★"
+      },
+      {
+        "description": "北千住エリアの7カ所の神社には、「千住七福神」が祭られています。五丁目大川町氷川神社には、そのひとつ「布袋尊」が祭られています。北千住駅から徒歩7分の「千住仲町氷川神社」には、「弁財天」が。こちらは、東京七天神のひとつ「関屋天満宮」も祭られています。興味のある方は七福神巡りをしながら神社を訪ねてみるのもいいですね。",
+        "image": {
+          "alternateText": "「キング・オブ・縁側」で過ごす至福の時間！",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/gPdazXsqx8Tb2xt5qjVB0EAuY2T9KOYj-Ol5CXZLVXY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/gPdazXsqx8Tb2xt5qjVB0EAuY2T9KOYj-Ol5CXZLVXY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/gPdazXsqx8Tb2xt5qjVB0EAuY2T9KOYj-Ol5CXZLVXY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/gPdazXsqx8Tb2xt5qjVB0EAuY2T9KOYj-Ol5CXZLVXY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/gPdazXsqx8Tb2xt5qjVB0EAuY2T9KOYj-Ol5CXZLVXY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gPdazXsqx8Tb2xt5qjVB0EAuY2T9KOYj-Ol5CXZLVXY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "銭湯といえばペンキ絵の富士山！"
+      },
+      {
+        "description": "散策をはじめて早2時間。最終スポットに向かう前に、銭湯に入って汗を流しましょう。北千住エリアには、レトロな風情が残る魅力的な銭湯がいくつもあり、銭湯巡りに訪れる人もいるほど。今回は、千住大川町氷川神社から徒歩7分の「タカラ湯」へ。趣ある縁側から、美しい日本庭園を眺められることから「キング・オブ・縁側」「キング・オブ・庭園」とも呼ばれています。",
+        "image": {
+          "alternateText": "四季折々、訪れるたび違った景色が楽しめます",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/lQmWiXj5GuQcwvzP503Ye17B-yKjvYhAqiXpdkU38qw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/lQmWiXj5GuQcwvzP503Ye17B-yKjvYhAqiXpdkU38qw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/lQmWiXj5GuQcwvzP503Ye17B-yKjvYhAqiXpdkU38qw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/lQmWiXj5GuQcwvzP503Ye17B-yKjvYhAqiXpdkU38qw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/lQmWiXj5GuQcwvzP503Ye17B-yKjvYhAqiXpdkU38qw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lQmWiXj5GuQcwvzP503Ye17B-yKjvYhAqiXpdkU38qw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「キング・オブ・縁側」で過ごす至福の時間！"
+      },
+      {
+        "description": "昭和2年（1927）に創業し、昭和13年（1938）に現在の場所に移転、改築。戦争の空襲も乗り越えた、歴史を感じさせる建物です。風格ある外観は、移転以来80年以上ほとんど変わっていないそう。神社仏閣のような宮造りの建築で、千鳥破風が目を引きます。",
+        "image": {
+          "alternateText": "宿場町通り商店街の一角にあります。外観から早速レトロな雰囲気☆",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/EpcKy7isBSuEVXkKaKfdvI5PWK1hitqdMDOYwNj4OXg/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/EpcKy7isBSuEVXkKaKfdvI5PWK1hitqdMDOYwNj4OXg/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/EpcKy7isBSuEVXkKaKfdvI5PWK1hitqdMDOYwNj4OXg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/EpcKy7isBSuEVXkKaKfdvI5PWK1hitqdMDOYwNj4OXg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/EpcKy7isBSuEVXkKaKfdvI5PWK1hitqdMDOYwNj4OXg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EpcKy7isBSuEVXkKaKfdvI5PWK1hitqdMDOYwNj4OXg/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "四季折々、訪れるたび違った景色が楽しめます"
+      },
+      {
+        "description": "さっそくお風呂で温まりましょう。自慢の薬湯は、生薬が血行を良くして身体をほぐし、疲れを取ってくれるのだとか。保温力が高く、冷えからくる症状の予防にも◎男湯は、窓から庭園を眺められる贅沢な造り。女湯は庭園こそ見えませんが、その分脱衣所や洗い場が広かったり、無料のサウナが使えたりとうれしいポイントも！　毎週水曜は男湯と女湯を入れ替えているので、日を変えてどちらの湯も楽しめますよ。",
+        "image": {
+          "alternateText": "いたるところに銭湯＆レトロなアイテムがあって、どの席に座るか迷っちゃう！",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/8Jf_68s5_dOZqYtrJpKhFHAR4HvABgq-1sVm_rQVhQY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/8Jf_68s5_dOZqYtrJpKhFHAR4HvABgq-1sVm_rQVhQY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/8Jf_68s5_dOZqYtrJpKhFHAR4HvABgq-1sVm_rQVhQY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/8Jf_68s5_dOZqYtrJpKhFHAR4HvABgq-1sVm_rQVhQY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/8Jf_68s5_dOZqYtrJpKhFHAR4HvABgq-1sVm_rQVhQY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8Jf_68s5_dOZqYtrJpKhFHAR4HvABgq-1sVm_rQVhQY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "宿場町通り商店街の一角にあります。外観から早速レトロな雰囲気☆"
+      },
+      {
+        "description": "お風呂上がりはお待ちかね、縁側で庭園を眺めてリラックスタイム。庭園にはツツジ、アジサイ、モミジなど季節の花、池には錦鯉が泳いでいます。毎日丁寧に手入れして、美しい景観を守っているのだそう。縁側にはテーブルやイスを設けたスペースもあり、のんびりとくつろぐことができます。庭園から吹く風を感じながら涼めば、気持ちも安らぎますね♪",
+        "image": {
+          "alternateText": "味はもちろん写真映えもバッチリ★",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/3VNJuBKfGtVNQvgkl8t6emgDZqutSOG6aA3VzVvgbuc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/3VNJuBKfGtVNQvgkl8t6emgDZqutSOG6aA3VzVvgbuc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/3VNJuBKfGtVNQvgkl8t6emgDZqutSOG6aA3VzVvgbuc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/3VNJuBKfGtVNQvgkl8t6emgDZqutSOG6aA3VzVvgbuc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/3VNJuBKfGtVNQvgkl8t6emgDZqutSOG6aA3VzVvgbuc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3VNJuBKfGtVNQvgkl8t6emgDZqutSOG6aA3VzVvgbuc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "いたるところに銭湯＆レトロなアイテムがあって、どの席に座るか迷っちゃう！"
+      },
+      {
+        "description": "銭湯でリフレッシュして向かうのは、最終スポット「Sd Coffee」。タカラ湯から徒歩15分、「Sd＝鈴木デンキ」がご実家の「Sd＝銭湯大好き」な店主が始めた、電気と銭湯がモチーフのカフェです。",
+        "image": {
+          "alternateText": "懐かしのレトログラスやオリジナルグッズの販売も！",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/oTMRgJofeGyfzS88CnqfnmW3Y4OydRbaJPTAJ1LIcb4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/oTMRgJofeGyfzS88CnqfnmW3Y4OydRbaJPTAJ1LIcb4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/oTMRgJofeGyfzS88CnqfnmW3Y4OydRbaJPTAJ1LIcb4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/oTMRgJofeGyfzS88CnqfnmW3Y4OydRbaJPTAJ1LIcb4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/oTMRgJofeGyfzS88CnqfnmW3Y4OydRbaJPTAJ1LIcb4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oTMRgJofeGyfzS88CnqfnmW3Y4OydRbaJPTAJ1LIcb4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "味はもちろん写真映えもバッチリ★"
+      },
+      {
+        "description": "店内を彩るのは、近隣銭湯から譲り受けたのれんや案内板、店主が趣味で集めたという銭湯グッズの数々。壁にはもちろん富士山のペンキ絵が。ほかにもゲームテーブルの席があったり、レトロなライトが飾られていたり、まるで昭和に迷い込んだみたい！　カラフルでおしゃれな雰囲気もあり、「懐かしくて新しい」新感覚の空間です。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/FueZTzsKHyfRtzZnUuI3XTvj1EAuIScxX9gjENCGV0g/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/FueZTzsKHyfRtzZnUuI3XTvj1EAuIScxX9gjENCGV0g/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/FueZTzsKHyfRtzZnUuI3XTvj1EAuIScxX9gjENCGV0g/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/FueZTzsKHyfRtzZnUuI3XTvj1EAuIScxX9gjENCGV0g/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/FueZTzsKHyfRtzZnUuI3XTvj1EAuIScxX9gjENCGV0g/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FueZTzsKHyfRtzZnUuI3XTvj1EAuIScxX9gjENCGV0g/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "懐かしのレトログラスやオリジナルグッズの販売も！"
+      },
+      {
+        "description": "定番メニューはホットドッグ。「いっぱん的な普通の味（プレーンドッグ）」は、付け合わせにポテ玉（和風なエッグスラット）が付いて1150円。特製パンにジューシーなフランク、野菜が入ってフレッシュな味わいです。ソースとマヨネーズで下町風に味付けした「ダウンタウンドッグ」などバリエーションは数種類ありますが、最近はとろけるチーズがあふれんばかりにかかった「スーパーめっちゃチーズ」が人気だとか。",
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。※上記記事に記載の金額はすべて税込みです。また各施設の入場料金は大人料金を記載しています。※定休日は原則として年末年始・お盆休み・ゴールデンウィークを省略しています。"
+      },
+      {
+        "description": "ドリンクは、牛乳シェイクが人気！銭湯でお風呂上がりに飲むような懐かしい牛乳瓶から、ソフトクリームがはみ出しています。「抹茶めっちゃむっちゃシェイク」950円は、グミやマシュマロのトッピングがかわいい♡抹茶やあんこなど、材料はなるべく自家製のものを使用しているそうで、見た目だけでなく味にもこだわりが詰まっています。※メニューは随時更新のため、紹介したメニューは内容変更・販売終了している可能性があります。"
+      },
+      {
+        "description": "本物の銭湯と、銭湯風カフェを満喫したら、身も心もぽかぽかで今回の旅は終了。駅前の「飲み屋横丁」にふらっと立ち寄って、さらにディープな雰囲気を味わってみるのもいいですね。湯冷めにくれぐれも気を付けて、下町の夜を楽しんで♪"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_store_00011",
+      "news_ap_store_00010",
+      "news_ap_store_00003",
+      "news_ap_store_000011",
+      "news_ap_store_00015",
+      "news_ap_store_00005",
+      "news_ap_store_00008",
+      "news_ap_store_00014",
+      "news_ap_store_00007",
+      "news_ap_store_00009",
+      "news_ap_store_00006"
+    ],
+    "c_news_FeaturedArticlesTitle": "その他JTB大江戸デスクコンサルタントの投稿記事",
+    "c_news_PublicationDate": "2022-12-31",
+    "c_news_UpdateDate": "2024-08-09",
+    "c_news_ViewCount": "950",
+    "c_news_ViewCount1of2": "2",
+    "c_news_ViewCount2of2": "950",
+    "c_news_ViewCountNum": "950",
+    "c_news_ViewCountNumForSorting": "88",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00016",
+    "name": "北千住の魅力がまるわかり！商店街や銭湯を巡る1日観光モデルコース",
+    "slug": "kokunai/kanto/tokyo/news_ap_store_00016",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-25",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/25_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.334126%2C143.839996",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "ラワンぶきとは、足寄（あしょろ）町の螺湾（らわん）地区に生息する山菜で、フキの常識を打ち砕く、巨大さを誇ります。すぐそばに立つと、大人でもラワンぶきの葉っぱにまで背丈が届かず、まるで小人になったかのような気分を味わえることでしょう。観賞用に圃場が整備されているので、訪れた際には柵越しにその巨大なフキを見上げることができます。大きいものは高さ3m、茎の直径10cmほどにもなる珍しいフキですが、常識はずれの大きさに反して、食品として味わうこともできます。肉質は柔らかく、植物繊維が通常のフキの約3倍も豊富に含まれているので、とても美味しく食べることができます。地元ではこのラワンぶきを使った水煮などの特産品を製造しています。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/25.asp",
+    "name": "足寄町螺湾地区 足寄ラワンぶき"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

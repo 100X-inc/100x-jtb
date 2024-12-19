@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-386",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/386_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d37.471394%2C139.592200",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "福島県",
+    "c_searchTags": [
+      "福島県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "夏",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "広い川を覆い尽くすほどに湧く、一面の霧。向こう岸をかすませる川霧の中を、悠々と渡る舟。雄大な山を背景に船頭が手漕ぎで舟を操る様子は、まるで水墨画の景色のようです。そんな幻想的な景色が見られるのが、只見川にある霧幻峡。川の対岸を結ぶ渡し舟は、約60年前まで日常的な交通手段として用いられていました。現在では訪れた人々に地域の歴史を伝えながら、川霧の絶景を味わわせてくれます。復活した伝統の渡し舟を楽しみながら、往時をしのんでみてはいかがでしょう。6月から8月の早朝と夕方の、川霧が発生しやすい時期に訪ねるのがおすすめです。\n見所・お勧めポイント\n渡し舟で訪れることができる三更集落では、かつてこの地で暮らしていた人々の生活の気配を窺うことができます。当時のまま残されている神社やお地蔵様など、人々が大切にしてきたものや風景を眺めながら、ひと時、土地の歴史に思いを馳せてみるのも楽しいでしょう。\n背景\n三更集落は度重なる山崩れの被害に遭い、住人たちが引っ越していったため、1964年に廃村となりました。集落に暮らしていた人々は渡し舟を日常生活の手段として、みずから舟を操って暮らしていました。一度は失われたこの景色を取り戻したのは、三更集落出身の郷土写真家です。地域活性化を志してプロジェクトを立ち上げ、渡し舟を復活させるに至りました。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/386.asp",
+    "name": "只見川の川霧をゆく　「霧幻峡の渡し」"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

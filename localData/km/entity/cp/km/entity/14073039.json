@@ -1,0 +1,135 @@
+{
+  "$id": "cp_14073039",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "神奈川県",
+    "c_cp_CTA1": {
+      "label": "神谷 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVBsBKG",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf9Bq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "旅先で写真を撮るのが好きです。\nなかなかカメラのスキルは上達しませんが、奇跡の一枚(？)を目指して楽しんでいます！\n+αの旅先の想い出含め、わくわくを形にするお手伝いをいたします。\n一人旅、推し活、遠征、目的のある旅行や、ふらっと旅など、是非ご相談ください。",
+    "c_cp_DisplayName": "神谷",
+    "c_cp_FieldOfExpertise": [
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ旅行",
+      "動植物園・公園",
+      "街あるき",
+      "カフェ",
+      "ご当地グルメ"
+    ],
+    "c_cp_GeneralInfo": [
+      "資格：クルーズコンサルタント"
+    ],
+    "c_cp_HeroImage": {
+      "height": 945,
+      "sourceUrl": "https://a.mktgcdn.com/p/l7tggJLaQ7le3B9wHd3giFhC7l0JjWc4qU-v75nofTM/709x945.png",
+      "thumbnails": [
+        {
+          "height": 945,
+          "url": "https://a.mktgcdn.com/p-sandbox/LHEsRdiZ_oREdjnhjr_WIukc75x2rvtkn5j_2gIj8SA/709x945.png",
+          "width": 709
+        },
+        {
+          "height": 825,
+          "url": "https://a.mktgcdn.com/p-sandbox/LHEsRdiZ_oREdjnhjr_WIukc75x2rvtkn5j_2gIj8SA/619x825.png",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/LHEsRdiZ_oREdjnhjr_WIukc75x2rvtkn5j_2gIj8SA/338x450.png",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/LHEsRdiZ_oREdjnhjr_WIukc75x2rvtkn5j_2gIj8SA/196x261.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/LHEsRdiZ_oREdjnhjr_WIukc75x2rvtkn5j_2gIj8SA/709x945.png",
+      "width": 709
+    },
+    "c_cp_HiraganaName": "かみや",
+    "c_cp_JobTitle": "JTBそごう横浜店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 846,
+      "sourceUrl": "https://a.mktgcdn.com/p/5Ah81OEU_w-u-zGfG9uSHQXkDe9kepzIJ-5buKIhM-M/1047x846.jpg",
+      "thumbnails": [
+        {
+          "height": 846,
+          "url": "https://a.mktgcdn.com/p-sandbox/yPXmZ-AUE-xWvSjQ1A9F7cZR1o0_094n-yR6cyKoIgo/1047x846.jpg",
+          "width": 1047
+        },
+        {
+          "height": 500,
+          "url": "https://a.mktgcdn.com/p-sandbox/yPXmZ-AUE-xWvSjQ1A9F7cZR1o0_094n-yR6cyKoIgo/619x500.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/yPXmZ-AUE-xWvSjQ1A9F7cZR1o0_094n-yR6cyKoIgo/557x450.jpg",
+          "width": 557
+        },
+        {
+          "height": 158,
+          "url": "https://a.mktgcdn.com/p-sandbox/yPXmZ-AUE-xWvSjQ1A9F7cZR1o0_094n-yR6cyKoIgo/196x158.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/yPXmZ-AUE-xWvSjQ1A9F7cZR1o0_094n-yR6cyKoIgo/1047x846.jpg",
+      "width": 1047
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "フランス"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国",
+      "台湾"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "神奈川県"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "愛知県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "近畿全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "カメラ",
+      "推し活・遠征",
+      "ハワイスペシャリスト上級"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 神谷　直子",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 神谷　直子",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_14073039",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10189_そごう横浜店",
+    "name": "かみや なおこ_14073039",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

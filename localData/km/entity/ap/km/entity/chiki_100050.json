@@ -1,0 +1,306 @@
+{
+  "$id": "ap_chiki_100050",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 友金 智咲"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "チェックイン後にまずはホテルのラウンジ「ラウンジ シュガービーチ」へ。14時半～18時の間ウェルカムドリンクが用意されています。ビールやカクテル、ちょっとした軽食もありますので、お子様やお孫様が海水浴している間などに涼みながらゆっくりと寛ぐことができます。",
+        "image": {
+          "height": 760,
+          "sourceUrl": "https://a.mktgcdn.com/p/PHwNCX2ApE42wKYbjKJ_mQixSKL4R_PHvtleliKvfx8/1200x760.jpg",
+          "thumbnails": [
+            {
+              "height": 760,
+              "url": "https://a.mktgcdn.com/p-sandbox/PHwNCX2ApE42wKYbjKJ_mQixSKL4R_PHvtleliKvfx8/1200x760.jpg",
+              "width": 1200
+            },
+            {
+              "height": 392,
+              "url": "https://a.mktgcdn.com/p-sandbox/PHwNCX2ApE42wKYbjKJ_mQixSKL4R_PHvtleliKvfx8/619x392.jpg",
+              "width": 619
+            },
+            {
+              "height": 380,
+              "url": "https://a.mktgcdn.com/p-sandbox/PHwNCX2ApE42wKYbjKJ_mQixSKL4R_PHvtleliKvfx8/600x380.jpg",
+              "width": 600
+            },
+            {
+              "height": 124,
+              "url": "https://a.mktgcdn.com/p-sandbox/PHwNCX2ApE42wKYbjKJ_mQixSKL4R_PHvtleliKvfx8/196x124.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PHwNCX2ApE42wKYbjKJ_mQixSKL4R_PHvtleliKvfx8/1200x760.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ラウンジ シュガービーチ",
+        "sectionTitle": "つい時間を忘れて過ごしてしまう開放的なラウンジ"
+      },
+      {
+        "description": "続いて2階にある眺望の湯へ。その名の通りお風呂から白良浜を一望できます。海の香り、波の音、自然を感じながらの湯浴みでは日頃の疲れが癒されること間違いなし。夕暮れの時間帯に日が沈む絶景を眺めるもよし。朝は露天風呂で爽やかな一日をスタートさせるのはいかがでしょうか。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/fGINAsd2OyXwRMd5XY5iMvaxHSTS2MllOaGU2UvO-zc/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/fGINAsd2OyXwRMd5XY5iMvaxHSTS2MllOaGU2UvO-zc/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/fGINAsd2OyXwRMd5XY5iMvaxHSTS2MllOaGU2UvO-zc/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/fGINAsd2OyXwRMd5XY5iMvaxHSTS2MllOaGU2UvO-zc/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/fGINAsd2OyXwRMd5XY5iMvaxHSTS2MllOaGU2UvO-zc/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fGINAsd2OyXwRMd5XY5iMvaxHSTS2MllOaGU2UvO-zc/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "眺望の湯　潮風",
+        "sectionTitle": "白良浜を一望できる自慢の露天風呂で癒される時間"
+      },
+      {
+        "description": "客室は、和室、洋室、和洋室、ファミリー向けのコネクティングルームなど様々なタイプがあり、自分の旅行スタイルに合った部屋を選べるのもこの宿の魅力。最上階のロイヤルフロア貴船和洋室はベッドルームと和室スペースを兼ね備えた、ゆとりのあるお部屋です。家族での大切な時間を快適にお過ごしいただくのにおすすめです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/mLnFAvyWwDBRU6TdKYDL1hF8nLBlvIqmAEav1iuF11Q/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/mLnFAvyWwDBRU6TdKYDL1hF8nLBlvIqmAEav1iuF11Q/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/mLnFAvyWwDBRU6TdKYDL1hF8nLBlvIqmAEav1iuF11Q/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/mLnFAvyWwDBRU6TdKYDL1hF8nLBlvIqmAEav1iuF11Q/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/mLnFAvyWwDBRU6TdKYDL1hF8nLBlvIqmAEav1iuF11Q/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/mLnFAvyWwDBRU6TdKYDL1hF8nLBlvIqmAEav1iuF11Q/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "最上階6階ロイヤルフロア貴船和洋室",
+        "sectionTitle": "バリエーション豊かな客室で自分たちだけの至極の滞在を"
+      },
+      {
+        "description": "お待ちかねの夕食は、地元・地域の食材である「クエ」「熊野牛」「伊勢海老」や季節の旬の食材を贅沢に盛り込んだ会席料理。最上階貴船に宿泊すると個室食事処でプライベート空間の中お食事をお愉しみいただけます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/MllV61MrNJOTRMDGbaN4IV6eiWpZB8NhloWzaAOAXu0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/MllV61MrNJOTRMDGbaN4IV6eiWpZB8NhloWzaAOAXu0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/MllV61MrNJOTRMDGbaN4IV6eiWpZB8NhloWzaAOAXu0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/MllV61MrNJOTRMDGbaN4IV6eiWpZB8NhloWzaAOAXu0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/MllV61MrNJOTRMDGbaN4IV6eiWpZB8NhloWzaAOAXu0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MllV61MrNJOTRMDGbaN4IV6eiWpZB8NhloWzaAOAXu0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "夕食会席料理（イメージ）",
+        "sectionTitle": "海と山の幸、四季折々の旬の食材を活かしたここでしか味わえない会席料理"
+      },
+      {
+        "description": "白浜といえば白良浜ビーチ。白良荘グランドホテルは唯一ビーチと直結している旅館です。お子様はきっと海が近いことに大喜び、ご両親も荷物を運ぶ手間が省けるので、便利な立地です。暑い日差しに疲れてもすぐ帰られるので安心して海水浴を愉しめるのもいいですね。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/htl/6506006/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 627,
+          "sourceUrl": "https://a.mktgcdn.com/p/3JkZbbVAoahaSfRWBQu5E8LcfFjst5ofZnNxApuQzPU/834x627.jpg",
+          "thumbnails": [
+            {
+              "height": 627,
+              "url": "https://a.mktgcdn.com/p-sandbox/M0plFsapn5jKLkTdwJTNsPAnhkp6OkDVHNFszgLpHtM/834x627.jpg",
+              "width": 834
+            },
+            {
+              "height": 465,
+              "url": "https://a.mktgcdn.com/p-sandbox/M0plFsapn5jKLkTdwJTNsPAnhkp6OkDVHNFszgLpHtM/619x465.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/M0plFsapn5jKLkTdwJTNsPAnhkp6OkDVHNFszgLpHtM/599x450.jpg",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/M0plFsapn5jKLkTdwJTNsPAnhkp6OkDVHNFszgLpHtM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/M0plFsapn5jKLkTdwJTNsPAnhkp6OkDVHNFszgLpHtM/834x627.jpg",
+          "width": 834
+        },
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "sectionTitle": "名勝「白良浜」と直結しているのは白良荘グランドホテルだけ"
+      }
+    ],
+    "c_ap_DatePosted": "2022-06-21",
+    "c_ap_HeroImage": {
+      "alternateText": "大切な人との大切な思い出旅行を【和歌山県　南紀白浜 白良荘グランドホテル】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 901,
+      "sourceUrl": "https://a.mktgcdn.com/p/wvrRGMD0AzDeWzEimMFWdNm-NHFLKiVAJDR2z5aDILc/1200x901.jpg",
+      "thumbnails": [
+        {
+          "height": 901,
+          "url": "https://a.mktgcdn.com/p-sandbox/wvrRGMD0AzDeWzEimMFWdNm-NHFLKiVAJDR2z5aDILc/1200x901.jpg",
+          "width": 1200
+        },
+        {
+          "height": 465,
+          "url": "https://a.mktgcdn.com/p-sandbox/wvrRGMD0AzDeWzEimMFWdNm-NHFLKiVAJDR2z5aDILc/619x465.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/wvrRGMD0AzDeWzEimMFWdNm-NHFLKiVAJDR2z5aDILc/599x450.jpg",
+          "width": 599
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/wvrRGMD0AzDeWzEimMFWdNm-NHFLKiVAJDR2z5aDILc/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/wvrRGMD0AzDeWzEimMFWdNm-NHFLKiVAJDR2z5aDILc/1200x901.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkArticleSectionTitle": "和歌山県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "白良荘グランドホテル のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/6506006/plan/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "白浜温泉のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/3040102/"
+      },
+      {
+        "linkText": "和歌山旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/wakayama/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea4": [
+      "近畿全般",
+      "和歌山県"
+    ],
+    "c_ap_ShortDescription": "道後温泉や有馬温泉と並ぶ日本三古湯の一つ白浜温泉。古くから親しまれた白浜温泉を堪能できる「白良荘グランドホテル」2階の露天風呂では、白良浜の穏やかな波の音と海の香りを感じられ、白良浜を一望でき、日頃の疲れを癒します。\n景色、食事、温泉、すべてを一度に堪能でき、家族旅行や記念日旅行など思い出に残したい旅行に多く利用され続ける担当者おすすめの「白良荘グランドホテル」をご紹介いたします。",
+    "c_ap_Tags": [
+      "白浜温泉",
+      "ビーチ",
+      "眺望",
+      "白良浜"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "夫婦旅",
+      "記念旅行",
+      "自然・山",
+      "ご当地グルメ",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "大切な人との大切な思い出旅行を【和歌山県　南紀白浜 白良荘グランドホテル】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "道後温泉や有馬温泉と並ぶ日本三古湯の一つ白浜温泉。古くから親しまれた白浜温泉を堪能できる「白良荘グランドホテル」2階の露天風呂では、白良浜の穏やかな波の音と海の香りを感じられ、白良浜を一望でき、日頃の疲れを癒…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "大切な人との大切な思い出旅行を【和歌山県　南紀白浜 白良荘グランドホテル】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100050",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "近畿全般, 和歌山県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：近畿全般, 和歌山県",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：近畿全般, 和歌山県",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "大切な人との大切な思い出旅行を【和歌山県　南紀白浜 白良荘グランドホテル】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

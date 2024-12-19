@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-44",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/44_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.661522%2C142.833501",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "山・森・野・里",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "北海道で最も高い山である旭岳(標高2,291m)は、日本最大の国立公園・大雪山国立公園にある山の一つです。日本一早く紅葉をが訪れる大雪山系の一角である旭岳では、8月末にはもう秋の気配を見ることができます。かわいらしい夏の花々は姿を消し、代わりに色づいたウラジロナナカマド、チングルマなどが見頃を迎えます。ふもとの山々が紅葉で華やぐ9月中旬ともなれば、旭岳の山頂付近には初雪が降り、冬の兆を見つけることができます。また、風がなくよく晴れた日には標高1,600mの位置にある姿見の池に旭岳が映しだされ、神秘的な雰囲気を見せてくれます。姿見の池は高山植物も咲く景勝地となっており、ふもとの旭岳温泉から大雪山旭岳ロープウェイで登れるとあって、シーズンには多くの観光客や登山客が訪れる人気のスポットとなっています。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/44.asp",
+    "name": "秋の大雪山旭岳 姿見の池"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

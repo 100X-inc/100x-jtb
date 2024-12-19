@@ -1,0 +1,345 @@
+{
+  "$id": "news_ap_osarea_0000057",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 加川香菜子"
+    },
+    "c_ap_HeroImage": {
+      "height": 600,
+      "sourceUrl": "http://a.mktgcdn.com/p/RKUAhJTZMD-o4ugfv2sRp2kxy7BF2Lcz8Nc0H9iRXVA/900x600.jpg",
+      "thumbnails": [
+        {
+          "height": 600,
+          "url": "//a.mktgcdn.com/p-sandbox/2vT8aTThF9FWrhScWxGxj1h68oRC9O44YyYyQIuayqg/900x600.jpg",
+          "width": 900
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/2vT8aTThF9FWrhScWxGxj1h68oRC9O44YyYyQIuayqg/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/2vT8aTThF9FWrhScWxGxj1h68oRC9O44YyYyQIuayqg/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/2vT8aTThF9FWrhScWxGxj1h68oRC9O44YyYyQIuayqg/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/2vT8aTThF9FWrhScWxGxj1h68oRC9O44YyYyQIuayqg/900x600.jpg",
+      "width": 900
+    },
+    "c_ap_HeroImageCaption": "ローリーズ・ザ・プライム・リブの名物、スピニング・ボウル・サラダのパフォーマンス",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "アメリカ旅行をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/usa/"
+      },
+      {
+        "linkText": "ロサンゼルスの現地ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aAME/bUS/cLAX/"
+      },
+      {
+        "linkText": "ロサンゼルスのツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dLAX"
+      },
+      {
+        "linkText": "ロサンゼルスのホテルをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/03/201/2011/?freeword\u003d%E3%83%AD%E3%82%B5%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B9%20%20%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%9E%20%20%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d2011"
+      },
+      {
+        "linkText": "ロサンゼルスの航空券をみる",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/north_america/usa/losangeles/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "地元の新鮮なシーフードやお肉、野菜などの食材に、世界各国の調理法や調味料でアレンジしたカリフォルニアキュイジーヌの人気店をピックアップ。洗練された空間で味わう贅沢な一皿は、きっとスペシャルな旅を演出してくれるはずです。(写真：ローリーズ・ザ・プライム・リブ）",
+    "c_ap_Tags": [
+      "グルメ",
+      "ロサンゼルス",
+      "カリフォルニアキュイジーヌ",
+      "ステーキ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "ファミリー",
+      "夫婦旅",
+      "グループ",
+      "グルメ",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "カリフォルニアキュイジーヌの有名店5選！ちょっと贅沢な料理を堪能【アメリカ　ロサンゼルス】",
+    "c_linkedArea3News": [
+      "usa"
+    ],
+    "c_metaDescription": "カリフォルニアキュイジーヌは、地元の新鮮で高品質の食材で、世界各国の調理法や調味料でアレンジしたカリフォルニア料理。そんなカリフォルニアキュイジーヌの有名店をピックアップ！",
+    "c_metaTitle": "カリフォルニアキュイジーヌの有名店5選！ちょっと贅沢な料理を堪能【アメリカ　ロサンゼルス】",
+    "c_news_CTAs": [
+      {
+        "label": "ロサンゼルスのホテルをみる",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/03/201/2011/?freeword\u003d%E3%83%AD%E3%82%B5%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B9%20%20%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%9E%20%20%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d2011",
+        "linkType": "URL"
+      },
+      {
+        "label": "ロサンゼルスの現地ツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aAME/bUS/cLAX/",
+        "linkType": "URL"
+      },
+      {
+        "label": "ロサンゼルスのツアー・パックをみる",
+        "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dLAX",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "フェアモント・ミラマー・ホテ＆バンガローズをみる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/699491/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "輝く夜景に乾杯！ロサンゼルスのルーフトップバーをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/north_america/usa/news_ap_osarea_0000078",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "大定番！ロサンゼルスの絶品ハンバーガーをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/north_america/usa/news_ap_osarea_0000058",
+          "linkType": "URL"
+        },
+        "description": "「ラ・ボエム」は、和の食材をふんだんに取り入れた料理が特徴。独創的で見た目も美しいカリフォルニアフュージョン料理を満喫できます。ディナーはゴージャスなメインをはじめ、こだわりのメニューが目白押し。ロブスターを使った豪華な「エッグベネディクト」＄34などが味わえるブランチもおすすめです。バルコニー席に囲まれたダイニングルームには、シャンデリアやアンティーク家具が配され、ゴージャスなムードに包まれた空間で食事を堪能できますよ。ロサンゼルスで最もロマンチックなレストランとしても知られています。",
+        "image": {
+          "alternateText": "お好みでレモンと一緒にいただく舌平目のムニエル＄27",
+          "height": 1365,
+          "sourceUrl": "https://a.mktgcdn.com/p/_RKcOXhgWQpWnd1FlnjC4yYz7SD2vvBfTprRLYAOw4w/2048x1365.jpg",
+          "thumbnails": [
+            {
+              "height": 1365,
+              "url": "https://a.mktgcdn.com/p-sandbox/BJr67eEHfigI-rE7ScezBV0-_QJ1slX1KaanjIomOow/2048x1365.jpg",
+              "width": 2048
+            },
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/BJr67eEHfigI-rE7ScezBV0-_QJ1slX1KaanjIomOow/1900x1266.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/BJr67eEHfigI-rE7ScezBV0-_QJ1slX1KaanjIomOow/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/BJr67eEHfigI-rE7ScezBV0-_QJ1slX1KaanjIomOow/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/BJr67eEHfigI-rE7ScezBV0-_QJ1slX1KaanjIomOow/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BJr67eEHfigI-rE7ScezBV0-_QJ1slX1KaanjIomOow/2048x1365.jpg",
+          "width": 2048
+        },
+        "imageCaption": "お好みでレモンと一緒にいただく舌平目のムニエル＄27",
+        "infoBlockLabel": "La Bohemeの情報",
+        "infoBlockText": "住所：8400 Santa Monica Blvd.営業時間：17～22時（金曜は～24時、土曜は11時～翌2時、日曜は11時～）※土・日曜は15時45分までブランチ定休日：なし",
+        "sectionTitle": "ラ・ボエム（La Boheme）"
+      },
+      {
+        "cTA1": {
+          "label": "ロサンゼルスの人気オーガニックレストランをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/north_america/usa/news_ap_osarea_0000076",
+          "linkType": "URL"
+        },
+        "description": "1938年創業のプライムリブの老舗「ローリーズ・ザ・プライム・リブ」。じっくり熟成させたジューシーなプライムリブは、テーブルサイドでカットされ提供されます。お肉の厚さによってカリフォルニアカット、イングリッシュカットなどと名前がついているのがこちらのお店ならでは。また回転するサラダボウルにドレッシングを混ぜて仕上げる、スピニング・ボウル・サラダのパフォーマンスもこちらのお店の名物になっているので、プライムリブと一緒にぜひオーダーを！",
+        "image": {
+          "alternateText": "レトロな雰囲気を感じるダイニング",
+          "height": 2850,
+          "sourceUrl": "https://a.mktgcdn.com/p/etANckKSMpfsiVVNigh3NGGrnQ7Xiz5ljOC-e-ZSC0A/3600x2850.jpg",
+          "thumbnails": [
+            {
+              "height": 2850,
+              "url": "https://a.mktgcdn.com/p-sandbox/etANckKSMpfsiVVNigh3NGGrnQ7Xiz5ljOC-e-ZSC0A/3600x2850.jpg",
+              "width": 3600
+            },
+            {
+              "height": 1504,
+              "url": "https://a.mktgcdn.com/p-sandbox/etANckKSMpfsiVVNigh3NGGrnQ7Xiz5ljOC-e-ZSC0A/1900x1504.jpg",
+              "width": 1900
+            },
+            {
+              "height": 490,
+              "url": "https://a.mktgcdn.com/p-sandbox/etANckKSMpfsiVVNigh3NGGrnQ7Xiz5ljOC-e-ZSC0A/619x490.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/etANckKSMpfsiVVNigh3NGGrnQ7Xiz5ljOC-e-ZSC0A/568x450.jpg",
+              "width": 568
+            },
+            {
+              "height": 155,
+              "url": "https://a.mktgcdn.com/p-sandbox/etANckKSMpfsiVVNigh3NGGrnQ7Xiz5ljOC-e-ZSC0A/196x155.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/etANckKSMpfsiVVNigh3NGGrnQ7Xiz5ljOC-e-ZSC0A/3600x2850.jpg",
+          "width": 3600
+        },
+        "imageCaption": "レトロな雰囲気を感じるダイニング",
+        "infoBlockLabel": "Lawry’s the Prime Ribの情報",
+        "infoBlockText": "住所：100 N. La Cienega Blvd.営業時間：17時～21時30分（金曜は～22時、土曜は16～22時、日曜は11時30分～14時、16時～21時30分）定休日：なし",
+        "sectionTitle": "ローリーズ・ザ・プライム・リブ（Lawry’s the Prime Rib）"
+      },
+      {
+        "description": "サンタモニカビーチに面したセレブご用達の「フェアモント・ミラマー・ホテ＆バンガローズ」に2022年にオープンした話題の寿司バー「ソコ」。カウンター8席だけの隠れ家的な空間で、北海道出身で漁師の経験もあるというシェフのマサ・シマカワ氏が腕を振るう芸術的な料理が堪能できます。メニューは伝統的なにぎり寿司から、見た目も華やかな創作料理まで幅広く、なかでも新鮮な食材を使った「おまかせ6コース」＄185もおすすめです。9種類の小鉢が並ぶ「マサズ・ドリームボックス」はカラフルな見た目で食欲を刺激してくれます。",
+        "image": {
+          "alternateText": "本マグロの握り、刺身、ロールがセットになったプレート",
+          "height": 2832,
+          "sourceUrl": "https://a.mktgcdn.com/p/SNDAFB6kXeCoE_dcpwwSnAJZr389rbEFwDQKZfGtvzk/4247x2832.jpg",
+          "thumbnails": [
+            {
+              "height": 2832,
+              "url": "https://a.mktgcdn.com/p-sandbox/RvEGVy_2AosM-hwS8q0Dfapw5rafC039jdwcgqRXdSc/4247x2832.jpg",
+              "width": 4247
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/RvEGVy_2AosM-hwS8q0Dfapw5rafC039jdwcgqRXdSc/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/RvEGVy_2AosM-hwS8q0Dfapw5rafC039jdwcgqRXdSc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/RvEGVy_2AosM-hwS8q0Dfapw5rafC039jdwcgqRXdSc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/RvEGVy_2AosM-hwS8q0Dfapw5rafC039jdwcgqRXdSc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RvEGVy_2AosM-hwS8q0Dfapw5rafC039jdwcgqRXdSc/4247x2832.jpg",
+          "width": 4247
+        },
+        "imageCaption": "本マグロの握り、刺身、ロールがセットになったプレート",
+        "infoBlockLabel": "Sokoの情報",
+        "infoBlockText": "住所：101 Wilshire Blvd.営業時間：17～22時定休日：日・月曜",
+        "sectionTitle": "ソコ（Soko）"
+      },
+      {
+        "description": "メルローズ・アヴェニューとロバートソン・ブールバードが交差するホットな一角にある「サー」。人気ハリウッドセレブも来店したことがあるという、セレブからも愛されているレストランです。メニューはお肉やシーフードのほか、季節の野菜など新鮮な食材を使用して上品な味わいに仕上げた料理がメイン。アンティークが配され、バラの花びらが撒かれたテーブルでロマンチック気分に浸りながら食事を堪能できます。土・日曜ならブランチも狙い目ですよ。",
+        "image": {
+          "alternateText": "見た目も美しい上品な味わいの料理を、気品あふれる空間で堪能",
+          "height": 4964,
+          "sourceUrl": "https://a.mktgcdn.com/p/UxGuajXpvw0t7KSQwVFsFnBlLRkdwjZIyPw_FIchiYo/3723x4964.jpg",
+          "thumbnails": [
+            {
+              "height": 4964,
+              "url": "https://a.mktgcdn.com/p-sandbox/UxGuajXpvw0t7KSQwVFsFnBlLRkdwjZIyPw_FIchiYo/3723x4964.jpg",
+              "width": 3723
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/UxGuajXpvw0t7KSQwVFsFnBlLRkdwjZIyPw_FIchiYo/1425x1900.jpg",
+              "width": 1425
+            },
+            {
+              "height": 825,
+              "url": "https://a.mktgcdn.com/p-sandbox/UxGuajXpvw0t7KSQwVFsFnBlLRkdwjZIyPw_FIchiYo/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/UxGuajXpvw0t7KSQwVFsFnBlLRkdwjZIyPw_FIchiYo/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/UxGuajXpvw0t7KSQwVFsFnBlLRkdwjZIyPw_FIchiYo/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/UxGuajXpvw0t7KSQwVFsFnBlLRkdwjZIyPw_FIchiYo/3723x4964.jpg",
+          "width": 3723
+        },
+        "imageCaption": "見た目も美しい上品な味わいの料理を、気品あふれる空間で堪能",
+        "infoBlockLabel": "Surの情報",
+        "infoBlockText": "住所：606 N. Robertson Blvd.営業時間：11～15時（土・日曜）、17～22時（金・土曜は～23時）定休日：月曜",
+        "sectionTitle": "サー（Sur）"
+      },
+      {
+        "description": "旅行者で賑わうサンタモニカピアの入口脇に店を構える、1923年に創業した老舗レストラン「ロブスター」。店名の通りおすすめはロブスターで、蒸し・焼きの2種類から選べます。そのほか、シーフードも評判なので、ロブスターやオイスター、エビなどがワンプレートに盛られた「シーフードプラッター」なども試してみたい一品です。店内の窓からはサンタモニカピアやビーチの美しい眺望が広がる絶好のロケーション。空がオレンジ色に染まるサンセットも最高ですよ。",
+        "image": {
+          "alternateText": "ロブスターのグリル3パウンドは2人でシェアできる大きさ。1パウンド$44",
+          "height": 1161,
+          "sourceUrl": "https://a.mktgcdn.com/p/2lz3Y80WOrXC_qEtvE9foN6aa5lGbmGOokClwpKVzok/896x1161.jpg",
+          "thumbnails": [
+            {
+              "height": 1161,
+              "url": "https://a.mktgcdn.com/p-sandbox/WhTFS3tSxGmkgR80RkbB9L7xnhXSCFcmNz0WpPfzImo/896x1161.jpg",
+              "width": 896
+            },
+            {
+              "height": 802,
+              "url": "https://a.mktgcdn.com/p-sandbox/WhTFS3tSxGmkgR80RkbB9L7xnhXSCFcmNz0WpPfzImo/619x802.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/WhTFS3tSxGmkgR80RkbB9L7xnhXSCFcmNz0WpPfzImo/347x450.jpg",
+              "width": 347
+            },
+            {
+              "height": 254,
+              "url": "https://a.mktgcdn.com/p-sandbox/WhTFS3tSxGmkgR80RkbB9L7xnhXSCFcmNz0WpPfzImo/196x254.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WhTFS3tSxGmkgR80RkbB9L7xnhXSCFcmNz0WpPfzImo/896x1161.jpg",
+          "width": 896
+        },
+        "imageCaption": "ロブスターのグリル3パウンドは2人でシェアできる大きさ。1パウンド$44",
+        "infoBlockLabel": "The Lobsterの情報",
+        "infoBlockText": "住所：1602 Ocean Ave.営業時間：12～21時（金曜は～22時、土曜は11時30分～22時、日曜は11時30分～）定休日：なし",
+        "sectionTitle": "ロブスター（The Lobster）"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000059",
+      "news_ap_osarea_0000065",
+      "news_ap_osarea_0000056",
+      "news_ap_osarea_0000058"
+    ],
+    "c_news_FeaturedArticlesTitle": "ロサンゼルスのその他の投稿記事",
+    "c_news_PublicationDate": "2023-07-05",
+    "c_news_UpdateDate": "2024-08-19",
+    "c_news_ViewCount": "155",
+    "c_news_ViewCount1of2": "4",
+    "c_news_ViewCount2of2": "155",
+    "c_news_ViewCountNum": "155",
+    "c_news_ViewCountNumForSorting": "12",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/north_america/usa/news_ap_osarea_0000057",
+    "name": "カリフォルニアキュイジーヌの有名店5選！ちょっと贅沢な料理を堪能【アメリカ　ロサンゼルス】",
+    "slug": "kaigai/north_america/usa/news_ap_osarea_0000057",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

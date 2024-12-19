@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_qian_xie_xian_qian_xie_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247845"
+    ],
+    "dm_directoryChildren": [
+      "3524-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_qian_xie_xian"
+    ],
+    "name": "千葉市",
+    "slug": "千葉県/千葉市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

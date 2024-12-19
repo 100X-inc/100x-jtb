@@ -1,0 +1,570 @@
+{
+  "$id": "news_web_kaigai_0008",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1299,
+      "sourceUrl": "https://a.mktgcdn.com/p/WMCDPppZ4aAmvha1KZKYvLzNGRogp6pKcR-KLCd5lKg/2309x1299.jpg",
+      "thumbnails": [
+        {
+          "height": 1299,
+          "url": "https://a.mktgcdn.com/p-sandbox/WMCDPppZ4aAmvha1KZKYvLzNGRogp6pKcR-KLCd5lKg/2309x1299.jpg",
+          "width": 2309
+        },
+        {
+          "height": 1069,
+          "url": "https://a.mktgcdn.com/p-sandbox/WMCDPppZ4aAmvha1KZKYvLzNGRogp6pKcR-KLCd5lKg/1900x1069.jpg",
+          "width": 1900
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p-sandbox/WMCDPppZ4aAmvha1KZKYvLzNGRogp6pKcR-KLCd5lKg/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p-sandbox/WMCDPppZ4aAmvha1KZKYvLzNGRogp6pKcR-KLCd5lKg/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p-sandbox/WMCDPppZ4aAmvha1KZKYvLzNGRogp6pKcR-KLCd5lKg/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/WMCDPppZ4aAmvha1KZKYvLzNGRogp6pKcR-KLCd5lKg/2309x1299.jpg",
+      "width": 2309
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ハワイ旅行・ツアー特集",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hawaii/"
+      },
+      {
+        "linkText": "JTBMySTYLEでハワイ旅行を計画する",
+        "uRL": "https://www.jtb.co.jp/lookjtb/service/hawaii/"
+      },
+      {
+        "linkText": "ハワイのおすすめホテル特集",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/"
+      },
+      {
+        "linkText": "現地オプショナルツアー",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/bH1/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "初めてのハワイ旅行でも存分に満喫できる、おすすめの楽しみ方をご紹介します。ショッピングやマリンスポーツなどさまざまなアクティビティが充実しているので、子どもから大人まで大満足！ハワイ初心者の方はぜひチェックしてみてください。",
+    "c_ap_Tags": [
+      "観光スポット",
+      "アクティビティ",
+      "ビーチ",
+      "スパ",
+      "リゾート",
+      "インスタ映え",
+      "グルメ",
+      "ビーチリゾート",
+      "初めての旅行",
+      "買い物"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "初めてのハワイ旅行を1000％楽しむ！おすすめの観光情報を徹底紹介",
+    "c_linkedArea3News": [
+      "hawaii"
+    ],
+    "c_metaDescription": "初めてのハワイ旅行でも存分に満喫できる、おすすめの楽しみ方をご紹介します。ショッピングやマリンスポーツなどさまざまなアクティビティが充実しているので、子どもから大人まで大満足！ハワイ初心者の方はぜひチェックしてみてください。",
+    "c_metaTitle": "初めてのハワイ旅行を1000％楽しむ！おすすめの観光情報を徹底紹介 | JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "ハワイ特集をみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/hawaii/",
+        "linkType": "URL"
+      },
+      {
+        "label": "ハワイのおすすめホテルをみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/",
+        "linkType": "URL"
+      },
+      {
+        "label": "JTBMySTYLEでハワイ旅行を計画する",
+        "link": "https://www.jtb.co.jp/lookjtb/service/hawaii/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "アラモアナセンターのおすすめショップをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000014",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ハワイでおすすめのショッピングモールをもっとみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000013",
+          "linkType": "URL"
+        },
+        "description": "海外旅行では、ショッピングが外せないという人も多いはず。ハワイ観光のメインとなるオアフ島には数多くのショッピングモールがあり、世界的に有名なブランドからハワイのローカルブランドまでさまざまな店が軒を連ねます。またショッピングモールにもそれぞれ特色があり、店舗数が多い巨大モールから、手軽にショッピングができるアウトレットまで選択肢が多いのも嬉しいポイントです。中でも初めてハワイに行くならぜひ押さえておきたい、定番のショッピングスポットをご紹介しましょう。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/pMUZyQAZj_BzKOqeMgEod6k13SchEyWPN2V-GI5ME7g/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/pMUZyQAZj_BzKOqeMgEod6k13SchEyWPN2V-GI5ME7g/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/pMUZyQAZj_BzKOqeMgEod6k13SchEyWPN2V-GI5ME7g/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/pMUZyQAZj_BzKOqeMgEod6k13SchEyWPN2V-GI5ME7g/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/pMUZyQAZj_BzKOqeMgEod6k13SchEyWPN2V-GI5ME7g/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/pMUZyQAZj_BzKOqeMgEod6k13SchEyWPN2V-GI5ME7g/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "1．初めてのハワイ旅行におすすめの【ショッピングスポット】"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイの現地オプショナルツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aHWI/",
+          "linkType": "URL"
+        },
+        "description": "ハワイでショッピングを楽しむなら、まずはアラモアナセンターがおすすめ。アラモアナショッピングセンターとも呼ばれるハワイ最大級のお買い物スポットです。東京ドーム4個分以上もある広大な敷地の中に4つのデパートが並び、さらに高級ブランドのブティックやスーパーマーケット、各国料理のレストランまであるハワイ最大級のショッピングモールです。テナント数は350を超えており、ここに来ればきっとお目当てのブランドに出会えるでしょう。",
+        "image": {
+          "height": 749,
+          "sourceUrl": "https://a.mktgcdn.com/p/n0qN61wgQsK5um7p9wEDli0dJ4STF7-KgUEa-dTRCds/1024x749.jpg",
+          "thumbnails": [
+            {
+              "height": 749,
+              "url": "https://a.mktgcdn.com/p-sandbox/n0qN61wgQsK5um7p9wEDli0dJ4STF7-KgUEa-dTRCds/1024x749.jpg",
+              "width": 1024
+            },
+            {
+              "height": 453,
+              "url": "https://a.mktgcdn.com/p-sandbox/n0qN61wgQsK5um7p9wEDli0dJ4STF7-KgUEa-dTRCds/619x453.jpg",
+              "width": 619
+            },
+            {
+              "height": 439,
+              "url": "https://a.mktgcdn.com/p-sandbox/n0qN61wgQsK5um7p9wEDli0dJ4STF7-KgUEa-dTRCds/600x439.jpg",
+              "width": 600
+            },
+            {
+              "height": 143,
+              "url": "https://a.mktgcdn.com/p-sandbox/n0qN61wgQsK5um7p9wEDli0dJ4STF7-KgUEa-dTRCds/196x143.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/n0qN61wgQsK5um7p9wEDli0dJ4STF7-KgUEa-dTRCds/1024x749.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ハワイ最大級のショッピングモール「アラモアナセンター」"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイの無料ビーチをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000016",
+          "linkType": "URL"
+        },
+        "description": "せっかく初めてハワイに来たのだから、現地の雰囲気を楽しみたい。そんな方におすすめなのは、ロイヤル・ハワイアン・センターです。ヤシの木やコアの木など南国特有のトロピカルな植物が並ぶ敷地内に100以上のショップが軒を連ね、開放的な雰囲気の中でショッピングが楽しめます。B館1階のロイヤルグローブでは無料のフラダンスレッスンやショーも行われており、ショッピングの合間に一息つくのに最適です。",
+        "image": {
+          "height": 542,
+          "sourceUrl": "https://a.mktgcdn.com/p/6EhCOUL5NjGV8XLPwY310ubq0pEdjn39Eu5TbBvqpPE/722x542.jpg",
+          "thumbnails": [
+            {
+              "height": 542,
+              "url": "https://a.mktgcdn.com/p-sandbox/6EhCOUL5NjGV8XLPwY310ubq0pEdjn39Eu5TbBvqpPE/722x542.jpg",
+              "width": 722
+            },
+            {
+              "height": 465,
+              "url": "https://a.mktgcdn.com/p-sandbox/6EhCOUL5NjGV8XLPwY310ubq0pEdjn39Eu5TbBvqpPE/619x465.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/6EhCOUL5NjGV8XLPwY310ubq0pEdjn39Eu5TbBvqpPE/599x450.jpg",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/6EhCOUL5NjGV8XLPwY310ubq0pEdjn39Eu5TbBvqpPE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6EhCOUL5NjGV8XLPwY310ubq0pEdjn39Eu5TbBvqpPE/722x542.jpg",
+          "width": 722
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ハワイの雰囲気を満喫できる「ロイヤル・ハワイアン・センター」"
+      },
+      {
+        "cTA1": {
+          "label": "ダイヤモンドヘッドのハイキングツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/prddetail/p309700/",
+          "linkType": "URL"
+        },
+        "description": "ショッピングセンターでの買い物も楽しいですが、お得な価格でブランド品を購入したいなら、アウトレットがおすすめ！ホノルルから車で30分ほどのところにあるワイケレ・プレミアム・アウトレットは、ハワイ最大級のアウトレットモールです。アウトレットならではのお得な価格で購入できる可能性があるので、十分に行く価値があります。約50店舗ほどありますので、お目当てのブランドが扱われているか、事前にチェックすることをおすすめします。ワイキキの中心街からは少し離れるため、初めてのハワイでレンタカー利用が不安な方はタクシーや現地オプショナルツアーで送迎を利用すると便利です。",
+        "image": {
+          "height": 775,
+          "sourceUrl": "https://a.mktgcdn.com/p/LrwjHB9krVkwNxZ9eknWqaKgdftEFOARjYr88IzBWBY/1033x775.jpg",
+          "thumbnails": [
+            {
+              "height": 775,
+              "url": "https://a.mktgcdn.com/p-sandbox/ju2mc_oimj7qoVDA8HJi0TsPRMflunmr2P4HcOiX1Ik/1033x775.jpg",
+              "width": 1033
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/ju2mc_oimj7qoVDA8HJi0TsPRMflunmr2P4HcOiX1Ik/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ju2mc_oimj7qoVDA8HJi0TsPRMflunmr2P4HcOiX1Ik/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/ju2mc_oimj7qoVDA8HJi0TsPRMflunmr2P4HcOiX1Ik/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ju2mc_oimj7qoVDA8HJi0TsPRMflunmr2P4HcOiX1Ik/1033x775.jpg",
+          "width": 1033
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ブランド品をお得に買うなら「ワイケレ・プレミアム・アウトレット」"
+      },
+      {
+        "cTA1": {
+          "label": "カカアコ地区のおすすめスポットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000018",
+          "linkType": "URL"
+        },
+        "description": "ハワイといえばビーチが有名ですが、それ以外にもアメリカらしい雄大な自然や、ハワイ独自の文化など数多くの見どころがあります。その中でも、初めてハワイ旅行に行くなら押さえておきたい観光スポットをご紹介します。",
+        "image": {
+          "height": 1108,
+          "sourceUrl": "https://a.mktgcdn.com/p/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/1477x1108.jpg",
+          "thumbnails": [
+            {
+              "height": 1108,
+              "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/1477x1108.jpg",
+              "width": 1477
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/1477x1108.jpg",
+          "width": 1477
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "2．初めてのハワイ旅行で押さえておきたい【おすすめ観光スポット】"
+      },
+      {
+        "cTA1": {
+          "label": "ロコモコを食べられるおすすめスポットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000008",
+          "linkType": "URL"
+        },
+        "description": "「ハワイと言えば？」と聞かれ、ほとんどの人が頭に思い浮かべるのはこのワイキキビーチの風景ではないでしょうか。美しい太平洋の海と南国らしいヤシの並木、そして遠くに見えるダイヤモンドヘッドは、ハワイに来たことを強く実感させてくれる場所でもあります。ワイキキビーチはハワイ観光の定番ということもあり、ワイキキの中心部・カラカウア通り近辺のビーチ沿いはいつも多くの人で賑わっています。そのため、ゆったりしたい場合は東西のどちらかに足を伸ばすといいでしょう。西はヒルトン・ハワイアン・ビレッジ付近まで、反対に東はホノルル動物園前周辺まで移動すると比較的人通りも少なく、のんびりすることができるでしょう。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/QLnmiT3aY6TeoPtccTzBgveyniO3W3kkHULcoDuUpJ4/1025x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/QLnmiT3aY6TeoPtccTzBgveyniO3W3kkHULcoDuUpJ4/1025x683.jpg",
+              "width": 1025
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/QLnmiT3aY6TeoPtccTzBgveyniO3W3kkHULcoDuUpJ4/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/QLnmiT3aY6TeoPtccTzBgveyniO3W3kkHULcoDuUpJ4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/QLnmiT3aY6TeoPtccTzBgveyniO3W3kkHULcoDuUpJ4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QLnmiT3aY6TeoPtccTzBgveyniO3W3kkHULcoDuUpJ4/1025x683.jpg",
+          "width": 1025
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ハワイ（オアフ島）観光の大定番「ワイキキビーチ」は外せない"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイで人気のステーキ店をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000007",
+          "linkType": "URL"
+        },
+        "description": "ハワイの海の中でもナンバーワンとの呼び声が高いのが、ラニカイビーチです。ラニカイとはハワイ語で「天国の海」を意味する言葉で、エメラルドグリーンの海と白い砂浜のコントラストはまさしく神秘的な美しさ。特に砂浜は「小麦粉のよう」と形容されるほどのキメの細かさで、寝転ぶとまるで天国にいるような至福の瞬間を味わえます。ラニカイビーチはオアフ島東海岸の住宅街の裏に位置しており、観光客が少なくのんびりした雰囲気です。海水浴場として整備されていないので、シャワーやトイレがないなど少し不便ではありますが、ゆっくりと贅沢な時間を過ごしたい方におすすめのビーチです。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/EEqirLQhC_f8IH5ufMjHoCGj7ZqM_tYURKGMLmRwZB8/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/EEqirLQhC_f8IH5ufMjHoCGj7ZqM_tYURKGMLmRwZB8/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/EEqirLQhC_f8IH5ufMjHoCGj7ZqM_tYURKGMLmRwZB8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/EEqirLQhC_f8IH5ufMjHoCGj7ZqM_tYURKGMLmRwZB8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/EEqirLQhC_f8IH5ufMjHoCGj7ZqM_tYURKGMLmRwZB8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EEqirLQhC_f8IH5ufMjHoCGj7ZqM_tYURKGMLmRwZB8/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "最高のビーチで泳ぎたいなら、世界屈指の美しい海岸「ラニカイビーチ」へ"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイで人気のパンケーキ店をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000001",
+          "linkType": "URL"
+        },
+        "description": "ワイキキビーチと並ぶハワイのランドマークといえば、このダイヤモンドヘッドです。ビーチから見上げるだけでなく、時間がある方はぜひ頂上までトレッキングに挑戦してみましょう。頂上までの道のりは往復1～2時間ほど。観光地として整備されているため、それほど入念な準備は必要ありませんが、帽子や日焼け止めなどの紫外線対策はしっかりとしておきましょう。山頂から見渡すワイキキビーチやホノルルの街並みは美しく、ハワイに行ったらぜひ押さえておきたいスポットです。※ダイヤモンドヘッドの入場には事前オンライン予約が必要になります（2024年2月現在）。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/_QItwVmKwbaTgd5X5jNm1JkQNDV0fSA2OtU8Vmg66K0/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/_QItwVmKwbaTgd5X5jNm1JkQNDV0fSA2OtU8Vmg66K0/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/_QItwVmKwbaTgd5X5jNm1JkQNDV0fSA2OtU8Vmg66K0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/_QItwVmKwbaTgd5X5jNm1JkQNDV0fSA2OtU8Vmg66K0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/_QItwVmKwbaTgd5X5jNm1JkQNDV0fSA2OtU8Vmg66K0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_QItwVmKwbaTgd5X5jNm1JkQNDV0fSA2OtU8Vmg66K0/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "オアフ島と太平洋を見渡せる「ダイヤモンドヘッド」"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイのエステ・スパ・マッサージのプランをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/x3/?categoryId\u003d3",
+          "linkType": "URL"
+        },
+        "description": "インスタグラムの投稿が話題になり、近年ハワイの観光地として急激に人気を集めているのがカカアコ地区にあるウォールアートです。カカアコ地区はもともと倉庫街でしたが、パウワウ・ハワイというアートイベントをきっかけにウォールペインティングが増え、現在は数多くの観光客が訪れる場所となりました。インスタ映え抜群のカカアコウォールアートですが、突然撤去されたり、またそこに新しく描き加えられたりしているため、ウォールペインティングは日々変化しています。ぜひ自分の目で、お気に入りの作品を探しに行ってみましょう。",
+        "image": {
+          "height": 682,
+          "sourceUrl": "https://a.mktgcdn.com/p/fyBbZXBx-iu4bOvrhBXCS-LKvThQLUp_C4iLU4fWUmY/1024x682.jpg",
+          "thumbnails": [
+            {
+              "height": 682,
+              "url": "https://a.mktgcdn.com/p-sandbox/fyBbZXBx-iu4bOvrhBXCS-LKvThQLUp_C4iLU4fWUmY/1024x682.jpg",
+              "width": 1024
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/fyBbZXBx-iu4bOvrhBXCS-LKvThQLUp_C4iLU4fWUmY/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/fyBbZXBx-iu4bOvrhBXCS-LKvThQLUp_C4iLU4fWUmY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/fyBbZXBx-iu4bOvrhBXCS-LKvThQLUp_C4iLU4fWUmY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fyBbZXBx-iu4bOvrhBXCS-LKvThQLUp_C4iLU4fWUmY/1024x682.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "フォトジェニックなストリートアートを楽しめる「カカアコウォールアート」"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイの自然を楽しめるアクティビティをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000015",
+          "linkType": "OTHER"
+        },
+        "description": "旅行の楽しみの一つはやはり食べること！最近は日本でもハワイアンフードを食べられるレストランが増えましたが、やはり現地の雰囲気の中で食べる本場の料理は格別です。初めてハワイに来たら、絶対に食べておきたいグルメをご紹介します。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/V0f585k5pN6umJWvtKzfjNxZ6LB0yyM8C76QxgTsMlc/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/V0f585k5pN6umJWvtKzfjNxZ6LB0yyM8C76QxgTsMlc/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/V0f585k5pN6umJWvtKzfjNxZ6LB0yyM8C76QxgTsMlc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/V0f585k5pN6umJWvtKzfjNxZ6LB0yyM8C76QxgTsMlc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/V0f585k5pN6umJWvtKzfjNxZ6LB0yyM8C76QxgTsMlc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/V0f585k5pN6umJWvtKzfjNxZ6LB0yyM8C76QxgTsMlc/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "3．初めてのハワイ旅行なら【ハワイアングルメ】を食べ尽くそう"
+      },
+      {
+        "description": "ハワイ料理の定番といえばやっぱりロコモコ。ごはんの上にハンバーグと目玉焼きを載せ、グレイビーソースをかけた料理です。もともとは若者向けのファストフードのような存在でしたが、近年ではすっかりハワイの郷土料理として定着しました。価格は比較的お手頃で、忙しい観光の合間でもさっと食べられる手軽さも嬉しいポイントの一つ。一般的にはハンバーグを使用しますが、ハワイではステーキやテリヤキチキン、フライドフィッシュなどの味を楽しむこともできます。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/M7vJ9B__ke10fAuZT2n_5LR8ESxXNXmt83Tr-CJBVRA/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/M7vJ9B__ke10fAuZT2n_5LR8ESxXNXmt83Tr-CJBVRA/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/M7vJ9B__ke10fAuZT2n_5LR8ESxXNXmt83Tr-CJBVRA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/M7vJ9B__ke10fAuZT2n_5LR8ESxXNXmt83Tr-CJBVRA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/M7vJ9B__ke10fAuZT2n_5LR8ESxXNXmt83Tr-CJBVRA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/M7vJ9B__ke10fAuZT2n_5LR8ESxXNXmt83Tr-CJBVRA/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ハワイの定番ソウルフード「ロコモコ」はやっぱり外せない"
+      },
+      {
+        "description": "「ポケ」とも呼ばれるポキ丼は、マグロやサーモン、タコなどの新鮮な魚介を醤油ベースのタレに漬け込み、ご飯のうえに載せた料理のこと。「ポキ」とはハワイ語で「切り身」を意味する言葉で、ロコモコと並ぶ現地のソウルフードとも言える存在です。日本でいう「漬け丼」に近い料理と言えばイメージしやすいかもしれません。専門店のほか、スーパーマーケットでも量り売りしているので初めてのハワイで日本の味が恋しくなっても大丈夫。店によってはタレにごま油やチリオイルを使ったり、ニンニクや細かく砕いたマカダミアナッツなどを混ぜることもあります。さまざまなバリエーションがあるので、滞在中にいろいろな店の味を食べ比べてみてもいいかもしれません。",
+        "sectionLevel": "h3",
+        "sectionTitle": "日本の味が恋しくなったら「ポキ丼」を試してみて"
+      },
+      {
+        "description": "初めてハワイに来たならぜひ試してみたいのが、肉汁のしたたる厚切りステーキ。ハワイには名店と呼ばれるステーキハウスが数多くあり、非常にハイレベルなステーキを楽しむことができます。ハワイに行ったらぜひ食べてみたいのが熟成肉のステーキ。ハワイに3店舗を展開する「ルースズ クリス ステーキ ハウス」では、伝統的な調理法でじっくりとエイジングさせた極上のステーキを楽しめます。観光で一日歩き疲れた日には、身も心も元気にしてくれるステーキをぜひ試してみてはいかがでしょうか。",
+        "sectionLevel": "h3",
+        "sectionTitle": "やっぱり本場の味！ディナーのメインディッシュにはステーキを"
+      },
+      {
+        "description": "グルメ旅行をするなら、パンケーキやマラサダやなどのハワイアンスイーツも欠かせません。パンケーキは日本でもブームになりましたが、本場ハワイのパンケーキはボリュームも雰囲気も格別。メイプルシロップやホイップクリームをたっぷりとのせていただきましょう。特におすすめのお店は、ハワイで最も歴史のあるグルメ大賞「ハレアイナ賞」で、5年連続ベストブレックファースト賞の金賞に選ばれた「カフェ・カイラ」。ジューシーでフレッシュなフルーツが盛り付けてあるパンケーキに、シロップとクリームをたっぷりつけてお召し上がりください。ふわっと揚げたドーナツに砂糖をまぶしたマラサダは、朝食や、観光の合間のおやつにもピッタリ。テイクアウトできるカフェも多いので、ハワイ滞在中に何度もお世話になる人も多いかもしれません。",
+        "sectionLevel": "h3",
+        "sectionTitle": "グルメ旅行に欠かせないスイーツ「マラサダ」やパンケーキは朝ごはんにもピッタリ"
+      },
+      {
+        "description": "ハワイ旅行の楽しみの一つに、エステやスパをあげる人も多いのではないでしょうか。ハワイでマッサージをするなら、ぜひ試していただきたいのがロミロミです。ナチュラルなオイルを使ったハワイ独自のマッサージで、血流やリンパの流れを整え、疲労回復を助ける効果があるとされています。ハワイに到着した直後にこのマッサージを受ければ、忙しい日常のスイッチをすうっとOFFにして、リフレッシュした気持ちで初めてのハワイ旅行を始められそうですね。料金の相場はサービス内容によって異なります、予算に合わせてお店を選んでみましょう。サービス料が含まれていない場合は、ここに15～20％程度のチップを加算しましょう。初めてのハワイ旅行でチップの計算が不安な場合は事前にオプショナルツアーで予約をしておくのもおすすめです。ハワイのエステやスパは日本語を喋れるスタッフも多いため、言葉に不安があっても安心して体験することができるでしょう。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．さらなるリゾート気分を味わいたい方は、エステやスパへ！"
+      },
+      {
+        "description": "もっとアクティブにハワイを楽しみたいという人には、マリンスポーツやトレッキング、ホエールウォッチングなどのアクティビティがおすすめです。特にハワイのマリンスポーツは充実しており、定番のダイビングやシュノーケリングのほか、ハワイ発祥のSUP（サップ／スタンドアップパドル）や水圧を利用して空を飛ぶジェットレブ、空中散歩を楽しめるパラセイリングなどさまざまなアクティビティがあります。ハワイの青い空の下で、思いきり海を遊び尽くしてみてはいかがでしょうか。英語に不安がある人は、アクティビティツアー催行会社に日本語を話すスタッフがアテンドできるか、問い合わせてみましょう。また、毎年12月～3月限定で楽しめるホエールウォッチングも人気です。潮を吹く「ブロー」や尾ひれを打ち付ける「スラップ」など、目の前で踊るように繰り広げられるその姿は臨場感たっぷり。残念ながら夏季はハワイ近海からクジラは姿を消してしまうため、そのシーズンはサメを間近で見られるシャークツアーをおすすめします。「海より山が好き！」というあなたには渓谷トレッキングはいかがでしょうか。森の中は空気もきれいで、深い緑とマイナスイオンに癒やされます。有名なのは、ハワイ島のワイピオ渓谷やアカカフォールズなどのトレッキングコース。オアフ島で楽しむならマノア渓谷もおすすめです。いずれのコースもぬかるみが多く川の中に入る場面もあるため、沢歩き用の靴もしくは足首を固定できるサンダルを用意するといいでしょう。",
+        "sectionLevel": "h2",
+        "sectionTitle": "5. ハワイの海を楽しみ尽くす！気分爽快スポーツ＆アクティビティ"
+      },
+      {
+        "description": "ショッピングや観光スポット、グルメ、スパ、スポーツなどさまざまな視点から初めてのハワイを楽しむ方法をご紹介しました。ハワイは世界でも有数の観光リゾートアイランドということもあり、どんな楽しみ方もできるのが最大の魅力といえます。お買い物巡りをするもよし、砂浜に寝転がって何もしない贅沢を味わうのもいいでしょう。しっかりと遊び尽くせるよう事前に準備をしっかりして、ぜひ初めてのハワイ旅行を楽しんでください。",
+        "sectionLevel": "h2",
+        "sectionTitle": "6．どんな楽しみ方もできるハワイ、あなたはどう遊ぶ？"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0005",
+      "news_web_kaigai_0009",
+      "news_web_kaigai_0006"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2019-07-03",
+    "c_news_UpdateDate": "2024-04-30",
+    "c_news_ViewCount": "5479",
+    "c_news_ViewCount2of2": "5479",
+    "c_news_ViewCountNum": "5479",
+    "c_news_ViewCountNumForSorting": "368",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_web_kaigai_0008",
+    "c_relatedAreas": [
+      "hawaii"
+    ],
+    "name": "初めてのハワイ旅行を1000％楽しむ！おすすめの観光情報を徹底紹介",
+    "slug": "kaigai/beach_resort/hawaii/news_web_kaigai_0008",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "$id": "news_ap_osarea_0000070",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 加川香菜子"
+    },
+    "c_ap_HeroImage": {
+      "height": 2000,
+      "sourceUrl": "http://a.mktgcdn.com/p/eCN0Q0bPDRUj7P3BbFtxx44UAXMCVucsxorLzdPk-W8/3000x2000.jpg",
+      "thumbnails": [
+        {
+          "height": 2000,
+          "url": "//a.mktgcdn.com/p-sandbox/EQVyCnjEou3hdeLYCU0MwfHp9wo0Ig7-deWWnklVF0E/3000x2000.jpg",
+          "width": 3000
+        },
+        {
+          "height": 1267,
+          "url": "//a.mktgcdn.com/p-sandbox/EQVyCnjEou3hdeLYCU0MwfHp9wo0Ig7-deWWnklVF0E/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/EQVyCnjEou3hdeLYCU0MwfHp9wo0Ig7-deWWnklVF0E/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/EQVyCnjEou3hdeLYCU0MwfHp9wo0Ig7-deWWnklVF0E/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/EQVyCnjEou3hdeLYCU0MwfHp9wo0Ig7-deWWnklVF0E/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/EQVyCnjEou3hdeLYCU0MwfHp9wo0Ig7-deWWnklVF0E/3000x2000.jpg",
+      "width": 3000
+    },
+    "c_ap_HeroImageCaption": "天使や神々の彫刻は、街なかの至るところで見かける",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "バリ島旅行をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/bali/"
+      },
+      {
+        "linkText": "バリ島の現地ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bID/cDPS/"
+      },
+      {
+        "linkText": "バリ島のツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dDPS"
+      },
+      {
+        "linkText": "バリ島のホテルをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/81/1054/?freeword\u003d%E3%83%87%E3%83%B3%E3%83%91%E3%82%B5%E3%83%BC%E3%83%AB%20%20%E3%83%90%E3%83%AA%E5%B3%B6%20%20%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d1054"
+      },
+      {
+        "linkText": "バリ島の航空券をみる",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/asia/indonesia/bali/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "神々が宿る島、バリ島では美しい楽園ビーチはもちろん、伝統舞踊やスピリチュアルスポット、大自然アクティビティなど、バリ島ならではのさまざまな楽しみ方ができます。初めてバリ島に行く人もリピーターも必見の、バリ島旅をより豊かにしてくれる、とっておきのおすすめ体験を5つご紹介します！ （写真：ザ・ロイヤル・ピタ・マハ）",
+    "c_ap_Tags": [
+      "スパ",
+      "リゾート",
+      "アクティビティ",
+      "パワースポット",
+      "フォトジェニック"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "記念旅行",
+      "自然・山",
+      "建築・史跡",
+      "歴史・地理",
+      "街あるき",
+      "リゾート"
+    ],
+    "c_ap_Title": "神々の島・バリ島のおすすめ体験・やること5選【バリ島 ウブド】",
+    "c_linkedArea3News": [
+      "indonesia"
+    ],
+    "c_metaDescription": "神々の島とも呼ばれるバリ島ではやるべきことや体験が盛りだくさん！美しい楽園ビーチはもちろん、伝統舞踊やスピリチュアルスポットのスバトゥの滝、大自然アクティビティなど、さまざまな楽しみ方ができます。初めてバリ島に行く人もリピーターも必見のおすすめ体験をご紹介！",
+    "c_metaTitle": "神々の島・バリ島のおすすめ体験・やること5選【バリ島 ウブド】",
+    "c_news_CTAs": [
+      {
+        "label": "バリ島のホテルをみる",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/81/1054/?freeword\u003d%E3%83%87%E3%83%B3%E3%83%91%E3%82%B5%E3%83%BC%E3%83%AB%20%20%E3%83%90%E3%83%AA%E5%B3%B6%20%20%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d1054",
+        "linkType": "URL"
+      },
+      {
+        "label": "バリ島の現地ツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bID/cDPS/",
+        "linkType": "URL"
+      },
+      {
+        "label": "バリ島旅行をみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/bali/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ザ・ロイヤル・ピタ・マハのプランをみる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/2902/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "バリ島のスパ＆マッサージで最高の癒しを体験しよう！",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/indonesia/news_ap_osarea_0000095",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "バリ島で動物と触れ合おう！バリ島のアニマルパークをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/indonesia/news_ap_osarea_0000156",
+          "linkType": "OTHER"
+        },
+        "description": "近年、バリ島ではヤシの木とロープでできた、スリル満点のブランコがダイナミックなSNS映えの写真が撮れると大人気！巨大ブランコが楽しめるアクティビティ施設が、トゥガララン棚田周辺に続々とオープンしているんです。今回おすすめするのは、「アラス・ハルム・バリ」。コーヒー農園が運営する、約8haの敷地を持つアクティビティ施設で、ヤシの木が生い茂る渓谷の斜面に位置します。ジャングルブランコの種類は豊富で、カップル用やベッドタイプのブランコなど、10種類以上のメニューから選ぶことができます。よりフォトジェニックな写真を撮りたい人はカラフルな洋服を着てブランコにぜひ乗ってみてください！ドレスは有料で貸し出しもしています。",
+        "image": {
+          "height": 2940,
+          "sourceUrl": "https://a.mktgcdn.com/p/5F8KcEqQp7k0a5obZxlWEsxjL_NYSMeodneJ4AH1kIs/2000x2940.jpg",
+          "thumbnails": [
+            {
+              "height": 2940,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xh6UkvaugHUurXyT9BtDvNCYvYGQBv5stXRtNviUmPE/2000x2940.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xh6UkvaugHUurXyT9BtDvNCYvYGQBv5stXRtNviUmPE/1293x1900.jpg",
+              "width": 1293
+            },
+            {
+              "height": 910,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xh6UkvaugHUurXyT9BtDvNCYvYGQBv5stXRtNviUmPE/619x910.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xh6UkvaugHUurXyT9BtDvNCYvYGQBv5stXRtNviUmPE/306x450.jpg",
+              "width": 306
+            },
+            {
+              "height": 288,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xh6UkvaugHUurXyT9BtDvNCYvYGQBv5stXRtNviUmPE/196x288.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Xh6UkvaugHUurXyT9BtDvNCYvYGQBv5stXRtNviUmPE/2000x2940.jpg",
+          "width": 2000
+        },
+        "imageCaption": "ジャングルに向かって飛び出す、インパクト抜群の一枚が撮れる",
+        "infoBlockLabel": "Alas Harum Baliの情報",
+        "infoBlockText": "住所：Jl. Raya Tegallalang, Tegallalang 営業時間：9～21時料金：エクストリームスウィングRp.17万5000（入場料のみはRp.5万）定休日：なし",
+        "sectionTitle": "ジャングルブランコに乗って空へスウィング！「アラス・ハルム・バリ」（Alas Harum Bali）"
+      },
+      {
+        "cTA1": {
+          "label": "サレン・アグン宮殿の特集をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/indonesia/news_ap_osarea_0000157",
+          "linkType": "URL"
+        },
+        "description": "ほかにも、レストラン、プール、コーヒー農園ならではのインドネシア特産品「ルアック・コーヒー」を製造する体験施設もあるので一日中遊べます。",
+        "image": {
+          "height": 1382,
+          "sourceUrl": "https://a.mktgcdn.com/p/MxVsSg8Gx2Fk0svrPagIWgeI9FHUb-oBCQGq-8cnR6c/2174x1382.jpg",
+          "thumbnails": [
+            {
+              "height": 1382,
+              "url": "https://a.mktgcdn.com/p-sandbox/P-_lIhYgDJ2Q_j7E4zYIkI86STKT9zgf71qfTiyJdWA/2174x1382.jpg",
+              "width": 2174
+            },
+            {
+              "height": 1208,
+              "url": "https://a.mktgcdn.com/p-sandbox/P-_lIhYgDJ2Q_j7E4zYIkI86STKT9zgf71qfTiyJdWA/1900x1208.jpg",
+              "width": 1900
+            },
+            {
+              "height": 393,
+              "url": "https://a.mktgcdn.com/p-sandbox/P-_lIhYgDJ2Q_j7E4zYIkI86STKT9zgf71qfTiyJdWA/619x393.jpg",
+              "width": 619
+            },
+            {
+              "height": 381,
+              "url": "https://a.mktgcdn.com/p-sandbox/P-_lIhYgDJ2Q_j7E4zYIkI86STKT9zgf71qfTiyJdWA/600x381.jpg",
+              "width": 600
+            },
+            {
+              "height": 125,
+              "url": "https://a.mktgcdn.com/p-sandbox/P-_lIhYgDJ2Q_j7E4zYIkI86STKT9zgf71qfTiyJdWA/196x125.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/P-_lIhYgDJ2Q_j7E4zYIkI86STKT9zgf71qfTiyJdWA/2174x1382.jpg",
+          "width": 2174
+        },
+        "imageCaption": "大自然の中で味わうコーヒーは格別の味",
+        "infoBlockLabel": "Sebatuの情報",
+        "infoBlockText": "住所：Sebatu, Tegallalang営業時間：8～17時定休日：なし料金：Rp.2万",
+        "sectionTitle": "神秘的なスピリチュアルスポットで沐浴体験「スバトゥの滝」（Sebatu）"
+      },
+      {
+        "description": "ウブドから車で約40分、深い渓谷の奥にある寺院の敷地にある「スバトゥの滝」では、心身を浄化する「ムルカット（沐浴）」体験ができます。「ムルカット」は、バリ・ヒンドゥー教を信仰する人々が、悩み事や身体の不調があるときに行う寺院参拝の一つ。滝へは、水の流れる音がする長い階段を降りて向かいます。参道の途中には神像や祠が点在しているので、それぞれの場所でお祈りを捧げることが重要。「スバトゥの滝」は身体の悪い所を癒やし、浄化力がとても高いことで有名です。観光客でも訪れることができますが、決まった参拝手順があるため地元のガイドと一緒に行くことがおすすめです。",
+        "image": {
+          "height": 2000,
+          "sourceUrl": "https://a.mktgcdn.com/p/5b_vqj2eyGoq9eWperXqYOYSBEecbtuPY-2oOtU8hew/3000x2000.jpg",
+          "thumbnails": [
+            {
+              "height": 2000,
+              "url": "https://a.mktgcdn.com/p-sandbox/V19jg6NtEPlI22Jd-g0T1fQ746Cul9huEY1IlqbluR0/3000x2000.jpg",
+              "width": 3000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/V19jg6NtEPlI22Jd-g0T1fQ746Cul9huEY1IlqbluR0/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/V19jg6NtEPlI22Jd-g0T1fQ746Cul9huEY1IlqbluR0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/V19jg6NtEPlI22Jd-g0T1fQ746Cul9huEY1IlqbluR0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/V19jg6NtEPlI22Jd-g0T1fQ746Cul9huEY1IlqbluR0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/V19jg6NtEPlI22Jd-g0T1fQ746Cul9huEY1IlqbluR0/3000x2000.jpg",
+          "width": 3000
+        },
+        "imageCaption": "お祈りをしてから前向き、後ろ向きになって滝に打たれる",
+        "infoBlockLabel": "The Royal Pita Mahaの情報",
+        "infoBlockText": "住所：Desa Kedewatan 料金： Rp.25万（部屋代の追加料金、前日までの予約が必要）",
+        "sectionTitle": "憧れのフローティング・ブレックファストで贅沢なひととき「ザ・ロイヤル・ピタ・マハ」（The Royal Pita Maha）"
+      },
+      {
+        "description": "今、バリ島では南国リゾートならではのフローティング・ブレックファストが大人気。フローティング・ブレックファストとはホテルのルームサービスの一つで、トレイをプールに浮かべて提供される豪華な朝食のこと。プライベートプール付きの部屋であれば、基本的に提供があると考えてOKです。今回ご紹介する「ザ・ロイヤル・ピタ・マハ」は、ウブド王家の一族が経営する伝統と格式あるヴィラリゾート。アユン川の渓谷沿いにあり、大自然に囲まれた環境が魅力です。館内の至る所に重厚な砂岩彫刻が施されていて、雅な王宮風の調度品で彩られています。メニュー内容は、オムレツやナシ・ゴレン、フルーツの盛り合わせなど、豪華なラインナップ。最高に幸せな気分で、一日の始まりをスタートできますね。",
+        "image": {
+          "height": 2000,
+          "sourceUrl": "https://a.mktgcdn.com/p/bU41WJtWDCLvQoJfGEuBvyv9YE_AxdNBYrt8BmbFZLQ/3000x2000.jpg",
+          "thumbnails": [
+            {
+              "height": 2000,
+              "url": "https://a.mktgcdn.com/p-sandbox/zlMHedOOTFpssY6ga3JHA3jjSdXEdiEMaamC2mxyZtA/3000x2000.jpg",
+              "width": 3000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/zlMHedOOTFpssY6ga3JHA3jjSdXEdiEMaamC2mxyZtA/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/zlMHedOOTFpssY6ga3JHA3jjSdXEdiEMaamC2mxyZtA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/zlMHedOOTFpssY6ga3JHA3jjSdXEdiEMaamC2mxyZtA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/zlMHedOOTFpssY6ga3JHA3jjSdXEdiEMaamC2mxyZtA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zlMHedOOTFpssY6ga3JHA3jjSdXEdiEMaamC2mxyZtA/3000x2000.jpg",
+          "width": 3000
+        },
+        "imageCaption": "お供え物の「チャナン」。ヤシやバナナの葉から作られた器に、花やお菓子を盛り付ける",
+        "infoBlockLabel": "Bali Botanica Day Spaの情報",
+        "infoBlockText": "住所：Jl. Raya Sanggingan, Kedewatan営業時間：9～21時定休日：なし料金：エクスフォリオ―ション\u0026バス（45分間Rp.16万5000）",
+        "sectionTitle": "かわいすぎるフラワーバスで心身ともに癒やされる「バリ・ボタニカ・デイ・スパ」（Bali Botanica Day Spa）"
+      },
+      {
+        "description": "バリ島にはホテルや街なかにたくさんのスパやマッサージ施設があります。常に綺麗でいたいあなたにおすすめなのが、「フラワーバス」。バスタブにミルクやアロマオイルを入れて、花を浮かべる入浴方法です。花の香りはリラックス効果も抜群。フランジパニやバラの花びらをふんだんに使った、優雅な空間でリラックスしましょう。「バリ・ボタニカ・デイ・スパ」は、ウブド郊外の緑に囲まれた癒しの隠れ家スパ。敷地奥にある別棟へ移動して、施術を受けます。フラワーバスにはバリ島の伝統的なボディスクラブ「マンディルルール」を使用していて、美肌効果、全身の角質除去が期待できます。そして、ジンジャーティーのうれしいサービスも。バスタブの目の前の窓からは、南国の木々が見渡せてまさに絶好のロケーションで、お姫様になった気分が味わえます。インドの伝統的な全身医学、アーユルヴェーダのメニューもここで体験できますよ。",
+        "image": {
+          "height": 1752,
+          "sourceUrl": "https://a.mktgcdn.com/p/QhUEtb_dEwhnFaPfhgOj64PbvLgh4s8gTltLIucQkEU/2628x1752.jpg",
+          "thumbnails": [
+            {
+              "height": 1752,
+              "url": "https://a.mktgcdn.com/p-sandbox/G8ShJfM2YiTmY9YrCslVZRTNaqZmIE44nIxBgWlOmy8/2628x1752.jpg",
+              "width": 2628
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/G8ShJfM2YiTmY9YrCslVZRTNaqZmIE44nIxBgWlOmy8/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/G8ShJfM2YiTmY9YrCslVZRTNaqZmIE44nIxBgWlOmy8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/G8ShJfM2YiTmY9YrCslVZRTNaqZmIE44nIxBgWlOmy8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/G8ShJfM2YiTmY9YrCslVZRTNaqZmIE44nIxBgWlOmy8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/G8ShJfM2YiTmY9YrCslVZRTNaqZmIE44nIxBgWlOmy8/2628x1752.jpg",
+          "width": 2628
+        },
+        "imageCaption": "美しい渓谷と調和する、静かな環境で食事が楽しめる",
+        "infoBlockLabel": "Puri Saren Agungの情報",
+        "infoBlockText": "住所：Jl. Raya Ubud, Ubud営業時間：9～18時（伝統舞踊の公演は19時30分～）定休日：なし料金：Rp.10万",
+        "sectionTitle": "幻想的なバリ舞踊の世界に酔いしれる「サレン・アグン宮殿」（Puri Saren Agung）"
+      },
+      {
+        "description": "「バリ舞踊」は、本来神様に奉納する儀式や宮廷での宴の席で踊られた伝統舞踊。「レゴン」、「バロン」、「ケチャッ」が三大舞踊といわれています。現在は観光客向けにアレンジされたものも多く、ウブドではほぼ毎晩、何かしらの公演が行われていて、予約なしで気軽に鑑賞できます。「バリ舞踊」が鑑賞できる場所のひとつ、「サレン・アグン宮殿」は16世紀に建てられた、かつてのウブド王族の住まい。装飾が見事な石造りの門がそびえる敷地内を見学することができます。",
+        "image": {
+          "height": 2000,
+          "sourceUrl": "https://a.mktgcdn.com/p/ayv7LNKoKVjjkLUtdba-hZsYKcyQr_-3XzOLlshqPfU/3000x2000.jpg",
+          "thumbnails": [
+            {
+              "height": 2000,
+              "url": "https://a.mktgcdn.com/p-sandbox/hJ-S5gjMgZQkQrf5ItdR-lkFigkI3tyUBJ43aeuaA1s/3000x2000.jpg",
+              "width": 3000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/hJ-S5gjMgZQkQrf5ItdR-lkFigkI3tyUBJ43aeuaA1s/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/hJ-S5gjMgZQkQrf5ItdR-lkFigkI3tyUBJ43aeuaA1s/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/hJ-S5gjMgZQkQrf5ItdR-lkFigkI3tyUBJ43aeuaA1s/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/hJ-S5gjMgZQkQrf5ItdR-lkFigkI3tyUBJ43aeuaA1s/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hJ-S5gjMgZQkQrf5ItdR-lkFigkI3tyUBJ43aeuaA1s/3000x2000.jpg",
+          "width": 3000
+        },
+        "imageCaption": "瑞々しい緑に溶け込むプライベートプール付きヴィラ"
+      },
+      {
+        "description": "昼間は見学スポットとして多くの人でにぎわいますが、夜は伝統舞踊が行われる会場に。「サレン・アグン宮殿」では、ヒンドゥー教の叙情詩や中世の王朝詩をモチーフにした、伝統舞踊の「レゴン・ラッサム」や、バリ人の価値観の根底を表現した、善の象徴バロンと悪の象徴ランダの果てしない闘いを描いた「バロン・ダンス」は必見。美しくて神秘的な舞にうっとりする夜を楽しんでください。",
+        "image": {
+          "height": 2000,
+          "sourceUrl": "https://a.mktgcdn.com/p/9A8n3_IK04rqcsMRxE5EmmBMc2kmlXLeNhUJnVxH05w/3000x2000.jpg",
+          "thumbnails": [
+            {
+              "height": 2000,
+              "url": "https://a.mktgcdn.com/p-sandbox/7VFdPjoPTqmQmpPf1iU3Bjr9dKi4nu0aNO4TO-FyNhs/3000x2000.jpg",
+              "width": 3000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/7VFdPjoPTqmQmpPf1iU3Bjr9dKi4nu0aNO4TO-FyNhs/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/7VFdPjoPTqmQmpPf1iU3Bjr9dKi4nu0aNO4TO-FyNhs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/7VFdPjoPTqmQmpPf1iU3Bjr9dKi4nu0aNO4TO-FyNhs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/7VFdPjoPTqmQmpPf1iU3Bjr9dKi4nu0aNO4TO-FyNhs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7VFdPjoPTqmQmpPf1iU3Bjr9dKi4nu0aNO4TO-FyNhs/3000x2000.jpg",
+          "width": 3000
+        },
+        "imageCaption": "事前に希望を伝えれば、フラワーバスのデザインはアレンジ可能"
+      },
+      {
+        "image": {
+          "height": 2000,
+          "sourceUrl": "https://a.mktgcdn.com/p/JEjjkWFbl5VIRu5WQ_2mRzxemarDGjMY-26CoXfsNao/3000x2000.jpg",
+          "thumbnails": [
+            {
+              "height": 2000,
+              "url": "https://a.mktgcdn.com/p-sandbox/nRC1W8JQGX-REuTUe8Pxo4BUBgLBmnvsbnma6ze3GAw/3000x2000.jpg",
+              "width": 3000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/nRC1W8JQGX-REuTUe8Pxo4BUBgLBmnvsbnma6ze3GAw/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/nRC1W8JQGX-REuTUe8Pxo4BUBgLBmnvsbnma6ze3GAw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/nRC1W8JQGX-REuTUe8Pxo4BUBgLBmnvsbnma6ze3GAw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/nRC1W8JQGX-REuTUe8Pxo4BUBgLBmnvsbnma6ze3GAw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nRC1W8JQGX-REuTUe8Pxo4BUBgLBmnvsbnma6ze3GAw/3000x2000.jpg",
+          "width": 3000
+        },
+        "imageCaption": "別棟のロビーは自然光が差し込む落ち着きある空間"
+      },
+      {
+        "image": {
+          "height": 2592,
+          "sourceUrl": "https://a.mktgcdn.com/p/2Hz2FMjIBO60bniLRAfWLbz42lMhXOwQm7yUsXw-bQI/1728x2592.jpg",
+          "thumbnails": [
+            {
+              "height": 2592,
+              "url": "https://a.mktgcdn.com/p-sandbox/wlCAxfz8OJj67VyY1aaL---X5NGz9FtffQ6xw0sDQRw/1728x2592.jpg",
+              "width": 1728
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/wlCAxfz8OJj67VyY1aaL---X5NGz9FtffQ6xw0sDQRw/1267x1900.jpg",
+              "width": 1267
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/wlCAxfz8OJj67VyY1aaL---X5NGz9FtffQ6xw0sDQRw/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wlCAxfz8OJj67VyY1aaL---X5NGz9FtffQ6xw0sDQRw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/wlCAxfz8OJj67VyY1aaL---X5NGz9FtffQ6xw0sDQRw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wlCAxfz8OJj67VyY1aaL---X5NGz9FtffQ6xw0sDQRw/1728x2592.jpg",
+          "width": 1728
+        },
+        "imageCaption": "夜を彩るきらびやかな雰囲気"
+      },
+      {
+        "image": {
+          "height": 1657,
+          "sourceUrl": "https://a.mktgcdn.com/p/nkpSFAMhQVr0z2FS2eDpy32USe7bQvLxjeG4sqpmwlQ/2486x1657.jpg",
+          "thumbnails": [
+            {
+              "height": 1657,
+              "url": "https://a.mktgcdn.com/p-sandbox/eW-ewyp1_rOesgIY-MomPulvckvM6Q6oc5rXdyklDmc/2486x1657.jpg",
+              "width": 2486
+            },
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/eW-ewyp1_rOesgIY-MomPulvckvM6Q6oc5rXdyklDmc/1900x1266.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/eW-ewyp1_rOesgIY-MomPulvckvM6Q6oc5rXdyklDmc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/eW-ewyp1_rOesgIY-MomPulvckvM6Q6oc5rXdyklDmc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/eW-ewyp1_rOesgIY-MomPulvckvM6Q6oc5rXdyklDmc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/eW-ewyp1_rOesgIY-MomPulvckvM6Q6oc5rXdyklDmc/2486x1657.jpg",
+          "width": 2486
+        },
+        "imageCaption": "ガムランの音色に合わせて静から動、動から静へと進行する流れが特徴"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000066",
+      "news_ap_osarea_0000069",
+      "news_ap_osarea_0000067",
+      "news_ap_osarea_0000068"
+    ],
+    "c_news_FeaturedArticlesTitle": "「バリ島のその他の投稿記事」",
+    "c_news_PublicationDate": "2023-07-13",
+    "c_news_UpdateDate": "2024-08-16",
+    "c_news_ViewCount": "268",
+    "c_news_ViewCount1of2": "6",
+    "c_news_ViewCount2of2": "268",
+    "c_news_ViewCountNum": "268",
+    "c_news_ViewCountNumForSorting": "8",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/asia/indonesia/news_ap_osarea_0000070",
+    "name": "神々の島・バリ島のおすすめ体験・やること5選【バリ島 ウブド】",
+    "slug": "kaigai/asia/indonesia/news_ap_osarea_0000070"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

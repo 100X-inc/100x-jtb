@@ -1,0 +1,614 @@
+{
+  "$id": "news_ap_y_ishihara225_023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 石原　優子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "群馬県の人気温泉地MV",
+      "height": 826,
+      "sourceUrl": "https://a.mktgcdn.com/p/ybDMMpaKCWXxmj9PNUYRcx6yNTHSKJKlkX-Cxg0WedY/1271x826.png",
+      "thumbnails": [
+        {
+          "height": 826,
+          "url": "https://a.mktgcdn.com/p-sandbox/ybDMMpaKCWXxmj9PNUYRcx6yNTHSKJKlkX-Cxg0WedY/1271x826.png",
+          "width": 1271
+        },
+        {
+          "height": 402,
+          "url": "https://a.mktgcdn.com/p-sandbox/ybDMMpaKCWXxmj9PNUYRcx6yNTHSKJKlkX-Cxg0WedY/619x402.png",
+          "width": 619
+        },
+        {
+          "height": 390,
+          "url": "https://a.mktgcdn.com/p-sandbox/ybDMMpaKCWXxmj9PNUYRcx6yNTHSKJKlkX-Cxg0WedY/600x390.png",
+          "width": 600
+        },
+        {
+          "height": 127,
+          "url": "https://a.mktgcdn.com/p-sandbox/ybDMMpaKCWXxmj9PNUYRcx6yNTHSKJKlkX-Cxg0WedY/196x127.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ybDMMpaKCWXxmj9PNUYRcx6yNTHSKJKlkX-Cxg0WedY/1271x826.png",
+      "width": 1271
+    },
+    "c_ap_HeroImageCaption": "草津温泉（くさつおんせん）",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "群馬県のホテル・旅館・宿をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/gunma/"
+      },
+      {
+        "linkText": "群馬県の『温泉宿』をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/gunma/feature/k_onsen/"
+      },
+      {
+        "linkText": "群馬県のツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/gunma/"
+      },
+      {
+        "linkText": "温泉旅行におすすめの温泉宿・旅館・ホテル",
+        "uRL": "https://www.jtb.co.jp/onsen/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "キャベツやレタスなどの高原野菜をはじめ、多種多様な農産物・畜産物が生産され首都圏の台所ともいわれるのが群馬県。赤城山・榛名山・妙義山の上毛三山や谷川岳などの自然と世界遺産・富岡製糸場でも知られています。中でも温泉は、日本の名湯を代表する草津温泉をはじめ、伊香保温泉、水上温泉、四万温泉など千年以上の歴史を誇る古湯が多数あります。そんな群馬県から厳選した温泉地15選をご紹介します。",
+    "c_ap_Tags": [
+      "関東エリア",
+      "群馬県",
+      "温泉",
+      "温泉地まとめ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "温泉・立ち寄り湯"
+    ],
+    "c_ap_Title": "群馬県の人気温泉地 おすすめ15選",
+    "c_linkedArea3News": [
+      "gunma"
+    ],
+    "c_metaDescription": "群馬県の有名温泉地15選をご紹介！日帰りでも楽しめる温泉や、旅館でゆっくり過ごせる人気の温泉地、露天風呂からの景色が魅力の穴場温泉などもピックアップ！温泉街で散策を楽しむのもおすすめです。",
+    "c_metaTitle": "群馬県の人気温泉地 おすすめ15選",
+    "c_news_CTAs": [
+      {
+        "label": "群馬県のホテル・旅館をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/gunma/",
+        "linkType": "URL"
+      },
+      {
+        "label": "群馬県のツアー・パックをみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/gunma/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "草津温泉の魅力をもっとみる",
+          "link": "https://www.jtb.co.jp/onsen/kusatsu/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "草津温泉のおすすめ旅館ランキングをみる",
+          "link": "https://www.jtb.co.jp/ranking/kokunai/kusatsu_onsen/",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "「蔵やしき 野の花畑」をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/3224007/",
+          "linkType": "OTHER"
+        },
+        "description": "日本の温泉を代表する自然湧出量ナンバー1の名湯湯けむりを上げる草津名物の源泉・湯畑を中心に、昔ながらの木造3階建て旅館から高層のホテルまで、約180軒もの宿が立ち並んでいます。自然湧出量日本一を誇る高温の温泉で、町では「源泉かけ流しの天然温泉」を宣言しているほど。湯量豊富な温泉は宿だけではなく、共同浴場や日帰り温泉施設にも利用されており、温泉三昧を楽しめます。湯畑そばの「熱乃湯」で行われる、草津節に合わせた「湯もみと踊りショー」も観光客に人気です。草津ならではの温泉文化を体験できますよ。老舗宿が加盟する「和風村」の15軒の宿に宿泊して「湯めぐり手形」を購入すれば、有料で他の宿にも入浴できるのがうれしいポイント。日本でも有数の広さを誇る「西の河原露天風呂」も、帰り入浴施設として人気です。",
+        "image": {
+          "alternateText": "草津温泉（くさつおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Ys-BEIFS-2pRGnp1WfAU-jkDTsi5vYvhegcwI6kvJi0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ys-BEIFS-2pRGnp1WfAU-jkDTsi5vYvhegcwI6kvJi0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ys-BEIFS-2pRGnp1WfAU-jkDTsi5vYvhegcwI6kvJi0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ys-BEIFS-2pRGnp1WfAU-jkDTsi5vYvhegcwI6kvJi0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ys-BEIFS-2pRGnp1WfAU-jkDTsi5vYvhegcwI6kvJi0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ys-BEIFS-2pRGnp1WfAU-jkDTsi5vYvhegcwI6kvJi0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "草津温泉（くさつおんせん）",
+        "infoBlockLabel": "草津温泉の情報",
+        "infoBlockText": "所在地：群馬県吾妻郡草津町草津泉温：45～95℃源泉：100以上湯量：3万2300リットル／分飲用：不可泉質：含硫黄-アルミニウム-硫酸塩・塩化物泉、酸性泉、硫酸塩泉など温泉効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、慢性消化器病、高血圧症、糖尿病、打ち身、動脈硬化症、切り傷、やけど、慢性皮ふ病、痔疾、慢性婦人病、美肌など宿泊施設：約180アクセス：（公共交通機関）ＪＲ長野原草津口駅からJRバス関東草津温泉バスターミナル行きで25分、バス停：終点下車（車）関越道渋川伊香保ICから国道17号・353号・145号・292号経由60km",
+        "sectionLevel": "h2",
+        "sectionTitle": "草津温泉"
+      },
+      {
+        "cTA1": {
+          "label": "伊香保温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1020802/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "伊香保温泉のおすすめ旅館ランキングをみる",
+          "link": "https://www.jtb.co.jp/ranking/kokunai/ikaho_onsen/",
+          "linkType": "OTHER"
+        },
+        "description": "伊香保温泉は多くの文人墨客に親しまれてきた昔ながらの情緒ある湯の街です。『万葉集』や『古今和歌集』にも詠まれたという、古き時代から人気の高い日本有数の温泉地。戦国時代後期、負傷した武士の湯治のために大規模な湯治場が必要となり、硫酸塩泉の「黄金の湯」の源泉から10数軒の湯宿に導管で配分する小間口制度がつくられました。このシステムは今に受け継がれ存続しています。明治に入り、ドイツ人医師ベルツ博士によって温泉保養地として広く世間に推奨されてからは、皇族や文人、日本駐在の外国人の避暑地としても愛されてきました。365段の石段を中心とした風情ある温泉街には、40軒ほどの温泉宿が立ち並びます。草津とならび、関東屈指の賑わいを見せる温泉地です。",
+        "image": {
+          "alternateText": "伊香保温泉（いかほおんせん）",
+          "height": 1200,
+          "sourceUrl": "https://a.mktgcdn.com/p/Xc20U4hNOSXo5e4a4aq_oxELByDLh9y0Vmd1h_UVO3w/800x1200.jpg",
+          "thumbnails": [
+            {
+              "height": 1200,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xc20U4hNOSXo5e4a4aq_oxELByDLh9y0Vmd1h_UVO3w/800x1200.jpg",
+              "width": 800
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xc20U4hNOSXo5e4a4aq_oxELByDLh9y0Vmd1h_UVO3w/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xc20U4hNOSXo5e4a4aq_oxELByDLh9y0Vmd1h_UVO3w/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xc20U4hNOSXo5e4a4aq_oxELByDLh9y0Vmd1h_UVO3w/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Xc20U4hNOSXo5e4a4aq_oxELByDLh9y0Vmd1h_UVO3w/800x1200.jpg",
+          "width": 800
+        },
+        "imageCaption": "伊香保温泉（いかほおんせん）",
+        "infoBlockLabel": "伊香保温泉の情報",
+        "infoBlockText": "所在地：群馬県渋川市伊香保町伊香保泉温：約42℃(黄金の湯)源泉：9湯量：3500～5000リットル／分飲用：可(飲泉所のみ)泉質：硫酸塩泉(黄金の湯)、メタケイ酸を含む温泉法上の温泉(白銀の湯)など温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、動脈硬化症、五十肩、打ち身、慢性消化器病、切り傷、やけど、慢性皮ふ病、痔疾、婦人病など宿泊施設：44アクセス：（公共交通機関）ＪＲ渋川駅から関越交通バス伊香保温泉行きで24分、バス停：終点下車（車）関越道渋川伊香保ICから国道17号、県道33号経由11km",
+        "sectionTitle": "伊香保温泉"
+      },
+      {
+        "cTA1": {
+          "label": "四万温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1042103/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "四万温泉のおすすめ旅館ランキングをみる",
+          "link": "https://www.jtb.co.jp/ranking/kokunai/shima_onsen/",
+          "linkType": "OTHER"
+        },
+        "description": "清流四万川沿いに宿や共同浴場が点在する湯量豊富な温泉地上州の山あいに湯けむりを上げる四万温泉。四万の病に効くというのがその名の由来と言われています。飲むと胃腸病に、浸かって美肌によいといわれ、古くから湯治場として近隣から多くの湯客が絶えない温泉地。清流・四万川沿いには、約4kmにわたって細長く温泉街が伸びており、入口にあたる温泉口から順に、温泉口、山口、新湯、ゆずりは、日向見と5つの地区に分かれています。老舗旅館や近代的なホテルなど30数軒の宿泊施設、素朴なたたずまいの共同浴場や昔ながらの商店などが点在しており、落ち着いた雰囲気が漂う温泉地です。温泉街の各所には、飲泉所もありますよ。東京駅から関越交通の高速バス「四万温泉号」も運行されるようになったので、気軽に立ち寄れるのもうれしいポイントです。",
+        "image": {
+          "alternateText": "四万温泉（しまおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/qbDNJVv2MUczW9XRnwK_QNyVuJxdoh_3Qz3VdNEkvho/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/qbDNJVv2MUczW9XRnwK_QNyVuJxdoh_3Qz3VdNEkvho/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/qbDNJVv2MUczW9XRnwK_QNyVuJxdoh_3Qz3VdNEkvho/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/qbDNJVv2MUczW9XRnwK_QNyVuJxdoh_3Qz3VdNEkvho/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/qbDNJVv2MUczW9XRnwK_QNyVuJxdoh_3Qz3VdNEkvho/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qbDNJVv2MUczW9XRnwK_QNyVuJxdoh_3Qz3VdNEkvho/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "四万温泉（しまおんせん）",
+        "infoBlockLabel": "四万温泉の情報",
+        "infoBlockText": "所在地：群馬県吾妻郡中之条町四万泉温：26.4～80℃源泉：42湯量：3900リットル／分飲用：一部可泉質：ナトリウム・カルシウム-塩化物・硫酸塩泉など温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、打ち身、慢性消化器病、動脈硬化症、皮ふ病、切り傷、やけど、痔疾、慢性婦人病、美肌など宿泊施設：34アクセス：（公共交通機関）ＪＲ中之条駅から関越交通バス四万温泉行きで40分、バス停：終点などで下車関越道渋川伊香保ICから国道17号・353号経由38km",
+        "sectionTitle": "四万温泉"
+      },
+      {
+        "cTA1": {
+          "label": "万座温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1042502/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "万座温泉のおすすめ旅館ランキングをみる",
+          "link": "https://www.jtb.co.jp/ranking/kokunai/manza_onsen/",
+          "linkType": "OTHER"
+        },
+        "description": "万座温泉は標高約1800mの白根山南稜に湧出する高山温泉郷です。湯治場としての歴史を刻んできた温泉ですが、今ではどの宿もリゾートホテルや和風旅館などバラエティに富んでいます。春から夏には高山植物を楽しむ散策、冷涼な気候の夏の避暑、秋は紅葉、冬はスキーと、四季を通して自然をアクティブに楽しめる行楽温泉として多くの人が訪れる人気の温泉地。呼吸器系の病や高血圧に効果があるという、硫黄分をたっぷり含む白濁した温泉のファンも多いです。眺望抜群の露天風呂が自慢の旅館やホテルが多く、岩肌から水蒸気を含んだ火山性ガスを吹き出す万座空吹や周辺に漂う硫黄の臭いなど、温泉という自然の恵みを実感できますよ。",
+        "image": {
+          "alternateText": "万座温泉（まんざおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/4cfPqa1lKoMF9eV06SB7l3AXqDfbvpbZUPH1yPwIzuY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/4cfPqa1lKoMF9eV06SB7l3AXqDfbvpbZUPH1yPwIzuY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/4cfPqa1lKoMF9eV06SB7l3AXqDfbvpbZUPH1yPwIzuY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/4cfPqa1lKoMF9eV06SB7l3AXqDfbvpbZUPH1yPwIzuY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/4cfPqa1lKoMF9eV06SB7l3AXqDfbvpbZUPH1yPwIzuY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4cfPqa1lKoMF9eV06SB7l3AXqDfbvpbZUPH1yPwIzuY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "万座温泉（まんざおんせん）",
+        "infoBlockLabel": "万座温泉の情報",
+        "infoBlockText": "所在地：群馬県吾妻郡嬬恋村干俣2401泉温：40～80℃源泉：15湯量：3750リットル／分飲用：不可泉質：酸性・含硫黄-マグネシウム・ナトリウム-硫酸塩泉、単純硫黄泉など温泉効能：神経痛、関節痛、筋肉痛、疲労回復、五十肩、冷え性、打ち身、慢性消化器病、高血圧症、動脈硬化症、切り傷、慢性皮ふ病、糖尿病、慢性婦人病など宿泊施設：7アクセス：（公共交通機関）ＪＲ万座・鹿沢口駅から西武観光バス万座温泉行きで40分、バス停：万座温泉などで下車（車）上信越道碓氷軽井沢ICから国道18号・146号、浅間白根火山ルート経由64km",
+        "sectionTitle": "万座温泉"
+      },
+      {
+        "cTA1": {
+          "label": "水上温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1044902/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "「豆富懐石 猿ケ京ホテル」をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/3224001/",
+          "linkType": "OTHER"
+        },
+        "description": "利根川の渓谷美に恵まれた山峡の温泉地。利根川の上流、諏訪峡や水上峡といった素晴らしい渓谷美に包まれたエリアに湧く歴史のある温泉です。標高500mほどの冷涼な気候から、湯治・静養向きの温泉として賑わい、与謝野晶子や若山牧水、北原白秋などの文人らも多く訪れたと言われています。利根川に架かる笹笛橋を渡る、諏訪峡遊歩道などの散策コースも作られています。宿は露天風呂が自慢の大規模な旅館から、小ぢんまりとした旅館までが揃い、周辺にはロープウェイで登れる谷川岳天神平をはじめ、道の駅や資料館などの観光スポットも充実しています。渓谷の周辺は緑の自然に恵まれており、ラフティングやキャニオニングなどのアウトドアスポーツも体験できますよ。",
+        "image": {
+          "alternateText": "水上温泉（みなかみおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/FEvXvemmwc_-_VQMm6CDEPCu8u-UPxhvuJIBGmlRmd0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/FEvXvemmwc_-_VQMm6CDEPCu8u-UPxhvuJIBGmlRmd0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/FEvXvemmwc_-_VQMm6CDEPCu8u-UPxhvuJIBGmlRmd0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/FEvXvemmwc_-_VQMm6CDEPCu8u-UPxhvuJIBGmlRmd0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/FEvXvemmwc_-_VQMm6CDEPCu8u-UPxhvuJIBGmlRmd0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FEvXvemmwc_-_VQMm6CDEPCu8u-UPxhvuJIBGmlRmd0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "水上温泉（みなかみおんせん）",
+        "infoBlockLabel": "水上温泉の情報",
+        "infoBlockText": "所在地：群馬県利根郡みなかみ町湯原泉温：38～50℃源泉：9湯量：不明飲用：一部可泉質：単純温泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、打ち身、慢性消化器病、痔疾など宿泊施設：10アクセス：（公共交通機関）ＪＲ上毛高原駅から関越交通バス水上駅行きで13分、バス停：水上温泉下車。または、JR上越線水上駅下車関越道水上ICから国道291号経由3km",
+        "sectionTitle": "水上温泉"
+      },
+      {
+        "cTA1": {
+          "label": "老神温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1020606/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "「舌切雀のお宿ホテル磯部ガーデン」をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/3246002/",
+          "linkType": "OTHER"
+        },
+        "description": "老神温泉は、山間にある上州路の名湯。名物朝市や伝説の湯めぐり、本州最大規模の高層湿原で知られる尾瀬と沼田を結ぶ、国道120号から少し入った片品川沿いの温泉地です。歴史は古く、日光二荒山の神・ムカデと戦って負傷した赤城山の神・ヘビが、この地に湧出した温泉で傷を治し、再度戦って二荒山の神を追い返したので「追い神(老神)」の地名が付いたという伝説が残っています。毎年5月上旬には、その言い伝えにちなんだ名物の大蛇まつりが行われ、蛇神輿が登場して温泉街を練り歩くのが見どころ。4月中旬～11月中旬の間は、毎日朝市も開かれますよ。",
+        "image": {
+          "alternateText": "老神温泉（おいがみおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/8hLU6qNg6nxZbLx61EnbofeskpkpqI3eVBwcjnCthPc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/8hLU6qNg6nxZbLx61EnbofeskpkpqI3eVBwcjnCthPc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/8hLU6qNg6nxZbLx61EnbofeskpkpqI3eVBwcjnCthPc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/8hLU6qNg6nxZbLx61EnbofeskpkpqI3eVBwcjnCthPc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/8hLU6qNg6nxZbLx61EnbofeskpkpqI3eVBwcjnCthPc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8hLU6qNg6nxZbLx61EnbofeskpkpqI3eVBwcjnCthPc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "老神温泉（おいがみおんせん）",
+        "infoBlockLabel": "老神温泉の情報",
+        "infoBlockText": "所在地：群馬県沼田市利根町老神泉温：27～58℃源泉：8湯量：1300リットル／分飲用：不可泉質：アルカリ性単純温泉、単純硫黄泉など温泉効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、皮ふ病、打ち身、慢性消化器病、痛風、痔疾など宿泊施設：13アクセス：（公共交通機関）ＪＲ沼田駅から関越交通バス老神温泉経由鎌田・戸倉・大清水方面行きで50分、バス停：老神温泉下車（車）関越道沼田ICから国道120号経由13km",
+        "sectionTitle": "老神温泉"
+      },
+      {
+        "cTA1": {
+          "label": "「法師温泉長寿館」をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/3223001/",
+          "linkType": "OTHER"
+        },
+        "description": "群馬県の秘境、法師温泉は、一軒宿の「長寿館」が存在するだけの静かな温泉地です。硫酸塩泉の湯は胃腸病や動脈硬化に効能があると言われています。その歴史は1200年前にまで遡り、弘法大師の巡錫の折に発見されたとされています。温泉施設は、混浴の大浴場「法師乃湯」が中心。底から自然湧出する温泉が4つの浴槽に注がれ、それぞれ微妙に異なる温度を楽しむことができます。女性専用の「長寿の湯」や総檜造りの「玉城乃湯」など、ほかにもいくつかの温泉がありますよ。施設自体が国の登録有形文化財に登録されており、その歴史を感じられる佇まいも魅力です。",
+        "image": {
+          "alternateText": "猿ヶ京温泉（さるがきょうおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/qvGdvJDzUZeLOAmoeVgEFx0EOqExQAn3w20f9614MeY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/qvGdvJDzUZeLOAmoeVgEFx0EOqExQAn3w20f9614MeY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/qvGdvJDzUZeLOAmoeVgEFx0EOqExQAn3w20f9614MeY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/qvGdvJDzUZeLOAmoeVgEFx0EOqExQAn3w20f9614MeY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/qvGdvJDzUZeLOAmoeVgEFx0EOqExQAn3w20f9614MeY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qvGdvJDzUZeLOAmoeVgEFx0EOqExQAn3w20f9614MeY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "猿ヶ京温泉（さるがきょうおんせん）",
+        "infoBlockLabel": "法師温泉の情報",
+        "infoBlockText": "所在地：群馬県利根郡みなかみ町永井650泉温：27～42.7℃源泉：3湯量：380リットル／分飲用：不可泉質：カルシウム・ナトリウム-硫酸塩泉、単純温泉温泉効能：うつ状態, きりきず, 自律神経不安定症, 皮膚乾燥症, 不眠症, 末梢循環障害, 冷え性, 抹消循環障害など宿泊施設：1アクセス：（公共交通機関）ＪＲ沼田駅から関越交通バス老神温泉経由鎌田・戸倉・大清水方面行きで50分、バス停：老神温泉下車（車）関越道沼田ICから国道120号経由13km",
+        "sectionTitle": "法師温泉"
+      },
+      {
+        "cTA1": {
+          "label": "猿ヶ京温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1044915/",
+          "linkType": "URL"
+        },
+        "description": "赤谷湖畔にある上越国境近くの温泉。かつて江戸と越後を結んでいた三国街道の関所跡付近、三国山の南東麓赤谷湖畔にあります。戦国時代から知られる温泉ですが、1958年に相俣ダム建設のため、赤谷川沿いにあった温泉が移転し、現在の地に温泉街が形成されました。与謝野晶子がこの地を愛し、度々訪れたことから「三国路与謝野晶子紀行文学館」もあります。ほぼ毎晩昔話の語りが聞ける「豆富懐石 猿ケ京ホテル」や、敷地内に古民家や蔵を移築し、宿泊客が楽しめるようにしている「蔵やしき 野の花畑」など、20軒以上の宿泊施設があります。また、赤谷湖を望む露天風呂が評判の「まんてん星の湯」や「猿ケ京温泉センター」などの日帰り入浴施設も人気です。",
+        "image": {
+          "alternateText": "谷川温泉（たにがわおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/cnyEUuFfTTsGYZ3XEgvljWcK1ArbwsjVBNkL9lOIw0M/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/cnyEUuFfTTsGYZ3XEgvljWcK1ArbwsjVBNkL9lOIw0M/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/cnyEUuFfTTsGYZ3XEgvljWcK1ArbwsjVBNkL9lOIw0M/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/cnyEUuFfTTsGYZ3XEgvljWcK1ArbwsjVBNkL9lOIw0M/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/cnyEUuFfTTsGYZ3XEgvljWcK1ArbwsjVBNkL9lOIw0M/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cnyEUuFfTTsGYZ3XEgvljWcK1ArbwsjVBNkL9lOIw0M/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "谷川温泉（たにがわおんせん）",
+        "infoBlockLabel": "猿ヶ京温泉の情報",
+        "infoBlockText": "所在地：群馬県利根郡みなかみ町猿ケ京温泉泉温：53.7～55.5℃など源泉：7湯量：不明飲用：一部可泉質：ナトリウム・カルシウム-硫酸塩・塩化物泉など温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、動脈硬化症、打ち身、慢性消化器病、切り傷、やけど、慢性皮ふ病、糖尿病、痛風、痔疾、慢性婦人病など宿泊施設：26アクセス：（公共交通機関）ＪＲ上毛高原駅から関越交通バス猿ケ京行きで30分、バス停：終点下車（車）関越道月夜野ICから国道17号経由16km",
+        "sectionTitle": "猿ヶ京温泉"
+      },
+      {
+        "cTA1": {
+          "label": "磯部温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1021102/",
+          "linkType": "OTHER"
+        },
+        "description": "群馬県安中市にある磯部温泉は、温泉記号（♨）の発祥の地として知られる歴史ある温泉地です。駅前には温泉街が広がり、碓氷川に架かる愛妻橋・鉱泉橋からは妙義山を眺められます。市営の日帰り入浴施設「恵みの湯」では、温泉の他に砂塩風呂も楽しめますよ。舌切り雀の伝説が伝わる地としても知られおり、「舌切雀のお宿ホテル磯部ガーデン」は舌切り雀の伝説がテーマとなった宿泊施設です。温泉水を使用して作られる地元名物の「磯部せんべい」や「ふわとろ豆腐」もぜひ食べてみてくださいね。",
+        "image": {
+          "alternateText": "沢渡温泉（さわたりおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/pDosP8q2tx05zJthxvrOAeNJ02-S6Kh1F1WG263ZgfI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/pDosP8q2tx05zJthxvrOAeNJ02-S6Kh1F1WG263ZgfI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/pDosP8q2tx05zJthxvrOAeNJ02-S6Kh1F1WG263ZgfI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/pDosP8q2tx05zJthxvrOAeNJ02-S6Kh1F1WG263ZgfI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/pDosP8q2tx05zJthxvrOAeNJ02-S6Kh1F1WG263ZgfI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/pDosP8q2tx05zJthxvrOAeNJ02-S6Kh1F1WG263ZgfI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "沢渡温泉（さわたりおんせん）",
+        "infoBlockLabel": "磯部温泉の情報",
+        "infoBlockText": "所在地：群馬県安中市磯部泉温：約50℃源泉：1泉質：ナトリウム-塩化物・炭酸水素塩強塩温泉効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、打ち身、慢性消化器病、切り傷、やけど、慢性皮ふ病、慢性婦人病、痔疾など宿泊施設数：8日帰り温泉施設数：1湯量：260リットル／分飲用：不可アクセス：（公共交通）JR安中榛名駅から車で約15分。または信越本線磯部駅から徒歩5分（車）上信越道松井田妙義ICから国道18号経由8km",
+        "sectionTitle": "磯部温泉"
+      },
+      {
+        "cTA1": {
+          "label": "谷川温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1044903/",
+          "linkType": "URL"
+        },
+        "description": "水上温泉から約3kmほど離れた、渓畔にある温泉です。谷川岳の登山やスキーの基地として利用されてきたほか、閑静な環境から静養地として親しまれ、太宰治などの文人や芸術家も良く訪れていたと言われています。渓流沿いに点在する温泉宿は「金盛館せゝらぎ」や「檜の宿 水上山荘」など数軒で、どれも風情あるグレードの高い和風旅館です。どの宿も豊富な湯量を利用した露天風呂が名物になっています。露天風呂の中から渓流のせせらぎやカジカガエルの鳴き声が聞け、温泉浴と森林浴が同時に楽しめるところもある。日帰り入浴施設の「湯テルメ・谷川」の露天風呂も広葉樹林に囲まれ、爽快な気分が味わえる。",
+        "image": {
+          "alternateText": "片品温泉（かたしなおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/dQnGMFbbzFgnnFUetrUYxZG_TBM5QYs77Iw5OSQ63U0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/dQnGMFbbzFgnnFUetrUYxZG_TBM5QYs77Iw5OSQ63U0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/dQnGMFbbzFgnnFUetrUYxZG_TBM5QYs77Iw5OSQ63U0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/dQnGMFbbzFgnnFUetrUYxZG_TBM5QYs77Iw5OSQ63U0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/dQnGMFbbzFgnnFUetrUYxZG_TBM5QYs77Iw5OSQ63U0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dQnGMFbbzFgnnFUetrUYxZG_TBM5QYs77Iw5OSQ63U0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "片品温泉（かたしなおんせん）",
+        "infoBlockLabel": "谷川温泉の情報",
+        "infoBlockText": "所在地：群馬県利根郡みなかみ町谷川泉温：43～60℃源泉：18湯量：不明飲用：一部可泉質：弱アルカリ性単純温泉など温泉効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、打ち身、胃腸病、痔疾など宿泊施設：5アクセス：（公共交通機関）ＪＲ水上駅から車で5分（車）関越道水上ICから国道291号、県道252号経由6km",
+        "sectionTitle": "谷川温泉"
+      },
+      {
+        "cTA1": {
+          "label": "川場温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1044403/",
+          "linkType": "OTHER"
+        },
+        "description": "川場温泉は弘法大師ゆかりの温泉で、奥利根湯けむり街道に点在する旅館や民宿で楽しめる温泉街です。源泉温度39度前後のアルカリ性単純温泉で、ぬるめの湯は美肌の湯としても知られ、肌触りが優しく、脚気にも効果があると言われています。旅館の露天風呂からは雄大な武尊山を望むことができ、アウトドアを楽しみながら温泉に浸かれるのが魅力です。 川場スキー場やゴルフ場なども周辺にあるリゾートエリアで思いっきり遊んだ後の疲れを癒してくれますよ。",
+        "infoBlockLabel": "川場温泉の情報",
+        "infoBlockText": "所在地：群馬県利根郡川場村川場湯原泉温：39℃など源泉：不明泉質：アルカリ性単純温泉効能：脚気、神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、打ち身、慢性消化器病、慢性皮ふ病、痔疾など宿泊施設数：4日帰り温泉施設数：1湯量：不明飲用：不可アクセス：（公共交通機関）JR沼田駅から川場循環バスで35分、バス停：川場温泉下車（車）関越道沼田ICから国道120号、県道64号経由9km",
+        "sectionTitle": "川場温泉"
+      },
+      {
+        "cTA1": {
+          "label": "上牧温泉「辰巳館」をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/3212002/",
+          "linkType": "OTHER"
+        },
+        "description": "上牧温泉は、群馬県利根郡みなかみ町にある温泉地で塩化物泉の泉質は皮膚病や神経痛に効果があると言われています。利根川近くの温泉宿「辰巳館」では、温泉を楽しみながら食事や自然豊かな風景も堪能できますよ。周辺には「赤城山」や「赤城自然園」などの自然豊かな観光地が点在しているので、ぜひ一緒に訪れてみてくださいね。",
+        "infoBlockLabel": "上牧温泉",
+        "infoBlockText": "所在地：群馬県利根郡みなかみ町上牧泉温：約40℃源泉：4泉質：ナトリウム・カルシウム-硫酸塩・塩化物泉効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、打ち身、慢性消化器病、慢性皮ふ病、動脈硬化症、切り傷、やけど、痔疾、美肌など宿泊施設数：5日帰り温泉施設数：1湯量：829リットル／分飲用：不可アクセス：（公共交通機関）JR上毛高原駅から車で5分。またはJR上越線上牧駅下車（車）関越道水上ICから国道291号経由1km",
+        "sectionTitle": "上牧温泉"
+      },
+      {
+        "cTA1": {
+          "label": "浅間隠温泉郷の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1042902/",
+          "linkType": "OTHER"
+        },
+        "description": "浅間隠温泉郷は、日本三名山の一つ、榛名山の西側に位置する浅間隠山の北麓に広がる温泉地です。「薬師温泉」と「鳩ノ湯温泉」の2つの温泉地からなり、それぞれ一軒ずつ温泉宿があります。鳩ノ湯温泉は白濁した湯の色が特徴で、傷ついた鳩が湯に浸かって治癒したという伝説があります。浅間山を隠すように見えることから「浅間隠山」と名付けられました。多様な鉱山植物を観察でき、ハイカーに人気の温泉地。特に5月下旬にはシャクナゲの群生地「シャクナゲ尾根」が見頃です。",
+        "infoBlockLabel": "浅間隠温泉郷の情報",
+        "infoBlockText": "所在地：群馬県吾妻郡東吾妻町本宿泉温：各温泉地42℃前後源泉：各温泉地1泉質：ナトリウム・カルシウム-塩化物・硫酸塩泉、カルシウム・ナトリウム-炭酸水素塩・硫酸塩泉効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、胃腸病、打ち身、切り傷、痔疾、婦人病など宿泊施設数：2日帰り温泉施設数：なし湯量：各温泉地約45リットル／分飲用：不可アクセス：（公共交通機関）JR群馬原町駅から関越交通バス大戸行きで30分、バス停：終点下車後、同バス浅間隠温泉郷行きに乗り換え20分、バス停：終点下車（車）関越道高崎ICから国道406号経由40km",
+        "sectionTitle": "浅間隠温泉郷"
+      },
+      {
+        "cTA1": {
+          "label": "沢渡温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1042102/",
+          "linkType": "URL"
+        },
+        "description": "四万温泉へと向かう国道353号から西へ進み、日本ロマンチック街道に沿って4kmほど進んだ地に湧出する温泉です。約800年以上前から湯治場として知られ、透明でまろやかな湯は肌にやさしく、美肌作用が高いと評判。昔から草津の湯治客が、帰りがけに肌を整える仕上げの湯として利用されてきました。小ぢんまりした保養・湯治向きの家庭的な宿が多いのが特徴で、10軒ほどの宿泊施設が点在しています。料金もリーズナブルなので、長期滞在の湯治客も多いです。共同浴場(温泉宿泊者は無料)もあるの気軽に温泉に浸かれますよ。",
+        "infoBlockLabel": "沢渡温泉の情報",
+        "infoBlockText": "所在地：群馬県吾妻郡中之条町上沢渡泉温：55℃源泉：1湯量：150リットル／分飲用：可泉質：カルシウム・ナトリウム-硫酸塩・塩化物泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、打ち身、慢性消化器病、高血圧症、動脈硬化症、切り傷、やけど、皮ふ病、糖尿病、痔疾、婦人病、美肌など宿泊施設：10アクセス：（公共交通機関）ＪＲ中之条駅から関越交通バス沢渡温泉行きで20分、バス停：終点下車（車）関越道渋川伊香保ICから国道17号・353号、県道55号経由30km",
+        "sectionTitle": "沢渡温泉"
+      },
+      {
+        "cTA1": {
+          "label": "片品温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1044303/",
+          "linkType": "URL"
+        },
+        "description": "尾瀬方面へと向かう国道401号沿い、片品川の河畔から湧出する温泉です。新井の湯として古くから地元の人に愛されてきた温泉を、昭和11年(1936)、「湯元千代田館」が利用して温泉宿になったのがきっかけとなり発展してきました。現在、宿泊施設数は90軒ほどあり、そのうち約30軒が温泉を引いています。肌にやさしいアルカリ性の単純温泉が湧出し、環境省より国民保養温泉地にも指定される注目の温泉地。宿の多くがテニスコートや室内体育館などをもっているので、学生の合宿にもおすすめです。尾瀬探勝や周辺にはスキー場も多いことから、冬のスキーのベースにもぴったり。平成25年(2013)には国道120号に椎坂トンネルが開通し、アクセスがよくなりました。",
+        "infoBlockLabel": "片品温泉の情報",
+        "infoBlockText": "所在地：群馬県利根郡片品村土出・越本泉温：26～53℃源泉：不明湯量：不明飲用：一部可泉質：アルカリ性単純温泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、打ち身、慢性消化器病など宿泊施設：39アクセス：（公共交通機関）ＪＲ沼田駅から関越交通バス戸倉・大清水行きで1時間20分、バス停：片品スキー場、塩尻などで下車関越道沼田ICから国道120号・401号経由30km",
+        "sectionTitle": "片品温泉"
+      },
+      {
+        "description": "\u003cp\u003e群馬県の温泉宿を探す\u003c/p\u003e\u003ca href\u003d\"https://www.jtb.co.jp/onsen/kusatsu/\" style\u003d\"text-decoration: underline;\"\u003e草津温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1020802/\" style\u003d\"text-decoration: underline;\"\u003e伊香保温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/gunma/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e群馬の温泉宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1042103/\" style\u003d\"text-decoration: underline;\"\u003e四万温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1042502/\" style\u003d\"text-decoration: underline;\"\u003e万座温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1044902/\" style\u003d\"text-decoration: underline;\"\u003e水上温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1020606/\" style\u003d\"text-decoration: underline;\"\u003e老神温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1020106/\" style\u003d\"text-decoration: underline;\"\u003e赤城温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/100201/\" style\u003d\"text-decoration: underline;\"\u003e渋川温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/10206/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e沼田の温泉宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/100302/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e吾妻の温泉宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/2032111/\" style\u003d\"text-decoration: underline;\"\u003eゆうすげ温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1044403/\" style\u003d\"text-decoration: underline;\"\u003e川場温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/100504/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e藤岡の温泉宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1044303/\" style\u003d\"text-decoration: underline;\"\u003e片品温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1042906/\" style\u003d\"text-decoration: underline;\"\u003e川中温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/100501/\" style\u003d\"text-decoration: underline;\"\u003e安中温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/10425/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e嬬恋の温泉宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1044911/\" style\u003d\"text-decoration: underline;\"\u003e湯の小屋温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1044915/\" style\u003d\"text-decoration: underline;\"\u003e猿ケ京温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/10421/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e中之条の温泉宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1044905/\" style\u003d\"text-decoration: underline;\"\u003e湯檜曽温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/100701/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e赤城山の温泉宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/100604/\" style\u003d\"text-decoration: underline;\"\u003e月夜野温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/100801/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e桐生の温泉宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1044903/\" style\u003d\"text-decoration: underline;\"\u003e館林温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/100601/feature/vroten_m/\" style\u003d\"text-decoration: underline;\"\u003e谷川温泉の宿\u003c/a\u003e　\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/10210/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e富岡の温泉宿\u003c/a\u003e----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_y_ishihara225_021"
+    ],
+    "c_news_FeaturedArticlesTitle": "関東エリアの温泉記事",
+    "c_news_PublicationDate": "2023-01-15",
+    "c_news_UpdateDate": "2024-08-29",
+    "c_news_ViewCount": "2806",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "2806",
+    "c_news_ViewCountNum": "2806",
+    "c_news_ViewCountNumForSorting": "187",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kanto/gunma/news_ap_y_ishihara225_023",
+    "name": "群馬県の人気温泉地 おすすめ15選",
+    "slug": "kokunai/kanto/gunma/news_ap_y_ishihara225_023",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "温泉地"
+  ]
+}

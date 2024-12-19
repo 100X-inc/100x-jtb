@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_ci_cheng_xian_tsukubashi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247753"
+    ],
+    "dm_directoryChildren": [
+      "4490-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_ci_cheng_xian"
+    ],
+    "name": "つくば市",
+    "slug": "茨城県/つくば市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

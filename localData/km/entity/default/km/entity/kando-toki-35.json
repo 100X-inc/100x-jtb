@@ -1,0 +1,39 @@
+{
+  "$id": "kando-toki-35",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/35_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d42.751167%2C140.901768",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "イゾラMt.、イーストMt.、ウエストMt.からなるルスツ3山を抱えた「ルスツリゾート」は冬には北海道屈指の積雪量と、北海道最多のリフト・ゴンドラ数を誇るウインタースポーツリゾートとして大勢の観光客でにぎわいます。このルスツリゾートの一角にある「ウエストMt.」は標高715m。山頂からは全方位360度の視界が広がり、支笏洞爺国立公園の大自然を眼下に望むことができます。日没前には、夕日とともに名峰・羊蹄山が澄んだ夕焼け色に染まり、夜空に移りゆく空とのコントラストが奇跡のような絶景を生み出します。山頂までは麓からゴンドラに乗って約5分。\n見所・お勧めポイント\n山頂は風水的にも評価が高いパワースポット。山頂ではぜひルスツ名物「幸せの鐘」を鳴らしてください。羊蹄山に向かってルスツの合言葉 「be happy!!」 を叫べば幸せになること間違いなし。 撮影スポットにもオススメです。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/35.asp",
+    "name": "ルスツ山頂からの夕焼け"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

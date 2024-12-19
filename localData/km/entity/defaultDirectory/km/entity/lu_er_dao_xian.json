@@ -1,0 +1,22 @@
+{
+  "$id": "defaultDirectory_lu_er_dao_xian",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1045019390"
+    ],
+    "dm_directoryChildren": [
+      "defaultDirectory_lu_er_dao_xian_lu_er_dao_shi"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory"
+    ],
+    "name": "鹿児島県",
+    "slug": "鹿児島県"
+  },
+  "entityType": "ce_region",
+  "labels": []
+}

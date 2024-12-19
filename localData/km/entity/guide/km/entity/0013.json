@@ -1,0 +1,826 @@
+{
+  "$id": "guide_0013",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "alternateText": "シンガポールの夜景",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/ZKUc05Ocntyqc1cFOAbqQi0__L4OFSonY2ck_uY61tg/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZKUc05Ocntyqc1cFOAbqQi0__L4OFSonY2ck_uY61tg/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZKUc05Ocntyqc1cFOAbqQi0__L4OFSonY2ck_uY61tg/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZKUc05Ocntyqc1cFOAbqQi0__L4OFSonY2ck_uY61tg/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZKUc05Ocntyqc1cFOAbqQi0__L4OFSonY2ck_uY61tg/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ZKUc05Ocntyqc1cFOAbqQi0__L4OFSonY2ck_uY61tg/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "シンガポール旅行を探す",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/singapore/"
+      },
+      {
+        "linkText": "シンガポール行きの航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/asia/singapore/"
+      },
+      {
+        "linkText": "シンガポールの現地オプショナルツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bSG/cSIN/"
+      },
+      {
+        "linkText": "シンガポールの添乗員同行ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?brand\u003d00LK,02RR,01CZ,04TM\u0026houmen\u003d09\u0026kuni\u003dSG\u0026vacantseat\u003d1"
+      },
+      {
+        "linkText": "シンガポールのホテルを探す",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/161/?freeword\u003d%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d161"
+      }
+    ],
+    "c_ap_PagesGeneration": true,
+    "c_ap_Title": "シンガポール観光の完全版！おすすめスポットやグルメをご紹介",
+    "c_linkedArea3News": [
+      "singapore"
+    ],
+    "c_metaDescription": "シンガポールでおすすめの観光スポット中心に、旅行に役立つ情報をご紹介します。シンガポールのアイコン「マーラインオン」や人気のテーマパークはもちろん、シンガポールで食べたいグルメやベストシーズンも解説します。ぜひ旅行の参考にしてみてくださいね。ディスクリプション",
+    "c_metaTitle": "シンガポール観光の完全版！おすすめスポットやグルメをご紹介",
+    "c_news_CTAs": [
+      {
+        "label": "シンガポール旅行を探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/singapore/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "シンガポール行きの航空券を探す",
+        "link": "https://www.jtb.co.jp/ovs_air_static/asia/singapore/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "シンガポールの人気ホテルランキングをみる",
+        "link": "https://www.jtb.co.jp/ovs_htl_static/promotion/ranking/country/SIN/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "マーライオンについてもっと知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/SG/2015/06/look-for-merlion.html",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "マーライオンパークの観光情報をみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/asia/republic_of_singapore/SIN/117761/index.html",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "ガーデンズ・バイ・ザ・ベイの観光情報をみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/asia/republic_of_singapore/SIN/123322/index.html",
+          "linkType": "OTHER"
+        },
+        "description": "シンガポールで行きたい、定番の観光スポットをご紹介します。テーマパークや植物園、動物園など子どもから大人まで楽しめるスポットが豊富ですよ。",
+        "image": {
+          "alternateText": "マーライオン・パーク",
+          "height": 795,
+          "sourceUrl": "https://a.mktgcdn.com/p/ojV6K_knzVpJO6LCyzznvwj3znfuzVPQ-00UYWw8sW4/1200x795.jpg",
+          "thumbnails": [
+            {
+              "height": 795,
+              "url": "https://a.mktgcdn.com/p-sandbox/ojV6K_knzVpJO6LCyzznvwj3znfuzVPQ-00UYWw8sW4/1200x795.jpg",
+              "width": 1200
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/ojV6K_knzVpJO6LCyzznvwj3znfuzVPQ-00UYWw8sW4/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/ojV6K_knzVpJO6LCyzznvwj3znfuzVPQ-00UYWw8sW4/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/ojV6K_knzVpJO6LCyzznvwj3znfuzVPQ-00UYWw8sW4/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ojV6K_knzVpJO6LCyzznvwj3znfuzVPQ-00UYWw8sW4/1200x795.jpg",
+          "width": 1200
+        },
+        "imageCaption": "※画像はイメージです",
+        "sectionLevel": "h2",
+        "sectionTitle": "シンガポールのおすすめ観光スポット15選"
+      },
+      {
+        "cTA1": {
+          "label": "マリーナベイ・サンズに泊まる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/3703/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "マリーナベイ・サンズの魅力をもっと知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/SG/2016/09/marina-bay-sands-facility.html",
+          "linkType": "OTHER"
+        },
+        "description": "シンガポールの象徴として知られるマーライオン象が佇むマーライオン・パークは、シンガポールに初めて行くなら必ず訪れたいスポットです。獅子の頭と魚の胴体を持つユニークな像は、高さ8.6m、重さ70トンのコンクリートでできています。実はマーライオン・パーク内にはマーライオン象が2つあり、メインの像の後方にちょこんと座っているんです。周囲にはシンガポールの近代的なスカイラインが広がり、夜はライトアップされた姿が幻想的な雰囲気を醸し出しています。写真撮影スポットとしても人気が高く、シンガポール観光の定番コースとして外せない場所ですよ。",
+        "image": {
+          "alternateText": "マリーナベイ・サンズ",
+          "height": 819,
+          "sourceUrl": "https://a.mktgcdn.com/p/Z_JWnNJbA56oYgwPAvUY6AN-JpAlbByicxi-1JQTBEo/1200x819.jpg",
+          "thumbnails": [
+            {
+              "height": 819,
+              "url": "https://a.mktgcdn.com/p-sandbox/Z_JWnNJbA56oYgwPAvUY6AN-JpAlbByicxi-1JQTBEo/1200x819.jpg",
+              "width": 1200
+            },
+            {
+              "height": 422,
+              "url": "https://a.mktgcdn.com/p-sandbox/Z_JWnNJbA56oYgwPAvUY6AN-JpAlbByicxi-1JQTBEo/619x422.jpg",
+              "width": 619
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/Z_JWnNJbA56oYgwPAvUY6AN-JpAlbByicxi-1JQTBEo/600x410.jpg",
+              "width": 600
+            },
+            {
+              "height": 134,
+              "url": "https://a.mktgcdn.com/p-sandbox/Z_JWnNJbA56oYgwPAvUY6AN-JpAlbByicxi-1JQTBEo/196x134.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Z_JWnNJbA56oYgwPAvUY6AN-JpAlbByicxi-1JQTBEo/1200x819.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "マーライオン・パーク"
+      },
+      {
+        "cTA1": {
+          "label": "ガーデンズ・バイ・ザ・ベイの楽しみ方を知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/SG/2014/06/gardens-by-the-bay.html",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "クラウドフォレストの魅力を知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/SG/2022/12/237_819723_1669952009.html",
+          "linkType": "OTHER"
+        },
+        "description": "シンガポールのビル群を代表する建築物「マリーナベイ・サンズ」。3つの塔を船の形のスカイパークが繋ぐ姿は、まさに現代建築の傑作です。57階にある展望デッキからは、シンガポール市街地とマリーナ湾の絶景を楽しめます。世界最大級のインフィニティプールもあり、まるで空中で泳いでいるかのような感覚を味わえます。施設内には高級ホテルはもちろん、カジノやショッピングモール、レストラン、美術館など様々な施設が備わっていますよ。毎晩行われる光と水の噴水ショー「スペクトラ」も必見です。",
+        "image": {
+          "alternateText": "ガーデンズ・バイ・ザ・ベイ",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/sO79xiVitiqnRjbbFfS2PJ3X7IJf3ObmyaMg8KXdNd0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/sO79xiVitiqnRjbbFfS2PJ3X7IJf3ObmyaMg8KXdNd0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/sO79xiVitiqnRjbbFfS2PJ3X7IJf3ObmyaMg8KXdNd0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/sO79xiVitiqnRjbbFfS2PJ3X7IJf3ObmyaMg8KXdNd0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/sO79xiVitiqnRjbbFfS2PJ3X7IJf3ObmyaMg8KXdNd0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sO79xiVitiqnRjbbFfS2PJ3X7IJf3ObmyaMg8KXdNd0/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "マリーナベイ・サンズ"
+      },
+      {
+        "cTA1": {
+          "label": "ラッフルズ・ホテルに泊まる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/971/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "ラッフルズ・ホテルのギフトをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/singapore/news_ap_osarea_0000115",
+          "linkType": "OTHER"
+        },
+        "description": "ガーデンズ・バイ・ザ・ベイは、シンガポールで有名な、近代的な植物園です。シンガポールの「シティ・イン・ザ・ガーデン構想」を体現するための壮大なプロジェクトのひとつ。広大な敷地内に、世界中から集められた植物か育つ楽園のような空間が広がっています。巨大な人口樹「スーパーツリー・グローブ」は圧巻！夜になるとカラフルにライトアップされます。「フラワードーム」「クラウドフォレスト」と呼ばれる温室では、世界各地の植物や滝を楽しめますよ。持続可能な未来への希望を感じさせてくれる、シンガポールが誇る観光スポットです",
+        "image": {
+          "alternateText": "ラッフルズ・ホテル",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/YS-RRCNoZ6dKLSD9Eu5V73j1oFao00YxmYQ4_f_PyqY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/YS-RRCNoZ6dKLSD9Eu5V73j1oFao00YxmYQ4_f_PyqY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/YS-RRCNoZ6dKLSD9Eu5V73j1oFao00YxmYQ4_f_PyqY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/YS-RRCNoZ6dKLSD9Eu5V73j1oFao00YxmYQ4_f_PyqY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/YS-RRCNoZ6dKLSD9Eu5V73j1oFao00YxmYQ4_f_PyqY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YS-RRCNoZ6dKLSD9Eu5V73j1oFao00YxmYQ4_f_PyqY/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ガーデンズ・バイ・ザ・ベイ"
+      },
+      {
+        "cTA1": {
+          "label": "シンガポール植物園の魅力をもっと知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/SG/2023/11/237_395231_1700958724.html",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "シンガポール植物園の観光情報をみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/asia/republic_of_singapore/SIN/117760/index.html",
+          "linkType": "OTHER"
+        },
+        "description": "1887年に開業したラッフルズ・ホテルは、シンガポールの植民地時代の面影を残す、西洋的な建築物です。白亜のファサードと緑豊かな中庭が特徴で、多くの著名人が滞在してきた由緒あるホテル。国の記念建造物としても指定されており、シンガポールの歴史と文化の象徴として大切に保存されています。宿泊だけでなく、アフターヌーンティーやバーでの一杯を楽しむだけでも優雅な雰囲気を味わえますよ。",
+        "image": {
+          "alternateText": "シンガポール植物園",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/D_DFSDDLa2GAiar6IwetSd6QwwXniDirqpw6uNe4d8M/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/D_DFSDDLa2GAiar6IwetSd6QwwXniDirqpw6uNe4d8M/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/D_DFSDDLa2GAiar6IwetSd6QwwXniDirqpw6uNe4d8M/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/D_DFSDDLa2GAiar6IwetSd6QwwXniDirqpw6uNe4d8M/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/D_DFSDDLa2GAiar6IwetSd6QwwXniDirqpw6uNe4d8M/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/D_DFSDDLa2GAiar6IwetSd6QwwXniDirqpw6uNe4d8M/1200x801.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ラッフルズ・ホテル"
+      },
+      {
+        "cTA1": {
+          "label": "シンガポール3大動物園の見どころを知る",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/singapore/news_ap_osarea_0000151",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "シンガポール動物園の観光情報をみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/asia/republic_of_singapore/SIN/117768/index.html",
+          "linkType": "OTHER"
+        },
+        "description": "1859年に設立されたシンガポール植物園は、都市部に位置する緑豊かなオアシスです。ユネスコ世界遺産にも登録された広大な庭園で、熱帯植物の研究において重要な役割を果たしています。園内には、ランの種類が豊富な「ナショナル・オーキッド・ガーデン」や、熱帯雨林の生態系を再現した「レインフォレスト」などみどころがたくさん！綺麗に手入れされた芝生や並木道は、散策やピクニックにぴったりです。自然好きな方はもちろん、家族連れにもおすすめの観光スポットですよ。",
+        "image": {
+          "alternateText": "シンガポール動物園",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/kGcPEe7aco5Jpuy06N1s0DLp8TfczM5sKllrnOGnRs8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/kGcPEe7aco5Jpuy06N1s0DLp8TfczM5sKllrnOGnRs8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/kGcPEe7aco5Jpuy06N1s0DLp8TfczM5sKllrnOGnRs8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/kGcPEe7aco5Jpuy06N1s0DLp8TfczM5sKllrnOGnRs8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/kGcPEe7aco5Jpuy06N1s0DLp8TfczM5sKllrnOGnRs8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kGcPEe7aco5Jpuy06N1s0DLp8TfczM5sKllrnOGnRs8/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "シンガポール植物園"
+      },
+      {
+        "cTA1": {
+          "label": "ナイトサファリの魅力をもっと知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/SG/2023/02/237_778096_1675828538.html",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "セントーサ島のホテルを探す",
+          "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/161/3168/?freeword\u003d%E3%82%BB%E3%83%B3%E3%83%88%E3%83%BC%E3%82%B5%E5%B3%B6\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d6047875",
+          "linkType": "OTHER"
+        },
+        "description": "シンガポール動物園は、野生に近い環境で暮らす動物たちを観察できる、世界的にも有名な動物園。300種類以上の動物が生息しており、熱帯雨林の中で自由に暮らす姿を間近で見れるのが魅力です。特にオランウータンの飼育や保護については世界からも注目されており、動物保護の重要性を学べる場所です。園内では、象乗りやボートライドなど動物たちとの触れ合いを楽しめるアクティビティが充実しているため、子どもから大人まで楽しめますよ。",
+        "image": {
+          "alternateText": "水族館のイメージ",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Mqt_InqHY9snwF6mMqFuUd4aoeKs5fcIROchYZzey0Y/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Mqt_InqHY9snwF6mMqFuUd4aoeKs5fcIROchYZzey0Y/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Mqt_InqHY9snwF6mMqFuUd4aoeKs5fcIROchYZzey0Y/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Mqt_InqHY9snwF6mMqFuUd4aoeKs5fcIROchYZzey0Y/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Mqt_InqHY9snwF6mMqFuUd4aoeKs5fcIROchYZzey0Y/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Mqt_InqHY9snwF6mMqFuUd4aoeKs5fcIROchYZzey0Y/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "シンガポール動物園"
+      },
+      {
+        "cTA1": {
+          "label": "シー・アクアリウムの魅力をもっと知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/SG/2015/04/sea-aquarium.html",
+          "linkType": "OTHER"
+        },
+        "description": "ナイトサファリは、世界初の夜行性動物専門の動物園です。40ヘクタールの敷地に130種類以上の動物が生息し、その多くが夜行性。トラムに乗って園内を巡るサファリライドでは、ライオンやヒョウ、象などの大型動物を自然に近い環境で観察できます。夜の闇に包まれた熱帯雨林の中で、動物たちの活発な姿を見れる動物園はなかなかありません！斬新なコンセプトと臨場感あふれる体験は、一生忘れない思い出になりますよ。",
+        "image": {
+          "alternateText": "セントーサ島",
+          "height": 802,
+          "sourceUrl": "https://a.mktgcdn.com/p/qqAStNYAZjK0Hn5I2EmtrAexZxKMm072dhRvqGiFsl4/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "https://a.mktgcdn.com/p-sandbox/qqAStNYAZjK0Hn5I2EmtrAexZxKMm072dhRvqGiFsl4/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/qqAStNYAZjK0Hn5I2EmtrAexZxKMm072dhRvqGiFsl4/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/qqAStNYAZjK0Hn5I2EmtrAexZxKMm072dhRvqGiFsl4/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/qqAStNYAZjK0Hn5I2EmtrAexZxKMm072dhRvqGiFsl4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qqAStNYAZjK0Hn5I2EmtrAexZxKMm072dhRvqGiFsl4/1200x802.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ナイトサファリ"
+      },
+      {
+        "cTA1": {
+          "label": "リバーワンダーの観光情報をみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/asia/republic_of_singapore/SIN/122874/index.html",
+          "linkType": "OTHER"
+        },
+        "description": "セントーサ島にあるシー・アクアリウムは、東南アジア最大級の水族館です。10万匹以上もの海の生き物が生息しており、圧巻の規模！中でも、世界最大級の水槽「オープン・オーシャン・ハビタット」では、マンタやサメなどの大型魚が悠々と泳ぐ姿を間近で観察できます。子どもが喜ぶ触れ合いプールもあり、ヒトデやカニに直接触れるのが魅力。夜間プログラムも充実しており、水槽の前で一晩過ごせるユニークな体験もできますよ。",
+        "image": {
+          "alternateText": "ナショナル・ギャラリー・シンガポール",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/NS3nNGH8GyIW7OGenLnRylaSuD2_HeEhhClDsS5TKp0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/NS3nNGH8GyIW7OGenLnRylaSuD2_HeEhhClDsS5TKp0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/NS3nNGH8GyIW7OGenLnRylaSuD2_HeEhhClDsS5TKp0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/NS3nNGH8GyIW7OGenLnRylaSuD2_HeEhhClDsS5TKp0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/NS3nNGH8GyIW7OGenLnRylaSuD2_HeEhhClDsS5TKp0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NS3nNGH8GyIW7OGenLnRylaSuD2_HeEhhClDsS5TKp0/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "シー・アクアリウム"
+      },
+      {
+        "cTA1": {
+          "label": "シンガポール・フライヤーの魅力をもっと知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/SG/2016/11/singaporeflyer.html",
+          "linkType": "OTHER"
+        },
+        "description": "リバーワンダーは、世界でも珍しい、河川の生態系に特化した動物園です。5000匹以上の生き物が生息しており、世界の有名な河川をテーマにした10のエリアで構成されています。ジャイアントパンダとレッサーパンダを観察できるパンダ舎は必見のスポット。パンダ好きにはたまりません！また、「アマゾンリバークエスト」では、ボートに乗って動物たちにより接近できますよ。シンガポール動物園と同様にオープンズー方式を採用しており、動物たちが自然に近い環境で過ごす姿を楽しめます。",
+        "image": {
+          "alternateText": "ジュエル",
+          "height": 802,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZO0v3_PwRFPWV5VEVqS8CqCBlG4ZuwW1g8U4kt3WhFc/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZO0v3_PwRFPWV5VEVqS8CqCBlG4ZuwW1g8U4kt3WhFc/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZO0v3_PwRFPWV5VEVqS8CqCBlG4ZuwW1g8U4kt3WhFc/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZO0v3_PwRFPWV5VEVqS8CqCBlG4ZuwW1g8U4kt3WhFc/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZO0v3_PwRFPWV5VEVqS8CqCBlG4ZuwW1g8U4kt3WhFc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZO0v3_PwRFPWV5VEVqS8CqCBlG4ZuwW1g8U4kt3WhFc/1200x802.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "リバーワンダー"
+      },
+      {
+        "cTA1": {
+          "label": "ユニバーサル・スタジオ・シンガポールの魅力をもっと知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/SG/2014/10/uss.html",
+          "linkType": "OTHER"
+        },
+        "description": "シンガポールフライヤーは高さ165mの巨大な観覧車で、シンガポールの象徴的な観光スポットのひとつ。空調が効いたカプセルゴンドラに乗り、一回の乗車で約30分かけてゆっくりと回転します。頂点に達すると、シンガポールの街並みを360度のパノラマビューで見渡せますよ。夜になるとゴージャスにライトアップされ、夜景スポットとしても人気です。",
+        "image": {
+          "alternateText": "カトン",
+          "height": 863,
+          "sourceUrl": "https://a.mktgcdn.com/p/FgneWk6VVrN4JsYIAZ_gWUeyK5TIMQPbF_yfT7FMJzU/1200x863.jpg",
+          "thumbnails": [
+            {
+              "height": 863,
+              "url": "https://a.mktgcdn.com/p-sandbox/FgneWk6VVrN4JsYIAZ_gWUeyK5TIMQPbF_yfT7FMJzU/1200x863.jpg",
+              "width": 1200
+            },
+            {
+              "height": 445,
+              "url": "https://a.mktgcdn.com/p-sandbox/FgneWk6VVrN4JsYIAZ_gWUeyK5TIMQPbF_yfT7FMJzU/619x445.jpg",
+              "width": 619
+            },
+            {
+              "height": 432,
+              "url": "https://a.mktgcdn.com/p-sandbox/FgneWk6VVrN4JsYIAZ_gWUeyK5TIMQPbF_yfT7FMJzU/600x432.jpg",
+              "width": 600
+            },
+            {
+              "height": 141,
+              "url": "https://a.mktgcdn.com/p-sandbox/FgneWk6VVrN4JsYIAZ_gWUeyK5TIMQPbF_yfT7FMJzU/196x141.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FgneWk6VVrN4JsYIAZ_gWUeyK5TIMQPbF_yfT7FMJzU/1200x863.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "シンガポールフライヤー"
+      },
+      {
+        "cTA1": {
+          "label": "セントーサ島の旅行・ツアーを探す",
+          "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dSG\u0026sc.dest%5B0%5D.city\u003dSOS",
+          "linkType": "OTHER"
+        },
+        "description": "セントーサ島にあるユニバーサル・スタジオ・シンガポールは、東南アジア初のユニバーサル・スタジオのテーマパークです。7つのゾーンにわかrており、映画やテレビ番組をモチーフにしたアトラクションやショーが楽しめます。「トランスフォーマー」や「ジュラシック・パーク」などの人気アトラクションをテーマにしたスリル満点のアトラクションや、「シュレック」のような家族向けアトラクションなど、幅広い年齢層が楽しめるのが魅力。パレードやキャラクターとの写真撮影、季節ごとのイベントなども充実しているので、何度行っても飽きないスポットです。",
+        "image": {
+          "alternateText": "チキンライス",
+          "height": 796,
+          "sourceUrl": "https://a.mktgcdn.com/p/S66E3lhJsWiS0SL2SFLE01zxphumRBj8jKQkpcAHdNI/1200x796.jpg",
+          "thumbnails": [
+            {
+              "height": 796,
+              "url": "https://a.mktgcdn.com/p-sandbox/S66E3lhJsWiS0SL2SFLE01zxphumRBj8jKQkpcAHdNI/1200x796.jpg",
+              "width": 1200
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/S66E3lhJsWiS0SL2SFLE01zxphumRBj8jKQkpcAHdNI/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/S66E3lhJsWiS0SL2SFLE01zxphumRBj8jKQkpcAHdNI/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/S66E3lhJsWiS0SL2SFLE01zxphumRBj8jKQkpcAHdNI/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/S66E3lhJsWiS0SL2SFLE01zxphumRBj8jKQkpcAHdNI/1200x796.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ユニバーサル・スタジオ・シンガポール"
+      },
+      {
+        "cTA1": {
+          "label": "ナショナル・ギャラリー・シンガポールの魅力をもっと知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/SG/2016/03/national-gallery.html",
+          "linkType": "OTHER"
+        },
+        "description": "セントーサ島は、シンガポール本島の南に位置する人気のリゾートアイランドです。美しいビーチだけでなく、テーマパークや高級ホテルなど、さまざまな魅力が詰まった島として知られています。シロソビーチやパラワンビーチなど白い砂浜が広がるビーチでは、海水浴やマリンスポーツを楽しめますよ。島内には、ユニバーサル・スタジオ・シンガポールやS.E.A.アクアリウム、アドベンチャーコーブ・ウォーターパークなど、家族で楽しめるテーマパークが充実しているのも魅力です。ケーブルカーやモノレールで島内を移動でき、シンガポール本島からも簡単にアクセスできるので、ぜひ旅程に組み込んでみてくださいね。",
+        "image": {
+          "alternateText": "チリクラブ",
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/TVyWyZfNBhdbwOk-W_fIfy3b3vwkeJar7OWnZPyI3to/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/TVyWyZfNBhdbwOk-W_fIfy3b3vwkeJar7OWnZPyI3to/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/TVyWyZfNBhdbwOk-W_fIfy3b3vwkeJar7OWnZPyI3to/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/TVyWyZfNBhdbwOk-W_fIfy3b3vwkeJar7OWnZPyI3to/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/TVyWyZfNBhdbwOk-W_fIfy3b3vwkeJar7OWnZPyI3to/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/TVyWyZfNBhdbwOk-W_fIfy3b3vwkeJar7OWnZPyI3to/1200x798.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "セントーサ島"
+      },
+      {
+        "cTA1": {
+          "label": "ジュエルの魅力をもっと知る",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/singapore/news_ap_osarea_0000155",
+          "linkType": "OTHER"
+        },
+        "description": "ナショナル・ギャラリー・シンガポールは、東南アジア最大規模の美術館です。旧最高裁判所と旧市庁舎という2うの歴史的建造物を改装して2015年にオープンしました。シンガポールと東南アジアの近現代美術を中心とした作品が展示されています。19世紀から現代までの芸術の変遷を辿れる貴重なスポットで、東南アジアの文化や歴史への理解を深められますよ。屋上にはシンガポールの街並みを一望できるルーフテラスがあり、芸術鑑賞だけでなく絶景も楽しめます。定期的に開催される企画展をチェックして、興味のある展示会を見に行ってみましょう！",
+        "image": {
+          "alternateText": "カヤ・トースト",
+          "height": 884,
+          "sourceUrl": "https://a.mktgcdn.com/p/htow5ixAiQZodGJSK8hk77SoEm5lqlVKuH9lnrVoJJY/1200x884.jpg",
+          "thumbnails": [
+            {
+              "height": 884,
+              "url": "https://a.mktgcdn.com/p-sandbox/htow5ixAiQZodGJSK8hk77SoEm5lqlVKuH9lnrVoJJY/1200x884.jpg",
+              "width": 1200
+            },
+            {
+              "height": 456,
+              "url": "https://a.mktgcdn.com/p-sandbox/htow5ixAiQZodGJSK8hk77SoEm5lqlVKuH9lnrVoJJY/619x456.jpg",
+              "width": 619
+            },
+            {
+              "height": 442,
+              "url": "https://a.mktgcdn.com/p-sandbox/htow5ixAiQZodGJSK8hk77SoEm5lqlVKuH9lnrVoJJY/600x442.jpg",
+              "width": 600
+            },
+            {
+              "height": 144,
+              "url": "https://a.mktgcdn.com/p-sandbox/htow5ixAiQZodGJSK8hk77SoEm5lqlVKuH9lnrVoJJY/196x144.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/htow5ixAiQZodGJSK8hk77SoEm5lqlVKuH9lnrVoJJY/1200x884.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ナショナル・ギャラリー・シンガポール"
+      },
+      {
+        "cTA1": {
+          "label": "プラナカン雑貨についてもっと知る",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/singapore/news_ap_osarea_0000114",
+          "linkType": "OTHER"
+        },
+        "description": "ジュエルはチャンギ国際空港に隣接する複合施設で、2019年にオープンしました。その名の通り、宝石のようなドーム型の外観が特徴的。中心にある世界最大級の滝「レイン・ボルテックス」は圧巻で、高さ40mから流れ落ちる水のカーテンに驚きますよ。300近い店舗やレストランが入る商業施設としての機能も備えており、地元の人気店から国際的なブランドまでは幅広く揃っています。トランジットの時間を過ごすのはもちろん、シンガポール観光の目的地としても人気を集めている新しいランドマークです。",
+        "image": {
+          "alternateText": "シンガポール",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/-PEYkJBbezDgceT9I_QVdaKj7gxJHjikCXduRyzXUMc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/-PEYkJBbezDgceT9I_QVdaKj7gxJHjikCXduRyzXUMc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/-PEYkJBbezDgceT9I_QVdaKj7gxJHjikCXduRyzXUMc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/-PEYkJBbezDgceT9I_QVdaKj7gxJHjikCXduRyzXUMc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/-PEYkJBbezDgceT9I_QVdaKj7gxJHjikCXduRyzXUMc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-PEYkJBbezDgceT9I_QVdaKj7gxJHjikCXduRyzXUMc/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ジュエル"
+      },
+      {
+        "cTA1": {
+          "label": "シンガポールのチキンライス有名店をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/singapore/news_ap_osarea_0000112",
+          "linkType": "OTHER"
+        },
+        "description": "カトンはシンガポール東部に位置する歴史的な地区で、プラナカン文化の中心地として知られています。カラフルなショップハウスが立ち並ぶ通りは、インスタ映えスポットとして大人気！中国とマレーの文化が融合したプラナカン料理を楽しめるのが魅力で、名物のラクサやクエティオなどを提供する老舗レストランが点在しています。近代化が進むシンガポールとは一転して、昔ながらの魅力を残すエリアとして人気を集めていますよ。",
+        "image": {
+          "alternateText": "シンガポール中華街",
+          "height": 675,
+          "sourceUrl": "https://a.mktgcdn.com/p/0QajUAGskdQ6DKvG8NwyrCVqdKmc4kTM7Gv0b1ORtU8/996x675.jpg",
+          "thumbnails": [
+            {
+              "height": 675,
+              "url": "https://a.mktgcdn.com/p-sandbox/0QajUAGskdQ6DKvG8NwyrCVqdKmc4kTM7Gv0b1ORtU8/996x675.jpg",
+              "width": 996
+            },
+            {
+              "height": 420,
+              "url": "https://a.mktgcdn.com/p-sandbox/0QajUAGskdQ6DKvG8NwyrCVqdKmc4kTM7Gv0b1ORtU8/619x420.jpg",
+              "width": 619
+            },
+            {
+              "height": 407,
+              "url": "https://a.mktgcdn.com/p-sandbox/0QajUAGskdQ6DKvG8NwyrCVqdKmc4kTM7Gv0b1ORtU8/600x407.jpg",
+              "width": 600
+            },
+            {
+              "height": 133,
+              "url": "https://a.mktgcdn.com/p-sandbox/0QajUAGskdQ6DKvG8NwyrCVqdKmc4kTM7Gv0b1ORtU8/196x133.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0QajUAGskdQ6DKvG8NwyrCVqdKmc4kTM7Gv0b1ORtU8/996x675.jpg",
+          "width": 996
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "カトン"
+      },
+      {
+        "cTA1": {
+          "label": "シンガポールのチリクラブ有名店をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/singapore/news_ap_osarea_0000113",
+          "linkType": "OTHER"
+        },
+        "description": "シンガポールは多文化国家ならではの多彩な食文化が魅力です。中華やマレー、インド料理などが融合した独自の料理が発展し、世界中のグルメ通も注目するほど。屋台料理から高級レストランまで、様々な場所で本場の味を楽しむことができます。ここでは、シンガポール旅行で絶対に食べたいおすすめグルメ3選をご紹介します。",
+        "image": {
+          "height": 802,
+          "sourceUrl": "https://a.mktgcdn.com/p/0EpCioaXLlLLBdZgjNh7OQZwF5bEAwiErpH9ySDVCGk/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "https://a.mktgcdn.com/p-sandbox/0EpCioaXLlLLBdZgjNh7OQZwF5bEAwiErpH9ySDVCGk/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/0EpCioaXLlLLBdZgjNh7OQZwF5bEAwiErpH9ySDVCGk/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/0EpCioaXLlLLBdZgjNh7OQZwF5bEAwiErpH9ySDVCGk/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/0EpCioaXLlLLBdZgjNh7OQZwF5bEAwiErpH9ySDVCGk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0EpCioaXLlLLBdZgjNh7OQZwF5bEAwiErpH9ySDVCGk/1200x802.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "シンガポール旅行で食べたいおすすめグルメ3選"
+      },
+      {
+        "description": "シンガポールの国民食として知られるチキンライスは、蒸し鶏または揚げ鶏を香り豊かなチキンスープで炊いたご飯と一緒に食べる料理です。鶏の旨味がしみ込んだ、もっちりとしたご飯と、ジューシーな鶏肉が相性抜群！添えられている特製チリソースや醤油ベースのタレをかけて食べるのが一般的です。シンプルながら奥深い味わいで、多くの人々に愛され続けていますよ。",
+        "sectionLevel": "h3",
+        "sectionTitle": "チキンライス"
+      },
+      {
+        "description": "シンガポールを代表する料理のひとつであるチリクラブは、ワタリガニをトマトソースの甘辛いチリソースで煮込んだ料理です。ピリ辛で甘みのあるソースが、カニの身の甘さを引き立てて絶品！ソースをパンにつけて食べるのもおすすめです。",
+        "sectionLevel": "h3",
+        "sectionTitle": "チリクラブ"
+      },
+      {
+        "description": "カヤ・トーストは、シンガポールの朝食の定番メニュー・カヤジャムを塗ったトーストにバターを挟んだシンプルな料理ですが、素朴な味わいがやみつきになりますよ。カヤジャムとは、ココナッツミルクと卵、砂糖を練り合わせた甘いスプレッドで、独特の風味が特徴。甘いカヤと塩気のあるバター、サクサクのトーストの組み合わせが相性抜群です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "カヤ・トースト"
+      },
+      {
+        "description": "シンガポールを満喫するなら、3～5日程度の滞在期間が必要です。主要な観光スポットを巡り、シンガポールの魅力を堪能することができますよ。3日間の滞在であれば、マーライオン・パークやマリーナ・ベイ・サンズ、ガーデンズ・バイ・ザ・ベイなどの中心部の観光地を巡り、チャイナタウンやリトルインディアなど異文化を体験できる地区も訪れられます。カトンやセントーサ島に行く予定なら5日ほどみておきましょう！",
+        "sectionLevel": "h2",
+        "sectionTitle": "シンガポール観光には何日必要？"
+      },
+      {
+        "description": "シンガポールは赤道近くに位置する熱帯性気候のため、年間を通じて気温の変化が少なく、いつ訪れても観光を楽しむことができます。雨季と乾季があるので、訪れたいスポットやイベントによって行く時期を決めるとよいでしょう。一般的に、2月〜4月が最も過ごしやすい時期とされています。乾季のためカラッとしており、気温も30度前後と暑すぎず、屋外での観光も快適に楽しめます。2月頃には旧正月のお祭りがあるので、街中が賑わいますよ。6月〜8月は観光のハイシーズン。7月〜8月にかけては「シンガポール・フードフェスティバル」が開催され、グルメを楽しみたい人にはぴったりの時期です。ただし、気温が高くスコールも多いため、屋内の観光を中心に旅程を立てるのがおすすめです。クリスマスや年末年始のイベントで華やかな雰囲気に包まれる、11月から1月も人気。12月は雨季のピークで頻繁にスコールが降るため、旅行の際は雨具を持って行くようにしましょう！シンガポールでは年間を通じて様々なイベントが開催されているため、自分の興味に合わせて旅行時期を選ぶのもよいでしょう。例えば、5月か6月の「ドラゴンボートフェスティバル」や9月の「F1シンガポールグランプリ」など、特定のイベントを目的に訪れるのも楽しみ方の一つです。",
+        "sectionLevel": "h2",
+        "sectionTitle": "シンガポール観光のベストシーズン"
+      }
+    ],
+    "c_news_PublicationDate": "2024-10-04",
+    "c_news_ViewCount": "249",
+    "c_news_ViewCount2of2": "249",
+    "c_news_ViewCountNum": "249",
+    "c_news_ViewCountNumForSorting": "36",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/asia/singapore/guide_0013",
+    "c_relatedAreas": [
+      "singapore"
+    ],
+    "name": "シンガポール観光の完全版！おすすめスポットやグルメをご紹介",
+    "slug": "kaigai/asia/singapore/guide_0013",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

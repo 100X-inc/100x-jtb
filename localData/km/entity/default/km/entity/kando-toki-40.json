@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-40",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/40_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d41.759188%2C140.704046",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "夏",
+      "海・湖・川・滝"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "日没直後の空が鮮やかな紺色から黒々とした濃紺のグラデーションに覆われ、西の空にはまだ赤みが残る頃。完全に真っ暗になる直前の時間帯に、 神戸摩耶山、長崎稲佐山と並び「日本三大夜景」にも数えられる函館の夜景は美しく輝き始めます。函館山の山頂までは、函館山ロープウェイで約3分。宝石をちりばめたようとうたわれる函館の夜景は、扇形に広がる街の形そのままに浮かび上がり、ロマンティックな景色を見せてくれます。また夏から秋にかけては、津軽海峡で行われる真イカ漁の漁火が、夜の海にキラキラと灯る様子を見ることができます。この時、函館山から海を見下ろすと、函館の夜景とともに夜の海に点々と浮かび上がる光を見ることができ、とても幻想的な雰囲気を味わえます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/40.asp",
+    "name": "夏の函館山夜景と漁火"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

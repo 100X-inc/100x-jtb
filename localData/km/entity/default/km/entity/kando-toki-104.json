@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-104",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/104_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d35.07233%2C138.541218",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "静岡県",
+    "c_searchTags": [
+      "静岡県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "冬",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "ゴッホやモネなど世界中の画家たちに多大な影響を及ぼした、日本を代表する浮世絵師・歌川広重の「東海道五十三次」は富士山が多く登場します。中でも１６番目の宿場である「由比宿」の浮世絵は、峻険な岸壁にふもとに広がる駿河湾と、遠くに富士山が描かれた美しい浮世絵です。この美しい浮世絵の視点と同じく富士山を臨めるスポットをご存知ですか？それは静岡県由比町にある「さった峠」です。峠の狭い散策道を進んでいくと、浮世絵に描かれていたのと同じ、美しくすそ野を広げた富士山が姿を現します。目前に広がる景色と浮世絵を見比べてみれば、歴史の偉人たちが見てきた世界や往時の雰囲気を追体験できます。\n見所・お勧めポイント\n歌川広重が描いた「東海道五十三次」の「由比宿」に登場する、浮世絵富士の世界と同じ風景を体験できる「さった峠」。今も昔も色あせない富士山の姿には、日本のシンボルとしての誇りと歴史のロマンが感じられます。\n背景",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/104.asp",
+    "name": "歌川広重「東海道五十三次」で描かれた富士山をさった峠から望む"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

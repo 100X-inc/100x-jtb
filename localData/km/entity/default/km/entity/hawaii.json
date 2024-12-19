@@ -1,0 +1,46 @@
+{
+  "$id": "hawaii",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "beach_resort"
+    ],
+    "c_linkedArea3News": [
+      "news_web_kaigai_0005",
+      "news_web_kaigai_0006",
+      "news_web_kaigai_0009",
+      "news_web_kaigai_0008",
+      "news_web_kaigai_0010",
+      "guide_0010",
+      "news_web_kaigai_0007",
+      "news_ap_osarea_0000002",
+      "news_ap_osarea_0000005",
+      "news_ap_osarea_0000019",
+      "news_ap_osarea_0000013",
+      "news_ap_osarea_0000010",
+      "news_ap_osarea_0000018",
+      "news_ap_osarea_0000009",
+      "news_ap_osarea_0000008",
+      "news_ap_osarea_0000015",
+      "news_ap_osarea_0000006",
+      "news_ap_osarea_0000014",
+      "news_ap_osarea_0000011",
+      "news_cp_r_matsumaru_001",
+      "news_ap_osarea_0000001",
+      "news_ap_osarea_0000012",
+      "news_ap_osarea_0000004",
+      "news_ap_osarea_0000017",
+      "news_ap_osarea_0000007",
+      "news_ap_osarea_0000016",
+      "news_ap_osarea_0000003"
+    ],
+    "c_metaDescription": "ハワイに関する記事をピックアップ！JTBニュースでは、ハワイで話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | ハワイ | 旅行・おでかけ情報",
+    "name": "ハワイ",
+    "slug": "kaigai/beach_resort/hawaii"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

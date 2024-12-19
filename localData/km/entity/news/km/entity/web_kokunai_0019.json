@@ -1,0 +1,617 @@
+{
+  "$id": "news_web_kokunai_0019",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1080,
+      "sourceUrl": "https://a.mktgcdn.com/p/gdijoY7A3gIQ7No4AI2sY3yt-k2JHuISDMsO-kqH_ds/1920x1080.jpg",
+      "thumbnails": [
+        {
+          "height": 1080,
+          "url": "https://a.mktgcdn.com/p-sandbox/JivV9mll9z6Scc9lLlttGdrBFHvjUAg7fEHE9cSXRkM/1920x1080.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1069,
+          "url": "https://a.mktgcdn.com/p-sandbox/JivV9mll9z6Scc9lLlttGdrBFHvjUAg7fEHE9cSXRkM/1900x1069.jpg",
+          "width": 1900
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p-sandbox/JivV9mll9z6Scc9lLlttGdrBFHvjUAg7fEHE9cSXRkM/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p-sandbox/JivV9mll9z6Scc9lLlttGdrBFHvjUAg7fEHE9cSXRkM/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p-sandbox/JivV9mll9z6Scc9lLlttGdrBFHvjUAg7fEHE9cSXRkM/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/JivV9mll9z6Scc9lLlttGdrBFHvjUAg7fEHE9cSXRkM/1920x1080.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "沖縄の記事一覧はこちら",
+        "uRL": "https://www.jtb.co.jp/news/list/kokunai/okinawa"
+      },
+      {
+        "linkText": "沖縄の旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/"
+      },
+      {
+        "linkText": "沖縄のホテル・旅館・宿を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/"
+      },
+      {
+        "linkText": "沖縄のツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_air/a/okinawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "赤ちゃんを連れての沖縄旅行に、楽しみだけどやっぱり不安な気持ちもまだ多い…。安心してください！ 沖縄では赤ちゃんとご家族に優しい、観光スポットやホテルが数多くあります。赤ちゃん向けのサービスが完備されたホテルなど、まとめてご紹介します！",
+    "c_ap_Tags": [
+      "温泉",
+      "ビーチ",
+      "スパ",
+      "リゾート",
+      "ビーチリゾート",
+      "国内の宿",
+      "子連れ",
+      "家族旅行",
+      "沖縄おすすめ",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "赤ちゃんと楽しむ沖縄旅行【0～2歳児】に優しい観光地\u0026ホテル",
+    "c_linkedArea3News": [
+      "okinawa_all"
+    ],
+    "c_metaDescription": "赤ちゃんを連れての沖縄旅行、楽しみだけどやっぱり不安な気持ちがあるという方必見。 沖縄では0～2歳くらいの小さなお子様とご家族に優しい、観光スポットや宿泊施設も数多くあります。赤ちゃん・乳児向けの設備やサービスが充実しているテーマパークやホテルなど、まとめてご紹介します。",
+    "c_metaTitle": "赤ちゃんと楽しむ沖縄旅行【0～2歳児】に優しい観光地\u0026ホテル | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "アクティビティ満載！「夏の家族旅行 沖縄」ツアーをみる",
+        "link": "https://www.jtb.co.jp/kokunai_air/t/sum_fam_okinawa/okinawa/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "「夏の家族旅行 沖縄」プランの魅力をみる",
+        "link": "https://dp.jtb.co.jp/lookjtb/dp/pamphlet/2024_ace_1442059/?_gl\u003d1*psclup*_gcl_aw*R0NMLjE3MTQ1NTMzOTUuQ2owS0NRancwTWV4QmhEM0FSSXNBRUkzV0hKOVBQQVk2aGE5aDJfQUhsdTJkVDJhQ3RVOGRxZXV0WEY2VVd4YkYzTGlkN29WNDVCNWR4TWFBczY1RUFMd193Y0I.*_gcl_au*MTg1ODExNDEwNi4xNzE2MTg0NDEw*_ga*ODU3NTAyODY0LjE3MDc5MDE0Njg.*_ga_KGZYYE4GBZ*MTcxNjUxNTE5Ni4yNi4xLjE3MTY1MTcxOTkuMC4wLjE0OTY0NTMyODU.*_fplc*V2RnTG4lMkZIVzFvS29EMyUyRllwR2FDdEFZbU1CcGc4Mk45bTV2RXJrSEVsNkZ2QWpoUEdSeG15R1NVdWhDM0MyVDlmekpBZmxvWVQlMkIyZ1glMkZ1TjcyZ1FybW40S3IzZmFYWUFMYlc2UjdFN285TXc5RmZMN2Vld0RRTUtXTTd1blElM0QlM0Q.#3",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "「夏の家族旅行 沖縄」プラン限定！割引クーポンをみる",
+        "link": "https://www.jtb.co.jp/myjtb/campaign/coupon/detail/2404okicn/page.asp",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "沖縄美ら海水族館の入館券を購入する",
+          "link": "https://www.jtb.co.jp/leisure/fp/qKS005177/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "美ら海水族館入場券付きの宿泊プランをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/feature/churaumitk/",
+          "linkType": "OTHER"
+        },
+        "description": "授乳やおむつ替えのスポット、ベビーカーの貸し出しなど、赤ちゃん連れの旅行は、気になるポイントがたくさん浮かびます。赤ちゃん連れにも安心の設備が整った、ママ・パパも行って楽しい沖縄の観光スポットをご紹介します。",
+        "image": {
+          "alternateText": "沖縄満喫クーポンで訪れられる石垣島",
+          "height": 1021,
+          "sourceUrl": "https://a.mktgcdn.com/p/8wJKlvS2Qh0ARd5Tv6_S-SnxAb3o2gs0JXrfHOv7KS0/1536x1021.jpg",
+          "thumbnails": [
+            {
+              "height": 1021,
+              "url": "https://a.mktgcdn.com/p-sandbox/8wJKlvS2Qh0ARd5Tv6_S-SnxAb3o2gs0JXrfHOv7KS0/1536x1021.jpg",
+              "width": 1536
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/8wJKlvS2Qh0ARd5Tv6_S-SnxAb3o2gs0JXrfHOv7KS0/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/8wJKlvS2Qh0ARd5Tv6_S-SnxAb3o2gs0JXrfHOv7KS0/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/8wJKlvS2Qh0ARd5Tv6_S-SnxAb3o2gs0JXrfHOv7KS0/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8wJKlvS2Qh0ARd5Tv6_S-SnxAb3o2gs0JXrfHOv7KS0/1536x1021.jpg",
+          "width": 1536
+        },
+        "imageCaption": "※画像はイメージです",
+        "infoBlockLabel": "沖縄美ら海水族館の基本情報",
+        "infoBlockText": "アクセス：那覇空港から車で約2時間（高速道路利用）　　　　　バスで約2時間30分（乗り換えなし高速バス利用）住所：沖縄県国頭郡本部町石川424（海洋博公園内）TEL：0980-48-3748",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．赤ちゃん連れでも安心で、大人も楽しめる観光地"
+      },
+      {
+        "cTA1": {
+          "label": "ナゴパイナップルパーク周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5001650/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "おきなわワールド周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5000730/",
+          "linkType": "OTHER"
+        },
+        "description": "沖縄美ら海水族館は、雨の日でも遊びに行ける、沖縄観光の定番スポットです。世界最大級の水槽が目玉で、全長8.8mのジンベエザメやマンタなど多種多様な魚が泳ぐ姿は圧巻です。ほかにも約80種の造礁サンゴを飼育展示する「サンゴの海」、深海に生きる多様な生き物に出会えるエリアなど見所が満載です。「黒潮の海」大水槽を眺めながら、軽食を楽しめるカフェ「オーシャンブルー」も人気です。海洋博公園内ではベビーカーを無料で借りられます（※数に限りあり、予約不可）。また各施設にベビーシートが設置されたトイレや、授乳室も完備されているので安心です。東京ドーム約15個分の広さを誇る海洋博公園内は、電気遊覧車での移動が便利でおすすめです。※開館状況等詳細は、沖縄美ら海水族館HPをご確認ください。",
+        "image": {
+          "alternateText": "JTBラウンジのイメージ",
+          "height": 505,
+          "sourceUrl": "https://a.mktgcdn.com/p/vKUefu2Xw-f5ePnezd1dOYcLaQ0D-oip1UnRrjZe8XI/758x505.jpg",
+          "thumbnails": [
+            {
+              "height": 505,
+              "url": "https://a.mktgcdn.com/p-sandbox/JUfB2WtnaU8KXMC9st032e_lM14mkjlh45rq4-NUiF0/758x505.jpg",
+              "width": 758
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/JUfB2WtnaU8KXMC9st032e_lM14mkjlh45rq4-NUiF0/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/JUfB2WtnaU8KXMC9st032e_lM14mkjlh45rq4-NUiF0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/JUfB2WtnaU8KXMC9st032e_lM14mkjlh45rq4-NUiF0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JUfB2WtnaU8KXMC9st032e_lM14mkjlh45rq4-NUiF0/758x505.jpg",
+          "width": 758
+        },
+        "imageCaption": "※画像はイメージです",
+        "infoBlockLabel": "ナゴパイナップルパークの基本情報",
+        "infoBlockText": "アクセス：那覇空港から車で約1時間10分住所：沖縄県名護市為又1195TEL：0980-53-3659営業時間：10：00〜18：00（最終入園17：30）休園日：無休※天候によって休園の可能性あり料金：大人（16歳〜）1,200円、小人（4歳〜15歳）600円",
+        "sectionLevel": "h3",
+        "sectionTitle": "海洋博公園　沖縄美ら海水族館"
+      },
+      {
+        "cTA1": {
+          "label": "おきなわワールドのチケットをみる",
+          "link": "https://www.jtb.co.jp/leisure/fp/qKS005143/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "ビオスの丘周辺のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5001460/",
+          "linkType": "OTHER"
+        },
+        "description": "一面に広がるパイナップル畑や亜熱帯植物が生い茂る植物園をキュートにデコレーションされたパイナップル号に乗って見学ができます。カートは自動運転なので、安心して楽々園内を観賞できます。パイナップル畑や植物園内には、多くのフォトスポットも点在し、家族での記念撮影もできます。また授乳室・キッズ用トイレなどが完備、ベビーカー無料貸し出しもしているので、小さいお子様連れのお客様にも安心してご利用いただけます。日本初のパイナップルワイナリーやパイナップルを使用したお菓子、ジュース、ワインの試食や試飲も楽しめるコーナーもあります。沖縄特産のパイナップルを食べて、学べるファミリーにぴったりの観光スポットです。",
+        "image": {
+          "height": 726,
+          "sourceUrl": "https://a.mktgcdn.com/p/Cr8IRoG4ybPtEZvv9sakheNjMJ7Qg3Q8EIa6yjnaDtE/1089x726.jpg",
+          "thumbnails": [
+            {
+              "height": 726,
+              "url": "https://a.mktgcdn.com/p-sandbox/uIZCyoHdv4hdBQ1fdgV6m10TLmjKt0lXD8LBJipvtcU/1089x726.jpg",
+              "width": 1089
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/uIZCyoHdv4hdBQ1fdgV6m10TLmjKt0lXD8LBJipvtcU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/uIZCyoHdv4hdBQ1fdgV6m10TLmjKt0lXD8LBJipvtcU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/uIZCyoHdv4hdBQ1fdgV6m10TLmjKt0lXD8LBJipvtcU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uIZCyoHdv4hdBQ1fdgV6m10TLmjKt0lXD8LBJipvtcU/1089x726.jpg",
+          "width": 1089
+        },
+        "infoBlockLabel": "おきなわワールドの基本情報",
+        "infoBlockText": "アクセス：那覇空港から車で約30分住所：沖縄県南城市玉城前川1336TEL：098-949-7421営業時間：9：00〜18：00（最終受付17：00）料金：入園チケット 大人（15歳以上）2,000円、小人（4～14歳）1,000円",
+        "sectionLevel": "h3",
+        "sectionTitle": "ナゴパイナップルパーク"
+      },
+      {
+        "cTA1": {
+          "label": "ビオスの丘のチケットをみる",
+          "link": "https://www.jtb.co.jp/leisure/fp/qKS005148/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "Fukugi Terrace の宿泊プランをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8705A11/plan/",
+          "linkType": "URL"
+        },
+        "description": "沖縄をまるごと体感できる観光テーマパーク、おきなわワールド。大鍾乳洞・玉泉洞やハブのショーが人気のハブ博物公園など広い園内には見所がたくさんあります。園内にはオムツ替えスペースや授乳室も設けられ、ベビーカーの貸出（300円）も行っているため、赤ちゃん連れでも安心です。沖縄食材にこだわったレストラン「健食バイキング ちゅら島」では、キッズルームやお座敷も完備。琉球写真館では、伝統衣装である琉装を着て記念撮影が楽しめます。小さいサイズも用意されているので、沖縄旅行の記念におすすめです。",
+        "image": {
+          "height": 981,
+          "sourceUrl": "https://a.mktgcdn.com/p/ORqltleDC1c6GFtrHF3vmo-y2tYgjQMUEyvBZW5rafQ/1471x981.jpg",
+          "thumbnails": [
+            {
+              "height": 981,
+              "url": "https://a.mktgcdn.com/p-sandbox/g2Hc1IkAHO5iHUppntzQJwBHq6NwoJQ4PuGpaF285rI/1471x981.jpg",
+              "width": 1471
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/g2Hc1IkAHO5iHUppntzQJwBHq6NwoJQ4PuGpaF285rI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/g2Hc1IkAHO5iHUppntzQJwBHq6NwoJQ4PuGpaF285rI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/g2Hc1IkAHO5iHUppntzQJwBHq6NwoJQ4PuGpaF285rI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/g2Hc1IkAHO5iHUppntzQJwBHq6NwoJQ4PuGpaF285rI/1471x981.jpg",
+          "width": 1471
+        },
+        "infoBlockLabel": "琉球村の基本情報",
+        "infoBlockText": "アクセス：那覇空港から車で約1時間住所：沖縄県国頭郡恩納村山田1130TEL：098-965-1234営業時間：9：30〜17：00（最終受付16：00）休園日：無休料金：大人（16才以上）1,500円、高校生1,200円、小人（6～15才）600円",
+        "sectionLevel": "h3",
+        "sectionTitle": "おきなわワールド"
+      },
+      {
+        "cTA1": {
+          "label": "Fukugi Terrace の詳細",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8705A11/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ホテル オリオン モトブ リゾート\u0026スパ の 宿泊プランをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8705008/plan/",
+          "linkType": "URL"
+        },
+        "description": "沖縄各地に残された民家を移築し、昔ながらの街並みが再現された琉球村。過去にタイムスリップしたかのような、のどかな風景に癒やされます。沖縄の伝統芸能が見られる沖縄風パレード「道ジュネー」には、たくさんの人が集まります。滑稽な獅子舞も登場し、最後にはカチャーシー（沖縄ではお祝いの席でよく踊られる伝統舞踏）でお子様と一緒に沖縄のリズムを体感しましょう。文化財にも指定されている、古民家の中にも入ることができます。歩き疲れたときは、琉球の歴史を感じる畳の上でひと休み。施設内は道幅も広く、ベビーカーでも楽に移動ができます。おむつ交換スペース、授乳スペースも完備されています。沖縄の思い出作りに最適な琉球村で、1日過ごすのはいかがでしょうか。",
+        "image": {
+          "height": 685,
+          "sourceUrl": "https://a.mktgcdn.com/p/V4sw6eEE6ea72dJC8Q61uGzxhoMrOLGMMTPDjfZVZIU/1024x685.jpg",
+          "thumbnails": [
+            {
+              "height": 685,
+              "url": "https://a.mktgcdn.com/p-sandbox/V4sw6eEE6ea72dJC8Q61uGzxhoMrOLGMMTPDjfZVZIU/1024x685.jpg",
+              "width": 1024
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/V4sw6eEE6ea72dJC8Q61uGzxhoMrOLGMMTPDjfZVZIU/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/V4sw6eEE6ea72dJC8Q61uGzxhoMrOLGMMTPDjfZVZIU/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/V4sw6eEE6ea72dJC8Q61uGzxhoMrOLGMMTPDjfZVZIU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/V4sw6eEE6ea72dJC8Q61uGzxhoMrOLGMMTPDjfZVZIU/1024x685.jpg",
+          "width": 1024
+        },
+        "infoBlockLabel": "ビオスの丘の基本情報",
+        "infoBlockText": "アクセス：那覇空港から車で約1時間15分、沖縄自動車道石川インター下車約15分住所：沖縄県うるま市石川嘉手苅961-30TEL：098-965-3400料金：大人2,200円、子供（4歳〜小学生）1,100円",
+        "sectionLevel": "h3",
+        "sectionTitle": "琉球村"
+      },
+      {
+        "cTA1": {
+          "label": "ホテル オリオン モトブ リゾート\u0026スパ の魅力",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8705008/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ANAインターコンチネンタル万座ビーチリゾート の 宿泊プランをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707004/plan/",
+          "linkType": "URL"
+        },
+        "description": "標高110mのなだらかな高原に沖縄本来の森や亜熱帯の自然を再現した自然植物園です。園内の大龍池（うふたちぐむい）では、船頭のコミカルなガイドが楽しい湖水観賞舟や貸しカヌーを体験できます。本島では珍しい水牛車に乗ることもでき、のんびり園内散策も。芝生が広がる草原では寝ござを借りることができます。ひと休みにお昼寝もでき、沖縄ならではのゆったりとした時間を堪能できます。アグー（島豚）やヤギなど沖縄にちなんだかわいい動物と触れ合えるスポットなど、赤ちゃんも一緒に夢中になれる施設が盛りだくさん。ベビーカーの貸し出しやおむつ替えのトイレなども完備されています。※開園状況等詳細は、ビオスの丘HPをご確認ください。",
+        "image": {
+          "height": 736,
+          "sourceUrl": "https://a.mktgcdn.com/p/Bf_OO0kXOteqA1a-EK6gbLt76AFD0WCx8zLIIVv_DFM/1102x736.jpg",
+          "thumbnails": [
+            {
+              "height": 736,
+              "url": "https://a.mktgcdn.com/p-sandbox/LQ7iPDbUDWki5Uv-ZwYZ1q-wX5mHxxz1H6U2GW-umGo/1102x736.jpg",
+              "width": 1102
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/LQ7iPDbUDWki5Uv-ZwYZ1q-wX5mHxxz1H6U2GW-umGo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/LQ7iPDbUDWki5Uv-ZwYZ1q-wX5mHxxz1H6U2GW-umGo/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/LQ7iPDbUDWki5Uv-ZwYZ1q-wX5mHxxz1H6U2GW-umGo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/LQ7iPDbUDWki5Uv-ZwYZ1q-wX5mHxxz1H6U2GW-umGo/1102x736.jpg",
+          "width": 1102
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ビオスの丘"
+      },
+      {
+        "cTA1": {
+          "label": "ANAインターコンチネンタル万座ビーチリゾート の魅力",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707004/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "カヌチャベイホテル\u0026ヴィラズ の宿泊プランをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8710007/plan/",
+          "linkType": "URL"
+        },
+        "description": "赤ちゃん連れ旅行で、重要になるのはホテル選び。赤ちゃんOKのレストラン、赤ちゃんでも入れるプール……など、ポイントはたくさんあります。子連れ家族におすすめのホテルをエリアごとにご紹介します。",
+        "image": {
+          "height": 865,
+          "sourceUrl": "https://a.mktgcdn.com/p/8ex2o_N0vx3Ei6y7A-_TjFDcleDEsI_S52DRXIkPOyc/1536x865.jpg",
+          "thumbnails": [
+            {
+              "height": 865,
+              "url": "https://a.mktgcdn.com/p-sandbox/8ex2o_N0vx3Ei6y7A-_TjFDcleDEsI_S52DRXIkPOyc/1536x865.jpg",
+              "width": 1536
+            },
+            {
+              "height": 349,
+              "url": "https://a.mktgcdn.com/p-sandbox/8ex2o_N0vx3Ei6y7A-_TjFDcleDEsI_S52DRXIkPOyc/619x349.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/8ex2o_N0vx3Ei6y7A-_TjFDcleDEsI_S52DRXIkPOyc/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/8ex2o_N0vx3Ei6y7A-_TjFDcleDEsI_S52DRXIkPOyc/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8ex2o_N0vx3Ei6y7A-_TjFDcleDEsI_S52DRXIkPOyc/1536x865.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "2．赤ちゃん連れに優しいサービスや設備があるホテル"
+      },
+      {
+        "cTA1": {
+          "label": "カヌチャベイホテル\u0026ヴィラズ の魅力",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8710007/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ロワジールホテル 那覇 の宿泊プランを見る",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8715043/plan/",
+          "linkType": "URL"
+        },
+        "description": "沖縄美ら海水族館（海洋博公園）の近くに位置する、まるで隠れコテージのような癒しを与えてくれるリゾートホテル。ベビー用品が充実した赤ちゃん連れにも安心の客室が用意されています。うれしい戸建てタイプのコンドミニアムなので、自宅のようにリラックスした空間で、羽を伸ばして過ごせます。洗濯機、乾燥機がお部屋に設置されているので、お洋服を汚してもすぐに洗濯が可能。ベッドには添い寝ができるように、セミダブルを２台用意されています。疲れたママにはタイ古式マッサージでご褒美タイムを（要予約）。南国の気持ちいい風を受けながら、ぜいたくな沖縄タイムを過ごしましょう。",
+        "image": {
+          "height": 455,
+          "sourceUrl": "https://a.mktgcdn.com/p/9dwOAukf-wngrr3Vg8-BJZcPzehM97oNTiTFaZsnCDA/681x455.jpg",
+          "thumbnails": [
+            {
+              "height": 455,
+              "url": "https://a.mktgcdn.com/p-sandbox/k7L9TH81BNtZK4pT1agCvEFGzg7-kUwdGlqz_AI8ur0/681x455.jpg",
+              "width": 681
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/k7L9TH81BNtZK4pT1agCvEFGzg7-kUwdGlqz_AI8ur0/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/k7L9TH81BNtZK4pT1agCvEFGzg7-kUwdGlqz_AI8ur0/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/k7L9TH81BNtZK4pT1agCvEFGzg7-kUwdGlqz_AI8ur0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/k7L9TH81BNtZK4pT1agCvEFGzg7-kUwdGlqz_AI8ur0/681x455.jpg",
+          "width": 681
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "Fukugi Terrace【本部町】"
+      },
+      {
+        "cTA1": {
+          "label": "ロワジールホテル 那覇 の魅力",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8715043/remarks/",
+          "linkType": "URL"
+        },
+        "description": "沖縄美ら海水族館まで徒歩で約7分。エメラルドグリーンのビーチが目の前に広がる全室オーシャンビューのホテルです。伊江島を望む美しいサンセットは、忘れられない思い出になるでしょう。館内のビュッフェ形式のレストランとバーベキューが楽しめるレストランには、キッズメニューも用意されています。一部レストランでは離乳食も1品800円から用意が可能なので、相談してみましょう（1週間前までに要予約）。子供用のアメニティを完備したキッズルームは、かわいいお魚仕様になっています。壁に描かれたジンベエザメやクマノミと一緒におやすみできます。また、耐水おむつを着用していれば、赤ちゃんでも一緒に楽しめるプールも完備されています。",
+        "image": {
+          "height": 1018,
+          "sourceUrl": "https://a.mktgcdn.com/p/3zaXDZ8_PiYj_ELyiFQVCNZikucpEDXDFs3PVsF0AVQ/1536x1018.jpg",
+          "thumbnails": [
+            {
+              "height": 1018,
+              "url": "https://a.mktgcdn.com/p-sandbox/3zaXDZ8_PiYj_ELyiFQVCNZikucpEDXDFs3PVsF0AVQ/1536x1018.jpg",
+              "width": 1536
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/3zaXDZ8_PiYj_ELyiFQVCNZikucpEDXDFs3PVsF0AVQ/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/3zaXDZ8_PiYj_ELyiFQVCNZikucpEDXDFs3PVsF0AVQ/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/3zaXDZ8_PiYj_ELyiFQVCNZikucpEDXDFs3PVsF0AVQ/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3zaXDZ8_PiYj_ELyiFQVCNZikucpEDXDFs3PVsF0AVQ/1536x1018.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "オリオン モトブ リゾート\u0026スパ【本部町】"
+      },
+      {
+        "cTA1": {
+          "label": "「沖縄満喫クーポン」を使える沖縄旅行を探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/feature/tabisugo/",
+          "linkType": "OTHER"
+        },
+        "description": "雄大な景観が魅力の万座毛を望む好立地で、家族で楽しめるアクティビティも充実しています。まさに沖縄旅行の理想を叶えるリゾートホテルです。海中の世界を探索できる半潜水艇「サブマリンJr.II」やキッズゾーン付きガーデンプール（利用には水遊び用おむつ着用が必要）など、親子で楽しめる施設が揃っています。また、お子様に大人気のボーネルンドの遊具で遊べる「万座キッズプレイランド」も館内に設置。雨の日でも安心安全に遊べるのでうれしいポイントです。ベビーベッド、ベビーカーなどの赤ちゃん用品についてもレンタル可能です。沖縄らしい白い砂浜のビーチのそばで、家族で遊んで楽しく過ごしたい方におすすめのホテルです。",
+        "image": {
+          "height": 1266,
+          "sourceUrl": "https://a.mktgcdn.com/p/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+          "thumbnails": [
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/619x412.webp",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/600x400.webp",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/196x131.webp",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+          "width": 1900
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ANAインターコンチネンタル万座ビーチリゾート【恩納村】"
+      },
+      {
+        "cTA1": {
+          "label": "JTBラウンジについてもっとみる",
+          "link": "https://www.jtb.co.jp/kokunai/area/okinawa/lounge/",
+          "linkType": "OTHER"
+        },
+        "description": "約80万坪もの広大な敷地を誇る大型リゾート「カヌチャリゾート」内のリゾートホテル。9つの宿泊施設や、3つのプール（キッズ用あり）、ゴルフコース、レストラン、スパなどが点在し、まるでひとつの街のよう。客室はすべて約50㎡以上の広さ！ 都会では味わえない海や山に囲まれた自然が魅力です。さらに赤ちゃん連れの家族に優しいサービスも充実。レストランでは、離乳食も用意してもらえます（要予約）。敷地内にあるコンビニには、紙おむつや粉ミルクが販売しているので、いつでも買い足すことができます。また、6か月〜6才までのお子様を預かってもらえる「託児サービス」も完備されています。ご夫婦でゆったりとした時間を過ごしたいときに利用してみては？",
+        "image": {
+          "height": 1267,
+          "sourceUrl": "https://a.mktgcdn.com/p/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+          "thumbnails": [
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/619x413.webp",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/600x400.webp",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/196x131.webp",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+          "width": 1900
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "カヌチャベイホテル\u0026ヴィラズ【名護】"
+      },
+      {
+        "cTA1": {
+          "label": "赤ちゃん連れの旅行におすすめの沖縄ホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/feature/baby/",
+          "linkType": "OTHER"
+        },
+        "description": "那覇空港から車・タクシーで約7分の場所に位置する好立地が魅力のリゾートホテル。那覇市内唯一の源泉掛け流し天然温泉で体の疲れを取ることもできます。赤ちゃん連れにやさしいサービスが充実していることに定評があり、部屋の中に絵本やおもちゃ、お昼寝布団に、温度調整付ポットなどなど、ベビーグッズが完備されたベビールームプランが用意されています。また、人気の絵本を貸出しているキッズルームや、雨の日でも遊べる屋内プールも施設内に設けられています。レストランでは離乳食も無料で用意してもらえます（要予約）。至れり尽くせりなサービスなので、はじめての赤ちゃん連れの家族旅行にはぴったりです。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ロワジールホテル 那覇【那覇市】"
+      },
+      {
+        "description": "JTBでは、「旅の過ごし方対象プラン」で予約すると沖縄本島・離島合わせて32か所、滞在中に全施設1回ずつ利用できる「沖縄満喫クーポン」を利用できます。QRコードの提示だけで対象施設に入場できて便利。ナゴパイナップルパークやDINO恐竜PARK、おきなわワールドなど子どもが楽しめる施設が豊富なのがうれしいポイントです。石垣島や宮古島の施設も対象なので、長めの滞在で離島まで足を延ばしてみるのもおすすめですよ。32か所も含まれているので、1回の沖縄旅行で行きたいところすべてを観光できなかった方は、ぜひ次の沖縄旅行もJTBで予約して、「沖縄満喫クーポン」を活用してみてください！",
+        "sectionLevel": "h2",
+        "sectionTitle": "【JTB沖縄旅行の魅力】「沖縄満喫クーポン」で32か所料金不要"
+      },
+      {
+        "description": "「JTBラウンジ」があるホテルなら、いつでもラウンジでラグジュアリーなホテル滞在を楽しめるのも魅力。「JTBラウンジ」とは、ホテル滞在中なら毎日何度でも料金不要で利用できる、JTBのお客様専用のサービスです。スイーツ・ドリンク食べ飲み放題で、家族みんなが楽しめるサービスが満載！キッズスペースが完備されているホテルもあるので、思いっきり遊べますよ。例えば「ルネッサンスリゾート オキナワ」のJTBラウンジなら以下のような贅沢なサービス付き！・ホテル自慢のスイーツとソフトドリンクが食べ飲み放題・好みのトッピングでオリジナルクレープ作り・ハッピーアワーでアルコールドリンクとおつまみを楽しめるホテルを出ることなくアルコールを楽しめるのは、パパ・ママにとって嬉しいですよね。ぜひ沖縄旅行の際はJTBで予約して、ホテルステイを楽しみましょう！",
+        "sectionLevel": "h2",
+        "sectionTitle": "【JTB沖縄旅行の魅力】JTBラウンジ利用で快適なホテルステイ"
+      },
+      {
+        "description": "沖縄には、赤ちゃん連れでも安心な観光スポットがたくさんあります。旅行の計画を立てるには、エリアを絞ってから、行きたいスポットと宿泊するホテルを選ぶのがおすすめです！沖縄のゆったりとした時間を堪能しながら、赤ちゃんと楽しい思い出を作りましょう。※2024年2月時点の情報です。内容は変更になることがあります。",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．まとめ"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kokunai_0001",
+      "news_web_kokunai_0022",
+      "news_web_kokunai_0002",
+      "news_web_kokunai_0016"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2020-06-05",
+    "c_news_UpdateDate": "2024-05-24",
+    "c_news_ViewCount": "7809",
+    "c_news_ViewCount2of2": "7809",
+    "c_news_ViewCountNum": "7809",
+    "c_news_ViewCountNumForSorting": "481",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0019",
+    "name": "赤ちゃんと楽しむ沖縄旅行【0～2歳児】に優しい観光地\u0026ホテル",
+    "slug": "kokunai/okinawa/okinawa_all/news_web_kokunai_0019",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "$id": "guide_0001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "alternateText": "パリで行きたい人気観光スポット",
+      "height": 620,
+      "sourceUrl": "https://a.mktgcdn.com/p/4yUEulyoFUBg-_tV7XSs4T4K6_xS4B7XWgaE0Y4zzXg/1102x620.jpg",
+      "thumbnails": [
+        {
+          "height": 620,
+          "url": "https://a.mktgcdn.com/p-sandbox/4yUEulyoFUBg-_tV7XSs4T4K6_xS4B7XWgaE0Y4zzXg/1102x620.jpg",
+          "width": 1102
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p-sandbox/4yUEulyoFUBg-_tV7XSs4T4K6_xS4B7XWgaE0Y4zzXg/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p-sandbox/4yUEulyoFUBg-_tV7XSs4T4K6_xS4B7XWgaE0Y4zzXg/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p-sandbox/4yUEulyoFUBg-_tV7XSs4T4K6_xS4B7XWgaE0Y4zzXg/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/4yUEulyoFUBg-_tV7XSs4T4K6_xS4B7XWgaE0Y4zzXg/1102x620.jpg",
+      "width": 1102
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "パリの旅行・ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dFR\u0026sc.dest%5B0%5D.city\u003dPAR\u0026_gl\u003d1*re3ywx*_gcl_au*MTUzMDEwMDk4MC4xNzE2MjU1NjY4"
+      },
+      {
+        "linkText": "パリ行きの航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/europe/france/paris/?_gl\u003d1*re3ywx*_gcl_au*MTUzMDEwMDk4MC4xNzE2MjU1NjY4"
+      },
+      {
+        "linkText": "パリの現地ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aEUR/bFR/cPAR/"
+      }
+    ],
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "JTBのパリ支店スタッフがおすすめする、パリのおすすめ観光スポット10選をご紹介します。ルーブル美術館やベルサイユ宮殿など外せない名所はもちろん、パリジェンヌに愛される穴場レストランやカフェもピックアップ！ぜひパリ旅行の参考にしてみてください。",
+    "c_ap_Tags": [
+      "観光スポット",
+      "カフェ"
+    ],
+    "c_ap_Theme": [
+      "ウエディング",
+      "ハネムーン",
+      "建築・史跡",
+      "歴史・地理",
+      "美術鑑賞"
+    ],
+    "c_ap_Title": "パリで行きたい人気観光スポット！現地スタッフおすすめ",
+    "c_linkedArea3News": [
+      "france"
+    ],
+    "c_metaDescription": "JTBのパリ支店スタッフがおすすめする、パリのおすすめ観光スポット10選と楽しみ方をご紹介します。ルーブル美術館やベルサイユ宮殿など外せない名所はもちろん、パリジェンヌに愛される穴場カフェもピックアップ！ぜひパリ旅行の参考にしてみてください。",
+    "c_metaTitle": "パリで行きたい人気観光スポット！現地スタッフおすすめの楽しみ方も",
+    "c_news_CTAs": [
+      {
+        "label": "パリの旅行・ツアーを探す",
+        "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dFR\u0026sc.dest%5B0%5D.city\u003dPAR\u0026_gl\u003d1*re3ywx*_gcl_au*MTUzMDEwMDk4MC4xNzE2MjU1NjY4",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "パリ行きの航空券を探す",
+        "link": "https://www.jtb.co.jp/ovs_air_static/europe/france/paris/?_gl\u003d1*re3ywx*_gcl_au*MTUzMDEwMDk4MC4xNzE2MjU1NjY4",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "パリの現地ツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aEUR/bFR/cPAR/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "パリの現地ツアーを探す",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aEUR/bFR/cPAR/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "ルーブル美術館の現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/prddetail/p142402/",
+          "linkType": "OTHER"
+        },
+        "description": "パリ旅行に行ったら訪れたい、人気の観光スポットをご紹介します。",
+        "image": {
+          "alternateText": "ルーブル美術館",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/znSEBAZkLLDxVVtngBq4jcDu9FnBwNMi-OKqlbNzQu8/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/znSEBAZkLLDxVVtngBq4jcDu9FnBwNMi-OKqlbNzQu8/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/znSEBAZkLLDxVVtngBq4jcDu9FnBwNMi-OKqlbNzQu8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/znSEBAZkLLDxVVtngBq4jcDu9FnBwNMi-OKqlbNzQu8/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/znSEBAZkLLDxVVtngBq4jcDu9FnBwNMi-OKqlbNzQu8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/znSEBAZkLLDxVVtngBq4jcDu9FnBwNMi-OKqlbNzQu8/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "現地スタッフ撮影",
+        "sectionLevel": "h2",
+        "sectionTitle": "パリのおすすめ観光スポット"
+      },
+      {
+        "cTA1": {
+          "label": "ルーブル美術館の見どころをもっとみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/FR/2024/03/413_913585_1710580530.html",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "ベルサイユ宮殿の魅力をもっと知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/FR/2023/05/413_592952_1684236733.html",
+          "linkType": "OTHER"
+        },
+        "description": "世界最大規模の所蔵作品数を誇る「ルーブル美術館」は、パリに行くなら必ず訪れたいスポットです。「モナ・リザ」や「ミロのビーナス」、「民衆を導く自由の女神」など誰もが一度は教科書で目にしたことのある名画が揃っています。ルーブル美術館の建物自体は、もともと12世紀にフィリップ2世が城塞として建てたもの。その後改築や増築を重ね、城塞から宮殿、美術館へと姿を変えました。館内はとても広く、１日ではすべての作品を見きれません。名画や好みの画家の作品など、絶対に見ておきたい作品を先に決めておくのがおすすめ。地域や年代別に作品がまとまっているため、館内地図を予習してから訪れましょう！",
+        "image": {
+          "alternateText": "モナ・リザ",
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/--MJv8HkOT3LEZTTdPCx1I4NAcmwPVYqJBTEnGXJVzc/449x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/--MJv8HkOT3LEZTTdPCx1I4NAcmwPVYqJBTEnGXJVzc/449x600.jpg",
+              "width": 449
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/--MJv8HkOT3LEZTTdPCx1I4NAcmwPVYqJBTEnGXJVzc/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 262,
+              "url": "https://a.mktgcdn.com/p-sandbox/--MJv8HkOT3LEZTTdPCx1I4NAcmwPVYqJBTEnGXJVzc/196x262.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/--MJv8HkOT3LEZTTdPCx1I4NAcmwPVYqJBTEnGXJVzc/449x600.jpg",
+          "width": 449
+        },
+        "imageCaption": "©EPV, T. Garnier",
+        "sectionLevel": "h3",
+        "sectionTitle": "1. ルーブル美術館"
+      },
+      {
+        "cTA1": {
+          "label": "ベルサイユ宮殿を巡る現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/prddetail/p142407/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "モンマルトルの丘の現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist?keyWord\u003d%25E3%2583%25A2%25E3%2583%25B3%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2588%25E3%2583%25AB",
+          "linkType": "OTHER"
+        },
+        "description": "ルーブル美術館を訪れたら「モナ・リザ」は必見です。レオナルド・ダ・ヴィンチが描いた名画で、そのモデルや描かれた背景には未だ謎が多い作品です。イタリア絵画の展示室に続く、モナリザが展示されている小部屋に入ると、いつ訪れても多くの人が「モナ・リザ」の周りを囲んでいます。せっかくなら列に並んで、モナリザを真正面から眺めてみましょう！JTBでは日本語公認ガイドがルーブル美術館の作品を解説する現地ツアーを実施しています。「モナ・リザ」の魅力もしっかり解説するので、ぜひ参加してみてください！",
+        "image": {
+          "alternateText": "ベルサイユ宮殿",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/m_z8dNMbZsYRoyHPiesHwXu3QWg2vmLi7R1J9UfK4FI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/m_z8dNMbZsYRoyHPiesHwXu3QWg2vmLi7R1J9UfK4FI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/m_z8dNMbZsYRoyHPiesHwXu3QWg2vmLi7R1J9UfK4FI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/m_z8dNMbZsYRoyHPiesHwXu3QWg2vmLi7R1J9UfK4FI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/m_z8dNMbZsYRoyHPiesHwXu3QWg2vmLi7R1J9UfK4FI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/m_z8dNMbZsYRoyHPiesHwXu3QWg2vmLi7R1J9UfK4FI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "現地スタッフ撮影",
+        "sectionLevel": "h4",
+        "sectionTitle": "モナ・リザは必見"
+      },
+      {
+        "cTA1": {
+          "label": "モンマルトルの丘の魅力をもっと知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/FR/2023/10/413_207697_1696577492.html",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "パリ行の航空券を探す",
+          "link": "https://www.jtb.co.jp/ovs_air_static/europe/france/paris/",
+          "linkType": "OTHER"
+        },
+        "description": "ルイ14世が建てた「ベルサイユ宮殿」は、フランスを象徴する豪華絢爛な宮殿です。かつては王室の政治的中心地で、フランスの芸術文化の発展に大きな影響を与えました。美しく設計された庭園とともに世界遺産に登録されています。パリ郊外に位置しているため、パリ中心地から電車で約30～40分かかります。うまく旅程に組み込みましょう！",
+        "image": {
+          "alternateText": "鏡の間",
+          "height": 672,
+          "sourceUrl": "https://a.mktgcdn.com/p/F42qIcjW-4gZ2sjrJU-aio1VxWbIfRnbtwtSLvI5hrk/1200x672.jpg",
+          "thumbnails": [
+            {
+              "height": 672,
+              "url": "https://a.mktgcdn.com/p-sandbox/F42qIcjW-4gZ2sjrJU-aio1VxWbIfRnbtwtSLvI5hrk/1200x672.jpg",
+              "width": 1200
+            },
+            {
+              "height": 347,
+              "url": "https://a.mktgcdn.com/p-sandbox/F42qIcjW-4gZ2sjrJU-aio1VxWbIfRnbtwtSLvI5hrk/619x347.jpg",
+              "width": 619
+            },
+            {
+              "height": 336,
+              "url": "https://a.mktgcdn.com/p-sandbox/F42qIcjW-4gZ2sjrJU-aio1VxWbIfRnbtwtSLvI5hrk/600x336.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/F42qIcjW-4gZ2sjrJU-aio1VxWbIfRnbtwtSLvI5hrk/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/F42qIcjW-4gZ2sjrJU-aio1VxWbIfRnbtwtSLvI5hrk/1200x672.jpg",
+          "width": 1200
+        },
+        "imageCaption": "現地スタッフ撮影",
+        "sectionLevel": "h3",
+        "sectionTitle": "2. ベルサイユ宮殿"
+      },
+      {
+        "cTA1": {
+          "label": "ムーラン・ルージュのディナーショーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/prddetail/p200003752/",
+          "linkType": "OTHER"
+        },
+        "description": "クリスタルのシャンデリアに、300枚を超える鏡で装飾されたゴージャスな「鏡の間」は、ベルサイユ宮殿の見どころのひとつ。宮殿内最大規模の部屋には太陽光が差し込み、キラキラと輝いています。開放感のある高い天井には、ルイ14世の第一画家の「シャルル・ルブラン」が描いたストーリーのある作品で埋め尽くされています。JTBでは日本語公認ガイドがベルサイユ宮殿の魅力を案内するガイドツアーを実施しています。パリ中心部からベルサイユ宮殿の目の前までバスで直行するので移動もラクラク！ぜひパリ旅行の間に参加してみてください！",
+        "image": {
+          "alternateText": "モンマルトルの丘",
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/Atl1sG7LsYQ6AFkltRnpggLcv6X_ESdINpUq4IktiJE/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/Atl1sG7LsYQ6AFkltRnpggLcv6X_ESdINpUq4IktiJE/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/Atl1sG7LsYQ6AFkltRnpggLcv6X_ESdINpUq4IktiJE/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Atl1sG7LsYQ6AFkltRnpggLcv6X_ESdINpUq4IktiJE/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Atl1sG7LsYQ6AFkltRnpggLcv6X_ESdINpUq4IktiJE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Atl1sG7LsYQ6AFkltRnpggLcv6X_ESdINpUq4IktiJE/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "現地スタッフ撮影",
+        "sectionLevel": "h4",
+        "sectionTitle": "ゴージャスな鏡の間に圧倒"
+      },
+      {
+        "cTA1": {
+          "label": "凱旋門の現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/?keyWord\u003d%25E5%2587%25B1%25E6%2597%258B%25E9%2596%2580",
+          "linkType": "OTHER"
+        },
+        "description": "パリの北部に位置するモンマルトルは、かつてより芸術家が集う場所として知られていました。19世紀後半から20世紀にかけてはピカソやゴッホなどもこの地で創作活動に勤しみ、今でも多くのスタジオやギャラリーが点在しています。石畳の小道や歴史ある建物など、パリらしい風情ある町並みも魅力。カフェやレストランもたくさん並んでいるので、散策途中にホッと一息つくのもおすすめです。",
+        "image": {
+          "alternateText": "サクレクール寺院",
+          "height": 805,
+          "sourceUrl": "https://a.mktgcdn.com/p/sabM0p__VjimSb9FbsluzgwoODHDQqkUjmeLrJ3Galc/1200x805.jpg",
+          "thumbnails": [
+            {
+              "height": 805,
+              "url": "https://a.mktgcdn.com/p-sandbox/sabM0p__VjimSb9FbsluzgwoODHDQqkUjmeLrJ3Galc/1200x805.jpg",
+              "width": 1200
+            },
+            {
+              "height": 415,
+              "url": "https://a.mktgcdn.com/p-sandbox/sabM0p__VjimSb9FbsluzgwoODHDQqkUjmeLrJ3Galc/619x415.jpg",
+              "width": 619
+            },
+            {
+              "height": 403,
+              "url": "https://a.mktgcdn.com/p-sandbox/sabM0p__VjimSb9FbsluzgwoODHDQqkUjmeLrJ3Galc/600x403.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/sabM0p__VjimSb9FbsluzgwoODHDQqkUjmeLrJ3Galc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sabM0p__VjimSb9FbsluzgwoODHDQqkUjmeLrJ3Galc/1200x805.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "3. モンマルトルの丘"
+      },
+      {
+        "cTA1": {
+          "label": "エッフェル塔の現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/?keyWord\u003d%25E3%2582%25A8%25E3%2583%2583%25E3%2583%2595%25E3%2582%25A7%25E3%2583%25AB%25E5%25A1%2594",
+          "linkType": "OTHER"
+        },
+        "description": "モンマルトルの丘の頂上にそびえるサクレクール寺院は、白く輝く外観と、パリ市街を一望できる絶景が魅力の観光スポット。特に空が色づき始める夕暮れ前時の景色はロマンチックで、幻想的な雰囲気です。寺院内部にはキリストの昇天を描いたモザイク画やステンドグラスがあり、芸術的価値も高い場所。陽の光に照らされてキラキラと輝くステンドグラスは圧巻です。",
+        "image": {
+          "alternateText": "凱旋門",
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/dLzXj7pL-pm1LTp43ZURD6d4ah8FthkPI-NmnPzHRNQ/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/dLzXj7pL-pm1LTp43ZURD6d4ah8FthkPI-NmnPzHRNQ/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/dLzXj7pL-pm1LTp43ZURD6d4ah8FthkPI-NmnPzHRNQ/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dLzXj7pL-pm1LTp43ZURD6d4ah8FthkPI-NmnPzHRNQ/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/dLzXj7pL-pm1LTp43ZURD6d4ah8FthkPI-NmnPzHRNQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dLzXj7pL-pm1LTp43ZURD6d4ah8FthkPI-NmnPzHRNQ/1200x900.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "4. サクレクール寺院"
+      },
+      {
+        "cTA1": {
+          "label": "セーヌ川の現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/?keyWord\u003d%25E3%2582%25BB%25E3%2583%25BC%25E3%2583%258C%25E5%25B7%259D",
+          "linkType": "OTHER"
+        },
+        "description": "パリのエンタメを象徴する「ムーラン・ルージュ」は、1889年の開業以来、華やかなショーとロマンチックな雰囲気を体験しようと世界中から観光客が訪れるスポットです。ダンスのひとつである「フレンチカンカン」の発祥地としても知られており、きらびやかな衣装とエネルギッシュなダンスが観客を魅了し続けています。映画「ムーラン・ルージュ」の舞台としても有名な場所です。",
+        "image": {
+          "alternateText": "エッフェル塔",
+          "height": 595,
+          "sourceUrl": "https://a.mktgcdn.com/p/R8nt1117f84Rd4Ahd04UoXa9K_iizsKKvgGbvSFhG2o/1200x595.jpg",
+          "thumbnails": [
+            {
+              "height": 595,
+              "url": "https://a.mktgcdn.com/p-sandbox/R8nt1117f84Rd4Ahd04UoXa9K_iizsKKvgGbvSFhG2o/1200x595.jpg",
+              "width": 1200
+            },
+            {
+              "height": 307,
+              "url": "https://a.mktgcdn.com/p-sandbox/R8nt1117f84Rd4Ahd04UoXa9K_iizsKKvgGbvSFhG2o/619x307.jpg",
+              "width": 619
+            },
+            {
+              "height": 298,
+              "url": "https://a.mktgcdn.com/p-sandbox/R8nt1117f84Rd4Ahd04UoXa9K_iizsKKvgGbvSFhG2o/600x298.jpg",
+              "width": 600
+            },
+            {
+              "height": 97,
+              "url": "https://a.mktgcdn.com/p-sandbox/R8nt1117f84Rd4Ahd04UoXa9K_iizsKKvgGbvSFhG2o/196x97.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/R8nt1117f84Rd4Ahd04UoXa9K_iizsKKvgGbvSFhG2o/1200x595.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "5. ムーランルージュ"
+      },
+      {
+        "cTA1": {
+          "label": "パリの旅行・ツアーを探す",
+          "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dFR\u0026sc.dest%5B0%5D.city\u003dPAR",
+          "linkType": "OTHER"
+        },
+        "description": "パリ観光では外せない「凱旋門」は、その大規模かつ美しい建築が魅力。高さ50m、幅45mもの規模で、実物を見ると圧倒されます。建築自体が美術作品のため、よく見ると細部までこだわられていることがわかります。凱旋門の上ははパリ市内を一望できるスポットで、特にシャンゼリゼ通りやエッフェル塔の眺望は絶景！ぜひ上まで登ってパリの歴史を体感しましょう！",
+        "image": {
+          "alternateText": "シャンゼリゼ通り",
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/DWpqC3sO5ReuBUu1t_kzPc9k5jeAjSbcMX_qxlpnn_s/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/DWpqC3sO5ReuBUu1t_kzPc9k5jeAjSbcMX_qxlpnn_s/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/DWpqC3sO5ReuBUu1t_kzPc9k5jeAjSbcMX_qxlpnn_s/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/DWpqC3sO5ReuBUu1t_kzPc9k5jeAjSbcMX_qxlpnn_s/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/DWpqC3sO5ReuBUu1t_kzPc9k5jeAjSbcMX_qxlpnn_s/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DWpqC3sO5ReuBUu1t_kzPc9k5jeAjSbcMX_qxlpnn_s/1200x900.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "6. 凱旋門"
+      },
+      {
+        "cTA1": {
+          "label": "クリニャンクール蚤の市の魅力をもっと知る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/FR/2024/05/413_434407_1715516110.html",
+          "linkType": "OTHER"
+        },
+        "description": "凱旋門と並び、パリのランドマークともいえるエッフェル塔は、1889年のパリ万博のために建設された塔です。その独特な形状と、パリ中心地では存在感のある高さが、一度見たら忘れられない印象を残してくれます。夜間のライトアップも人気。キラキラと点滅する姿が昼間とはまた違った雰囲気を作り、パリの夜景を一層華やかに彩ります。パリを訪れたら、日が沈んだ後の夜景まで楽しみましょう！",
+        "image": {
+          "alternateText": "セーヌ川",
+          "height": 620,
+          "sourceUrl": "https://a.mktgcdn.com/p/R9QNEy-ixZYxTO1JX2SrmDIohgw9pBVVw3v6s9l29_s/1200x620.jpg",
+          "thumbnails": [
+            {
+              "height": 620,
+              "url": "https://a.mktgcdn.com/p-sandbox/R9QNEy-ixZYxTO1JX2SrmDIohgw9pBVVw3v6s9l29_s/1200x620.jpg",
+              "width": 1200
+            },
+            {
+              "height": 320,
+              "url": "https://a.mktgcdn.com/p-sandbox/R9QNEy-ixZYxTO1JX2SrmDIohgw9pBVVw3v6s9l29_s/619x320.jpg",
+              "width": 619
+            },
+            {
+              "height": 310,
+              "url": "https://a.mktgcdn.com/p-sandbox/R9QNEy-ixZYxTO1JX2SrmDIohgw9pBVVw3v6s9l29_s/600x310.jpg",
+              "width": 600
+            },
+            {
+              "height": 101,
+              "url": "https://a.mktgcdn.com/p-sandbox/R9QNEy-ixZYxTO1JX2SrmDIohgw9pBVVw3v6s9l29_s/196x101.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/R9QNEy-ixZYxTO1JX2SrmDIohgw9pBVVw3v6s9l29_s/1200x620.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "7. エッフェル塔"
+      },
+      {
+        "cTA1": {
+          "label": "ベルサイユ宮殿のカフェをもっとみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/FR/2016/06/versailles.html",
+          "linkType": "OTHER"
+        },
+        "description": "パリの中心に位置するシャンゼリゼ通りは、おしゃれなブティックやカフェ、レストランなどが並ぶメインストリート。世界的な高級ブランドの店舗が並び、ファッションやジュエリー、化粧品などのショッピングを楽しめます。また、王道のフレンチ料理店やカフェでパリの街並みを眺めながらグルメを堪能するのもおすすめ。パリジェンヌ気分を味わえます。さらに、パレードやイルミネーションなど年間をとして様々なイベントが開催されているので、活気あふれる雰囲気を満喫しましょう！",
+        "image": {
+          "alternateText": "コンコルド広場",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/2axqUK41j5bt2rDMWrebq9JKIVP4kRoS5hl6E5DPmIY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/2axqUK41j5bt2rDMWrebq9JKIVP4kRoS5hl6E5DPmIY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/2axqUK41j5bt2rDMWrebq9JKIVP4kRoS5hl6E5DPmIY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/2axqUK41j5bt2rDMWrebq9JKIVP4kRoS5hl6E5DPmIY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/2axqUK41j5bt2rDMWrebq9JKIVP4kRoS5hl6E5DPmIY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2axqUK41j5bt2rDMWrebq9JKIVP4kRoS5hl6E5DPmIY/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "8. シャンゼリゼ通り"
+      },
+      {
+        "cTA1": {
+          "label": "パリのイルミネーション現地レポートをみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/FR/2019/12/413_805084_1576571936.html",
+          "linkType": "OTHER"
+        },
+        "description": "有名な観光スポットに囲まれたセーヌ川は、パリの魅力を存分に感じられる場所。ノートルダム大聖堂やルーブル美術館など歴史的な建造物が河川沿いに立ち並び、フランスの歴史と文化を体感できます。セーヌ川からパリの景色を堪能できるリバークルーズは特におすすめ！周囲の景色をしっかり鑑賞できる昼間のクルーズはもちろん、オレンジ色にライトアップされた夜景を楽しめる夜のクルーズも魅力的です。",
+        "image": {
+          "alternateText": "クリニャンクール蚤の市",
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/q24Y0jdDiZH2orF9YFhQNvXONUmQViGmktelhIAy7UI/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/q24Y0jdDiZH2orF9YFhQNvXONUmQViGmktelhIAy7UI/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/q24Y0jdDiZH2orF9YFhQNvXONUmQViGmktelhIAy7UI/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/q24Y0jdDiZH2orF9YFhQNvXONUmQViGmktelhIAy7UI/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/q24Y0jdDiZH2orF9YFhQNvXONUmQViGmktelhIAy7UI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/q24Y0jdDiZH2orF9YFhQNvXONUmQViGmktelhIAy7UI/1200x900.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "9. セーヌ川"
+      },
+      {
+        "description": "コンコルド広場は、目の前にセーヌ川が流れるパリで最も有名な広場です。今や噴水や彫刻が穏やかな景色を作っていますが、かつては処刑場として使われていたという歴史的背景があります。フランス革命期にはルイ16世やマリー・アントワネットが処刑されたことでも知られる場所です。広場からはシャンゼリゼ通りや凱旋門、ルーブル美術館などパリの主要観光地を見渡せるのも魅力。それぞれの観光地を訪れるのにコンコルド広場を歩いて経由してみましょう！",
+        "image": {
+          "alternateText": "ショコラ・ショー・アフリカン",
+          "height": 901,
+          "sourceUrl": "https://a.mktgcdn.com/p/uqJ9QARBDJOG5mlnkH2ZmiH2BWcPOyxxBWDsQHHOY5w/1200x901.jpg",
+          "thumbnails": [
+            {
+              "height": 901,
+              "url": "https://a.mktgcdn.com/p-sandbox/uqJ9QARBDJOG5mlnkH2ZmiH2BWcPOyxxBWDsQHHOY5w/1200x901.jpg",
+              "width": 1200
+            },
+            {
+              "height": 465,
+              "url": "https://a.mktgcdn.com/p-sandbox/uqJ9QARBDJOG5mlnkH2ZmiH2BWcPOyxxBWDsQHHOY5w/619x465.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/uqJ9QARBDJOG5mlnkH2ZmiH2BWcPOyxxBWDsQHHOY5w/599x450.jpg",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/uqJ9QARBDJOG5mlnkH2ZmiH2BWcPOyxxBWDsQHHOY5w/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uqJ9QARBDJOG5mlnkH2ZmiH2BWcPOyxxBWDsQHHOY5w/1200x901.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "10. コンコルド広場"
+      },
+      {
+        "description": "JTBのパリ現地スタッフがおすすめする、パリの楽しみ方をご紹介します。人気観光スポットを巡るのはもちろん、パリでしかできない楽しみ方を知っておくと、より充実した旅行になりますよ。",
+        "image": {
+          "alternateText": "パリのイルミネーション",
+          "height": 738,
+          "sourceUrl": "https://a.mktgcdn.com/p/v0LYjVdrm5y1DPZPiNkPxdtIo_7C1cpCDi4aw11p_CQ/1200x738.jpg",
+          "thumbnails": [
+            {
+              "height": 738,
+              "url": "https://a.mktgcdn.com/p-sandbox/v0LYjVdrm5y1DPZPiNkPxdtIo_7C1cpCDi4aw11p_CQ/1200x738.jpg",
+              "width": 1200
+            },
+            {
+              "height": 381,
+              "url": "https://a.mktgcdn.com/p-sandbox/v0LYjVdrm5y1DPZPiNkPxdtIo_7C1cpCDi4aw11p_CQ/619x381.jpg",
+              "width": 619
+            },
+            {
+              "height": 369,
+              "url": "https://a.mktgcdn.com/p-sandbox/v0LYjVdrm5y1DPZPiNkPxdtIo_7C1cpCDi4aw11p_CQ/600x369.jpg",
+              "width": 600
+            },
+            {
+              "height": 121,
+              "url": "https://a.mktgcdn.com/p-sandbox/v0LYjVdrm5y1DPZPiNkPxdtIo_7C1cpCDi4aw11p_CQ/196x121.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/v0LYjVdrm5y1DPZPiNkPxdtIo_7C1cpCDi4aw11p_CQ/1200x738.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "現地スタッフおすすめ！パリの楽しみ方"
+      },
+      {
+        "description": "「クリニャンクール蚤の市」は、パリ最大の蚤の市。約3,000軒の露店が並び、アクセサリーや食器、家具などさまざまなアンティークアイテムが販売されています。フランスの日常で使われていた骨董品はおみやげにぴったり！日本に帰ってもフランスの雰囲気を思い出せます。蚤の市で掘り出された一品一品にはそれぞれ物語があり、フランスの歴史や文化をより深く知れるのも魅力。蚤の市を訪れた後は、パリの街を散策するのがおすすめです。蚤の市で見つけた一品と共に、パリの魅力を存分に楽しみましょう！",
+        "sectionLevel": "h3",
+        "sectionTitle": "クリニャンクール蚤の市で掘り出し物探し"
+      },
+      {
+        "description": "パリを訪れたら、おしゃれなカフェでティータイムを楽しみたいですよね。パリ市内にはカフェが多く特にシャンゼリゼ通りには人気のカフェが並んでいます。パリ中心部のカフェもいいですが、ベルサイユ宮殿内にもカフェやレストランが多く、優雅なティータイムを過ごせます。宮殿内にある「サロン・ド・テ　アンジェリーナ」では、クロックムッシューやキッシュ、オムレツなど軽食にぴったりなメニューが揃っています。特に人気なのが、看板メニュー「ショコラ・ショー・アフリカン（ホットチョコレート）」！フランス宮廷で17世紀ごろから飲まれるようになったホットチョコレートは、外せない一品です。上質なカカオをブレンドしたリッチな味わいを堪能できます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "パリジェンヌも愛するカフェで一休み"
+      },
+      {
+        "description": "「光の都」とも称されるパリでは、12月と1月にイルミネーションを実施しています。パリの美しさがイルミネーションで一層際立つ冬のシーズンは、日が沈んだ後の夜景も見逃せません！街全体がキラキラと輝き、ロマンチックな雰囲気に包まれます。特にクリスマス時期のイルミネーションは人気で、有名ブランドが立ち並ぶ通りでは各店舗が外観をデコレーション！治安にはしっかり気を付けながら、夜のパリを散策してみましょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "クリスマスシーズンのイルミネーション"
+      },
+      {
+        "description": "本記事では、パリ旅行で訪れたい観光スポットと、おすすめの楽しみ方をご紹介しました。ルーブル美術館やベルサイユ宮殿など定番の名所を観光するのはもちろん、カフェで一休みしたり蚤の市でお土産を探したりと様々な楽しみ方ができますよ。充実したパリ旅行を過ごしましょう！",
+        "sectionLevel": "h2",
+        "sectionTitle": "憧れのパリで名所を巡る旅を楽しもう！"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0020",
+      "news_web_kaigai_0018",
+      "news_web_kaigai_0017",
+      "news_web_kaigai_0014"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2024-06-19",
+    "c_news_UpdateDate": "2024-06-20",
+    "c_news_ViewCount": "17262",
+    "c_news_ViewCount2of2": "17262",
+    "c_news_ViewCountNum": "17262",
+    "c_news_ViewCountNumForSorting": "1491",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/europe/france/guide_0001",
+    "c_relatedAreas": [
+      "france"
+    ],
+    "name": "パリで行きたい人気観光スポット！現地スタッフおすすめの楽しみ方も",
+    "slug": "kaigai/europe/france/guide_0001",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

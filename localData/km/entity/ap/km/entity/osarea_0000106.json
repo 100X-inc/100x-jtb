@@ -1,0 +1,289 @@
+{
+  "$id": "ap_osarea_0000106",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "アルプスの森と湖の自然の中に建つ「ノイシュヴァンシュタイン城」。この白亜の古城は、バイエルン王国・ルートヴィヒ2世の命で着工されましたが、彼の死によって一部は未完のまま。政治に関心を示さず、中世騎士物語とワーグナーを愛した王の情熱が存分に反映された場内は、城見学のハイライト。ワーグナーがオペラの題材にした『パルジファル』の伝説を描いた絵画で覆われた歌人の間など各部屋は圧巻の美しさです。なお見学は所要30分のガイドツアーのみで、各部屋をゆっくり見学する時間がないので、主な見どころは事前にチェックしておくのがおすすめです。DATASchloss Neuschwanstein住所：Alpseestr. 12営業時間：チケットセンター8～16時（10～3月は～15時）定休日：なし料金：€15※修復工事中のため一部見学不可",
+        "image": {
+          "alternateText": "城と森、湖が織りなすロマンチックな風景",
+          "height": 1333,
+          "sourceUrl": "https://a.mktgcdn.com/p/z4j1cNXDUErglRtGWmVFj_xukjAZYitdD6RgeexXI3Y/2000x1333.jpg",
+          "thumbnails": [
+            {
+              "height": 1333,
+              "url": "https://a.mktgcdn.com/p-sandbox/q1ry6NwFkd318FNFIaxSfrXJ6J7OxTw2dQCy6x8lcSk/2000x1333.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/q1ry6NwFkd318FNFIaxSfrXJ6J7OxTw2dQCy6x8lcSk/1900x1266.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/q1ry6NwFkd318FNFIaxSfrXJ6J7OxTw2dQCy6x8lcSk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/q1ry6NwFkd318FNFIaxSfrXJ6J7OxTw2dQCy6x8lcSk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/q1ry6NwFkd318FNFIaxSfrXJ6J7OxTw2dQCy6x8lcSk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/q1ry6NwFkd318FNFIaxSfrXJ6J7OxTw2dQCy6x8lcSk/2000x1333.jpg",
+          "width": 2000
+        },
+        "imageCaption": "城と森、湖が織りなすロマンチックな風景",
+        "sectionTitle": "ノイシュヴァンシュタイン城（Schloss Neuschwanstein）"
+      },
+      {
+        "description": "アルプスの美しい自然に込まれた街、ホーエンシュヴァンガウ。ノイシュヴァンシュタイン城のほかにも王家ゆかりのスポットがあり、その華やかな暮らしにふれることができます。例えばルートヴィヒ2世が少年時代を過ごした「ホーエンシュヴァンガウ城」や、ヴィッテルスバッハ家の歴史を紹介する「バイエルン王家博物館」など。調度品や宝飾品などが展示されており、王家の暮らしぶりを垣間見ることができます。また、この小さな街には城や湖を眺めながら南バイエルン地方の料理や地ビールが堪能できるグルメスポットもあるので、1日のんびり過ごすのもおすすめです。DATAHohenschwangau（観光案内所）住所：Alpseestr. 2営業時間：10時～17時30分（11～3月は～16時30分）定休日：なし（冬期不定休）",
+        "image": {
+          "alternateText": "モダンな外観のバイエルン王家博物館",
+          "height": 1149,
+          "sourceUrl": "https://a.mktgcdn.com/p/qtwxks2E5p4Q2vqT4krMVJ2w1zIJXI1y4WbD4QMqu7w/1725x1149.jpg",
+          "thumbnails": [
+            {
+              "height": 1149,
+              "url": "https://a.mktgcdn.com/p-sandbox/_OO5kPI2x5SpYM-MWoNwnanOtgif6x7iBOtdYbUqUUE/1725x1149.jpg",
+              "width": 1725
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/_OO5kPI2x5SpYM-MWoNwnanOtgif6x7iBOtdYbUqUUE/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/_OO5kPI2x5SpYM-MWoNwnanOtgif6x7iBOtdYbUqUUE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/_OO5kPI2x5SpYM-MWoNwnanOtgif6x7iBOtdYbUqUUE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_OO5kPI2x5SpYM-MWoNwnanOtgif6x7iBOtdYbUqUUE/1725x1149.jpg",
+          "width": 1725
+        },
+        "imageCaption": "モダンな外観のバイエルン王家博物館",
+        "sectionTitle": "ホーエンシュヴァンガウ（Hohenschwangau）"
+      },
+      {
+        "description": "“牧草の教会”を意味する「ヴィース教会」は、その名の通り、アルプス山麓の広大な牧草地に佇む1754年に完成した教会です。外観はシンプルですが、堂内に一歩足を踏み入れると、ロココ様式の最高峰といわれる美しい身廊と内陣が目の前に広がり、思わず見入ってしまうほど。中央に『鞭打たれるキリスト像』、左手の説教壇下に天使像、最上部に子羊の彫像がある主祭壇は必見です。また『キリストの再臨』を表現した淡青色で描かれた大天井のフレスコ画もお見逃しなく！DATAWieskirche住所：Wies 12, Steingaden営業時間：8～20時（冬期は～17時）定休日：なし料金：無料（寄付は受付）",
+        "image": {
+          "alternateText": "1983年に世界遺産に登録されたヴィース教会",
+          "height": 2000,
+          "sourceUrl": "https://a.mktgcdn.com/p/LWG4dIliKeaKaa_6HFbi-icLZ16eYUTxPHO_ihJGvGg/1333x2000.jpg",
+          "thumbnails": [
+            {
+              "height": 2000,
+              "url": "https://a.mktgcdn.com/p-sandbox/fOxxLSzeQEEz30O1loreL-3PfKufDtTpiZHItlh89V0/1333x2000.jpg",
+              "width": 1333
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/fOxxLSzeQEEz30O1loreL-3PfKufDtTpiZHItlh89V0/1266x1900.jpg",
+              "width": 1266
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/fOxxLSzeQEEz30O1loreL-3PfKufDtTpiZHItlh89V0/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/fOxxLSzeQEEz30O1loreL-3PfKufDtTpiZHItlh89V0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/fOxxLSzeQEEz30O1loreL-3PfKufDtTpiZHItlh89V0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fOxxLSzeQEEz30O1loreL-3PfKufDtTpiZHItlh89V0/1333x2000.jpg",
+          "width": 1333
+        },
+        "imageCaption": "1983年に世界遺産に登録されたヴィース教会",
+        "sectionTitle": "ヴィース教会（Wieskirche）"
+      },
+      {
+        "description": "ロマンチック街道随一の美しい木組みの家が並ぶ街、ディンケルスビュール。実は幾多の戦災から免れたことで、中世の城壁と街並みがそのままの姿で残る貴重な場所なんです。7層の木組みが美しい15世紀建造の家「ドイチェス・ハウス」や、15世紀に建てられたゴシック様式の教会でステンドグラスの装飾も見事な「聖ゲオルク大聖堂」は、ぜひ訪ねたい人気スポット。目抜き通りのゼークリンガー通りは端から端まで歩いても15分ほどの距離なので、中世にタイムトリップしたかのような気分に浸りながら街を散策してみてください。DATADinkelsbühl（観光案内所）住所：Altrathauspl. 14営業時間：9～18時（土・日曜は10～17時）、11～4月は10時～17時30分（土・日曜、祝日は～16時）定休日：なし",
+        "image": {
+          "alternateText": "絵本のような可愛らしい街並みが魅力",
+          "height": 1317,
+          "sourceUrl": "https://a.mktgcdn.com/p/KHc1Z549UhcAHGgjS25yQE8MYaKb-6E8ZHdp06sQKGY/878x1317.jpg",
+          "thumbnails": [
+            {
+              "height": 1317,
+              "url": "https://a.mktgcdn.com/p-sandbox/UltTz67Dh9gDcbjS2wKblHuDmo2TMbfDgNrzyTCAotk/878x1317.jpg",
+              "width": 878
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/UltTz67Dh9gDcbjS2wKblHuDmo2TMbfDgNrzyTCAotk/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/UltTz67Dh9gDcbjS2wKblHuDmo2TMbfDgNrzyTCAotk/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/UltTz67Dh9gDcbjS2wKblHuDmo2TMbfDgNrzyTCAotk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/UltTz67Dh9gDcbjS2wKblHuDmo2TMbfDgNrzyTCAotk/878x1317.jpg",
+          "width": 878
+        },
+        "imageCaption": "ホテル兼レストランとして宿泊もできるドイチェス・ハウス",
+        "sectionTitle": "ディンケルスビュール（Dinkelsbühl）"
+      },
+      {
+        "description": "12～15世紀、中継貿易都市として栄えた頃の街並みがそのまま保存されているローテンブルクは、ロマンチック街道の中でも人気の高い街です。タウバー川沿いの高台に広がる全長3.4kmの市壁に囲まれた旧市街は、ゴシック様式の教会や三角屋根のカラフルな建物が並び、中世の趣がそのまま残されています。道が二手に分かれる一角に木組みの家が立ち、絵はがきのような景観の「プレ使徒ーンライン」や、『最後の晩餐』の彫刻や十二使徒祭壇など見どころが多い「聖ヤコブ教会」などはぜひ足を運びたいスポット。ひも状の平たい生地をボール状に丸めて油で揚げた街の名物スイーツ「シュネーバル」もぜひお試しを。DATARothenburg ob der Tauber（観光案内所）住所：Marktpl. 2営業時間：9～17時(土・日曜、祝日は10時～)※曜日・季節で変動あり定休日：11月・11～4月の日曜、祝日、12月の祝日※2023年3月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。",
+        "image": {
+          "height": 1334,
+          "sourceUrl": "https://a.mktgcdn.com/p/a4YTvW915mwf7QfvS43lwpb7mhfYckrP0YUoSxVjHP0/2000x1334.jpg",
+          "thumbnails": [
+            {
+              "height": 1334,
+              "url": "https://a.mktgcdn.com/p-sandbox/W-cPyTPrljqSRZL7fSN3tUI1X44bNEhTnILh3ni9AdA/2000x1334.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/W-cPyTPrljqSRZL7fSN3tUI1X44bNEhTnILh3ni9AdA/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/W-cPyTPrljqSRZL7fSN3tUI1X44bNEhTnILh3ni9AdA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/W-cPyTPrljqSRZL7fSN3tUI1X44bNEhTnILh3ni9AdA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/W-cPyTPrljqSRZL7fSN3tUI1X44bNEhTnILh3ni9AdA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/W-cPyTPrljqSRZL7fSN3tUI1X44bNEhTnILh3ni9AdA/2000x1334.jpg",
+          "width": 2000
+        },
+        "imageCaption": "絵本のような可愛らしい街並みが魅力",
+        "sectionTitle": "ローテンブルク（Rothenburg ob der Tauber）"
+      }
+    ],
+    "c_ap_DatePosted": "2023-09-13",
+    "c_ap_HeroImage": {
+      "alternateText": "旅情たっぷり　ロマンチック街道の街＆スポット5選【ドイツ】",
+      "height": 1391,
+      "sourceUrl": "https://a.mktgcdn.com/p/4xtXhe0ZphKHDJWp24qT4F_tdk6NJFbfTaF82sCaCEQ/2000x1391.jpg",
+      "thumbnails": [
+        {
+          "height": 1391,
+          "url": "https://a.mktgcdn.com/p-sandbox/t1FWvbE6gknnhJ7RRVB7cshpVVd24DW-nKBcV_C--D0/2000x1391.jpg",
+          "width": 2000
+        },
+        {
+          "height": 1321,
+          "url": "https://a.mktgcdn.com/p-sandbox/t1FWvbE6gknnhJ7RRVB7cshpVVd24DW-nKBcV_C--D0/1900x1321.jpg",
+          "width": 1900
+        },
+        {
+          "height": 431,
+          "url": "https://a.mktgcdn.com/p-sandbox/t1FWvbE6gknnhJ7RRVB7cshpVVd24DW-nKBcV_C--D0/619x431.jpg",
+          "width": 619
+        },
+        {
+          "height": 417,
+          "url": "https://a.mktgcdn.com/p-sandbox/t1FWvbE6gknnhJ7RRVB7cshpVVd24DW-nKBcV_C--D0/600x417.jpg",
+          "width": 600
+        },
+        {
+          "height": 136,
+          "url": "https://a.mktgcdn.com/p-sandbox/t1FWvbE6gknnhJ7RRVB7cshpVVd24DW-nKBcV_C--D0/196x136.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/t1FWvbE6gknnhJ7RRVB7cshpVVd24DW-nKBcV_C--D0/2000x1391.jpg",
+      "width": 2000
+    },
+    "c_ap_HeroImageCaption": "木組みの家が立ち並ぶディンケルスビュール",
+    "c_ap_LinkArticleSectionTitle": "ドイツのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "ドイツ旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/germany/"
+      },
+      {
+        "linkText": "フランクフルトのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dFRA"
+      },
+      {
+        "linkText": "ドイツのホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/64/?freeword\u003d%E3%83%89%E3%82%A4%E3%83%84\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d64"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea3": [
+      "ドイツ"
+    ],
+    "c_ap_ShortDescription": "政府観光局や自治体が設定したテーマによって結ばれた観光街道をたどる旅はドイツ観光の定番。そのなかでもトップの人気を誇るのが、中世の面影が残る街が点在するロマンチック街道です。全長約350kmにもおよぶ街道沿いから必訪の街とスポットを厳選してご紹介します。（写真：ディンケルスビュール）",
+    "c_ap_Tags": [
+      "ロマンチック街道",
+      "ノイシュヴァンシュタイン城",
+      "街並み"
+    ],
+    "c_ap_Title": "旅情たっぷり　ロマンチック街道の街＆スポット5選【ドイツ】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "政府観光局や自治体が設定したテーマによって結ばれた観光街道をたどる旅はドイツ観光の定番。そのなかでもトップの人気を誇るのが、中世の面影が残る街が点在するロマンチック街道です。全長約350kmにもおよぶ街道沿いから必訪の街とスポットを厳選してご紹介します。（写真：ディンケルスビュール）",
+    "c_metaTitle": "旅情たっぷり　ロマンチック街道の街＆スポット5選【ドイツ】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000106",
+    "name": "旅情たっぷり　ロマンチック街道の街＆スポット5選【ドイツ】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

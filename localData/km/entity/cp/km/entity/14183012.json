@@ -1,0 +1,151 @@
+{
+  "$id": "cp_14183012",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "作田（Sakuta） の海外旅行相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVerx2N",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfgxd",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "\u003cfontcolor\u003d\"#CC6699\"\u003e『海外旅行はお任せください！』\u003c/font\u003e\n\n🛫得意ジャンル🛫\n今までに世界３５カ国を訪れました。世界遺産見学、美術館巡り、街歩きをして名物料理を味わうのが楽しみです。行きたい所が決まっている時も、イメージだけの時もぜひご相談くださいませ。\nまた、国内の温泉も好きで温泉ソムリエ取得しました。ゆっくり温泉旅行のご相談もお待ちしております。\n\n🌈ご挨拶🌈\nハロー！オラ！ボンジョルノ！ヤーサス！シンチャオ！ニイハオ！ナマステー！サワディーカー！メルハバ！ボンジュール！行ったことのある世界の国のあいさつです。まだまだ訪れたい国があります。",
+    "c_cp_DisplayName": "作田（Sakuta）",
+    "c_cp_FieldOfExpertise": [
+      "母娘旅",
+      "ハネムーン",
+      "記念旅行",
+      "クルーズ",
+      "歴史・地理",
+      "美術鑑賞",
+      "世界遺産",
+      "街あるき",
+      "鉄道",
+      "飛行機",
+      "温泉・立ち寄り湯"
+    ],
+    "c_cp_JobTitle": "JTB池袋パルコ店　トラベルコンサルタント",
+    "c_cp_OverseasExpert": {
+      "area2": {
+        "rank": "gold"
+      },
+      "area5": {
+        "rank": "silver"
+      }
+    },
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 3030,
+      "sourceUrl": "https://a.mktgcdn.com/p/TB-O5bVjlP5YZR4gCuIKyLu6QVDKqS0o4vpTZ7dpq5E/3024x3030.jpg",
+      "thumbnails": [
+        {
+          "height": 3030,
+          "url": "https://a.mktgcdn.com/p-sandbox/5tI_av9Jd3zgAUWtAGkA7tnOQZXO1_xCYr_h_iEbG_w/3024x3030.jpg",
+          "width": 3024
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/5tI_av9Jd3zgAUWtAGkA7tnOQZXO1_xCYr_h_iEbG_w/1896x1900.jpg",
+          "width": 1896
+        },
+        {
+          "height": 620,
+          "url": "https://a.mktgcdn.com/p-sandbox/5tI_av9Jd3zgAUWtAGkA7tnOQZXO1_xCYr_h_iEbG_w/619x620.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/5tI_av9Jd3zgAUWtAGkA7tnOQZXO1_xCYr_h_iEbG_w/449x450.jpg",
+          "width": 449
+        },
+        {
+          "height": 196,
+          "url": "https://a.mktgcdn.com/p-sandbox/5tI_av9Jd3zgAUWtAGkA7tnOQZXO1_xCYr_h_iEbG_w/196x196.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/5tI_av9Jd3zgAUWtAGkA7tnOQZXO1_xCYr_h_iEbG_w/3024x3030.jpg",
+      "width": 3024
+    },
+    "c_cp_Point": "1654",
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム",
+      "サイパン",
+      "オーストラリア",
+      "ニューカレドニア",
+      "ニュージーランド",
+      "タヒチ・フィジー"
+    ],
+    "c_cp_StrongAbroadArea2": [
+      "アメリカ",
+      "カナダ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "イギリス",
+      "スペイン",
+      "イタリア",
+      "ドイツ",
+      "北欧",
+      "ギリシャ",
+      "クロアチア・スロベニア",
+      "オーストリア・チェコ・ハンガリー",
+      "ロシア",
+      "西欧全般"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "中国",
+      "香港・マカオ",
+      "韓国",
+      "台湾",
+      "タイ",
+      "カンボジア・アンコールワット",
+      "インドネシア・バリ島",
+      "インド"
+    ],
+    "c_cp_StrongAbroadArea5": [
+      "ドバイ",
+      "トルコ"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "青森県",
+      "福島県"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "埼玉県",
+      "神奈川県"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "石川県",
+      "長野県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "大分県"
+    ],
+    "c_cp_Tags": [
+      "2024年ヨーロッパエキスパート（ゴールド）",
+      "2024年オーストラリア（シルバー）",
+      "ハワイスペシャリスト上級",
+      "2023年11月にスペインに行ってきました！"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 作田（Sakuta）",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 作田（Sakuta）",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_14183012",
+    "c_responsibleService": [
+      "海外専門デスクスタッフ",
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10125_池袋パルコ店",
+    "name": "さくた けいこ_14183012",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

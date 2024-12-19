@@ -1,0 +1,134 @@
+{
+  "$id": "cp_21031317",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "京都府",
+    "c_cp_CTA1": {
+      "label": "南 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVqrBq",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBd_q",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "■ＪＴＢ　アメリカエキスパート・ハワイエキスパート\n■ニュージーランド スペシャリスト（政府観光局認定・GOLD）\n■ハワイスペシャリスト検定 ハープウ（上級）\n\n海外渡航70回以上の海外旅行好きです♪\n\nアフリカ大陸や中南米など遠くの国にも行きますし、お隣韓国にはソウルだけでも20回以上訪れています。\nコロナ明けでも20回以上渡航しておりますので、久しぶりの海外旅行をお考えの方もお気軽にご相談下さい！\n\n特に世界遺産・世界史が大好きなので、ご興味のある方はお声がけ下さい！\n\n国内だと九州や沖縄には10回以上、離島はほとんど巡りました♪\n最近行けていませんが、ダイビングやトレッキングなどの自然も大好きです。\n\nご来店お待ちしております！",
+    "c_cp_DisplayName": "南",
+    "c_cp_FieldOfExpertise": [
+      "自然・山",
+      "建築・史跡",
+      "歴史・地理",
+      "美術鑑賞",
+      "世界遺産",
+      "飛行機"
+    ],
+    "c_cp_GeneralInfo": [
+      "●資格：クルーズコンサルタント、ハワイスペシャリスト上級、世界遺産検定２級、京都・観光文化検定２級、ウエディングコンサルタント"
+    ],
+    "c_cp_HiraganaName": "みなみ",
+    "c_cp_JobTitle": "JTBアメリカエキスパート・JTBハワイエキスパート",
+    "c_cp_OverseasExpert": {
+      "area1": {
+        "rank": "bronze"
+      },
+      "area4": {
+        "rank": "bronze"
+      }
+    },
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 1280,
+      "sourceUrl": "https://a.mktgcdn.com/p/ISB4yZwXaMEdMkfLzWteubm6m8Q_IiEtSvaTSGeTuJY/960x1280.jpg",
+      "thumbnails": [
+        {
+          "height": 1280,
+          "url": "https://a.mktgcdn.com/p-sandbox/ISB4yZwXaMEdMkfLzWteubm6m8Q_IiEtSvaTSGeTuJY/960x1280.jpg",
+          "width": 960
+        },
+        {
+          "height": 825,
+          "url": "https://a.mktgcdn.com/p-sandbox/ISB4yZwXaMEdMkfLzWteubm6m8Q_IiEtSvaTSGeTuJY/619x825.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/ISB4yZwXaMEdMkfLzWteubm6m8Q_IiEtSvaTSGeTuJY/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/ISB4yZwXaMEdMkfLzWteubm6m8Q_IiEtSvaTSGeTuJY/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ISB4yZwXaMEdMkfLzWteubm6m8Q_IiEtSvaTSGeTuJY/960x1280.jpg",
+      "width": 960
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム",
+      "ニュージーランド"
+    ],
+    "c_cp_StrongAbroadArea2": [
+      "北米全般",
+      "中南米全般"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "スペイン",
+      "ポルトガル",
+      "クロアチア・スロベニア"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国",
+      "台湾",
+      "東アジア全般",
+      "東南アジア全般"
+    ],
+    "c_cp_StrongAbroadArea5": [
+      "中近東全般",
+      "アフリカ全般"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "東京都",
+      "神奈川県"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "中部全般",
+      "北陸全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "近畿全般"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "中国全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "ＪＴＢ海外エキスパート（アメリカ・ハワイ）",
+      "６月にＭＬＢ（ロサンゼルス）へ行ってきました⚾",
+      "海外渡航回数：７０回以上🛫",
+      "クルーズコンサルタント🚢",
+      "韓国渡航回数：２０回以上🚩",
+      "世界遺産"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 南",
+    "c_metaTitle": "JTBトラベルコンサルタント | 南",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21031317",
+    "c_responsibleService": [
+      "海外専門デスクスタッフ",
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10305_京都伏見店",
+    "name": "みなみ_21031317",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

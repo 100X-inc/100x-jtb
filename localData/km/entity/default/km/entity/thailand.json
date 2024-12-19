@@ -1,0 +1,34 @@
+{
+  "$id": "thailand",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "asia"
+    ],
+    "c_linkedArea3News": [
+      "guide_0007",
+      "news_ap_osarea_0000083",
+      "news_ap_osarea_0000143",
+      "news_ap_osarea_0000085",
+      "news_ap_osarea_0000162",
+      "news_ap_osarea_0000081",
+      "news_ap_osarea_0000142",
+      "news_ap_osarea_0000144",
+      "news_ap_osarea_0000161",
+      "news_ap_osarea_0000084",
+      "news_ap_osarea_0000141",
+      "news_ap_osarea_0000082",
+      "news_ap_osarea_0000124",
+      "news_ap_osarea_0000164",
+      "news_ap_osarea_0000125"
+    ],
+    "c_metaDescription": "お出かけの際は施設や自治体などの最新情報をご確認ください。",
+    "c_metaTitle": "JTBニュース | タイ | 旅行・おでかけ情報",
+    "name": "タイ",
+    "slug": "kaigai/asia/thailand"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

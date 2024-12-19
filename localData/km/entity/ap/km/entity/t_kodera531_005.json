@@ -1,0 +1,230 @@
+{
+  "$id": "ap_t_kodera531_005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "ホテルロビーの見事な活け花は、いけばな草月流が運営するマルチアートスペース「草月WEST」の作品。1階にはほかに、インフォメーションセンターやサイクルターミナル、京菓子販売・カフェ「笹屋伊織 別邸」、清水焼窯元「平安玉凰陶苑」、茶の湯体感・カフェ「茶瑠 CHALYU」、地酒・土産物店「嵐山上流の蔵 丹山」なども。茶の湯や陶芸、いけばななどの体験から伝統の文化・産業を知るのもおすすめ。2階には「レンタルきもの岡本」やバリエーションに富んだ食事処が揃います。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/QFA_jF5ctLbuIepXpSePE8c68ISuK_imeIpooY1zEmY/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/QFA_jF5ctLbuIepXpSePE8c68ISuK_imeIpooY1zEmY/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/QFA_jF5ctLbuIepXpSePE8c68ISuK_imeIpooY1zEmY/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/QFA_jF5ctLbuIepXpSePE8c68ISuK_imeIpooY1zEmY/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/QFA_jF5ctLbuIepXpSePE8c68ISuK_imeIpooY1zEmY/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QFA_jF5ctLbuIepXpSePE8c68ISuK_imeIpooY1zEmY/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "京都らしい和モダンなスタンダードルーム（一例）",
+        "sectionTitle": "京都の伝統文化や食の魅力をここで体験して楽しんで"
+      },
+      {
+        "description": "和モダンで京都の風情が感じられる客室は全部で8タイプ206室で、一番多いのが4名で宿泊できる客室です。1～2名用のエコノミーツインはシャワーブースのみですが、コンパクトながらも機能的な間取り。1～3名用のスタンダードルームやユニバーサルルーム、1～4名用のスタンダードフォース、エミオンフォースは洗い場付バスルーム完備で、グループやファミリーにおすすめです。デラックスツインはカップルに人気の客室。素足でゆったりと寛げる和洋室は最大5名まで。1室限定のジュニアスイートは、広々としたお部屋で、ワンランク上の贅沢なホテルステイが楽しめます。期間限定ですが、「茶瑠」や「笹屋伊織」との特典付きのフォトジェニックなコンセプトルームも要チェック！",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/t9hJXZSHxQy3VMccgsevaPTIBaEbBgIL0ZHvkLRcQwg/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/t9hJXZSHxQy3VMccgsevaPTIBaEbBgIL0ZHvkLRcQwg/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/t9hJXZSHxQy3VMccgsevaPTIBaEbBgIL0ZHvkLRcQwg/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/t9hJXZSHxQy3VMccgsevaPTIBaEbBgIL0ZHvkLRcQwg/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/t9hJXZSHxQy3VMccgsevaPTIBaEbBgIL0ZHvkLRcQwg/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/t9hJXZSHxQy3VMccgsevaPTIBaEbBgIL0ZHvkLRcQwg/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "大きな湯船でリフレッシュできる「ほほえみの湯」",
+        "sectionTitle": "ファミリーや女子旅に最適な洋室で、みんなで楽しくホテルステイ"
+      },
+      {
+        "description": "宿泊者限定のドライサウナ付き大浴場「ほほえみの湯」は3階に。夜は15時から夜中の1時まで、朝は6～10時に利用できます。ただし、入場は30分前まで。大浴場までは部屋着とスリッパで行けて、セキュリティ対策も万全です。眺望はありませんが、夜はガラス窓に竹林のシルエットが浮かび上がり雰囲気があって寛げますよ。",
+        "image": {
+          "height": 375,
+          "sourceUrl": "https://a.mktgcdn.com/p/NYPd5UoZozbXniUEBtkI4a-v0n4oK7YQwSZNYdFk4Vs/500x375.jpg",
+          "thumbnails": [
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/-bHVmoe-Tc_VO0c1Jg0l0uk5o86peE7deFISxoMtLCE/500x375.jpg",
+              "width": 500
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/-bHVmoe-Tc_VO0c1Jg0l0uk5o86peE7deFISxoMtLCE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-bHVmoe-Tc_VO0c1Jg0l0uk5o86peE7deFISxoMtLCE/500x375.jpg",
+          "width": 500
+        },
+        "imageCaption": "ホテルの朝食では手作りおばんざいが好評（イメージ）",
+        "sectionTitle": "京都の夜をゆっくり楽しみ、一日の疲れをお風呂でサッパリ流す"
+      },
+      {
+        "description": "夕食はホテル2階のフロアへ。京都市中央卸売市場の食材などを使用する食事処は、京野菜を中心に素材の味を活かした和食「京旬彩 有笑」をはじめ、祇園の「天ぷら 圓堂」プロデュースの「天ぷら門久」や「特撰和牛焼肉としゃぶしゃぶ 一寸法師」、寿司「本家さんきゅう」、「千里うなぎ」の5店舗が腕を振るっています。朝食は3階のレストランで。和食、洋食のメニューが揃うブッフェスタイルの朝食をご提供。ホテルオリジナルの日替わり手作りおばんざいもぜひご賞味を！▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/htl/6230153/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "sectionTitle": "夕食はホテル2階で京都の味を、朝食はホテルオリジナルおばんざいを"
+      },
+      {
+        "description": "----------------------------------------------※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-04-02",
+    "c_ap_HeroImage": {
+      "alternateText": "選りすぐりの京都の「食」と「職」がホテルとコラボ、京都の新鮮体験をここで【京都府　ホテルエミオン京都】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 727,
+      "sourceUrl": "https://a.mktgcdn.com/p/kpEqSP1XbTQfVtEQ7s5JNURxkRnZ-KIRz2Vhqa5xJEs/1200x727.jpg",
+      "thumbnails": [
+        {
+          "height": 727,
+          "url": "https://a.mktgcdn.com/p-sandbox/e9XrXepgWNS2TOR4SBXk7c8AAhMQMTugGISzFIC-AvM/1200x727.jpg",
+          "width": 1200
+        },
+        {
+          "height": 375,
+          "url": "https://a.mktgcdn.com/p-sandbox/e9XrXepgWNS2TOR4SBXk7c8AAhMQMTugGISzFIC-AvM/619x375.jpg",
+          "width": 619
+        },
+        {
+          "height": 364,
+          "url": "https://a.mktgcdn.com/p-sandbox/e9XrXepgWNS2TOR4SBXk7c8AAhMQMTugGISzFIC-AvM/600x364.jpg",
+          "width": 600
+        },
+        {
+          "height": 119,
+          "url": "https://a.mktgcdn.com/p-sandbox/e9XrXepgWNS2TOR4SBXk7c8AAhMQMTugGISzFIC-AvM/196x119.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/e9XrXepgWNS2TOR4SBXk7c8AAhMQMTugGISzFIC-AvM/1200x727.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "2020年夏にオープンした話題のホテル",
+    "c_ap_LinkArticleSectionTitle": "京都府のその他の投稿",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "ホテルエミオン京都 のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/6230153/plan/"
+      },
+      {
+        "linkText": "京都のホテル・旅館・宿おすすめランキング",
+        "uRL": "https://www.jtb.co.jp/ranking/kokunai/kyoto/"
+      },
+      {
+        "linkText": "京都旅行 ～おすすめ観光プラン・パックツアー～",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/kyoto/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea4": [
+      "近畿全般",
+      "京都府"
+    ],
+    "c_ap_ShortDescription": "JR京都駅から嵯峨野線で3分、1駅目の梅小路京都西駅。その駅から連絡通路で直結するのが「ホテルエミオン京都」です。京都市中央卸売市場の賑わいゾーンに建設されたホテルで、2階連絡通路で市場とも繋がっています。周辺には京都水族館や京都鉄道博物館、新選組(新撰組)ゆかりの島原などのスポットが点在していて、観光の拠点として絶好です。\n3階にフロントロビーや大浴場があるホテルは、4～8階に客室があり、宿泊者専用の屋上展望デッキ「スカイテラス」から大文字の送り火で知られる如意ヶ嶽などの山々や京都市街を一望。ホテル1・2階の「ショップ＆レストラン」フロアには、京都の「食」と「職」をテーマにした店舗・施設が集まり、京都の魅力がいっぱい。「豊かな歴史・地域と“ここにしかない、新しい京都”を。」というコンセプトにピッタリの、各店舗とホテルとのコラボ企画は見逃せません。",
+    "c_ap_Tags": [
+      "京都市中央卸売市場",
+      "グルメ",
+      "展望デッキ"
+    ],
+    "c_ap_Theme": [
+      "街あるき",
+      "ご当地グルメ",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "選りすぐりの京都の「食」と「職」がホテルとコラボ、京都の新鮮体験をここで【京都府　ホテルエミオン京都】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "JR京都駅から嵯峨野線で3分、1駅目の梅小路京都西駅。その駅から連絡通路で直結するのが「ホテルエミオン京都」です。京都市中央卸売市場の賑わいゾーンに建設されたホテルで、2階連絡通路で市場とも繋がっています。周…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "選りすぐりの京都の「食」と「職」がホテルとコラボ、京都の新鮮体験をここで【京都府　ホテルエミオン京都】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_t_kodera531_005",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "近畿全般, 京都府",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：近畿全般, 京都府",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：近畿全般, 京都府",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "選りすぐりの京都の「食」と「職」がホテルとコラボ、京都の新鮮体験をここで【京都府　ホテルエミオン京都】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

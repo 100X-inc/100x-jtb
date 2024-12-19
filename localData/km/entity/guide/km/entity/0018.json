@@ -1,0 +1,545 @@
+{
+  "$id": "guide_0018",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "alternateText": "台湾の旅行費用",
+      "height": 480,
+      "sourceUrl": "https://a.mktgcdn.com/p/o3EKXDGhfIcxF8vjtehEjjN02fcoQf8vEPbcJhp6inE/669x480.webp",
+      "thumbnails": [
+        {
+          "height": 480,
+          "url": "https://a.mktgcdn.com/p-sandbox/o3EKXDGhfIcxF8vjtehEjjN02fcoQf8vEPbcJhp6inE/669x480.webp",
+          "width": 669
+        },
+        {
+          "height": 444,
+          "url": "https://a.mktgcdn.com/p-sandbox/o3EKXDGhfIcxF8vjtehEjjN02fcoQf8vEPbcJhp6inE/619x444.webp",
+          "width": 619
+        },
+        {
+          "height": 430,
+          "url": "https://a.mktgcdn.com/p-sandbox/o3EKXDGhfIcxF8vjtehEjjN02fcoQf8vEPbcJhp6inE/600x430.webp",
+          "width": 600
+        },
+        {
+          "height": 141,
+          "url": "https://a.mktgcdn.com/p-sandbox/o3EKXDGhfIcxF8vjtehEjjN02fcoQf8vEPbcJhp6inE/196x141.webp",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/o3EKXDGhfIcxF8vjtehEjjN02fcoQf8vEPbcJhp6inE/669x480.webp",
+      "width": 669
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "台湾旅行・ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/taiwan/"
+      },
+      {
+        "linkText": "台湾行きの航空券＋ホテルを予約する",
+        "uRL": "https://www.jtb.co.jp/ovs_air_htl/search/?departurePlace\u003dTYO\u0026arrivalPlace.itemTypeCd\u003d1\u0026arrivalPlace.itemId\u003d3518\u0026roomCount\u003d1\u0026roomConditions%5B0%5D.adultCount\u003d2\u0026departureDate\u003d2024%2F11%2F30\u0026localDepartureDate\u003d2024%2F12%2F03"
+      },
+      {
+        "linkText": "台湾行きの航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/asia/taiwan/taipei/"
+      },
+      {
+        "linkText": "台湾のホテルを探す",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/?freeword\u003d%E5%8F%B0%E6%B9%BE\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d176\u0026chkinDt\u003d2024-12-30\u0026chkoutDt\u003d2024-12-31"
+      }
+    ],
+    "c_ap_PagesGeneration": true,
+    "c_ap_Title": "【旅行日数別】台湾の旅行費用っていくらかかる？3泊4日や2日3日の予算",
+    "c_linkedArea3News": [
+      "taiwan"
+    ],
+    "c_metaDescription": "台湾旅行にかかる旅行費用を徹底解説！2泊3日や3泊4日の予算をご紹介します。航空券代やホテル代、食費など気になる内訳もチェックしてみましょう。",
+    "c_metaTitle": "【旅行日数別】台湾の旅行費用っていくらかかる？3泊4日や2日3日の予算",
+    "c_news_CTAs": [
+      {
+        "label": "台湾旅行・ツアーを探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/taiwan/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "台湾行きの航空券＋ホテルを予約する",
+        "link": "https://www.jtb.co.jp/ovs_air_htl/search/?departurePlace\u003dTYO\u0026arrivalPlace.itemTypeCd\u003d1\u0026arrivalPlace.itemId\u003d3518\u0026roomCount\u003d1\u0026roomConditions%5B0%5D.adultCount\u003d2\u0026departureDate\u003d2024%2F11%2F30\u0026localDepartureDate\u003d2024%2F12%2F03",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "台湾の3泊4日モデルコースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000050",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "台北のおすすめホテル3選",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/TW/2016/12/taipei-hotel.html",
+          "linkType": "OTHER"
+        },
+        "description": "日本から近く、気軽に海外旅行に行けると人気の台湾。アジアならではの街並みや建造物、おいしいグルメなど魅力が豊富です。そんな台湾を旅行するには、どのくらいの予算が必要なのでしょうか。2泊3日と3泊4日の予算をみていきましょう！",
+        "image": {
+          "alternateText": "台北の高層ビル群",
+          "height": 480,
+          "sourceUrl": "https://a.mktgcdn.com/p/FOmSm7aNelxLfkN5IlCCOE9XtAF6ZMzp3B1FHknDaUM/669x480.jpg",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/FOmSm7aNelxLfkN5IlCCOE9XtAF6ZMzp3B1FHknDaUM/669x480.jpg",
+              "width": 669
+            },
+            {
+              "height": 444,
+              "url": "https://a.mktgcdn.com/p-sandbox/FOmSm7aNelxLfkN5IlCCOE9XtAF6ZMzp3B1FHknDaUM/619x444.jpg",
+              "width": 619
+            },
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/FOmSm7aNelxLfkN5IlCCOE9XtAF6ZMzp3B1FHknDaUM/600x430.jpg",
+              "width": 600
+            },
+            {
+              "height": 141,
+              "url": "https://a.mktgcdn.com/p-sandbox/FOmSm7aNelxLfkN5IlCCOE9XtAF6ZMzp3B1FHknDaUM/196x141.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FOmSm7aNelxLfkN5IlCCOE9XtAF6ZMzp3B1FHknDaUM/669x480.jpg",
+          "width": 669
+        },
+        "infoBlockLabel": "人気観光スポットの入場料（2024年10月時点）",
+        "infoBlockText": "故宮博物院：350TWドル台北101の展望台：600TWドル",
+        "sectionLevel": "h2",
+        "sectionTitle": "【旅行日数別】台湾旅行に必要な費用はいくら？"
+      },
+      {
+        "cTA1": {
+          "label": "JTBで台湾航空券を予約する",
+          "link": "https://www.jtb.co.jp/ovs_air_static/asia/taiwan/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "台北のおすすめ夜市をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000023",
+          "linkType": "OTHER"
+        },
+        "description": "2泊3日の短い旅行であれば、1人あたり約8万円から10万円程度の予算を見積もっておくと良いでしょう。必要な費用は以下の通りです。- 航空券代：約4万円〜7万円- 宿泊費：約2万円〜4万円- 現地交通費：約4,000円- 食費：約7,000円～- 現地観光費：約6,000円～- レンタルWiFi：約2,000円～台北市内を中心に観光する場合は、10万円程度あれば十分楽しむことができます。ただし、夜市で楽しんだりイベントに参加したりと特別な体験をする場合は、予算を少し増やしておくと安心です。",
+        "image": {
+          "alternateText": "九分の夜景",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/cZDt6ZXGwVIokWwiCUq8HtSVdutmIPEXb4omAi4PhKo/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/cZDt6ZXGwVIokWwiCUq8HtSVdutmIPEXb4omAi4PhKo/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/cZDt6ZXGwVIokWwiCUq8HtSVdutmIPEXb4omAi4PhKo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/cZDt6ZXGwVIokWwiCUq8HtSVdutmIPEXb4omAi4PhKo/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/cZDt6ZXGwVIokWwiCUq8HtSVdutmIPEXb4omAi4PhKo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cZDt6ZXGwVIokWwiCUq8HtSVdutmIPEXb4omAi4PhKo/1200x801.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "2泊3日の予算"
+      },
+      {
+        "cTA1": {
+          "label": "JTBで台湾のホテルを予約する",
+          "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/?freeword\u003d%E5%8F%B0%E6%B9%BE\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d176",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "台湾の現地ツアーを探す",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bTW/",
+          "linkType": "OTHER"
+        },
+        "description": "もう少しゆっくり台湾観光を楽しむなら、3泊4日の旅行で約10万円から12万円程度の予算を用意しておくと良いでしょう。必要な費用は以下の通りです。- 航空券代：約4万円〜7万円- 宿泊費：約3万円〜5万円- 現地交通費：約6,000円～- 食費：約10,000円- 現地観光費：約8,000円～- レンタルWiFi：約2,700円～10万円以上用意しておけば、台北だけでなく、九份や十分など周辺の観光地にも訪れることができますよ。食事やお土産にもう少し予算をかけたい場合は、もう少し多めに見積もっておきましょう。",
+        "image": {
+          "alternateText": "飛行機のイメージ",
+          "height": 675,
+          "sourceUrl": "https://a.mktgcdn.com/p/bw-_3e2mohZ_eyd6T_jgyKtWL-f0SXh-irN5AsdYrYk/1200x675.jpg",
+          "thumbnails": [
+            {
+              "height": 675,
+              "url": "https://a.mktgcdn.com/p-sandbox/bw-_3e2mohZ_eyd6T_jgyKtWL-f0SXh-irN5AsdYrYk/1200x675.jpg",
+              "width": 1200
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/bw-_3e2mohZ_eyd6T_jgyKtWL-f0SXh-irN5AsdYrYk/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/bw-_3e2mohZ_eyd6T_jgyKtWL-f0SXh-irN5AsdYrYk/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/bw-_3e2mohZ_eyd6T_jgyKtWL-f0SXh-irN5AsdYrYk/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bw-_3e2mohZ_eyd6T_jgyKtWL-f0SXh-irN5AsdYrYk/1200x675.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "3泊4日の予算"
+      },
+      {
+        "cTA1": {
+          "label": "台北から高雄の移動方法みる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/TW/2014/12/taipei-kaohsiung-transfer.html",
+          "linkType": "OTHER"
+        },
+        "description": "台湾旅行にかかる費用の内訳を詳しくみていきしょう！航空券代や宿泊費はもちろん、現地交通費や食事代も計算しておくと、予想外の出費を防げますよ。旅行に必要な予算を把握して、旅程を組み立ててみてください。",
+        "image": {
+          "alternateText": "台北の街並み",
+          "height": 633,
+          "sourceUrl": "https://a.mktgcdn.com/p/GOZK1QrbBgtFgxFrIsFwI4xSdSylzUpChVCQ78nFEsA/1200x633.jpg",
+          "thumbnails": [
+            {
+              "height": 633,
+              "url": "https://a.mktgcdn.com/p-sandbox/GOZK1QrbBgtFgxFrIsFwI4xSdSylzUpChVCQ78nFEsA/1200x633.jpg",
+              "width": 1200
+            },
+            {
+              "height": 327,
+              "url": "https://a.mktgcdn.com/p-sandbox/GOZK1QrbBgtFgxFrIsFwI4xSdSylzUpChVCQ78nFEsA/619x327.jpg",
+              "width": 619
+            },
+            {
+              "height": 317,
+              "url": "https://a.mktgcdn.com/p-sandbox/GOZK1QrbBgtFgxFrIsFwI4xSdSylzUpChVCQ78nFEsA/600x317.jpg",
+              "width": 600
+            },
+            {
+              "height": 103,
+              "url": "https://a.mktgcdn.com/p-sandbox/GOZK1QrbBgtFgxFrIsFwI4xSdSylzUpChVCQ78nFEsA/196x103.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/GOZK1QrbBgtFgxFrIsFwI4xSdSylzUpChVCQ78nFEsA/1200x633.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "台湾旅行にかかる費用の内訳"
+      },
+      {
+        "cTA1": {
+          "label": "台北で人気の観光スポットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_web_kaigai_0003",
+          "linkType": "OTHER"
+        },
+        "description": "台湾への航空券は、旅行時期や航空会社によりますが、大体5万円から7万円程度が相場。直行便なら東京から台北まで4時間程度で、チャイナエアラインやエバー航空や、ANA、JALなどから運航しています。ピークのシーズンやゴールデンウィークなど祝日が続く時期は価格が高騰する傾向にあるので、早めに予約をすれば価格を抑えられる場合もありますよ。また、LCC（格安航空会社）を利用するとさらに安く抑えることができますが、手荷物の量や食事などのサービス内容は大手航空会社と比べて十分でない場合があるので、予算を考慮して検討してみてくださいね。",
+        "image": {
+          "alternateText": "wifiのイメージ",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/BtvwiLEcb_urymz7zFPzOnC_m6bovGg5GMn6ywuvKes/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/BtvwiLEcb_urymz7zFPzOnC_m6bovGg5GMn6ywuvKes/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/BtvwiLEcb_urymz7zFPzOnC_m6bovGg5GMn6ywuvKes/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/BtvwiLEcb_urymz7zFPzOnC_m6bovGg5GMn6ywuvKes/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/BtvwiLEcb_urymz7zFPzOnC_m6bovGg5GMn6ywuvKes/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BtvwiLEcb_urymz7zFPzOnC_m6bovGg5GMn6ywuvKes/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "航空券代"
+      },
+      {
+        "cTA1": {
+          "label": "台北流朝ごはんのお店をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000028",
+          "linkType": "OTHER"
+        },
+        "description": "ホテル代は宿泊する地域やホテルのランクによりますが、1泊あたり1万円～2万円程度が目安です。ランクを下げれば1人あたり1泊5,000円以下で宿泊できるホテルもあり、台北の中心部でも手頃な価格帯のホテルが見つかりますよ。5つ星の豪華な宿泊施設やリゾートホテルに泊まる場合は、1泊3万円以上かかりますが、比較的手の届きやすい価格帯です。1泊だけ高級ホテルに泊まって、ほかはリーズナブルなホテルを予約するなど、うまく旅程に組み込んでホテルステイを楽しんでみてくださいね。",
+        "image": {
+          "alternateText": "中正紀念堂",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/yqlsyIP1P00sDFAFoe4d7-_6kXgnJYZVES3Ql_Pz9To/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/yqlsyIP1P00sDFAFoe4d7-_6kXgnJYZVES3Ql_Pz9To/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/yqlsyIP1P00sDFAFoe4d7-_6kXgnJYZVES3Ql_Pz9To/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/yqlsyIP1P00sDFAFoe4d7-_6kXgnJYZVES3Ql_Pz9To/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yqlsyIP1P00sDFAFoe4d7-_6kXgnJYZVES3Ql_Pz9To/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yqlsyIP1P00sDFAFoe4d7-_6kXgnJYZVES3Ql_Pz9To/1200x801.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ホテル代"
+      },
+      {
+        "cTA1": {
+          "label": "詳しいツアー料金をみる",
+          "link": "https://www.jtb.co.jp/kaigai/area/thailand/",
+          "linkType": "OTHER"
+        },
+        "description": "台湾の公共交通機関は手頃な料金で便利です。台北市内では、MRT（地下鉄）やバスが一日乗車券で150TWドル程度で利用可能。頻繁に乗車する場合は、ICカードのEasyCard（悠遊カード）を使うとスムーズですよ。タクシーの初乗りは約80TWドルからですが、距離や時間帯によって変動します。九份へは台北からバスで約90TWドル、高雄へは高速鉄道で約1,500TWドルが目安です。バスを利用すると経済的に移動できるので、ぜひ調べてみてくださいね。",
+        "image": {
+          "alternateText": "台湾かき氷",
+          "height": 795,
+          "sourceUrl": "https://a.mktgcdn.com/p/QjnXsV3joIL259w77HXaCZ40FZc-srupDWIMgmEQLgA/1200x795.jpg",
+          "thumbnails": [
+            {
+              "height": 795,
+              "url": "https://a.mktgcdn.com/p-sandbox/QjnXsV3joIL259w77HXaCZ40FZc-srupDWIMgmEQLgA/1200x795.jpg",
+              "width": 1200
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/QjnXsV3joIL259w77HXaCZ40FZc-srupDWIMgmEQLgA/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/QjnXsV3joIL259w77HXaCZ40FZc-srupDWIMgmEQLgA/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/QjnXsV3joIL259w77HXaCZ40FZc-srupDWIMgmEQLgA/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QjnXsV3joIL259w77HXaCZ40FZc-srupDWIMgmEQLgA/1200x795.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "現地の交通費"
+      },
+      {
+        "description": "台湾旅行時のインターネット接続手段として、レンタルWiFiの利用が便利です。ある程度良好な通信環境で使える4GのWiFiルーターをレンタルする場合、1日あたりの料金は1,400円程度。同行者と一緒に利用するなら1人あたり1,000円以下でレンタルできます。5G対応のWiFiや、通信容量無制限のプランだと料金がさらに高くなるため注意しましょう。空港で現地のSIMカードを購入する方法もありますが、短期の旅行ならレンタルWiFiの方が手続きが簡単でおすすめです。",
+        "image": {
+          "alternateText": "台湾の夜景",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/kH1Y2-cpedvFcIfchu3EiBPxK23BZdDg-5HTCWF1P0E/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/kH1Y2-cpedvFcIfchu3EiBPxK23BZdDg-5HTCWF1P0E/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/kH1Y2-cpedvFcIfchu3EiBPxK23BZdDg-5HTCWF1P0E/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/kH1Y2-cpedvFcIfchu3EiBPxK23BZdDg-5HTCWF1P0E/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/kH1Y2-cpedvFcIfchu3EiBPxK23BZdDg-5HTCWF1P0E/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kH1Y2-cpedvFcIfchu3EiBPxK23BZdDg-5HTCWF1P0E/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "レンタルWiFi"
+      },
+      {
+        "description": "台湾の観光スポットの入場料は、施設によって異なりますが、一般的には50TWドルから300TWドル程度です。台北の国立故宮博物院はや台北101の展望台など人気の観光施設は入場料が高いので注意しましょう。他にも、九份のような歴史的な町並みは無料で散策できますが、アクティビティには別途料金がかかることがあります。ガイド付きツアーに参加する場合も料金が必要なので、予算に含めておきましょう、",
+        "image": {
+          "alternateText": "十分のランタン",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/GS0sPpk8iPK8hsFEpaWicIcB-zObUyRyhIeVixriLic/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/GS0sPpk8iPK8hsFEpaWicIcB-zObUyRyhIeVixriLic/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/GS0sPpk8iPK8hsFEpaWicIcB-zObUyRyhIeVixriLic/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/GS0sPpk8iPK8hsFEpaWicIcB-zObUyRyhIeVixriLic/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/GS0sPpk8iPK8hsFEpaWicIcB-zObUyRyhIeVixriLic/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/GS0sPpk8iPK8hsFEpaWicIcB-zObUyRyhIeVixriLic/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "現地観光費用"
+      },
+      {
+        "description": "台湾での食事費用は、食べる場所によって大きく変わります。屋台や小さな食堂では、一食あたり約50TWドルから美味しい地元の料理を楽しめます。レストランでの食事は一食あたり約150TWドルからで、高級レストランだともう少し高くなります。台湾の夜市では、多様なスナックやドリンクを手軽に味わうことができ、一品あたり30TWドルからとリーズナブル。食事は台湾旅行の醍醐味の一つなので、様々な料理を試してみてくださいね。",
+        "image": {
+          "alternateText": "九分の景色",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/lKTMnEDPbtKMW6JmVJVe1MhMVpxAx8uJnFQAmXHEhtU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/lKTMnEDPbtKMW6JmVJVe1MhMVpxAx8uJnFQAmXHEhtU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/lKTMnEDPbtKMW6JmVJVe1MhMVpxAx8uJnFQAmXHEhtU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/lKTMnEDPbtKMW6JmVJVe1MhMVpxAx8uJnFQAmXHEhtU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/lKTMnEDPbtKMW6JmVJVe1MhMVpxAx8uJnFQAmXHEhtU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lKTMnEDPbtKMW6JmVJVe1MhMVpxAx8uJnFQAmXHEhtU/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "食事代"
+      },
+      {
+        "description": "JTBでは、台湾旅行のツアー商品を提供しています。航空券代や宿泊費、現地観光費や食事代も含まれるツアーを予約すれば、予算がすぐにわかるので計画が立てやすいですよ。「ルックJTB」のプランなら、キャンセル料サポートや旅の疑問を相談できるサポートが充実しています。添乗員同行ツアーから、航空券とホテルを自由に組み合わせられるパッケージまで様々なスタイルがあるので、ぜひ予算と相談しながらご検討ください。",
+        "image": {
+          "alternateText": "台湾のお金",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Ov7MERxQtlOGmTNyQxXcDw8Zqysf6gIUUrOvziI8Hho/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ov7MERxQtlOGmTNyQxXcDw8Zqysf6gIUUrOvziI8Hho/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ov7MERxQtlOGmTNyQxXcDw8Zqysf6gIUUrOvziI8Hho/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ov7MERxQtlOGmTNyQxXcDw8Zqysf6gIUUrOvziI8Hho/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ov7MERxQtlOGmTNyQxXcDw8Zqysf6gIUUrOvziI8Hho/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ov7MERxQtlOGmTNyQxXcDw8Zqysf6gIUUrOvziI8Hho/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "台湾旅行ツアーで行くといくらかかる？"
+      },
+      {
+        "description": "現地観光を楽しめる、オプショナルツアーを旅程に追加するのもおすすめです。台湾市内のガイドツアーや、十分でのランタン上げなど、台湾でしかできない体験が豊富！日本語ガイド付きなら安心して参加できますよ。",
+        "sectionLevel": "h2",
+        "sectionTitle": "現地観光を楽しめるオプショナルツアー"
+      },
+      {
+        "description": "台湾旅行が比較的安くなるのは、繁忙期を避けた時期です。例えば、春節（旧正月）や国慶日（10月10日）などの大型連休が過ぎると、航空券や宿泊施設の料金が比較的下がります。また、夏の暑い時期や冬の雨季もオフシーズンにあたり、観光客が少なくなるため、よりリーズナブルに旅行を楽しめますよ。ただし、雨の場合は観光できる場所が限られるため、雨用の旅程も考えておきましょう！",
+        "sectionLevel": "h2",
+        "sectionTitle": "JTB社員が教える！台湾旅行前に知っておきたいこと"
+      },
+      {
+        "description": "台湾で使用されている通貨は新台湾ドル（New Taiwan Dollar）で、通貨コードはTWD、またはNTDと表記されます。一般的には「元」という単位で呼ばれることが多く、例えば100新台湾ドルと「100元」は同じ金額です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "台湾旅行が安い時期はある？"
+      },
+      {
+        "description": "台湾では小規模な店舗や屋台での支払いに現金が必要な場合があります。短期滞在であれば、1日あたり約1,000〜2,000台湾ドルを目安に持っていくと安心です。多くの場所ではクレジットカードが使えるので、大きな出費はカード払いにすると良いでしょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "台湾の通貨は？"
+      },
+      {
+        "description": "台湾旅行を最大限に楽しむためには、事前に必要な予算をしっかりと把握しておくことが大切です。現地の交通費や、食事、観光の費用など計画的に準備し、台湾の魅力を存分に味わいましょう！",
+        "sectionLevel": "h3",
+        "sectionTitle": "現金はいくら持って行くべき？"
+      },
+      {
+        "sectionLevel": "h2",
+        "sectionTitle": "必要な予算を把握して台湾旅行を準備しよう！"
+      }
+    ],
+    "c_news_PublicationDate": "2024-10-31",
+    "c_news_UpdateDate": "2024-10-31",
+    "c_news_ViewCount": "13875",
+    "c_news_ViewCount2of2": "13875",
+    "c_news_ViewCountNum": "13875",
+    "c_news_ViewCountNumForSorting": "3770",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/guide_0018",
+    "c_relatedAreas": [
+      "taiwan"
+    ],
+    "name": "【旅行日数別】台湾の旅行費用っていくらかかる？3泊4日や2日3日の予算",
+    "slug": "kaigai/asia/taiwan/guide_0018",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

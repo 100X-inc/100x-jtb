@@ -1,0 +1,272 @@
+{
+  "$id": "ap_chiki_100045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター 北陸担当"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "「御陣乗太鼓」が演じられるのは、シアターダイニング饗（あい）の舞台の上。すぐ近くに食卓が配され、迫力のステージを鑑賞しながら夕食を堪能できます。また、舞台を見下ろすようにお食事処「花舞茶寮」の個室が並んでいます。プライベートなお食事時間とステージの両方を楽しめる贅沢な個室です。能登の山海の幸をふんだんに取り入れたお料理は、「加賀屋」の伝統的な和食の味を継承する創作料理。洋食の要素も取り入れており、工夫が凝らされたお料理は一品一品が新鮮な驚きに満ちています。朝食は60種以上の料理が並ぶビュッフェスタイルで。ぜひ食べていただきたいのが、和倉温泉の源泉とにがりを使用した自家製の「湯の香豆腐」。ふわりとした口当たりをお楽しみください。",
+        "image": {
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/HRrKRlteu_JaLzcIRZNadSzOkQCziaJXCMFrkpED0H4/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/HRrKRlteu_JaLzcIRZNadSzOkQCziaJXCMFrkpED0H4/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/HRrKRlteu_JaLzcIRZNadSzOkQCziaJXCMFrkpED0H4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/HRrKRlteu_JaLzcIRZNadSzOkQCziaJXCMFrkpED0H4/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/HRrKRlteu_JaLzcIRZNadSzOkQCziaJXCMFrkpED0H4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HRrKRlteu_JaLzcIRZNadSzOkQCziaJXCMFrkpED0H4/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "シアターダイニング「饗」で迫力の舞台を満喫",
+        "sectionTitle": "山海の料理を、舞台で繰り広げられる郷土芸能とともに"
+      },
+      {
+        "description": "「西の風」と「東の風」、2つの棟にお部屋は126室。ほぼ全てのお部屋が七尾湾に面しており、大きな窓の向こうに広がるオーシャンビューを満喫できます。「和室」は、穏やかな七尾湾とその向こうの能登島を見渡せるくつろぎの空間です。車いすの方も気持ちよく過ごせるユニバーサルデザインのお部屋もあり、ご高齢の方と一緒の旅行でも安心です。",
+        "image": {
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/XznRsXkhBmXtiE7dHA6OlDZAQAQ-s8gzE5SNEGbWFsQ/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/XznRsXkhBmXtiE7dHA6OlDZAQAQ-s8gzE5SNEGbWFsQ/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/XznRsXkhBmXtiE7dHA6OlDZAQAQ-s8gzE5SNEGbWFsQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/XznRsXkhBmXtiE7dHA6OlDZAQAQ-s8gzE5SNEGbWFsQ/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/XznRsXkhBmXtiE7dHA6OlDZAQAQ-s8gzE5SNEGbWFsQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/XznRsXkhBmXtiE7dHA6OlDZAQAQ-s8gzE5SNEGbWFsQ/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "東の風の和室（イメージ）",
+        "sectionTitle": "窓の外には七尾湾と能登島の風景。開放的な空間でくつろぎのひとときを"
+      },
+      {
+        "description": "七尾湾に面した大浴場の浴槽は全面ガラス張り。空と海がどこまでも広がっており、向こうには能登島の緑が望めます。女湯男湯いずれも露天風呂があり、波の音を聞きながら疲れを癒やせます。サウナもあるので、しっかりと整えてくださいね。また、姉妹館「加賀屋」のお風呂も利用できます。車で送迎もしてくれるので、気兼ねなくフロントにお願いしましょう。",
+        "image": {
+          "height": 702,
+          "sourceUrl": "https://a.mktgcdn.com/p/rONqm7Id89UgzjAHM_fyLFUonhMmBHL4g2GhSISGPrY/1200x702.jpg",
+          "thumbnails": [
+            {
+              "height": 702,
+              "url": "https://a.mktgcdn.com/p-sandbox/rONqm7Id89UgzjAHM_fyLFUonhMmBHL4g2GhSISGPrY/1200x702.jpg",
+              "width": 1200
+            },
+            {
+              "height": 362,
+              "url": "https://a.mktgcdn.com/p-sandbox/rONqm7Id89UgzjAHM_fyLFUonhMmBHL4g2GhSISGPrY/619x362.jpg",
+              "width": 619
+            },
+            {
+              "height": 351,
+              "url": "https://a.mktgcdn.com/p-sandbox/rONqm7Id89UgzjAHM_fyLFUonhMmBHL4g2GhSISGPrY/600x351.jpg",
+              "width": 600
+            },
+            {
+              "height": 115,
+              "url": "https://a.mktgcdn.com/p-sandbox/rONqm7Id89UgzjAHM_fyLFUonhMmBHL4g2GhSISGPrY/196x115.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rONqm7Id89UgzjAHM_fyLFUonhMmBHL4g2GhSISGPrY/1200x702.jpg",
+          "width": 1200
+        },
+        "imageCaption": "広々とした浴槽がある男性大浴場",
+        "sectionTitle": "和倉温泉有数のスケール。能登島の絶景とともに名湯に浸かる"
+      },
+      {
+        "description": "夕食の後、もう少しお酒を楽しみたいなら「バー アウラ」へ。七尾湾を望むカウンターでカクテルなどはいかがでしょうか。バーテンダーとの会話もお楽しみです。そのほか、カラオケやダンスを楽しめるナイトラウンジ「赤い酒」や、地酒と各種肴を揃えた居酒屋「季楽亭」などもあります。和倉の夜を気の合ったお仲間と存分にお楽しみください。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/htl/5343005/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/xmQ45aA5ngwuoRdeIv9GcuYCqIEbT7MuZjKQ0hfqlIY/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/xmQ45aA5ngwuoRdeIv9GcuYCqIEbT7MuZjKQ0hfqlIY/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/xmQ45aA5ngwuoRdeIv9GcuYCqIEbT7MuZjKQ0hfqlIY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/xmQ45aA5ngwuoRdeIv9GcuYCqIEbT7MuZjKQ0hfqlIY/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/xmQ45aA5ngwuoRdeIv9GcuYCqIEbT7MuZjKQ0hfqlIY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xmQ45aA5ngwuoRdeIv9GcuYCqIEbT7MuZjKQ0hfqlIY/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "豪華なラウンジ「赤い酒」",
+        "sectionTitle": "バーやナイトラウンジも。食事の後のお楽しみもいろいろ"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-06-12",
+    "c_ap_HeroImage": {
+      "alternateText": "迫力満点！「御陣乗太鼓」を間近に見ながらお食事を【石川県　あえの風】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 751,
+      "sourceUrl": "https://a.mktgcdn.com/p/wEOEcGBnANegmXmtr0giaQaP5aoTB-5zsvLInU30OSw/1200x751.jpg",
+      "thumbnails": [
+        {
+          "height": 751,
+          "url": "https://a.mktgcdn.com/p-sandbox/wEOEcGBnANegmXmtr0giaQaP5aoTB-5zsvLInU30OSw/1200x751.jpg",
+          "width": 1200
+        },
+        {
+          "height": 387,
+          "url": "https://a.mktgcdn.com/p-sandbox/wEOEcGBnANegmXmtr0giaQaP5aoTB-5zsvLInU30OSw/619x387.jpg",
+          "width": 619
+        },
+        {
+          "height": 376,
+          "url": "https://a.mktgcdn.com/p-sandbox/wEOEcGBnANegmXmtr0giaQaP5aoTB-5zsvLInU30OSw/600x376.jpg",
+          "width": 600
+        },
+        {
+          "height": 123,
+          "url": "https://a.mktgcdn.com/p-sandbox/wEOEcGBnANegmXmtr0giaQaP5aoTB-5zsvLInU30OSw/196x123.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/wEOEcGBnANegmXmtr0giaQaP5aoTB-5zsvLInU30OSw/1200x751.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "七尾湾に面した温泉リゾート",
+    "c_ap_LinkArticleSectionTitle": "石川県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "あえの風 のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/5343005/plan/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "和倉温泉の旅館・ホテル・宿おすすめランキング",
+        "uRL": "https://www.jtb.co.jp/ranking/kokunai/wakura_onsen/"
+      },
+      {
+        "linkText": "石川旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/ishikawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "北陸全般",
+      "石川県"
+    ],
+    "c_ap_ShortDescription": "和倉温泉の海辺に立つ「あえの風」は、窓からの眺望が自慢の宿です。「加賀屋」伝統のおもてなしはそのままに、郷土芸能を鑑賞しながらお食事を楽しんでいただけます。\nステージで繰り広げられるのは、石川県無形民俗文化財に登録されている「御陣乗太鼓」。迫力あるステージは、海外でも公演が行われるほどの人気です。音とパフォーマンスによる独特の世界観を、間近に体感してみてください。\nまた、浴衣やアメニティなど、子ども専用のサービスも豊富なので、家族連れにも人気があります。周囲を気にせず、カジュアルに温泉宿を楽しみたい人にはぴったりの宿です。",
+    "c_ap_Tags": [
+      "七尾",
+      "和倉温泉",
+      "加賀屋"
+    ],
+    "c_ap_Theme": [
+      "温泉・立ち寄り湯",
+      "音楽ライブ",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "迫力満点！「御陣乗太鼓」を間近に見ながらお食事を【石川県　あえの風】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "和倉温泉の海辺に立つ「あえの風」は、窓からの眺望が自慢の宿です。「加賀屋」伝統のおもてなしはそのままに、郷土芸能を鑑賞しながらお食事を楽しんでいただけます。\nステージで繰り広げられるのは、石川県無形民俗文化財…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "迫力満点！「御陣乗太鼓」を間近に見ながらお食事を【石川県　あえの風】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100045",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北陸全般, 石川県",
+    "c_searchTags": [
+      "中部・北陸：北陸全般, 石川県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：北陸全般, 石川県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "迫力満点！「御陣乗太鼓」を間近に見ながらお食事を【石川県　あえの風】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

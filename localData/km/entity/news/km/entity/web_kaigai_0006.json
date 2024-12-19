@@ -1,0 +1,787 @@
+{
+  "$id": "news_web_kaigai_0006",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1440,
+      "sourceUrl": "https://a.mktgcdn.com/p/kMS8m-EsD46YqC2c4z7Qw-Xy--vbbx2XSkMILlQVqy0/1920x1440.jpg",
+      "thumbnails": [
+        {
+          "height": 1440,
+          "url": "https://a.mktgcdn.com/p-sandbox/01_C0FCsls2cfmPKJmeb8gdqvqY0_D_eL-BDU4BLHeM/1920x1440.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1425,
+          "url": "https://a.mktgcdn.com/p-sandbox/01_C0FCsls2cfmPKJmeb8gdqvqY0_D_eL-BDU4BLHeM/1900x1425.jpg",
+          "width": 1900
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/01_C0FCsls2cfmPKJmeb8gdqvqY0_D_eL-BDU4BLHeM/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/01_C0FCsls2cfmPKJmeb8gdqvqY0_D_eL-BDU4BLHeM/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/01_C0FCsls2cfmPKJmeb8gdqvqY0_D_eL-BDU4BLHeM/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/01_C0FCsls2cfmPKJmeb8gdqvqY0_D_eL-BDU4BLHeM/1920x1440.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ハワイの記事一覧はこちら",
+        "uRL": "https://article.jtb.co.jp/kaigai/north-america/usa/hawaii/"
+      },
+      {
+        "linkText": "ハワイ島の旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hawaii-island/"
+      },
+      {
+        "linkText": "ハワイ島のツアーをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dept\u003dTYO\u0026sc.dest%5B0%5D.country\u003dH1\u0026sc.dest%5B0%5D.city\u003dKOA"
+      },
+      {
+        "linkText": "ハワイ島のホテルをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/01/201/1879/?freeword\u003d%E3%83%8F%E3%83%AF%E3%82%A4%E5%B3%B6\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d1879"
+      },
+      {
+        "linkText": "ハワイ島の現地ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aHWI/bH1/cKOA/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "ハワイの島々の中で一番大きいハワイ島は、別名「ビッグアイランド」と呼ばれています。そのハワイ島の観光のメインとなるのは、やはり世界遺産でもあるキラウエア火山で、ほかにも黒砂海岸、レインボーフォールズ、マウナ・ケア山麓でのスターゲイジングなど、大自然の中に見どころがたくさん詰まっています。自然豊かな環境で過ごすハワイ島での時間は、ワイキキと同じハワイの島とは思えないほどゆったりと流れ、日々の疲れを癒してくれるはずです。",
+    "c_ap_Tags": [
+      "ビーチ",
+      "ビーチリゾート",
+      "絶景",
+      "自然",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "ハワイ島観光で1度は訪れたいおすすめスポット紹介 大自然を満喫しよう！",
+    "c_linkedArea3News": [
+      "hawaii"
+    ],
+    "c_metaDescription": "ハワイ島の観光のメインとなるのは、やはり世界遺産でもあるキラウエア火山で、ほかにも黒砂海岸、レインボーフォールズ、マウナ・ケア山麓でのスターゲイジングなど、大自然の中に見どころがたくさん詰まっています。ハワイ島観光で大自然を満喫しよう！",
+    "c_metaTitle": "ハワイ島観光で1度は訪れたいおすすめスポット紹介 大自然を満喫しよう！",
+    "c_news_CTAs": [
+      {
+        "label": "ハワイ島のホテルをみる",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/01/201/1879/?freeword\u003d%E3%83%8F%E3%83%AF%E3%82%A4%E5%B3%B6\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d1879",
+        "linkType": "URL"
+      },
+      {
+        "label": "ハワイ島の現地ツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aHWI/bH1/cKOA/",
+        "linkType": "URL"
+      },
+      {
+        "label": "ハワイ島の旅行特集はこちら",
+        "link": "https://www.jtb.co.jp/kaigai/area/hawaii-island/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "キラウエア火山をツアーで巡る",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/bH1/cKOA/?keyWord\u003d%25E3%2582%25AD%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25A8%25E3%2582%25A2%25E7%2581%25AB%25E5%25B1%25B1\u0026searchFlag\u003d1",
+          "linkType": "URL"
+        },
+        "description": "ハワイ州で唯一の世界遺産に指定されているハワイ火山国立公園の中にキラウエア火山はあります。有名な噴火口の一つであるハレマウマウ火口は、ハワイの神話の中で「火山の女神・ペレ」が住んでおり、怒ると火山が爆発すると言われています。公園内では、真っ黒い溶岩の大地や噴火口などを見学しながら、ハワイの壮大な自然と地球のエネルギーを体感することができます。",
+        "image": {
+          "height": 1280,
+          "sourceUrl": "https://a.mktgcdn.com/p/A4enF4Isu8pdRP8_aUMYFmE3T0FfcbF6U1lNqS2-bR0/1920x1280.jpg",
+          "thumbnails": [
+            {
+              "height": 1280,
+              "url": "https://a.mktgcdn.com/p-sandbox/cyN3u_uOLddzpCn290fqs7LKL8eiscGcfpth_8bPfWo/1920x1280.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/cyN3u_uOLddzpCn290fqs7LKL8eiscGcfpth_8bPfWo/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/cyN3u_uOLddzpCn290fqs7LKL8eiscGcfpth_8bPfWo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/cyN3u_uOLddzpCn290fqs7LKL8eiscGcfpth_8bPfWo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/cyN3u_uOLddzpCn290fqs7LKL8eiscGcfpth_8bPfWo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cyN3u_uOLddzpCn290fqs7LKL8eiscGcfpth_8bPfWo/1920x1280.jpg",
+          "width": 1920
+        },
+        "imageCaption": "写真提供：ハワイ州観光局",
+        "infoBlockLabel": "ビッグアイランド・キャンディーズの情報",
+        "infoBlockText": "住所：585 Hinano St., Hilo, Hawaii営業時間：8時30分～17時定休日：なし",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．ハワイ火山国立公園、周辺エリアのおすすめ観光スポット"
+      },
+      {
+        "cTA1": {
+          "label": "プナルウ黒砂海岸をツアーで巡る",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/?keyWord\u003d%25E3%2583%2597%25E3%2583%258A%25E3%2583%25AB%25E3%2582%25A6%25E9%25BB%2592%25E7%25A0%2582%25E6%25B5%25B7%25E5%25B2%25B8\u0026searchFlag\u003d1",
+          "linkType": "URL"
+        },
+        "description": "ハワイのビーチと言えば、“白砂でさらさら”のイメージですが、ハワイ島には溶岩からできた黒砂海岸がいくつかあります。その中でも有名なのが、ハワイ島南部にあるプルナウ黒砂海岸で、真っ黒なビーチに青い海と青い空のコントラストを眺めることができます。また、「ウミガメに出会えるビーチ」とも言われており、日光浴しながらお昼寝するウミガメの姿を見られるかもしれません。",
+        "image": {
+          "height": 1536,
+          "sourceUrl": "https://a.mktgcdn.com/p/gcfXlIi40SKk-l8F7MGVErCvm-I4B_DY7k7oQr6xqoI/2048x1536.jpg",
+          "thumbnails": [
+            {
+              "height": 1536,
+              "url": "https://a.mktgcdn.com/p-sandbox/gcfXlIi40SKk-l8F7MGVErCvm-I4B_DY7k7oQr6xqoI/2048x1536.jpg",
+              "width": 2048
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/gcfXlIi40SKk-l8F7MGVErCvm-I4B_DY7k7oQr6xqoI/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/gcfXlIi40SKk-l8F7MGVErCvm-I4B_DY7k7oQr6xqoI/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/gcfXlIi40SKk-l8F7MGVErCvm-I4B_DY7k7oQr6xqoI/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/gcfXlIi40SKk-l8F7MGVErCvm-I4B_DY7k7oQr6xqoI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gcfXlIi40SKk-l8F7MGVErCvm-I4B_DY7k7oQr6xqoI/2048x1536.jpg",
+          "width": 2048
+        },
+        "imageCaption": "写真提供：ハワイ州観光局",
+        "infoBlockLabel": "プウコホラ・ヘイアウ国立歴史公園の情報",
+        "infoBlockText": "住所：62-3601 Kawaihae Rd., Kawaihae, Hawaii営業時間：7時30分～17時定休日：なし入場料：無料",
+        "sectionLevel": "h3",
+        "sectionTitle": "キラウエア火山"
+      },
+      {
+        "cTA1": {
+          "label": "サウスポイントをツアーで巡る",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/bH1/cKOA/?keyWord\u003d%25E3%2582%25B5%25E3%2582%25A6%25E3%2582%25B9%25E3%2583%259D%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2588\u0026searchFlag\u003d1",
+          "linkType": "URL"
+        },
+        "description": "プルナウ黒砂海岸から車で約40分のところに、「幻（奇跡）のビーチ」とも言われるパパコレア・グリーンサンド・ビーチがあります。火山灰などでできた丘が海水に浸食されてできたもので、グリーンサンド（緑の砂）とは、砂の中にオリーブ色のカンラン石（ペリドットの原石）という鉱物の結晶が含まれているためで、ビーチの砂を手に取ってよく見てみると綺麗な緑色の石が確認することができます。ただし、決して行きやすい場所ではなく、駐車場からビーチまでは約4～5ｋｍあるので、「幻のビーチ」が見たければ、片道およそ1時間は歩く覚悟が必要です。また、希少な砂のため持ち帰ることはできません。",
+        "image": {
+          "height": 1281,
+          "sourceUrl": "https://a.mktgcdn.com/p/MD1atLiIej2pjzPBGMi-QLcZhGJ-Ksy7GL44fz46_NU/1920x1281.jpg",
+          "thumbnails": [
+            {
+              "height": 1281,
+              "url": "https://a.mktgcdn.com/p-sandbox/fwGO4o0PAeDMKyY8Hzxqa_8hkgwUM9Skbt2dliY1tV8/1920x1281.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1268,
+              "url": "https://a.mktgcdn.com/p-sandbox/fwGO4o0PAeDMKyY8Hzxqa_8hkgwUM9Skbt2dliY1tV8/1900x1268.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/fwGO4o0PAeDMKyY8Hzxqa_8hkgwUM9Skbt2dliY1tV8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/fwGO4o0PAeDMKyY8Hzxqa_8hkgwUM9Skbt2dliY1tV8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/fwGO4o0PAeDMKyY8Hzxqa_8hkgwUM9Skbt2dliY1tV8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fwGO4o0PAeDMKyY8Hzxqa_8hkgwUM9Skbt2dliY1tV8/1920x1281.jpg",
+          "width": 1920
+        },
+        "imageCaption": "写真提供：ハワイ州観光局",
+        "infoBlockLabel": "パーカー牧場の情報",
+        "infoBlockText": "住所：66-1304 Mamalahoa Hwy., Kamuela(Headquater), Hawaii営業時間：8時30分～16時定休日：土・日・祝日入場料：無料",
+        "sectionLevel": "h3",
+        "sectionTitle": "プナルウ黒砂海岸"
+      },
+      {
+        "cTA1": {
+          "label": "レインボー滝をツアーで巡る",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/bH1/cKOA/?keyWord\u003d%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%259C%25E3%2583%25BC%25E6%25BB%259D\u0026searchFlag\u003d1",
+          "linkType": "URL"
+        },
+        "description": "ハワイ島最南端のサウスポイント、ハワイ語で「カ・ラエ岬」は、アメリカ合衆国最南端で、西暦400年～800年頃、ポリネシア人が初めて上陸したと言われています。岬の灯台の脇には、カラレアヘイアウ（寺院の遺跡）があり、神聖な場所とされています。また、かつてポリネシア人が、強風や潮流で船が流されないよう、溶岩に穴を開けてカヌーをロープで固定していた大きな岩をいくつも確認することができます。近くには強風を活かした風力発電所や、強風によって枝の向きが一定方向へ向いた木々なども見ることができます。",
+        "image": {
+          "height": 1440,
+          "sourceUrl": "https://a.mktgcdn.com/p/kMS8m-EsD46YqC2c4z7Qw-Xy--vbbx2XSkMILlQVqy0/1920x1440.jpg",
+          "thumbnails": [
+            {
+              "height": 1440,
+              "url": "https://a.mktgcdn.com/p-sandbox/01_C0FCsls2cfmPKJmeb8gdqvqY0_D_eL-BDU4BLHeM/1920x1440.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/01_C0FCsls2cfmPKJmeb8gdqvqY0_D_eL-BDU4BLHeM/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/01_C0FCsls2cfmPKJmeb8gdqvqY0_D_eL-BDU4BLHeM/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/01_C0FCsls2cfmPKJmeb8gdqvqY0_D_eL-BDU4BLHeM/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/01_C0FCsls2cfmPKJmeb8gdqvqY0_D_eL-BDU4BLHeM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/01_C0FCsls2cfmPKJmeb8gdqvqY0_D_eL-BDU4BLHeM/1920x1440.jpg",
+          "width": 1920
+        },
+        "imageCaption": "写真提供：ハワイ州観光局",
+        "sectionLevel": "h3",
+        "sectionTitle": "パパコレア・グリーン・サンド・ビーチ"
+      },
+      {
+        "cTA1": {
+          "label": "ファーマーズマーケットを詳しく知ろう！",
+          "link": "https://www.jtb.co.jp/myjtb/card/travel_life/column/article408.asp",
+          "linkType": "URL"
+        },
+        "description": "レインボー・フォールズは、ハワイ島東部のヒロの街中を流れるワイルク川にある滝で、その名の通り、滝に虹が架かることで知られています。滝の落差は24ｍ、滝壺の直径はおよそ30ｍと言われ、水量が最大になる雨季は滝壺も激流となり、迫力が増します。常に虹が架かる訳ではないため、水量の多い晴れた日の午前中に訪れると神秘的な虹を見ることができるかもしれません。",
+        "image": {
+          "height": 1281,
+          "sourceUrl": "https://a.mktgcdn.com/p/hez2cb_oI65kslTRXoqHIbYaq46fLqByBpzxR-yvwZg/1920x1281.jpg",
+          "thumbnails": [
+            {
+              "height": 1281,
+              "url": "https://a.mktgcdn.com/p-sandbox/B9hzVJI29zQp0_2HsiZsHbC8vBYIOU4cvzs1k5eS6DA/1920x1281.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1268,
+              "url": "https://a.mktgcdn.com/p-sandbox/B9hzVJI29zQp0_2HsiZsHbC8vBYIOU4cvzs1k5eS6DA/1900x1268.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/B9hzVJI29zQp0_2HsiZsHbC8vBYIOU4cvzs1k5eS6DA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/B9hzVJI29zQp0_2HsiZsHbC8vBYIOU4cvzs1k5eS6DA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/B9hzVJI29zQp0_2HsiZsHbC8vBYIOU4cvzs1k5eS6DA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/B9hzVJI29zQp0_2HsiZsHbC8vBYIOU4cvzs1k5eS6DA/1920x1281.jpg",
+          "width": 1920
+        },
+        "imageCaption": "写真提供：ハワイ州観光局",
+        "sectionLevel": "h3",
+        "sectionTitle": "サウスポイント（カ・ラエ）"
+      },
+      {
+        "cTA1": {
+          "label": "ハプナ ビーチで夕日を眺める",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/prddetail/p290000973/",
+          "linkType": "URL"
+        },
+        "description": "レインボー・フォールズと同じく有名なのが、ハワイ島最大と言われる落差約134ｍから轟音を立てて流れ落ちる大迫力のアカカ滝です。アカカ滝州立公園には、もう一つ小さなカフナ滝があり、ゆるやかな上り坂のハイキングコース（約800ｍ）を野生の植物を観察しながら散策することができます。",
+        "image": {
+          "height": 1279,
+          "sourceUrl": "https://a.mktgcdn.com/p/_jOZce8fi3_xlQ-QgxRsuQLMGWsBlyM7M6R_8a9gf8Y/1920x1279.jpg",
+          "thumbnails": [
+            {
+              "height": 1279,
+              "url": "https://a.mktgcdn.com/p-sandbox/kxVRyGMnkr7gcsaxdX-GVO8ak1Ot3IWFOgKXDfqQUSI/1920x1279.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/kxVRyGMnkr7gcsaxdX-GVO8ak1Ot3IWFOgKXDfqQUSI/1900x1266.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/kxVRyGMnkr7gcsaxdX-GVO8ak1Ot3IWFOgKXDfqQUSI/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/kxVRyGMnkr7gcsaxdX-GVO8ak1Ot3IWFOgKXDfqQUSI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/kxVRyGMnkr7gcsaxdX-GVO8ak1Ot3IWFOgKXDfqQUSI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kxVRyGMnkr7gcsaxdX-GVO8ak1Ot3IWFOgKXDfqQUSI/1920x1279.jpg",
+          "width": 1920
+        },
+        "imageCaption": "写真提供：ハワイ州観光局",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．ヒロ～マウナ・ケア周辺のおすすめ観光スポット"
+      },
+      {
+        "description": "1977年ハワイ島ヒロ地区で創業したビッグアイランド・キャンディーズ は、ハワイのお土産の定番とも言えるクッキーで有名です。今では、アラモアナ・センターやＴ ギャラリア ハワイ by DFSでも購入できますが、ヒロ本店には、オアフ島では手に入らない限定のクッキーやチョコレートブラウニーなど豊富な品揃えで目移りしてしまうほどです。ショップ内では、ガラス越しに工場見学ができたり、試食をしながらお土産探しを楽しむことができます。",
+        "image": {
+          "height": 467,
+          "sourceUrl": "https://a.mktgcdn.com/p/sV3-8O4zBw_uIsuWlm613FNRHiVw5HUrW-6FAZqFu-4/700x467.jpg",
+          "thumbnails": [
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p-sandbox/j_eANAWnQMavvI4wIE_wNoTGQR0U8U7o0tzgauVgTpY/700x467.jpg",
+              "width": 700
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/j_eANAWnQMavvI4wIE_wNoTGQR0U8U7o0tzgauVgTpY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/j_eANAWnQMavvI4wIE_wNoTGQR0U8U7o0tzgauVgTpY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/j_eANAWnQMavvI4wIE_wNoTGQR0U8U7o0tzgauVgTpY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/j_eANAWnQMavvI4wIE_wNoTGQR0U8U7o0tzgauVgTpY/700x467.jpg",
+          "width": 700
+        },
+        "imageCaption": "写真提供：ハワイ州観光局",
+        "sectionLevel": "h3",
+        "sectionTitle": "レインボー滝（レインボー・フォールズ）"
+      },
+      {
+        "description": "カイルア・コナの中心にある駐車場で水曜日～日曜まで朝7時から開催されるファーマーズマーケットは、ヒロやワイメアのファーマーズマーケットより規模は小さいながらも、およそ40を超える店舗が並びます。地元産の新鮮なフルーツやハンドメイドクラフトなど、見て回るだけでも楽しむことができ、ローカル気分を味わうことができます。",
+        "image": {
+          "height": 1282,
+          "sourceUrl": "https://a.mktgcdn.com/p/A2WfmkolBcd_qhKDn4xMJJqzTznOtsvWYapQSqKA_64/1920x1282.jpg",
+          "thumbnails": [
+            {
+              "height": 1282,
+              "url": "https://a.mktgcdn.com/p-sandbox/q13MvMEnOpv9beds_n2kzB-aTBsT3705MuzQxkPLGkw/1920x1282.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1269,
+              "url": "https://a.mktgcdn.com/p-sandbox/q13MvMEnOpv9beds_n2kzB-aTBsT3705MuzQxkPLGkw/1900x1269.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/q13MvMEnOpv9beds_n2kzB-aTBsT3705MuzQxkPLGkw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/q13MvMEnOpv9beds_n2kzB-aTBsT3705MuzQxkPLGkw/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/q13MvMEnOpv9beds_n2kzB-aTBsT3705MuzQxkPLGkw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/q13MvMEnOpv9beds_n2kzB-aTBsT3705MuzQxkPLGkw/1920x1282.jpg",
+          "width": 1920
+        },
+        "imageCaption": "©Hawaii Tourism Authority（HTA）/ Tor Johnson",
+        "sectionLevel": "h3",
+        "sectionTitle": "アカカ滝州立公園（アカカ滝）"
+      },
+      {
+        "description": "ハワイと言えば、やっぱり「コナコーヒー」。その本場コナにはたくさんのコーヒー農園があり、ドトールやUCCなど日本のコーヒーブランドも農園を構えています。ドトールのコーヒー農園は東京ドーム約16個分の敷地を誇り、手入れが行き届いた庭園を散策することができます。また、UCC直営農園では、農園見学はもちろん、自分好みのオリジナルコーヒーが作れる焙煎体験など、コーヒー好きにはたまらない魅力的なツアーがあります。",
+        "image": {
+          "height": 1440,
+          "sourceUrl": "https://a.mktgcdn.com/p/aY05JHNO4aT5jx2wKJtIAuzD2LgTD3vK9EJwC0bRvUo/1920x1440.jpg",
+          "thumbnails": [
+            {
+              "height": 1440,
+              "url": "https://a.mktgcdn.com/p-sandbox/yZQtGsqn65Xq_umkFeePrMVsH1SQ5YDpVcrsiNOWb-8/1920x1440.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/yZQtGsqn65Xq_umkFeePrMVsH1SQ5YDpVcrsiNOWb-8/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/yZQtGsqn65Xq_umkFeePrMVsH1SQ5YDpVcrsiNOWb-8/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/yZQtGsqn65Xq_umkFeePrMVsH1SQ5YDpVcrsiNOWb-8/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/yZQtGsqn65Xq_umkFeePrMVsH1SQ5YDpVcrsiNOWb-8/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yZQtGsqn65Xq_umkFeePrMVsH1SQ5YDpVcrsiNOWb-8/1920x1440.jpg",
+          "width": 1920
+        },
+        "imageCaption": "写真提供：ハワイ州観光局",
+        "sectionLevel": "h3",
+        "sectionTitle": "ビッグアイランド・キャンディーズ"
+      },
+      {
+        "description": "ハワイ島はマンタに会える確率が高いと言われており、夜の海で光に群がるプランクトン目当てに集まる、野生のマンタが見られるシュノーケリングツアーが人気です。ツアーでは、ホノコハウ・ハーバーからボートでマンタに出会えるポイントへ向かいます。夜の海を優雅に泳ぐマンタを間近に見ながらのシュノーケリングは、迫力満点で大興奮間違いなし。ハワイ島での忘れられない思い出となるでしょう。",
+        "image": {
+          "height": 1314,
+          "sourceUrl": "https://a.mktgcdn.com/p/3Xs1sbRJAwKS1C8HTtfv62cOXjskgyChUr652xxMCBU/1972x1314.jpg",
+          "thumbnails": [
+            {
+              "height": 1314,
+              "url": "https://a.mktgcdn.com/p-sandbox/3Xs1sbRJAwKS1C8HTtfv62cOXjskgyChUr652xxMCBU/1972x1314.jpg",
+              "width": 1972
+            },
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/3Xs1sbRJAwKS1C8HTtfv62cOXjskgyChUr652xxMCBU/1900x1266.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/3Xs1sbRJAwKS1C8HTtfv62cOXjskgyChUr652xxMCBU/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/3Xs1sbRJAwKS1C8HTtfv62cOXjskgyChUr652xxMCBU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/3Xs1sbRJAwKS1C8HTtfv62cOXjskgyChUr652xxMCBU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3Xs1sbRJAwKS1C8HTtfv62cOXjskgyChUr652xxMCBU/1972x1314.jpg",
+          "width": 1972
+        },
+        "imageCaption": "写真提供：ハワイ州観光局",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．カイルア・コナ周辺のおすすめ観光スポット"
+      },
+      {
+        "description": "ハワイ島西部のリゾートエリア、コハラコーストにあるハプナビーチは、「全米ベストビーチ　No.1」に輝いたこともある、ハワイ島では数少ない白砂の広くて美しいビーチです。このエリアは晴天率が高く、年間を通してボディボード、シュノーケリングなどのビーチアクティビティを楽しむことができます。",
+        "image": {
+          "height": 1282,
+          "sourceUrl": "https://a.mktgcdn.com/p/3NSbIA3IaqsYkSSPnuOtrKByW8j7yvoBl704hoI1BUI/1920x1282.jpg",
+          "thumbnails": [
+            {
+              "height": 1282,
+              "url": "https://a.mktgcdn.com/p-sandbox/SXhunx0s5MAEgvDhNtpcPPug8cw4n6sgz93NXeV7OQI/1920x1282.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1269,
+              "url": "https://a.mktgcdn.com/p-sandbox/SXhunx0s5MAEgvDhNtpcPPug8cw4n6sgz93NXeV7OQI/1900x1269.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/SXhunx0s5MAEgvDhNtpcPPug8cw4n6sgz93NXeV7OQI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/SXhunx0s5MAEgvDhNtpcPPug8cw4n6sgz93NXeV7OQI/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/SXhunx0s5MAEgvDhNtpcPPug8cw4n6sgz93NXeV7OQI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SXhunx0s5MAEgvDhNtpcPPug8cw4n6sgz93NXeV7OQI/1920x1282.jpg",
+          "width": 1920
+        },
+        "imageCaption": "写真提供：ハワイ州観光局",
+        "sectionLevel": "h3",
+        "sectionTitle": "ファーマーズマーケット"
+      },
+      {
+        "description": "ワイコロアは、コハラコーストエリアの中でもリゾートホテル、クイーンズ・マーケットプレイスとキングス・ショップスの2つのショッピングモール、ゴルフ場などがある洗練された大型リゾートです。ホテル内でのんびり過ごすのも良いですが、ワイコロア・ショッピング・シャトルを使えば、2つのショッピングモールでお買い物やグルメなど、充実したハワイ島の旅を楽しむことができます。",
+        "image": {
+          "height": 680,
+          "sourceUrl": "https://a.mktgcdn.com/p/QzDhZUyCkJmPotMR_rEAAt_j0nuEYk76XrBeXp5smW8/1024x680.jpg",
+          "thumbnails": [
+            {
+              "height": 680,
+              "url": "https://a.mktgcdn.com/p-sandbox/QzDhZUyCkJmPotMR_rEAAt_j0nuEYk76XrBeXp5smW8/1024x680.jpg",
+              "width": 1024
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/QzDhZUyCkJmPotMR_rEAAt_j0nuEYk76XrBeXp5smW8/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/QzDhZUyCkJmPotMR_rEAAt_j0nuEYk76XrBeXp5smW8/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/QzDhZUyCkJmPotMR_rEAAt_j0nuEYk76XrBeXp5smW8/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QzDhZUyCkJmPotMR_rEAAt_j0nuEYk76XrBeXp5smW8/1024x680.jpg",
+          "width": 1024
+        },
+        "imageCaption": "写真提供：ハワイ州観光局",
+        "sectionLevel": "h3",
+        "sectionTitle": "コーヒー農園（ドトール、UCCなど）"
+      },
+      {
+        "description": "北コハラコーストにあるプウコホラ・ヘイアウは、1791年にカメハメハ大王がある預言者による、「ここに神殿を建てればハワイ諸島を統一できる」という預言に従って建てた神殿（ヘイアウ）です。大きな石造りの神殿は20km以上も離れたポロル渓谷から一つ一つ手渡しで積み上げられたと言われており、その後、預言通りにカメハメハ大王はハワイ諸島統一を成し遂げました。その一帯が国立歴史公園に指定されており、公園内にはビジターセンターが併設され、当時の武器や道具の展示の他、ヘイアウ周辺の歴史を学ぶことができます。",
+        "image": {
+          "height": 960,
+          "sourceUrl": "https://a.mktgcdn.com/p/uJffjAF3Y-mCN82MMh0fKbu8mCznMVi3065ncp6pz10/1280x960.jpg",
+          "thumbnails": [
+            {
+              "height": 960,
+              "url": "https://a.mktgcdn.com/p-sandbox/uJffjAF3Y-mCN82MMh0fKbu8mCznMVi3065ncp6pz10/1280x960.jpg",
+              "width": 1280
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/uJffjAF3Y-mCN82MMh0fKbu8mCznMVi3065ncp6pz10/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/uJffjAF3Y-mCN82MMh0fKbu8mCznMVi3065ncp6pz10/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/uJffjAF3Y-mCN82MMh0fKbu8mCznMVi3065ncp6pz10/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uJffjAF3Y-mCN82MMh0fKbu8mCznMVi3065ncp6pz10/1280x960.jpg",
+          "width": 1280
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ホノコハウ・ハーバー（マンタツアー）"
+      },
+      {
+        "description": "マウナ・ラニ・リゾート内にあるカラフイプアア歴史公園は、「オーラが見える」と言われる洞窟があることで有名です。公園内の遊歩道を5～10分ほど歩くと小さな洞窟があり、洞窟の天井に穴が開いた部分の下に立ってデジタルカメラやスマートフォンで撮影すると自然光によってオーラ（のような光）が映ると言われています。オーラは人によって色が変わると言われているため、自分のオーラは何色なのか、確かめに行くのも良いかもしれません。そのほか公園内には、王様に献上するために作られたフィッシュポンド（養殖池）があり、マウナラニ周辺で最もパワーが感じられる場所として知られています。",
+        "image": {
+          "height": 1282,
+          "sourceUrl": "https://a.mktgcdn.com/p/6rUZnGr6sfpwE6HWzp4vm4xKPxIVOISX2kPWtqM0Eos/1920x1282.jpg",
+          "thumbnails": [
+            {
+              "height": 1282,
+              "url": "https://a.mktgcdn.com/p-sandbox/6JMTWgNKNV2x9_U51r60kqgA6uUQv5wpWbbRZPl8T7g/1920x1282.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1269,
+              "url": "https://a.mktgcdn.com/p-sandbox/6JMTWgNKNV2x9_U51r60kqgA6uUQv5wpWbbRZPl8T7g/1900x1269.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/6JMTWgNKNV2x9_U51r60kqgA6uUQv5wpWbbRZPl8T7g/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/6JMTWgNKNV2x9_U51r60kqgA6uUQv5wpWbbRZPl8T7g/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/6JMTWgNKNV2x9_U51r60kqgA6uUQv5wpWbbRZPl8T7g/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6JMTWgNKNV2x9_U51r60kqgA6uUQv5wpWbbRZPl8T7g/1920x1282.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "4．カイルアエリアのおすすめ観光スポット"
+      },
+      {
+        "description": "全米最大規模と言われる、総面積約1000ｋ㎡以上のパーカー牧場は、1947年カメハメハ大王の側近だったジョン・パーマー・パーカーによって設立され、現在は慈善団体によって経営されています。ビジターセンターでは、昔のハワイの牧畜に関する道具などの展示などを見学することでき、牧場近くにあるパーカーランチストアでは、本格的なカウボーイグッズやハワイ島のお土産を手に入れることができます。",
+        "image": {
+          "height": 1281,
+          "sourceUrl": "https://a.mktgcdn.com/p/pZrlvilOaHy8ZN0yX3xAN_rgOt55J6DV_1Z8s9J8wjw/1920x1281.jpg",
+          "thumbnails": [
+            {
+              "height": 1281,
+              "url": "https://a.mktgcdn.com/p-sandbox/EGQ2vAzHhEZ9AK-TuD58AIdP5jlEns6m2zuCqjRrHAc/1920x1281.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1268,
+              "url": "https://a.mktgcdn.com/p-sandbox/EGQ2vAzHhEZ9AK-TuD58AIdP5jlEns6m2zuCqjRrHAc/1900x1268.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/EGQ2vAzHhEZ9AK-TuD58AIdP5jlEns6m2zuCqjRrHAc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/EGQ2vAzHhEZ9AK-TuD58AIdP5jlEns6m2zuCqjRrHAc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/EGQ2vAzHhEZ9AK-TuD58AIdP5jlEns6m2zuCqjRrHAc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EGQ2vAzHhEZ9AK-TuD58AIdP5jlEns6m2zuCqjRrHAc/1920x1281.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ハプナ ビーチ"
+      },
+      {
+        "description": "ハワイ島北部にあるコハラ山脈の数ある渓谷の中で最も有名なワイピオ渓谷は、カメハメハ大王が幼少期に過ごしたとされ、「王（王家）の谷」と呼ばれ、ハワイアンにとって神聖な場所として知られています。海沿いにあるワイピオ渓谷展望台からは、断崖絶壁と瑞々しい緑、打ち寄せる波と青い空の雄大な景観を望むことができ、オプショナルツアーなどでは、渓谷へ降りて馬車や乗馬で散策することもできます。",
+        "image": {
+          "height": 1281,
+          "sourceUrl": "https://a.mktgcdn.com/p/1Dy5j24sdjkSkDG2wNFE0MxYuOR_fLdeLwdh2YNsngA/1920x1281.jpg",
+          "thumbnails": [
+            {
+              "height": 1281,
+              "url": "https://a.mktgcdn.com/p-sandbox/Aqz-YLBkfZ1mRy0PZ-x2dsyXb-6yhT07edzP8YFbuJA/1920x1281.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1268,
+              "url": "https://a.mktgcdn.com/p-sandbox/Aqz-YLBkfZ1mRy0PZ-x2dsyXb-6yhT07edzP8YFbuJA/1900x1268.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Aqz-YLBkfZ1mRy0PZ-x2dsyXb-6yhT07edzP8YFbuJA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Aqz-YLBkfZ1mRy0PZ-x2dsyXb-6yhT07edzP8YFbuJA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Aqz-YLBkfZ1mRy0PZ-x2dsyXb-6yhT07edzP8YFbuJA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Aqz-YLBkfZ1mRy0PZ-x2dsyXb-6yhT07edzP8YFbuJA/1920x1281.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ワイコロア（クイーンズ・マーケットプレイス、キングスショップなど）"
+      },
+      {
+        "description": "映画の舞台になり一躍有名になったと言われるホノカアは、ハワイ島北東にある小さな街です。かつてサトウキビやマカダミアナッツ産業で栄えた土地で、日系移民とも関わりが深く、街のあちこちでその歴史を感じることができます。レトロな街並みには、雑貨屋さんやカフェなどがあり、散策するだけでも古き良きハワイの雰囲気を楽しむことができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "プウコホラ・ヘイアウ国立歴史公園"
+      },
+      {
+        "description": "ハワイ島は、大自然を存分に体で感じることができる島です。その一つ一つの広大なスケールや大自然の力強さに圧倒されながら、日頃の疲れを癒し、パワーチャージをしに出かけるのに最適な島とも言えます。ハワイ島へは羽田からの直行便もあるのでアクセスも便利です。ハワイ島滞在のみで6日間や7日間でも、オプショナルツアーやリゾートホテル内で存分に楽しめます。やっぱり最後はワイキキでお買い物して帰ろうという場合は、1泊もしくは2泊をホノルル滞在にしても良いですね。",
+        "sectionLevel": "h3",
+        "sectionTitle": "カラフイプアア歴史公園（マウナラニ、オーラの洞窟）"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "パーカー牧場"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "ワイピオ渓谷"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "ホノカア"
+      },
+      {
+        "sectionLevel": "h2",
+        "sectionTitle": "5．まとめ"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0008",
+      "news_web_kaigai_0009"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2019-11-12",
+    "c_news_UpdateDate": "2024-07-19",
+    "c_news_ViewCount": "5808",
+    "c_news_ViewCount2of2": "5808",
+    "c_news_ViewCountNum": "5808",
+    "c_news_ViewCountNumForSorting": "343",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_web_kaigai_0006",
+    "c_relatedAreas": [
+      "hawaii"
+    ],
+    "name": "ハワイ島観光で1度は訪れたいおすすめスポット紹介 大自然を満喫しよう！",
+    "slug": "kaigai/beach_resort/hawaii/news_web_kaigai_0006",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

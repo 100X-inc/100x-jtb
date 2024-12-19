@@ -1,0 +1,63 @@
+{
+  "$id": "oita",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "kyushu"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_n_bandaira067_003",
+      "news_ap_y_ishihara225_011",
+      "news_ap_chiki_100180",
+      "news_ap_s_murai092_006",
+      "news_ap_h_tominaga084_009",
+      "news_ap_n_morita323_004",
+      "news_ap_h_furuta308_006",
+      "news_ap_n_bandaira067_004",
+      "news_ap_chiki_100177",
+      "news_ap_chiki_100178"
+    ],
+    "c_metaDescription": "大分に関する記事をピックアップ！JTBニュースでは、大分で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 大分 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "大分",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/G0fd-ECu_Z6gZvhSzL8xpoS_EF8rqER2YMda3x5Lv0E/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/-1VXuHi66PXoYst0UHWDomMrEOtZM-63Admao93GPf4/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/-1VXuHi66PXoYst0UHWDomMrEOtZM-63Admao93GPf4/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/-1VXuHi66PXoYst0UHWDomMrEOtZM-63Admao93GPf4/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/-1VXuHi66PXoYst0UHWDomMrEOtZM-63Admao93GPf4/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/-1VXuHi66PXoYst0UHWDomMrEOtZM-63Admao93GPf4/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/-1VXuHi66PXoYst0UHWDomMrEOtZM-63Admao93GPf4/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "大分",
+    "slug": "kokunai/kyushu/oita"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

@@ -1,0 +1,75 @@
+{
+  "$id": "cp_14123039",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "たの の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVeiB2X",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf-Bd",
+      "linkType": "URL"
+    },
+    "c_cp_DisplayName": "たの",
+    "c_cp_JobTitle": "JTB渋谷ヒカリエシンクス店　トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 1352,
+      "sourceUrl": "https://a.mktgcdn.com/p/f1kVWVlhDKyADUshDsiRv8XvY4B-j12pJmqm7lIxAHw/1053x1352.jpg",
+      "thumbnails": [
+        {
+          "height": 1352,
+          "url": "https://a.mktgcdn.com/p-sandbox/f1kVWVlhDKyADUshDsiRv8XvY4B-j12pJmqm7lIxAHw/1053x1352.jpg",
+          "width": 1053
+        },
+        {
+          "height": 795,
+          "url": "https://a.mktgcdn.com/p-sandbox/f1kVWVlhDKyADUshDsiRv8XvY4B-j12pJmqm7lIxAHw/619x795.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/f1kVWVlhDKyADUshDsiRv8XvY4B-j12pJmqm7lIxAHw/350x450.jpg",
+          "width": 350
+        },
+        {
+          "height": 252,
+          "url": "https://a.mktgcdn.com/p-sandbox/f1kVWVlhDKyADUshDsiRv8XvY4B-j12pJmqm7lIxAHw/196x252.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/f1kVWVlhDKyADUshDsiRv8XvY4B-j12pJmqm7lIxAHw/1053x1352.jpg",
+      "width": 1053
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "ハワイスペシャリスト上級",
+      "クルーズコンサルタント",
+      "ハワイ",
+      "沖縄",
+      "スノーリゾート"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | たの",
+    "c_metaTitle": "JTBトラベルコンサルタント | たの",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_14123039",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10161_渋谷ヒカリエシンクス店",
+    "name": "たのはるな_14123039",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

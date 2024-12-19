@@ -1,0 +1,121 @@
+{
+  "$id": "top-family",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Hero-imageCaption {\ntext-shadow: 0 0 10px #010101;\n}\n\n/* バックグラウンドカラーを濃いめに */\n.Consultants-wrapper {\n    background-color: #f5f6f7;\n}\n.Locator-wrapper {\n    background-color: #f5f6f7;\n}\n.Teaser--article.Teaser--articleTop {\n    background-color: #f5f6f7;\n}\n.InfoItem {\n    background-color: #f5f6f7;\n}\n\n/* サブタイトルのラップ */\n.Consultants-subtitle {\nwhite-space: pre-wrap;\n}\n.Locator-subtitle {\nwhite-space: pre-wrap;\n}\n.Info-subtitle {\nwhite-space: pre-wrap;\n}\n\n\n/* Information セクションの画像をオリジナルのままの比率で表示 */\n.InfoItem-image {\n    height: unset;\n}\n\n/* アコーディオンタイトルのセンタリング */\n.FAQ-questionText {\n margin: auto;\nfont-size: 1.1rem;\n}\n\n/* FAQ のリンクの色 */\n.Consultants .FAQ--ace .FAQ-answerText a {\ncolor: #3498db;\n\n}\n\n/* スムーススクロール */\nhtml { \nscroll-behavior: smooth;\n}\n\n/* locator を hidden */\n#locator {\ndisplay: none;\n}\n\n/* \n  下線部カラー：水色\n  下線部の太さ：細目\n*/\n.OnlineConsultation-subtitle,\n.Consultants-subtitle,\n.Articles-subtitle,\n.Info-subtitle \n{\n    text-decoration-color: skyblue;\n    text-decoration-thickness: 0.15rem;\n}",
+    "c_activeOnTops": true,
+    "c_cSSMobile": "/* 現在地が折り返さないように */\na.Locator-button.Locator-geolocate {\n  width: 6rem;\n}\n\n\n/* locator を hidden */\n#locator {\ndisplay: none;\n}",
+    "c_metaTitle": "JTB | ファミリースタッフ | ジェイティービー |",
+    "c_pagesURL": "https://consultants.jtb.co.jp/top-family",
+    "c_topBreadcrumb": {
+      "label": "ファミリースタッフ",
+      "link": "top-family",
+      "linkType": "OTHER"
+    },
+    "c_topTemplate": "STANDARD",
+    "c_top_BannerBackgroundColor": "#FFF450",
+    "c_top_Consultants": [
+      "cp_14075055",
+      "cp_14005007",
+      "cp_12079017",
+      "cp_14093032",
+      "cp_14075078",
+      "cp_20071002",
+      "cp_14035063",
+      "cp_14095308",
+      "cp_14075326",
+      "cp_20081001",
+      "cp_20081312",
+      "cp_14082520",
+      "cp_21062108",
+      "cp_18164156",
+      "cp_14131566",
+      "cp_20171021",
+      "cp_20971302",
+      "cp_11110036",
+      "cp_21091331",
+      "cp_13118804",
+      "cp_21041303",
+      "cp_14075302"
+    ],
+    "c_top_ConsultantsButton1": {
+      "label": "JTBスタッフの絞込みはこちら",
+      "link": "/family/",
+      "linkType": "OTHER"
+    },
+    "c_top_ConsultantsSectionHTML": "\u003cscript\u003e\nwindow.addEventListener(\u0027load\u0027, function() {\n  atags \u003d document.querySelectorAll(\u0027.FAQ-answerText a[href^\u003d\"https:\"]\u0027);\n  atags.forEach(function(atag){atag.setAttribute(\u0027target\u0027, \u0027_blank\u0027);});\n});\n\u003c/script\u003e",
+    "c_top_ConsultantsSectionSubTitle": "家族旅行の得意な専門スタッフが、ご家族の最適なご旅行をお手伝いいたします。\u003c/br\u003eプロフィール画像をクリックすると、各スタッフの得意エリア・得意ジャンル等が表示されます。\u003c/br\u003e気になるスタッフが所属する店舗の来店予約はもちろん、ご自宅で直接リモート相談・予約も可能です！",
+    "c_top_ConsultantsSectionTitle": "専門スタッフのご紹介",
+    "c_top_HeroImage": {
+      "height": 1434,
+      "sourceUrl": "https://a.mktgcdn.com/p/Tt764dJgyU5dRGxlpC0uPuzdJhoT0nFR-gjYvPgVWJk/2150x1434.jpg",
+      "thumbnails": [
+        {
+          "height": 1434,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tt764dJgyU5dRGxlpC0uPuzdJhoT0nFR-gjYvPgVWJk/2150x1434.jpg",
+          "width": 2150
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tt764dJgyU5dRGxlpC0uPuzdJhoT0nFR-gjYvPgVWJk/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tt764dJgyU5dRGxlpC0uPuzdJhoT0nFR-gjYvPgVWJk/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tt764dJgyU5dRGxlpC0uPuzdJhoT0nFR-gjYvPgVWJk/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tt764dJgyU5dRGxlpC0uPuzdJhoT0nFR-gjYvPgVWJk/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Tt764dJgyU5dRGxlpC0uPuzdJhoT0nFR-gjYvPgVWJk/2150x1434.jpg",
+      "width": 2150
+    },
+    "c_top_HeroImageCaption": "家族旅行が得意なJTBスタッフが\n最適な旅をご提案いたします",
+    "c_top_HeroImageMobile": {
+      "height": 1434,
+      "sourceUrl": "https://a.mktgcdn.com/p/Tt764dJgyU5dRGxlpC0uPuzdJhoT0nFR-gjYvPgVWJk/2150x1434.jpg",
+      "thumbnails": [
+        {
+          "height": 1434,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tt764dJgyU5dRGxlpC0uPuzdJhoT0nFR-gjYvPgVWJk/2150x1434.jpg",
+          "width": 2150
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tt764dJgyU5dRGxlpC0uPuzdJhoT0nFR-gjYvPgVWJk/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tt764dJgyU5dRGxlpC0uPuzdJhoT0nFR-gjYvPgVWJk/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tt764dJgyU5dRGxlpC0uPuzdJhoT0nFR-gjYvPgVWJk/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/Tt764dJgyU5dRGxlpC0uPuzdJhoT0nFR-gjYvPgVWJk/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Tt764dJgyU5dRGxlpC0uPuzdJhoT0nFR-gjYvPgVWJk/2150x1434.jpg",
+      "width": 2150
+    },
+    "name": "TOP ファミリースタッフ"
+  },
+  "entityType": "ce_tOP",
+  "labels": []
+}

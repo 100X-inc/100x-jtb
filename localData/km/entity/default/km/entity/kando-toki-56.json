@@ -1,0 +1,41 @@
+{
+  "$id": "kando-toki-56",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/56_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d36.775255%2C139.425682",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "栃木県",
+    "c_searchTags": [
+      "栃木県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "秋",
+      "太陽・星・月",
+      "海・湖・川・滝",
+      "山・森・野・里",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "早朝の奥日光。ひっそり静かな湿原の中で、一本だけ佇む美しいシラカンバ。多くの写真家を魅了してきたその木は敬意を込めて「小田代ヶ原の貴婦人」と呼ばれています。早朝ともなれば地表からもやが立ちのぼり、幻想的な雰囲気をかもし出します。湿原のそばにそびえる勇壮な男体山の南麓から太陽が顔を出すさまはもちろん、湿原に佇む“貴婦人”が輝きはじめる瞬間は、まさに“貴婦人”の呼び名にふさわしく、何ともいえないほどに幻想的です。薄闇の夜明けに輝く“貴婦人”とあわせてその背景を華やかに演出するも緑とのコントラストもまた、必見です。\n見所・お勧めポイント\n湿原に佇む、一本の“貴婦人”。静寂の中に佇む真っ白な木は、まさに貴婦人の名にふさわしい美しさ。夜の名残に陰っていた“貴婦人”が、山端から昇る朝日を受けて輝きはじめる瞬間は見逃せません。\n背景\n穏やかに広がる湿原の中央部に、たった一本だけ立つ“貴婦人”と呼ばれる木。この“貴婦人”は樹齢70年のシラカンバで、その美しさから多くの人々を魅了してきました。写真家・宮嶋康彦さんの著書『一本の木』は、この“貴婦人”の美しさに魅せられて書かれたものです。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/56.asp",
+    "name": "朝霧に佇む1本のシラカバの木「小田代ヶ原の貴婦人」"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

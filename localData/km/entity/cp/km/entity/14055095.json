@@ -1,0 +1,87 @@
+{
+  "$id": "cp_14055095",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "神奈川県",
+    "c_cp_CTA1": {
+      "label": "当店の来店予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfiBq?_gl\u003d1*1b7v0o3*_gcl_aw*R0NMLjE2OTM1NTQ4MDkuRUFJYUlRb2JDaE1JeXFQMnBQZUlnUU1WM3hGN0J4MnVsQUg3RUFBWUFTQUFFZ0xKa19EX0J3RQ..*_gcl_au*MTI0ODU1MDk0Ny4xNjg2Mjc4NzMy",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfiBq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "楽しい、安心の旅行はJTBから♪　幅広くご旅行のご相談を承ります。想い出づくりはお客様が店舗にお越し頂いた瞬間から始まります。ぜひご一緒にご旅行のご計画のお手伝いをさせて下さい。ご来店をお待ち致しております！！",
+    "c_cp_DisplayName": "箱﨑",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "母娘旅",
+      "夫婦旅"
+    ],
+    "c_cp_HiraganaName": "はこざき",
+    "c_cp_JobTitle": "JTB橋本アリオ店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 890,
+      "sourceUrl": "https://a.mktgcdn.com/p/OjZTxepHw4oXKAyCZ-hUaRtxdOz9-gDehJvGg81kHnI/1188x890.jpg",
+      "thumbnails": [
+        {
+          "height": 890,
+          "url": "https://a.mktgcdn.com/p-sandbox/prkGyD3M6r8WSink4bmsCBdttfFuL71ZBbnIQxafVL0/1188x890.jpg",
+          "width": 1188
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/prkGyD3M6r8WSink4bmsCBdttfFuL71ZBbnIQxafVL0/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 449,
+          "url": "https://a.mktgcdn.com/p-sandbox/prkGyD3M6r8WSink4bmsCBdttfFuL71ZBbnIQxafVL0/600x449.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/prkGyD3M6r8WSink4bmsCBdttfFuL71ZBbnIQxafVL0/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/prkGyD3M6r8WSink4bmsCBdttfFuL71ZBbnIQxafVL0/1188x890.jpg",
+      "width": 1188
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "オーストラリア"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "東アジア全般",
+      "東南アジア全般"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "沖縄県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 箱﨑",
+    "c_metaTitle": "JTBトラベルコンサルタント | 箱﨑",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_14055095",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2024/02/01　JBX対応（リテール外転出）",
+    "name": "はこざき_14055095",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

@@ -1,0 +1,30 @@
+{
+  "$id": "korea",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "asia"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_osarea_0000049",
+      "news_web_kaigai_0001",
+      "guide_0006",
+      "news_ap_osarea_0000041",
+      "news_ap_osarea_0000045",
+      "news_ap_osarea_0000048",
+      "news_ap_osarea_0000044",
+      "news_ap_osarea_0000042",
+      "news_ap_osarea_0000043",
+      "news_ap_osarea_0000046",
+      "news_ap_osarea_0000047"
+    ],
+    "c_metaDescription": "韓国に関する記事をピックアップ！JTBニュースでは、韓国で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 韓国 | 旅行・おでかけ情報",
+    "name": "韓国",
+    "slug": "kaigai/asia/korea"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

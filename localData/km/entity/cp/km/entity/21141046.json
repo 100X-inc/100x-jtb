@@ -1,0 +1,58 @@
+{
+  "$id": "cp_21141046",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "大阪府",
+    "c_cp_CTA1": {
+      "label": "吉岡 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVlsBc",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBVxG",
+      "linkType": "URL"
+    },
+    "c_cp_DisplayName": "吉岡",
+    "c_cp_HiraganaName": "よしおか",
+    "c_cp_JobTitle": "JTB八尾アリオ店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 300,
+      "sourceUrl": "https://a.mktgcdn.com/p/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/400x300.jpg",
+      "thumbnails": [
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/400x300.jpg",
+          "width": 400
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/PKVs6OTpiap6inQdavgNGNH_82NpZ0PgfEV4RIWNVlc/400x300.jpg",
+      "width": 400
+    },
+    "c_cp_Point": "1037",
+    "c_cp_Tags": [
+      "ハワイスペシャリスト上級",
+      "クルーズコンサルタント"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 吉岡",
+    "c_metaTitle": "JTBトラベルコンサルタント | 吉岡",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21141046",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10330_八尾アリオ店",
+    "name": "よしおか みき_21141046",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

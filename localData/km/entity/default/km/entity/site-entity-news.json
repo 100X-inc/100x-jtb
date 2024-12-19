@@ -1,0 +1,147 @@
+{
+  "$id": "site-entity-news",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ajaxFooter": "https://www.jtb.co.jp/_common/footer/footer.html",
+    "c_ajaxHeader": "https://www.jtb.co.jp/_common/header/header.html",
+    "c_ap_TableOfContentsIconSVG": {
+      "mimeType": "image/svg+xml",
+      "name": "Table of Contents Icon.svg",
+      "size": "1351",
+      "sourceUrl": "https://a.mktgcdn.com/f/2016695/lLeOEhZ7sHajNDQD9xVxxPaVjkWylbgyUwtof-oaR1E.svg",
+      "url": "https://a.mktgcdn.com/f-sandbox/3326351/lLeOEhZ7sHajNDQD9xVxxPaVjkWylbgyUwtof-oaR1E.svg"
+    },
+    "c_ap_TableOfContentsLabel": "もくじ",
+    "c_customHTML": "\u003c!-- custom html --\u003e\n\u003cscript\u003e\nconsole.log(\u0027custom html section\u0027);\nwindow.addEventListener(\u0027DOMContentLoaded\u0027, () \u003d\u003e {\n\tconst ra_head \u003d document.querySelector(\u0027#reactele \u003e .RankedArticles .Heading--lead\u0027);\n\tra_head \u0026\u0026 (ra_head.className \u003d \u0027Heading--lead py-[24px] sm:pb-[40px]\u0027);\n\tconst ra_txts \u003d document.querySelectorAll(\u0027#reactele \u003e .RankedArticles .RankedArticle .Link.text-brand-gray-500 span\u0027);\n\tra_txts?.forEach((spn) \u003d\u003e {\n    \tspn.className \u003d \"text-[16px] leading-[20px] sm:font-bold\";\n\t});\n});\n\u003c/script\u003e\n\u003cstyle\u003e\nform:has(#searchLabel) {display:none;}\n.Area2Tabs {margin-top: 0px;}\n.MenuModal .flex.items-start span {display:none;}\n.MenuModal .relative \u003e :has(form) {display:none;}\n\u003c/style\u003e\n\u003cscript\u003e\n(g\u003d\u003e{var h,a,k,p\u003d\"The Google Maps JavaScript API\",c\u003d\"google\",l\u003d\"importLibrary\",q\u003d\"__ib__\",m\u003ddocument,b\u003dwindow;b\u003db[c]||(b[c]\u003d{});var d\u003db.maps||(b.maps\u003d{}),r\u003dnew Set,e\u003dnew URLSearchParams,u\u003d()\u003d\u003eh||(h\u003dnew Promise(async(f,n)\u003d\u003e{await (a\u003dm.createElement(\"script\"));e.set(\"libraries\",[...r]+\"\");for(k in g)e.set(k.replace(/[A-Z]/g,t\u003d\u003e\"_\"+t[0].toLowerCase()),g[k]);e.set(\"callback\",c+\".maps.\"+q);a.src\u003d`https://maps.${c}apis.com/maps/api/js?`+e;d[q]\u003df;a.onerror\u003d()\u003d\u003eh\u003dn(Error(p+\" could not load.\"));a.nonce\u003dm.querySelector(\"script[nonce]\")?.nonce||\"\";m.head.append(a)}));d[l]?console.warn(p+\" only loads once. Ignoring:\",g):d[l]\u003d(f,...n)\u003d\u003er.add(f)\u0026\u0026u().then(()\u003d\u003ed[l](f,...n))})({\nkey: \"AIzaSyC7ad0DC4JgHAHBGUqXUMBJ3Aaxzi_g3iA\",\n// Add other bootstrap parameters as needed, using camel case.\n// Use the \u0027v\u0027 parameter to indicate the version to load (alpha, beta, weekly, etc.)\n});\n\u003c/script\u003e",
+    "c_favicon": {
+      "mimeType": "image/x-icon",
+      "name": "Favicon",
+      "size": "5430",
+      "sourceUrl": "https://a.mktgcdn.com/f/2016695/_LQAyPxVeO2qIf9whHo-ROIrjlHQxzhyB6FROUsj_-E.ico",
+      "url": "https://a.mktgcdn.com/f-sandbox/3326351/_LQAyPxVeO2qIf9whHo-ROIrjlHQxzhyB6FROUsj_-E.ico"
+    },
+    "c_googleTagManager": [
+      "GTM-MNC3"
+    ],
+    "c_metaDescription": "お出かけの際は施設や自治体などの最新情報をご確認ください。",
+    "c_metaTitle": "JTBニュース | 旅行・おでかけ情報",
+    "c_metaTitleTag": "すべての記事",
+    "c_news_AllTagsLink": {
+      "label": "すべての記事から探す",
+      "link": "/news/list/",
+      "linkType": "OTHER"
+    },
+    "c_news_Breadcrumbs1": {
+      "label": "JTBホーム",
+      "link": "https://www.jtb.co.jp",
+      "linkType": "OTHER"
+    },
+    "c_news_Breadcrumbs2": {
+      "label": "JTBニュース",
+      "link": "/news/",
+      "linkType": "OTHER"
+    },
+    "c_news_FavoriteCTA": {
+      "label": "お気に入り一覧を見る"
+    },
+    "c_news_FavoriteIconSVG": {
+      "mimeType": "image/svg+xml",
+      "name": "お気に入り",
+      "size": "692",
+      "sourceUrl": "https://a.mktgcdn.com/f/2016695/xnkvWiUsIFNZfFOTrdan-V-F3cVLXesrYKrMsOh64uY.svg",
+      "url": "https://a.mktgcdn.com/f-sandbox/3326351/xnkvWiUsIFNZfFOTrdan-V-F3cVLXesrYKrMsOh64uY.svg"
+    },
+    "c_news_FavoriteLabel": "お気に入り",
+    "c_news_LikeIconSVG": {
+      "mimeType": "image/svg+xml",
+      "name": "いいね",
+      "size": "690",
+      "sourceUrl": "https://a.mktgcdn.com/f/2016695/rmSMGvDNIkFRVH7Nqyi1RPnqGTycFzGB7aFiWi-jRCo.svg",
+      "url": "https://a.mktgcdn.com/f-sandbox/3326351/rmSMGvDNIkFRVH7Nqyi1RPnqGTycFzGB7aFiWi-jRCo.svg"
+    },
+    "c_news_LinkCopyText": "リンクをコピーする",
+    "c_news_ListInfoLabel": "旅行・お出かけ情報",
+    "c_news_ListPlaceholderText": "フリーワードで記事を検索する",
+    "c_news_ListResultsText": "{Results Count} 件の記事が条件に一致しました。",
+    "c_news_ListSortingLabel": "並べ変え：",
+    "c_news_MostRecentText": "新着順",
+    "c_news_NationwideSectionTitle": "全国から探す",
+    "c_news_NoFavoriteText": "お気に入りの記事が登録されていません。",
+    "c_news_NoResultsText": "該当する記事がありません",
+    "c_news_PopularAreasTitle": "人気エリアから探す",
+    "c_news_PopularityText": "人気順",
+    "c_news_ReturnToListTop": {
+      "label": "すべての記事から探す",
+      "link": "/news/list/",
+      "linkType": "OTHER"
+    },
+    "c_news_ReturnToNewsTop": {
+      "label": "記事一覧へ戻る",
+      "link": "/news/list/",
+      "linkType": "OTHER"
+    },
+    "c_news_SNSIconSVGs": [
+      {
+        "mimeType": "image/svg+xml",
+        "name": "LINE",
+        "size": "3322",
+        "sourceUrl": "https://a.mktgcdn.com/f/2016695/As-l5rmO1rQ2swoZPyium0munqN-VCg6rTLMB8NHZiQ.svg",
+        "url": "https://a.mktgcdn.com/f-sandbox/3326351/As-l5rmO1rQ2swoZPyium0munqN-VCg6rTLMB8NHZiQ.svg"
+      },
+      {
+        "mimeType": "image/svg+xml",
+        "name": "X",
+        "size": "581",
+        "sourceUrl": "https://a.mktgcdn.com/f/2016695/gDYdP32cVzM2owJFxeKoeAW3YIiXOqyJKgE1FazowwA.svg",
+        "url": "https://a.mktgcdn.com/f-sandbox/3326351/gDYdP32cVzM2owJFxeKoeAW3YIiXOqyJKgE1FazowwA.svg"
+      },
+      {
+        "mimeType": "image/svg+xml",
+        "name": "Copy",
+        "size": "698",
+        "sourceUrl": "https://a.mktgcdn.com/f/2016695/WUqeuKbbt2YQdvWcXRpOxXbwWIhOYAvyO3WGioRLJXg.svg",
+        "url": "https://a.mktgcdn.com/f-sandbox/3326351/WUqeuKbbt2YQdvWcXRpOxXbwWIhOYAvyO3WGioRLJXg.svg"
+      }
+    ],
+    "c_news_SNSIconURLs": [
+      {
+        "label": "LINE",
+        "link": "https://social-plugins.line.me/lineit/share?url\u003d{url}\u0026text\u003d{text}",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "X",
+        "link": "https://twitter.com/intent/tweet?url\u003d{url}\u0026text\u003d{text}",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "Copy",
+        "link": "https://www.jtb.co.jp/line/character/profile/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_SearchIconSVG": {
+      "mimeType": "image/svg+xml",
+      "name": "hamberger.svg",
+      "size": "2378",
+      "sourceUrl": "https://a.mktgcdn.com/f/2016695/lS8bX_Loq-WVBG90AnqHZCvs2ZgCxgqvWeWWnjm4eXw.svg",
+      "url": "https://a.mktgcdn.com/f-sandbox/3326351/lS8bX_Loq-WVBG90AnqHZCvs2ZgCxgqvWeWWnjm4eXw.svg"
+    },
+    "c_news_SearchLabel": "フリーワードから探す",
+    "c_news_ShareIconSVG": {
+      "mimeType": "image/svg+xml",
+      "name": "共有する",
+      "size": "989",
+      "sourceUrl": "https://a.mktgcdn.com/f/2016695/7Pq1oJOxvihDpcpddKkW2QjAbaGkUbotRqRTYMcVbvY.svg",
+      "url": "https://a.mktgcdn.com/f-sandbox/3326351/7Pq1oJOxvihDpcpddKkW2QjAbaGkUbotRqRTYMcVbvY.svg"
+    },
+    "c_news_SharePlaceholderText": "この記事が気に入ったら...",
+    "c_news_ShareText": "Share",
+    "c_news_ThemeLabel": "テーマから探す",
+    "c_news_TravelSearchAjaxFooter": "https://www.jtb.co.jp/_common/footer/jtbnews/jtbnews_footer.html",
+    "name": "News Article"
+  },
+  "entityType": "ce_site",
+  "labels": []
+}

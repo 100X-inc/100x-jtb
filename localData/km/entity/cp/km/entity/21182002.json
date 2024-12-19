@@ -1,0 +1,111 @@
+{
+  "$id": "cp_21182002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "京都府",
+    "c_cp_CTA1": {
+      "label": "北島 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVqkxG",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBdBc",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "国内・海外問わず、街をぶらぶらしながらおいしいものを食べるのが好きです。\n最近は五島など島旅にハマっています。\nライブ参戦1泊旅行からヨーロッパ周遊旅行まで気軽にご相談くださいませ。",
+    "c_cp_DisplayName": "北島",
+    "c_cp_FieldOfExpertise": [
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "ハネムーン",
+      "世界遺産",
+      "街あるき",
+      "ドライブ"
+    ],
+    "c_cp_GeneralInfo": [
+      "●資格：世界遺産検定2級、ハワイスペシャリスト検定上級、ヨーロッパエリアスペシャリストⅠ・Ⅱ・Ⅲ,オージースペシャリスト"
+    ],
+    "c_cp_HiraganaName": "きたじま",
+    "c_cp_JobTitle": "JTBトラベルゲート京都四条 トラベルコンサルタント",
+    "c_cp_OverseasExpert": {
+      "area2": {
+        "rank": "bronze"
+      },
+      "area7": {
+        "rank": "bronze"
+      }
+    },
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 1327,
+      "sourceUrl": "https://a.mktgcdn.com/p/XxVEt45MYZzcJi7e4O6SaVqx__o4uHDfHbH_KLNJFV0/946x1327.jpg",
+      "thumbnails": [
+        {
+          "height": 1327,
+          "url": "https://a.mktgcdn.com/p-sandbox/NRI8ly8TOr1ZPsHQ9A5Zsvjkrr8oDEHBy4W7e_UEPg0/946x1327.jpg",
+          "width": 946
+        },
+        {
+          "height": 868,
+          "url": "https://a.mktgcdn.com/p-sandbox/NRI8ly8TOr1ZPsHQ9A5Zsvjkrr8oDEHBy4W7e_UEPg0/619x868.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/NRI8ly8TOr1ZPsHQ9A5Zsvjkrr8oDEHBy4W7e_UEPg0/321x450.jpg",
+          "width": 321
+        },
+        {
+          "height": 275,
+          "url": "https://a.mktgcdn.com/p-sandbox/NRI8ly8TOr1ZPsHQ9A5Zsvjkrr8oDEHBy4W7e_UEPg0/196x275.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/NRI8ly8TOr1ZPsHQ9A5Zsvjkrr8oDEHBy4W7e_UEPg0/946x1327.jpg",
+      "width": 946
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "フランス",
+      "スペイン",
+      "イタリア"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "香港・マカオ",
+      "韓国",
+      "台湾",
+      "シンガポール"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般"
+    ],
+    "c_cp_Tags": [
+      "エリアスペシャリスト（ヨーロッパⅠ・Ⅱ・Ⅲ）",
+      "ハワイスペシャリスト上級",
+      "好きな方面：スペイン・九州",
+      "モンゴルの草原で乗馬しました。"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 北島",
+    "c_metaTitle": "JTBトラベルコンサルタント | 北島",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21182002",
+    "c_responsibleService": [
+      "海外専門デスクスタッフ",
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10300_トラベルゲート京都四条",
+    "name": "きたじま_21182002",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

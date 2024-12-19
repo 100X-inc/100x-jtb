@@ -1,0 +1,59 @@
+{
+  "$id": "cp_14020103",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfVxd",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "日頃より吉祥寺店をご愛顧賜り誠にありがとうございます。 当店では、国内・海外共に経験豊富なスタッフがご相談を承ります。海外旅行専門デスク、ウエディングデスクを併設していますのでお客様のご要望に合わせて渡航歴や方面毎の資格を持ったスタッフへのお問合せも可能です。ぜひお気軽にご相談ください。皆様のご来店を心よりお待ちしております。",
+    "c_cp_DisplayName": "坂本",
+    "c_cp_HiraganaName": "さかもと",
+    "c_cp_JobTitle": "JTB吉祥寺店 店長",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 1029,
+      "sourceUrl": "https://a.mktgcdn.com/p/4gvn9bFCUP5NKO4sjhqw9bwU0K0MXXBLSieHeK-ktTM/1108x1029.jpg",
+      "thumbnails": [
+        {
+          "height": 1029,
+          "url": "https://a.mktgcdn.com/p-sandbox/4gvn9bFCUP5NKO4sjhqw9bwU0K0MXXBLSieHeK-ktTM/1108x1029.jpg",
+          "width": 1108
+        },
+        {
+          "height": 575,
+          "url": "https://a.mktgcdn.com/p-sandbox/4gvn9bFCUP5NKO4sjhqw9bwU0K0MXXBLSieHeK-ktTM/619x575.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/4gvn9bFCUP5NKO4sjhqw9bwU0K0MXXBLSieHeK-ktTM/485x450.jpg",
+          "width": 485
+        },
+        {
+          "height": 182,
+          "url": "https://a.mktgcdn.com/p-sandbox/4gvn9bFCUP5NKO4sjhqw9bwU0K0MXXBLSieHeK-ktTM/196x182.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/4gvn9bFCUP5NKO4sjhqw9bwU0K0MXXBLSieHeK-ktTM/1108x1029.jpg",
+      "width": 1108
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント | 坂本",
+    "c_metaTitle": "JTBトラベルコンサルタント | 坂本",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_14020103",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10135_吉祥寺店",
+    "name": "さかもと_14020103",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

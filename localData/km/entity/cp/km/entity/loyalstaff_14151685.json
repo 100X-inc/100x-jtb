@@ -1,0 +1,136 @@
+{
+  "$id": "cp_loyalstaff_14151685",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "山口の海外旅行相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVesxKG",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf7xG",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "海外旅行が大好きで、学生時代はオーストラリアのメルボルンに留学していました。\n20回以上の渡航経験があり、自然のパワーを感じるハワイ島、情熱溢れるスペインが好きです。\n国内では、ゆったり過ごせる島時間に魅力を感じています。特に宮古島はコバルトブルーの海を眺めながらのんびり過ごせる大好きな場所です。\nお客様の旅行に対する様々な目的や思いを汲み取り、心に残るご旅行のお手伝いができれば幸いです。\nご相談お待ちしております！",
+    "c_cp_DisplayName": "山口 〈海外〉",
+    "c_cp_FieldOfExpertise": [
+      "夫婦旅",
+      "ウエディング",
+      "ハネムーン",
+      "自然・山",
+      "温泉・立ち寄り湯"
+    ],
+    "c_cp_GeneralInfo": [
+      "総合旅行業務取扱管理者",
+      "トラベルコーディネーター国内A級",
+      "トラベルコーディネーター海外A級",
+      "ハワイスペシャリスト上級",
+      "エリアスペシャリスト（ヨーロッパⅠ）",
+      "クルーズコンサルタント",
+      "趣味：音楽鑑賞"
+    ],
+    "c_cp_HeroImage": {
+      "height": 400,
+      "sourceUrl": "https://a.mktgcdn.com/p/uZTOKcgCCbcmrWnAE5WJN063P4wa3BOHfESnhT9REXI/600x400.jpg",
+      "thumbnails": [
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/uZTOKcgCCbcmrWnAE5WJN063P4wa3BOHfESnhT9REXI/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/uZTOKcgCCbcmrWnAE5WJN063P4wa3BOHfESnhT9REXI/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/uZTOKcgCCbcmrWnAE5WJN063P4wa3BOHfESnhT9REXI/600x400.jpg",
+      "width": 600
+    },
+    "c_cp_HiraganaName": "やまぐち",
+    "c_cp_JobTitle": "JTBロイヤルスタッフ（JTB トラベルゲート有楽町 所属）",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 750,
+      "sourceUrl": "https://a.mktgcdn.com/p/9lJbcCSFbtWxe5_RejqGpjT-dOjk5aQto6us7cMgkD8/562x750.jpg",
+      "thumbnails": [
+        {
+          "height": 750,
+          "url": "https://a.mktgcdn.com/p-sandbox/9lJbcCSFbtWxe5_RejqGpjT-dOjk5aQto6us7cMgkD8/562x750.jpg",
+          "width": 562
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/9lJbcCSFbtWxe5_RejqGpjT-dOjk5aQto6us7cMgkD8/337x450.jpg",
+          "width": 337
+        },
+        {
+          "height": 262,
+          "url": "https://a.mktgcdn.com/p-sandbox/9lJbcCSFbtWxe5_RejqGpjT-dOjk5aQto6us7cMgkD8/196x262.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/9lJbcCSFbtWxe5_RejqGpjT-dOjk5aQto6us7cMgkD8/562x750.jpg",
+      "width": 562
+    },
+    "c_cp_RoyalStaff": true,
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム",
+      "オーストラリア"
+    ],
+    "c_cp_StrongAbroadArea2": [
+      "アメリカ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "フランス",
+      "スペイン",
+      "イタリア",
+      "ドイツ"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "タイ",
+      "インドネシア・バリ島",
+      "シンガポール"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "静岡県",
+      "愛知県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "京都府"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "鹿児島県",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "ハワイスペシャリスト上級",
+      "47都道府県制覇",
+      "スノーボード",
+      "島めぐり"
+    ],
+    "c_metaDescription": "海外旅行が大好きで、学生時代はオーストラリアのメルボルンに留学していました。20回以上の渡航経験があり、自然のパワーを感じるハワイ島、情熱溢れるスペインが好きです。国内では、ゆったり過ごせる島時間に魅力を感じ…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "JTBロイヤルスタッフ 山口（JTB トラベルゲート有楽町 所属）",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_loyalstaff_14151685",
+    "c_responsibleService": [
+      "ロイヤルスタッフ"
+    ],
+    "c_v2Folder": "2024/03/31　JBX対応（産休）",
+    "name": "LS_山口",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

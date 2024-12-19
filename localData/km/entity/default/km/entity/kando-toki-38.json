@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-38",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/38_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.045296%2C145.069817",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "夏",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "「霧多布湿原」は北海道東部浜中町の太平洋に面して広がる湿原で、面積は3,168ha。同じ北海道にある釧路湿原、サロベツ原野に続いて国内三番目の広さを誇る大湿原で、春から秋にかけてさまざまな花が咲くことから、「花の湿原」とも呼ばれています。森と海に囲まれ、自然豊かな原生花園が残る霧多布湿原には、タンチョウをはじめとした多くの野鳥たちも訪れます。長く伸びた砂丘が美しい双弧を描いて海と湿原を隔て、その2つのアーチに囲まれた湿原には琵琶瀬川がゆったりと蛇行しており、北海道の雄大な自然を間近に感じることができます。とりわけ湿原の美しいさまを眺めることができるのが、早朝の時間帯。琵琶瀬展望台からは、美しい朝霧に覆われた幻想的な湿原を見ることができます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/38.asp",
+    "name": "朝霧の霧多布湿原琵琶瀬展望台"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

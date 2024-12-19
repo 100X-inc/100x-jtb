@@ -1,0 +1,14 @@
+{
+  "$id": "w00112",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": false,
+    "c_answer_HTML": "\u003cdiv\u003e予約詳細・確認画面より該当の予約をご確認ください。\u003cbr\u003e≪ご予約確認はこちら≫https://www.jtb.co.jp/kokunai_reserve/InquirySelect/initDisplay?si\u003djtb\u003cbr\u003e\u003cbr\u003e【旅行代金】もしくは【宿泊料金】欄にある＜内訳＞部分をタップもしくはクリックした際に割引クーポンの名称と金額が表示されていれば適用されています。\u003cbr\u003e\u003cbr\u003e（パソコンの場合）\u003cbr\u003e\u003cimg alt\u003d\"PC_キャプチャ.PNG\" src\u003d\"https://d5h00000127iceay.file.force.com/servlet/rtaImage?eid\u003dka05h000000jr9N\u0026amp;feoid\u003d00N5h0000022QMT\u0026amp;refid\u003d0EM5h000006uful\" style\u003d\"width: 602px;height: 247px;\"\u003e\u003c/img\u003e\u003cbr\u003e\u003cbr\u003e（スマートフォンの場合）\u003cbr\u003e\u003cimg alt\u003d\"SP_キャプチャ.PNG\" src\u003d\"https://d5h00000127iceay.file.force.com/servlet/rtaImage?eid\u003dka05h000000jr9N\u0026amp;feoid\u003d00N5h0000022QMT\u0026amp;refid\u003d0EM5h000006ufuv\" style\u003d\"width: 285px;height: 462px;\"\u003e\u003c/img\u003e\u003cbr\u003e\u003cbr\u003eまた、ご予約完了時にお送りしている【予約完了メール】からもご確認が可能です。\u003cbr\u003e\u003cbr\u003e※既にご予約済の旅行に後から全国旅行支援を適用することはできません。\u003cbr\u003e詳しくは下記よりご確認ください。\u003cbr\u003e\u003ca href\u003d\"https://customerhelp.jtb.co.jp/s/article/w00113\" target\u003d\"_blank\"\u003e【全国旅行支援・JTBホームページ】既に予約している旅行に、全国旅行支援を後から適用できますか。\u003c/a\u003e\u003c/div\u003e",
+    "landingPageUrl": "https://customerhelp.jtb.co.jp/s/article/w00112",
+    "name": "【全国旅行支援・JTBホームページ】予約している旅行に全国旅行支援が適用されているか調べたい",
+    "question": "【全国旅行支援・JTBホームページ】予約している旅行に全国旅行支援が適用されているか調べたい"
+  },
+  "entityType": "faq",
+  "labels": []
+}

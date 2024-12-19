@@ -1,0 +1,245 @@
+{
+  "$id": "ap_chiki_100060",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 岡"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "夕食メニューは、４つのスタイルから選べますが、おすすめはホテルの最上階のレストラン「バンボシュール」でいただくフレンチです。専属のシェフが手掛けるお料理は、彩りも豊かでまるで一皿の魔法のよう。レストランの名前は「美食家」を意味しており、料理で幸せな気持ちになってほしいというシェフの思いが込められているそう。フレンチのほかにも、新鮮なお魚と会席料理が自慢の和食や、コースでいただく中華料理、ライブキッチンを備えたバイキングも選べます。バイキングは休前日と繁忙期のみなので、開催日は施設にお問い合わせくださいね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/o05fvIdOlaEiUz1L6HofKcp-THKun7OncmkelFojB7U/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/o05fvIdOlaEiUz1L6HofKcp-THKun7OncmkelFojB7U/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/o05fvIdOlaEiUz1L6HofKcp-THKun7OncmkelFojB7U/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/o05fvIdOlaEiUz1L6HofKcp-THKun7OncmkelFojB7U/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/o05fvIdOlaEiUz1L6HofKcp-THKun7OncmkelFojB7U/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/o05fvIdOlaEiUz1L6HofKcp-THKun7OncmkelFojB7U/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "最上階のダイニングで、彩り豊かなフランス料理を",
+        "sectionTitle": "和食や中華、バイキングなど、豊富なチョイスからお気に入りの夕食を"
+      },
+      {
+        "description": "ホテルのお楽しみは、地下500メートルから湧出する自家源泉「雄踏(ゆうとう)温泉」を引いた露天風呂。ナトリウム・カルシウム塩化物泉で、少し塩辛い味がする湯冷めしにくいお湯です。夜は星空を、朝と昼は青空を眺めながら、ゆったりと湯浴みを楽しめます。また、男性用浴室にはドライサウナを、女性用にはミストサウナを設置しているので、しっかりととのえてくださいね。もっと癒やしが必要なら、SPAとエステを併設した「ラ・クーン」へ。全身からデコルテなどの細かい部位まで幅広いメニューがあり、顔周りだけなら男性もOK。リゾートホテルで過ごす時間を、より豊かにしてくれます。",
+        "image": {
+          "height": 899,
+          "sourceUrl": "https://a.mktgcdn.com/p/NLklGSPpPh6_aFW5pyunPLEGF-wLwR-hKHcmLxT2t40/1200x899.jpg",
+          "thumbnails": [
+            {
+              "height": 899,
+              "url": "https://a.mktgcdn.com/p-sandbox/NLklGSPpPh6_aFW5pyunPLEGF-wLwR-hKHcmLxT2t40/1200x899.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/NLklGSPpPh6_aFW5pyunPLEGF-wLwR-hKHcmLxT2t40/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/NLklGSPpPh6_aFW5pyunPLEGF-wLwR-hKHcmLxT2t40/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/NLklGSPpPh6_aFW5pyunPLEGF-wLwR-hKHcmLxT2t40/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NLklGSPpPh6_aFW5pyunPLEGF-wLwR-hKHcmLxT2t40/1200x899.jpg",
+          "width": 1200
+        },
+        "imageCaption": "露天温泉風呂　雄踏温泉",
+        "sectionTitle": "自家源泉の温泉＆スパで、お疲れ気味の心と体にご褒美を"
+      },
+      {
+        "description": "ホテルの総客室数は369室。ツインやダブルなどの洋室や旅館を思わせる和室、畳の部屋とベッドルームのいいとこどりの和洋室など、さまざまな客室タイプから選べます。なかでもおすすめは、ホテル11階にある「グランデルーム」。スタッキングベッドを使用しており、4台並べれば最大4m40cmの大きなベッドになるので、小さなお子様連れの旅行にもぴったり。シモンズ社製ポケットコイルマットレスが、快適な眠りと目覚めを約束してくれます。枕元のコンセントなど、使い勝手も抜群です。おいしいお料理でお腹を満たし、温泉で癒やされて、ぐっすりと眠る。明日からまた頑張るための、元気をもらえる癒やしの宿です。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/htl/5410008/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/MlyX9dL6VL6JGvX9D-6lQNHIjSlsW7KYgk_jmF6k5jU/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/MlyX9dL6VL6JGvX9D-6lQNHIjSlsW7KYgk_jmF6k5jU/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/MlyX9dL6VL6JGvX9D-6lQNHIjSlsW7KYgk_jmF6k5jU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/MlyX9dL6VL6JGvX9D-6lQNHIjSlsW7KYgk_jmF6k5jU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/MlyX9dL6VL6JGvX9D-6lQNHIjSlsW7KYgk_jmF6k5jU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MlyX9dL6VL6JGvX9D-6lQNHIjSlsW7KYgk_jmF6k5jU/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "グランデルーム禁煙（イメージ）",
+        "sectionTitle": "非日常を演出する多彩なお部屋。おすすめはグランデルーム"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-07-14",
+    "c_ap_HeroImage": {
+      "alternateText": "浜名湖畔のリゾートホテルで大人のごほうび旅を満喫【静岡県　THE HAMANAKO】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 900,
+      "sourceUrl": "https://a.mktgcdn.com/p/j8cSV6vsY4qlHTwZ4X4eDUVD1gS5MwJtiJWWqe2mp3s/1200x900.jpg",
+      "thumbnails": [
+        {
+          "height": 900,
+          "url": "https://a.mktgcdn.com/p-sandbox/j8cSV6vsY4qlHTwZ4X4eDUVD1gS5MwJtiJWWqe2mp3s/1200x900.jpg",
+          "width": 1200
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/j8cSV6vsY4qlHTwZ4X4eDUVD1gS5MwJtiJWWqe2mp3s/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/j8cSV6vsY4qlHTwZ4X4eDUVD1gS5MwJtiJWWqe2mp3s/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/j8cSV6vsY4qlHTwZ4X4eDUVD1gS5MwJtiJWWqe2mp3s/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/j8cSV6vsY4qlHTwZ4X4eDUVD1gS5MwJtiJWWqe2mp3s/1200x900.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "浜名湖畔のリゾートホテル",
+    "c_ap_LinkArticleSectionTitle": "静岡県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "THE HAMANAKO のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/5410008/plan/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "浜松・浜名湖・舘山寺のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/2209/"
+      },
+      {
+        "linkText": "静岡旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/shizuoka/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "中部全般",
+      "静岡県"
+    ],
+    "c_ap_ShortDescription": "全国にホテルを展開するDAIWA ROYAL HOTELですが、そのなかでも特にホテルとしての品格にこだわりがある「コンセプト：THE」のホテルはわずか2軒のみ。その内の１つが、静岡県の浜名湖畔に立つ「THE HAMANAKO」です。\n最上階のダイニングで食べるフレンチをはじめとするお料理や、自家源泉から湧く温泉、あらゆる旅のスタイルに対応する機能的で洗練されたお部屋など、館内は上質な雰囲気に満ちています。ちょっと大人なリゾートホテルで、何もしない贅沢な1日を過ごしてみませんか。",
+    "c_ap_Tags": [
+      "浜名湖",
+      "自家源泉",
+      "スパ",
+      "フレンチ",
+      "ご褒美旅"
+    ],
+    "c_ap_Theme": [
+      "母娘旅",
+      "夫婦旅",
+      "記念旅行",
+      "自然・山",
+      "グルメ",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "浜名湖畔のリゾートホテルで大人のごほうび旅を満喫【静岡県　THE HAMANAKO】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "全国にホテルを展開するDAIWA ROYAL HOTELですが、そのなかでも特にホテルとしての品格にこだわりがある「コンセプト：THE」のホテルはわずか2軒のみ。その内の１つが、静岡県の浜名湖畔に立つ「THE…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "浜名湖畔のリゾートホテルで大人のごほうび旅を満喫【静岡県　THE HAMANAKO】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100060",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "中部全般, 静岡県",
+    "c_searchTags": [
+      "中部・北陸：中部全般, 静岡県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：中部全般, 静岡県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "浜名湖畔のリゾートホテルで大人のごほうび旅を満喫【静岡県　THE HAMANAKO】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

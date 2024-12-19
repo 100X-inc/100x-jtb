@@ -1,0 +1,77 @@
+{
+  "$id": "cp_21106301",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "兵庫県",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBrxc",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "楽しいご旅行計画のお手伝いをさせていただきます。ファミリー層の多いお店です、お気軽にお子様連れでお越しください。",
+    "c_cp_DisplayName": "大上",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "夫婦旅"
+    ],
+    "c_cp_HiraganaName": "おおがみ",
+    "c_cp_JobTitle": "JTBイオンモール伊丹店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 536,
+      "sourceUrl": "https://a.mktgcdn.com/p/tSVelVLkvE8nYjUTj_hv78AT-pUYqbdbDArCtkOqvCQ/464x536.jpg",
+      "thumbnails": [
+        {
+          "height": 536,
+          "url": "https://a.mktgcdn.com/p-sandbox/a0v0fH9ejqAOll5KuIP3l6afc4KEt_yIsoOKY1MEZh0/464x536.jpg",
+          "width": 464
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/a0v0fH9ejqAOll5KuIP3l6afc4KEt_yIsoOKY1MEZh0/390x450.jpg",
+          "width": 390
+        },
+        {
+          "height": 226,
+          "url": "https://a.mktgcdn.com/p-sandbox/a0v0fH9ejqAOll5KuIP3l6afc4KEt_yIsoOKY1MEZh0/196x226.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/a0v0fH9ejqAOll5KuIP3l6afc4KEt_yIsoOKY1MEZh0/464x536.jpg",
+      "width": 464
+    },
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "千葉県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "兵庫県"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "鳥取県",
+      "島根県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "ハワイスペシャリスト上級"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 大上",
+    "c_metaTitle": "JTBトラベルコンサルタント | 大上",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21106301",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10342_イオンモール伊丹店",
+    "name": "おおがみ かほる_21106301",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

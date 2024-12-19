@@ -1,0 +1,727 @@
+{
+  "$id": "news_web_kaigai_0004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1377,
+      "sourceUrl": "https://a.mktgcdn.com/p/ITzP8iTZiRO8lW13V41fQyvGvRjQY4WvAZwYNTtXTW8/1838x1377.jpg",
+      "thumbnails": [
+        {
+          "height": 1377,
+          "url": "https://a.mktgcdn.com/p-sandbox/KA8o6ymXkDHC6MvYIFzAlh5PW1b1BrOKKGiUNL6DNYI/1838x1377.jpg",
+          "width": 1838
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/KA8o6ymXkDHC6MvYIFzAlh5PW1b1BrOKKGiUNL6DNYI/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/KA8o6ymXkDHC6MvYIFzAlh5PW1b1BrOKKGiUNL6DNYI/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/KA8o6ymXkDHC6MvYIFzAlh5PW1b1BrOKKGiUNL6DNYI/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/KA8o6ymXkDHC6MvYIFzAlh5PW1b1BrOKKGiUNL6DNYI/1838x1377.jpg",
+      "width": 1838
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "台湾の旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/taiwan/"
+      },
+      {
+        "linkText": "台湾のツアーをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dept\u003dTYO\u0026sc.dest%5B0%5D.country\u003dTW\u0026sc.dest%5B0%5D.city\u003dTPE"
+      },
+      {
+        "linkText": "台湾の航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/asia/taiwan/taipei/"
+      },
+      {
+        "linkText": "台湾のホテルを探す",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/?freeword\u003d%E5%8F%B0%E6%B9%BE\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d176"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "台湾第2の都市・高雄は、南国らしいのんびりとした雰囲気の港町。絶品の海鮮グルメや大らかな人々との出会いが楽しめます。台北からは、台湾高鉄（新幹線）を使って約2時間でアクセス可能。高雄国際空港には日本各地からの直行便も就航しているので、台湾南部を旅する起点としてもおすすめです。",
+    "c_ap_Tags": [
+      "海外のホテル",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "【台湾・高雄】の魅力に迫る！高雄おすすめ観光地7選＆人気ホテル5選",
+    "c_linkedArea3News": [
+      "taiwan"
+    ],
+    "c_metaDescription": "台湾第2の都市・高雄は、南国らしいのんびりとした雰囲気の港町。絶品の海鮮グルメや大らかな人々との出会いが楽しめます。台北からは、台湾高鉄（新幹線）を使って約2時間でアクセス可能。高雄国際空港には日本各地からの直行便も就航しているので、台湾南部を旅する起点としてもおすすめです。",
+    "c_metaTitle": "【台湾・高雄】の魅力に迫る！高雄おすすめ観光地7選＆人気ホテル5選 | JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "高雄の現地オプショナルツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bTW/cKHH/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "高雄行きの旅行・ツアーを探す",
+        "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dTW\u0026sc.dest%5B0%5D.city\u003dKHH",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "台湾の定番3泊4日モデルコースをみる",
+        "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_ap_osarea_0000050",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "高雄の観光情報をもっとみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/asia/taiwan/KHH/index.html",
+          "linkType": "OTHER"
+        },
+        "description": "台湾有数の貿易港を擁する台湾第2の都市・高雄。台湾南部に位置し、1年を通して晴れの日が多く、南国らしいおおらかな人情と優しさのあふれる街です。比較的規模が大きい高雄市内には、MRT（地下鉄）や路面電車が隅々まで走っています。空港や台湾高鉄（新幹線）駅、観光名所やショッピングモールなどへのアクセスも快適です。そんな高雄には、日本統治時代の旧市街をリノベーションした「駁二藝術區（ボーア―イース―チュー）」や「哈瑪星台湾鉄路館（ハマシン タイワン ティエダオグァン）」、北東部の「蓮池潭（リェンチータン）」にある龍虎塔（ロンフーター）など、歴史的な見どころがたくさんあります。また、港町・高雄を代表するグルメと言えば海鮮料理。高級店からリーズナブルな食堂まで選択肢がいっぱい！ 高雄市内の「鼓山輪渡站（グーシャンルゥンドゥージャン）」からフェリーで5分ほどののどかな離島・旗津（チージン)にも海鮮料理店がズラリと並んでいます。高雄市内側の旗津行きフェリー乗り場近くにはかき氷店も集結しています。台湾の若者はひとりでもグループでも、気軽にスイーツを食べに立ち寄っています。マンゴーやバナナなど台湾フルーツをたっぷり使ったスイーツを楽しみましょう。にぎやかな六合夜市も高雄で必ず訪れたいスポットのひとつ。海鮮をふんだんに使った屋台グルメやゲームで、子供心に返るお祭り気分を満喫できます。",
+        "image": {
+          "alternateText": "高雄の街並み",
+          "height": 1018,
+          "sourceUrl": "https://a.mktgcdn.com/p/lLVBtD_kGlAgsR94378F0dxDXl6stGel1aIhL-ZFhUA/1536x1018.jpg",
+          "thumbnails": [
+            {
+              "height": 1018,
+              "url": "https://a.mktgcdn.com/p-sandbox/lLVBtD_kGlAgsR94378F0dxDXl6stGel1aIhL-ZFhUA/1536x1018.jpg",
+              "width": 1536
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/lLVBtD_kGlAgsR94378F0dxDXl6stGel1aIhL-ZFhUA/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/lLVBtD_kGlAgsR94378F0dxDXl6stGel1aIhL-ZFhUA/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/lLVBtD_kGlAgsR94378F0dxDXl6stGel1aIhL-ZFhUA/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lLVBtD_kGlAgsR94378F0dxDXl6stGel1aIhL-ZFhUA/1536x1018.jpg",
+          "width": 1536
+        },
+        "imageCaption": "©iStock.com/shih-wei",
+        "infoBlockLabel": "龍虎塔／蓮池潭風景区の基本情報",
+        "infoBlockText": "アクセス：台湾高鉄「左營」駅、またはMRT「新左營」駅から車で5分住所：高雄市左營區蓮潭路TEL：07-588-3242営業時間：8:00～18:00（蓮池潭風景区は24時間開放）料金：入場無料※龍虎塔は2025年夏まで改修工事中",
+        "sectionLevel": "h2",
+        "sectionTitle": "台湾第2の都市・高雄（カオシュン）の魅力"
+      },
+      {
+        "cTA1": {
+          "label": "龍虎塔の魅力をもっとみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/TW/2018/05/kaohsiung-lotus-pond.html",
+          "linkType": "OTHER"
+        },
+        "description": "高雄郊外の蓮池潭風景区（リェンチータンフォンジンチュー）は、台湾南部を旅する人が必ずと言っていいほど訪れる景勝地です。春から夏にかけて蓮の花が咲き乱れる池に蓮池潭には、パワースポットとしても知られる龍虎塔や高さ22mの東南アジア最大級の水上神像・北極玄天上帝像がそびえ、湖畔ウェイクボードを楽しむ施設もあります。なかでも特に人気の高い龍虎塔（ロンフーター）は、1976年に建てられた7階建ての陶磁器の塔です。蓮池潭のほとりから龍虎塔にかかる九曲橋がジグザグの角を渡る形なのは、直進しかできないキョンシー（悪霊）避けのためなのだとか。向かって左の龍の口から入り虎の口から出ると、福が得られ凶を避けることができると言われています。塔の内壁には、観世物語をモチーフにした陶磁器の装飾が施されています。細いらせん階段で塔の上まで登ると、蓮池潭の大パノラマが広がります。",
+        "image": {
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/0hlldYXLpeS_wSWnPLEjPhmjlIfxoMHkfGD8EaxdTRQ/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/0hlldYXLpeS_wSWnPLEjPhmjlIfxoMHkfGD8EaxdTRQ/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/0hlldYXLpeS_wSWnPLEjPhmjlIfxoMHkfGD8EaxdTRQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/0hlldYXLpeS_wSWnPLEjPhmjlIfxoMHkfGD8EaxdTRQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/0hlldYXLpeS_wSWnPLEjPhmjlIfxoMHkfGD8EaxdTRQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0hlldYXLpeS_wSWnPLEjPhmjlIfxoMHkfGD8EaxdTRQ/1536x1025.jpg",
+          "width": 1536
+        },
+        "imageCaption": "写真提供：啓明堂",
+        "infoBlockLabel": "啓明堂／蓮池潭風景区の基本情報",
+        "infoBlockText": "アクセス：台湾高鉄「左營」駅、またはMRT「新左營」駅から車で10分住所：高雄市左營區蓮潭路36號TEL：07-581-6216営業時間：5:00～21:30（蓮池潭風景区は24時間開放）料金：入場無料",
+        "sectionLevel": "h2",
+        "sectionTitle": "高雄を満喫できるおすすめ観光スポット7選"
+      },
+      {
+        "cTA1": {
+          "label": "六合夜市と愛河クルーズ 現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/prddetail/p200006327/",
+          "linkType": "OTHER"
+        },
+        "description": "「啓明堂（チーミンタン）」は龍虎塔から徒歩3分ほどの場所にある、蓮池潭で最大規模を誇る中国宮殿様式の廟です。1898年に建立された荘厳な内部には啓明堂三国志の関羽として知られる武聖關公や文聖孔子が主神として祀られ、信心深い地元の若い人たちも静かに祈りを捧げています。道を挟んだ向かいの蓮池潭側には、啓明堂にゆかりのある春秋閣や、龍虎塔にもまけないカラフルな観音騎龍像が。さらに桟橋の先には蓮池潭に浮かぶような中国式東屋、神々を迎える場所である五里亭など、蓮池潭周辺には他にも観光スポットが多数あります。",
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://a.mktgcdn.com/p/gjYlOrsw111zc59v7_dseIJOy60ACbPam3W5RFKiAJI/750x500.jpg",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/gjYlOrsw111zc59v7_dseIJOy60ACbPam3W5RFKiAJI/750x500.jpg",
+              "width": 750
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/gjYlOrsw111zc59v7_dseIJOy60ACbPam3W5RFKiAJI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/gjYlOrsw111zc59v7_dseIJOy60ACbPam3W5RFKiAJI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/gjYlOrsw111zc59v7_dseIJOy60ACbPam3W5RFKiAJI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gjYlOrsw111zc59v7_dseIJOy60ACbPam3W5RFKiAJI/750x500.jpg",
+          "width": 750
+        },
+        "imageCaption": "写真提供：愛之船Love Boat",
+        "infoBlockLabel": "三鳳宮の基本情報",
+        "infoBlockText": "アクセス：MRT「市議會」駅から徒歩11分、台湾鉄路「高雄」駅から徒歩15分住所：高雄市三民區河北二路134號TEL：07-287-1851営業時間：5:00～22:00料金：入場無料",
+        "sectionLevel": "h3",
+        "sectionTitle": "1. 龍虎塔（蓮池潭風景区）"
+      },
+      {
+        "cTA1": {
+          "label": "グランド ハイライ ホテルに泊まる",
+          "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/1808/?freeword\u003d%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%20%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%20%E3%83%9B%E3%83%86%E3%83%AB",
+          "linkType": "URL"
+        },
+        "description": "「三鳳宮（サンフォンゴン）」は、300年以上の歴史をもつ道教の寺院です。悪魔を退治する勇敢な少年兵・中壇元帥（哪吒三太子）を主神として祀り、観音菩薩や釈迦仏も合祀しています。地元の人にも観光客にも人気のスポットです。中国北方式宮殿づくりを採用した三鳳宮は、豪華な３階建て。きらびやかさと厳粛さを併せ持つこの寺院は、夜のライトアップも有名です。内部に灯るランタンの明かりも見どころのひとつ。徒歩圏内には、100年の歴史を持つ問屋街・三鳳中街もあるので、一緒に訪れてみましょう。",
+        "image": {
+          "height": 438,
+          "sourceUrl": "https://a.mktgcdn.com/p/ILIvVNeI1UWKE20_kGbM6KPEPxwx2HhpMO5Giok9gF0/661x438.jpg",
+          "thumbnails": [
+            {
+              "height": 438,
+              "url": "https://a.mktgcdn.com/p-sandbox/lhu72_b7r5WyirnKsnfEKmFqG5E2Kn3eBKZYNJcmVig/661x438.jpg",
+              "width": 661
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/lhu72_b7r5WyirnKsnfEKmFqG5E2Kn3eBKZYNJcmVig/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/lhu72_b7r5WyirnKsnfEKmFqG5E2Kn3eBKZYNJcmVig/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/lhu72_b7r5WyirnKsnfEKmFqG5E2Kn3eBKZYNJcmVig/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lhu72_b7r5WyirnKsnfEKmFqG5E2Kn3eBKZYNJcmVig/661x438.jpg",
+          "width": 661
+        },
+        "imageCaption": "写真提供：台湾観光局",
+        "infoBlockLabel": "旗後天后宮の基本情報",
+        "infoBlockText": "アクセス：旗津輪渡站（フェリー乗り場）から徒歩３分住所：高雄市旗津區廟前路93號TEL：07-571-2115営業時間：6:00～21:00料金：入場無料",
+        "sectionLevel": "h3",
+        "sectionTitle": "2. 啓明堂（蓮池潭風景区）"
+      },
+      {
+        "cTA1": {
+          "label": "シャトー・デ・シン高雄に泊まる",
+          "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/1808/?freeword\u003d%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC%E3%83%BB%E3%83%87%E3%83%BB%E3%82%B7%E3%83%B3%20%E9%AB%98%E9%9B%84",
+          "linkType": "URL"
+        },
+        "description": "「旗後天后廟（チーホウティエンホウミャオ）」は、高雄市内の「鼓山輪渡站（グーシャンルゥンドゥージャン）」からフェリーで5分ほどの離島・旗津（チージン）にあります。フェリー乗り場からビーチへ向かうメインストリートには海鮮料理店やみやげ店が立ち並ぶなか、その堂々とした姿に目を引かれます。天后廟は、島国の台湾で最も人気があり大切にされる海の女神・媽祖（天上聖母）を祀る寺院です。なかでも旗後天后廟は、清朝時代の1673年に建てられた、台湾で最も歴史のある寺院とされています。港町高雄の海に囲まれるのどかな離島で、人々は廟前の許願池や許願亭に願掛けをしています。旗津を訪れるなら、天后廟で海の街を守る女神・媽祖に参拝してからビーチへと向かいましょう。",
+        "image": {
+          "height": 490,
+          "sourceUrl": "https://a.mktgcdn.com/p/_BVWDAbmjza83n0zfz6nqxboqgSYsHTLVr2knEIe234/740x490.jpg",
+          "thumbnails": [
+            {
+              "height": 490,
+              "url": "https://a.mktgcdn.com/p-sandbox/XiG4QqLd8a293mJ0n1bwM8G1RfXz80aswztgUGtZjRg/740x490.jpg",
+              "width": 740
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/XiG4QqLd8a293mJ0n1bwM8G1RfXz80aswztgUGtZjRg/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 397,
+              "url": "https://a.mktgcdn.com/p-sandbox/XiG4QqLd8a293mJ0n1bwM8G1RfXz80aswztgUGtZjRg/600x397.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/XiG4QqLd8a293mJ0n1bwM8G1RfXz80aswztgUGtZjRg/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/XiG4QqLd8a293mJ0n1bwM8G1RfXz80aswztgUGtZjRg/740x490.jpg",
+          "width": 740
+        },
+        "imageCaption": "デラックスツイン／写真提供：高雄アンバサダーホテル",
+        "infoBlockLabel": "六合夜市の基本情報",
+        "infoBlockText": "アクセス：MRT「美麗島」駅から徒歩２分住所：高雄市新興區六合二路営業時間：18:00～深夜",
+        "sectionLevel": "h3",
+        "sectionTitle": "3. 三鳳宮　"
+      },
+      {
+        "cTA1": {
+          "label": "ハワード プラザ ホテル高雄に泊まる",
+          "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/1808/?freeword\u003d%E3%83%8F%E3%83%AF%E3%83%BC%E3%83%89%20%E3%83%97%E3%83%A9%E3%82%B6%20%E3%83%9B%E3%83%86%E3%83%AB%E9%AB%98%E9%9B%84",
+          "linkType": "URL"
+        },
+        "description": "台湾でも古い歴史を持つ高雄の「六合夜市（リウハーイェシー／ろくごうよいち）」は、港町・高雄ならでは、豪快にシーフードを使う屋台の多さが特徴です。屋台の店先で氷の上に並ぶ大きなエビや貝類のほか、臭豆腐やヘビ料理など、冒険心をかきたてる店でにぎわっています。六合夜市は道幅がゆったりしているのも大きな特徴です。台北など北部にはない広々とした空間が一本道で続き、食べ歩きやショッピング、写真を撮っても人とぶつかり合うことがないので、のんびり散策にもぴったりです。美しいステンドグラスが有名なMRT「美麗島」駅からすぐと、六合夜市はアクセスもとても便利。観光客におすすめの夜市と言えるでしょう。",
+        "image": {
+          "height": 1022,
+          "sourceUrl": "https://a.mktgcdn.com/p/N7edZeuqUlxmKTSfFn_x7fq_31CR_Z-49lOAksVWglE/1536x1022.jpg",
+          "thumbnails": [
+            {
+              "height": 1022,
+              "url": "https://a.mktgcdn.com/p-sandbox/N7edZeuqUlxmKTSfFn_x7fq_31CR_Z-49lOAksVWglE/1536x1022.jpg",
+              "width": 1536
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/N7edZeuqUlxmKTSfFn_x7fq_31CR_Z-49lOAksVWglE/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/N7edZeuqUlxmKTSfFn_x7fq_31CR_Z-49lOAksVWglE/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/N7edZeuqUlxmKTSfFn_x7fq_31CR_Z-49lOAksVWglE/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/N7edZeuqUlxmKTSfFn_x7fq_31CR_Z-49lOAksVWglE/1536x1022.jpg",
+          "width": 1536
+        },
+        "imageCaption": "プールサイドの様子／写真提供：グランド ハイライ ホテル",
+        "infoBlockLabel": "愛河／愛之船の基本情報",
+        "infoBlockText": "アクセス：MRT「市議會」駅から徒歩10分住所：高雄市前金區河東路TEL：07-335-9909（8:00～18:00）営業時間：15:00～22:00（月〜金曜日） 9:00～22:00（土・日曜日、祝日）休業日：なし料金：1名150台湾元",
+        "sectionLevel": "h3",
+        "sectionTitle": "4. 旗後天后宮　"
+      },
+      {
+        "cTA1": {
+          "label": "ホテルコッツィ高雄中山館に泊まる",
+          "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/1808/?freeword\u003d%E3%83%9B%E3%83%86%E3%83%AB%E3%82%B3%E3%83%83%E3%83%84%E3%82%A3%E9%AB%98%E9%9B%84%E4%B8%AD%E5%B1%B1%E9%A4%A8",
+          "linkType": "URL"
+        },
+        "description": "高雄市から台湾海峡に流れる愛河（アイハー）は、「Love River」という名称とロマンチックな川べり散歩が楽しめることから、高雄のデートスポットとして知られています。愛河クルーズ「愛之船」は、地元の人たちや観光客に人気のアクティビティです。クルーズは約25分、料金はひとり150台湾元。河沿いにある愛之船チケット売り場で当日購入が可能です。昼間のクルーズはもちろん、街に明かりが灯る夜のクルーズもおすすめです。小さな船でゆっくりと、夜の川面に映る明かりや高層ビルのライトアップを眺めるクルーズは、日中街の中で見る高雄とは違うエキゾチックなムードを楽しめます。日本人観光客向けに、日本語ガイダンスを放送するサービスもあります。水に囲まれた高雄ならではのゆるやかな時間を過ごしてみましょう。",
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://a.mktgcdn.com/p/fwlv7SgDdGF5ebseNPrIiDc064kbO6LYAiSdbtzLN0I/960x640.jpg",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "https://a.mktgcdn.com/p-sandbox/ziuEJ9rjegy6bOdbj7pMGTiOCUmIgxq4DPL7M2Y5jBw/960x640.jpg",
+              "width": 960
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ziuEJ9rjegy6bOdbj7pMGTiOCUmIgxq4DPL7M2Y5jBw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ziuEJ9rjegy6bOdbj7pMGTiOCUmIgxq4DPL7M2Y5jBw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ziuEJ9rjegy6bOdbj7pMGTiOCUmIgxq4DPL7M2Y5jBw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ziuEJ9rjegy6bOdbj7pMGTiOCUmIgxq4DPL7M2Y5jBw/960x640.jpg",
+          "width": 960
+        },
+        "imageCaption": "デラックスツイン／写真提供：シャトー・デ・シン高雄",
+        "infoBlockLabel": "光之穹頂の基本情報",
+        "infoBlockText": "アクセス：MRT「美麗島」駅構内住所：高雄市新興區中山一路115號 地下1階TEL：07-793-8888営業時間：5:55～24:25",
+        "sectionLevel": "h3",
+        "sectionTitle": "5. 六合夜市　"
+      },
+      {
+        "cTA1": {
+          "label": "台北から高雄への移動方法",
+          "link": "https://www.jtb.co.jp/kaigai_guide/report/TW/2014/12/taipei-kaohsiung-transfer.html",
+          "linkType": "URL"
+        },
+        "description": "六合夜市の最寄りにあるMRT「美麗島」駅の改札を出ると巨大なステンドグラスの柱と天井が目の前に広がります。「光之穹頂（グァンジーチォンディン／ドーム オブ ライト）」はイタリア出身のビジュアルアーティスト、マエストロ・ナルキッソス・カグリアータによる作品です。4,500枚のステンドグラスがおりなすテーマは、愛と包容。「水」「土」「光」「火」の４つのパートで構成され、青い海から誕生する生命、人類の歴史と愛や喜びが描かれています。スマートフォンのカメラでも、驚くほど鮮明に撮影することができるので、台湾南部を旅する際にはぜひ訪れたいスポットです。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/YAFgKvbM-aN4CepAqzxEoDCBk-shgbXQCwGfATNM_VY/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/YAFgKvbM-aN4CepAqzxEoDCBk-shgbXQCwGfATNM_VY/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/YAFgKvbM-aN4CepAqzxEoDCBk-shgbXQCwGfATNM_VY/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/YAFgKvbM-aN4CepAqzxEoDCBk-shgbXQCwGfATNM_VY/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/YAFgKvbM-aN4CepAqzxEoDCBk-shgbXQCwGfATNM_VY/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YAFgKvbM-aN4CepAqzxEoDCBk-shgbXQCwGfATNM_VY/1536x1152.jpg",
+          "width": 1536
+        },
+        "imageCaption": "プレミアムデラックスルーム／写真提供：ハワード プラザ ホテル高雄",
+        "infoBlockLabel": "高雄アンバサダーホテルの基本情報",
+        "infoBlockText": "現地名称：高雄国賓大飯店　ガオショングォービンファーファンディエンアクセス：MRT「市議會」駅から徒歩10分住所：高雄市前金區民生二路202號",
+        "sectionLevel": "h3",
+        "sectionTitle": "6. 愛河（愛之船）"
+      },
+      {
+        "cTA1": {
+          "label": "台湾の記事一覧はこちら",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/",
+          "linkType": "URL"
+        },
+        "description": "観光都市・高雄には、南国リゾート気分を盛り上げてくれるゴージャスなホテルが多数あります。ゆったりとした滞在を堪能できる5つのホテルをご紹介しましょう。",
+        "image": {
+          "height": 682,
+          "sourceUrl": "https://a.mktgcdn.com/p/U6DjhnMPSmEE2nuk6nf-KNikyWWV4-a5I_d6t6HCRg8/1024x682.jpg",
+          "thumbnails": [
+            {
+              "height": 682,
+              "url": "https://a.mktgcdn.com/p-sandbox/U6DjhnMPSmEE2nuk6nf-KNikyWWV4-a5I_d6t6HCRg8/1024x682.jpg",
+              "width": 1024
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/U6DjhnMPSmEE2nuk6nf-KNikyWWV4-a5I_d6t6HCRg8/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/U6DjhnMPSmEE2nuk6nf-KNikyWWV4-a5I_d6t6HCRg8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/U6DjhnMPSmEE2nuk6nf-KNikyWWV4-a5I_d6t6HCRg8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/U6DjhnMPSmEE2nuk6nf-KNikyWWV4-a5I_d6t6HCRg8/1024x682.jpg",
+          "width": 1024
+        },
+        "imageCaption": "コッツィルーム キングツイン／写真提供：ホテルコッツィ高雄中山館",
+        "infoBlockLabel": "グランド ハイライ ホテルの基本情報",
+        "infoBlockText": "現地名称：漢來大飯店　ハンライダーファンディエンアクセス：MRT「中央公園」駅から徒歩10分住所：高雄市前金區成功一路266號",
+        "sectionLevel": "h3",
+        "sectionTitle": "7. 光之穹頂　"
+      },
+      {
+        "description": "愛河沿いに佇む、都会の中にありながら、水辺のオアシスのようなホテルです。アイボリーと茶を基調にしたモダンな客室は、暑い高雄の旅の疲れを癒してくれる、落ち着いた雰囲気。駁二藝術特區や六合夜市には車で約5分と観光スポットへのアクセスも抜群です。",
+        "image": {
+          "height": 1026,
+          "sourceUrl": "https://a.mktgcdn.com/p/11Ii9130hAziqLKFhSiA56hMVrmgYa0qSnDWPR0I-SM/1536x1026.jpg",
+          "thumbnails": [
+            {
+              "height": 1026,
+              "url": "https://a.mktgcdn.com/p-sandbox/11Ii9130hAziqLKFhSiA56hMVrmgYa0qSnDWPR0I-SM/1536x1026.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/11Ii9130hAziqLKFhSiA56hMVrmgYa0qSnDWPR0I-SM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/11Ii9130hAziqLKFhSiA56hMVrmgYa0qSnDWPR0I-SM/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/11Ii9130hAziqLKFhSiA56hMVrmgYa0qSnDWPR0I-SM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/11Ii9130hAziqLKFhSiA56hMVrmgYa0qSnDWPR0I-SM/1536x1026.jpg",
+          "width": 1536
+        },
+        "imageCaption": "©iStock.com/bee32",
+        "infoBlockLabel": "シャトー・デ・シン 高雄の基本情報",
+        "infoBlockText": "現地名称：翰品酒店高雄　ハンピンジゥディエンガオションアクセス：MRT「鹽埕埔(イェンチェンプー)」駅から徒歩3分住所：高雄市鹽埕區大仁路43号號",
+        "sectionLevel": "h2",
+        "sectionTitle": "高雄でおすすめの人気ホテル5選"
+      },
+      {
+        "description": "高雄の金融・商業地区の中心にある漢神百貨の高層階のデラックス・ホテルです。ネオ・クラシシズム（新古典主義）をコンセプトにしているこのホテルは、重厚感のある外観、豪華な内装ともに気品のあるデザインが魅力です。ホテルが所有する3,000点以上の芸術品も、宿泊客の目に止まる場所に置かれています。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/A78oDL4iBDQwbgix8iSrIOSm_yNiVFd-deSN9aXXT9g/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/A78oDL4iBDQwbgix8iSrIOSm_yNiVFd-deSN9aXXT9g/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/A78oDL4iBDQwbgix8iSrIOSm_yNiVFd-deSN9aXXT9g/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/A78oDL4iBDQwbgix8iSrIOSm_yNiVFd-deSN9aXXT9g/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/A78oDL4iBDQwbgix8iSrIOSm_yNiVFd-deSN9aXXT9g/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/A78oDL4iBDQwbgix8iSrIOSm_yNiVFd-deSN9aXXT9g/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "©iStock.com/holgs",
+        "infoBlockLabel": "ハワード プラザ ホテル高雄の基本情報",
+        "infoBlockText": "現地名称：高雄福華大飯店　ガオションフーファダーファンディエンアクセス：MRT「美麗島」から徒歩10～15分住所：高雄市新興區七賢一路311號",
+        "sectionLevel": "h3",
+        "sectionTitle": "1. 高雄アンバサダーホテル (高雄国賓大飯店)"
+      },
+      {
+        "description": "シャトー・デ・シン高雄は、台湾南部を代表するデザイナーズホテルです。フランス語で「中国の城」を意味するこのホテルはクラッシックとモダン、西洋と中国の文化を融合させた外観や内装が特徴です。二二八公園や愛河がすぐ近くにあり、駁二藝術特區、高雄港も徒歩圏内です。ゆったりとした旅に最適なラグジュアリーホテルです。",
+        "image": {
+          "height": 864,
+          "sourceUrl": "https://a.mktgcdn.com/p/R40x6hnOuj3K2lKAxsdZGqYm-PUxu57-FCFScKjwRrU/1536x864.jpg",
+          "thumbnails": [
+            {
+              "height": 864,
+              "url": "https://a.mktgcdn.com/p-sandbox/R40x6hnOuj3K2lKAxsdZGqYm-PUxu57-FCFScKjwRrU/1536x864.jpg",
+              "width": 1536
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/R40x6hnOuj3K2lKAxsdZGqYm-PUxu57-FCFScKjwRrU/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/R40x6hnOuj3K2lKAxsdZGqYm-PUxu57-FCFScKjwRrU/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/R40x6hnOuj3K2lKAxsdZGqYm-PUxu57-FCFScKjwRrU/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/R40x6hnOuj3K2lKAxsdZGqYm-PUxu57-FCFScKjwRrU/1536x864.jpg",
+          "width": 1536
+        },
+        "imageCaption": "©iStock.com/shih-wei",
+        "infoBlockLabel": "ホテルコッツィ高雄中山館の基本情報",
+        "infoBlockText": "現地名称：和逸 高雄中山館　ハーイーガオションジョンシャングァンアクセス：MRT「三多商圏」駅からすぐ住所：高雄市前鎮区中山二路260號",
+        "sectionLevel": "h3",
+        "sectionTitle": "2. グランド ハイライ ホテル (漢来大飯店)"
+      },
+      {
+        "description": "高雄市中心地に立地する高層ホテル。旅の疲れを癒してくれる、ゆとりのある客室が人気です。ホテル内にはカフェや各種レストラン、ショッピングアーケードがそろい、30階には高雄市内を一望するモダンなしゃぶしゃぶレストランも。六合夜市や美麗島駅へのアクセスも便利なので、たくさん遊んだあとも、すぐに身体を休めることができます。",
+        "image": {
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/xQurSty0EYm2lgF4sXZKMAGb-_Cc1tXS8_YTG21Silw/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/xQurSty0EYm2lgF4sXZKMAGb-_Cc1tXS8_YTG21Silw/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/xQurSty0EYm2lgF4sXZKMAGb-_Cc1tXS8_YTG21Silw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/xQurSty0EYm2lgF4sXZKMAGb-_Cc1tXS8_YTG21Silw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/xQurSty0EYm2lgF4sXZKMAGb-_Cc1tXS8_YTG21Silw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xQurSty0EYm2lgF4sXZKMAGb-_Cc1tXS8_YTG21Silw/1536x1025.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "3. シャトー・デ・シン 高雄 (翰品酒店高雄)"
+      },
+      {
+        "description": "ホテルコッツィ高雄中山館は、シンプルでモダンなデザインと行き届いた客室サービスが特長です。「大型ホテルより堅苦しくなく、ビジネスホテルより温かみを」というコンセプトでデザインされています。大型デパートが集中し地下鉄駅も隣接しているので、ビジネスや観光にもアクティブに動けるホテルです。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/zosWUR6YfjRmHcWb3SbEFfk2zmzv4vTW2oSeL_5CRzQ/1536x1024.webp",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/zosWUR6YfjRmHcWb3SbEFfk2zmzv4vTW2oSeL_5CRzQ/1536x1024.webp",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/zosWUR6YfjRmHcWb3SbEFfk2zmzv4vTW2oSeL_5CRzQ/619x413.webp",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/zosWUR6YfjRmHcWb3SbEFfk2zmzv4vTW2oSeL_5CRzQ/600x400.webp",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/zosWUR6YfjRmHcWb3SbEFfk2zmzv4vTW2oSeL_5CRzQ/196x131.webp",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zosWUR6YfjRmHcWb3SbEFfk2zmzv4vTW2oSeL_5CRzQ/1536x1024.webp",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "4. ハワード プラザ ホテル高雄 (高雄福華大飯店)"
+      },
+      {
+        "description": "ここからは、日本から高雄へ旅行するときの方法をご紹介します。台北から行く場合や、高雄市内の交通手段もご紹介するので、旅程を立てる際の参考にしてみてください！",
+        "image": {
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/skK-mIqEnieslHfbUs5lhX-xFYCM3VTmAE9lNDjJbNE/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/skK-mIqEnieslHfbUs5lhX-xFYCM3VTmAE9lNDjJbNE/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/skK-mIqEnieslHfbUs5lhX-xFYCM3VTmAE9lNDjJbNE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/skK-mIqEnieslHfbUs5lhX-xFYCM3VTmAE9lNDjJbNE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/skK-mIqEnieslHfbUs5lhX-xFYCM3VTmAE9lNDjJbNE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/skK-mIqEnieslHfbUs5lhX-xFYCM3VTmAE9lNDjJbNE/1536x1025.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "5. ホテルコッツィ高雄中山館 (和逸 高雄中山館)"
+      },
+      {
+        "description": "高雄国際空港には、札幌（新千歳）、東京（成田）、大阪（関空）、福岡、沖縄など日本各地からの直行便が就航しています（2024年2月現在）。所要時間は成田から約4時間20分、大阪から約3時間35分となっています。台北〜高雄間は、台湾高鉄（新幹線）も運行しています。台北松山空港や桃園国際空港から台湾高鉄「台北」駅や「桃園」駅へ移動して乗り継げば、台北到着当日に高雄への移動も可能です。高雄側の台湾高鉄の駅は「左營（ズゥオイン）」となります。高雄国際空港は市内まで車で20分ほど。MRT「高雄國際機場」駅と直結しているので、市内や台湾高鉄「左營」駅へのアクセスも便利です。高雄国際空港から台南には、直通バスやMRT（地下鉄）を経由して台湾鉄路への乗り継ぎも可能です。最南端のリゾート地・墾丁（ケンディン）間を往復するバスも発着しているので、日本から台湾南部を旅する起点におすすめです。",
+        "image": {
+          "height": 208,
+          "sourceUrl": "https://a.mktgcdn.com/p/uR22ZpeS-K__-iZQJfUOyG999paMKGZk6aFFye6iXlo/314x208.jpg",
+          "thumbnails": [
+            {
+              "height": 208,
+              "url": "https://a.mktgcdn.com/p-sandbox/FHf5RUnChrthMl6_QUg-rViKbnQzx6MMcNNMD8W0cGQ/314x208.jpg",
+              "width": 314
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/FHf5RUnChrthMl6_QUg-rViKbnQzx6MMcNNMD8W0cGQ/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FHf5RUnChrthMl6_QUg-rViKbnQzx6MMcNNMD8W0cGQ/314x208.jpg",
+          "width": 314
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "日本から高雄に行く方法"
+      },
+      {
+        "description": "台湾の玄関口は、日本からの便数が多い台北となるため、台北と高雄をセットで観光したいと考えている人も多いでしょう。台北から高雄への移動は、台湾高鉄（新幹線）が便利です。台湾高鉄「台北」駅から「左營」駅への所要時間は約2時間。料金は自由席で144TWD、指定席で1,490WDです。台湾に入域する際に台北桃園国際空港を利用する場合は、台湾高鉄「桃園」駅から高雄に向かうことも可能です。台湾高鉄「桃園」駅から「左營」駅は所要約1時間50分です。チケットは台湾高鉄の公式サイト（日本語あり）でクレジットカード決済予約や、台北駅などの台湾高鉄窓口、コンビニでも購入が可能。旅行者はお得な高鉄パスも利用できます。詳しくは、下記ページで確認しましょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "日本から高雄までの行き方"
+      },
+      {
+        "description": "市内の移動や主要な観光スポットへは、空港や台湾高鉄（新幹線）駅も網羅する地下鉄MRT（20台湾元～）が便利です。路面電車LRTも開通し、高雄の環状線として利用できます。市内には約200系統の路線バスもあり、運賃は12台湾元〜です。MRTの改札には、各種クレジットカードをタッチして直接出入りできるシステムが導入されました。主要駅で購入可能な１日乗り放題パス「iPass」やICカード「悠遊卡（ヨウヨウカー）」も高雄市内の公共交通機関で利用できます。気温の高い高雄では、特に日中は無理に歩かず、公共交通機関やタクシーを利用しましょう。市内タクシーは初乗り1.5㎞までが85台湾元。流しのタクシーは台北ほど多くはないので、配車アプリなどを利用すると良いでしょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "台北から高雄までの行き方"
+      },
+      {
+        "description": "高雄の空港に降り立つと、台北とは違った南国の濃密な空気を感じるでしょう。出迎えの人々のおおらかな笑顔は、人情味あふれる豪快さ。港町ならではの旅は、海から吹く新しい風と、長い歴史に彩られる経験が待っています。高雄では新鮮な海鮮料理のほか、豊富な南国フルーツをたっぷり使ったかき氷やタピオカミルクティーも楽しめます。日本統治時代の旧市街をリノベーションした現代台湾アートエリアで感性を刺激されたら、夜市で台湾B級グルメにも挑戦してみましょう。そして、高雄ならではの高層ホテルの客室やレストランでは、高雄港や愛河の絶景が待っています。高雄からは古都・台南や最南端のリゾート・墾丁へのアクセスも充実しています。南台湾の魅力を感じる旅の拠点、高雄への旅の準備をしてみませんか。※2024年2月時点の情報です。内容は変更になることがあります。※1台湾元＝ 約4.75円（2024年2月末現在）※渡航制限等により航空便のスケジュールが変更となる場合がございます。最新のフライト情報をご確認ください。",
+        "sectionLevel": "h3",
+        "sectionTitle": "高雄市内の交通手段"
+      },
+      {
+        "sectionLevel": "h2",
+        "sectionTitle": "まとめ"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0003",
+      "news_web_kaigai_0002"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2020-10-06",
+    "c_news_UpdateDate": "2024-06-28",
+    "c_news_ViewCount": "7415",
+    "c_news_ViewCount2of2": "7415",
+    "c_news_ViewCountNum": "7415",
+    "c_news_ViewCountNumForSorting": "378",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_web_kaigai_0004",
+    "c_relatedAreas": [
+      "taiwan"
+    ],
+    "name": "【台湾・高雄】の魅力に迫る！高雄おすすめ観光地7選＆人気ホテル5選",
+    "slug": "kaigai/asia/taiwan/news_web_kaigai_0004",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

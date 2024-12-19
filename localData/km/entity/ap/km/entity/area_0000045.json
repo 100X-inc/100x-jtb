@@ -1,0 +1,395 @@
+{
+  "$id": "ap_area_0000045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 竹内 寿夫",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "まずは季節ごとの花畑が楽しい「国営ひたち海浜公園」へ。有名なネモフィラのほかにも、ポピーやヒマワリ、コキアなど、一年を通して鮮やかな花が園内を彩ります。多彩なアトラクションが揃う遊園地や、地元の食材を使ったスイーツなどを味わえるカフェもあり、たっぷり遊べる人気スポットです。",
+        "image": {
+          "height": 1044,
+          "sourceUrl": "https://a.mktgcdn.com/p/-L6QrNqDHPpLIykXj2Cfe5uSnfmn25SE3Uyts191ay8/1577x1044.jpg",
+          "thumbnails": [
+            {
+              "height": 1044,
+              "url": "https://a.mktgcdn.com/p-sandbox/0PlmzyLS5WImVh-yOucuX7Cg6ZWE31SB5nkZpezv5U0/1577x1044.jpg",
+              "width": 1577
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/0PlmzyLS5WImVh-yOucuX7Cg6ZWE31SB5nkZpezv5U0/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 397,
+              "url": "https://a.mktgcdn.com/p-sandbox/0PlmzyLS5WImVh-yOucuX7Cg6ZWE31SB5nkZpezv5U0/600x397.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/0PlmzyLS5WImVh-yOucuX7Cg6ZWE31SB5nkZpezv5U0/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0PlmzyLS5WImVh-yOucuX7Cg6ZWE31SB5nkZpezv5U0/1577x1044.jpg",
+          "width": 1577
+        },
+        "imageCaption": "秋は紅葉のコキアが丘を染めます",
+        "sectionTitle": "「国営ひたち海浜公園」で花畑に感動！（1日目　10：00）"
+      },
+      {
+        "description": "「国営ひたち海浜公園」から車で約20分、お昼は那珂湊漁港に面する「那珂湊おさかな市場」でお腹を満たしましょう。市場内には多彩な食事処が集まり、新鮮魚介がてんこ盛りの海鮮丼など、各店こだわりの海鮮料理を味わえます。食事を楽しんだら、おみやげ探しへ。",
+        "image": {
+          "height": 413,
+          "sourceUrl": "https://a.mktgcdn.com/p/Nbe8qWtO2YeWwrl-9WVthmSxCvhA6Hm9g2M6H14R524/620x413.jpg",
+          "thumbnails": [
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/hN0DyVV-Egglc1aFfv5zOAdzB182QqfRPY_DBSQQj18/620x413.jpg",
+              "width": 620
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/hN0DyVV-Egglc1aFfv5zOAdzB182QqfRPY_DBSQQj18/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/hN0DyVV-Egglc1aFfv5zOAdzB182QqfRPY_DBSQQj18/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/hN0DyVV-Egglc1aFfv5zOAdzB182QqfRPY_DBSQQj18/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hN0DyVV-Egglc1aFfv5zOAdzB182QqfRPY_DBSQQj18/620x413.jpg",
+          "width": 620
+        },
+        "imageCaption": "旬の地魚などがのったボリューム満点の海鮮丼（写真は海鮮処 海門）",
+        "sectionTitle": "「那珂湊おさかな市場」で海鮮ランチ（1日目　12：00）"
+      },
+      {
+        "description": "「サメの飼育種類数日本一」を誇る「アクアワールド茨城県大洗水族館」では、約580種6万8000点の生き物を展示。茨城沖を再現した巨大水槽「出会いの海の大水槽」をはじめ、四季をテーマとした幻想的なクラゲ大水槽「くらげ365」や、ペンギン、アシカ、オットセイを360℃から楽しめる屋外エリア「オーシャンテラス」などがあり、さまざまな海の生き物に出会えます。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/SR4HgSVZaXAFcq3mfq_4rRIc7O_lXKVB5w77tk3bgis/900x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/SR4HgSVZaXAFcq3mfq_4rRIc7O_lXKVB5w77tk3bgis/900x600.jpg",
+              "width": 900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/SR4HgSVZaXAFcq3mfq_4rRIc7O_lXKVB5w77tk3bgis/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/SR4HgSVZaXAFcq3mfq_4rRIc7O_lXKVB5w77tk3bgis/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/SR4HgSVZaXAFcq3mfq_4rRIc7O_lXKVB5w77tk3bgis/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SR4HgSVZaXAFcq3mfq_4rRIc7O_lXKVB5w77tk3bgis/900x600.jpg",
+          "width": 900
+        },
+        "imageCaption": "約80種2万匹の魚が泳ぐ「出会いの海の大水槽」",
+        "sectionTitle": "「アクアワールド茨城県大洗水族館」で巨大水槽を観賞（1日目　13：00）"
+      },
+      {
+        "description": "食品・飲料の有名メーカーの工場が多い茨城県。次の目的地は、水族館から車で約10分、明太子を生産する工場の見学ができる「めんたいパーク大洗」です。明太子の老舗「かねふく」が運営する工場兼テーマパークで、明太子の製造工程を楽しく学べます。できたての明太子やオリジナルグッズなど、品揃えが充実の直売所も要チェックです。1日目の観光をめいっぱい楽しんだら、大洗海岸周辺の宿へ。太平洋を眺めながらスローな時間を過ごしましょう。",
+        "image": {
+          "height": 317,
+          "sourceUrl": "https://a.mktgcdn.com/p/tsavw4thKXK3V9E6VxfZGb-MEcz8ksIZR05qQ4BL1uk/475x317.jpg",
+          "thumbnails": [
+            {
+              "height": 317,
+              "url": "https://a.mktgcdn.com/p-sandbox/AIyvHu6eZcwltEfQM-xLJC2a3ivdzeIEhRmhRfijf4A/475x317.jpg",
+              "width": 475
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/AIyvHu6eZcwltEfQM-xLJC2a3ivdzeIEhRmhRfijf4A/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AIyvHu6eZcwltEfQM-xLJC2a3ivdzeIEhRmhRfijf4A/475x317.jpg",
+          "width": 475
+        },
+        "imageCaption": "見学ギャラリーや工場、直売所からなる人気の施設",
+        "sectionTitle": "「めんたいパーク大洗」で工場見学（1日目　15：00）"
+      },
+      {
+        "description": "2日目は、大洗から車で約30分の水戸へ移動。日本三名園のひとつ「偕楽園」を散策しましょう。水戸藩9代藩主・徳川斉昭によって造園され、天保13年（1842）に開園した歴史ある庭園です。園内には好文亭などみどころも多く、梅スイーツやおみやげを買える売店もあります。",
+        "image": {
+          "height": 597,
+          "sourceUrl": "https://a.mktgcdn.com/p/Zb1II29YnZ2iDyqjBS_Dmpk65hCXc3l804emrITO-gk/900x597.jpg",
+          "thumbnails": [
+            {
+              "height": 597,
+              "url": "https://a.mktgcdn.com/p-sandbox/Zb1II29YnZ2iDyqjBS_Dmpk65hCXc3l804emrITO-gk/900x597.jpg",
+              "width": 900
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/Zb1II29YnZ2iDyqjBS_Dmpk65hCXc3l804emrITO-gk/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/Zb1II29YnZ2iDyqjBS_Dmpk65hCXc3l804emrITO-gk/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/Zb1II29YnZ2iDyqjBS_Dmpk65hCXc3l804emrITO-gk/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Zb1II29YnZ2iDyqjBS_Dmpk65hCXc3l804emrITO-gk/900x597.jpg",
+          "width": 900
+        },
+        "imageCaption": "春の梅をはじめ、四季折々の花々を楽しめます",
+        "sectionTitle": "「偕楽園」をのんびり散策（2日目　10：30）"
+      },
+      {
+        "description": "水戸ならではのグルメを楽しむなら、やっぱり納豆。「とんかつ八戒」では、納豆を使ったオリジナリティあふれるメニューを味わえます。とんかつには、きめ細かな肉質が評判の茨城のブランド豚「ローズポーク」を使用。甘めの自家製ダレと合わせた水戸納豆をとんかつにトッピングした「水戸納豆とんかつ」がおすすめです。",
+        "image": {
+          "height": 2048,
+          "sourceUrl": "https://a.mktgcdn.com/p/3in0QTVzfmrvmY6N1CDzW1vmdEewC0mGVN-rRqNdyIw/3068x2048.jpg",
+          "thumbnails": [
+            {
+              "height": 2048,
+              "url": "https://a.mktgcdn.com/p-sandbox/NHcSIcB9PqqjUMlFZ8OUiGghRx828q_VwcTertMWqc0/3068x2048.jpg",
+              "width": 3068
+            },
+            {
+              "height": 1268,
+              "url": "https://a.mktgcdn.com/p-sandbox/NHcSIcB9PqqjUMlFZ8OUiGghRx828q_VwcTertMWqc0/1900x1268.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/NHcSIcB9PqqjUMlFZ8OUiGghRx828q_VwcTertMWqc0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/NHcSIcB9PqqjUMlFZ8OUiGghRx828q_VwcTertMWqc0/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/NHcSIcB9PqqjUMlFZ8OUiGghRx828q_VwcTertMWqc0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NHcSIcB9PqqjUMlFZ8OUiGghRx828q_VwcTertMWqc0/3068x2048.jpg",
+          "width": 3068
+        },
+        "imageCaption": "肉と納豆の絶妙な組み合わせがクセになる「水戸納豆とんかつ」",
+        "sectionTitle": "ランチは「とんかつ八戒」で納豆グルメを堪能（2日目　12：00）"
+      },
+      {
+        "description": "お腹を満たしたら、車で約40分の笠間へ。関東を代表する焼物の里には、ギャラリーロードややきもの通りなどがあり、ギャラリーやショップ、陶芸体験ができる施設などが点在しています。お気に入りの作品をお持ち帰り！",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/z4aDu41YiuXbB9ha7FH-8fQGCIRMeF3pefXZvV-5bn8/799x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/jYNnUbc3T16z3TrvvVRJ8BpHIIGgAiEvV15Cd-loNGY/799x533.jpg",
+              "width": 799
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/jYNnUbc3T16z3TrvvVRJ8BpHIIGgAiEvV15Cd-loNGY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/jYNnUbc3T16z3TrvvVRJ8BpHIIGgAiEvV15Cd-loNGY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/jYNnUbc3T16z3TrvvVRJ8BpHIIGgAiEvV15Cd-loNGY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jYNnUbc3T16z3TrvvVRJ8BpHIIGgAiEvV15Cd-loNGY/799x533.jpg",
+          "width": 799
+        },
+        "imageCaption": "普段使いしやすい器が豊富に揃っています",
+        "sectionTitle": "「笠間」で笠間焼をゲット！（2日目　13：30）"
+      },
+      {
+        "description": "旅の締めくくりは、茨城を代表するパワースポット「鹿島神宮」。神武天皇元年（紀元前660年）創祀と伝わる古社です。古代から伊勢神宮のほかに「神宮」とよばれたのは、鹿島神宮と千葉の香取神宮のみで、格式の高い神社です。必勝祈願、開運、縁結びなど、さまざまなご利益があるといわれ、全国から多くの参拝客が訪れます。",
+        "image": {
+          "height": 1500,
+          "sourceUrl": "https://a.mktgcdn.com/p/ujtsp3GMuFDZYAV9uwBSa7EIDPsWkofr360mEZFVTho/2000x1500.jpg",
+          "thumbnails": [
+            {
+              "height": 1500,
+              "url": "https://a.mktgcdn.com/p-sandbox/ujtsp3GMuFDZYAV9uwBSa7EIDPsWkofr360mEZFVTho/2000x1500.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/ujtsp3GMuFDZYAV9uwBSa7EIDPsWkofr360mEZFVTho/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/ujtsp3GMuFDZYAV9uwBSa7EIDPsWkofr360mEZFVTho/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ujtsp3GMuFDZYAV9uwBSa7EIDPsWkofr360mEZFVTho/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/ujtsp3GMuFDZYAV9uwBSa7EIDPsWkofr360mEZFVTho/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ujtsp3GMuFDZYAV9uwBSa7EIDPsWkofr360mEZFVTho/2000x1500.jpg",
+          "width": 2000
+        },
+        "imageCaption": "朱塗りの楼門は日本三大楼門のひとつ",
+        "sectionTitle": "「鹿島神宮」でパワーチャージ！（2日目　15：30）"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2023-03-26",
+    "c_ap_HeroImage": {
+      "alternateText": "【茨城県　ひたちなか～鹿嶋】王道スポットがずらり！1泊2日ドライブコース",
+      "height": 600,
+      "sourceUrl": "https://a.mktgcdn.com/p/KPBp7JgnT7wNf67S4sj4kip-TlwcVZcX2o0iAAXDYNI/900x600.png",
+      "thumbnails": [
+        {
+          "height": 600,
+          "url": "https://a.mktgcdn.com/p-sandbox/JZ3LrCv7k3w3jv1r10ugjVpVK9N5SX9Q6zfUH3yAgsY/900x600.png",
+          "width": 900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/JZ3LrCv7k3w3jv1r10ugjVpVK9N5SX9Q6zfUH3yAgsY/619x413.png",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/JZ3LrCv7k3w3jv1r10ugjVpVK9N5SX9Q6zfUH3yAgsY/600x400.png",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/JZ3LrCv7k3w3jv1r10ugjVpVK9N5SX9Q6zfUH3yAgsY/196x131.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/JZ3LrCv7k3w3jv1r10ugjVpVK9N5SX9Q6zfUH3yAgsY/900x600.png",
+      "width": 900
+    },
+    "c_ap_HeroImageCaption": "コキア紅葉の見頃の10月、「国営ひたち海浜公園」ではコスモスとの共演も！",
+    "c_ap_LinkArticleSectionTitle": "茨城県その他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "茨城旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/ibaraki/"
+      },
+      {
+        "linkText": "茨城県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/ibaraki/"
+      },
+      {
+        "linkText": "【旅×自然】写真映え、春の花さんぽ。国営ひたち海浜公園",
+        "uRL": "https://www.youtube.com/watch?v\u003dRp70R7L-Kf8"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "関東全般",
+      "茨城県"
+    ],
+    "c_ap_ShortDescription": "茨城が誇る絶景の花スポットや水族館、名園、パワースポットなど、定番スポットを1泊2日でめぐるモデルプランをご紹介。広い茨城をめぐるなら、車移動が一番便利。魅力いっぱいの茨城をドライブで満喫！",
+    "c_ap_Tags": [
+      "ひたちなか",
+      "鹿嶋",
+      "モデルプラン",
+      "那珂湊"
+    ],
+    "c_ap_Theme": [
+      "自然・山",
+      "寺社・教会",
+      "動植物園・公園",
+      "ドライブ",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "【茨城県　ひたちなか～鹿嶋】王道スポットがずらり！1泊2日ドライブコース",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "茨城が誇る絶景の花スポットや水族館、名園、パワースポットなど、定番スポットを1泊2日でめぐるモデルプランをご紹介。広い茨城をめぐるなら、車移動が一番便利。魅力いっぱいの茨城をドライブで満喫！",
+    "c_metaTitle": "【茨城県　ひたちなか～鹿嶋】王道スポットがずらり！1泊2日ドライブコース | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_area_0000045",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "関東全般, 茨城県",
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "【茨城県　ひたちなか～鹿嶋】王道スポットがずらり！1泊2日ドライブコース",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

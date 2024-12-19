@@ -1,0 +1,78 @@
+{
+  "$id": "cp_18116832",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "福岡県",
+    "c_cp_CTA1": {
+      "label": "山田の来店予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVBsxKl",
+      "linkType": "OTHER"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVqkxq",
+      "linkType": "URL"
+    },
+    "c_cp_DisplayName": "山田",
+    "c_cp_FieldOfExpertise": [
+      "街あるき",
+      "グルメ",
+      "温泉・立ち寄り湯"
+    ],
+    "c_cp_HiraganaName": "やまだ",
+    "c_cp_JobTitle": "JTB久留米ゆめタウン店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/YQJBTiRpLMEVKhShfgprQmcpOR5Yiqfy866qSjPjolk/1280x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/YQJBTiRpLMEVKhShfgprQmcpOR5Yiqfy866qSjPjolk/1280x960.jpg",
+          "width": 1280
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/YQJBTiRpLMEVKhShfgprQmcpOR5Yiqfy866qSjPjolk/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/YQJBTiRpLMEVKhShfgprQmcpOR5Yiqfy866qSjPjolk/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/YQJBTiRpLMEVKhShfgprQmcpOR5Yiqfy866qSjPjolk/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/YQJBTiRpLMEVKhShfgprQmcpOR5Yiqfy866qSjPjolk/1280x960.jpg",
+      "width": 1280
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "台湾"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "京都府",
+      "奈良県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 山田",
+    "c_metaTitle": "JTBトラベルコンサルタント | 山田",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_18116832",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10409_久留米ゆめタウン店",
+    "name": "やまだ_18116832",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

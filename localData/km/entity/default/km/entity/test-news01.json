@@ -1,0 +1,14 @@
+{
+  "$id": "test-news01",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_news_ViewCount": "0",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/test-news01",
+    "name": "テスト記事",
+    "slug": "test-news01"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

@@ -1,0 +1,40 @@
+{
+  "$id": "kando-toki-199",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/199_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d26.228891%2C127.303156",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "沖縄県",
+    "c_searchTags": [
+      "沖縄県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "冬",
+      "海・湖・川・滝"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "まるでボートが空中に浮いているように見えるほど透き通った、美しい慶良間諸島の海。「ケラマブルー」と呼ばれる輝く海では、カラフルなサンゴ礁とかわいい魚たちがダイバーを出迎えてくれます。豊かな海にはウミガメなども生息しており、海で遊んでいると、時には彼らと遭遇することも。真っ白な砂浜で、心ゆくまで南国リゾートを満喫できます。\n背景\n沖縄本島の西方に位置する慶良間諸島は、大小あわせて20あまりの島々が集まってできています。沖縄から船で1時間ほどで行くことができるので、日帰りのダイビングやシュノーケリング、ビーチリゾートを楽しめる場所としても人気があります。周辺は国立公園に指定されており、世界屈指の透明度を誇る海は、その美しい青さで人々を惹きつけます。海の中に潜りながら数十m先まで見渡せるほどの透明度は、まさに絶景。海の底のサンゴ礁や魚たちも、くっきりと鮮やかに見ることができます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/199.asp",
+    "name": "世界中のダイバーが惚れ込む青の世界「ケラマブルー」"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

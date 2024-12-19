@@ -1,0 +1,27 @@
+{
+  "$id": "kaigai/area/united-kingdom/",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_searchArea1": [
+      "海外"
+    ],
+    "description": "イギリス旅行ならJTBのイギリスツアー予約がおすすめ。イギリス観光は、人気のロンドン以外にも、風光明媚な湖水地方、コッツウォルズ、ハリーポッターのロケ地で有名なオックスフォードなど見所満載。アイルランドやパリと合わせての周遊もおすすめ。JTBなら学生旅行にも嬉しい価格重視ツアーから添乗員つきツアー、ハネムーン向け高級ツアーまで、羽田発・関空発・福岡発など各地発の多数のパッケージツアーがあるので、旅のスタイルや予算に応じて比較してみて！",
+    "displayCoordinate": {
+      "latitude": 55.378051,
+      "longitude": -3.435973
+    },
+    "keywords": [
+      "イギリス",
+      "旅行",
+      "ツアー",
+      "JTB"
+    ],
+    "landingPageUrl": "https://www.jtb.co.jp/kaigai/area/united-kingdom/",
+    "name": "イギリス旅行・イギリスツアー"
+  },
+  "entityType": "ce_area2",
+  "folder": "海外ツアー",
+  "labels": []
+}

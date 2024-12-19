@@ -1,0 +1,87 @@
+{
+  "$id": "cp_21161016",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "大阪府",
+    "c_cp_CTA1": {
+      "label": "島 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVcrBG",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBVBq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "\u003cfont color\u003d\"red\"\u003e写真映えする旅行が得意です\u003c/font\u003e\n\n絶景の写真を撮影するため、国内・海外問わず追いかけています。\n旅行を通じて現地でしか味わえない感動をご案内させていただきます。",
+    "c_cp_DisplayName": "島",
+    "c_cp_FieldOfExpertise": [
+      "一人旅",
+      "世界遺産"
+    ],
+    "c_cp_GeneralInfo": [
+      "●資格：総合旅行業務取扱管理者、世界遺産検定２級、ファイナンシャルプランナー2級"
+    ],
+    "c_cp_HiraganaName": "しま",
+    "c_cp_JobTitle": "JTB大阪天王寺店　トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 700,
+      "sourceUrl": "https://a.mktgcdn.com/p/iYuxi9T5tK04YoJIAdz-mHyVoSdzfN8IRsVPe6LTOTU/1080x700.jpg",
+      "thumbnails": [
+        {
+          "height": 700,
+          "url": "https://a.mktgcdn.com/p-sandbox/NzqBFdoYPUc522YP2fMMMydgM9fuLzzSPRSODxN6G0E/1080x700.jpg",
+          "width": 1080
+        },
+        {
+          "height": 401,
+          "url": "https://a.mktgcdn.com/p-sandbox/NzqBFdoYPUc522YP2fMMMydgM9fuLzzSPRSODxN6G0E/619x401.jpg",
+          "width": 619
+        },
+        {
+          "height": 389,
+          "url": "https://a.mktgcdn.com/p-sandbox/NzqBFdoYPUc522YP2fMMMydgM9fuLzzSPRSODxN6G0E/600x389.jpg",
+          "width": 600
+        },
+        {
+          "height": 127,
+          "url": "https://a.mktgcdn.com/p-sandbox/NzqBFdoYPUc522YP2fMMMydgM9fuLzzSPRSODxN6G0E/196x127.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/NzqBFdoYPUc522YP2fMMMydgM9fuLzzSPRSODxN6G0E/1080x700.jpg",
+      "width": 1080
+    },
+    "c_cp_Point": "1014",
+    "c_cp_StrongAbroadArea3": [
+      "スイス"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "シンガポール"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "長野県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "大阪府"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 島",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 島",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21161016",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2024/04/01　JBX対応（リテール外転出）",
+    "name": "しま あきひろ_21161016",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

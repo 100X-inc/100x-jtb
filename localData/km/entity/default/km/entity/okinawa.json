@@ -1,0 +1,54 @@
+{
+  "$id": "okinawa",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea12": [
+      "kokunai"
+    ],
+    "c_linkedArea23": [
+      "okinawa_all"
+    ],
+    "c_metaDescription": "沖縄に関する記事をピックアップ！JTBニュースでは、沖縄で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 沖縄 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "沖縄",
+      "height": 1050,
+      "sourceUrl": "https://a.mktgcdn.com/p/qyxjxOEGJ895S5JjQ6U-hjYcg8VQm0LxJ-muAjP6U_Q/1920x1050.jpg",
+      "thumbnails": [
+        {
+          "height": 1050,
+          "url": "https://a.mktgcdn.com/p-sandbox/qyxjxOEGJ895S5JjQ6U-hjYcg8VQm0LxJ-muAjP6U_Q/1920x1050.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1039,
+          "url": "https://a.mktgcdn.com/p-sandbox/qyxjxOEGJ895S5JjQ6U-hjYcg8VQm0LxJ-muAjP6U_Q/1900x1039.jpg",
+          "width": 1900
+        },
+        {
+          "height": 339,
+          "url": "https://a.mktgcdn.com/p-sandbox/qyxjxOEGJ895S5JjQ6U-hjYcg8VQm0LxJ-muAjP6U_Q/619x339.jpg",
+          "width": 619
+        },
+        {
+          "height": 328,
+          "url": "https://a.mktgcdn.com/p-sandbox/qyxjxOEGJ895S5JjQ6U-hjYcg8VQm0LxJ-muAjP6U_Q/600x328.jpg",
+          "width": 600
+        },
+        {
+          "height": 107,
+          "url": "https://a.mktgcdn.com/p-sandbox/qyxjxOEGJ895S5JjQ6U-hjYcg8VQm0LxJ-muAjP6U_Q/196x107.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/qyxjxOEGJ895S5JjQ6U-hjYcg8VQm0LxJ-muAjP6U_Q/1920x1050.jpg",
+      "width": 1920
+    },
+    "name": "沖縄",
+    "slug": "kokunai/okinawa"
+  },
+  "entityType": "ce_areaLevel2",
+  "folder": "ニュース記事",
+  "labels": []
+}

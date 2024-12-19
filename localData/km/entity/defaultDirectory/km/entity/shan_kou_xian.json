@@ -1,0 +1,22 @@
+{
+  "$id": "defaultDirectory_shan_kou_xian",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1045019371"
+    ],
+    "dm_directoryChildren": [
+      "defaultDirectory_shan_kou_xian_shan_kou_shi"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory"
+    ],
+    "name": "山口県",
+    "slug": "山口県"
+  },
+  "entityType": "ce_region",
+  "labels": []
+}

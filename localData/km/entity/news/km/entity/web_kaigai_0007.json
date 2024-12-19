@@ -1,0 +1,351 @@
+{
+  "$id": "news_web_kaigai_0007",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1108,
+      "sourceUrl": "https://a.mktgcdn.com/p/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/1477x1108.jpg",
+      "thumbnails": [
+        {
+          "height": 1108,
+          "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/1477x1108.jpg",
+          "width": 1477
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/sfQp8aBVFRWppCqrcopP7OFcujLo0uClqlLPyCYBDW4/1477x1108.jpg",
+      "width": 1477
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ハワイの記事一覧はこちら",
+        "uRL": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii"
+      },
+      {
+        "linkText": "ハワイの旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hawaii/"
+      },
+      {
+        "linkText": "ハワイ行きのツアーをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dept\u003dTYO\u0026sc.dest%5B0%5D.country\u003dH1\u0026sc.dest%5B0%5D.city\u003dHNL"
+      },
+      {
+        "linkText": "ホノルル行きの航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/hawaii/honolulu/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "年間を通して温暖なハワイは、2月も見どころ満載！この時期の気温や海水温、降水量などの旅行情報から、服装や持ち物まで、気になるポイントを解説。2月のハワイ旅行を満喫するための、おすすめ観光スポット・アクティビティ、注目イベントについてもご紹介します。",
+    "c_ap_Tags": [
+      "アクティビティ",
+      "2月の旅行",
+      "イベント",
+      "ハワイおすすめ",
+      "ビーチリゾート",
+      "冬の旅行",
+      "持ち物",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "2月のハワイ旅行！気温や服装、おすすめ観光情報をご紹介",
+    "c_linkedArea3News": [
+      "hawaii"
+    ],
+    "c_metaDescription": "年間を通して温暖なハワイは、2月も見どころ満載！この時期の気温や海水温、降水量などの旅行情報から、服装や持ち物まで、気になるポイントを解説。2月のハワイ旅行を満喫するための、おすすめ観光スポット・アクティビティ、注目イベントについてもご紹介します。",
+    "c_metaTitle": "2月のハワイ旅行！気温や服装、おすすめ観光情報をご紹介 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "ハワイ旅行・ツアーを探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/hawaii/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "ハワイのおすすめホテルをみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "ハワイ旅行を快適に！ルックJTBMySTYLE",
+        "link": "https://www.jtb.co.jp/lookjtb/service/hawaii/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "ハワイの現地ツアーを探す",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/bH1/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "2月がベストシーズンの旅行先をみる",
+          "link": "https://www.jtb.co.jp/kaigai/season/february/",
+          "linkType": "OTHER"
+        },
+        "description": "2月のハワイは、一般的に雨季と言われていますが、東京の2月の降水量とほとんど変わりません。また、雨季と言っても日本の梅雨の時期ように一日中雨が降り続くということは少なく、一日に数回スコールがあり、時折晴れ間も見えるといった空模様です。平均気温は22～23℃で、朝晩は20℃前後になるため、涼しく、時には寒く感じることもあります。最高気温は27℃位まで上がり、日差しが出ている時はかなり暑く感じ、肌が焼けていく感覚が分かるくらいです。紫外線は日本のおよそ3～4倍とも言われているので、日焼け対策として、サングラス・日焼け止め・帽子等は必ず用意していきましょう。万が一忘れた場合でも、現地で調達できます。そんなハワイと、日本の夏との一番とも言える大きな違いは「湿気」です。日本より日差しは強いですが、湿気が少ない分、一歩木陰に入ると涼しく、ハワイの爽やかさを感じることができます。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/Sxa_YYUoAJ0wrHBzQ8xVipN9oeHRCLr6JF4h7p18PQ4/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/Sxa_YYUoAJ0wrHBzQ8xVipN9oeHRCLr6JF4h7p18PQ4/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Sxa_YYUoAJ0wrHBzQ8xVipN9oeHRCLr6JF4h7p18PQ4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Sxa_YYUoAJ0wrHBzQ8xVipN9oeHRCLr6JF4h7p18PQ4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Sxa_YYUoAJ0wrHBzQ8xVipN9oeHRCLr6JF4h7p18PQ4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Sxa_YYUoAJ0wrHBzQ8xVipN9oeHRCLr6JF4h7p18PQ4/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "1．ハワイの2月の天気・気温・降水量は？"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイでマリンスポーツを楽しめる現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/x4/",
+          "linkType": "OTHER"
+        },
+        "description": "ビーチの水温は年間を通して23℃くらいと言われており、年中泳ぐことができます。ただし、悪天候の場合は肌寒く感じることがあります。ホテルのプールはそれぞれ水温が違いますが、日陰でなければ寒く感じることはないでしょう。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/ik8uPqf-QHKNmK9pLHtVHh1gljs6Eg-iPhrfCY5EDxs/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/ik8uPqf-QHKNmK9pLHtVHh1gljs6Eg-iPhrfCY5EDxs/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ik8uPqf-QHKNmK9pLHtVHh1gljs6Eg-iPhrfCY5EDxs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ik8uPqf-QHKNmK9pLHtVHh1gljs6Eg-iPhrfCY5EDxs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ik8uPqf-QHKNmK9pLHtVHh1gljs6Eg-iPhrfCY5EDxs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ik8uPqf-QHKNmK9pLHtVHh1gljs6Eg-iPhrfCY5EDxs/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "2月のハワイは海で泳げる？"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイ行きの航空券を探す",
+          "link": "https://www.jtb.co.jp/ovs_air_static/hawaii/",
+          "linkType": "OTHER"
+        },
+        "description": "ハワイでは、基本的に半袖で過ごせますが、ホテルやレストラン、ショッピングモールやツアーバスの中は冷房が効き過ぎていることが多いです。せっかくのハワイなのに、寒過ぎて美味しい食事やショッピングを楽しめないのは残念なので、必ずカーディガンなどの羽織物を1枚バッグに入れて出かけましょう。また、ハワイではよく歩くので、履きなれたサンダルなどがおすすめです。オプショナルツアーなどに参加する場合は、その内容によってサンダルでは危険な場合があるので、事前に必ず確認が必要です。ほとんどのレストランはカジュアルな格好で楽しめますが、中にはドレスコードがある場合があるので、こちらも事前に確認しておきましょう。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/OwGphgcWCiMknmDUbnLskuwNJNsRJoWSkovoBOf4OTY/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/OwGphgcWCiMknmDUbnLskuwNJNsRJoWSkovoBOf4OTY/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/OwGphgcWCiMknmDUbnLskuwNJNsRJoWSkovoBOf4OTY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/OwGphgcWCiMknmDUbnLskuwNJNsRJoWSkovoBOf4OTY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/OwGphgcWCiMknmDUbnLskuwNJNsRJoWSkovoBOf4OTY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OwGphgcWCiMknmDUbnLskuwNJNsRJoWSkovoBOf4OTY/1024x683.jpg",
+          "width": 1024
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "2．ハワイの2月の服装（コーディネート）・持ち物"
+      },
+      {
+        "cTA1": {
+          "label": "ホノルルの現地オプショナルツアーを探す",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aHWI/bH1/cHNL/",
+          "linkType": "URL"
+        },
+        "description": "ほとんどの空港で、「コート預かりサービス」（有料）があるので、かさばる分厚いコートやジャケットをわざわざハワイまで持って行く必要はありません。ただし、飛行機の機内は温度が低い場合が多く、航空会社の毛布だけでは寒くて過ごせないという時のために、小さく畳めるコートやジャケットにして、機内持ち込みをすることをおすすめします。",
+        "image": {
+          "height": 597,
+          "sourceUrl": "https://a.mktgcdn.com/p/D-ODUFTWjdfmi1PqBJZ9vaNAYXwJUBE3JEwYXWYrGQY/895x597.jpg",
+          "thumbnails": [
+            {
+              "height": 597,
+              "url": "https://a.mktgcdn.com/p-sandbox/D-ODUFTWjdfmi1PqBJZ9vaNAYXwJUBE3JEwYXWYrGQY/895x597.jpg",
+              "width": 895
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/D-ODUFTWjdfmi1PqBJZ9vaNAYXwJUBE3JEwYXWYrGQY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/D-ODUFTWjdfmi1PqBJZ9vaNAYXwJUBE3JEwYXWYrGQY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/D-ODUFTWjdfmi1PqBJZ9vaNAYXwJUBE3JEwYXWYrGQY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/D-ODUFTWjdfmi1PqBJZ9vaNAYXwJUBE3JEwYXWYrGQY/895x597.jpg",
+          "width": 895
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "日本との気温差"
+      },
+      {
+        "description": "日中は、半袖・短パンやスカート、足元はビーチサンダルで過ごせますが、朝早いオプショナルツアーなどは寒く感じることもあるので、カーディガンやパーカーなどの羽織物が必要です。ディナーなどレストランへ行く際は、男性ならポロシャツを含む襟付きのシャツ、アロハシャツもハワイでは立派な正装になりますので、現地で調達しても良いですね。女性の場合は、基本的に日中のカジュアルなスタイルでも良いですが、ワンピースにストラップ付きのサンダルなどがおすすめです。せっかくなのでお洒落をしてレストランや食事の雰囲気も楽しみたいですよね。",
+        "image": {
+          "height": 1241,
+          "sourceUrl": "https://a.mktgcdn.com/p/WLhsOzamRzzCLEUZhkLekWAy6aREw3GCfbkbuELV6_E/1920x1241.jpg",
+          "thumbnails": [
+            {
+              "height": 1241,
+              "url": "https://a.mktgcdn.com/p-sandbox/WLhsOzamRzzCLEUZhkLekWAy6aREw3GCfbkbuELV6_E/1920x1241.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1228,
+              "url": "https://a.mktgcdn.com/p-sandbox/WLhsOzamRzzCLEUZhkLekWAy6aREw3GCfbkbuELV6_E/1900x1228.jpg",
+              "width": 1900
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/WLhsOzamRzzCLEUZhkLekWAy6aREw3GCfbkbuELV6_E/619x400.jpg",
+              "width": 619
+            },
+            {
+              "height": 388,
+              "url": "https://a.mktgcdn.com/p-sandbox/WLhsOzamRzzCLEUZhkLekWAy6aREw3GCfbkbuELV6_E/600x388.jpg",
+              "width": 600
+            },
+            {
+              "height": 127,
+              "url": "https://a.mktgcdn.com/p-sandbox/WLhsOzamRzzCLEUZhkLekWAy6aREw3GCfbkbuELV6_E/196x127.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WLhsOzamRzzCLEUZhkLekWAy6aREw3GCfbkbuELV6_E/1920x1241.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "女性におすすめの服装やコーディネート"
+      },
+      {
+        "description": "南国へ行くからと、半袖・短パン・ビーチサンダルで飛行機へ搭乗される旅行客も見受けられますが、機内温度は低めで寒く感じられることもあるため、長袖・長ズボン・靴下などお忘れなく。また、狭い機内なので楽な服装で過ごしましょう。ハワイへの航空便はほとんどが夜便で、季節にもよりますが、例えば東京（羽田・成田）からの直行便のフライト時間はおよそ6時間半～7時間です。日本を夜に出発しても、時差の関係でハワイにはハワイ時間で早朝もしくは午前中に到着することになり、その日まるまる1日を楽しむには、「いかに機内で寝られるかが勝負」とも言われています。その代わりに、ハワイから日本へ帰る時はおよそ8時間半～9時間半掛かるため、機内で観たい映画などは、復路便でゆっくり鑑賞することをおすすめします。",
+        "sectionLevel": "h3",
+        "sectionTitle": "飛行機の機内での服装"
+      },
+      {
+        "description": "ハワイ（ホノルル）では、年間を通して様々な観光やアクティビティを楽しむことができます。初めての方からリピーターまで、何度も行きたくなる、何度行っても飽きることのないハワイの魅力の一つです。島内の周遊観光はもちろん、日帰りでマウイ島やハワイ島など離島へ行くこともできます。初めてなら行っておきたいのがポリネシアカルチャーセンター。ハワイだけでなくポリネシアの5000年の歴史と文化に触れることができ、壮大なショーなども楽しむことができます。大自然を満喫したいなら、乗馬や四輪バギー、映画ロケ地ツアーやジップラインなどが楽しめるクアロア牧場がおすすめです。また、ハワイの綺麗な海を楽しみたいなら、ウミガメに会いに行く\u003cspan style\u003d\"color: #3498db;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/?keyWord\u003d%25E5%25A4%25A9%25E4%25BD%25BF%25E3%2581%25AE%25E6%25B5%25B7\u0026_gl\u003d1*142bvqv*_gcl_au*MTI4MzU4MzI4My4xNzA0Nzg1ODc2*_ga*MTk3MTk5Mjg3MS4xNjg1OTM3ODk2*_ga_KGZYYE4GBZ*MTcwOTgwMDE5OC4yMjMuMS4xNzA5ODAwNjkxLjAuMC4w*_fplc*dG5rZUQ3TTgzd1AxTXhac3ZESm9XZW5MNVhRODk4M3ZvQzNhOUxjZjVsMHM2JTJCdnBVS2xTelBNSGxQbU5xU2JTanFtSFpGSjRlVmdkJTJCbGRrZ1Vycjdnb296Y0NKcU1vUkNzUGolMkJGJTJGS3JmUXNmUGY1RXp4V2RJWWxNeDBIWWclM0QlM0Q.\"\u003e天使の海（サンドバー）ツアー\u003c/a\u003e\u003c/span\u003eやハナウマ湾でシュノーケル、ドルフィンウォッチングも人気のツアーです。夜には、\u003cspan style\u003d\"color: #3498db;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/?keyWord\u003d%25E3%2582%25B5%25E3%2583%25B3%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2580%2580%25E3%2583%2587%25E3%2582%25A3%25E3%2583%258A%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25BA\u0026_gl\u003d1*149co4p*_gcl_au*MTI4MzU4MzI4My4xNzA0Nzg1ODc2*_ga*MTk3MTk5Mjg3MS4xNjg1OTM3ODk2*_ga_KGZYYE4GBZ*MTcwOTgwMDE5OC4yMjMuMS4xNzA5ODAwNzUwLjAuMC4w*_fplc*c0xsQ1dMNXFUUTYlMkJmM0JuSVRtaHM0SEglMkZpd3NucjBjYjlPZG54c1Q4bVY1SnRSV1hVdHJyJTJCRnRhNjlVODc0S0tYcyUyQkpuTFcyZ1I3dUxEb0FaNmxIbXFOSW1KQlhUVzV2YzNpNWVIRFVoUHE4TUVpRkdqM2FQYSUyQmZoeFNMdyUzRCUzRA..\"\u003eサンセットディナークルーズ\u003c/a\u003e\u003c/span\u003eや夜景の綺麗な\u003cspan style\u003d\"color: #3498db;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/?keyWord\u003d%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25A9%25E3%2582%25B9%25E3%2581%25AE%25E4%25B8%2598\u0026_gl\u003d1*cfbug3*_gcl_au*MTI4MzU4MzI4My4xNzA0Nzg1ODc2*_ga*MTk3MTk5Mjg3MS4xNjg1OTM3ODk2*_ga_KGZYYE4GBZ*MTcwOTgwMDE5OC4yMjMuMS4xNzA5ODAwODY0LjAuMC4w*_fplc*TzdZam9FSFN3ZWttQlIwOXZwRFNDc3k0dkJyVjlVTyUyRjNkNUd0V29ZQkVUVFdZYTZVUkVGS0FDbTFmYnNnTERPb0tmWE43JTJGbHZmd3QwcjhyNDhiZlpJclR3aVhJckpkd3JiNGZhYkdnY3FRNTcyV2VPdCUyQnpQWE9KTmYxeVNBJTNEJTNE\"\u003eタンタラスの丘\u003c/a\u003e\u003c/span\u003eなど、昼間とはまた違った、思い出に残るロマンチックなハワイも堪能することができます。また、日焼けや日頃の疲れた体を癒すスパ施設も充実しているので、日本とは違った開放的な空間でハワイの伝統的な\u003cspan style\u003d\"color: #3498db;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/?keyWord\u003d%25E3%2583%25AD%25E3%2583%259F%25E3%2583%25AD%25E3%2583%259F\"\u003eロミロミマッサージ\u003c/a\u003e\u003c/span\u003eを体験するのもおすすめです。そして、2月だからこそ行っておきたいのは、\u003cspan style\u003d\"color: #3498db;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/?keyWord\u003d%25E3%2583%2580%25E3%2582%25A4%25E3%2583%25A4%25E3%2583%25A2%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2580%2580%25E6%2597%25A9%25E6%259C%259D\u0026searchFlag\u003d1\"\u003eダイヤモンドヘッド早朝ハイキング\u003c/a\u003e\u003c/span\u003e。夏の時期は日の出の時間が早く、山頂に辿り着く前に日が昇ってしまいますが、冬の時期なら山頂から日の出を眺めることができます。ダイヤモンドヘッドで朝日を存分に浴びて、エネルギーチャージをしましょう。ただし、朝早くの出発で気温が低めなので、長袖が必要です。脱ぎ着できる服装と歩きやすい靴で参加しましょう。 冬の時期、もう一つ忘れてはいけないのが、ホエールウォッチングです。出産と育児のためにアラスカからはるばるハワイの海へやってくるザトウクジラのブリーチング（大ジャンプ）や潮吹き、かわいらしい赤ちゃんを観察することができるチャンスです。",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．ハワイの2月のおすすめ観光ツアー・アクティビティ"
+      },
+      {
+        "description": "例年、2月の中旬の土曜から約1週間、話題のスポットとして知られるカカアコ地区の倉庫街で開催されるアートイベントです。地元ハワイだけでなく、海外からもアーティストが集まり、倉庫や建物の壁にペイントしてゆく様子を見学することができます。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．ハワイの2月の注目イベント"
+      },
+      {
+        "description": "ハワイ唯一のアウトレットで、例年、2月の第3月曜（プレジデンツ・デー）を含む週末4日間行われているセールです。この時期に旅行を予定されている方は是非、事前にチェックして行きましょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "Pow!　Wow!　Hawaii（パウワウ・ハワイ）"
+      },
+      {
+        "description": "ホノルル港のシンボル、アロハタワーを出発し、アロハスタジアムまでの8.2マイル（約13㎞）をジョギングやウォーキングで楽しんで参加できるハワイ最大級の参加者を誇るチャリティ・ランニング・イベントです。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ワイケレ・プレミアム・アウトレット　プレジデンツ・デー・セール"
+      },
+      {
+        "description": "毎週金曜の夜はヒルトン・ハワイアン・ビレッジ・ワイキキ・ビーチ・リゾート前のビーチから約5分間花火が上がります。誰でも無料で見ることができるので、旅の思い出に大迫力の花火をビーチから楽しむことができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "グレートアロハラン"
+      },
+      {
+        "description": "日本は冬真っ只中の2月、常夏ハワイも雨季ではあるけれど、2月だからこそ楽しめるアクティビティもあり、オフシーズンで旅行代金も比較的安く抑えることができます。夜便なら仕事終わりで空港へ、せっかく行くなら4泊6日以上でのんびりと日頃の疲れを癒してください。",
+        "sectionLevel": "h3",
+        "sectionTitle": "【番外編】ハワイの花火"
+      },
+      {
+        "sectionLevel": "h2",
+        "sectionTitle": "5．2月のハワイ旅行まとめ"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0005",
+      "news_web_kaigai_0008",
+      "news_web_kaigai_0009",
+      "news_web_kaigai_0006",
+      "news_web_kaigai_0010"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2019-10-31",
+    "c_news_UpdateDate": "2024-07-30",
+    "c_news_ViewCount": "5959",
+    "c_news_ViewCount2of2": "5959",
+    "c_news_ViewCountNum": "5959",
+    "c_news_ViewCountNumForSorting": "530",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_web_kaigai_0007",
+    "c_relatedAreas": [
+      "hawaii"
+    ],
+    "name": "2月のハワイ旅行！気温や服装、おすすめ観光情報をご紹介",
+    "slug": "kaigai/beach_resort/hawaii/news_web_kaigai_0007",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

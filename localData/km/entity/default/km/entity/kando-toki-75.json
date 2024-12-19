@@ -1,0 +1,40 @@
+{
+  "$id": "kando-toki-75",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/75_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d26.141671%2C127.747013",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "沖縄県",
+    "c_searchTags": [
+      "沖縄県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "冬",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "「ガンガラーの谷」は沖縄県南部、那覇空港から車で30分ほどの位置にあります。豊かに広がるガジュマルの森と何万年もの時をかけて形成された鍾乳洞は、力強い生命力を感じさせる場所として、古くから人々の祈りの場所となってきました。さらには日本人のルーツと考えられている古代人の足跡も残されており、現在に繋がる命の連鎖を感じることができます。人々の祈りと、生命と、自然が織りなす神秘的な空間は、日常の気配を忘れさせる穏やかさと、みずみずしい活力にあふれていることでしょう。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/75.asp",
+    "name": "人類の起源に出会えるガンガラーの谷"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

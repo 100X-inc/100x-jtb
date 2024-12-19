@@ -1,0 +1,39 @@
+{
+  "$id": "kando-toki-33",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/33_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.577155%2C144.224178",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "太陽・星・月",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "津別峠は、津別町と弟子屈町との境にある標高947mの峠です。日中天気がよいと眼下に屈斜路湖が広がり、硫黄山や摩周岳、そして知床連山の稜線まで一望できます。中世ヨーロッパの古城を思い起こさせるような外観の津別峠展望台に上り、目の前を見渡せば、広々とした湖を囲う山の稜線の向こう側に遠くオホーツク海まで望むことができます。しかしここからの眺めで一番のおすすめは、何といっても早朝の雲海。6～10月、気象条件が合えば、屈斜路湖を覆うように壮大な雲海がお目見えし、日の出の時間には、真っ白な雲の中から赤く染まる朝日がゆっくりと顔をのぞかせます。真っ青な空を輝かせる雲海と輝く朝日とのコントラストは、北海道ならではの自然の壮大さと美しさを感じさせてくれます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/33.asp",
+    "name": "壮大な雲海を一望！ 津別峠展望台"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

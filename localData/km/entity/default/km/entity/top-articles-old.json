@@ -1,0 +1,407 @@
+{
+  "$id": "top-articles-old",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Hero-imageCaption {\ntext-shadow: 0 0 10px #010101;\n}\n\n/* バックグラウンドカラーを濃いめに */\n.Consultants-wrapper {\n    background-color: #f5f6f7;\n}\n.Locator-wrapper {\n    background-color: #f5f6f7;\n}\n.Teaser--article.Teaser--articleTop {\n    background-color: #f5f6f7;\n}\n.InfoItem {\n    background-color: #f5f6f7;\n}\n\n/* サブタイトルのラップ */\n.Consultants-subtitle {\nwhite-space: pre-wrap;\n}\n.Locator-subtitle {\nwhite-space: pre-wrap;\n}\n.Info-subtitle {\nwhite-space: pre-wrap;\n}\n\n\n/* Information セクションの画像をオリジナルのままの比率で表示 */\n.InfoItem-image {\n    height: unset;\n}\n\n/* アコーディオンタイトルのセンタリング */\n.FAQ-questionText {\n margin: auto;\nfont-size: 1.1rem;\n}\n\n/* FAQ のリンクの色 */\n.Consultants .FAQ--ace .FAQ-answerText a {\ncolor: #3498db;\n\n}\n\n/* スムーススクロール */\nhtml { \nscroll-behavior: smooth;\n}",
+    "c_cSSMobile": "/* 現在地が折り返さないように */\na.Locator-button.Locator-geolocate {\n  width: 6rem;\n}",
+    "c_metaDescription": "JTBスタッフが自らの体験にもとづくおすすめの旅やおでかけ先をご紹介。全国の旅のプロたちが日々記事を投稿します。ご旅行の参考にぜひ！ 投稿者のトラベルコンサルタントにオンラインでの旅行相談をすることもできます。",
+    "c_metaTitle": "JTB | スタッフ | おすすめ | 旅 | おでかけ | 記事 | ブログ | ジェイティービー |",
+    "c_news_NewsList": [
+      "news_ap_chiki_100001",
+      "news_ap_test_004",
+      "news_ap_chiki_100003"
+    ],
+    "c_topBreadcrumb": {
+      "label": "投稿記事TOP"
+    },
+    "c_top_AnchorLinks": [
+      {
+        "label": "オンラインで相談する",
+        "link": "#consultants",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "お店に行く・相談する",
+        "link": "#locator",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "電話で相談・予約する",
+        "link": "#info",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "専門店に相談する",
+        "link": "#info",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_top_Articles": [
+      "ap_chiki_100001",
+      "ap_test_004",
+      "ap_chiki_100003"
+    ],
+    "c_top_ArticlesButton1": {
+      "label": "旅\u0026おでかけ記事一覧",
+      "link": "/articles",
+      "linkType": "OTHER"
+    },
+    "c_top_ArticlesSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e",
+    "c_top_ArticlesSectionSubTitle": "JTBスタッフによるおすすめの旅やおでかけ先を記事でご紹介！\n全国にいる旅のプロたちが日々記事を投稿していきます。\n記事を書いたスタッフにオンライン相談をすることもできます。",
+    "c_top_ArticlesSectionTitle": "おすすめの旅\u0026おでかけ記事を見る",
+    "c_top_Consultants": [
+      "cp_e_shinden034",
+      "cp_a_ebe517",
+      "cp_a_muto106",
+      "cp_h_furuta308",
+      "cp_t_kodera531",
+      "cp_y_sakakibara002",
+      "cp_test_008",
+      "cp_test_009",
+      "cp_test_010"
+    ],
+    "c_top_ConsultantsButton1": {
+      "label": "コンサルタント一覧はこちらから",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_top_ConsultantsButton2": {
+      "label": "コンサルタント指名なしで相談予約をする",
+      "link": "https://link.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNF1DN-qJBWQd",
+      "linkType": "URL"
+    },
+    "c_top_ConsultantsPullDownLabel": "今すぐオンライン相談をする",
+    "c_top_ConsultantsPullDownText": "1. まずお電話をお願いします。[050\\-3614\\-0650](tel:+815036140650)（JTBリモートコンシェルジュ 営業時間10:00\\-18:00）\n2. 今すぐ相談したい旨をスタッフへお伝えください。ルームキーをご案内します。\n3. [こちら](https://jtb.co.jp)よりルームキーを入力し相談ルームへ入室ください。",
+    "c_top_ConsultantsSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e\n\u003cscript\u003e\nwindow.addEventListener(\u0027load\u0027, function() {\n  atags \u003d document.querySelectorAll(\u0027.FAQ-answerText a[href^\u003d\"https:\"]\u0027);\n  atags.forEach(function(atag){atag.setAttribute(\u0027target\u0027, \u0027_blank\u0027);});\n});\n\u003c/script\u003e",
+    "c_top_ConsultantsSectionSubTitle": "オンライン相談を通して希望に叶う旅を提案します！\nトラベルコンサルタントを選び相談日時の予約をお願いします。\n指名なしでの相談予約もできます。\n※チケット単品など一部取扱いできない商品もあります\n\u003ca href\u003d\"https://link.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNF1DN-qJBbQrBd\" class\u003d\"Link ConsultantsCard-link\" data-ya-track\u003d\"top_consultant3_cta1\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e武藤 のオンライン相談予約はこちらから\u003c/a\u003e",
+    "c_top_ConsultantsSectionTitle": "オンラインで相談する",
+    "c_top_HeroImage": {
+      "height": 1200,
+      "sourceUrl": "http://a.mktgcdn.com/p/GnyrV6fI2fpPv5wZEhAeSyl14vKMcuEJwi0es37f83M/1800x1200.jpg",
+      "thumbnails": [
+        {
+          "height": 1200,
+          "url": "//a.mktgcdn.com/p-sandbox/GnyrV6fI2fpPv5wZEhAeSyl14vKMcuEJwi0es37f83M/1800x1200.jpg",
+          "width": 1800
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/GnyrV6fI2fpPv5wZEhAeSyl14vKMcuEJwi0es37f83M/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/GnyrV6fI2fpPv5wZEhAeSyl14vKMcuEJwi0es37f83M/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/GnyrV6fI2fpPv5wZEhAeSyl14vKMcuEJwi0es37f83M/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/GnyrV6fI2fpPv5wZEhAeSyl14vKMcuEJwi0es37f83M/1800x1200.jpg",
+      "width": 1800
+    },
+    "c_top_HeroImageCaption": "【テストサイト】\n～オンライン相談専門店 本格スタート～\nオンラインでも お店でも \nあなたの旅 ご提案します！",
+    "c_top_HeroImageMobile": {
+      "height": 902,
+      "sourceUrl": "http://a.mktgcdn.com/p/8rUl9I3aZp6Zjzy-XuidKYlx4Fhl0qCxbDjuju1Sxgc/988x902.png",
+      "thumbnails": [
+        {
+          "height": 902,
+          "url": "//a.mktgcdn.com/p-sandbox/D2UDH-lbX1ezdn6pT6saHkfYaXaU782i3K84ztTxoPA/988x902.png",
+          "width": 988
+        },
+        {
+          "height": 565,
+          "url": "//a.mktgcdn.com/p-sandbox/D2UDH-lbX1ezdn6pT6saHkfYaXaU782i3K84ztTxoPA/619x565.png",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "//a.mktgcdn.com/p-sandbox/D2UDH-lbX1ezdn6pT6saHkfYaXaU782i3K84ztTxoPA/493x450.png",
+          "width": 493
+        },
+        {
+          "height": 179,
+          "url": "//a.mktgcdn.com/p-sandbox/D2UDH-lbX1ezdn6pT6saHkfYaXaU782i3K84ztTxoPA/196x179.png",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/D2UDH-lbX1ezdn6pT6saHkfYaXaU782i3K84ztTxoPA/988x902.png",
+      "width": 988
+    },
+    "c_top_Info": [
+      {
+        "cTA1": {
+          "label": "詳細",
+          "link": "https://www.jtb.co.jp/stores/callcenter/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "電話番号一覧",
+          "link": "https://www.jtb.co.jp/support/callcenter/",
+          "linkType": "URL"
+        },
+        "category": "旅行の相談・予約ができるJTBのコールセンター",
+        "description": "JTBの国内・海外旅行が、電話かメールで簡単・手軽にお申し込みできます。店舗へわざわざ行かなくてもその場で専門スタッフが対応します。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/sOMtkvUs_brgoBTwx1YD2vNu4HsMM27Zf7wUJvKjI-M/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/sOMtkvUs_brgoBTwx1YD2vNu4HsMM27Zf7wUJvKjI-M/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/sOMtkvUs_brgoBTwx1YD2vNu4HsMM27Zf7wUJvKjI-M/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/sOMtkvUs_brgoBTwx1YD2vNu4HsMM27Zf7wUJvKjI-M/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/sOMtkvUs_brgoBTwx1YD2vNu4HsMM27Zf7wUJvKjI-M/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/sOMtkvUs_brgoBTwx1YD2vNu4HsMM27Zf7wUJvKjI-M/1200x800.jpg",
+          "width": 1200
+        },
+        "new": true,
+        "title": "JTB旅の予約センター"
+      }
+    ],
+    "c_top_Info2": [
+      {
+        "cTA1": {
+          "label": "詳細",
+          "link": "https://www.jtb.co.jp/wed/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "店舗一覧",
+          "link": "https://www.jtb.co.jp/wed/plaza/list/",
+          "linkType": "OTHER"
+        },
+        "category": "ウエディング\u0026ハネムーン専門店-2",
+        "description": "ＪＴＢウエディングプラザ銀座本店ではリゾート挙式に関する最新の情報を豊富にご用意！ご来店予約制ならではの、落ちついた個別ブースをご用意して皆様をお待ちしております。",
+        "image": {
+          "alternateText": "JTBウエディングプラザ銀座本店",
+          "height": 400,
+          "sourceUrl": "http://a.mktgcdn.com/p/RK0CQ9gms2K6QeTOj_lTwetQKaf9xCvxL51EHyYWpUc/600x400.jpg",
+          "thumbnails": [
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/RK0CQ9gms2K6QeTOj_lTwetQKaf9xCvxL51EHyYWpUc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/RK0CQ9gms2K6QeTOj_lTwetQKaf9xCvxL51EHyYWpUc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/RK0CQ9gms2K6QeTOj_lTwetQKaf9xCvxL51EHyYWpUc/600x400.jpg",
+          "width": 600
+        },
+        "new": true,
+        "title": "JTBウエディングプラザ-2"
+      },
+      {
+        "cTA1": {
+          "label": "JTBラウンジプラチナム渋谷",
+          "link": "https://www.jtb.co.jp/stores/jtbloungeplatinum/access_shibuya/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "JTBラウンジプラチナム池袋",
+          "link": "https://www.jtb.co.jp/stores/jtbloungeplatinum/access_ikebukuro/",
+          "linkType": "OTHER"
+        },
+        "category": "専任コンシェルジュがいるラウンジ型店舗",
+        "description": "圧倒的な手配力とホスピタリティが自慢のお店です。経験を積んで選ばれた専任コンシェルジュが、旅の夢を叶えます。落ち着いたJTBラウンジプラチナムでゆったりとご相談ください。",
+        "image": {
+          "alternateText": "Happy Wedding Plan",
+          "height": 203,
+          "sourceUrl": "http://a.mktgcdn.com/p/MG2puHx7QQ2LPaI6wMIIgtjj6Oc60nru6BRQu0rz5Uo/360x203.jpg",
+          "thumbnails": [
+            {
+              "height": 203,
+              "url": "//a.mktgcdn.com/p-sandbox/MG2puHx7QQ2LPaI6wMIIgtjj6Oc60nru6BRQu0rz5Uo/360x203.jpg",
+              "width": 360
+            },
+            {
+              "height": 111,
+              "url": "//a.mktgcdn.com/p-sandbox/MG2puHx7QQ2LPaI6wMIIgtjj6Oc60nru6BRQu0rz5Uo/196x111.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/MG2puHx7QQ2LPaI6wMIIgtjj6Oc60nru6BRQu0rz5Uo/360x203.jpg",
+          "width": 360
+        },
+        "new": false,
+        "title": "JTBラウンジプラチナム"
+      },
+      {
+        "cTA1": {
+          "label": "詳細",
+          "link": "https://jtb.co.jp",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "店舗一覧",
+          "link": "https://stores.jtb.co.jp/search",
+          "linkType": "OTHER"
+        },
+        "category": "ウエディング専門店",
+        "description": "ハネムーンやウエディングなら",
+        "image": {
+          "alternateText": "Happy Wedding Plan",
+          "height": 430,
+          "sourceUrl": "http://a.mktgcdn.com/p/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "//a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "//a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "//a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "//a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/710x430.jpg",
+          "width": 710
+        },
+        "title": "JTBウエディングプラザ・デスク"
+      },
+      {
+        "cTA1": {
+          "label": "詳細",
+          "link": "https://www.jtb.co.jp/stores/jtbloungeplatinum/access_ikebukuro/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "店舗一覧",
+          "link": "https://stores.jtb.co.jp/search",
+          "linkType": "OTHER"
+        },
+        "category": "ウエディング専門店",
+        "description": "ハネムーンやウエディングなら",
+        "image": {
+          "alternateText": "Happy Wedding Plan",
+          "height": 430,
+          "sourceUrl": "http://a.mktgcdn.com/p/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "//a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "//a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "//a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "//a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/710x430.jpg",
+          "width": 710
+        },
+        "title": "JTBウエディングプラザ・デスク"
+      },
+      {
+        "cTA1": {
+          "label": "詳細",
+          "link": "https://jtb.co.jp",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "店舗一覧",
+          "link": "https://stores.jtb.co.jp/search",
+          "linkType": "OTHER"
+        },
+        "category": "ウエディング専門店",
+        "description": "ハネムーンやウエディングなら",
+        "image": {
+          "height": 430,
+          "sourceUrl": "http://a.mktgcdn.com/p/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "//a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "//a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "//a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "//a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/X0y8ygA7DPMR5-IP__uVSYkEOWhUUYb9JEN9KWhMA8c/710x430.jpg",
+          "width": 710
+        },
+        "title": "JTBウエディングプラザ・デスク"
+      }
+    ],
+    "c_top_Info2SectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_Info2SectionSubTitle": "ウエディング、クルーズ、グループ旅行、ラグジュアリー旅など-2\nJTBには「特別な旅」をご提案する専門店があります！\nこだわりの旅をお探しなら専門店へどうぞ。",
+    "c_top_Info2SectionTitle": "こだわりの専門店に行く・相談する",
+    "c_top_InfoSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_InfoSectionSubTitle": "電話でのご相談・お申込みは「JTB旅の予約センター」までどうぞ！",
+    "c_top_InfoSectionTitle": "電話で相談する",
+    "c_top_LocatorDefaultText": "住所、地名、駅名などを入力ください",
+    "c_top_LocatorDirectoryButton": {
+      "label": "都道府県・市区町村からお店を探す",
+      "link": "https://stores.jtb.co.jp/",
+      "linkType": "URL"
+    },
+    "c_top_LocatorSearchBarSubTitle": "住所、地名、駅名などを入力ください",
+    "c_top_LocatorSearchBarTitle": "JTBのお店検索",
+    "c_top_LocatorSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_LocatorSectionSubTitle": "お近くのJTB店舗をご案内します。\n来店しての相談や申込はもちろん、オンライン相談もできます。",
+    "c_top_LocatorSectionTitle": "お店に行く・相談する",
+    "c_top_NotificationBannerMultiText": "JTBスタッフのおすすめ旅をご紹介！全国の旅のプロたちがおすすめの旅を日々投稿します",
+    "name": "TOP ARTICLES - OLD"
+  },
+  "entityType": "ce_tOP",
+  "labels": []
+}

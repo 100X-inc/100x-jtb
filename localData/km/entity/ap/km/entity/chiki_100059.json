@@ -1,0 +1,294 @@
+{
+  "$id": "ap_chiki_100059",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 佐々木"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "エレベーターを降りて25階に到着すると、都内最大級と言われる30ｍの吹き抜けが目の前に広がります。一番最初にお出迎えしてくれるのは、パークホテル東京の『風神・雷神』くんです。左右をよく見ると、可愛い銅像がいるのが分るでしょうか。実はホテルに展示されているすべての展示品は購入可能となっていて、お値段もしっかりと提示されています。この二つの銅像はセットで購入可能となっていて、お値段・・・おいくらでしょうか！？ ぜひ、ご宿泊の際に確認してみてください！ 夜には吹き抜けの壁に、プロジェクションマッピングが投影され、幻想的なアートの世界が楽しめます。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/xnUPeN3euuWEfzf7j5O9C-ymok9SwiILm3cwqC68u3I/1331x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/xnUPeN3euuWEfzf7j5O9C-ymok9SwiILm3cwqC68u3I/1331x600.jpg",
+              "width": 1331
+            },
+            {
+              "height": 279,
+              "url": "https://a.mktgcdn.com/p-sandbox/xnUPeN3euuWEfzf7j5O9C-ymok9SwiILm3cwqC68u3I/619x279.jpg",
+              "width": 619
+            },
+            {
+              "height": 270,
+              "url": "https://a.mktgcdn.com/p-sandbox/xnUPeN3euuWEfzf7j5O9C-ymok9SwiILm3cwqC68u3I/600x270.jpg",
+              "width": 600
+            },
+            {
+              "height": 88,
+              "url": "https://a.mktgcdn.com/p-sandbox/xnUPeN3euuWEfzf7j5O9C-ymok9SwiILm3cwqC68u3I/196x88.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xnUPeN3euuWEfzf7j5O9C-ymok9SwiILm3cwqC68u3I/1331x600.jpg",
+          "width": 1331
+        },
+        "imageCaption": "25階フロント・ロビー",
+        "sectionTitle": "パークホテル東京の『風神・雷神』がお出迎え"
+      },
+      {
+        "description": "旅のお土産に、日本の伝統工芸品も展示・販売しています。オムライスのオブジェ・・・最初に見たときは思わず笑ってしまいました。",
+        "image": {
+          "height": 1012,
+          "sourceUrl": "https://a.mktgcdn.com/p/MQ-j1lDV9uSFGts52QYTPSu20gnhyRi8-KRRyjZ6jx4/1200x1012.jpg",
+          "thumbnails": [
+            {
+              "height": 1012,
+              "url": "https://a.mktgcdn.com/p-sandbox/MQ-j1lDV9uSFGts52QYTPSu20gnhyRi8-KRRyjZ6jx4/1200x1012.jpg",
+              "width": 1200
+            },
+            {
+              "height": 522,
+              "url": "https://a.mktgcdn.com/p-sandbox/MQ-j1lDV9uSFGts52QYTPSu20gnhyRi8-KRRyjZ6jx4/619x522.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/MQ-j1lDV9uSFGts52QYTPSu20gnhyRi8-KRRyjZ6jx4/534x450.jpg",
+              "width": 534
+            },
+            {
+              "height": 165,
+              "url": "https://a.mktgcdn.com/p-sandbox/MQ-j1lDV9uSFGts52QYTPSu20gnhyRi8-KRRyjZ6jx4/196x165.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MQ-j1lDV9uSFGts52QYTPSu20gnhyRi8-KRRyjZ6jx4/1200x1012.jpg",
+          "width": 1200
+        },
+        "imageCaption": "スイマーinオムライス・輪島塗・江戸木目込人形",
+        "sectionTitle": "アート作品の数々"
+      },
+      {
+        "description": "パークホテル東京は、「日本の美意識が体感できる時空間」というコンセプトのもと、ホテル全体でアートを意識した空間づくりを進めています。ホテル31階は31室全てがアーティストルームとなっていて、その中で一番のおすすめルームが『縁』です。テキスタイルアーティストのデザイナーが2017年6月から制作をスタートし、ホテルに滞在したり通ったりしながら約3週間制作を続け完成しました。その他のアーティストルームもデザイナーが定期的にに補修をし、その美しさを保っています。『縁』のアーティストルームは、お部屋に一歩入ると和紙の上に色とりどりの糸で繋がれた大きな鳳凰がお出迎えしてくれます。鳳凰から動物や鳥たちまでが赤い糸で繋がれ、その糸は天井まで繋がっています。それはまるで悪い夢から身を守ってくれるドリームキャッチャーのようです。『これから出逢う全てのご縁が良い物としてあなたに結ばれますように』そんな作家の思いが込められたお部屋になっています。お泊りの後は、きっと良いパワーをもらえること間違いありません♪",
+        "image": {
+          "height": 819,
+          "sourceUrl": "https://a.mktgcdn.com/p/CGbB2gZ1CIuuHzCQ9oPf81VW8QOIYV1EmGxFVfSASmE/1200x819.jpg",
+          "thumbnails": [
+            {
+              "height": 819,
+              "url": "https://a.mktgcdn.com/p-sandbox/CGbB2gZ1CIuuHzCQ9oPf81VW8QOIYV1EmGxFVfSASmE/1200x819.jpg",
+              "width": 1200
+            },
+            {
+              "height": 422,
+              "url": "https://a.mktgcdn.com/p-sandbox/CGbB2gZ1CIuuHzCQ9oPf81VW8QOIYV1EmGxFVfSASmE/619x422.jpg",
+              "width": 619
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/CGbB2gZ1CIuuHzCQ9oPf81VW8QOIYV1EmGxFVfSASmE/600x410.jpg",
+              "width": 600
+            },
+            {
+              "height": 134,
+              "url": "https://a.mktgcdn.com/p-sandbox/CGbB2gZ1CIuuHzCQ9oPf81VW8QOIYV1EmGxFVfSASmE/196x134.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/CGbB2gZ1CIuuHzCQ9oPf81VW8QOIYV1EmGxFVfSASmE/1200x819.jpg",
+          "width": 1200
+        },
+        "imageCaption": "アーティストルーム　キング",
+        "sectionTitle": "おすすめアーティストルームNo１！『縁 En』"
+      },
+      {
+        "description": "こちらのお部屋は2015年3月から制作をスタートし、アーティストがホテルに滞在したり通ったりしながら約450日をかけて完成しました。アーティストルームの中で一番制作期間が長いお部屋です。制作前に日本各地のお城を取材し、当初は青空に映える屋根瓦を緑青（ろくしょう）で表現する予定でしたが、実際にホテルに滞在して制作を進めていく過程で本人のイメージが変化していったため、制作中のそれまでの壁面を黒地に塗りつぶし、白の線描で現在は焼失している江戸城を描きました。アーティストの強いこだわりで完成したこのお部屋は、夜、明かりを消してカーテンを開けると、窓に部屋のアートが反射し、皇居のある方角に江戸城が浮かび上がります。なんとも神秘的で、夜までお部屋時間を満喫することができます。",
+        "image": {
+          "height": 424,
+          "sourceUrl": "https://a.mktgcdn.com/p/_v1Z6oasVfHUnMslDOgimF-Wt22FM6CJEkNgACE9h1U/618x424.jpg",
+          "thumbnails": [
+            {
+              "height": 424,
+              "url": "https://a.mktgcdn.com/p-sandbox/_v1Z6oasVfHUnMslDOgimF-Wt22FM6CJEkNgACE9h1U/618x424.jpg",
+              "width": 618
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/_v1Z6oasVfHUnMslDOgimF-Wt22FM6CJEkNgACE9h1U/600x412.jpg",
+              "width": 600
+            },
+            {
+              "height": 134,
+              "url": "https://a.mktgcdn.com/p-sandbox/_v1Z6oasVfHUnMslDOgimF-Wt22FM6CJEkNgACE9h1U/196x134.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_v1Z6oasVfHUnMslDOgimF-Wt22FM6CJEkNgACE9h1U/618x424.jpg",
+          "width": 618
+        },
+        "imageCaption": "アーティストルーム　クイーン",
+        "sectionTitle": "日本文化を感じるられるお部屋『城 Castle』"
+      },
+      {
+        "description": "こちらのアーティストルーム『桜』は日本画家のアーティストが2014年12月から制作をスタートし、約1ヶ月で完成。客室の角を屏風の折り目のように見立て、桜の木を描くという空間コーディネートになっています。部屋に一歩入ると大きな桜と鮮やかなブルーの天井が出迎えてくれます。華やかな金色の雲は、およそ400枚の金箔を、一枚一枚丁寧に貼って仕上げられていて、鮮やかなピンクの花びらは、なんとよく見ると一つ一つが蝶の形になっているのです！晴れた日には窓から東京タワー、その後に富士山を見ることができ、桜の季節も、そうでない季節も、最高の絶景を楽しむことができます♪日本的な空間に滞在されたい方や東京の景観を楽しみたい方にはとてもおすすめのお部屋です！ アーティストルームはシングル、クイーン、キングの3タイプとなっています。ホテルHPには全てのアーティストルームのストーリーが掲載されているので、ぜひ一度ご覧ください♪ お部屋指定はできませんが、3つほどリクエストを上げていただければ、ご希望のお部屋に泊まることができるかも⁉アートを堪能し、ゆっくりとホテルステイをお楽しみください。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/htl/4012012/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 423,
+          "sourceUrl": "https://a.mktgcdn.com/p/SxzUFppNkcgrJht8DT9zzbGUtThlldmd9zSmtfRtW7E/619x423.jpg",
+          "thumbnails": [
+            {
+              "height": 423,
+              "url": "https://a.mktgcdn.com/p-sandbox/SxzUFppNkcgrJht8DT9zzbGUtThlldmd9zSmtfRtW7E/619x423.jpg",
+              "width": 619
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/SxzUFppNkcgrJht8DT9zzbGUtThlldmd9zSmtfRtW7E/600x410.jpg",
+              "width": 600
+            },
+            {
+              "height": 134,
+              "url": "https://a.mktgcdn.com/p-sandbox/SxzUFppNkcgrJht8DT9zzbGUtThlldmd9zSmtfRtW7E/196x134.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SxzUFppNkcgrJht8DT9zzbGUtThlldmd9zSmtfRtW7E/619x423.jpg",
+          "width": 619
+        },
+        "imageCaption": "アーティストルーム　クイーン",
+        "sectionTitle": "お花見に行けなくても…『桜 Cherry Blossoms』"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-07-11",
+    "c_ap_HeroImage": {
+      "alternateText": "館内すべてが美術館！アート特化型ホテル『パークホテル東京』の魅力に迫る | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 765,
+      "sourceUrl": "https://a.mktgcdn.com/p/GZG_zXMdxyAAuEprky8sUwHdczxx4ecHA_mP2iWqzq8/1200x765.jpg",
+      "thumbnails": [
+        {
+          "height": 765,
+          "url": "https://a.mktgcdn.com/p-sandbox/jGNAb9QsuSOUHr6nAkzkP1dCid1GPoV3O78DE3piXhs/1200x765.jpg",
+          "width": 1200
+        },
+        {
+          "height": 395,
+          "url": "https://a.mktgcdn.com/p-sandbox/jGNAb9QsuSOUHr6nAkzkP1dCid1GPoV3O78DE3piXhs/619x395.jpg",
+          "width": 619
+        },
+        {
+          "height": 383,
+          "url": "https://a.mktgcdn.com/p-sandbox/jGNAb9QsuSOUHr6nAkzkP1dCid1GPoV3O78DE3piXhs/600x383.jpg",
+          "width": 600
+        },
+        {
+          "height": 125,
+          "url": "https://a.mktgcdn.com/p-sandbox/jGNAb9QsuSOUHr6nAkzkP1dCid1GPoV3O78DE3piXhs/196x125.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/jGNAb9QsuSOUHr6nAkzkP1dCid1GPoV3O78DE3piXhs/1200x765.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkArticleSectionTitle": "東京都のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "パークホテル東京 のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/4012012/plan/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "東京のホテル・旅館・宿おすすめランキング",
+        "uRL": "https://www.jtb.co.jp/ranking/kokunai/tokyo/"
+      },
+      {
+        "linkText": "東京旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/tokyo/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "関東全般",
+      "東京都"
+    ],
+    "c_ap_ShortDescription": "『東京でアートが楽しめるホテル』みなさんはご存知ですか？ モノレールゆりかもめ「汐留」駅より徒歩約1分。JR「新橋」駅汐留口改札からも雨にぬれず徒歩約7分の好立地にある『パークホテル東京』。地下２階・1階・25階のフロント・ロビーの他、26階～34階までの全客室フロアの回廊にアート作品が飾られていて、ホテル全体が美術館と言っても過言ではありません。\nそして一番の魅力はなんと言ってもホテル31階にある全31室のアーティストルーム。31人のアーティストそれぞれの個性が光る、パワフルでエネルギーをもらえるお部屋がここにはあります。パークホテル東京で楽しめる、アート作品の数々をご紹介します。",
+    "c_ap_Tags": [
+      "アート",
+      "美術館",
+      "パワー",
+      "アーティストルーム"
+    ],
+    "c_ap_Theme": [
+      "グループ",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "館内すべてが美術館！アート特化型ホテル『パークホテル東京』の魅力に迫る【東京都】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "『東京でアートが楽しめるホテル』みなさんはご存知ですか？ モノレールゆりかもめ「汐留」駅より徒歩約1分。JR「新橋」駅汐留口改札からも雨にぬれず徒歩約7分の好立地にある『パークホテル東京』。地下２階・1階・2…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "館内すべてが美術館！アート特化型ホテル『パークホテル東京』の魅力に迫る | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100059",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "関東全般, 東京都",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "館内すべてが美術館！アート特化型ホテル『パークホテル東京』の魅力に迫る",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

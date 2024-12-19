@@ -1,0 +1,474 @@
+{
+  "$id": "news_ap_chiki_100071",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター たにりさ"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "地球に、まちに、ひとに、『やさしい』 川崎キングスカイフロント東急REIホテル【神奈川県 川崎市】",
+      "height": 802,
+      "sourceUrl": "http://a.mktgcdn.com/p/OsmzTmG8HRUM7pv63kh1CrZcL1WR16sJQFy-CbJKMBs/1200x802.jpg",
+      "thumbnails": [
+        {
+          "height": 802,
+          "url": "//a.mktgcdn.com/p-sandbox/OsmzTmG8HRUM7pv63kh1CrZcL1WR16sJQFy-CbJKMBs/1200x802.jpg",
+          "width": 1200
+        },
+        {
+          "height": 414,
+          "url": "//a.mktgcdn.com/p-sandbox/OsmzTmG8HRUM7pv63kh1CrZcL1WR16sJQFy-CbJKMBs/619x414.jpg",
+          "width": 619
+        },
+        {
+          "height": 401,
+          "url": "//a.mktgcdn.com/p-sandbox/OsmzTmG8HRUM7pv63kh1CrZcL1WR16sJQFy-CbJKMBs/600x401.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/OsmzTmG8HRUM7pv63kh1CrZcL1WR16sJQFy-CbJKMBs/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/OsmzTmG8HRUM7pv63kh1CrZcL1WR16sJQFy-CbJKMBs/1200x802.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "カラフルなカーテンは多様性をイメージしているそう",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "川崎キングスカイフロント東急REIホテル のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/4237021/plan/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "川崎市のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/1413001/"
+      },
+      {
+        "linkText": "神奈川旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/kanagawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "羽田空港からホテル無料シャトルバスで約10分。\nホテルが位置する川崎市殿町は、医療・福祉・環境分野の研究開発機関を集めた国際戦略拠点となっており、新たな産業を創出するオープンイノベーション拠点として注目されています。その中心となるのがここ”キングスカイフロント”。\n今回は、日本の未来を牽引していくこのエリアに佇む「川崎キングスカイフロント東急REIホテル」の魅力に迫ります！",
+    "c_ap_Tags": [
+      "SDGs",
+      "羽田空港",
+      "ワーケーション",
+      "おしゃれ",
+      "非日常",
+      "JTBの一押しホテル"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "ファミリー",
+      "一人旅",
+      "夫婦旅",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "地球に、まちに、ひとに、『やさしい』 川崎キングスカイフロント東急REIホテル【神奈川県 川崎市】",
+    "c_linkedArea3News": [
+      "kanagawa"
+    ],
+    "c_metaDescription": "羽田空港からホテル無料シャトルバスで約10分。\nホテルが位置する川崎市殿町は、医療・福祉・環境分野の研究開発機関を集めた国際戦略拠点となっており、新たな産業を創出するオープンイノベーション拠点として注目されています。その中心となるのがここ”キングスカイフロント”。\n今回は、日本の未来を牽引していくこのエリアに佇む「川崎キングスカイフロント東急REIホテル」の魅力に迫ります！",
+    "c_metaTitle": "地球に、まちに、ひとに、『やさしい』 川崎キングスカイフロント東急REIホテル【神奈川県 川崎市】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "川崎キングスカイフロント東急REIホテルを予約する",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/htl/4237021/plan/",
+        "linkType": "URL"
+      },
+      {
+        "label": "リモートでの旅行相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#consultants",
+        "linkType": "URL"
+      },
+      {
+        "label": "JTB店舗・専門店への相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#locator",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "The WAREHOUSEという名の通り、倉庫をイメージしたおしゃれな外観。足を一歩踏み入れると感じるのは、ホテルの横を流れている多摩川からの爽やかな風と、ゆったりとした時間。ホテルの1階はフロントだけでなく、レストランやカフェ、コワーキングスペースもあるため、使い方は様々。パソコンで仕事をしている方、散歩がてらお茶をしにきているご夫婦、ワークショップ中のママさん達…「なんだここは！本当にホテルなのか‥？」と思ってしまうほど、自由で開けた空間が広がっています。遠方からの宿泊利用はもちろんですが、近隣の方の憩いの場にもなる空間があるって、素敵ですよね。",
+        "image": {
+          "alternateText": "誰でも自由に利用できるオープンスペース",
+          "height": 802,
+          "sourceUrl": "http://a.mktgcdn.com/p/KZFy26GmDmooi6SLGtUCtEi8DMWg-RoUPuVBBdI4Fw4/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "//a.mktgcdn.com/p-sandbox/KZFy26GmDmooi6SLGtUCtEi8DMWg-RoUPuVBBdI4Fw4/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "//a.mktgcdn.com/p-sandbox/KZFy26GmDmooi6SLGtUCtEi8DMWg-RoUPuVBBdI4Fw4/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "//a.mktgcdn.com/p-sandbox/KZFy26GmDmooi6SLGtUCtEi8DMWg-RoUPuVBBdI4Fw4/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/KZFy26GmDmooi6SLGtUCtEi8DMWg-RoUPuVBBdI4Fw4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/KZFy26GmDmooi6SLGtUCtEi8DMWg-RoUPuVBBdI4Fw4/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "誰でも自由に利用できるオープンスペース",
+        "sectionTitle": "近くにあったらな、と思うホテルがここにありました"
+      },
+      {
+        "description": "近年高まる「サステナブルな社会」への意識。でも、普段ホテルに宿泊する際、あまり考えることがないような気がします。実はここ、川崎キングスカイフロント東急REIホテルで使用している全ての電力が、環境に優しいものとなっています。使っているのは、ホテル内のレストランやカフェで出た食品廃棄物を燃料とした電力と、川崎周辺で集められた使用済プラスチック由来の水素を使って発電した電力。再びエネルギーとなって戻ってくる循環型電力のため、宿泊すると無意識に川崎の環境に貢献していることに！",
+        "image": {
+          "alternateText": "循環型の電力を使い、ロビーの一角でリーフレタスを栽培しています",
+          "height": 802,
+          "sourceUrl": "http://a.mktgcdn.com/p/I8HsZx5o8-t0Jab7g31oAvuTOwze7gt4hxvAE8LE1Qk/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "//a.mktgcdn.com/p-sandbox/I8HsZx5o8-t0Jab7g31oAvuTOwze7gt4hxvAE8LE1Qk/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "//a.mktgcdn.com/p-sandbox/I8HsZx5o8-t0Jab7g31oAvuTOwze7gt4hxvAE8LE1Qk/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "//a.mktgcdn.com/p-sandbox/I8HsZx5o8-t0Jab7g31oAvuTOwze7gt4hxvAE8LE1Qk/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/I8HsZx5o8-t0Jab7g31oAvuTOwze7gt4hxvAE8LE1Qk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/I8HsZx5o8-t0Jab7g31oAvuTOwze7gt4hxvAE8LE1Qk/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "循環型の電力を使い、ロビーの一角でリーフレタスを栽培しています",
+        "sectionTitle": "「泊まるだけでエコなホテル」ってなんだろう"
+      },
+      {
+        "description": "さて、お部屋に目を向けてみると、ここにも環境に優しい取り組みが。置いてあるのは、ペットボトルのミネラルウォーターではなく、植物由来のエコなタンブラー。ペットボトルを廃止し、各フロアにウォーターサーバーを設置したことにより、年間2万本のペットボトルごみの削減に繋がっています。また、アメニティについても”アメニティバイキング”という形で、必要な時に、必要な分だけお持ちいただく。このように、プラスチックの使用量を削減し、環境保全活動の基金とする「グリーンコイン」制度も取り入れています。",
+        "image": {
+          "alternateText": "森のタンブラー、植物由来のアメニティ",
+          "height": 802,
+          "sourceUrl": "http://a.mktgcdn.com/p/Ml_x_oRt0pd22L8TxoUcM1bQ6PcwOLggotSikOMwdyE/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "//a.mktgcdn.com/p-sandbox/Ml_x_oRt0pd22L8TxoUcM1bQ6PcwOLggotSikOMwdyE/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "//a.mktgcdn.com/p-sandbox/Ml_x_oRt0pd22L8TxoUcM1bQ6PcwOLggotSikOMwdyE/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "//a.mktgcdn.com/p-sandbox/Ml_x_oRt0pd22L8TxoUcM1bQ6PcwOLggotSikOMwdyE/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/Ml_x_oRt0pd22L8TxoUcM1bQ6PcwOLggotSikOMwdyE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/Ml_x_oRt0pd22L8TxoUcM1bQ6PcwOLggotSikOMwdyE/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "森のタンブラー、植物由来のアメニティ",
+        "sectionTitle": "工業地帯もほど近い川崎。お部屋にも工業地帯「らしさ」を感じるポイントが"
+      },
+      {
+        "description": "鉄パイプをイメージしたハンガーラックや、ワークデスクの下にも！ネジなども本物の部品を使っているそうです。照明のスイッチや、デスクの足までこだわりが…！客室タイプによって作りが異なるため、「らしさ」を見つけるのも楽しみのひとつ。お部屋はシャワーブースのみですが、男女別の大浴場もあるため、ゆったりと体を癒すことができます。また、夜になると、空港側のお部屋の窓の外にはきらきら光る滑走路が‥！とってもロマンチック。",
+        "image": {
+          "alternateText": "コンクリート打ちっぱなしの、スタイリッシュな空間が広がっています",
+          "height": 802,
+          "sourceUrl": "http://a.mktgcdn.com/p/2mGrH-gpEE4-Ee1v2OpWpsr85E_2VHDY-PGg6II5uBk/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "//a.mktgcdn.com/p-sandbox/2mGrH-gpEE4-Ee1v2OpWpsr85E_2VHDY-PGg6II5uBk/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "//a.mktgcdn.com/p-sandbox/2mGrH-gpEE4-Ee1v2OpWpsr85E_2VHDY-PGg6II5uBk/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "//a.mktgcdn.com/p-sandbox/2mGrH-gpEE4-Ee1v2OpWpsr85E_2VHDY-PGg6II5uBk/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/2mGrH-gpEE4-Ee1v2OpWpsr85E_2VHDY-PGg6II5uBk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/2mGrH-gpEE4-Ee1v2OpWpsr85E_2VHDY-PGg6II5uBk/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "コンクリート打ちっぱなしの、スタイリッシュな空間が広がっています",
+        "sectionTitle": "多摩川と羽田空港を臨む、ホテル最上階レストラン"
+      },
+      {
+        "description": "豪快なグリル料理を中心に、オリジナルクラフトビールも楽しむことができるレストラン。朝食のビュッフェは、テイクアウトボックスに詰めることもできるため、リバーサイドでピクニック気分を味わうのも楽しみ方のひとつ。また、レストラン横のテラスデッキに出ると、頭上には川崎方面に飛んでいく飛行機の姿が！ テイクアウトコーヒーを片手に、多摩川越しの羽田空港を眺める。最高な1日の始まりです。",
+        "image": {
+          "alternateText": "お部屋番号の案内もかわいい",
+          "height": 900,
+          "sourceUrl": "http://a.mktgcdn.com/p/Wcn0s7E2DBBA8pXHXbENI0K66mhpWvgoXYN8qwLubl0/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "//a.mktgcdn.com/p-sandbox/Wcn0s7E2DBBA8pXHXbENI0K66mhpWvgoXYN8qwLubl0/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "//a.mktgcdn.com/p-sandbox/Wcn0s7E2DBBA8pXHXbENI0K66mhpWvgoXYN8qwLubl0/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/Wcn0s7E2DBBA8pXHXbENI0K66mhpWvgoXYN8qwLubl0/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/Wcn0s7E2DBBA8pXHXbENI0K66mhpWvgoXYN8qwLubl0/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/Wcn0s7E2DBBA8pXHXbENI0K66mhpWvgoXYN8qwLubl0/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "お部屋番号の案内もかわいい",
+        "sectionTitle": "1日では遊び尽くせない魅力がたくさん"
+      },
+      {
+        "description": "2022年3月、羽田空港エリアと川崎を結ぶ「多摩川スカイブリッジ」が開通。歩いて行くこともできますが、ホテルのアクティビティを活用してみるのもおすすめ。なるべく環境負荷のない乗り物を取り入れており、シェアサイクルと、電動キックバイクのシェアポートとなっています。初めての電動キックバイクで、多摩川スカイブリッジを走行してきました！海風がとっても心地よい～空港に離着陸する飛行機が真上を通り、天気が良ければ富士山や東京タワー、海ほたるまで見えることも！",
+        "image": {
+          "alternateText": "レストラン＆バー「Captain\u0027s Grill and Bar」",
+          "height": 802,
+          "sourceUrl": "http://a.mktgcdn.com/p/LOQQHODnXZ5XRDdikatL8QgKlNvX6LqhpcUTpemYMkk/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "//a.mktgcdn.com/p-sandbox/LOQQHODnXZ5XRDdikatL8QgKlNvX6LqhpcUTpemYMkk/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "//a.mktgcdn.com/p-sandbox/LOQQHODnXZ5XRDdikatL8QgKlNvX6LqhpcUTpemYMkk/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "//a.mktgcdn.com/p-sandbox/LOQQHODnXZ5XRDdikatL8QgKlNvX6LqhpcUTpemYMkk/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/LOQQHODnXZ5XRDdikatL8QgKlNvX6LqhpcUTpemYMkk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/LOQQHODnXZ5XRDdikatL8QgKlNvX6LqhpcUTpemYMkk/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "レストラン＆バー「Captain\u0027s Grill and Bar」",
+        "sectionTitle": "\"泊まる\"＋α の経験ができるホテル"
+      },
+      {
+        "description": "コワーキングスペースにはおしゃれな卓球台が。ホテル横は多摩川サイクリングロードのため、休日になるとサイクリストさん達もいっぱい。併設している「TREX kawasaki」では、多摩川でのSUPやカヤック、ヨガや釣りなど、自然を活かしたアクティビティを体験することができます。",
+        "image": {
+          "alternateText": "朝はきらきらした川面、夜は空港夜景を眺めながら",
+          "height": 802,
+          "sourceUrl": "http://a.mktgcdn.com/p/w3EEzv9na_FZMvHT7fvI_MA_1r0oAuTO3FEygpXkc_E/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "//a.mktgcdn.com/p-sandbox/w3EEzv9na_FZMvHT7fvI_MA_1r0oAuTO3FEygpXkc_E/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "//a.mktgcdn.com/p-sandbox/w3EEzv9na_FZMvHT7fvI_MA_1r0oAuTO3FEygpXkc_E/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "//a.mktgcdn.com/p-sandbox/w3EEzv9na_FZMvHT7fvI_MA_1r0oAuTO3FEygpXkc_E/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/w3EEzv9na_FZMvHT7fvI_MA_1r0oAuTO3FEygpXkc_E/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/w3EEzv9na_FZMvHT7fvI_MA_1r0oAuTO3FEygpXkc_E/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "朝はきらきらした川面、夜は空港夜景を眺めながら"
+      },
+      {
+        "description": "泊まるだけでなく、働くことも、遊ぶこともできる。多様なワークスタイルが可能になった今だからこそ、おすすめしたいホテル。忙しい日々の中で、ゆったりとした時間を感じるひとときも、たまには必要だと思います。環境にも、街にも、人（自分）にも優しくなれる、川崎キングスカイフロント東急REIホテルへ遊びにきてみませんか。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/htl/4237021/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "alternateText": "飛行機好きにはたまらないスポット！",
+          "height": 802,
+          "sourceUrl": "http://a.mktgcdn.com/p/vzHS1LM1dbjev3_qQSN0mB7PKBNA6TcFfazIDObxXYQ/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "//a.mktgcdn.com/p-sandbox/vzHS1LM1dbjev3_qQSN0mB7PKBNA6TcFfazIDObxXYQ/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "//a.mktgcdn.com/p-sandbox/vzHS1LM1dbjev3_qQSN0mB7PKBNA6TcFfazIDObxXYQ/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "//a.mktgcdn.com/p-sandbox/vzHS1LM1dbjev3_qQSN0mB7PKBNA6TcFfazIDObxXYQ/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/vzHS1LM1dbjev3_qQSN0mB7PKBNA6TcFfazIDObxXYQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/vzHS1LM1dbjev3_qQSN0mB7PKBNA6TcFfazIDObxXYQ/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "飛行機好きにはたまらないスポット！"
+      },
+      {
+        "image": {
+          "alternateText": "近くにはハンモックも。誘惑だらけです",
+          "height": 802,
+          "sourceUrl": "http://a.mktgcdn.com/p/0htDH_nLSFHX5Wjkf0ajYhr0hiwI3tXe5f0zZKt0C6c/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "//a.mktgcdn.com/p-sandbox/0htDH_nLSFHX5Wjkf0ajYhr0hiwI3tXe5f0zZKt0C6c/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "//a.mktgcdn.com/p-sandbox/0htDH_nLSFHX5Wjkf0ajYhr0hiwI3tXe5f0zZKt0C6c/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "//a.mktgcdn.com/p-sandbox/0htDH_nLSFHX5Wjkf0ajYhr0hiwI3tXe5f0zZKt0C6c/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/0htDH_nLSFHX5Wjkf0ajYhr0hiwI3tXe5f0zZKt0C6c/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/0htDH_nLSFHX5Wjkf0ajYhr0hiwI3tXe5f0zZKt0C6c/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "近くにはハンモックも。誘惑だらけです"
+      },
+      {
+        "image": {
+          "alternateText": "緑豊かな河川敷がすぐそばに",
+          "height": 802,
+          "sourceUrl": "http://a.mktgcdn.com/p/GrJBKKSRiFZJ9g5CCc-hxmPPA4hP0aC9tAjDbqmDgWo/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "//a.mktgcdn.com/p-sandbox/GrJBKKSRiFZJ9g5CCc-hxmPPA4hP0aC9tAjDbqmDgWo/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "//a.mktgcdn.com/p-sandbox/GrJBKKSRiFZJ9g5CCc-hxmPPA4hP0aC9tAjDbqmDgWo/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "//a.mktgcdn.com/p-sandbox/GrJBKKSRiFZJ9g5CCc-hxmPPA4hP0aC9tAjDbqmDgWo/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/GrJBKKSRiFZJ9g5CCc-hxmPPA4hP0aC9tAjDbqmDgWo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/GrJBKKSRiFZJ9g5CCc-hxmPPA4hP0aC9tAjDbqmDgWo/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "緑豊かな河川敷がすぐそばに"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_chiki_100013",
+      "news_ap_chiki_100007",
+      "news_ap_chiki_100012",
+      "news_ap_chiki_100005",
+      "news_ap_n_morita323_001",
+      "news_ap_chiki_100026",
+      "news_ap_chiki_100028_01",
+      "news_ap_chiki_100028_02",
+      "news_ap_area_0000027",
+      "news_ap_area_0000026",
+      "news_ap_area_0000025",
+      "news_ap_chiki_100011",
+      "news_ap_chiki_100029"
+    ],
+    "c_news_FeaturedArticlesTitle": "神奈川県のその他の記事",
+    "c_news_PublicationDate": "2022-08-18",
+    "c_news_UpdateDate": "2022-08-18",
+    "c_news_ViewCount": "13",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "13",
+    "c_news_ViewCountNum": "13",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kanto/kanagawa/news_ap_chiki_100071",
+    "name": "地球に、まちに、ひとに、『やさしい』 川崎キングスカイフロント東急REIホテル【神奈川県 川崎市】",
+    "slug": "kokunai/kanto/kanagawa/news_ap_chiki_100071",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

@@ -1,0 +1,39 @@
+{
+  "$id": "kando-toki-15",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/15_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.615337%2C144.87037",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "標高270mの小高い丘陵の上に立てられた開陽台展望台からは、眼下に広がる草原の地平線が丸く見え、地球の丸さと大きさを実感できます。視界330度の大パノラマは、草原が輝く夏の時期に眺めれば、より美しい景色を望むことができるでしょう。広々とした北海道の大地がどこまでも続き、かすむ地平線の果てまで青々とした草原が広がります。区画された牧草地と防風林、点在する牧場の風景、知床連山や野付半島、国後島までをもぐるりと一望できる絶景は、丘の上に建てられた展望台からしか見ることができません。開陽台展望台から見える根釧台地に広がる無数の格子模様は、林の幅が180mに及ぶカラマツの防風林で作られており、最長距離約27km、総延長約648kmの巨大な格子状防風林として、北海道遺産にも認定されています。\n見所・お勧めポイント",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/15.asp",
+    "name": "330度の景色が広がる開陽台展望台"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

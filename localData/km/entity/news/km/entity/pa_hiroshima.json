@@ -1,0 +1,46 @@
+{
+  "$id": "news_pa_hiroshima",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kokunai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "広島",
+      "link": "https://www.jtb.co.jp/news/list/kokunai/chugoku/hiroshima",
+      "linkType": "OTHER"
+    },
+    "c_news_PopularAreasImage": {
+      "height": 415,
+      "sourceUrl": "https://a.mktgcdn.com/p/1wB2ukQIAwXXEuFBLVxLrtogo8xSY46SGOD-1DTSXEw/1200x415.jpg",
+      "thumbnails": [
+        {
+          "height": 415,
+          "url": "https://a.mktgcdn.com/p-sandbox/1wB2ukQIAwXXEuFBLVxLrtogo8xSY46SGOD-1DTSXEw/1200x415.jpg",
+          "width": 1200
+        },
+        {
+          "height": 214,
+          "url": "https://a.mktgcdn.com/p-sandbox/1wB2ukQIAwXXEuFBLVxLrtogo8xSY46SGOD-1DTSXEw/619x214.jpg",
+          "width": 619
+        },
+        {
+          "height": 208,
+          "url": "https://a.mktgcdn.com/p-sandbox/1wB2ukQIAwXXEuFBLVxLrtogo8xSY46SGOD-1DTSXEw/600x208.jpg",
+          "width": 600
+        },
+        {
+          "height": 68,
+          "url": "https://a.mktgcdn.com/p-sandbox/1wB2ukQIAwXXEuFBLVxLrtogo8xSY46SGOD-1DTSXEw/196x68.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/1wB2ukQIAwXXEuFBLVxLrtogo8xSY46SGOD-1DTSXEw/1200x415.jpg",
+      "width": 1200
+    },
+    "name": "広島"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

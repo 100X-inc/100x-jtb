@@ -1,0 +1,22 @@
+{
+  "$id": "kaigai/area/hawaii/",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_searchArea1": [
+      "海外"
+    ],
+    "keywords": [
+      "ハワイ",
+      "ハワイ旅行",
+      "ハワイツアー",
+      "jtb"
+    ],
+    "landingPageUrl": "https://www.jtb.co.jp/kaigai/area/hawaii/",
+    "name": "ハワイ旅行・ハワイツアー"
+  },
+  "entityType": "ce_area2",
+  "folder": "海外ツアー",
+  "labels": []
+}

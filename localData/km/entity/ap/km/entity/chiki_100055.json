@@ -1,0 +1,276 @@
+{
+  "$id": "ap_chiki_100055",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 川瀬"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "68室のお部屋は、全室46.8平米という、ゆったりとした空間。壁一面の窓からは伊勢志摩の緑と空の境界線を眺めることができ、非日常のひとときを楽しめます。お部屋のタイプは、和室や洋室など3タイプ。大きな窓からは太陽の光がたっぷりと差し込み、開放的な気分にさせてくれます。なかでもおすすめは、8室限定の「プレミアデラックスルーム」。真珠をモチーフにしたアイテムをインテリアにちりばめ、「志摩の海と森」に包まれているような滞在を楽しめます。落ち着きある木の家具とナチュラルカラーで統一した「デラックスルーム」には、新感覚の「リラクシングフロアソファ」が置かれ、思い思いのスタイルでリラックスした時間を過ごすことができます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/3KOwDKecyVpcf2CXpPir0BXiCNIbZU2NW2_2tExjcZ0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/3KOwDKecyVpcf2CXpPir0BXiCNIbZU2NW2_2tExjcZ0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/3KOwDKecyVpcf2CXpPir0BXiCNIbZU2NW2_2tExjcZ0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/3KOwDKecyVpcf2CXpPir0BXiCNIbZU2NW2_2tExjcZ0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/3KOwDKecyVpcf2CXpPir0BXiCNIbZU2NW2_2tExjcZ0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3KOwDKecyVpcf2CXpPir0BXiCNIbZU2NW2_2tExjcZ0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "デラックスルームの一例",
+        "sectionTitle": "広々としたお部屋は、空と森の境界を一望する「非日常」の空間"
+      },
+      {
+        "description": "森と海に囲まれた広大な敷地内の丘に立つ「里山ラウンジ」は、360度のパノラマを体感できるアウトドアダイニング。オープンテントで朝はさわやかな太陽の光に、夜は満天の星空に包まれながら、贅沢なお食事を楽しめます。ディナーのおすすめは、極上の「グランピング リゾートフレンチ」。野趣あふれるお料理の数々をコース仕立てで味わうことができます。夕食の後は、「焚き火カフェ」はいかがでしょうか。コーヒーやマシュマロ片手に焚き火を囲みながら満天の星座をお楽しみいただけます。ほかではなかなか味わえない贅沢な夜のひと時をお楽しみください。",
+        "image": {
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/dLs6C5n5nlegxHkp4xeTiWOMDwfteVSEHWDQD_EkrpA/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/dLs6C5n5nlegxHkp4xeTiWOMDwfteVSEHWDQD_EkrpA/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/dLs6C5n5nlegxHkp4xeTiWOMDwfteVSEHWDQD_EkrpA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/dLs6C5n5nlegxHkp4xeTiWOMDwfteVSEHWDQD_EkrpA/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/dLs6C5n5nlegxHkp4xeTiWOMDwfteVSEHWDQD_EkrpA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dLs6C5n5nlegxHkp4xeTiWOMDwfteVSEHWDQD_EkrpA/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "夜の里山ラウンジ",
+        "sectionTitle": "大自然に包まれていただく豪華ディナー。たき火を眺めながら過ごすカフェタイムも素敵"
+      },
+      {
+        "description": "宿の大きな魅力は、ホテルライフを更に充実させてくれる多彩な体験プログラムです。なかでもぜひ体験していただきたいのが、「朝Rela」です。これは、軽めのストレッチでゆったりと体を目覚めさせる朝のヨガプログラムで、のびやかに広がる景色と心地よい風や鳥のさえずりなどを全身で感じながら、自然とのつながりを実感できます。朝のヨガプログラム以外にも、より自然と近づけるネイチャープログラムや伊勢志摩の海を舞台にしたマリンプログラムなど、多彩なプログラムがラインナップ。熟練ガイドと一緒に楽しめる体験メニューがたくさんありますよ。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/o_VIoFAlcrGkt-sWi4YI3W5cm_l5R9AdZFX-ma5fxyQ/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/o_VIoFAlcrGkt-sWi4YI3W5cm_l5R9AdZFX-ma5fxyQ/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/o_VIoFAlcrGkt-sWi4YI3W5cm_l5R9AdZFX-ma5fxyQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/o_VIoFAlcrGkt-sWi4YI3W5cm_l5R9AdZFX-ma5fxyQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/o_VIoFAlcrGkt-sWi4YI3W5cm_l5R9AdZFX-ma5fxyQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/o_VIoFAlcrGkt-sWi4YI3W5cm_l5R9AdZFX-ma5fxyQ/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "朝Relaで爽やかな1日の始まりを",
+        "sectionTitle": "森・海・月・星・宙を感じる。ココロとカラダを開放して自然と一体になる贅沢を"
+      },
+      {
+        "description": "「恵みの湯」では、テーマが異なる3つの湯めぐりを楽しめます。敷地内から湧く源泉の「潮騒の湯」のテーマは癒やし。大地の力を凝縮した天然温泉でまずは体を芯から温め、リラックス効果を高めます。「合歓の木湯」のテーマは浄化。古くから漢方として用いられてきたネムノキの樹皮から抽出されたエイジングケア成分を配合しており、抗糖化作用によって透明感のある柔らかな肌に。湯めぐりの仕上げは、再生をテーマにした「真珠の湯」で。「ミキモト コスメティックス」が、宿のために開発したパールオーロラ風呂には希少な真珠の成分が含まれており、真珠のように輝く「真珠肌」に導いてくれますよ。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/htl/6118004/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/18uxa2HxTF0qIHPkWL-v3r_5DHbXmaeW1Syh2juzUew/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/18uxa2HxTF0qIHPkWL-v3r_5DHbXmaeW1Syh2juzUew/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/18uxa2HxTF0qIHPkWL-v3r_5DHbXmaeW1Syh2juzUew/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/18uxa2HxTF0qIHPkWL-v3r_5DHbXmaeW1Syh2juzUew/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/18uxa2HxTF0qIHPkWL-v3r_5DHbXmaeW1Syh2juzUew/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/18uxa2HxTF0qIHPkWL-v3r_5DHbXmaeW1Syh2juzUew/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "恵みの湯「真珠の湯」（男湯）",
+        "sectionTitle": "大地、森、海。３つの自然の恵みの湯をめぐる　「恵みの湯」"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-07-05",
+    "c_ap_HeroImage": {
+      "alternateText": "森、海、空。大自然の中で過ごす、贅沢なリゾートステイ【三重県　NEMU RESORT HOTEL NEMU】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 677,
+      "sourceUrl": "https://a.mktgcdn.com/p/UOLti-oNXitUxaxD7nOABcqxYY4rgWJuXTdNqoHwCBU/1200x677.jpg",
+      "thumbnails": [
+        {
+          "height": 677,
+          "url": "https://a.mktgcdn.com/p-sandbox/UOLti-oNXitUxaxD7nOABcqxYY4rgWJuXTdNqoHwCBU/1200x677.jpg",
+          "width": 1200
+        },
+        {
+          "height": 349,
+          "url": "https://a.mktgcdn.com/p-sandbox/UOLti-oNXitUxaxD7nOABcqxYY4rgWJuXTdNqoHwCBU/619x349.jpg",
+          "width": 619
+        },
+        {
+          "height": 339,
+          "url": "https://a.mktgcdn.com/p-sandbox/UOLti-oNXitUxaxD7nOABcqxYY4rgWJuXTdNqoHwCBU/600x339.jpg",
+          "width": 600
+        },
+        {
+          "height": 111,
+          "url": "https://a.mktgcdn.com/p-sandbox/UOLti-oNXitUxaxD7nOABcqxYY4rgWJuXTdNqoHwCBU/196x111.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/UOLti-oNXitUxaxD7nOABcqxYY4rgWJuXTdNqoHwCBU/1200x677.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "大自然につつまれた里山ラウンジ",
+    "c_ap_LinkArticleSectionTitle": "三重県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "NEMU RESORT HOTEL NEMU のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/6118004/plan/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "三重県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/mie/"
+      },
+      {
+        "linkText": "三重旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/mie/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea4": [
+      "近畿全般",
+      "三重県"
+    ],
+    "c_ap_ShortDescription": "伊勢志摩の雄大な自然を、家族みんなで体感するのにぴったりのリゾートホテル、それが「NEMU RESORT HOTEL NEMU」です。多彩なアクティビティや天然温泉など、時を忘れてリゾートライフを満喫できる癒やしの宿です。\n和の恵、技、心を伝えるお料理を堪能できる「レストラン 里海」、豊かな自然を体感するさまざまな体験プログラム、そして3つの湯めぐりを楽しめる「恵みの湯」。そのすべてが非日常の休日を豪華に演出してくれます。\n伊勢志摩を代表するシーサイドリゾートコース「NEMU　GOLF　CLUB」も備えており、さまざまなスタイルの休日をサポートしてくれます。",
+    "c_ap_Tags": [
+      "伊勢志摩",
+      "グランピング",
+      "ヨガ",
+      "アクティビティ"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "グループ",
+      "自然・山",
+      "スポーツ観戦",
+      "リゾート",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "森、海、空。大自然の中で過ごす、贅沢なリゾートステイ【三重県　NEMU RESORT HOTEL NEMU】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "伊勢志摩の雄大な自然を、家族みんなで体感するのにぴったりのリゾートホテル、それが「NEMU RESORT HOTEL NEMU」です。多彩なアクティビティや天然温泉など、時を忘れてリゾートライフを満喫できる癒…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "森、海、空。大自然の中で過ごす、贅沢なリゾートステイ【三重県　NEMU RESORT HOTEL NEMU】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100055",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "近畿全般, 三重県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：近畿全般, 三重県",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：近畿全般, 三重県",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "森、海、空。大自然の中で過ごす、贅沢なリゾートステイ【三重県　NEMU RESORT HOTEL NEMU】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,390 @@
+{
+  "$id": "ap_osarea_0000028",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "台湾で食べたい、定番の朝ごはんの一つが豆漿です。「阜杭豆漿」は1958年に創業した豆漿専門店。華山市場2階のフードコート内にあり、連日地元のファンが訪れる行列必至の人気店です。お店では豆漿の伝統的な作り方を受け継いでいて、おぼろ豆腐のようなやさしい食感の鹹豆漿が味わえます。石窯と炭火で焼く焼餅類も豊富で、台湾風クレープの蛋餅も朝ごはんにおすすめです。●スポット情報【阜杭豆漿（フウハントウチャン）】アクセス：板南線善導寺駅から徒歩3分住所：忠孝東路一段108號2F営業時間：5時30分～12時30分（なくなり次第終了）定休日：月曜",
+        "image": {
+          "alternateText": "揚げパン、干しエビなどが入った食べごたえのある鹹豆漿NT$40",
+          "height": 969,
+          "sourceUrl": "https://a.mktgcdn.com/p/yasx7XCxy2jcHsirmO7_vlqQi6FkCp6FaeZ39jeNEB0/645x969.jpg",
+          "thumbnails": [
+            {
+              "height": 969,
+              "url": "https://a.mktgcdn.com/p-sandbox/yasx7XCxy2jcHsirmO7_vlqQi6FkCp6FaeZ39jeNEB0/645x969.jpg",
+              "width": 645
+            },
+            {
+              "height": 930,
+              "url": "https://a.mktgcdn.com/p-sandbox/yasx7XCxy2jcHsirmO7_vlqQi6FkCp6FaeZ39jeNEB0/619x930.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/yasx7XCxy2jcHsirmO7_vlqQi6FkCp6FaeZ39jeNEB0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/yasx7XCxy2jcHsirmO7_vlqQi6FkCp6FaeZ39jeNEB0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yasx7XCxy2jcHsirmO7_vlqQi6FkCp6FaeZ39jeNEB0/645x969.jpg",
+          "width": 645
+        },
+        "imageCaption": "揚げパン、干しエビなどが入った食べごたえのある鹹豆漿NT$40",
+        "sectionTitle": "阜杭豆漿（フウハントウチャン）"
+      },
+      {
+        "description": "早朝から地元の常連客で賑わう人気店。こちらは手作りの豆漿を使った鹹豆漿や豆乳ドリンクなど、メニューのレパートリーが充実しています。生地がふわふわな肉包や小籠包、さらにオムレツ入りの焼きパン「焼餅夾蛋餅」なども手頃な値段で味わえます。調理している様子を目の前で見るのも楽しいです。●スポット情報【永和豆漿大王（ヨンフートウチャンターワン）】アクセス：淡水信義線・文湖線大安駅から徒歩５分住所：復興南路二段102號営業時間：5〜14時、16時〜翌1時定休日：月曜(不定期)",
+        "image": {
+          "alternateText": "鹹豆漿NT$35、肉包NT$20、焼餅夾蛋餅NT$45",
+          "height": 226,
+          "sourceUrl": "https://a.mktgcdn.com/p/nCQh8Ing0tpih8NcfexTNTOy7uEadp3xcyXXJ-K9LpE/339x226.jpg",
+          "thumbnails": [
+            {
+              "height": 226,
+              "url": "https://a.mktgcdn.com/p-sandbox/nCQh8Ing0tpih8NcfexTNTOy7uEadp3xcyXXJ-K9LpE/339x226.jpg",
+              "width": 339
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/nCQh8Ing0tpih8NcfexTNTOy7uEadp3xcyXXJ-K9LpE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nCQh8Ing0tpih8NcfexTNTOy7uEadp3xcyXXJ-K9LpE/339x226.jpg",
+          "width": 339
+        },
+        "imageCaption": "鹹豆漿NT$35、肉包NT$20、焼餅夾蛋餅NT$45",
+        "sectionTitle": "永和豆漿大王（ヨンフートウチャンターワン）"
+      },
+      {
+        "description": "こちらも地元の人やサラリーマンが絶えず行列をつくっている、人気の老舗店です。やさしい味わいの鹹豆漿やすっきりと飲みやすい甜豆漿がおすすめ。注文が入ってから皮をのばす粉もの料理も自慢です。小腹を満たしたい人は、玉子焼きを挟んだ焼餅や台湾風クレープ蛋餅も。テイクアウトも可能です。●スポット情報【鼎元豆漿（ティンユエントウチャン）】アクセス：淡水信義線・松山新店線中正紀念堂駅から徒歩5分住所：金華街30-1號営業時間：4時30分～11時30分定休日：なし",
+        "image": {
+          "alternateText": "鹹豆漿NT$30。茶碗蒸しのようなフルフルの食感で、やさしい味わい",
+          "height": 247,
+          "sourceUrl": "https://a.mktgcdn.com/p/HxfBaU_352c4IShxb0sxHgLrUWXjF3y_JhwfxFMyF-Q/371x247.jpg",
+          "thumbnails": [
+            {
+              "height": 247,
+              "url": "https://a.mktgcdn.com/p-sandbox/HxfBaU_352c4IShxb0sxHgLrUWXjF3y_JhwfxFMyF-Q/371x247.jpg",
+              "width": 371
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/HxfBaU_352c4IShxb0sxHgLrUWXjF3y_JhwfxFMyF-Q/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HxfBaU_352c4IShxb0sxHgLrUWXjF3y_JhwfxFMyF-Q/371x247.jpg",
+          "width": 371
+        },
+        "imageCaption": "鹹豆漿NT$30。茶碗蒸しのようなフルフルの食感で、やさしい味わい",
+        "sectionTitle": "鼎元豆漿（ティンユエントウチャン）"
+      },
+      {
+        "description": "パンの国際大会でチャンピオンとなった吳寶春氏がオーナーを務めるパン屋さん。「台北101」近くにあり、焼きたてのパンがずらりと並ぶショップと、パンをいただけるカフェスペースが並んでいます。おすすめは賞に輝いた「酒釀桂圓」。外はカリカリ、中はもちもちの食感と、豊かな香りが特徴です。ブリオッシュパンに天日塩花をちりばめた「春鹽布里歐」も人気です。●スポット情報【呉宝春麦方店 台北信義旗艦店（ウーパオチュンパンティエン タイペイシンイーチーチエンティエン）】アクセス：淡水信義線象山駅から徒歩2分住所：信義路五段124、126號営業時間：10時30分～20時定休日：不定休",
+        "image": {
+          "alternateText": "厳選した干し龍眼、胚芽、クルミを使用した酒釀桂圓NT$370。豊かな香りが口のなかに広がる人気商品",
+          "height": 2304,
+          "sourceUrl": "https://a.mktgcdn.com/p/tRFhQrGIkfzZCBIetTPKIbVtv6tGQgbVUfQGvmrwYUg/2880x2304.jpg",
+          "thumbnails": [
+            {
+              "height": 2304,
+              "url": "https://a.mktgcdn.com/p-sandbox/hw2xGYsZmDxJwr-z70ZFQzKc8ETa-dQnDxtM1dYhZUg/2880x2304.jpg",
+              "width": 2880
+            },
+            {
+              "height": 1520,
+              "url": "https://a.mktgcdn.com/p-sandbox/hw2xGYsZmDxJwr-z70ZFQzKc8ETa-dQnDxtM1dYhZUg/1900x1520.jpg",
+              "width": 1900
+            },
+            {
+              "height": 495,
+              "url": "https://a.mktgcdn.com/p-sandbox/hw2xGYsZmDxJwr-z70ZFQzKc8ETa-dQnDxtM1dYhZUg/619x495.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/hw2xGYsZmDxJwr-z70ZFQzKc8ETa-dQnDxtM1dYhZUg/563x450.jpg",
+              "width": 563
+            },
+            {
+              "height": 157,
+              "url": "https://a.mktgcdn.com/p-sandbox/hw2xGYsZmDxJwr-z70ZFQzKc8ETa-dQnDxtM1dYhZUg/196x157.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hw2xGYsZmDxJwr-z70ZFQzKc8ETa-dQnDxtM1dYhZUg/2880x2304.jpg",
+          "width": 2880
+        },
+        "imageCaption": "厳選した干し龍眼、胚芽、クルミを使用した酒釀桂圓NT$370。豊かな香りが口のなかに広がる人気商品",
+        "sectionTitle": "呉宝春麦方店 台北信義旗艦店（ウーパオチュンパンティエン タイペイシンイーチーチエンティエン）"
+      },
+      {
+        "description": "卵やハムをたっぷり挟んだボリューム満点のサンドイッチが人気で、手袋を付けて食べるのが定番です。ジューシーなお肉を挟んだメニューもあるので、朝からガッツリ食べたい人やブランチにもおすすめ。高校のクラスメイト3人が始めたサンドイッチ店ということから、学校をイメージしたユニークな店の内装も注目です。●スポット情報【高三孝碳烤吐司（カオサンシャオタンカオトゥースー）】アクセス：淡水信義線・松山新店線中正紀念堂駅から徒歩7分住所：南昌路一段50-3號営業時間：7～14時定休日：火曜",
+        "image": {
+          "alternateText": "手作りのマッシュポテトや卵、ハムをフランスパンで挟んだヘルシーサンド、営養薯泥軟法NT$75",
+          "height": 2424,
+          "sourceUrl": "https://a.mktgcdn.com/p/wEgzyPTxksY46r0PJAc7Vug4gaXRzu1b2uSMTu3Odrs/3232x2424.jpg",
+          "thumbnails": [
+            {
+              "height": 2424,
+              "url": "https://a.mktgcdn.com/p-sandbox/wEgzyPTxksY46r0PJAc7Vug4gaXRzu1b2uSMTu3Odrs/3232x2424.jpg",
+              "width": 3232
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/wEgzyPTxksY46r0PJAc7Vug4gaXRzu1b2uSMTu3Odrs/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/wEgzyPTxksY46r0PJAc7Vug4gaXRzu1b2uSMTu3Odrs/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wEgzyPTxksY46r0PJAc7Vug4gaXRzu1b2uSMTu3Odrs/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/wEgzyPTxksY46r0PJAc7Vug4gaXRzu1b2uSMTu3Odrs/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wEgzyPTxksY46r0PJAc7Vug4gaXRzu1b2uSMTu3Odrs/3232x2424.jpg",
+          "width": 3232
+        },
+        "imageCaption": "手作りのマッシュポテトや卵、ハムをフランスパンで挟んだヘルシーサンド、営養薯泥軟法NT$75",
+        "sectionTitle": "高三孝碳烤吐司（カオサンシャオタンカオトゥースー）"
+      },
+      {
+        "description": "炭火で炙ったトーストに、手作りソースと厳選素材を挟んだサンドイッチが人気の店。ソテーしたお肉、キャベツ、チーズなど、どのサンドイッチも具だくさんでボリューム満点です。パンは、台湾南部の人気パン店から直送されたものを使用。テイクアウトして公園などで食べてもGOOD!●スポット情報【豊盛号（フォンションハオ）】アクセス：淡水信義線士林駅から徒歩3分住所：中正路223巷4號営業時間：6時30分～16時定休日：なし",
+        "image": {
+          "alternateText": "豊盛三明治NT$105。豚肉ソテー、キャベツ、ポテトサラダなど具だくさんなサンド",
+          "height": 207,
+          "sourceUrl": "https://a.mktgcdn.com/p/KVOW4rdNK5x5zI_70hZ7w4HM5pi5s1zl660SEyT7IEo/310x207.jpg",
+          "thumbnails": [
+            {
+              "height": 207,
+              "url": "https://a.mktgcdn.com/p-sandbox/KVOW4rdNK5x5zI_70hZ7w4HM5pi5s1zl660SEyT7IEo/310x207.jpg",
+              "width": 310
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/KVOW4rdNK5x5zI_70hZ7w4HM5pi5s1zl660SEyT7IEo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KVOW4rdNK5x5zI_70hZ7w4HM5pi5s1zl660SEyT7IEo/310x207.jpg",
+          "width": 310
+        },
+        "imageCaption": "豊盛三明治NT$105。豚肉ソテー、キャベツ、ポテトサラダなど具だくさんなサンド",
+        "sectionTitle": "豊盛号（フォンションハオ）"
+      },
+      {
+        "description": "鉄板で焼いたふんわり食感の絶品サンドが、周辺OLや会社員に大人気のサンドイッチ店。具材たっぷりで種類も豊富なトーストサンドが自慢です。看板商品は豚肉や卵、トマトにピーナッツバターを合わせたオリジナリティあふれる「扶旺號招牌土司」。霜降りのビーフを挟んだ写真の「豪華雪花牛肉鉄板土司」も人気で、こちらは11時からの提供です。●スポット情報【扶旺号 復興店（フーワンハオ フウシンティエン）】アクセス：文湖線・板南線忠孝復興駅から徒歩3分住所：復興南路一段133-2號営業時間：7〜19時（イートインは〜15時30分、金〜日曜は〜18時30分）定休日：最終火曜",
+        "image": {
+          "alternateText": "霜降りのビーフを使用した豪華雪花牛肉鉄板土司NT$125",
+          "height": 1365,
+          "sourceUrl": "https://a.mktgcdn.com/p/CEB6HCvo8KYi5bCgqC5zrBDXtXCp_i-ADOXY48xwI0Q/2048x1365.jpg",
+          "thumbnails": [
+            {
+              "height": 1365,
+              "url": "https://a.mktgcdn.com/p-sandbox/CEB6HCvo8KYi5bCgqC5zrBDXtXCp_i-ADOXY48xwI0Q/2048x1365.jpg",
+              "width": 2048
+            },
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/CEB6HCvo8KYi5bCgqC5zrBDXtXCp_i-ADOXY48xwI0Q/1900x1266.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/CEB6HCvo8KYi5bCgqC5zrBDXtXCp_i-ADOXY48xwI0Q/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/CEB6HCvo8KYi5bCgqC5zrBDXtXCp_i-ADOXY48xwI0Q/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/CEB6HCvo8KYi5bCgqC5zrBDXtXCp_i-ADOXY48xwI0Q/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/CEB6HCvo8KYi5bCgqC5zrBDXtXCp_i-ADOXY48xwI0Q/2048x1365.jpg",
+          "width": 2048
+        },
+        "imageCaption": "霜降りのビーフを使用した豪華雪花牛肉鉄板土司NT$125",
+        "sectionTitle": "扶旺号 復興店（フーワンハオ フウシンティエン）"
+      },
+      {
+        "description": "こだわりの食材を用いた粥専門店の看板メニューは、店名にもなっている肉粥。1956年の創業当時から変わることなく味を守り続けており、だしのうま味が際立っています。そのほかのメニューも新鮮な素材の味を生かす味付けが特徴。茹で鶏や紅焼肉など、お粥に合う小皿料理もあわせて注文を。●スポット情報【周記肉粥店（ツォウチーロウツォウティエン）】アクセス：板南線龍山寺駅から徒歩5分住所：廣州街104號営業時間：6時～16時15分定休日：不定休",
+        "image": {
+          "alternateText": "鹹粥NT$15。豚骨からとっただしと醤油のあっさり味が美味",
+          "height": 433,
+          "sourceUrl": "https://a.mktgcdn.com/p/kjib55XgVz4sSDBTLQzZlr3ipCqQXzIIeEck92CpP1Y/289x433.jpg",
+          "thumbnails": [
+            {
+              "height": 433,
+              "url": "https://a.mktgcdn.com/p-sandbox/kjib55XgVz4sSDBTLQzZlr3ipCqQXzIIeEck92CpP1Y/289x433.jpg",
+              "width": 289
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/kjib55XgVz4sSDBTLQzZlr3ipCqQXzIIeEck92CpP1Y/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kjib55XgVz4sSDBTLQzZlr3ipCqQXzIIeEck92CpP1Y/289x433.jpg",
+          "width": 289
+        },
+        "imageCaption": "鹹粥NT$15。豚骨からとっただしと醤油のあっさり味が美味",
+        "sectionTitle": "周記肉粥店（ツォウチーロウツォウティエン）"
+      },
+      {
+        "description": "注文を受けてから店員さんが握ってくれるおにぎり専門店。アツアツが味わえる人気の行列店です。肉鬆や油條、豚肉などが入った「起士海陸総匯飯糰」は、お腹いっぱいになるボリューム。サクサクの油條など具がたっぷり入った紫米（黒米）のおにぎり、「招牌紫米飯團」NT＄50もおすすめです。おにぎりのお供にはヘルシーな「黒豆漿」NT＄25もぜひ。●スポット情報【劉媽媽飯糰（リウマーマーファントゥアン）】アクセス：松山新店線・中和新蘆線古亭駅から徒歩6分住所：杭州南路二段88號営業時間：5時～11時30分定休日：月曜",
+        "image": {
+          "alternateText": "もち米を使用した具だくさんおにぎり、起士海陸総匯飯糰NT$75",
+          "height": 134,
+          "sourceUrl": "https://a.mktgcdn.com/p/miTMSOQgA99ZMTQjvIw0Ovau4qSn52xVza3JuLTfWEg/201x134.jpg",
+          "thumbnails": [
+            {
+              "height": 134,
+              "url": "https://a.mktgcdn.com/p-sandbox/miTMSOQgA99ZMTQjvIw0Ovau4qSn52xVza3JuLTfWEg/201x134.jpg",
+              "width": 201
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/miTMSOQgA99ZMTQjvIw0Ovau4qSn52xVza3JuLTfWEg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/miTMSOQgA99ZMTQjvIw0Ovau4qSn52xVza3JuLTfWEg/201x134.jpg",
+          "width": 201
+        },
+        "imageCaption": "もち米を使用した具だくさんおにぎり、起士海陸総匯飯糰NT$75",
+        "sectionTitle": "劉媽媽飯糰（リウマーマーファントゥアン）"
+      },
+      {
+        "imageCaption": "※2023年3月末時点の情報です。営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2023-04-14",
+    "c_ap_HeroImage": {
+      "alternateText": "早朝から開いている店も多い！栄養満点のモーニングを 台北流朝ごはん【台湾　台北】",
+      "height": 157,
+      "sourceUrl": "https://a.mktgcdn.com/p/RUk1xm37xcFsb93GqeG5-bVwB57BETMtA4wDuzCJ2Yg/210x157.jpg",
+      "thumbnails": [
+        {
+          "height": 157,
+          "url": "https://a.mktgcdn.com/p-sandbox/RUk1xm37xcFsb93GqeG5-bVwB57BETMtA4wDuzCJ2Yg/210x157.jpg",
+          "width": 210
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/RUk1xm37xcFsb93GqeG5-bVwB57BETMtA4wDuzCJ2Yg/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/RUk1xm37xcFsb93GqeG5-bVwB57BETMtA4wDuzCJ2Yg/210x157.jpg",
+      "width": 210
+    },
+    "c_ap_LinkArticleSectionTitle": "台湾のその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "台湾旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/taiwan/"
+      },
+      {
+        "linkText": "台北のツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dTPE"
+      },
+      {
+        "linkText": "台北のホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/3518/?freeword\u003d%E5%8F%B0%E5%8C%97%20%20%E5%8F%B0%E6%B9%BE\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d3518"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea4": [
+      "台湾"
+    ],
+    "c_ap_ShortDescription": "朝食を外で食べることが一般的な台湾には、早朝からオープンしているお店がたくさん。伝統の豆漿からボリューム満点のサンドイッチ、お粥やおにぎりといったご飯系まで、バリエーションも豊富です。安くておいしい朝食で、台湾旅のエネルギーをチャージ！",
+    "c_ap_Tags": [
+      "台北",
+      "朝食",
+      "豆漿"
+    ],
+    "c_ap_Theme": [
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ",
+      "街あるき",
+      "グルメ",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "早朝から開いている店も多い！栄養満点のモーニングを 台北流朝ごはん【台湾　台北】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "朝食を外で食べることが一般的な台湾には、早朝からオープンしているお店がたくさん。伝統の豆漿からボリューム満点のサンドイッチ、お粥やおにぎりといったご飯系まで、バリエーションも豊富です。安くておいしい朝食で、台湾旅のエネルギーをチャージ！",
+    "c_metaTitle": "早朝から開いている店も多い！栄養満点のモーニングを 台北流朝ごはん【台湾　台北】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000028",
+    "c_searchArea1": [
+      "海外"
+    ],
+    "c_searchArea2": "台湾",
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：台湾",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "早朝から開いている店も多い！栄養満点のモーニングを 台北流朝ごはん【台湾　台北】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

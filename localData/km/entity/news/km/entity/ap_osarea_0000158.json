@@ -1,0 +1,453 @@
+{
+  "$id": "news_ap_osarea_0000158",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター"
+    },
+    "c_ap_HeroImage": {
+      "height": 2832,
+      "sourceUrl": "http://a.mktgcdn.com/p/XRGEDAyuiex68_Yxs70lEnzBpAfCkUTPeG6teyHNxGs/4256x2832.jpg",
+      "thumbnails": [
+        {
+          "height": 2832,
+          "url": "//a.mktgcdn.com/p-sandbox/XRGEDAyuiex68_Yxs70lEnzBpAfCkUTPeG6teyHNxGs/4256x2832.jpg",
+          "width": 4256
+        },
+        {
+          "height": 1264,
+          "url": "//a.mktgcdn.com/p-sandbox/XRGEDAyuiex68_Yxs70lEnzBpAfCkUTPeG6teyHNxGs/1900x1264.jpg",
+          "width": 1900
+        },
+        {
+          "height": 412,
+          "url": "//a.mktgcdn.com/p-sandbox/XRGEDAyuiex68_Yxs70lEnzBpAfCkUTPeG6teyHNxGs/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "//a.mktgcdn.com/p-sandbox/XRGEDAyuiex68_Yxs70lEnzBpAfCkUTPeG6teyHNxGs/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "//a.mktgcdn.com/p-sandbox/XRGEDAyuiex68_Yxs70lEnzBpAfCkUTPeG6teyHNxGs/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/XRGEDAyuiex68_Yxs70lEnzBpAfCkUTPeG6teyHNxGs/4256x2832.jpg",
+      "width": 4256
+    },
+    "c_ap_HeroImageCaption": "目の前の海を眺めながら、優雅な食事を",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "バリ島旅行をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/bali/"
+      },
+      {
+        "linkText": "バリ島の現地ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bID/cDPS/"
+      },
+      {
+        "linkText": "バリ島のツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dDPS"
+      },
+      {
+        "linkText": "バリ島のホテルをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/81/1054/?freeword\u003d%E3%83%87%E3%83%B3%E3%83%91%E3%82%B5%E3%83%BC%E3%83%AB%20%20%E3%83%90%E3%83%AA%E5%B3%B6%20%20%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d1054"
+      },
+      {
+        "linkText": "バリ島の航空券をみる",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/asia/indonesia/bali/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "のどかな雰囲気漂うサヌールのビーチフロント。特に欧米からの外国人観光客に人気で、サーフィンスポットとしても名高い場所です。美しいビーチに沿って、素敵なレストランが軒を連ねるのんびりとしたエリアです。今回はサヌール・ビーチ沿いの数あるビーチフロントレストランの中でも、シービューが素敵なおすすめ店をご紹介します。（写真：リラ・パンタイ）",
+    "c_ap_Tags": [
+      "リゾート",
+      "シービューダイニング",
+      "女子旅",
+      "おしゃれランチ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "一人旅",
+      "自然・山",
+      "グルメ",
+      "ご当地グルメ",
+      "リゾート"
+    ],
+    "c_ap_Title": "大人のリゾート・サヌールの海が見えるおすすめダイニングレストラン4選【バリ島】",
+    "c_linkedArea3News": [
+      "indonesia"
+    ],
+    "c_metaDescription": "のどかな雰囲気漂うサヌールのビーチフロントは、外国人観光客に大人気！今回はサヌール・ビーチ沿いの数あるビーチフロントレストランの中でも、シービューが素敵なおすすめ店をご紹介します。",
+    "c_metaTitle": "大人のリゾート・サヌールの海が見えるおすすめダイニングレストラン4選【バリ島】",
+    "c_news_CTAs": [
+      {
+        "label": "バリ島のホテルをみる",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/81/1054/?freeword\u003d%E3%83%87%E3%83%B3%E3%83%91%E3%82%B5%E3%83%BC%E3%83%AB%20%20%E3%83%90%E3%83%AA%E5%B3%B6%20%20%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d1054",
+        "linkType": "URL"
+      },
+      {
+        "label": "バリ島の現地ツアーをみる",
+        "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bID/cDPS/",
+        "linkType": "URL"
+      },
+      {
+        "label": "バリ島旅行をみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/bali/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ハイアット・リージェンシー バリをみる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/1695/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ご飯のあとはスイーツを楽しもう！おすすめのオーガニックカフェをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/indonesia/news_ap_osarea_0000091",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "1日中海を楽しもう！バリで人気のビーチクラブをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/indonesia/news_ap_osarea_0000094",
+          "linkType": "URL"
+        },
+        "description": "サヌール・ビーチの目の前に位置するバリの老舗リゾートホテル、「ハイアット・リージェンシー バリ」内 にある本格的なイタリアン。薪窯で焼き上げるできたてのピッツァをはじめ、パスタやシーフー ドなど本格的なイタリアンを味わうことができます。暑さが苦手な方には、ライブ感あるオープンキッチンが見える屋内席の利用がおすすめ。宿泊客だけでなく、一般の観光客も利用できるので、インドネシア料理以外も楽しみたい人は観光の合間にぜひ立ち寄ってみてください。",
+        "image": {
+          "height": 2832,
+          "sourceUrl": "https://a.mktgcdn.com/p/P0y4c2RCB4L9Afyn-UIGclKLJ4xb18d22B14Fi0SHnA/4256x2832.jpg",
+          "thumbnails": [
+            {
+              "height": 2832,
+              "url": "https://a.mktgcdn.com/p-sandbox/P0y4c2RCB4L9Afyn-UIGclKLJ4xb18d22B14Fi0SHnA/4256x2832.jpg",
+              "width": 4256
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/P0y4c2RCB4L9Afyn-UIGclKLJ4xb18d22B14Fi0SHnA/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/P0y4c2RCB4L9Afyn-UIGclKLJ4xb18d22B14Fi0SHnA/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/P0y4c2RCB4L9Afyn-UIGclKLJ4xb18d22B14Fi0SHnA/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/P0y4c2RCB4L9Afyn-UIGclKLJ4xb18d22B14Fi0SHnA/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/P0y4c2RCB4L9Afyn-UIGclKLJ4xb18d22B14Fi0SHnA/4256x2832.jpg",
+          "width": 4256
+        },
+        "imageCaption": "ブッラータチーズとバジルソース、ルッコラのピッツァなどが楽しめる",
+        "infoBlockLabel": "Pizzariaの情報",
+        "infoBlockText": "住所：Jl. Danau Tamblingan No.89, Sanur(ハイアット リージェン シー バリ内)営業時間：11~23時 定休日：なし",
+        "sectionTitle": "ピッツァリア（Pizzaria）"
+      },
+      {
+        "cTA1": {
+          "label": "名店で味わおう！本場のバリご飯をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/indonesia/news_ap_osarea_0000068",
+          "linkType": "URL"
+        },
+        "description": "おしゃれなカフェ風の雰囲気で、欧米からの観光客にも愛される「リラ・パンタイ」。朝7時30分からオープンし、テラス席でサヌール・ビーチを眺めながら爽やかな気分で朝食を楽しむことができます。夜はロマンチックなバーの雰囲気に変わり、やや混雑することも。夕方までの時間は比較的のんびりと過ごせます。毎日17時からはハッピーアワーも開催されており、サンセットを眺めながらグラスワインやカクテルを片手に優雅なひとときを過ごすことができますよ。",
+        "image": {
+          "height": 2827,
+          "sourceUrl": "https://a.mktgcdn.com/p/ChaljbrjGl_bDJgfDBeg6o5BVXkkPjy50y5a2BGwy34/4251x2827.jpg",
+          "thumbnails": [
+            {
+              "height": 2827,
+              "url": "https://a.mktgcdn.com/p-sandbox/ChaljbrjGl_bDJgfDBeg6o5BVXkkPjy50y5a2BGwy34/4251x2827.jpg",
+              "width": 4251
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/ChaljbrjGl_bDJgfDBeg6o5BVXkkPjy50y5a2BGwy34/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/ChaljbrjGl_bDJgfDBeg6o5BVXkkPjy50y5a2BGwy34/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/ChaljbrjGl_bDJgfDBeg6o5BVXkkPjy50y5a2BGwy34/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/ChaljbrjGl_bDJgfDBeg6o5BVXkkPjy50y5a2BGwy34/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ChaljbrjGl_bDJgfDBeg6o5BVXkkPjy50y5a2BGwy34/4251x2827.jpg",
+          "width": 4251
+        },
+        "imageCaption": "バリ島らしい茅葺き屋根の落ち着いた店内",
+        "infoBlockLabel": "Lilla Pantaiの情報",
+        "infoBlockText": "住所：Jl. Duyung Sanur 営業時間：7時30分~22時30分 定休日：なし",
+        "sectionTitle": "リラ・パンタイ（Lilla Pantai）"
+      },
+      {
+        "description": "プラマ・サヌール・ビーチ・ホテル・バリ内にあるシービューダイニング。その店名の通り、バリ島の伝統的なバンブー建築の店内が魅力です。ホテル敷地内に位置しているため、人も少なく、南国リゾートの落ち着いた雰囲気を満喫できます。サヌール・ビーチ一帯に広がるシービューレストランの中でも珍しい、潮風に揺れるスウィングチェアが人気を集めています。オリジナルカクテルとともに、専用の窯で焼かれたクリスピーピッツァなどの軽食を楽しんでみてください。また、夜にはライブパフォーマンスもあるので、1日中リラックスした時間を過ごすことができますよ。",
+        "image": {
+          "height": 2336,
+          "sourceUrl": "https://a.mktgcdn.com/p/x3xqdc779qO2A7rdioCPdG_xYRRc89HHF2Px8mZx9FM/3504x2336.jpg",
+          "thumbnails": [
+            {
+              "height": 2336,
+              "url": "https://a.mktgcdn.com/p-sandbox/x3xqdc779qO2A7rdioCPdG_xYRRc89HHF2Px8mZx9FM/3504x2336.jpg",
+              "width": 3504
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/x3xqdc779qO2A7rdioCPdG_xYRRc89HHF2Px8mZx9FM/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/x3xqdc779qO2A7rdioCPdG_xYRRc89HHF2Px8mZx9FM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/x3xqdc779qO2A7rdioCPdG_xYRRc89HHF2Px8mZx9FM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/x3xqdc779qO2A7rdioCPdG_xYRRc89HHF2Px8mZx9FM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/x3xqdc779qO2A7rdioCPdG_xYRRc89HHF2Px8mZx9FM/3504x2336.jpg",
+          "width": 3504
+        },
+        "imageCaption": "ビーチ前の遊歩道に面していて、 静かにくつろげる雰囲気",
+        "infoBlockLabel": "Bamboo Barの情報",
+        "infoBlockText": "住所：Jl. Cemara,Sanur(プ ラ マ・サヌール・ビーチ・ホテル・バリ 内)営業時間：11~23時定休日：なし",
+        "sectionTitle": "バンブー・バー（Bamboo Bar）"
+      },
+      {
+        "description": "バリ島の大手地元スーパー、ココ・スーパーマーケット が経営するレストラン。店前にある専用のピザ窯で焼き上げる本格的なピッツァが1枚Rp.8万9000～とコスパ抜群。さらに、カルボナーラやバリ島名物のナシ・ゴレンなど、リーズナブルな値段で多国籍な料理が楽しめますよ。食事はバリ島スタイルのパラソルが飾られたテラス席がおすすめ。ビーズクッションも用意されており、正面の海を眺めながらのんびりと食事を楽しめることも魅力のひとつです。",
+        "image": {
+          "height": 2336,
+          "sourceUrl": "https://a.mktgcdn.com/p/IOdO3QQgMj7etrjaRzwT7Qgh9ufEdeDwFN4ZcRecGeQ/3504x2336.jpg",
+          "thumbnails": [
+            {
+              "height": 2336,
+              "url": "https://a.mktgcdn.com/p-sandbox/IOdO3QQgMj7etrjaRzwT7Qgh9ufEdeDwFN4ZcRecGeQ/3504x2336.jpg",
+              "width": 3504
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/IOdO3QQgMj7etrjaRzwT7Qgh9ufEdeDwFN4ZcRecGeQ/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/IOdO3QQgMj7etrjaRzwT7Qgh9ufEdeDwFN4ZcRecGeQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/IOdO3QQgMj7etrjaRzwT7Qgh9ufEdeDwFN4ZcRecGeQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/IOdO3QQgMj7etrjaRzwT7Qgh9ufEdeDwFN4ZcRecGeQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/IOdO3QQgMj7etrjaRzwT7Qgh9ufEdeDwFN4ZcRecGeQ/3504x2336.jpg",
+          "width": 3504
+        },
+        "imageCaption": "ピサン・ライ Rp.3万5000。蒸したバナナにココナッツを添えたバリ島の伝統スイーツ",
+        "infoBlockLabel": "Coco Bistroの情報",
+        "infoBlockText": "住所：Jl. Duyung Semawang, Sanur営業時間：7～23時定休日：なし",
+        "sectionTitle": "ココ・ビストロ（Coco Bistro）"
+      },
+      {
+        "image": {
+          "height": 2832,
+          "sourceUrl": "https://a.mktgcdn.com/p/XRGEDAyuiex68_Yxs70lEnzBpAfCkUTPeG6teyHNxGs/4256x2832.jpg",
+          "thumbnails": [
+            {
+              "height": 2832,
+              "url": "https://a.mktgcdn.com/p-sandbox/XRGEDAyuiex68_Yxs70lEnzBpAfCkUTPeG6teyHNxGs/4256x2832.jpg",
+              "width": 4256
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/XRGEDAyuiex68_Yxs70lEnzBpAfCkUTPeG6teyHNxGs/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/XRGEDAyuiex68_Yxs70lEnzBpAfCkUTPeG6teyHNxGs/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/XRGEDAyuiex68_Yxs70lEnzBpAfCkUTPeG6teyHNxGs/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/XRGEDAyuiex68_Yxs70lEnzBpAfCkUTPeG6teyHNxGs/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/XRGEDAyuiex68_Yxs70lEnzBpAfCkUTPeG6teyHNxGs/4256x2832.jpg",
+          "width": 4256
+        },
+        "imageCaption": "海を目の前にゆったりとした空気が流れる"
+      },
+      {
+        "image": {
+          "height": 2832,
+          "sourceUrl": "https://a.mktgcdn.com/p/3LttBTgVm6k1QZZXc52o41b_St-y3lgVn9cNBwxoZhI/4256x2832.jpg",
+          "thumbnails": [
+            {
+              "height": 2832,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LttBTgVm6k1QZZXc52o41b_St-y3lgVn9cNBwxoZhI/4256x2832.jpg",
+              "width": 4256
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LttBTgVm6k1QZZXc52o41b_St-y3lgVn9cNBwxoZhI/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LttBTgVm6k1QZZXc52o41b_St-y3lgVn9cNBwxoZhI/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LttBTgVm6k1QZZXc52o41b_St-y3lgVn9cNBwxoZhI/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LttBTgVm6k1QZZXc52o41b_St-y3lgVn9cNBwxoZhI/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3LttBTgVm6k1QZZXc52o41b_St-y3lgVn9cNBwxoZhI/4256x2832.jpg",
+          "width": 4256
+        },
+        "imageCaption": "シェアして食べたい人気のBBQメニュー"
+      },
+      {
+        "image": {
+          "height": 4000,
+          "sourceUrl": "https://a.mktgcdn.com/p/EsVYydIZjRw8aZKQCkapOr3r5kyGQVdEnZdfYKFOpUQ/6000x4000.jpg",
+          "thumbnails": [
+            {
+              "height": 4000,
+              "url": "https://a.mktgcdn.com/p-sandbox/EsVYydIZjRw8aZKQCkapOr3r5kyGQVdEnZdfYKFOpUQ/6000x4000.jpg",
+              "width": 6000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/EsVYydIZjRw8aZKQCkapOr3r5kyGQVdEnZdfYKFOpUQ/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/EsVYydIZjRw8aZKQCkapOr3r5kyGQVdEnZdfYKFOpUQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/EsVYydIZjRw8aZKQCkapOr3r5kyGQVdEnZdfYKFOpUQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/EsVYydIZjRw8aZKQCkapOr3r5kyGQVdEnZdfYKFOpUQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EsVYydIZjRw8aZKQCkapOr3r5kyGQVdEnZdfYKFOpUQ/6000x4000.jpg",
+          "width": 6000
+        },
+        "imageCaption": "バリ島の伝統的な傘、パユンをモチーフにしたパラソルが素敵"
+      },
+      {
+        "image": {
+          "height": 3531,
+          "sourceUrl": "https://a.mktgcdn.com/p/ep9V3QH_oXFf6kJOPMNbxYp24emXUoAJRysr5Q__CJU/5296x3531.jpg",
+          "thumbnails": [
+            {
+              "height": 3531,
+              "url": "https://a.mktgcdn.com/p-sandbox/ep9V3QH_oXFf6kJOPMNbxYp24emXUoAJRysr5Q__CJU/5296x3531.jpg",
+              "width": 5296
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/ep9V3QH_oXFf6kJOPMNbxYp24emXUoAJRysr5Q__CJU/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ep9V3QH_oXFf6kJOPMNbxYp24emXUoAJRysr5Q__CJU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ep9V3QH_oXFf6kJOPMNbxYp24emXUoAJRysr5Q__CJU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ep9V3QH_oXFf6kJOPMNbxYp24emXUoAJRysr5Q__CJU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ep9V3QH_oXFf6kJOPMNbxYp24emXUoAJRysr5Q__CJU/5296x3531.jpg",
+          "width": 5296
+        },
+        "imageCaption": "トマトソース、オニオン、モッツアレラのピッツァRp.8万9000"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000156",
+      "news_ap_osarea_0000157",
+      "news_ap_osarea_0000159",
+      "news_ap_osarea_0000160"
+    ],
+    "c_news_FeaturedArticlesTitle": "バリ島のその他の投稿記事",
+    "c_news_PublicationDate": "2024-02-07",
+    "c_news_UpdateDate": "2024-09-02",
+    "c_news_ViewCount": "252",
+    "c_news_ViewCount1of2": "2",
+    "c_news_ViewCount2of2": "252",
+    "c_news_ViewCountNum": "252",
+    "c_news_ViewCountNumForSorting": "16",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/asia/indonesia/news_ap_osarea_0000158",
+    "name": "大人のリゾート・サヌールの海が見えるおすすめダイニングレストラン4選【バリ島】",
+    "slug": "kaigai/asia/indonesia/news_ap_osarea_0000158"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

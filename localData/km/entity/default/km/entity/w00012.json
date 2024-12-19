@@ -1,0 +1,14 @@
+{
+  "$id": "w00012",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_answer_HTML": "ID・パスワードの入力内容をお確かめください。IDの前後に半角スペースが入力されてしまっている可能性があります。不要なスペースを削除して再度お試しください。\u003cbr\u003e\u003cbr\u003eご登録済IDにスペースが含まれる場合、アプリではご利用いただけません。JTBホームページよりIDを変更していただくか、ホームページよりMyJTBサービスのご利用をお願いします。",
+    "landingPageUrl": "https://customerhelp.jtb.co.jp/s/article/w00012",
+    "name": "【JTBアプリ】ログインができません。",
+    "question": "【JTBアプリ】ログインができません。"
+  },
+  "entityType": "faq",
+  "labels": []
+}

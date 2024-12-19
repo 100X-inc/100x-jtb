@@ -1,0 +1,290 @@
+{
+  "$id": "ap_osarea_0000129",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "フィレンツェを代表する創業1733年の老舗カフェ。メリーゴーランドが回るレプブリカ広場に面しています。店内はアンティーク調の装飾で彩られたクラシカルな雰囲気。大理石、フレスコ画、ムラーノ島のクリスタルを使用したシャンデリアに囲まれた優雅な空間になっています。名物メニューはカウンターで注がれるカプチーノ。立ち飲みのバールやカフェ席、外のテラス席で本場のイタリアのカフェ時間を楽しむことができます。",
+        "image": {
+          "height": 3872,
+          "sourceUrl": "https://a.mktgcdn.com/p/eSYlUxYyLlwN7Iqke_0WWSAh4BEQrdFpUAqw0QRJ0vs/2592x3872.jpg",
+          "thumbnails": [
+            {
+              "height": 3872,
+              "url": "https://a.mktgcdn.com/p-sandbox/eSYlUxYyLlwN7Iqke_0WWSAh4BEQrdFpUAqw0QRJ0vs/2592x3872.jpg",
+              "width": 2592
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/eSYlUxYyLlwN7Iqke_0WWSAh4BEQrdFpUAqw0QRJ0vs/1272x1900.jpg",
+              "width": 1272
+            },
+            {
+              "height": 925,
+              "url": "https://a.mktgcdn.com/p-sandbox/eSYlUxYyLlwN7Iqke_0WWSAh4BEQrdFpUAqw0QRJ0vs/619x925.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/eSYlUxYyLlwN7Iqke_0WWSAh4BEQrdFpUAqw0QRJ0vs/301x450.jpg",
+              "width": 301
+            },
+            {
+              "height": 293,
+              "url": "https://a.mktgcdn.com/p-sandbox/eSYlUxYyLlwN7Iqke_0WWSAh4BEQrdFpUAqw0QRJ0vs/196x293.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/eSYlUxYyLlwN7Iqke_0WWSAh4BEQrdFpUAqw0QRJ0vs/2592x3872.jpg",
+          "width": 2592
+        },
+        "imageCaption": "名物のカプチーノとともに味わうドルチェは格別の味",
+        "sectionTitle": "ジッリ（Gilli）"
+      },
+      {
+        "description": "DATAGilli 住所：Via Roma 1r営業時間：7時30分～翌1時（冬季は～24時）定休日：なし",
+        "image": {
+          "height": 2832,
+          "sourceUrl": "https://a.mktgcdn.com/p/SVPLgNUMBGAv8v5psS_Gy2UJm31pZg0f5OS3hqzpHHg/4256x2832.jpg",
+          "thumbnails": [
+            {
+              "height": 2832,
+              "url": "https://a.mktgcdn.com/p-sandbox/SVPLgNUMBGAv8v5psS_Gy2UJm31pZg0f5OS3hqzpHHg/4256x2832.jpg",
+              "width": 4256
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/SVPLgNUMBGAv8v5psS_Gy2UJm31pZg0f5OS3hqzpHHg/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/SVPLgNUMBGAv8v5psS_Gy2UJm31pZg0f5OS3hqzpHHg/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/SVPLgNUMBGAv8v5psS_Gy2UJm31pZg0f5OS3hqzpHHg/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/SVPLgNUMBGAv8v5psS_Gy2UJm31pZg0f5OS3hqzpHHg/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SVPLgNUMBGAv8v5psS_Gy2UJm31pZg0f5OS3hqzpHHg/4256x2832.jpg",
+          "width": 4256
+        },
+        "imageCaption": "ホイップクリームをたっぷりとのせたチョコラータ・コン・パンナ€8.50～",
+        "sectionTitle": "リヴォワール（Rivoire）"
+      },
+      {
+        "description": "1872年創業のチョコレートの老舗が経営するカフェ。看板メニューはフィレンツェで一番おいしいと評判のチョコラータです。チョコラータとはチョコレートを削って、ミルクと混ぜ合わせた冬の名物ドリンクのこと。チョコレートのとろみのある食感と口の中で広がるカカオの香りがとても贅沢な味を演出してくれます。リヴォワールのチョコラータにはトッピングにホイップクリームがのっていて、さらにとろける甘さに。夏でもリクエストがあればオーダーができるので、ぜひ飲んでみてください。",
+        "image": {
+          "height": 2832,
+          "sourceUrl": "https://a.mktgcdn.com/p/pekOzGMYOKlmdOVIVsWW17bzA_zqs5bRS5ql9_4JvsE/4256x2832.jpg",
+          "thumbnails": [
+            {
+              "height": 2832,
+              "url": "https://a.mktgcdn.com/p-sandbox/pekOzGMYOKlmdOVIVsWW17bzA_zqs5bRS5ql9_4JvsE/4256x2832.jpg",
+              "width": 4256
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/pekOzGMYOKlmdOVIVsWW17bzA_zqs5bRS5ql9_4JvsE/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/pekOzGMYOKlmdOVIVsWW17bzA_zqs5bRS5ql9_4JvsE/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/pekOzGMYOKlmdOVIVsWW17bzA_zqs5bRS5ql9_4JvsE/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/pekOzGMYOKlmdOVIVsWW17bzA_zqs5bRS5ql9_4JvsE/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/pekOzGMYOKlmdOVIVsWW17bzA_zqs5bRS5ql9_4JvsE/4256x2832.jpg",
+          "width": 4256
+        },
+        "imageCaption": "ピンク色のテーブルクロスがかわいい優雅な内観",
+        "sectionTitle": "ガンベリーニ（Gamberini）"
+      },
+      {
+        "description": "DATARivoire住所：Piazza de la Signoria 5r 営業時間：8時30分～23時30分（冬季は～21時30分） 定休日：11～2月の月曜",
+        "image": {
+          "height": 2520,
+          "sourceUrl": "https://a.mktgcdn.com/p/dOdOOP3dqGfxHb-yyI6Q-1X8AC83R1_7_8ziYQx245c/3360x2520.jpg",
+          "thumbnails": [
+            {
+              "height": 2520,
+              "url": "https://a.mktgcdn.com/p-sandbox/3NP-A_B_241qiyvIfsVCGp9mDx_6pA6FuRoSKCwLqa8/3360x2520.jpg",
+              "width": 3360
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/3NP-A_B_241qiyvIfsVCGp9mDx_6pA6FuRoSKCwLqa8/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/3NP-A_B_241qiyvIfsVCGp9mDx_6pA6FuRoSKCwLqa8/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3NP-A_B_241qiyvIfsVCGp9mDx_6pA6FuRoSKCwLqa8/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/3NP-A_B_241qiyvIfsVCGp9mDx_6pA6FuRoSKCwLqa8/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3NP-A_B_241qiyvIfsVCGp9mDx_6pA6FuRoSKCwLqa8/3360x2520.jpg",
+          "width": 3360
+        },
+        "imageCaption": "甘さ控えめで濃厚なピスタチオペーストとナッツの食感がたまらないクレミーノ・ピスタッキオ€5"
+      },
+      {
+        "description": "ボローニャ地方で創業した老舗のパスティッチェリアが、1937年にフィレンツェでオープン。その後、修復作業を経て2020年9月に再オープンしたカフェです。フルーツタルトやザッハトルテなど、見た目も味も華やかなドルチェが常時30～40種類揃います。ビストロも併設しているので、アペリティフやディナー利用もおすすめですよ。",
+        "image": {
+          "height": 3456,
+          "sourceUrl": "https://a.mktgcdn.com/p/PCFQBkY_bujll3PCF0xiLv2bfJR9cb4T_klBB8OttZU/4608x3456.jpg",
+          "thumbnails": [
+            {
+              "height": 3456,
+              "url": "https://a.mktgcdn.com/p-sandbox/PCFQBkY_bujll3PCF0xiLv2bfJR9cb4T_klBB8OttZU/4608x3456.jpg",
+              "width": 4608
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/PCFQBkY_bujll3PCF0xiLv2bfJR9cb4T_klBB8OttZU/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/PCFQBkY_bujll3PCF0xiLv2bfJR9cb4T_klBB8OttZU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/PCFQBkY_bujll3PCF0xiLv2bfJR9cb4T_klBB8OttZU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/PCFQBkY_bujll3PCF0xiLv2bfJR9cb4T_klBB8OttZU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PCFQBkY_bujll3PCF0xiLv2bfJR9cb4T_klBB8OttZU/4608x3456.jpg",
+          "width": 4608
+        },
+        "imageCaption": "重厚感があり優雅でクラシカルな内観"
+      },
+      {
+        "description": "DATAGamberini住所：Via Curtatone 6 営業時間：6時30分～21時30分 定休日：なし",
+        "imageCaption": "※2023年10月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2023-04-01",
+    "c_ap_HeroImage": {
+      "height": 2832,
+      "sourceUrl": "https://a.mktgcdn.com/p/pekOzGMYOKlmdOVIVsWW17bzA_zqs5bRS5ql9_4JvsE/4256x2832.jpg",
+      "thumbnails": [
+        {
+          "height": 2832,
+          "url": "https://a.mktgcdn.com/p-sandbox/pekOzGMYOKlmdOVIVsWW17bzA_zqs5bRS5ql9_4JvsE/4256x2832.jpg",
+          "width": 4256
+        },
+        {
+          "height": 1264,
+          "url": "https://a.mktgcdn.com/p-sandbox/pekOzGMYOKlmdOVIVsWW17bzA_zqs5bRS5ql9_4JvsE/1900x1264.jpg",
+          "width": 1900
+        },
+        {
+          "height": 412,
+          "url": "https://a.mktgcdn.com/p-sandbox/pekOzGMYOKlmdOVIVsWW17bzA_zqs5bRS5ql9_4JvsE/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "https://a.mktgcdn.com/p-sandbox/pekOzGMYOKlmdOVIVsWW17bzA_zqs5bRS5ql9_4JvsE/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "https://a.mktgcdn.com/p-sandbox/pekOzGMYOKlmdOVIVsWW17bzA_zqs5bRS5ql9_4JvsE/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/pekOzGMYOKlmdOVIVsWW17bzA_zqs5bRS5ql9_4JvsE/4256x2832.jpg",
+      "width": 4256
+    },
+    "c_ap_HeroImageCaption": "ドルチェやコーヒーとともに優雅なカフェタイムを",
+    "c_ap_LinkArticleSectionTitle": "イタリアのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea3": [
+      "イタリア"
+    ],
+    "c_ap_ShortDescription": "フィレンツェの街なかには歴史を感じさせる老舗のカフェが点在しています。イタリアのカフェは、立ち飲みのバーカウンターと座席でゆったりできるカフェスペースが分かれているのが一般的。同じドリンクやスイーツでも、立ち飲みと着席では料金が異なります。フィレンツェにある格式高い優雅な老舗カフェで、イタリアならではのカフェ文化を体験してみてください。（写真：リヴォワール）",
+    "c_ap_Tags": [
+      "レトロ",
+      "インテリア",
+      "おしゃれカフェ",
+      "ドルチェ"
+    ],
+    "c_ap_Theme": [
+      "ハネムーン",
+      "街あるき",
+      "カフェ"
+    ],
+    "c_ap_Title": "フィレンツェの美しい街並みとともに、老舗の名店で楽しむ優雅なカフェタイム【イタリア フィレンツェ】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "フィレンツェの街なかには歴史を感じさせる老舗のカフェが点在しています。イタリアのカフェは、立ち飲みのバーカウンターと座席でゆったりできるカフェスペースが分かれているのが一般的。同じドリンクやスイーツでも、立ち飲みと着席では料金が異なります。フィレンツェにある格式高い優雅な老舗カフェで、イタリアならではのカフェ文化を体験してみてください。（写真：リヴォワール）",
+    "c_metaTitle": "フィレンツェの美しい街並みとともに、老舗の名店で楽しむ優雅なカフェタイム【イタリア フィレンツェ】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000129",
+    "name": "フィレンツェの美しい街並みとともに、老舗の名店で楽しむ優雅なカフェタイム【イタリア フィレンツェ】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,293 @@
+{
+  "$id": "ap_osarea_0000082",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "はじめに紹介するのは、タイを代表するカオマンガイの名店「コーアン・カオマンガイ・プラトゥーナム」。常に行列が絶えないこちらのお店は、スタッフのユニフォームの色から“ピンクのカオマンガイ”と呼ばれ、バンコク内に複数店舗を展開している超人気店です。名物はもちろんカオマンガイ。鶏ムネ肉を使用したチキンは、しっとり\u0026さっぱりとした口当たりで、ショウガやニンニクが利いたピリっと辛い特製ダレと濃厚な甘口醤油を好みでかけていただきます。1人前B50とコスパの良さも人気の秘密で、ついついおかわりしたくなってしまいます。DATAGo-Ang Kaomunkai Pratunam住所：Soi Petchaburi 30, New Petchaburi Rd.営業時間：6～14時、15時～21時30分定休日：なし",
+        "image": {
+          "height": 562,
+          "sourceUrl": "https://a.mktgcdn.com/p/IzZUTmSXa9i9e26yXnK08zUcdjEn9iZbDr12cG6kdWk/845x562.jpg",
+          "thumbnails": [
+            {
+              "height": 562,
+              "url": "https://a.mktgcdn.com/p-sandbox/IzZUTmSXa9i9e26yXnK08zUcdjEn9iZbDr12cG6kdWk/845x562.jpg",
+              "width": 845
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/IzZUTmSXa9i9e26yXnK08zUcdjEn9iZbDr12cG6kdWk/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/IzZUTmSXa9i9e26yXnK08zUcdjEn9iZbDr12cG6kdWk/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/IzZUTmSXa9i9e26yXnK08zUcdjEn9iZbDr12cG6kdWk/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/IzZUTmSXa9i9e26yXnK08zUcdjEn9iZbDr12cG6kdWk/845x562.jpg",
+          "width": 845
+        },
+        "imageCaption": "路面のキッチンで一つひとつ調理される",
+        "sectionTitle": "コーアン・カオマンガイ・プラトゥーナム（Go-Ang Kaomunkai Pratunam）"
+      },
+      {
+        "description": "次に紹介するのは、1932年創業のカオマンガイ専門店「クアンヘン」。こちらのお店はイメージカラーから“緑のカオマンガイ”と呼ばれ、「コーアン・カオマンガイ・プラトゥーナム」と並び2大カオマンガイ店として現地でも特に有名です。定番の茹でチキンをのせたカオマンガイは、ジューシーなモモ肉とさっぱりとしたムネ肉のミックスで、どちらの美味しさも味わえる逸品。また、茹でチキンと揚げチキンをミックスした「カオマンガイトム\u0026ガイトード」は、食感や旨みの違いを一度に楽しめます。揚げチキンはスイートチリソースをかけて食べるのがおすすめです。DATAKuang Heng住所：936 Petchaburi Rd., Makkasan Rajthanee営業時間：6～22時定休日：なし",
+        "image": {
+          "height": 3840,
+          "sourceUrl": "https://a.mktgcdn.com/p/BEoJLMX-YMTatMUTU_JfDM42Ekjj6hl3Pf1JC9PrgVU/5760x3840.jpg",
+          "thumbnails": [
+            {
+              "height": 3840,
+              "url": "https://a.mktgcdn.com/p-sandbox/fEwzwnJg7fyZPOmRHNv_s9t-rW2uKLn6X8fhhZwqrNg/5760x3840.jpg",
+              "width": 5760
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/fEwzwnJg7fyZPOmRHNv_s9t-rW2uKLn6X8fhhZwqrNg/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/fEwzwnJg7fyZPOmRHNv_s9t-rW2uKLn6X8fhhZwqrNg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/fEwzwnJg7fyZPOmRHNv_s9t-rW2uKLn6X8fhhZwqrNg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/fEwzwnJg7fyZPOmRHNv_s9t-rW2uKLn6X8fhhZwqrNg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fEwzwnJg7fyZPOmRHNv_s9t-rW2uKLn6X8fhhZwqrNg/5760x3840.jpg",
+          "width": 5760
+        },
+        "imageCaption": "カオマンガイトム\u0026ガイトードB50",
+        "sectionTitle": "クアンヘン（Kuang Heng）"
+      },
+      {
+        "description": "BTSサラデーン駅からほど近くのホテル「モンティエン・ホテル」の地階にある「ルアントン」は、老舗ホテルならではの落ち着いた雰囲気のカフェ\u0026レストラン。このお店の「海南チキンライス（カオマンガイ）」は、ホテルのシェフがつくる本格派で、店内にはカオマンガイ専用のカウンターまで用意。素材や調理法にこだわった贅沢な一皿がいただけます。旨みを凝縮した上品な味わいのチキンには、4種類のタレをお好みで。一人前B340とほかのお店に比べると少々値段は張りますが、その値段に裏付けされた美味を味わってみるのはいかがでしょうか。DATARuenton住所：The Montien Hotel, 54 Surawong Rd.営業時間：24時間（カオマンガイの提供は11～22時）定休日：なし",
+        "image": {
+          "height": 2832,
+          "sourceUrl": "https://a.mktgcdn.com/p/wmi7eIt7Nj6wkrc3C_4N7TjvQxSQCh-QbqGgd92S6BY/4256x2832.jpg",
+          "thumbnails": [
+            {
+              "height": 2832,
+              "url": "https://a.mktgcdn.com/p-sandbox/wmi7eIt7Nj6wkrc3C_4N7TjvQxSQCh-QbqGgd92S6BY/4256x2832.jpg",
+              "width": 4256
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/wmi7eIt7Nj6wkrc3C_4N7TjvQxSQCh-QbqGgd92S6BY/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/wmi7eIt7Nj6wkrc3C_4N7TjvQxSQCh-QbqGgd92S6BY/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/wmi7eIt7Nj6wkrc3C_4N7TjvQxSQCh-QbqGgd92S6BY/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/wmi7eIt7Nj6wkrc3C_4N7TjvQxSQCh-QbqGgd92S6BY/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wmi7eIt7Nj6wkrc3C_4N7TjvQxSQCh-QbqGgd92S6BY/4256x2832.jpg",
+          "width": 4256
+        },
+        "imageCaption": "海南チキンライスB340",
+        "sectionTitle": "ルアントン（Ruenton）"
+      },
+      {
+        "description": "「グリーン・ハウス」は、BTSナーナー駅近くのランドマーク「バンコク・ホテル」内にあるカフェ\u0026レストラン。入口はスクンビット・ロードに面していて、アクセスも良好です。ソファ席のある居心地の良い店内でぜひ食べたいのが、看板メニューの「海南風チキンライス（カオマンガイ）」。骨付きのモモ肉を使用したチキンは、トロトロの鶏皮とホロホロのお肉がとにかく美味！海南風ならではの3種類のタレはどれもチキンと相性抜群で、最後まで飽きることなく味わえます。ちなみに、このお店のもうひとつの看板メニュー「ローストダックのせ麺」B240も絶品なので、お腹に余裕があればぜひ。DATAThe Green House住所：GF The Landmark Bangkok Hotel, 138 Sukhumvit Rd.営業時間：6～23時定休日：なし",
+        "image": {
+          "height": 2249,
+          "sourceUrl": "https://a.mktgcdn.com/p/7ZlMiZQpn8xCgNelu9_7QNJMKG7YGdF0OjYsH-gjZpo/3379x2249.jpg",
+          "thumbnails": [
+            {
+              "height": 2249,
+              "url": "https://a.mktgcdn.com/p-sandbox/yu0UbTCGGcMUKUzcHpquMTpIwdYsHCA067Lcqy4yOXM/3379x2249.jpg",
+              "width": 3379
+            },
+            {
+              "height": 1265,
+              "url": "https://a.mktgcdn.com/p-sandbox/yu0UbTCGGcMUKUzcHpquMTpIwdYsHCA067Lcqy4yOXM/1900x1265.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/yu0UbTCGGcMUKUzcHpquMTpIwdYsHCA067Lcqy4yOXM/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/yu0UbTCGGcMUKUzcHpquMTpIwdYsHCA067Lcqy4yOXM/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/yu0UbTCGGcMUKUzcHpquMTpIwdYsHCA067Lcqy4yOXM/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yu0UbTCGGcMUKUzcHpquMTpIwdYsHCA067Lcqy4yOXM/3379x2249.jpg",
+          "width": 3379
+        },
+        "imageCaption": "海南風チキンライスB240",
+        "sectionTitle": "グリーン・ハウス（The Green House）"
+      },
+      {
+        "description": "最後に紹介するのは、BTSアーリー駅近くの屋台ストリートにあるカオマンガイ専門店「ジュブ・ジュブ・カオマンガイ」。ここのカオマンガイは、味付けや調理法の異なるチキンをいっぺんに味わえるが魅力です。閉店前に売り切れることも多いという看板メニューの「カオマンガイ4種盛り」B100は、王道の茹で鶏モモ肉、醤油風味の味付きモモ肉、シンプルな揚げ鶏、スパイシーな揚げ鶏が一皿に。昼時は多くのお客さんで混雑するため、朝食に訪れるのが狙い目。また、お店のオーナーのジュブさんは、日本語が堪能なので初めてのバンコク旅行者にもおすすめですよ。DATAJub Jub Khao Man Kai住所：BTS “ARI” Exit 3(Piyavan Tower, Phahonyotin Rd.), Samsennai営業時間：6～14時（売り切れ次第閉店）定休日：日曜",
+        "image": {
+          "height": 516,
+          "sourceUrl": "https://a.mktgcdn.com/p/-O1A4FSS8X2f40Vngut1Zv7Zi5YV5VGBgUTXWEaQdKc/773x516.jpg",
+          "thumbnails": [
+            {
+              "height": 516,
+              "url": "https://a.mktgcdn.com/p-sandbox/HjKJB2b4G5rSA8IrxheZxsV1QhhnTG5TELRiF-D1dSM/773x516.jpg",
+              "width": 773
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/HjKJB2b4G5rSA8IrxheZxsV1QhhnTG5TELRiF-D1dSM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/HjKJB2b4G5rSA8IrxheZxsV1QhhnTG5TELRiF-D1dSM/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/HjKJB2b4G5rSA8IrxheZxsV1QhhnTG5TELRiF-D1dSM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HjKJB2b4G5rSA8IrxheZxsV1QhhnTG5TELRiF-D1dSM/773x516.jpg",
+          "width": 773
+        },
+        "imageCaption": "鶏肉が吊るされているのはカオマンガイ店ならではの光景",
+        "sectionTitle": "ジュブ・ジュブ・カオマンガイ（Jub Jub Khao Man Kai）"
+      },
+      {
+        "imageCaption": "※2023年6月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2023-09-08",
+    "c_ap_HeroImage": {
+      "alternateText": "安くてウマイ！地元で人気のカオマンガイ5選【タイ　バンコク】",
+      "height": 2832,
+      "sourceUrl": "https://a.mktgcdn.com/p/rhTg9JmMaZ0rTKnJCTvb6avea32xTwJ5DussR2KC9U4/4256x2832.jpg",
+      "thumbnails": [
+        {
+          "height": 2832,
+          "url": "https://a.mktgcdn.com/p-sandbox/rhTg9JmMaZ0rTKnJCTvb6avea32xTwJ5DussR2KC9U4/4256x2832.jpg",
+          "width": 4256
+        },
+        {
+          "height": 1264,
+          "url": "https://a.mktgcdn.com/p-sandbox/rhTg9JmMaZ0rTKnJCTvb6avea32xTwJ5DussR2KC9U4/1900x1264.jpg",
+          "width": 1900
+        },
+        {
+          "height": 412,
+          "url": "https://a.mktgcdn.com/p-sandbox/rhTg9JmMaZ0rTKnJCTvb6avea32xTwJ5DussR2KC9U4/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "https://a.mktgcdn.com/p-sandbox/rhTg9JmMaZ0rTKnJCTvb6avea32xTwJ5DussR2KC9U4/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "https://a.mktgcdn.com/p-sandbox/rhTg9JmMaZ0rTKnJCTvb6avea32xTwJ5DussR2KC9U4/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/rhTg9JmMaZ0rTKnJCTvb6avea32xTwJ5DussR2KC9U4/4256x2832.jpg",
+      "width": 4256
+    },
+    "c_ap_HeroImageCaption": "ジューシーなチキンがおいしいカオマンガイ",
+    "c_ap_LinkArticleSectionTitle": "タイのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "タイ旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/thailand/"
+      },
+      {
+        "linkText": "バンコクのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dBKK"
+      },
+      {
+        "linkText": "タイのホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/178/?freeword\u003d%E3%82%BF%E3%82%A4\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d178"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea4": [
+      "タイ"
+    ],
+    "c_ap_ShortDescription": "日本でもメジャーなタイ料理のひとつ「カオマンガイ」は、鶏油の旨みを吸ったご飯に、茹・蒸・揚などの鶏肉をのせていただくタイ風チキンライス。チキンスープが付いてくることがほとんどで、鶏のおいしさを余すところなく味わうことができます。本場タイのカオマンガイはリーズナブルな値段も人気の秘密！地元の方も通う人気カオマンガイ店をご紹介します。（写真：コーアン・カオマンガイ・プラトゥーナム）",
+    "c_ap_Tags": [
+      "バンコク",
+      "エスニック料理",
+      "カオマンガイ"
+    ],
+    "c_ap_Theme": [
+      "グルメ",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "安くてウマイ！地元で人気のカオマンガイ5選【タイ　バンコク】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "日本でもメジャーなタイ料理のひとつ「カオマンガイ」は、鶏油の旨みを吸ったご飯に、茹・蒸・揚などの鶏肉をのせていただくタイ風チキンライス。チキンスープが付いてくることがほとんどで、鶏のおいしさを余すところなく味わうことができます。本場タイのカオマンガイはリーズナブルな値段も人気の秘密！地元の方も通う人気カオマンガイ店をご紹介します。（写真：コーアン・カオマンガイ・プラトゥーナム）",
+    "c_metaTitle": "安くてウマイ！地元で人気のカオマンガイ5選【タイ　バンコク】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000082",
+    "c_searchArea2": "タイ",
+    "name": "安くてウマイ！地元で人気のカオマンガイ5選【タイ　バンコク】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "defaultDirectory_shan_li_xian",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1045019399"
+    ],
+    "dm_directoryChildren": [
+      "defaultDirectory_shan_li_xian_zhong_ju_mo_jun"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory"
+    ],
+    "name": "山梨県",
+    "slug": "山梨県"
+  },
+  "entityType": "ce_region",
+  "labels": []
+}

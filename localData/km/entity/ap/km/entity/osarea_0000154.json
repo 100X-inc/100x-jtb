@@ -1,0 +1,322 @@
+{
+  "$id": "ap_osarea_0000154",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "天空のリゾートプールとして知られる「インフィニティプール」や巨大カジノ「マリーナベイ･サンズ･カジノ」でおなじみのマリーナベイ・サンズ。ここで毎晩開催される「スぺクトラ」は、必見のナイトショーです。マリーナベイ･サンズ側からは、建物からレーザー光線が飛び出す様子を見られます。",
+        "image": {
+          "alternateText": "マリーナベイ・サンズ側から見るスぺクトラ",
+          "height": 2777,
+          "sourceUrl": "https://a.mktgcdn.com/p/2Rei2XwNucvaOCvYLIU5LCnaiUZjhZ_8nwhmjbG8WIc/4173x2777.jpg",
+          "thumbnails": [
+            {
+              "height": 2777,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZyGPI96ZBv7ss_PP6QvmbIEk0BBRFwfarHDPe8Icz_E/4173x2777.jpg",
+              "width": 4173
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZyGPI96ZBv7ss_PP6QvmbIEk0BBRFwfarHDPe8Icz_E/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZyGPI96ZBv7ss_PP6QvmbIEk0BBRFwfarHDPe8Icz_E/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZyGPI96ZBv7ss_PP6QvmbIEk0BBRFwfarHDPe8Icz_E/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZyGPI96ZBv7ss_PP6QvmbIEk0BBRFwfarHDPe8Icz_E/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZyGPI96ZBv7ss_PP6QvmbIEk0BBRFwfarHDPe8Icz_E/4173x2777.jpg",
+          "width": 4173
+        },
+        "imageCaption": "マリーナベイ・サンズ側から見るスぺクトラ",
+        "sectionTitle": "スペクトラ（マリーナベイ・サンズ） （Spectra）"
+      },
+      {
+        "description": "水のスクリーンに浮かび上がるビジュアルアートは見ごたえ満点です。色鮮やかな花などが映し出され、レーザー光線も乱舞。イベント･プラザの中央前列では水しぶきも飛んできます。",
+        "image": {
+          "alternateText": "スクリーンに浮かぶビジュアルアート",
+          "height": 1605,
+          "sourceUrl": "https://a.mktgcdn.com/p/2k5bonq4e8Lh5vGci5Ws1zAuJi_H7pwTykHGprPpCm0/2407x1605.jpg",
+          "thumbnails": [
+            {
+              "height": 1605,
+              "url": "https://a.mktgcdn.com/p-sandbox/9cXBVW4msd29GS3L2Gb2gJjO6OgYyYGPp9ARCkluKNM/2407x1605.jpg",
+              "width": 2407
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/9cXBVW4msd29GS3L2Gb2gJjO6OgYyYGPp9ARCkluKNM/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/9cXBVW4msd29GS3L2Gb2gJjO6OgYyYGPp9ARCkluKNM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/9cXBVW4msd29GS3L2Gb2gJjO6OgYyYGPp9ARCkluKNM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/9cXBVW4msd29GS3L2Gb2gJjO6OgYyYGPp9ARCkluKNM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9cXBVW4msd29GS3L2Gb2gJjO6OgYyYGPp9ARCkluKNM/2407x1605.jpg",
+          "width": 2407
+        },
+        "imageCaption": "スクリーンに浮かぶビジュアルアート",
+        "sectionTitle": "ガーデン・ラプソディー（ガーデンズ・バイ・ザ・ベイ）Garden Rhapsody"
+      },
+      {
+        "description": "マーライオン・パーク側から見るのもオススメ。マリーナベイ・サンズとは少し距離が離れますが、マーライオンの背中越しに光り輝く巨大な建築の姿が良く映えます。SpectraDATA10 Bayfront Ave.(マリーナベイ･サンズ) イベントプラザ前営業時間：20時〜、21時〜（金･土曜は20時〜、21時〜、22時〜）所要約15分定休日：なし料金：無料",
+        "image": {
+          "alternateText": "少し離れた場所から眺めるのも◎",
+          "height": 737,
+          "sourceUrl": "https://a.mktgcdn.com/p/XvnTuC8KkznWuLobG9WvsLuLHum3rJ0z9q9wyYI5Sb4/1104x737.jpg",
+          "thumbnails": [
+            {
+              "height": 737,
+              "url": "https://a.mktgcdn.com/p-sandbox/DXCQisF6yFPXEbuLuBcbbAsLNFQidOzV2d_V6Kf_vpA/1104x737.jpg",
+              "width": 1104
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/DXCQisF6yFPXEbuLuBcbbAsLNFQidOzV2d_V6Kf_vpA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/DXCQisF6yFPXEbuLuBcbbAsLNFQidOzV2d_V6Kf_vpA/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/DXCQisF6yFPXEbuLuBcbbAsLNFQidOzV2d_V6Kf_vpA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DXCQisF6yFPXEbuLuBcbbAsLNFQidOzV2d_V6Kf_vpA/1104x737.jpg",
+          "width": 1104
+        },
+        "imageCaption": "少し離れた場所から眺めるのも◎"
+      },
+      {
+        "description": "マリーナ湾に面する101haの広大な敷地にさまざまな庭園が造られ、世界各国の植物観察が楽しめる「ガーデンズ・バイ・ザ・ベイ」。ここで開催されるナイトショーが「ガーデン･ラプソディー」です。",
+        "image": {
+          "alternateText": "スーパーツリー･グローヴは高さ25～50ｍ",
+          "height": 2178,
+          "sourceUrl": "https://a.mktgcdn.com/p/3N9KnPd_SxFXiN36HWeWWEUh3tKKpE6yL79ML6ZKajg/3267x2178.jpg",
+          "thumbnails": [
+            {
+              "height": 2178,
+              "url": "https://a.mktgcdn.com/p-sandbox/_7YQd37M1Bdg7RZfZNtWoh-rXgP5JHbpxcnNRIAfyw4/3267x2178.jpg",
+              "width": 3267
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/_7YQd37M1Bdg7RZfZNtWoh-rXgP5JHbpxcnNRIAfyw4/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/_7YQd37M1Bdg7RZfZNtWoh-rXgP5JHbpxcnNRIAfyw4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/_7YQd37M1Bdg7RZfZNtWoh-rXgP5JHbpxcnNRIAfyw4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/_7YQd37M1Bdg7RZfZNtWoh-rXgP5JHbpxcnNRIAfyw4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_7YQd37M1Bdg7RZfZNtWoh-rXgP5JHbpxcnNRIAfyw4/3267x2178.jpg",
+          "width": 3267
+        },
+        "imageCaption": "スーパーツリー･グローヴは高さ25～50ｍ"
+      },
+      {
+        "description": "空に向かって花びらを広げたように立つ12本の巨大な人工ツリー｢スーパーツリー･グローヴ｣がライトアップされ、音楽に合わせてさまざまな色に変化します。",
+        "image": {
+          "alternateText": "ツリーは様々な色に変化",
+          "height": 984,
+          "sourceUrl": "https://a.mktgcdn.com/p/v94gbBuZqTvSeBQdNeTm3k7ceQmg4yspnXBqu8JTPbI/1478x984.jpg",
+          "thumbnails": [
+            {
+              "height": 984,
+              "url": "https://a.mktgcdn.com/p-sandbox/gxOH30bt2ZpSmd_1j7S-ujRr87xXzBI0rR_ga5kUDmQ/1478x984.jpg",
+              "width": 1478
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/gxOH30bt2ZpSmd_1j7S-ujRr87xXzBI0rR_ga5kUDmQ/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/gxOH30bt2ZpSmd_1j7S-ujRr87xXzBI0rR_ga5kUDmQ/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/gxOH30bt2ZpSmd_1j7S-ujRr87xXzBI0rR_ga5kUDmQ/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gxOH30bt2ZpSmd_1j7S-ujRr87xXzBI0rR_ga5kUDmQ/1478x984.jpg",
+          "width": 1478
+        },
+        "imageCaption": "ツリーは様々な色に変化"
+      },
+      {
+        "description": "スーパーツリー･グローヴ内ならどこからでもよく見えます。人気は、ツリーの下に設置されているベンチですが、ツリーに近い場所は見物客で混雑するので、少し遠くから全景を見るのもおすすめです。まるで宇宙空間のようなきらめきの世界を体感してみてはいかがでしょうか。Garden RhapsodyDATA住所：18 Marina Gardens Dr. （ガーデンズ･バイ・ザ･ベイ スーパーツリー･グローヴ）営業時間：19時45分〜、20時45分〜定休日：なし料金：無料※2023年11月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。",
+        "image": {
+          "alternateText": "オレンジや緑、青などカラフルな光がツリーを包む",
+          "height": 795,
+          "sourceUrl": "https://a.mktgcdn.com/p/tn-TXTmc1U5qGy-m5D1-9pxtm_cUb1_Bt2CBqCAL7Ew/1193x795.jpg",
+          "thumbnails": [
+            {
+              "height": 795,
+              "url": "https://a.mktgcdn.com/p-sandbox/A27kBxYp3SgQzFCXujhiXUpEMuF-lo8Z4a4u_rUWUA8/1193x795.jpg",
+              "width": 1193
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/A27kBxYp3SgQzFCXujhiXUpEMuF-lo8Z4a4u_rUWUA8/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/A27kBxYp3SgQzFCXujhiXUpEMuF-lo8Z4a4u_rUWUA8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/A27kBxYp3SgQzFCXujhiXUpEMuF-lo8Z4a4u_rUWUA8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/A27kBxYp3SgQzFCXujhiXUpEMuF-lo8Z4a4u_rUWUA8/1193x795.jpg",
+          "width": 1193
+        },
+        "imageCaption": "オレンジや緑、青などカラフルな光がツリーを包む"
+      }
+    ],
+    "c_ap_DatePosted": "2024-02-27",
+    "c_ap_HeroImage": {
+      "alternateText": "光と音楽が夜空に舞う、幻想的なナイトショーを楽しむ【シンガポール】",
+      "height": 611,
+      "sourceUrl": "https://a.mktgcdn.com/p/-yqgsuLeke0LJ9x09XAxGZ8MN89Os0qp5koJyPjqH6E/1555x611.jpg",
+      "thumbnails": [
+        {
+          "height": 611,
+          "url": "https://a.mktgcdn.com/p-sandbox/cUY447gcuJekuxHA903HdoC24xMihJgoX503Somr-S0/1555x611.jpg",
+          "width": 1555
+        },
+        {
+          "height": 243,
+          "url": "https://a.mktgcdn.com/p-sandbox/cUY447gcuJekuxHA903HdoC24xMihJgoX503Somr-S0/619x243.jpg",
+          "width": 619
+        },
+        {
+          "height": 236,
+          "url": "https://a.mktgcdn.com/p-sandbox/cUY447gcuJekuxHA903HdoC24xMihJgoX503Somr-S0/600x236.jpg",
+          "width": 600
+        },
+        {
+          "height": 77,
+          "url": "https://a.mktgcdn.com/p-sandbox/cUY447gcuJekuxHA903HdoC24xMihJgoX503Somr-S0/196x77.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/cUY447gcuJekuxHA903HdoC24xMihJgoX503Somr-S0/1555x611.jpg",
+      "width": 1555
+    },
+    "c_ap_HeroImageCaption": "マリーナ湾を無数の光が照らす",
+    "c_ap_LinkArticleSectionTitle": "シンガポールのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "シンガポール旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/singapore/"
+      },
+      {
+        "linkText": "シンガポールのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dSIN"
+      },
+      {
+        "linkText": "シンガポールのホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/161/?freeword\u003d%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d161"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea4": [
+      "シンガポール"
+    ],
+    "c_ap_ShortDescription": "シンガポールの夜の定番といえばナイトショー。マリーナ湾にそびえる摩天楼や建造物を活かした壮大なナイトショーは、一見の価値ありです。シンガポールの２大ナイトショーといえば、マリーナベイ・サンズの「スぺクトラ」と、ガーデンズ・バイ・ザ・ベイの「ガーデン・ラプソディー」。夜空を光が彩る夢のような時間を楽しみましょう。（写真：マリーナベイ・サンズ）",
+    "c_ap_Tags": [
+      "ナイトショー",
+      "マリーナ・ベイ・サンズ",
+      "スぺクトラ",
+      "ガーデン・ラプソディー"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "一人旅",
+      "グループ",
+      "街あるき"
+    ],
+    "c_ap_Title": "光と音楽が夜空に舞う、幻想的なナイトショーを楽しむ【シンガポール】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "シンガポールの夜の定番といえばナイトショー。マリーナ湾にそびえる摩天楼や建造物を活かした壮大なナイトショーは、一見の価値ありです。シンガポールの２大ナイトショーといえば、マリーナベイ・サンズの「スぺクトラ」と、ガーデンズ・バイ・ザ・ベイの「ガーデン・ラプソディー」。夜空を光が彩る夢のような時間を楽しみましょう。（写真：マリーナベイ・サンズ）",
+    "c_metaTitle": "光と音楽が夜空に舞う、幻想的なナイトショーを楽しむ【シンガポール】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000154",
+    "name": "光と音楽が夜空に舞う、幻想的なナイトショーを楽しむ【シンガポール】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

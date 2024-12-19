@@ -1,0 +1,291 @@
+{
+  "$id": "ap_area_0000025",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ トラベルコンサルタント 武藤",
+      "link": "https://consultants.jtb.co.jp/cp_a_muto106",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿者にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVqV",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "かつて幕府がおかれていた「鎌倉」では座禅や写経などの体験ができるスポットもあり、目で見るだけの観光にとどまらない所が魅力です。鎌倉駅から続く「小町通り」では鎌倉ならではのグルメのほか土産店も立ち並んでいるので、旅の思い出を持ち帰るならぜひとも立ち寄りたい場所。古の時代から変わらない街並みと四季の移ろい、その両方を肌で感じられるエリアです。",
+        "image": {
+          "alternateText": "満開の桜の中に建つ「光明寺」",
+          "height": 734,
+          "sourceUrl": "https://a.mktgcdn.com/p/AjRburndG0VSVWenTrhcp1s0Sdm00EMG691NJwKQtWk/1102x734.jpg",
+          "thumbnails": [
+            {
+              "height": 734,
+              "url": "https://a.mktgcdn.com/p-sandbox/i_KP70fUTlT3dnjh4nw5e4eguGVvjYtQc1enJcXu_f4/1102x734.jpg",
+              "width": 1102
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/i_KP70fUTlT3dnjh4nw5e4eguGVvjYtQc1enJcXu_f4/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/i_KP70fUTlT3dnjh4nw5e4eguGVvjYtQc1enJcXu_f4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/i_KP70fUTlT3dnjh4nw5e4eguGVvjYtQc1enJcXu_f4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/i_KP70fUTlT3dnjh4nw5e4eguGVvjYtQc1enJcXu_f4/1102x734.jpg",
+          "width": 1102
+        },
+        "imageCaption": "満開の桜の中に建つ「光明寺」",
+        "sectionTitle": "【鎌倉】美しい四季と歴史を感じる古都"
+      },
+      {
+        "description": "国外のさまざまな文化でにぎわう「横浜」。誰もが知る中華街のひとつ「横浜中華街」やショッピング＆グルメの定番「赤レンガ倉庫」など、少し移動するだけで全く違う表情を見せる街並みが魅力です。みなとみらいなどの夜景が美しい近未来的な場所まで幅広く網羅した「横浜」エリアは、一日中遊び尽くしても足りないほどです。",
+        "image": {
+          "alternateText": "イベント会場としてもにぎわう「赤レンガ倉庫」",
+          "height": 1267,
+          "sourceUrl": "https://a.mktgcdn.com/p/vdqW_cKsvFtL40gruPWMdIzb_SAlSpo3gEEaP96GZMg/1898x1267.jpg",
+          "thumbnails": [
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/JuvO4nc1pq5bnpeZ42RDk4Z8vI--6hqWBlDZIWlVtAE/1898x1267.jpg",
+              "width": 1898
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/JuvO4nc1pq5bnpeZ42RDk4Z8vI--6hqWBlDZIWlVtAE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/JuvO4nc1pq5bnpeZ42RDk4Z8vI--6hqWBlDZIWlVtAE/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/JuvO4nc1pq5bnpeZ42RDk4Z8vI--6hqWBlDZIWlVtAE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JuvO4nc1pq5bnpeZ42RDk4Z8vI--6hqWBlDZIWlVtAE/1898x1267.jpg",
+          "width": 1898
+        },
+        "imageCaption": "イベント会場としてもにぎわう「赤レンガ倉庫」",
+        "sectionTitle": "【横浜】異国情緒漂う街並みから夜景まで盛りだくさん"
+      },
+      {
+        "description": "国内有数の温泉地として圧倒的な知名度を誇る「箱根」は、温泉はもちろん食事処も多数点在。お店ごとにさまざまな個性があるだけでなく、そこで味わえるグルメもバラエティに富んでいるため、何度訪れても魅力を新たな発見できるでしょう。また、アートの街という一面も持ち合わせており、じっくり作品を鑑賞して温泉でリフレッシュすれば心も体も癒されること間違いなしです。",
+        "image": {
+          "alternateText": "「恩賜箱根公園」では芦ノ湖と富士山を望む絶景に出会える",
+          "height": 506,
+          "sourceUrl": "https://a.mktgcdn.com/p/XbLIg2wuh43gd19Jj581Lpi47L7lW8anGdfbJ7_fFQY/758x506.jpg",
+          "thumbnails": [
+            {
+              "height": 506,
+              "url": "https://a.mktgcdn.com/p-sandbox/yOI6rKJ42nrRroMdFNUWybnZrsyFVhxZhj70AvElkYk/758x506.jpg",
+              "width": 758
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/yOI6rKJ42nrRroMdFNUWybnZrsyFVhxZhj70AvElkYk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/yOI6rKJ42nrRroMdFNUWybnZrsyFVhxZhj70AvElkYk/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yOI6rKJ42nrRroMdFNUWybnZrsyFVhxZhj70AvElkYk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yOI6rKJ42nrRroMdFNUWybnZrsyFVhxZhj70AvElkYk/758x506.jpg",
+          "width": 758
+        },
+        "imageCaption": "「恩賜箱根公園」では芦ノ湖と富士山を望む絶景に出会える",
+        "sectionTitle": "【箱根】大自然とアートが満喫できる国内有数の温泉地"
+      },
+      {
+        "description": "東京都内から1時間程度で訪れられる「江ノ島」。レトロで温かみのある「江ノ電」にのって、潮風を感じながら開放的な気分で海鮮グルメを楽しみましょう。島の豊かな自然は四季の移り変わりを感じさせ、夏以外に訪れても十分に江ノ島の魅力を満喫できます。最後は美しい夕日が旅の締めくくりを飾ってくれるでしょう。",
+        "image": {
+          "alternateText": "一日の終わりを告げる美しい夕日",
+          "height": 2240,
+          "sourceUrl": "https://a.mktgcdn.com/p/YsN8xIEtWAQhCf7-xwF83qJqHCbkPbkUPVbRmWQtU6Q/3360x2240.jpg",
+          "thumbnails": [
+            {
+              "height": 2240,
+              "url": "https://a.mktgcdn.com/p-sandbox/zHw2iTBTe5NjxiuvwSwwxO8E5cuC0b-UOcgSA4a8QuQ/3360x2240.jpg",
+              "width": 3360
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/zHw2iTBTe5NjxiuvwSwwxO8E5cuC0b-UOcgSA4a8QuQ/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/zHw2iTBTe5NjxiuvwSwwxO8E5cuC0b-UOcgSA4a8QuQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/zHw2iTBTe5NjxiuvwSwwxO8E5cuC0b-UOcgSA4a8QuQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/zHw2iTBTe5NjxiuvwSwwxO8E5cuC0b-UOcgSA4a8QuQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zHw2iTBTe5NjxiuvwSwwxO8E5cuC0b-UOcgSA4a8QuQ/3360x2240.jpg",
+          "width": 3360
+        },
+        "imageCaption": "一日の終わりを告げる美しい夕日",
+        "sectionTitle": "【江ノ島】都内からも気軽に立ち寄れるレジャーアイランド"
+      },
+      {
+        "description": "●合わせて読みたい神奈川県の観光情報▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_area_0000026\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e【神奈川県_横浜・鎌倉】神奈川の定番スポットを押さえた王道の一泊二日モデルコース\u003c/a\u003e\u003c/span\u003e▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_area_0000027\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e【神奈川県】鎌倉を代表する観光スポット・鶴岡八幡宮の巡り方\u003c/a\u003e\u003c/span\u003e",
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-08-20",
+    "c_ap_HeroImage": {
+      "alternateText": "【神奈川県】異国情緒あふれる横浜から古都・鎌倉まで！さまざまな国と時代が混ざり合う神奈川の見どころ4エリア紹介！",
+      "height": 1654,
+      "sourceUrl": "https://a.mktgcdn.com/p/5jKA_b_obwUN51suqkS6RporudzsnPhKMN5DIh1JwgQ/2205x1654.jpg",
+      "thumbnails": [
+        {
+          "height": 1654,
+          "url": "https://a.mktgcdn.com/p-sandbox/5SbB47MRp_KLaTtUbTSofY2NXRsFV22KVr48XME9MPY/2205x1654.jpg",
+          "width": 2205
+        },
+        {
+          "height": 1425,
+          "url": "https://a.mktgcdn.com/p-sandbox/5SbB47MRp_KLaTtUbTSofY2NXRsFV22KVr48XME9MPY/1900x1425.jpg",
+          "width": 1900
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/5SbB47MRp_KLaTtUbTSofY2NXRsFV22KVr48XME9MPY/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/5SbB47MRp_KLaTtUbTSofY2NXRsFV22KVr48XME9MPY/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/5SbB47MRp_KLaTtUbTSofY2NXRsFV22KVr48XME9MPY/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/5SbB47MRp_KLaTtUbTSofY2NXRsFV22KVr48XME9MPY/2205x1654.jpg",
+      "width": 2205
+    },
+    "c_ap_LinkArticleSectionTitle": "神奈川県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "神奈川県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/kanagawa/"
+      },
+      {
+        "linkText": "神奈川旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/kanagawa/"
+      },
+      {
+        "linkText": "『温泉のある宿』 神奈川県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/kanagawa/feature/k_onsen/"
+      },
+      {
+        "linkText": "横浜のホテル・旅館・宿おすすめランキング",
+        "uRL": "https://www.jtb.co.jp/ranking/kokunai/yokohama/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "関東全般",
+      "神奈川県"
+    ],
+    "c_ap_ShortDescription": "エリアごとに全く違う表情をもつ神奈川県には、老若男女が楽しめる観光スポットが点在。異文化に触れる「横浜中華街」や国内有数の温泉地「箱根」など、一回の旅行では味わいつくせないほどの魅力にあふれています。ここでは、神奈川に足を運ぶならぜひとも訪れておきたい主要エリアを4つピックアップしてご紹介します。",
+    "c_ap_Tags": [
+      "神奈川",
+      "鎌倉",
+      "横浜",
+      "箱根",
+      "江ノ島"
+    ],
+    "c_ap_Theme": [
+      "自然・山",
+      "建築・史跡",
+      "歴史・地理",
+      "街あるき",
+      "グルメ"
+    ],
+    "c_ap_Title": "異国情緒あふれる横浜から古都・鎌倉まで！さまざまな国と時代が混ざり合う神奈川のみどころ4エリア紹介！【神奈川県】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "エリアごとに全く違う表情をもつ神奈川県には、老若男女が楽しめる観光スポットが点在。異文化に触れる「横浜中華街」や国内有数の温泉地「箱根」など、一回の旅行では味わいつくせないほどの魅力にあふれています。ここでは…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "【神奈川県】異国情緒あふれる横浜から古都・鎌倉まで！さまざまな国と時代が混ざり合う神奈川の見どころ4エリア紹介！ | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_area_0000025",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "関東全般, 神奈川県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "【神奈川県】異国情緒あふれる横浜から古都・鎌倉まで！さまざまな国と時代が混ざり合う神奈川の見どころ4エリア紹介！",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,48 @@
+{
+  "$id": "news_pa_karuizawa",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreasCTA": {
+      "label": "軽井沢",
+      "link": "https://www.jtb.co.jp/news/list/index.html?tag\u003d軽井沢",
+      "linkType": "URL"
+    },
+    "c_news_PopularAreasImage": {
+      "height": 3648,
+      "sourceUrl": "https://a.mktgcdn.com/p/58Cawwe8ZY4LRmz0l6nI_L2rjYS-ehPEXa4b_U6d92o/5472x3648.jpg",
+      "thumbnails": [
+        {
+          "height": 3648,
+          "url": "https://a.mktgcdn.com/p-sandbox/58Cawwe8ZY4LRmz0l6nI_L2rjYS-ehPEXa4b_U6d92o/5472x3648.jpg",
+          "width": 5472
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/58Cawwe8ZY4LRmz0l6nI_L2rjYS-ehPEXa4b_U6d92o/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/58Cawwe8ZY4LRmz0l6nI_L2rjYS-ehPEXa4b_U6d92o/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/58Cawwe8ZY4LRmz0l6nI_L2rjYS-ehPEXa4b_U6d92o/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/58Cawwe8ZY4LRmz0l6nI_L2rjYS-ehPEXa4b_U6d92o/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/58Cawwe8ZY4LRmz0l6nI_L2rjYS-ehPEXa4b_U6d92o/5472x3648.jpg",
+      "width": 5472
+    },
+    "name": "軽井沢"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

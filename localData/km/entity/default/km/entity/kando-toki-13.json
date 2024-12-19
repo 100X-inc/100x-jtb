@@ -1,0 +1,40 @@
+{
+  "$id": "kando-toki-13",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/13_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d44.125018%2C145.077865",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "海・湖・川・滝",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "「知床五湖」は知床半島にある5つの小さな湖の総称です。それぞれの湖に固有の名称があるわけではありませんが、時計回りに「一湖」から「五湖」までの番号で呼ばれています。この五湖は遊歩道でめぐることができ、1周にかかる時間はおよそ1時間30分ほど。ただし開園期間も時期によって散策できるエリアが変わり、 エリアによってはツアーの手続きが必要な場合もあります。知床五湖のある場所自体がヒグマの生息地でもあるため、新緑の時期はヒグマに対する対応技術を持った登録引率者によるツアーへ参加することで、五湖の散策を行うことができます。一部エリアには往復1.6kmの高架木道が整備されているので、一湖だけであれば、開園中は手続きなしで往復することができます。\n見所・お勧めポイント",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/13.asp",
+    "name": "新緑の知床五湖"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

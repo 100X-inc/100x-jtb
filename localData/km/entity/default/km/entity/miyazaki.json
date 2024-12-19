@@ -1,0 +1,60 @@
+{
+  "$id": "miyazaki",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "kyushu"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_y_ishihara225_012",
+      "news_ap_a_ebe517_005",
+      "news_ap_a_ebe517_002",
+      "news_ap_y_hotate510_003",
+      "news_ap_k_anzai602_003",
+      "news_ap_a_sato260_003",
+      "news_ap_m_tachibana004_001"
+    ],
+    "c_metaDescription": "宮崎に関する記事をピックアップ！JTBニュースでは、宮崎で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 宮崎 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "宮崎",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/pF4gXC12rBlbb8XsSWG3POf7Q5FyOH5sz09TGIWm3yg/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/pfN09zbyI0-5J0D2UhYAWl9JyIz34XkmDeCRbAY6KQg/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/pfN09zbyI0-5J0D2UhYAWl9JyIz34XkmDeCRbAY6KQg/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/pfN09zbyI0-5J0D2UhYAWl9JyIz34XkmDeCRbAY6KQg/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/pfN09zbyI0-5J0D2UhYAWl9JyIz34XkmDeCRbAY6KQg/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/pfN09zbyI0-5J0D2UhYAWl9JyIz34XkmDeCRbAY6KQg/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/pfN09zbyI0-5J0D2UhYAWl9JyIz34XkmDeCRbAY6KQg/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "宮崎",
+    "slug": "kokunai/kyushu/miyazaki"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

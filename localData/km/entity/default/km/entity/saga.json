@@ -1,0 +1,61 @@
+{
+  "$id": "saga",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "kyushu"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_chiki_100172",
+      "news_ap_y_ishihara225_015",
+      "news_ap_r_fukuhiro306_004",
+      "news_ap_m_tachibana004_004",
+      "news_ap_chiki_100121",
+      "news_ap_h_nakamura327_001",
+      "news_ap_h_tominaga084_007",
+      "news_ap_a_yoshida349_004"
+    ],
+    "c_metaDescription": "佐賀に関する記事をピックアップ！JTBニュースでは、佐賀で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 佐賀 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "佐賀",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/jsh9ZcjRFyP6Fk9-qwvZeJrM71f7mupQISkII69g9A0/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/cf4eYCNt8_JNRKBE4l002rDw6__PRYRuZ8HGqtzNeJk/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/cf4eYCNt8_JNRKBE4l002rDw6__PRYRuZ8HGqtzNeJk/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/cf4eYCNt8_JNRKBE4l002rDw6__PRYRuZ8HGqtzNeJk/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/cf4eYCNt8_JNRKBE4l002rDw6__PRYRuZ8HGqtzNeJk/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/cf4eYCNt8_JNRKBE4l002rDw6__PRYRuZ8HGqtzNeJk/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/cf4eYCNt8_JNRKBE4l002rDw6__PRYRuZ8HGqtzNeJk/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "佐賀",
+    "slug": "kokunai/kyushu/saga"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

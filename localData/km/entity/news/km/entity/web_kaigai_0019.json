@@ -1,0 +1,365 @@
+{
+  "$id": "news_web_kaigai_0019",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1272,
+      "sourceUrl": "https://a.mktgcdn.com/p/soPyy_KvWkKUZqWqsFM84a1gv7WXmloTQ2OLsf3yZFk/1700x1272.jpg",
+      "thumbnails": [
+        {
+          "height": 1272,
+          "url": "https://a.mktgcdn.com/p-sandbox/soPyy_KvWkKUZqWqsFM84a1gv7WXmloTQ2OLsf3yZFk/1700x1272.jpg",
+          "width": 1700
+        },
+        {
+          "height": 463,
+          "url": "https://a.mktgcdn.com/p-sandbox/soPyy_KvWkKUZqWqsFM84a1gv7WXmloTQ2OLsf3yZFk/619x463.jpg",
+          "width": 619
+        },
+        {
+          "height": 449,
+          "url": "https://a.mktgcdn.com/p-sandbox/soPyy_KvWkKUZqWqsFM84a1gv7WXmloTQ2OLsf3yZFk/600x449.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/soPyy_KvWkKUZqWqsFM84a1gv7WXmloTQ2OLsf3yZFk/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/soPyy_KvWkKUZqWqsFM84a1gv7WXmloTQ2OLsf3yZFk/1700x1272.jpg",
+      "width": 1700
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ヨーロッパの記事一覧はこちら",
+        "uRL": "https://www.jtb.co.jp/news/list/kaigai/europe"
+      },
+      {
+        "linkText": "オランダ・ベルギー旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/holland-belgium/"
+      },
+      {
+        "linkText": "オランダ・ベルギーの添乗員同行ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?houmen\u003d01\u0026kuni\u003dNL"
+      },
+      {
+        "linkText": "オランダの現地ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aEUR/bNL/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "【JTB】現地スタッフがおすすめする、オランダ観光！世界遺産などの人気スポットや一度は訪れたい観光名所、さらに現地グルメ情報まで！旅のプロが厳選した、オランダ観光を満喫するための過ごし方をご紹介いたします。",
+    "c_ap_Tags": [
+      "グルメ",
+      "世界遺産",
+      "オランダ",
+      "ヨーロッパ",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "【JTB現地スタッフ厳選】オランダ観光のおすすめ観光スポットと楽しみ方",
+    "c_linkedArea3News": [
+      "netherlands"
+    ],
+    "c_metaDescription": "【JTB】現地スタッフがおすすめする、オランダ観光！世界遺産などの人気スポットや一度は訪れたい観光名所、さらに現地グルメ情報まで！旅のプロが厳選した、オランダ観光を満喫するための過ごし方をご紹介いたします。",
+    "c_metaTitle": "【JTB現地スタッフ厳選】オランダ観光のおすすめ観光スポットと楽しみ方",
+    "c_news_CTAs": [
+      {
+        "label": "オランダ・ベルギー旅行を探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/holland-belgium/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "オランダ・ベルギーの添乗員同行ツアーを探す",
+        "link": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?houmen\u003d01\u0026kuni\u003dNL",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "オランダのホテルを探す",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/129/?",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "アムステルダム行きの航空券を探す",
+        "link": "https://www.jtb.co.jp/ovs_air_static/europe/holland/amsterdam/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "オランダ観光の基本情報をみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/western_europe/kingdom_of_the_netherlands/index.html",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "アムステルダムのツアーを探す",
+          "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dest%5B0%5D.country\u003dNL\u0026sc.dest%5B0%5D.city\u003dAMS",
+          "linkType": "OTHER"
+        },
+        "description": "日本との時差はマイナス8時間、日本が正午のときにオランダは午前4時。ただし、サマータイム期間（3月最終日曜日～10月最終日曜日）はマイナス7時間です。春（4～5月）はチューリップが咲き、とくに美しい季節と言えます。夏でも気温は20度前後であまり暑くはならない日が多いです。夏至の頃は朝の4時頃に夜が明けはじめ、夜は21時を過ぎても明るいです。一方で冬の夜は長く、昼間もどんよりする日が多くなります。また冬至の頃は9時頃になっても薄暗く、16時過ぎに太陽が沈みはじめます。",
+        "image": {
+          "height": 1025,
+          "sourceUrl": "https://a.mktgcdn.com/p/qELF6n4x0tfsq-KkLpaSq_e8Um7Ylys7ch7Z7cAAi-U/1536x1025.jpg",
+          "thumbnails": [
+            {
+              "height": 1025,
+              "url": "https://a.mktgcdn.com/p-sandbox/qELF6n4x0tfsq-KkLpaSq_e8Um7Ylys7ch7Z7cAAi-U/1536x1025.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/qELF6n4x0tfsq-KkLpaSq_e8Um7Ylys7ch7Z7cAAi-U/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/qELF6n4x0tfsq-KkLpaSq_e8Um7Ylys7ch7Z7cAAi-U/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/qELF6n4x0tfsq-KkLpaSq_e8Um7Ylys7ch7Z7cAAi-U/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qELF6n4x0tfsq-KkLpaSq_e8Um7Ylys7ch7Z7cAAi-U/1536x1025.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "1．オランダの基本情報"
+      },
+      {
+        "cTA1": {
+          "label": "アムステルダムの現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aEUR/bNL/?keyWord\u003d%25E3%2582%25A2%25E3%2583%25A0%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25AB%25E3%2583%2580%25E3%2583%25A0\u0026searchFlag\u003d1",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "オランダの美術館を巡る現地ツアーをみる",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aEUR/bNL/?keyWord\u003d%25E7%25BE%258E%25E8%25A1%2593%25E9%25A4%25A8\u0026searchFlag\u003d1",
+          "linkType": "OTHER"
+        },
+        "description": "アムステルダムの美しい景観をたっぷりと味わえるのが、運河クルーズ。中央駅正面から出発する「運河めぐり」のボートなら、約１時間というお手軽さで、優雅にアムステルダムの街並みを楽しめます。コースには他にも、一流レストラン並みのコース料理が楽しめる「ディナークルーズ」や、ピザなどのスナックを楽しみながらの、ピザクルーズ、バーガークルーズなどもあり、お好みと旅のプランに合わせて楽しめます。橋の上から手を振る人々や、運河沿いを駆け抜ける自転車、そしてカーテンを開け放した大きな窓から見える人々の生活の様子など。アムステルダムの運河めぐりには、大都市とは違って、町に住む人々の息遣いが聞こえてくるような楽しみがあります。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/DxIWBTtVVkwGwC3c_qcpMOAAocsDomyNW_MZBBB9_iA/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/DxIWBTtVVkwGwC3c_qcpMOAAocsDomyNW_MZBBB9_iA/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/DxIWBTtVVkwGwC3c_qcpMOAAocsDomyNW_MZBBB9_iA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/DxIWBTtVVkwGwC3c_qcpMOAAocsDomyNW_MZBBB9_iA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/DxIWBTtVVkwGwC3c_qcpMOAAocsDomyNW_MZBBB9_iA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DxIWBTtVVkwGwC3c_qcpMOAAocsDomyNW_MZBBB9_iA/1536x1024.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "2．オランダの世界遺産・観光名所"
+      },
+      {
+        "cTA1": {
+          "label": "キンデルダイクの魅力をもっとみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/western_europe/kingdom_of_the_netherlands/RTM/123638/index.html",
+          "linkType": "OTHER"
+        },
+        "description": "オランダの風景を代表する風車。その歴史は14世紀までさかのぼります。風車は海抜よりも低い国土の灌漑事業のために作られはじめました。またオランダは、水との戦いの歴史があり、湿地や湖の水を風車によって汲み上げることで、少しずつ土地を広げてできた国だといえます。「世界は神が創りたもうた。オランダはオランダ人が創った」といわれるのは、そのためです。全盛期には1万基以上もの風車があったそうで、現在は1000基あまりが保存されています。",
+        "image": {
+          "height": 500,
+          "sourceUrl": "https://a.mktgcdn.com/p/-ASnhHi1v3vG46WqfBkG08_gm55o-sCmyXrEFputED8/640x500.jpg",
+          "thumbnails": [
+            {
+              "height": 500,
+              "url": "https://a.mktgcdn.com/p-sandbox/-ASnhHi1v3vG46WqfBkG08_gm55o-sCmyXrEFputED8/640x500.jpg",
+              "width": 640
+            },
+            {
+              "height": 484,
+              "url": "https://a.mktgcdn.com/p-sandbox/-ASnhHi1v3vG46WqfBkG08_gm55o-sCmyXrEFputED8/619x484.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/-ASnhHi1v3vG46WqfBkG08_gm55o-sCmyXrEFputED8/576x450.jpg",
+              "width": 576
+            },
+            {
+              "height": 153,
+              "url": "https://a.mktgcdn.com/p-sandbox/-ASnhHi1v3vG46WqfBkG08_gm55o-sCmyXrEFputED8/196x153.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-ASnhHi1v3vG46WqfBkG08_gm55o-sCmyXrEFputED8/640x500.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "アムステルダムの運河クルーズ"
+      },
+      {
+        "cTA1": {
+          "label": "コンセントヘボウの魅力をもっとみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/western_europe/kingdom_of_the_netherlands/AMS/112310/index.html",
+          "linkType": "OTHER"
+        },
+        "description": "オランダといえば「花の国」ですが、さすがに1年中お花畑を楽しめるわけではありません。しかし、1年を通して花でいっぱいの様子を見ることのできる場所があります。それが世界最大級の花市場「アールスメール」。世界中に輸出される、たくさんの花がカートに積み込まれている様子は圧巻です。また、フラワークロックと呼ばれる大きな競り用の時計を使って、競りが行われている様子も見どころで、一般の人も朝7時から見学することができます。アムステルダムからの距離は車で約1時間。アムステルダムの中央駅からバス172番で１本でアクセス可能です。また、花でいっぱいの様子を見るためには、ちょっと早起きして8時頃までに行くのがおすすめです。",
+        "image": {
+          "height": 499,
+          "sourceUrl": "https://a.mktgcdn.com/p/Vb4fxwrqvSo3hvZXcnYAKpvuJXh-YlGSgYhwCshRH3g/640x499.jpg",
+          "thumbnails": [
+            {
+              "height": 499,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vb4fxwrqvSo3hvZXcnYAKpvuJXh-YlGSgYhwCshRH3g/640x499.jpg",
+              "width": 640
+            },
+            {
+              "height": 483,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vb4fxwrqvSo3hvZXcnYAKpvuJXh-YlGSgYhwCshRH3g/619x483.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vb4fxwrqvSo3hvZXcnYAKpvuJXh-YlGSgYhwCshRH3g/577x450.jpg",
+              "width": 577
+            },
+            {
+              "height": 153,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vb4fxwrqvSo3hvZXcnYAKpvuJXh-YlGSgYhwCshRH3g/196x153.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Vb4fxwrqvSo3hvZXcnYAKpvuJXh-YlGSgYhwCshRH3g/640x499.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "キンデルダイク"
+      },
+      {
+        "cTA1": {
+          "label": "ゴッホ美術館の魅力をもっとみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/western_europe/french_republic/AVS/119466/index.html",
+          "linkType": "OTHER"
+        },
+        "description": "アムステルダムから約130キロ北上したところに、北ホーランド州とフリースランド州を結ぶ全長約30キロに渡る大堤防があります。1916年にオランダを襲った大洪水により、立ち上げられたこの国家事業はオランダの水との戦いの象徴でもあります。それまではゾイデル海と呼ばれていた海を堤防で完全に締め切って、水害を防ぎ、また干拓によってできた農地を開拓することにより、当時第一次世界大戦時の食料不足を補うというのが、この事業の目的でした。5年をかけてできた、この世界最大の堤防は、まだ建設機械などの発達していない時代に、石積みなど全て人力によって建設されました。堤防の途中には、展望台と休憩所があり、工事に関する資料などが展示されています。そしてこの展望台からは、まっすぐに一直線に伸びた堤防と、堤防をはさんで、北側の北海（ワッデン海）、南側のアイセル湖という壮観な眺めを、ご覧いただけます。オランダ人の自然に立ち向かう力強さを感じられるスポットの一つです。",
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://a.mktgcdn.com/p/HeNdFZnddNGNS3D0rn-zQG5neQ31r0FqlXdNEDW-uQI/427x640.jpg",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "https://a.mktgcdn.com/p-sandbox/HeNdFZnddNGNS3D0rn-zQG5neQ31r0FqlXdNEDW-uQI/427x640.jpg",
+              "width": 427
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/HeNdFZnddNGNS3D0rn-zQG5neQ31r0FqlXdNEDW-uQI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/HeNdFZnddNGNS3D0rn-zQG5neQ31r0FqlXdNEDW-uQI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HeNdFZnddNGNS3D0rn-zQG5neQ31r0FqlXdNEDW-uQI/427x640.jpg",
+          "width": 427
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "世界最大の花市場「アールスメール」"
+      },
+      {
+        "description": "アムステルダムは、ウィーンやベルリンと並び、世界三大オーケストラに数えられることもある『ロイヤル・コンセルトヘボウ管弦楽団』の本拠地です。「コンセルトヘボウ」というのは、コンサートホールという意味で、コンサートのために建てられたといだけあり、その音響には定評があります。また外観、内装とも豪華且つ重厚で、クラシック音楽を優雅に楽しめるホールだと言えます。",
+        "image": {
+          "height": 428,
+          "sourceUrl": "https://a.mktgcdn.com/p/2C3P_0dMz7jJtEOBVfAQyBOAvbhA5ZhjRgKXIXdquuQ/640x428.jpg",
+          "thumbnails": [
+            {
+              "height": 428,
+              "url": "https://a.mktgcdn.com/p-sandbox/2C3P_0dMz7jJtEOBVfAQyBOAvbhA5ZhjRgKXIXdquuQ/640x428.jpg",
+              "width": 640
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/2C3P_0dMz7jJtEOBVfAQyBOAvbhA5ZhjRgKXIXdquuQ/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/2C3P_0dMz7jJtEOBVfAQyBOAvbhA5ZhjRgKXIXdquuQ/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/2C3P_0dMz7jJtEOBVfAQyBOAvbhA5ZhjRgKXIXdquuQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2C3P_0dMz7jJtEOBVfAQyBOAvbhA5ZhjRgKXIXdquuQ/640x428.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "締め切り大堤防"
+      },
+      {
+        "description": "オランダの名物は、家庭料理を由来とした比較的シンプルな料理が多いです。中でも人気のあるメニューを、いくつかご紹介いたします。・「エルテンスープ」は豆を潰した濃厚なスープで、ソーセージの味がアクセントです。・「パンケーキ」はクレープより分厚く、ホットケーキより薄い生地に、生クリームやアイスクリームを乗せたデザートとして。あるいはチーズやハム、マッシュルームなどを乗せたピザ感覚の食事として楽しめます。・「鰊の塩漬け」は軽く塩したもので、生の食感に近く、生魚が苦手な方にはちょっと難しいかもしれません。・「ヒュッツポット」はマッシュポテトの上に牛肉の煮込みを乗せた、ボリューム満点の料理です。また番外編のB級グルメとして、オランダの「コロッケ」もおすすめです。。自動販売機で手軽に購入できる上、濃い味付けで癖になる味です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "コンセルトヘボウ"
+      },
+      {
+        "description": "アムステルダムで人気の博物館「ゴッホ美術館」や「アンネフランクハウス」などは、1年を通して世界中の観光客でにぎわっています。アンネフランクハウスは、事前にWeb でチケットを購入したチケット保持者以外は入場ができませんので、必ず、事前に購入が必要です。ゴッホ美術館も同様です。チケットはそれぞれ英語のホームページからクレジットカードで購入し、ご自宅のプリンターでプリントアウトするか、スマートフォンに保存して持参してください。",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．オランダのおすすめグルメ・料理"
+      },
+      {
+        "description": "アムステルダムを初めて訪れる人がまず驚くことの一つに、自転車の多さが挙げられます。車道や歩道が狭くても、自転車道だけはきちんと整備されているのが、アムステルダムという街です。また街中には、坂道も少なく移動手段として大変便利で、貸し自転車屋もたくさんあります。そして自転車に乗る際に気をつけなくてはいけないのが、「右側通行」のルールと、右折や左折の際には事前に手を横に出して合図をするということ。また、歩行者用の歩道を走ったり、信号無視などの交通違反は、自転車といえども高い罰金を払うことになってしまいますので、ご注意ください。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．オランダの現地スタッフ情報"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "「ゴッホ美術館」「アンネフランクハウス」のチケットの注意事項"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "知っておきたいアムステルダムの自転車ルール"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0015",
+      "news_web_kaigai_0014",
+      "news_web_kaigai_0018"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2020-10-21",
+    "c_news_UpdateDate": "2024-08-01",
+    "c_news_ViewCount": "1301",
+    "c_news_ViewCount2of2": "1301",
+    "c_news_ViewCountNum": "1301",
+    "c_news_ViewCountNumForSorting": "67",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/europe/netherlands/news_web_kaigai_0019",
+    "name": "【JTB現地スタッフ厳選】オランダ観光のおすすめ観光スポットと楽しみ方",
+    "slug": "kaigai/europe/netherlands/news_web_kaigai_0019",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

@@ -1,0 +1,1026 @@
+{
+  "$id": "news_web_kokunai_0010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 998,
+      "sourceUrl": "https://a.mktgcdn.com/p/azHhpgNDwjLKVfyJg0rrfjIQ6MWIl0Zut-B5P7gi80w/1330x998.jpg",
+      "thumbnails": [
+        {
+          "height": 998,
+          "url": "https://a.mktgcdn.com/p-sandbox/m1-BiWQ9Y3j7uS2vbZOFVHgjVlCwuEtGGVpT7XsUCeQ/1330x998.jpg",
+          "width": 1330
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/m1-BiWQ9Y3j7uS2vbZOFVHgjVlCwuEtGGVpT7XsUCeQ/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/m1-BiWQ9Y3j7uS2vbZOFVHgjVlCwuEtGGVpT7XsUCeQ/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/m1-BiWQ9Y3j7uS2vbZOFVHgjVlCwuEtGGVpT7XsUCeQ/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/m1-BiWQ9Y3j7uS2vbZOFVHgjVlCwuEtGGVpT7XsUCeQ/1330x998.jpg",
+      "width": 1330
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "金沢の旅行・ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/kanazawa/"
+      },
+      {
+        "linkText": "金沢のホテル・旅館を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/1701/"
+      },
+      {
+        "linkText": "石川県のホテル・旅館を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/ishikawa/"
+      },
+      {
+        "linkText": "JR利用のプランを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_jr/a/ishikawa/"
+      },
+      {
+        "linkText": "飛行機利用プランを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_air/a/ishikawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "アクセスの良さもあり、人気の旅行先となっている 北陸・金沢。\n\n金沢には美術館、小京都のような街並み、歴史的な庭園などの観光スポットや、海の幸・山の幸に富んだグルメなど、たくさんの魅力があります。\n\nそこで今回は、観光にも便利な金沢市内のおしゃれホテルから市内の旅館、少し足を延ばした温泉旅館まで、女子旅におすすめしたいホテル・旅館を厳選しました。\n観光と共に宿泊先にもこだわって、金沢旅行の思い出を色濃くしましょう！\n\n※この記事は2024年1月9日時点の情報です。情報は変動する可能性がございます。詳細や最新情報は各施設のホームページを必ずご参照ください。",
+    "c_ap_Tags": [
+      "温泉",
+      "夜景",
+      "スパ",
+      "リゾート",
+      "朝食",
+      "2泊3日",
+      "インスタ映え",
+      "国内の宿",
+      "女子旅",
+      "露天風呂付き客室",
+      "金沢"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "金沢の女子旅におすすめの宿15選！おしゃれホテルから近場の温泉旅館まで",
+    "c_linkedArea3News": [
+      "ishikawa"
+    ],
+    "c_metaDescription": "金沢で女子旅！そんな時におすすめしたいホテル・旅館を厳選しご紹介。金沢らしい洗練された「おしゃれホテル」や、少し足を延ばして訪れたい石川県内の「温泉旅館」など。金沢旅行の思い出を色濃くするために、宿泊先にもこだわろう！",
+    "c_metaTitle": "金沢の女子旅におすすめの宿15選！おしゃれホテルから近場の温泉旅館まで",
+    "c_news_CTAs": [
+      {
+        "label": "金沢のホテル・旅館を探す",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/1701/",
+        "linkType": "URL"
+      },
+      {
+        "label": "金沢の旅行・ツアーをみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/kanazawa/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5357048/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5357048/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5357048/plan/",
+          "linkType": "URL"
+        },
+        "cTA4": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5367011/plan/",
+          "linkType": "URL"
+        },
+        "description": "近年、金沢にはおしゃれなホテルが続々とオープンしており、ますます女子旅でも人気のエリアとなっています。金沢らしさただようデザイン性が高いホテルから、観光にも便利な駅近ホテルまで、女子旅におすすめのホテルをご紹介します。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/ph4SzXRLjPDEu5iBmEZsgMzMiqa6CqLMe4Kpo-U60XY/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/yboFzEEEo1C7C2Py6uEX-HVeqjHs5wG3PQQAxagvwKM/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/yboFzEEEo1C7C2Py6uEX-HVeqjHs5wG3PQQAxagvwKM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/yboFzEEEo1C7C2Py6uEX-HVeqjHs5wG3PQQAxagvwKM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yboFzEEEo1C7C2Py6uEX-HVeqjHs5wG3PQQAxagvwKM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yboFzEEEo1C7C2Py6uEX-HVeqjHs5wG3PQQAxagvwKM/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "浪漫ルーム　一例",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．金沢市内のおしゃれ・おすすめホテル9選"
+      },
+      {
+        "cTA1": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5357079/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5357079/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5357079/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357048/53570481300000146.jpg\" alt\u003d\" 金沢白鳥路　ホテル山楽\"\u003e金沢白鳥路　ホテル山楽は、金沢駅からバスに乗り、「兼六園下・金沢城」を下車後、徒歩約5分のところにあります。金沢城公園に隣接、兼六園やひがし茶屋街も徒歩圏内にあり、観光にも便利なので、観光も満喫しつつホテルにもこだわりたい方におすすめです。金沢の優美な街並みにぴったりな、大正ロマンのテイストあふれるホテルで、ロビーの装飾品や加賀の四季を描いたステンドグラス、客室の九谷焼のランプなど映えスポットがたくさんあります。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/ydCSvpIQhJh_ALgmCSmletmNxuxNosybmyWi6KaGttE/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/ydCSvpIQhJh_ALgmCSmletmNxuxNosybmyWi6KaGttE/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/ydCSvpIQhJh_ALgmCSmletmNxuxNosybmyWi6KaGttE/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ydCSvpIQhJh_ALgmCSmletmNxuxNosybmyWi6KaGttE/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/ydCSvpIQhJh_ALgmCSmletmNxuxNosybmyWi6KaGttE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ydCSvpIQhJh_ALgmCSmletmNxuxNosybmyWi6KaGttE/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "金沢白鳥路　ホテル山楽　天然温泉",
+        "sectionLevel": "h3",
+        "sectionTitle": "金沢白鳥路　ホテル山楽"
+      },
+      {
+        "cTA1": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5357091/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5357091/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5357091/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357048/53570480003810920.jpg\" alt\u003d\" 金沢白鳥路　ホテル山楽の客室\"\u003e「浪漫ルーム」「浪漫ラグジュアリールーム」では、バスタオルやフェイスタオルに今治タオルを採用。「大正ロマンをテーマに重厚感あふれるしつらえで「金沢らしさ」を求める女子旅にぴったりです。「浪漫ルーム」は、ステンドグラスや壁紙など室内の細部にまでこだわりを施した優雅な空間で、冷蔵庫内のアルコールやソフトドリンクがフリーなのも嬉しいポイントとなっています。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/LigDoW3B3KwIi13rgpEyuRTHcQEJK28RBS6sDtTmQh0/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/LigDoW3B3KwIi13rgpEyuRTHcQEJK28RBS6sDtTmQh0/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/LigDoW3B3KwIi13rgpEyuRTHcQEJK28RBS6sDtTmQh0/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/LigDoW3B3KwIi13rgpEyuRTHcQEJK28RBS6sDtTmQh0/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/LigDoW3B3KwIi13rgpEyuRTHcQEJK28RBS6sDtTmQh0/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/LigDoW3B3KwIi13rgpEyuRTHcQEJK28RBS6sDtTmQh0/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "スーペリアテラスツイン　一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "金沢白鳥路　ホテル山楽の客室"
+      },
+      {
+        "cTA1": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5357050/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5357050/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5357050/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357048/53570481300000084.jpg\" alt\u003d\" 市内では珍しい天然温泉\"\u003e金沢市内でありながら、天然温泉があるのも魅力のひとつ。泉質は炭酸水素塩泉、とろみを帯びた琥珀色の天然温泉、「美人の湯」とも言われています。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/Mc6r3Gh7fXhyhHdsRRId6WibKb1jjrQlarUjvTi6SHE/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/Mc6r3Gh7fXhyhHdsRRId6WibKb1jjrQlarUjvTi6SHE/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/Mc6r3Gh7fXhyhHdsRRId6WibKb1jjrQlarUjvTi6SHE/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Mc6r3Gh7fXhyhHdsRRId6WibKb1jjrQlarUjvTi6SHE/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Mc6r3Gh7fXhyhHdsRRId6WibKb1jjrQlarUjvTi6SHE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Mc6r3Gh7fXhyhHdsRRId6WibKb1jjrQlarUjvTi6SHE/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "ラウンジ「ハレの間」",
+        "sectionLevel": "h4",
+        "sectionTitle": "市内では珍しい天然温泉"
+      },
+      {
+        "cTA1": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5357082/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5357082/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5357082/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357079/53570791300000034.jpg\" alt\u003d\" 雨庵　金沢\"\u003e雨庵　金沢は、金沢駅からバスに乗り、「武蔵ヶ辻・近江町市場」を下車後、徒歩約5分のところにあります。近江町市場や兼六園など金沢の主要観光地が徒歩でまわれる好立地です。年間降水日数が多い金沢。そんな雨さえも旅の魅力にしてしまおうというコンセプトのホテルで、「雨庵」という名前には、「金沢の雨の日の風情も味わい尽くしてもらいたい」という想いが込められています。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/unt-m4FWV-HbmA2jFOaFoyfpSs8jQrJYHMOGNduN514/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/unt-m4FWV-HbmA2jFOaFoyfpSs8jQrJYHMOGNduN514/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/unt-m4FWV-HbmA2jFOaFoyfpSs8jQrJYHMOGNduN514/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/unt-m4FWV-HbmA2jFOaFoyfpSs8jQrJYHMOGNduN514/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/unt-m4FWV-HbmA2jFOaFoyfpSs8jQrJYHMOGNduN514/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/unt-m4FWV-HbmA2jFOaFoyfpSs8jQrJYHMOGNduN514/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "客室一例",
+        "sectionLevel": "h3",
+        "sectionTitle": "雨庵　金沢"
+      },
+      {
+        "cTA1": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5357094/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5357094/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5357094/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357079/53570791300000117.jpg\" alt\u003d\" 雨庵　金沢の客室\"\u003e客室は、室内につくられた坪庭や茶室をイメージした丸窓など、金沢らしさを感じることができる和モダンデザインとなっています。内風呂にもこだわり、お湯をまとうような新しい入浴スタイルを楽しめる肩湯付きのバスタブを採用しています。全室バス・トイレが分かれているのも嬉しいポイントです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/4mZShS3T_F6BemXTHrImzifQibggugjlxIU8EEuoSMs/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/4mZShS3T_F6BemXTHrImzifQibggugjlxIU8EEuoSMs/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/4mZShS3T_F6BemXTHrImzifQibggugjlxIU8EEuoSMs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/4mZShS3T_F6BemXTHrImzifQibggugjlxIU8EEuoSMs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/4mZShS3T_F6BemXTHrImzifQibggugjlxIU8EEuoSMs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4mZShS3T_F6BemXTHrImzifQibggugjlxIU8EEuoSMs/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "Roof Terrace Bar",
+        "sectionLevel": "h4",
+        "sectionTitle": "雨庵　金沢の客室"
+      },
+      {
+        "cTA1": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5357083/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5357083/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5357083/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357079/53570791300000045.jpg\" alt\u003d\" 旅の一部となるラウンジ「ハレの間」\"\u003e雨庵 金沢には、「ハレの間」というラウンジがあり、加賀棒茶（かがぼうちゃ）を楽しんだり、伝統工芸体験ができたりと、ハレの間で過ごす時間が「旅の一部」となるよう設計されています。また宿泊者サービスとして、夜の9時～11時までは夜鳴きそばのサービスも行っています。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/y9blHepvy1YPR8NZTxq2U4jmbvyAE1_9N1FA6jYqjoM/1200x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/y9blHepvy1YPR8NZTxq2U4jmbvyAE1_9N1FA6jYqjoM/1200x600.jpg",
+              "width": 1200
+            },
+            {
+              "height": 310,
+              "url": "https://a.mktgcdn.com/p-sandbox/y9blHepvy1YPR8NZTxq2U4jmbvyAE1_9N1FA6jYqjoM/619x310.jpg",
+              "width": 619
+            },
+            {
+              "height": 300,
+              "url": "https://a.mktgcdn.com/p-sandbox/y9blHepvy1YPR8NZTxq2U4jmbvyAE1_9N1FA6jYqjoM/600x300.jpg",
+              "width": 600
+            },
+            {
+              "height": 98,
+              "url": "https://a.mktgcdn.com/p-sandbox/y9blHepvy1YPR8NZTxq2U4jmbvyAE1_9N1FA6jYqjoM/196x98.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/y9blHepvy1YPR8NZTxq2U4jmbvyAE1_9N1FA6jYqjoM/1200x600.jpg",
+          "width": 1200
+        },
+        "imageCaption": "スタイリッシュツイン　一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "旅の一部となるラウンジ「ハレの間」"
+      },
+      {
+        "cTA1": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5357099/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5357099/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5357099/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357091/53570911300000001.jpg\" alt\u003d\" ハイアット セントリック 金沢\"\u003eハイアット セントリック 金沢は、金沢駅から徒歩約2分のところにあります。2020年8月にインターナショナルホテルブランドの「ハイアット」が北陸で初めて金沢に開業、飲食店や物販店などの店舗が入った複合施設「クロスゲート金沢」が隣接しています。館内は金沢の伝統工芸等のアートが溢れ、洗礼された空間で金沢らしさを満喫できます。※館内レストランは営業内容変更の場合がございますので、ホテル公式ホームページをご確認ください。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/-wSCGPCk0eWtJxEgYWSsYbi-ShVekVpmEfkZqjyt2l8/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/-wSCGPCk0eWtJxEgYWSsYbi-ShVekVpmEfkZqjyt2l8/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/-wSCGPCk0eWtJxEgYWSsYbi-ShVekVpmEfkZqjyt2l8/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/-wSCGPCk0eWtJxEgYWSsYbi-ShVekVpmEfkZqjyt2l8/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/-wSCGPCk0eWtJxEgYWSsYbi-ShVekVpmEfkZqjyt2l8/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-wSCGPCk0eWtJxEgYWSsYbi-ShVekVpmEfkZqjyt2l8/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "ル・グランシャリオ",
+        "sectionLevel": "h3",
+        "sectionTitle": "ハイアット セントリック 金沢"
+      },
+      {
+        "cTA1": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5357070/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5357070/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5357070/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357091/53570910004582510.jpg\" alt\u003d\" ハイアット セントリック 金沢の客室\"\u003e客室は、スイートルーム7室を含む全253室で、ハイアット セントリック 金沢ならではの、アートがあふれる設えになっています。バス・トイレ・洗面スペースが分かれているので、おしゃれなお部屋で快適にお過ごしいただけます。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/u8-Cj5U-7dHc-imAvRFtTHGYn-kZfr6SxwLT1pUZZis/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/u8-Cj5U-7dHc-imAvRFtTHGYn-kZfr6SxwLT1pUZZis/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/u8-Cj5U-7dHc-imAvRFtTHGYn-kZfr6SxwLT1pUZZis/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/u8-Cj5U-7dHc-imAvRFtTHGYn-kZfr6SxwLT1pUZZis/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/u8-Cj5U-7dHc-imAvRFtTHGYn-kZfr6SxwLT1pUZZis/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/u8-Cj5U-7dHc-imAvRFtTHGYn-kZfr6SxwLT1pUZZis/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "コンフォートツイン　一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "ハイアット セントリック 金沢の客室"
+      },
+      {
+        "cTA1": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5357015/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5357015/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5357015/plan/",
+          "linkType": "URL"
+        },
+        "description": "最上階14階のルーフテラスバーは、まるで金沢の街に浮かんでいるかのような開放感で非日常を体感できます。金沢の文豪の作品にちなんでつくられたこだわりのカクテルや、厳選されたワインやビールなどに舌鼓しながら金沢の夜景をお楽しみいただけます。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/aVhNqZ_a2yzZYp_Hvdzfpo-h0C34MwfludWKW-AAICs/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/aVhNqZ_a2yzZYp_Hvdzfpo-h0C34MwfludWKW-AAICs/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/aVhNqZ_a2yzZYp_Hvdzfpo-h0C34MwfludWKW-AAICs/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/aVhNqZ_a2yzZYp_Hvdzfpo-h0C34MwfludWKW-AAICs/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/aVhNqZ_a2yzZYp_Hvdzfpo-h0C34MwfludWKW-AAICs/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aVhNqZ_a2yzZYp_Hvdzfpo-h0C34MwfludWKW-AAICs/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "三井ガーデンホテル金沢　大浴場",
+        "sectionLevel": "h4",
+        "sectionTitle": "最上階Roof Terrace Barで金沢の夜景を"
+      },
+      {
+        "cTA1": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5367018/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5367018/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5367018/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357050/53570501000036626.jpg\" alt\u003d\" ホテル日航金沢\"\u003eホテル日航金沢は、金沢駅から徒歩約3分のところにあります。金沢駅兼六園口の眼前にそびえ立つ、高さ130mを誇る北陸随一の高層ホテル。ドアマン・ベルスタッフ・コンシェルジュ対応など、加賀百万石の歴史と伝統を受け継いだきめ細やかなおもてなしが自慢で、駅近ながらクオリティの高いホテルに泊まりたいという方におすすめです。※館内レストランは一部営業時間の短縮・変更、臨時休業の場合がございますので、ホテル公式ホームページをご確認ください。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/VzimYQduZlo7p7rUfuBKS3BKHgFR5yArR9n9IbN2tSQ/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/VzimYQduZlo7p7rUfuBKS3BKHgFR5yArR9n9IbN2tSQ/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/VzimYQduZlo7p7rUfuBKS3BKHgFR5yArR9n9IbN2tSQ/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/VzimYQduZlo7p7rUfuBKS3BKHgFR5yArR9n9IbN2tSQ/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/VzimYQduZlo7p7rUfuBKS3BKHgFR5yArR9n9IbN2tSQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VzimYQduZlo7p7rUfuBKS3BKHgFR5yArR9n9IbN2tSQ/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "たたみツイン　一例",
+        "sectionLevel": "h3",
+        "sectionTitle": "ホテル日航金沢"
+      },
+      {
+        "cTA1": {
+          "label": "ゆのくに天祥の紹介",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5367011/remarks",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5367011/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5367011/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357050/53570500003146770.jpg\" alt\u003d\" ホテル日航金沢の客室\"\u003e客室は、すべて17階以上にあり、お部屋からも金沢の街並みを見下ろすことができます。17階～19階「スタイリッシュ」、20～25階「コンフォート」、26階と28階に位置する「リュクスフロア」、各フロアにコンセプトを設け、どのお部屋も気品がある設えになっています。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Bs_2S11SR7jpcmk-8YbFrYf5HX2fXey1Bwdi1IemPnE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bs_2S11SR7jpcmk-8YbFrYf5HX2fXey1Bwdi1IemPnE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bs_2S11SR7jpcmk-8YbFrYf5HX2fXey1Bwdi1IemPnE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bs_2S11SR7jpcmk-8YbFrYf5HX2fXey1Bwdi1IemPnE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bs_2S11SR7jpcmk-8YbFrYf5HX2fXey1Bwdi1IemPnE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Bs_2S11SR7jpcmk-8YbFrYf5HX2fXey1Bwdi1IemPnE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ホテル・トリフィート金沢　レストラン／イメージ",
+        "sectionLevel": "h4",
+        "sectionTitle": "ホテル日航金沢の客室"
+      },
+      {
+        "cTA1": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5367023/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5367023/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5367023/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357050/53570501000036483.jpg\" alt\u003d\" スカイラウンジ「ル・グランシャリオ」で過ごす優雅な瞬間\"\u003eホテル日航金沢の館内には、8つのレストラン・バー・ラウンジと豊富にそろっています。30階にあるスカイラウンジ「ル・グランシャリオ」は、木目調の優雅な店内で、30階ならではのスカイビューが一望できます。旅の思い出を語りながら、季節のオリジナルカクテルなどをお楽しみいただけます。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/F2l9I8FuuPAEgudG2C2C0XDkaDNI3h3lY_o_zhUQVOg/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/F2l9I8FuuPAEgudG2C2C0XDkaDNI3h3lY_o_zhUQVOg/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/F2l9I8FuuPAEgudG2C2C0XDkaDNI3h3lY_o_zhUQVOg/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/F2l9I8FuuPAEgudG2C2C0XDkaDNI3h3lY_o_zhUQVOg/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/F2l9I8FuuPAEgudG2C2C0XDkaDNI3h3lY_o_zhUQVOg/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/F2l9I8FuuPAEgudG2C2C0XDkaDNI3h3lY_o_zhUQVOg/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "モデレートツイン　一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "スカイラウンジ「ル・グランシャリオ」で過ごす優雅な瞬間"
+      },
+      {
+        "cTA1": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5368033/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5368033/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5368033/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357082/53570821300000038.jpg\" alt\u003d\" 三井ガーデンホテル金沢\"\u003e三井ガーデンホテル金沢は、金沢駅から徒歩約17分のところにあります。現代アートでもあり、伝統工芸品のようでもあり、金沢の作家たちによりユニークなアートの数々が館内ロビーをはじめ、エントランスやエレベーターホールなどに配されています。朝食は、小鉢の器にまでこだわった加賀のおばんざいをテーマにした料理をお楽しみいただけます。",
+        "image": {
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/017PVVH_3vOpxt37LX55dCNuH5erRMM6sx3fdzifVSk/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/017PVVH_3vOpxt37LX55dCNuH5erRMM6sx3fdzifVSk/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/017PVVH_3vOpxt37LX55dCNuH5erRMM6sx3fdzifVSk/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/017PVVH_3vOpxt37LX55dCNuH5erRMM6sx3fdzifVSk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/017PVVH_3vOpxt37LX55dCNuH5erRMM6sx3fdzifVSk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/017PVVH_3vOpxt37LX55dCNuH5erRMM6sx3fdzifVSk/1200x799.jpg",
+          "width": 1200
+        },
+        "imageCaption": "BANKERS STREET CAFE",
+        "sectionLevel": "h3",
+        "sectionTitle": "三井ガーデンホテル金沢"
+      },
+      {
+        "cTA1": {
+          "label": "宿泊プラン",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/5368034/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "新幹線・JR付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_jr/h/5368034/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "航空券付きプラン",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/5368034/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357082/53570820004262310.jpg\" alt\u003d\" 三井ガーデンホテル金沢の客室\"\u003e客室は全て21平米以上とゆとりの設計。壁には加賀友禅を表現したパッチワークアートがあしらわれ、おしゃれな空間となっています。全室に備わる三井ガーデンホテルオリジナルの「快眠枕」や、マットレスなど寝具にもこだわっています。",
+        "imageCaption": "フロント・ロビー",
+        "sectionLevel": "h4",
+        "sectionTitle": "三井ガーデンホテル金沢の客室"
+      },
+      {
+        "cTA1": {
+          "label": "金沢の高級旅館・ホテルを探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1701/feature/premium/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "金沢の温泉がある旅館・ホテルを探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1701/feature/k_onsen/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357082/53570821300000027.jpg\" alt\u003d\" 夜景を楽しめる大浴場\"\u003e最上階に大浴場を有し、金沢の町並みを一望できます。女性用・男性用にはそれぞれ寝湯もあり、景色を眺めながらの入浴は格別です。女性用パウダーコーナーは広く、清潔感があることもうれしいポイントです。",
+        "imageCaption": "客室画像（ガーデンツイン）　一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "夜景を楽しめる大浴場"
+      },
+      {
+        "description": "ホテル・トリフィート金沢は、金沢駅から徒歩約6分のところにあります。2021年5月に開業したばかりのホテルで、金沢からインスパイアされた様々なエレメントを「木のぬくもり」や現在の感覚にマッチしたスタイルで表現。ホテル玄関、レセプション、ロビー、レストランとスタイリッシュでおしゃれな空間が広がっています。",
+        "imageCaption": "プレミアムラウンジKANAZAWA",
+        "sectionLevel": "h3",
+        "sectionTitle": "ホテル・トリフィート金沢"
+      },
+      {
+        "description": "落ち着いたデザインの客室は、ダブルやツインのお部屋が中心です。たたみツインは、たたみに110㎝のベッドが2台入った約21㎡のお部屋。窓際の障子や藍色のベッドスローが古き良き金沢らしい雰囲気を演出しています。",
+        "imageCaption": "コンセプトフロア麗-Kanazawa-　一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "ホテル・トリフィート金沢の客室"
+      },
+      {
+        "description": "朝食は金沢の食材を使ったビュッフェスタイルで、金沢名物も豊富です。",
+        "imageCaption": "イル・キャンティ",
+        "sectionLevel": "h4",
+        "sectionTitle": "「金沢」を感じる朝食ビュッフェ"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357083/53570831300000053.jpg\" alt\u003d\" ザ・スクエアホテル金沢\"\u003eザ・スクエアホテル金沢は、金沢駅からバスに乗り、「武蔵ヶ辻・近江町市場」を下車後、徒歩約1分のところにあります。近江町市場へは徒歩1分で行くことができ、観光にも便利な立地です。2018年オープン、「街と人がつながるスクエア。」をコンセプトに、世界各国の「スクエア（広場）」のように都市の中で重要な役割を果たすホテルでありたいという想いが込められています。",
+        "imageCaption": "客室　一例",
+        "sectionLevel": "h3",
+        "sectionTitle": "ザ・スクエアホテル金沢"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357083/53570831300000079.jpg\" alt\u003d\" ザ・スクエアホテル金沢の客室\"\u003e客室は、「加賀五彩」とよばれる５色のカラーリングをそれぞれのお部屋に配し、視覚的な面白さを演出しています。また、床やベッド周りにはウッドを使用し、モダンで落ち着ける空間となっています。",
+        "imageCaption": "割烹つづみ　イメージ",
+        "sectionLevel": "h4",
+        "sectionTitle": "ザ・スクエアホテル金沢の客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357083/53570831300000024.jpg\" alt\u003d\" スタイリッシュでおしゃれな朝食会場\"\u003e朝食会場は、ホテル１階にある「BANKERS STREET CAFE」。スタイリッシュでおしゃれな空間で、20種類以上の野菜をはじめ、マリネやピクルスなどが揃うサラダビュッフェや玉子料理や魚介のリゾットなどの幅広いメニューラインナップが人気。カフェ営業もしているので、チェックアウト前にホッと一息つきたいときのご利用も可能です。最上階にはモダンなスタイルの男女露天風呂付大浴場があり、吹き抜けから入る風が心地いい露天風呂となっています。",
+        "imageCaption": "客室　一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "スタイリッシュでおしゃれな朝食会場"
+      },
+      {
+        "description": "THE HOTEL SANRAKU KANAZAWAは、金沢駅からバスに乗り、「武蔵ヶ辻・近江町市場」を下車後、徒歩約4分のところにあります。近江町市場まで徒歩1分、金沢城公園まで徒歩3分、主計町茶屋街、ひがし茶屋街や兼六園も徒歩圏内にあり、観光にも便利なので、観光も満喫しつつホテルにもこだわりたい方におすすめです。一歩中に入ると、金沢の四季の移ろいを映す優美な中庭がお出迎え。ロビー、館内には加賀の伝統工芸品など装飾もあり、ギフトショップには、九谷焼等の工芸品もお求めいただけます。",
+        "imageCaption": "樹林の湯／イメージ",
+        "sectionLevel": "h3",
+        "sectionTitle": "THE HOTEL SANRAKU KANAZAWA"
+      },
+      {
+        "description": "客室は金沢の伝統工芸と黒を基調としたスタイリッシュなデザインを融合。全室大型テレビ、レインシャワーのついてバスルームを備え、機能性だけではなく優雅な気分と安らぎな空間が感じられます。全室客室内には、コーヒーメーカー、九谷焼茶器も設置。加賀棒茶を九谷焼茶器で味わう楽しみも。",
+        "imageCaption": "白雲の館　温泉露天プレミアム和室　一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "THE HOTEL SANRAKU KANAZAWAの客室"
+      },
+      {
+        "description": "朝食は、金沢を味わうこだわりの約60種類厳選ビュッフェをご用意。出来立てをお届けするシェフズステーションからは、天ぷら、お寿司、海鮮丼など出来立ての逸品をお届けいたします。近江町市場直送の地元食材を用いた料理をご提供。「金沢らしさ」を存分に味わう郷土料理、金沢グルメなどご堪能ください。また、スィートルーム、クラブルームにご宿泊のお客様がご利用できる専用ラウンジ「プレミアラウンジKANAZAWA」では、ホテルメイドのスイーツ、石川県の地酒など、時間帯ごとに優雅なブレイクタイムをお楽しみいただけます。",
+        "imageCaption": "ゆのくに天祥　大浴場",
+        "sectionLevel": "h4",
+        "sectionTitle": "専用ラウンジ「プレミアムラウンジKANAZAWA」"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357070/53570701000000055.jpg\" alt\u003d\" ホテルリソルトリニティ金沢\"\u003eホテルリソルトリニティ金沢は、金沢駅からバスに乗り、「武蔵ヶ辻・近江町市場」下車後、徒歩約1分のところにあります。金沢の中心「百万石通り」沿いに位置し、近江町市場はホテルの目の前という観光に便利なホテルです。加賀・能登の伝統文化が館内随所に感じられ、落ち着いた空間の和モダンテイストで、優雅なひと時を演出しています。",
+        "imageCaption": "楓の棟 Aタイプ スイート和洋室　一例",
+        "sectionLevel": "h3",
+        "sectionTitle": "ホテルリソルトリニティ金沢"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357070/53570701000000102.jpg\" alt\u003d\" ホテルリソルトリニティ金沢の客室\"\u003e客室内はシューズオフとなっており我が家にいるようにくつろげます。全室に加湿清浄機とスマートフォン対応の携帯充電器を完備。8階に位置するコンセプトフロア麗は、女性のお客さま専用のルームとなっており、ナノケアヘアドライヤーやフェイススチーマーなど女性に嬉しい備品やアメニティが揃っています。",
+        "imageCaption": "楓の棟 Bタイプ スイート和室　一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "ホテルリソルトリニティ金沢の客室"
+      },
+      {
+        "description": "朝食会場の、イタリア式食堂「イル・キャンティ」は、新鮮な季節の食材を用いたイタリアンベースのオリジナル料理が自慢です。メインの照明やインテリアにもこだわったやわらかい空間となっています。",
+        "imageCaption": "ラウンジ「はづ木」／イメージ",
+        "sectionLevel": "h4",
+        "sectionTitle": "イタリア式食堂「イル・キャンティ」"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357015/53570151100007335.jpg\" alt\u003d\" 料理旅館　金沢茶屋\"\u003e料理旅館　金沢茶屋は、金沢駅から徒歩約3分のところにあります。一歩館内に入ると、輪島塗などの伝統工芸が随所に飾られ、駅前の喧騒からかけ離れた落ち着いた空間でお過ごしいただけます。料理旅館 金沢茶屋は、その名前の通り「料理」が特に自慢の旅館です。金沢茶屋のお食事を求め、ランチで利用する方も多くいます。",
+        "imageCaption": "坪庭付き客室　粋　一例",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．観光にも便利な金沢市内の旅館"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357015/53570151100007337.jpg\" alt\u003d\" 料理旅館　金沢茶屋の客室\"\u003e客室は全18室で、全室「和」にこだわった純和風客室です。窓には障子、織物でできたブラインドも設置されています。羽毛ふとんにもこだわった快適なお部屋でゆったりとお過ごしいただけます。",
+        "imageCaption": "加賀パンケーキ",
+        "sectionLevel": "h3",
+        "sectionTitle": "料理旅館　金沢茶屋"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5357015/53570151100007331.jpg\" alt\u003d\" 上品な加賀料理を「割烹つづみ」で\"\u003eお食事は、「割烹つづみ」で季節感を感じられる創作割烹料理がいただけます。四季の素材にこだわり、一品一品丁寧に真心をこめてつくられた上品な加賀料理。器にもこだわり、お料理の味はもちろんながら、見た目も美しく仕立てられています。",
+        "imageCaption": "露天風呂客室　月　一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "料理旅館　金沢茶屋の客室"
+      },
+      {
+        "description": "石川県には魅力あふれる温泉地が多く点在しています。金沢観光も満喫したいけど、せっかくなら温泉旅館でお風呂や食事も楽しみたい…そんな方には、ホテル＋温泉旅館の2泊3日の旅がおすすめ！1泊目は、金沢の観光スポットを巡り、市内のホテルに宿泊。2泊目の午前も観光を楽しんだら、午後は石川県内の人気温泉地へ。プラス1泊で温泉旅館に泊まり、金沢旅行をより充実させてはいかがでしょうか？\u003cspan style\u003d\"font-weight: bold\"\u003e◆和倉温泉までのアクセス\u003c/span\u003e金沢駅から特急利用　最速58分\u003cspan style\u003d\"font-weight: bold\"\u003e◆山代温泉までのアクセス\u003c/span\u003e金沢駅から北陸本線（しらさぎ・サンダーバード）利用加賀温泉駅下車後　車 約10分・路線バス 約13分\u003cspan style\u003d\"font-weight: bold\"\u003e◆山中温泉までのアクセス\u003c/span\u003e金沢駅から北陸本線（しらさぎ・サンダーバード）利用加賀温泉駅下車後　車 約20分・路線バス 約30分",
+        "imageCaption": "特別和洋室　星　一例",
+        "sectionLevel": "h4",
+        "sectionTitle": "上品な加賀料理を「割烹つづみ」で"
+      },
+      {
+        "description": "森の栖リゾート＆スパは、加賀温泉駅からバスに乗り、「山代東口」下車後、徒歩約5分のところにあります。加賀温泉駅からの送迎バスも運行しています。山代温泉街の山裾にある、隠れ家的な温泉宿。約5,000坪の庭園が自慢で、まるで森の中にいるような静寂な時間をお過ごしいただけます。コーヒー・紅茶・ジュースなどを自由にお召し上がりいただけるライブラリーラウンジがあるのも嬉しいポイントです。",
+        "imageCaption": "飲み放題　イメージ",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．2泊3日でさらに満喫！金沢周辺の温泉旅館5選"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5367018/53670180003068090.jpg\" alt\u003d\" 森の栖リゾート＆スパの客室\"\u003e和洋のモダンな雰囲気にこだわり、畳敷きにツインベッドを配したお部屋です。広めに作られたお部屋はご滞在中、心からリラックスしておくつろぎいただけるしつらえとなっています。",
+        "sectionLevel": "h3",
+        "sectionTitle": "森の栖リゾート＆スパ【山代温泉】"
+      },
+      {
+        "description": "大浴場は、クリスタルガラスをパノラマ状に配し、杉木立の庭園が一望出来る「樹林の湯」、森林浴ととともに湯浴みができる露天風呂やサウナが併設されている「森の出で湯」があります。食事会場は、広々としたプールサイドダイニングや、2019年にオープンしたダイニングこま蔵、鉄板焼カウンターと多様にあります。",
+        "sectionLevel": "h4",
+        "sectionTitle": "森の栖リゾート＆スパの客室"
+      },
+      {
+        "description": "ゆのくに天祥は、加賀温泉駅からバスに乗り、「山代温泉東口」下車後、徒歩約1分のところにあります。加賀温泉駅からの送迎バスも運行しています。自家源泉と引湯源泉の2つの豊富な湯量と鮮度を誇る天然温泉が自慢です。明るくにぎわいのある館内演出をしており、大型旅館ならではのサービスが充実。館内で楽しめる温泉たまご作り体験のおもてなしも人気です。",
+        "sectionLevel": "h4",
+        "sectionTitle": "自然のパワーに包まれた森の中の大浴場"
+      },
+      {
+        "description": "2022年11月にリニューアルした客室です。やましろの歴史あるいで湯をお部屋でもお楽しみいただくことができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ゆのくに天祥【山代温泉】"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5367011/53670111100007709.jpg\" alt\u003d\" 湯めぐりを楽しめる自慢の大浴場\"\u003e豊富な湯量が自慢の大浴場は、3つの大浴場に約18個もの浴槽や足湯があるため湯めぐりを楽します。自家源泉はPH8.68のアルカリ性、せっけんのような作用で肌の角質を溶かすので、しっとりすべすべになります。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ゆのくに天祥の客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5367023/53670231100007847.jpg\" alt\u003d\" 葉渡莉【山代温泉】\"\u003e葉渡莉は、加賀温泉駅からバスに乗り、「山代東口」下車後、徒歩約3分のところにあります。加賀温泉駅からの送迎バスも運行しています。「木のぬくもり、葉のやさしさ」をコンセプトにした和のやすらぎ溢れる宿。木造りと石造りで趣の異なる2箇所の大浴場、貸切風呂、徒歩約5分で行ける姉妹館の瑠璃光や古総湯、多彩な湯どころが揃い、湯めぐりを楽しめます。お食事は、生姜・麹をふんだんに使用した優しいお料理です。※2024年4月28日まで被災者受入施設のため、2024年5月3日より営業再開予定です（葉渡莉公式HPをご確認ください）。",
+        "sectionLevel": "h4",
+        "sectionTitle": "湯めぐりを楽しめる自慢の大浴場"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5367023/53670231100007879.jpg\" alt\u003d\" 葉渡莉の客室\"\u003e",
+        "sectionLevel": "h3",
+        "sectionTitle": "葉渡莉【山代温泉】"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5367023/53670231100007878.jpg\" alt\u003d\" 葉渡莉の客室\"\u003e客室は、自然素材を用いたこだわり和空間です。露天風呂付き客室をはじめ様々なタイプのお部屋からお選びいただけます。「楓の棟Aタイプスイート和洋室」は、露天風呂やウッドデッキを備えインテリアにもこだわった和モダン客室、「楓の棟Bタイプスイート和室」は、ゆったりとしたヒノキの露天風呂が特徴的です。",
+        "sectionLevel": "h4",
+        "sectionTitle": "葉渡莉の客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5367023/53670231100007842.jpg\" alt\u003d\" ラウンジで癒しのひと時を\"\u003e館内にあるラウンジ「はづ木」では、朝、夜、湯上りとさまざまな時間帯に合わせたサービスを受けられ、湯上りの時間帯ではジェラートサービスがあります。夜には館内で、迫力の鬼面太鼓の演舞「加賀一向一揆太鼓」の上演をしています。",
+        "sectionLevel": "h4",
+        "sectionTitle": "ラウンジで癒しのひと時を"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5368033/53680331000000258.jpg\" alt\u003d\" 吉祥やまなか【山中温泉】\"\u003e吉祥やまなかは、加賀温泉駅からタクシーで約20分のところにあります。加賀温泉駅からの送迎バスも運行しています。名勝・鶴仙渓沿いに佇む風情ある湯宿。吉祥やまなか自慢の「おもてなし」で、お客さまの大切なご旅行に華をそえます。檜・岩・石造りと3種の貸切風呂や足湯、ジェットバスなどゆったりとした旅館ステイをお過ごしいただけます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "吉祥やまなか【山中温泉】"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5368033/53680330002596290.jpg\" alt\u003d\" 吉祥やまなかの客室\"\u003e客室は、和室・洋室・露天風呂付客室など様々なタイプがあり、旅のスタイルに合わせてお選びいただけます。露天風呂付き客室の「華」は、お部屋から大聖寺川を一望、客室の露天風呂も掛け流しの温泉です。また、露天風呂付き客室にご宿泊のお客さまは、専用車での送迎や、こだわりのアメニティ、冷蔵庫のドリンクが自由にお飲みいただけるなど嬉しい特典があります。",
+        "sectionLevel": "h3",
+        "sectionTitle": "吉祥やまなかの客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5368033/53680331300000084.jpg\" alt\u003d\" 吉祥やまなかの「12のおもてなし」\"\u003e「12のおもてなし」には、ロビーラウンジでのドリンクサービスや、女性には色浴衣の無料レンタルなど旅館ステイを楽しむサービスが揃っています。14:30～16:00限定で、加賀パンケーキのアフタヌーンティーサービスがあり、鉄板焼「青竹」にてシェフが目の前で焼き上げるふわふわのパンケーキがお召し上がりいただけます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "吉祥やまなかの「12のおもてなし」"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5368034/53680341300000082.jpg\" alt\u003d\" かがり吉祥亭【山中温泉】\"\u003eかがり吉祥亭は、加賀温泉駅からタクシーで約25分のところにあります。加賀温泉駅からの送迎バスも運行しています。お土産処やカフェ、ギャラリー店が連なる「ゆげ街道」沿いにある宿で、街歩きに便利です。「吉祥やまなか」の姉妹館で、心を込めたおもてなしの数々が自慢の宿です。女性用浴場の「白鳥の湯」は、鶴仙渓の絶景を望む珍しい立ち湯の露天風呂があり、マイナスイオンたっぷりの癒される空間となっています。",
+        "sectionLevel": "h4",
+        "sectionTitle": "かがり吉祥亭【山中温泉】"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5368034/53680341000000091.jpg\" alt\u003d\" かがり吉祥亭の客室\"\u003e",
+        "sectionLevel": "h3",
+        "sectionTitle": "かがり吉祥亭の客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/5/5368034/53680341000000305.jpg\" alt\u003d\" かがり吉祥亭の客室\"\u003e客室は全室川側です。「月」は、露天風呂付き客室で、かけ流しの露天風呂からは渓谷美を臨めます。「星」は、シモンズ社製のベッドや琉球畳を使用、天然温泉の内湯を配すなど上質で快適な空間となっています。",
+        "sectionLevel": "h4",
+        "sectionTitle": "かがり吉祥亭のおもてなし"
+      },
+      {
+        "description": "ご宿泊いただいた全てのお客様に贈る至福のおもてなしです。〈メニュー〉ビール・焼酎・ワイン・梅酒・チューハイ・ジン・ウィスキー・ソフトドリンク",
+        "sectionLevel": "h4",
+        "sectionTitle": "まとめ"
+      },
+      {
+        "description": "金沢には洗練されたデザインのホテルや旅館が多数あります。まだまだ素晴らしい宿がたくさんあり、今回だけでは紹介しきれません！皆さんの好みのホテルをぜひ探してみて下さい。",
+        "sectionLevel": "h4"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kokunai_0003"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2021-07-14",
+    "c_news_UpdateDate": "2024-07-11",
+    "c_news_ViewCount": "2689",
+    "c_news_ViewCount2of2": "2689",
+    "c_news_ViewCountNum": "2689",
+    "c_news_ViewCountNumForSorting": "90",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/hokuriku/ishikawa/news_web_kokunai_0010",
+    "name": "金沢の女子旅におすすめの宿15選！おしゃれホテルから近場の温泉旅館まで",
+    "slug": "kokunai/hokuriku/ishikawa/news_web_kokunai_0010",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

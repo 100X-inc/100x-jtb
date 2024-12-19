@@ -1,0 +1,20 @@
+{
+  "$id": "test_kokunai_level3_2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "test_kokunai_level2"
+    ],
+    "c_linkedArea3News": [
+      "news_web_test_20220117"
+    ],
+    "c_metaDescription": "温泉特集に関する記事をピックアップ！JTBニュースでは、温泉特集で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 温泉特集 | 旅行・おでかけ情報",
+    "name": "温泉特集",
+    "slug": "test_kokunai/test_kokunai_level2/test_kokunai_level3_2"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

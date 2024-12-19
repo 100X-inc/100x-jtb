@@ -1,0 +1,13 @@
+{
+  "$id": "site-entity",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_nearbySectionAPIKey": "2f7809257f5627b2f63b6a83643fea69",
+    "c_searchExperienceAPIKey": "2f7809257f5627b2f63b6a83643fea69",
+    "name": "site"
+  },
+  "entityType": "ce_site",
+  "folder": "yext/root",
+  "labels": []
+}

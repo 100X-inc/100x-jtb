@@ -1,0 +1,411 @@
+{
+  "$id": "news_ap_osarea_0000120",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "古都・フエをめぐる歴史散歩ときどきグルメ【ベトナム　フエ】",
+      "height": 2247,
+      "sourceUrl": "http://a.mktgcdn.com/p/miSb6INotx73DRIORSm4bW0Tza_2QkO1ik-1vvIppQk/3370x2247.jpg",
+      "thumbnails": [
+        {
+          "height": 2247,
+          "url": "//a.mktgcdn.com/p-sandbox/Osxsk0RUJ3QCut_hoFjSvRmDyCBaHf7FbGBHp-0jjr8/3370x2247.jpg",
+          "width": 3370
+        },
+        {
+          "height": 1267,
+          "url": "//a.mktgcdn.com/p-sandbox/Osxsk0RUJ3QCut_hoFjSvRmDyCBaHf7FbGBHp-0jjr8/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/Osxsk0RUJ3QCut_hoFjSvRmDyCBaHf7FbGBHp-0jjr8/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/Osxsk0RUJ3QCut_hoFjSvRmDyCBaHf7FbGBHp-0jjr8/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/Osxsk0RUJ3QCut_hoFjSvRmDyCBaHf7FbGBHp-0jjr8/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/Osxsk0RUJ3QCut_hoFjSvRmDyCBaHf7FbGBHp-0jjr8/3370x2247.jpg",
+      "width": 3370
+    },
+    "c_ap_HeroImageCaption": "旧市街にあるグエン朝王宮",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "ベトナム旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/vietnam/"
+      },
+      {
+        "linkText": "ダナンのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dSGN"
+      },
+      {
+        "linkText": "ダナンのホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/194/6297250/?freeword\u003d%E3%83%80%E3%83%8A%E3%83%B3%20%20%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d6297250"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": false,
+    "c_ap_ShortDescription": "ベトナム中部の街、フエはベトナム最後の統一王朝であるグエン（阮）朝の都があった場所。グエン朝は1945年の滅亡まで100年以上にわたり繁栄し、絢爛豪華な宮廷文化を残しました。街には歴史的建造物が点在し、かつての栄華を今に伝えています。そんなフエで楽しみたいのは、見応え十分な遺跡の数々に宮廷グルメのレストラン。異国情緒満点な歴史散歩を楽しみましょう。フエには国際空港があり、街の中心まで車で約20分。ダナンからは車で約2時間でアクセスできます。（写真：グエン朝王宮）",
+    "c_ap_Tags": [
+      "フエ",
+      "グルメ",
+      "観光スポット",
+      "ランチ",
+      "寺院"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "ファミリー",
+      "一人旅",
+      "寺社・教会",
+      "建築・史跡",
+      "歴史・地理",
+      "街あるき"
+    ],
+    "c_ap_Title": "古都・フエをめぐる歴史散歩ときどきグルメ【ベトナム　フエ】",
+    "c_metaDescription": "ベトナム中部の街、フエはベトナム最後の統一王朝であるグエン（阮）朝の都があった場所。グエン朝は1945年の滅亡まで100年以上にわたり繁栄し、絢爛豪華な宮廷文化を残しました。街には歴史的建造物が点在し、かつての栄華を今に伝えています。そんなフエで楽しみたいのは、見応え十分な遺跡の数々に宮廷グルメのレストラン。異国情緒満点な歴史散歩を楽しみましょう。フエには国際空港があり、街の中心まで車で約20分。ダナンからは車で約2時間でアクセスできます。（写真：グエン朝王宮）",
+    "c_metaTitle": "古都・フエをめぐる歴史散歩ときどきグルメ【ベトナム　フエ】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "リモートでの旅行相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#consultants",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "JTB店舗・専門店への相談はこちら",
+        "link": "https://stores.jtb.co.jp/index.html",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "フエの最大のみどころが「グエン朝王宮」。1802年から1945年まで続いたグエン朝の王宮跡で、中国の紫禁城をモデルに造られています。約600m四方、高さ6mを超す城壁に囲まれており、さまざまな遺構を見学可能。なかでも皇帝が儀式や謁見に使った太和殿、王家の菩提寺である世祖廟は必見です。",
+        "image": {
+          "alternateText": "ショーは1日2回上演される",
+          "height": 1669,
+          "sourceUrl": "http://a.mktgcdn.com/p/Rg8tAidKXKwTeaOnTKVGp-KEypggMk-Typ4toIEdevA/2513x1669.jpg",
+          "thumbnails": [
+            {
+              "height": 1669,
+              "url": "//a.mktgcdn.com/p-sandbox/53VhvP9NALXNrA0n5tVMev5FKqrhZnhGk7IZeUG0dfI/2513x1669.jpg",
+              "width": 2513
+            },
+            {
+              "height": 1262,
+              "url": "//a.mktgcdn.com/p-sandbox/53VhvP9NALXNrA0n5tVMev5FKqrhZnhGk7IZeUG0dfI/1900x1262.jpg",
+              "width": 1900
+            },
+            {
+              "height": 411,
+              "url": "//a.mktgcdn.com/p-sandbox/53VhvP9NALXNrA0n5tVMev5FKqrhZnhGk7IZeUG0dfI/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "//a.mktgcdn.com/p-sandbox/53VhvP9NALXNrA0n5tVMev5FKqrhZnhGk7IZeUG0dfI/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "//a.mktgcdn.com/p-sandbox/53VhvP9NALXNrA0n5tVMev5FKqrhZnhGk7IZeUG0dfI/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/53VhvP9NALXNrA0n5tVMev5FKqrhZnhGk7IZeUG0dfI/2513x1669.jpg",
+          "width": 2513
+        },
+        "imageCaption": "王宮の入口にあたる午門",
+        "sectionTitle": "グエン朝王宮（Đại Nội）"
+      },
+      {
+        "description": "ミンマン帝により1826年に創建され、かつて皇族が芸能を楽しんだ劇場では、宮廷音楽や舞踏のショーを上演。王宮入口の午門には、眺めが素晴らしい楼閣もあります。王宮の東側には、王朝時代の美術品を展示する「フエ宮廷骨董博物館」があり、王宮の見学チケットで入場できるので、併せて訪れるのがおすすめです。DATAĐại Nội住所：Trung Tâm Bảo Tồn Di tích Cố Đô営業時間：7～17時（4月16日～10月15日：6時30分～17時30分）定休日：なし料金：20万VND（7～12歳：4万VND、6歳以下：無料）",
+        "image": {
+          "alternateText": "見晴らしのいい丘の上にあるカイ・ディン帝廟",
+          "height": 802,
+          "sourceUrl": "http://a.mktgcdn.com/p/YM628KDhDhFIHeXfBjx-G-UrghfhnBdwuhvIPC43lC4/1203x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "//a.mktgcdn.com/p-sandbox/XGXXJhVMODJ25AvKh3-o--0vZEVPVaNFs3DGo2O8po8/1203x802.jpg",
+              "width": 1203
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/XGXXJhVMODJ25AvKh3-o--0vZEVPVaNFs3DGo2O8po8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/XGXXJhVMODJ25AvKh3-o--0vZEVPVaNFs3DGo2O8po8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/XGXXJhVMODJ25AvKh3-o--0vZEVPVaNFs3DGo2O8po8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/XGXXJhVMODJ25AvKh3-o--0vZEVPVaNFs3DGo2O8po8/1203x802.jpg",
+          "width": 1203
+        },
+        "imageCaption": "ショーは1日2回上演される",
+        "sectionTitle": "カイ・ディン帝廟（Lăng Khải Định）"
+      },
+      {
+        "description": "フエの街を流れるフオン川沿いには、寺院や皇帝の墓所などの史跡が点在しています。中心部から少し離れた郊外にある史跡をめぐるなら、フオン川のリバークルーズが便利。主要な歴史スポットを回れます。",
+        "image": {
+          "alternateText": "日本のビール瓶を使った装飾も",
+          "height": 439,
+          "sourceUrl": "http://a.mktgcdn.com/p/1oLNJGc8fLFT-T-_oDyWqFLQYziXo--dxbgTByUcLoQ/660x439.jpg",
+          "thumbnails": [
+            {
+              "height": 439,
+              "url": "//a.mktgcdn.com/p-sandbox/_h2haOqsreSKeQlSLmTHzNaBSSUdMoES7d_jFutdkII/660x439.jpg",
+              "width": 660
+            },
+            {
+              "height": 412,
+              "url": "//a.mktgcdn.com/p-sandbox/_h2haOqsreSKeQlSLmTHzNaBSSUdMoES7d_jFutdkII/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "//a.mktgcdn.com/p-sandbox/_h2haOqsreSKeQlSLmTHzNaBSSUdMoES7d_jFutdkII/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "//a.mktgcdn.com/p-sandbox/_h2haOqsreSKeQlSLmTHzNaBSSUdMoES7d_jFutdkII/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/_h2haOqsreSKeQlSLmTHzNaBSSUdMoES7d_jFutdkII/660x439.jpg",
+          "width": 660
+        },
+        "imageCaption": "見晴らしのいい丘の上にあるカイ・ディン帝廟",
+        "sectionTitle": "ティエン・ムー寺（Chùa Thiên Mụ）"
+      },
+      {
+        "description": "「カイ・ディン帝廟」はフランス文化に傾倒し、派手好きだったといわれている第12代カイ・ディン帝の廟。異彩を放つ西欧風の建築と、ガラスや貴石を用いたきらびやかな廟内の装飾が特徴です。カイ・ディン帝の像の下には遺体が安置されています。DATALăng Khải Định住所：Thủy Bằng, Hương Thủy営業時間：7時～17時（4月16日～10月15日：6時30分～17時30分）定休日：なし料金：15万VND（7～12歳：3万VND、6歳以下：無料）",
+        "image": {
+          "alternateText": "美しい七重の塔がシンボル",
+          "height": 468,
+          "sourceUrl": "http://a.mktgcdn.com/p/9za6HTbMH0c0pNbCoEVjpQTCuMFy4xxA5Wrqn0AaOIY/312x468.jpg",
+          "thumbnails": [
+            {
+              "height": 468,
+              "url": "//a.mktgcdn.com/p-sandbox/kr_H58juQ_MK_KUE5V0Sh0WNiIHD1AUsfgkziFhJMmM/312x468.jpg",
+              "width": 312
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/kr_H58juQ_MK_KUE5V0Sh0WNiIHD1AUsfgkziFhJMmM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "//a.mktgcdn.com/p-sandbox/kr_H58juQ_MK_KUE5V0Sh0WNiIHD1AUsfgkziFhJMmM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/kr_H58juQ_MK_KUE5V0Sh0WNiIHD1AUsfgkziFhJMmM/312x468.jpg",
+          "width": 312
+        },
+        "imageCaption": "日本のビール瓶を使った装飾も",
+        "sectionTitle": "トゥ・ドゥック帝廟（Lăng Tự Đức）"
+      },
+      {
+        "description": "旧市街の中心部から車で約10分の場所にある「ティエン・ムー寺」は、1601年に天女のお告げにより造られたという伝説が残る禅寺です。重さ２tもある大鐘や、高さ21ｍの八角７層の塔を見学できます。七重の塔の各層には仏像が祀られ、人々の信仰を集めています。DATAChùa Thiên Mụ住所：Nguyễn Phúc Nguyên, Hương Long営業時間：24時間（本殿7時～17時30分）定休日：なし料金：無料",
+        "image": {
+          "alternateText": "池に浮かぶようにあずま屋が建つ",
+          "height": 1416,
+          "sourceUrl": "http://a.mktgcdn.com/p/TbebcEWlT8Hlt1FKfFvlrJF465JtMXxL82quf43bAFo/2128x1416.jpg",
+          "thumbnails": [
+            {
+              "height": 1416,
+              "url": "//a.mktgcdn.com/p-sandbox/VnloEnrdIiu6XVuMHc2d74P2XlNC8nc1_w9JsrHdqOs/2128x1416.jpg",
+              "width": 2128
+            },
+            {
+              "height": 1264,
+              "url": "//a.mktgcdn.com/p-sandbox/VnloEnrdIiu6XVuMHc2d74P2XlNC8nc1_w9JsrHdqOs/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "//a.mktgcdn.com/p-sandbox/VnloEnrdIiu6XVuMHc2d74P2XlNC8nc1_w9JsrHdqOs/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "//a.mktgcdn.com/p-sandbox/VnloEnrdIiu6XVuMHc2d74P2XlNC8nc1_w9JsrHdqOs/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "//a.mktgcdn.com/p-sandbox/VnloEnrdIiu6XVuMHc2d74P2XlNC8nc1_w9JsrHdqOs/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/VnloEnrdIiu6XVuMHc2d74P2XlNC8nc1_w9JsrHdqOs/2128x1416.jpg",
+          "width": 2128
+        },
+        "imageCaption": "美しい七重の塔がシンボル",
+        "sectionTitle": "アンシエント・フエ・ガーデン・ハウセズ（Ancient Huế Garden Houses）"
+      },
+      {
+        "description": "グエン朝最長在位で、詩と哲学を愛したという第4代皇帝トゥ・ドゥック帝を祀る墓所。緑豊かな敷地内は、蓮池と中国風の釣殿がある美しい造りが特徴です。「詩人皇帝」により造られた癒やしの名園を散策しましょう。DATALăng Tự Đức住所：Thủy Xuân営業時間：7～17時（4月16日～10月15日：6時30分～17時30分）定休日：なし料金：15万VND（7～12歳：3万VND、6歳以下：無料）",
+        "image": {
+          "alternateText": "盛り付けの美しさにも注目！",
+          "height": 1416,
+          "sourceUrl": "http://a.mktgcdn.com/p/QZUMT4rr2k_35lLjIiqKMjEJ2-o8r7YGnu3bzxnAZmY/2128x1416.jpg",
+          "thumbnails": [
+            {
+              "height": 1416,
+              "url": "//a.mktgcdn.com/p-sandbox/JH1Us0r6A3Hgw26NH55-suzmxskjEJn2A7Nrsk0IfCk/2128x1416.jpg",
+              "width": 2128
+            },
+            {
+              "height": 1264,
+              "url": "//a.mktgcdn.com/p-sandbox/JH1Us0r6A3Hgw26NH55-suzmxskjEJn2A7Nrsk0IfCk/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "//a.mktgcdn.com/p-sandbox/JH1Us0r6A3Hgw26NH55-suzmxskjEJn2A7Nrsk0IfCk/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "//a.mktgcdn.com/p-sandbox/JH1Us0r6A3Hgw26NH55-suzmxskjEJn2A7Nrsk0IfCk/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "//a.mktgcdn.com/p-sandbox/JH1Us0r6A3Hgw26NH55-suzmxskjEJn2A7Nrsk0IfCk/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/JH1Us0r6A3Hgw26NH55-suzmxskjEJn2A7Nrsk0IfCk/2128x1416.jpg",
+          "width": 2128
+        },
+        "imageCaption": "池に浮かぶようにあずま屋が建つ"
+      },
+      {
+        "description": "プチ贅沢なランチを楽しむなら、宮廷料理のレストランへ。かつて宮廷で王族のために作られた料理は、野菜や果物をカーヴィングしたものなど、見た目の美しさが特徴的。宮廷料理のレストランはコースで提供するところが多いのですが、「アンシエント・フエ・ガーデン・ハウセズ」はアラカルトでもオーダーでき、カジュアルに楽しめるのが魅力です。",
+        "image": {
+          "alternateText": "高級感のある店内",
+          "height": 1875,
+          "sourceUrl": "http://a.mktgcdn.com/p/ABeuh2qfL_Vq_LrLaJZMB49DhrmFIxDmsZSZRrJjNek/2512x1875.jpg",
+          "thumbnails": [
+            {
+              "height": 1875,
+              "url": "//a.mktgcdn.com/p-sandbox/JrJFVmLKeRTONbvv3BrJhQif1-ZrPAxGIeLbpdcyjkI/2512x1875.jpg",
+              "width": 2512
+            },
+            {
+              "height": 1418,
+              "url": "//a.mktgcdn.com/p-sandbox/JrJFVmLKeRTONbvv3BrJhQif1-ZrPAxGIeLbpdcyjkI/1900x1418.jpg",
+              "width": 1900
+            },
+            {
+              "height": 462,
+              "url": "//a.mktgcdn.com/p-sandbox/JrJFVmLKeRTONbvv3BrJhQif1-ZrPAxGIeLbpdcyjkI/619x462.jpg",
+              "width": 619
+            },
+            {
+              "height": 448,
+              "url": "//a.mktgcdn.com/p-sandbox/JrJFVmLKeRTONbvv3BrJhQif1-ZrPAxGIeLbpdcyjkI/600x448.jpg",
+              "width": 600
+            },
+            {
+              "height": 146,
+              "url": "//a.mktgcdn.com/p-sandbox/JrJFVmLKeRTONbvv3BrJhQif1-ZrPAxGIeLbpdcyjkI/196x146.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/JrJFVmLKeRTONbvv3BrJhQif1-ZrPAxGIeLbpdcyjkI/2512x1875.jpg",
+          "width": 2512
+        },
+        "imageCaption": "盛り付けの美しさにも注目！"
+      },
+      {
+        "description": "緑豊かな庭園にフエの伝統的な木造建築を再現しており、空間の素敵さもフエ指折り。コースの場合は、1人121万VND。DATAAncient Huế Garden Houses住所：47 Kiệt 104 Kim Long営業時間：8～22時定休日：なし※2023年9月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。",
+        "image": {
+          "height": 3210,
+          "sourceUrl": "http://a.mktgcdn.com/p/4qCnMqmp257gE_Wtu1LX6wzy1ZimkENTo1Dq1u748BM/4280x3210.jpg",
+          "thumbnails": [
+            {
+              "height": 3210,
+              "url": "//a.mktgcdn.com/p-sandbox/4qCnMqmp257gE_Wtu1LX6wzy1ZimkENTo1Dq1u748BM/4280x3210.jpg",
+              "width": 4280
+            },
+            {
+              "height": 1425,
+              "url": "//a.mktgcdn.com/p-sandbox/4qCnMqmp257gE_Wtu1LX6wzy1ZimkENTo1Dq1u748BM/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "//a.mktgcdn.com/p-sandbox/4qCnMqmp257gE_Wtu1LX6wzy1ZimkENTo1Dq1u748BM/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/4qCnMqmp257gE_Wtu1LX6wzy1ZimkENTo1Dq1u748BM/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "//a.mktgcdn.com/p-sandbox/4qCnMqmp257gE_Wtu1LX6wzy1ZimkENTo1Dq1u748BM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/4qCnMqmp257gE_Wtu1LX6wzy1ZimkENTo1Dq1u748BM/4280x3210.jpg",
+          "width": 4280
+        },
+        "imageCaption": "高級感のある店内"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000117",
+      "news_ap_osarea_0000116",
+      "news_ap_osarea_0000119",
+      "news_ap_osarea_0000118"
+    ],
+    "c_news_FeaturedArticlesTitle": "ベトナムのその他の投稿記事",
+    "c_news_PublicationDate": "2023-11-28",
+    "c_news_UpdateDate": "2023-11-28",
+    "c_news_ViewCount": "1",
+    "c_news_ViewCount1of2": "1",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/news_ap_osarea_0000120",
+    "name": "古都・フエをめぐる歴史散歩ときどきグルメ【ベトナム　フエ】",
+    "slug": "news_ap_osarea_0000120"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

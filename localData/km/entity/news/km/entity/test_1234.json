@@ -1,0 +1,139 @@
+{
+  "$id": "news_test_1234",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 750,
+      "sourceUrl": "http://a.mktgcdn.com/p/vvyw5qKwD3A9fYFORRX_5vnu_njexTzcWpIKS1ay_Mk/1888x750.jpg",
+      "thumbnails": [
+        {
+          "height": 750,
+          "url": "//a.mktgcdn.com/p-sandbox/vvyw5qKwD3A9fYFORRX_5vnu_njexTzcWpIKS1ay_Mk/1888x750.jpg",
+          "width": 1888
+        },
+        {
+          "height": 246,
+          "url": "//a.mktgcdn.com/p-sandbox/vvyw5qKwD3A9fYFORRX_5vnu_njexTzcWpIKS1ay_Mk/619x246.jpg",
+          "width": 619
+        },
+        {
+          "height": 238,
+          "url": "//a.mktgcdn.com/p-sandbox/vvyw5qKwD3A9fYFORRX_5vnu_njexTzcWpIKS1ay_Mk/600x238.jpg",
+          "width": 600
+        },
+        {
+          "height": 78,
+          "url": "//a.mktgcdn.com/p-sandbox/vvyw5qKwD3A9fYFORRX_5vnu_njexTzcWpIKS1ay_Mk/196x78.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/vvyw5qKwD3A9fYFORRX_5vnu_njexTzcWpIKS1ay_Mk/1888x750.jpg",
+      "width": 1888
+    },
+    "c_ap_HeroImageCaption": "テスト",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "外部リンク",
+        "uRL": "https://www.jtb.co.jp"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連する外部リンク",
+    "c_ap_PagesGeneration": false,
+    "c_ap_ShortDescription": "福岡には結構よく行きます。真冬のクリスマス時期や秋、友人と行く時もあれば、一人で行くこともあります。クリスマス時期に行った時は、天神駅前のクリスマスデコレーションがとてもきれいでしたね。大抵は福岡ドームで行われるライブに参加しがてら福岡の街を見る、ということが多いのですが。",
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "全国旅行支援の最新情報",
+    "c_metaDescription": "福岡には結構よく行きます。真冬のクリスマス時期や秋、友人と行く時もあれば、一人で行くこともあります。クリスマス時期に行った時は、天神駅前のクリスマスデコレーションがとてもきれいでしたね。大抵は福岡ドームで行われるライブに参加しがてら福岡の街を見る、ということが多いのですが。",
+    "c_metaTitle": "JTB",
+    "c_news_Contents": [
+      {
+        "description": "福岡には結構よく行きます。真冬のクリスマス時期や秋、友人と行く時もあれば、一人で行くこともあります。クリスマス時期に行った時は、天神駅前のクリスマスデコレーションがとてもきれいでしたね。大抵は福岡ドームで行われるライブに参加しがてら福岡の街を見る、ということが多いのですが。",
+        "image": {
+          "height": 1424,
+          "sourceUrl": "http://a.mktgcdn.com/p/_r6IDZZMvNULqKjroyu-vI_lnjmW08GJiXavjy3YnxI/2136x1424.jpg",
+          "thumbnails": [
+            {
+              "height": 1424,
+              "url": "//a.mktgcdn.com/p-sandbox/LZ0UMoiUFgEnQQVoPE0oboOaG6JBQYRMAJC72GvbX_0/2136x1424.jpg",
+              "width": 2136
+            },
+            {
+              "height": 1267,
+              "url": "//a.mktgcdn.com/p-sandbox/LZ0UMoiUFgEnQQVoPE0oboOaG6JBQYRMAJC72GvbX_0/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/LZ0UMoiUFgEnQQVoPE0oboOaG6JBQYRMAJC72GvbX_0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/LZ0UMoiUFgEnQQVoPE0oboOaG6JBQYRMAJC72GvbX_0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/LZ0UMoiUFgEnQQVoPE0oboOaG6JBQYRMAJC72GvbX_0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/LZ0UMoiUFgEnQQVoPE0oboOaG6JBQYRMAJC72GvbX_0/2136x1424.jpg",
+          "width": 2136
+        },
+        "imageCaption": "白い砂浜のビーチがあるシーサイドももち公園",
+        "sectionTitle": "福岡ドーム近くのホテルで宿泊、アフタヌーンティーで優雅なホテルライフも"
+      },
+      {
+        "description": "福岡に行くのはライブ目的が多いのですが、現在「福岡PayPayドーム」と呼ばれている福岡ドームそばのシーサイドももち海浜公園は、白い砂のビーチが広がり散策に格好。お洒落なカフェやレストランで、ライブが始まるまでビーチや海を見ながらのんびり過ごしました。周りにいるライブを見に来たファンのワクワク感がこちらにも伝わって来て、一緒にワクワクした覚えがあります。",
+        "image": {
+          "height": 1277,
+          "sourceUrl": "http://a.mktgcdn.com/p/32WNwY1TgVnW88OaM2N-s0ZvafR74U9lKwj7xRJamrs/1914x1277.jpg",
+          "thumbnails": [
+            {
+              "height": 1277,
+              "url": "//a.mktgcdn.com/p-sandbox/32WNwY1TgVnW88OaM2N-s0ZvafR74U9lKwj7xRJamrs/1914x1277.jpg",
+              "width": 1914
+            },
+            {
+              "height": 1268,
+              "url": "//a.mktgcdn.com/p-sandbox/32WNwY1TgVnW88OaM2N-s0ZvafR74U9lKwj7xRJamrs/1900x1268.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/32WNwY1TgVnW88OaM2N-s0ZvafR74U9lKwj7xRJamrs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/32WNwY1TgVnW88OaM2N-s0ZvafR74U9lKwj7xRJamrs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/32WNwY1TgVnW88OaM2N-s0ZvafR74U9lKwj7xRJamrs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/32WNwY1TgVnW88OaM2N-s0ZvafR74U9lKwj7xRJamrs/1914x1277.jpg",
+          "width": 1914
+        },
+        "imageCaption": "誰もが仲良く料理や会話を楽しむ天神の屋台を体験",
+        "sectionTitle": "ライブまではシーサイドももち公園で海を眺めながらのんびり"
+      },
+      {
+        "description": "ライブの前後の楽しみは、やっぱり食事。水炊きで有名なお店にも行きましたが、博多駅周辺の屋台、天神の屋台、中洲の屋台をハシゴしたことがいい思い出です。天神の「あほたれーの」などのネットで話題の有名な屋台や、その場で賑わっている屋台に飛び込みで入るなど、利用する屋台はさまざま。中洲の人気の屋台は、屋台の周りに待ち行列ができていて、それだけでも賑わっている状態。ストリートライブも繰り広げられ、みんなウキウキ気分。地元の人から日本各地の旅行者まで、会話が弾み和気あいあいです。多めに注文してしまったら、隣同士でシェアしあうこともよくあることで、それも屋台の楽しみ方の一つなのかなと思います。翌日、屋台のあった場所に行くとキレイに屋台はなくなっていていました。天神の屋台は各自の借り駐車場に帰るそうですが、中洲の屋台は少し離れた一角に小さく、小さく折りたたまれた昨夜の屋台たちが並んでいました。まるで、今日の出動待機をしているようで、その風景を見つけた時はなんだかおもしろかったですね。福岡は、見どころも、体験ものもたくさんあるところ。何度訪れてもあきない街です。楽しみ方は人それぞれですが、きっと満足できる旅ができると思います。",
+        "sectionTitle": "ライブのパワーチャージにもぴったりな屋台飯が楽しい"
+      }
+    ],
+    "c_news_FeaturedArticlesTitle": "その他の投稿記事",
+    "c_news_ViewCount": "0",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/news_test_1234",
+    "name": "テスト記事",
+    "slug": "news_test_1234",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

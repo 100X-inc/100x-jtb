@@ -1,0 +1,73 @@
+{
+  "$id": "cp_21051302",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "京都府",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBdBq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "ゆっくり島旅が好きです。\nご相談いただいた時からご旅行の楽しみが始まるように、精一杯お手伝いさせていただきます。",
+    "c_cp_DisplayName": "酒井",
+    "c_cp_GeneralInfo": [
+      "資格：総合旅行業取扱管理者、クルーズアドバイザー、ウェディングコンサルタント、ハワイスペシャリスト上級、世界遺産検定2級、京都観光文化検定3級"
+    ],
+    "c_cp_HiraganaName": "さかい",
+    "c_cp_JobTitle": "JTB京都大丸店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 851,
+      "sourceUrl": "https://a.mktgcdn.com/p/xYbFeg7xjXJW3suGIbumHoVjKerxNjbiAQD01ZDYzwE/1280x851.jpg",
+      "thumbnails": [
+        {
+          "height": 851,
+          "url": "https://a.mktgcdn.com/p-sandbox/xYbFeg7xjXJW3suGIbumHoVjKerxNjbiAQD01ZDYzwE/1280x851.jpg",
+          "width": 1280
+        },
+        {
+          "height": 412,
+          "url": "https://a.mktgcdn.com/p-sandbox/xYbFeg7xjXJW3suGIbumHoVjKerxNjbiAQD01ZDYzwE/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "https://a.mktgcdn.com/p-sandbox/xYbFeg7xjXJW3suGIbumHoVjKerxNjbiAQD01ZDYzwE/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "https://a.mktgcdn.com/p-sandbox/xYbFeg7xjXJW3suGIbumHoVjKerxNjbiAQD01ZDYzwE/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/xYbFeg7xjXJW3suGIbumHoVjKerxNjbiAQD01ZDYzwE/1280x851.jpg",
+      "width": 1280
+    },
+    "c_cp_StrongAbroadArea3": [
+      "イギリス",
+      "北欧"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "グルメ",
+      "ムーミン"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 酒井",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 酒井",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21051302",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2023/04/07 JBX対応（産休）",
+    "name": "さかい_21051302",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

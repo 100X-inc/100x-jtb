@@ -1,0 +1,392 @@
+{
+  "$id": "news_ap_area_0000035",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ トラベルコンサルタント 武田 和美",
+      "link": "https://consultants.jtb.co.jp/cp_k_takeda507",
+      "linkType": "URL"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "【広島県_宮島・広島タウン】広島の定番スポットを押さえた王道の一泊二日モデルコース",
+      "height": 429,
+      "sourceUrl": "http://a.mktgcdn.com/p/vbtmD-yA3OjlCeHf0fmbIUTOooEsDcLtySuGrw698Mk/644x429.jpg",
+      "thumbnails": [
+        {
+          "height": 429,
+          "url": "//a.mktgcdn.com/p-sandbox/vbtmD-yA3OjlCeHf0fmbIUTOooEsDcLtySuGrw698Mk/644x429.jpg",
+          "width": 644
+        },
+        {
+          "height": 412,
+          "url": "//a.mktgcdn.com/p-sandbox/vbtmD-yA3OjlCeHf0fmbIUTOooEsDcLtySuGrw698Mk/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/vbtmD-yA3OjlCeHf0fmbIUTOooEsDcLtySuGrw698Mk/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/vbtmD-yA3OjlCeHf0fmbIUTOooEsDcLtySuGrw698Mk/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/vbtmD-yA3OjlCeHf0fmbIUTOooEsDcLtySuGrw698Mk/644x429.jpg",
+      "width": 644
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "広島県のホテル・旅館をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/hiroshima/"
+      },
+      {
+        "linkText": "広島県のツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/hiroshima/"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "広島観光ではずせないスポット2つの世界遺産を巡る定番スポットをがっちり押さえたモデルコースをご紹介！「嚴島神社」や「表参道商店街」などの宮島の魅力を体感できる1日目と、「平和記念公園」や「広島本通商店街」などの文化もグルメも満喫できる2日目の欲張りプランです。広島の魅力をギュッと詰め込んだ旅へでかけましょう！",
+    "c_ap_Tags": [
+      "観光スポット",
+      "神社",
+      "グルメ",
+      "モデルコース",
+      "おみゃげ",
+      "広島",
+      "宮島",
+      "嚴島神社",
+      "弥山",
+      "平和記念公園",
+      "リモートコンシェルジュ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "寺社・教会",
+      "建築・史跡",
+      "動植物園・公園",
+      "世界遺産",
+      "グルメ",
+      "ショッピング",
+      "おみやげ"
+    ],
+    "c_ap_Title": "人気スポットを巡る！広島の1泊2日観光モデルコース【宮島・広島タウン】",
+    "c_linkedArea3News": [
+      "hiroshima"
+    ],
+    "c_metaDescription": "広島観光ではずせない、2つの世界遺産を巡る定番スポットをがっちり押さえた1泊2日モデルコースをご紹介！「嚴島神社」と「原爆ドーム」は必見です。宮島の魅力を体感できる1日目と、「平和記念公園」や「広島本通商店街」など歴史や食まで楽しめる2日目の欲張りプランをお楽しみください！",
+    "c_metaTitle": "人気スポットを巡る！広島の1泊2日観光モデルコース【宮島・広島タウン】 | JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "この記事の投稿者にリモート相談予約をする",
+        "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVBV",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "嚴島神社周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/A4204320/",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "嚴島神社の巡り方をみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/chugoku/hiroshima/news_ap_area_0000036",
+          "linkType": "OTHER"
+        },
+        "description": "広島駅から宮島へ渡るフェリーがある宮島口駅までは約30分、そこからフェリーで10分ほどなので乗り換えを含めても1時間ほどで着くことができます。嚴島神社の見どころは何と言っても海に浮かぶ美しい社殿。条件によって異なりますが、朝は満潮と重なりやすくおすすめです。反対に干潮時には大鳥居まで歩いていくことができます。※修繕塗装工事等のため一部施設の見学不可",
+        "image": {
+          "alternateText": "美しい海上社殿のある世界遺産の島「宮島」は広島観光の定番",
+          "height": 732,
+          "sourceUrl": "https://a.mktgcdn.com/p/YC3s_IglS4F-zEDCQ1ZKxkGwqQHSMSzWsqTsEUm5K68/1099x732.jpg",
+          "thumbnails": [
+            {
+              "height": 732,
+              "url": "https://a.mktgcdn.com/p-sandbox/AHy3_uHaQ-JdUZWT6A4Z7qAylHOfkcAOanJcgcH1Twc/1099x732.jpg",
+              "width": 1099
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/AHy3_uHaQ-JdUZWT6A4Z7qAylHOfkcAOanJcgcH1Twc/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/AHy3_uHaQ-JdUZWT6A4Z7qAylHOfkcAOanJcgcH1Twc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/AHy3_uHaQ-JdUZWT6A4Z7qAylHOfkcAOanJcgcH1Twc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AHy3_uHaQ-JdUZWT6A4Z7qAylHOfkcAOanJcgcH1Twc/1099x732.jpg",
+          "width": 1099
+        },
+        "imageCaption": "美しい海上社殿のある世界遺産の島「宮島」は広島観光の定番",
+        "sectionTitle": "「嚴島神社」に朝イチで参拝 旅の安全も祈願（1日目　10:00）"
+      },
+      {
+        "cTA1": {
+          "label": "弥山の魅力をもっとみる",
+          "link": "https://www.jtb.co.jp/kokunai-guide/detail/index.html?spotID\u003d80034645",
+          "linkType": "OTHER"
+        },
+        "description": "宮島の中央部にある標高535 mの弥山。人の手が入っていない原始的植物が自然のまま残っている特異な植生を形成しており、嚴島神社を含むその一部が世界遺産として認定されています。山の上にある獅子岩展望台からは瀬戸内海を一望することができる雄大な景色が広がっています。展望台まではロープウェイで20分ほどなのでぜひ立ち寄って欲しいスポットです。",
+        "image": {
+          "alternateText": "2時間から3時間ほどかけて登る三つの登山コースも人気",
+          "height": 225,
+          "sourceUrl": "https://a.mktgcdn.com/p/8CeBmJoUBJZs9a9qzkZHGX0wu7yZoaqqm34a7QjW-LQ/337x225.jpg",
+          "thumbnails": [
+            {
+              "height": 225,
+              "url": "https://a.mktgcdn.com/p-sandbox/8CeBmJoUBJZs9a9qzkZHGX0wu7yZoaqqm34a7QjW-LQ/337x225.jpg",
+              "width": 337
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/8CeBmJoUBJZs9a9qzkZHGX0wu7yZoaqqm34a7QjW-LQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8CeBmJoUBJZs9a9qzkZHGX0wu7yZoaqqm34a7QjW-LQ/337x225.jpg",
+          "width": 337
+        },
+        "imageCaption": "2時間から3時間ほどかけて登る三つの登山コースも人気",
+        "sectionTitle": "「弥山」から望む瀬戸内海の絶景（1日目　12:00）"
+      },
+      {
+        "cTA1": {
+          "label": "表参道商店街周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/J0049541/",
+          "linkType": "OTHER"
+        },
+        "description": "嚴島神社へと続く約350mの商店街は多くの観光客で賑わう宮島のメインストリートです。有名な宮島のカキを使ったグルメや店によって味が異なる郷土料理のあなごめしなど瀬戸内海の幸も味わえます。お土産として人気なもみじ饅頭やおしゃれなカフェもあるので若い人にも人気です。",
+        "image": {
+          "alternateText": "商店街の至る所からおいしそうな匂いがしてくる",
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/EcPo73Nn3CwIWU9tY09IiquW03Hux2_Y5X4mmBsdJ7Q/1728x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/flwZsK052OtZOYYz6qXrT37TlAZVoH4F8GZ4fUoOltk/1728x1152.jpg",
+              "width": 1728
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/flwZsK052OtZOYYz6qXrT37TlAZVoH4F8GZ4fUoOltk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/flwZsK052OtZOYYz6qXrT37TlAZVoH4F8GZ4fUoOltk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/flwZsK052OtZOYYz6qXrT37TlAZVoH4F8GZ4fUoOltk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/flwZsK052OtZOYYz6qXrT37TlAZVoH4F8GZ4fUoOltk/1728x1152.jpg",
+          "width": 1728
+        },
+        "imageCaption": "商店街の至る所からおいしそうな匂いがしてくる",
+        "sectionTitle": "「表参道商店街」で二大名物グルメや定番のお土産をチェック！（1日目　14:00）"
+      },
+      {
+        "cTA1": {
+          "label": "広島駅周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/3410004/",
+          "linkType": "OTHER"
+        },
+        "description": "厳島神社のある宮島の高台に位置し、日本に残る22の五重塔のうちの1つに数えられる「厳島神社五重塔」。1407年（応永14年）に創建されたと言われ、朱色に染められた姿は嚴島神社に並ぶ宮島を代表する風景になっています。中を見学することはできませんが、宮島の様々な場所から見ることができるので、自分だけのフォトスポットを探すのも面白いかも。",
+        "image": {
+          "alternateText": "高台にある「厳島神社五重塔」は宮島内各所から見える",
+          "height": 1749,
+          "sourceUrl": "https://a.mktgcdn.com/p/sc1-mKggkOuL68NmYAxZLI_DnBwA1d0ynaJTO-JNTzM/2626x1749.jpg",
+          "thumbnails": [
+            {
+              "height": 1749,
+              "url": "https://a.mktgcdn.com/p-sandbox/RN2RfiBjEAhzMKcjJlP0HUjikRvt0X0CItmp3PHI8Tw/2626x1749.jpg",
+              "width": 2626
+            },
+            {
+              "height": 1265,
+              "url": "https://a.mktgcdn.com/p-sandbox/RN2RfiBjEAhzMKcjJlP0HUjikRvt0X0CItmp3PHI8Tw/1900x1265.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/RN2RfiBjEAhzMKcjJlP0HUjikRvt0X0CItmp3PHI8Tw/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/RN2RfiBjEAhzMKcjJlP0HUjikRvt0X0CItmp3PHI8Tw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/RN2RfiBjEAhzMKcjJlP0HUjikRvt0X0CItmp3PHI8Tw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RN2RfiBjEAhzMKcjJlP0HUjikRvt0X0CItmp3PHI8Tw/2626x1749.jpg",
+          "width": 2626
+        },
+        "imageCaption": "高台にある「厳島神社五重塔」は宮島内各所から見える",
+        "sectionTitle": "「厳島神社五重塔」高台に立つ宮島のランドマーク（1日目　16:00）"
+      },
+      {
+        "cTA1": {
+          "label": "平和記念公園周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/3410007/",
+          "linkType": "OTHER"
+        },
+        "description": "広島で宿泊するのであれば、2つのパターンから選ぶことができます。1つは宮島にあるホテルに泊まるパターン、そして広島市内のホテルに泊まるパターンです。2日目の朝から広島市内を観光する場合は、市内滞在時間を多く確保したいため、当日中に市内に戻る方がおすすめです。",
+        "image": {
+          "alternateText": "三角州に位置する緑豊かな公園には多くの人が訪れます",
+          "height": 1325,
+          "sourceUrl": "https://a.mktgcdn.com/p/-8bfJVRd7X0svqg64FcgaAo8fvUzmwwoN-2YPLAfdbc/1992x1325.jpg",
+          "thumbnails": [
+            {
+              "height": 1325,
+              "url": "https://a.mktgcdn.com/p-sandbox/PFh1a-vfu2l8d_YaL4c2kSlPQZCtqPF2SFHGvCFsUME/1992x1325.jpg",
+              "width": 1992
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/PFh1a-vfu2l8d_YaL4c2kSlPQZCtqPF2SFHGvCFsUME/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/PFh1a-vfu2l8d_YaL4c2kSlPQZCtqPF2SFHGvCFsUME/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/PFh1a-vfu2l8d_YaL4c2kSlPQZCtqPF2SFHGvCFsUME/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/PFh1a-vfu2l8d_YaL4c2kSlPQZCtqPF2SFHGvCFsUME/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PFh1a-vfu2l8d_YaL4c2kSlPQZCtqPF2SFHGvCFsUME/1992x1325.jpg",
+          "width": 1992
+        },
+        "imageCaption": "三角州に位置する緑豊かな公園には多くの人が訪れます",
+        "sectionTitle": "広島駅周辺のホテルで宿泊（1日目　18:00）"
+      },
+      {
+        "cTA1": {
+          "label": "広島県の見どころ4エリアをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/chugoku/hiroshima/news_ap_area_0000034",
+          "linkType": "OTHER"
+        },
+        "description": "原爆死没者の慰霊と世界恒久平和を祈念して開設された都市公園。公園内には、原子爆弾の悲惨さを今に伝える原爆ドームや被爆者の遺品や被爆の惨状を示す写真、資料が展示される広島平和記念資料館があり、平和の大切さや尊さを今に伝えています。平和の願いを込めて設置された数々のモニュメントなどもあり、献花することも可能です。広島を訪れた際にはぜひ訪れて欲しい場所です。",
+        "image": {
+          "alternateText": "飲食店や衣類、雑貨など多種多様な商店が立ち並ぶ賑やかな商店街",
+          "height": 1166,
+          "sourceUrl": "https://a.mktgcdn.com/p/IC4jgTM__LywAogJgOGRFdf52uF5expVr7_M8kQ1qR8/1750x1166.jpg",
+          "thumbnails": [
+            {
+              "height": 1166,
+              "url": "https://a.mktgcdn.com/p-sandbox/FXvNrkdPfMPkM9616D6_dHJwCfgRBJQWlgXF6woPPH0/1750x1166.jpg",
+              "width": 1750
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/FXvNrkdPfMPkM9616D6_dHJwCfgRBJQWlgXF6woPPH0/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/FXvNrkdPfMPkM9616D6_dHJwCfgRBJQWlgXF6woPPH0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/FXvNrkdPfMPkM9616D6_dHJwCfgRBJQWlgXF6woPPH0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FXvNrkdPfMPkM9616D6_dHJwCfgRBJQWlgXF6woPPH0/1750x1166.jpg",
+          "width": 1750
+        },
+        "imageCaption": "飲食店や衣類、雑貨など多種多様な商店が立ち並ぶ賑やかな商店街",
+        "sectionTitle": "「平和記念公園」で平和への祈りにふれる（2日目　9:00）"
+      },
+      {
+        "description": "中四国屈指の規模を誇るショッピングストリート「広島本通商店街」。通称「本通り」という呼称で広く親しまれています。東西に伸びる約577メート ルのショッピングストリートは地元の方だけでなく多くの観光客で賑わいます。おしゃれなカフェやご当地グルメの汁なし担々麺のお店、広島でしか買えないお土産なども揃っているショッピングにおすすめのスポットです。",
+        "image": {
+          "alternateText": "店ごとにソースや麺の硬さ、キャベツの量などこだわりがある",
+          "height": 346,
+          "sourceUrl": "https://a.mktgcdn.com/p/meqGkxroij_XVFNHR_mTGgMgcA0POpTRPczHB6p_9sE/520x346.jpg",
+          "thumbnails": [
+            {
+              "height": 346,
+              "url": "https://a.mktgcdn.com/p-sandbox/meqGkxroij_XVFNHR_mTGgMgcA0POpTRPczHB6p_9sE/520x346.jpg",
+              "width": 520
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/meqGkxroij_XVFNHR_mTGgMgcA0POpTRPczHB6p_9sE/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/meqGkxroij_XVFNHR_mTGgMgcA0POpTRPczHB6p_9sE/520x346.jpg",
+          "width": 520
+        },
+        "imageCaption": "店ごとにソースや麺の硬さ、キャベツの量などこだわりがある",
+        "sectionTitle": "「広島本通商店街」でランチ＆ショッピング！（2日目　13:30）"
+      },
+      {
+        "description": "広島の魅力がギュッと詰まった旅の締めは、県民が愛するソウルフードの「お好み焼」で。戦後すぐに広島市内で誕生し、現在も多くの老舗・新鋭がしのぎを削っています。広島のお好み焼は、生地と具材を混ぜず、薄く焼き上げた生地やたっぷりのキャベツと中華そばを“重ね焼き”するスタイル。ボリューム満点なので家族や友達とシェアしていろんな味を楽しむのもおすすめです。",
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "sectionTitle": "「お好み焼」県民が愛するソウルフードが旅の〆（2日目　17:30）"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_n_morita323_002",
+      "news_ap_y_shichi632_004",
+      "news_ap_k_sugino002_003",
+      "news_ap_a_yoshida349_003",
+      "news_ap_area_0000034",
+      "news_ap_h_furuta308_007",
+      "news_ap_h_furuta308_005",
+      "news_ap_a_aoyama330_006",
+      "news_ap_h_tominaga084_008",
+      "news_ap_area_0000036"
+    ],
+    "c_news_FeaturedArticlesTitle": "広島県のその他の記事",
+    "c_news_PublicationDate": "2022-10-06",
+    "c_news_UpdateDate": "2024-05-08",
+    "c_news_ViewCount": "2485",
+    "c_news_ViewCount1of2": "18",
+    "c_news_ViewCount2of2": "2485",
+    "c_news_ViewCountNum": "2485",
+    "c_news_ViewCountNumForSorting": "83",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/chugoku/hiroshima/news_ap_area_0000035",
+    "name": "人気スポットを巡る！広島の1泊2日観光モデルコース【宮島・広島タウン】",
+    "slug": "kokunai/chugoku/hiroshima/news_ap_area_0000035",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "リモコン記事"
+  ]
+}

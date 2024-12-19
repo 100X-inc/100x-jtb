@@ -1,0 +1,120 @@
+{
+  "$id": "cp_y_ichikawa501",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_cp_Articles": [
+      "ap_y_ichikawa501_008",
+      "ap_area_0000023",
+      "ap_y_ichikawa501_007",
+      "ap_y_ichikawa501_006",
+      "ap_y_ichikawa501_005",
+      "ap_y_ichikawa501_004",
+      "ap_y_ichikawa501_003",
+      "ap_y_ichikawa501_002",
+      "ap_y_ichikawa501_001"
+    ],
+    "c_cp_ArticlesSectionTitle": "このコンサルタントの投稿記事",
+    "c_cp_CTA1": {
+      "label": "市川 葉子 のリモート相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVe9",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "コンサルタント一覧",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_cp_Description": "日常から離れた場所で美味しいものを食べたり美しい景色を見たり温泉で癒されたりと特別な時間を楽しめるお手伝いをさせて頂きます。",
+    "c_cp_DisplayName": "市川 葉子",
+    "c_cp_EnrollmentArea": "東京",
+    "c_cp_FieldOfExpertise": [
+      "一人旅",
+      "寺社・教会",
+      "建築・史跡",
+      "歴史・地理",
+      "テーマパーク",
+      "街あるき",
+      "鉄道",
+      "カフェ"
+    ],
+    "c_cp_GeneralInfo": [
+      "ゆかりの地：静岡県",
+      "趣味：ご当地マンホール探し",
+      "次の旅行でしてみたいこと：庄内の「スイデンテラス」で何もせずにのんびりしたい"
+    ],
+    "c_cp_HiraganaName": "いちかわ ようこ",
+    "c_cp_JobTitle": "JTBリモートコンシェルジュ　トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 456,
+      "sourceUrl": "https://a.mktgcdn.com/p/xGb96ppghwUnli4lWiQUBMfjBXEJ-Cq1zDs3F_Zaonc/709x456.png",
+      "thumbnails": [
+        {
+          "height": 456,
+          "url": "https://a.mktgcdn.com/p-sandbox/xGb96ppghwUnli4lWiQUBMfjBXEJ-Cq1zDs3F_Zaonc/709x456.png",
+          "width": 709
+        },
+        {
+          "height": 398,
+          "url": "https://a.mktgcdn.com/p-sandbox/xGb96ppghwUnli4lWiQUBMfjBXEJ-Cq1zDs3F_Zaonc/619x398.png",
+          "width": 619
+        },
+        {
+          "height": 386,
+          "url": "https://a.mktgcdn.com/p-sandbox/xGb96ppghwUnli4lWiQUBMfjBXEJ-Cq1zDs3F_Zaonc/600x386.png",
+          "width": 600
+        },
+        {
+          "height": 126,
+          "url": "https://a.mktgcdn.com/p-sandbox/xGb96ppghwUnli4lWiQUBMfjBXEJ-Cq1zDs3F_Zaonc/196x126.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/xGb96ppghwUnli4lWiQUBMfjBXEJ-Cq1zDs3F_Zaonc/709x456.png",
+      "width": 709
+    },
+    "c_cp_Point": "120",
+    "c_cp_StrongLocalArea1": [
+      "宮城県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "三重県",
+      "京都府",
+      "奈良県",
+      "和歌山県"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "島根県",
+      "広島県"
+    ],
+    "c_cp_Tags": [
+      "女子旅",
+      "京都カフェめぐり",
+      "御朱印",
+      "寺社仏閣めぐり",
+      "パンダ"
+    ],
+    "c_metaDescription": "「JTBリモートコンシェルジュ」は、オンラインでの旅行相談・申込の専門店です。知識豊富なスタッフがご希望の旅をご提案します。 オンライ相談の予約も承ります。",
+    "c_metaTitle": "JTBリモートコンシェルジュ ｜  市川 葉子 ｜ リモートトラベルコンシェルジュ | オンライン旅行相談",
+    "c_news_NewsList": [
+      "news_ap_y_ichikawa501_008",
+      "news_ap_area_0000023",
+      "news_ap_y_ichikawa501_007",
+      "news_ap_y_ichikawa501_006",
+      "news_ap_y_ichikawa501_005",
+      "news_ap_y_ichikawa501_004",
+      "news_ap_y_ichikawa501_003",
+      "news_ap_y_ichikawa501_002",
+      "news_ap_y_ichikawa501_001"
+    ],
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_y_ichikawa501",
+    "c_responsibleService": [
+      "リモートコンシェルジュ"
+    ],
+    "name": "y_ichikawa501",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

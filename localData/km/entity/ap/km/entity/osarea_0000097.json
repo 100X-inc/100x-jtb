@@ -1,0 +1,457 @@
+{
+  "$id": "ap_osarea_0000097",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "「カフェ・コー・バー」は1960年代が舞台のベトナム映画『コー・バー・サイゴン』の世界をモチーフにしたカフェ。ビルの2階にある店内に一歩足を踏み入れると、古き良き時代のベトナムを想起させる空間が広がっています。足踏みミシンやアオザイなど、映画のワンシーンをイメージさせるディスプレイもあり、写真を撮るのが楽しくなるインテリアです。",
+        "image": {
+          "alternateText": "カフェに続くビルの階段もレトロ",
+          "height": 411,
+          "sourceUrl": "https://a.mktgcdn.com/p/3_6nU2p6ZYqwSBzH_E_I-UGgM9ZyodJCHo1pnAnKjc0/617x411.jpg",
+          "thumbnails": [
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/RU8aUqIXA20LlKPiRWHu6iUV4ZshTkusfNRcH9CeVO0/617x411.jpg",
+              "width": 617
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/RU8aUqIXA20LlKPiRWHu6iUV4ZshTkusfNRcH9CeVO0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/RU8aUqIXA20LlKPiRWHu6iUV4ZshTkusfNRcH9CeVO0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RU8aUqIXA20LlKPiRWHu6iUV4ZshTkusfNRcH9CeVO0/617x411.jpg",
+          "width": 617
+        },
+        "imageCaption": "カフェに続くビルの階段もレトロ",
+        "sectionTitle": "カフェ・コー・バー（Cà Phê Cô Ba）"
+      },
+      {
+        "description": "竹籠に盛られたプレートごはんなど、フードのプレゼンテーションが素敵なのもうれしいポイント。アロエ入りハーバルドリンク6万9000VND～やココナッツコーヒー7万9000VND～など、ドリンクメニューも充実しています。DATACà Phê Cô Ba住所：1F, 4-6 Đồng Khởi営業時間：7～23時定休日：なし",
+        "image": {
+          "alternateText": "プレートごはん9万5000VND",
+          "height": 1029,
+          "sourceUrl": "https://a.mktgcdn.com/p/kFxKRS2t_AM5p38Uy0S2XfcGqfV8z5uunUjNju26VlY/686x1029.jpg",
+          "thumbnails": [
+            {
+              "height": 1029,
+              "url": "https://a.mktgcdn.com/p-sandbox/eV-X7EtCbTD5JnQKXoXZ9FhHVwpps2xu3Se2-4tbH_g/686x1029.jpg",
+              "width": 686
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/eV-X7EtCbTD5JnQKXoXZ9FhHVwpps2xu3Se2-4tbH_g/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/eV-X7EtCbTD5JnQKXoXZ9FhHVwpps2xu3Se2-4tbH_g/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/eV-X7EtCbTD5JnQKXoXZ9FhHVwpps2xu3Se2-4tbH_g/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/eV-X7EtCbTD5JnQKXoXZ9FhHVwpps2xu3Se2-4tbH_g/686x1029.jpg",
+          "width": 686
+        },
+        "imageCaption": "プレートごはん9万5000VND",
+        "sectionTitle": "カフェ・ドー・フー（Cà Phê Đỗ Phủ）"
+      },
+      {
+        "description": "趣のある木造古民家でくつろげる「カフェ・ドー・フー」は、ベトナム戦時下に北部のスパイ活動拠点として使われたという貴重な歴史的建造物を利用しています。機密文書を隠すための秘密の空間や脱出用の抜け道など、建物内には当時の仕掛けが現在も残されており、ホーチミン市の史跡にも指定されています。",
+        "image": {
+          "alternateText": "天井が高く開放的な2階席",
+          "height": 2572,
+          "sourceUrl": "https://a.mktgcdn.com/p/hSJ7DzR-wCgn2YUq--eD2oaqFQh9tLmPrliK3__TyN8/1715x2572.jpg",
+          "thumbnails": [
+            {
+              "height": 2572,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LCdjFdfd5B3IqeNuhE5LMW89X0j_gwo4CiyXIC9MpY/1715x2572.jpg",
+              "width": 1715
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LCdjFdfd5B3IqeNuhE5LMW89X0j_gwo4CiyXIC9MpY/1267x1900.jpg",
+              "width": 1267
+            },
+            {
+              "height": 928,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LCdjFdfd5B3IqeNuhE5LMW89X0j_gwo4CiyXIC9MpY/619x928.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LCdjFdfd5B3IqeNuhE5LMW89X0j_gwo4CiyXIC9MpY/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/3LCdjFdfd5B3IqeNuhE5LMW89X0j_gwo4CiyXIC9MpY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3LCdjFdfd5B3IqeNuhE5LMW89X0j_gwo4CiyXIC9MpY/1715x2572.jpg",
+          "width": 1715
+        },
+        "imageCaption": "天井が高く開放的な2階席",
+        "sectionTitle": "シークレット・ガーデン（Secret Garden）"
+      },
+      {
+        "description": "ベトナムコーヒーなどのドリンクメニューのほかに食事メニューも。焼豚肉をご飯にのせた「コム・タム」が名物料理です。豚の耳や玉子焼など、好みのトッピングを楽しめます。DATACà Phê Đỗ Phủ住所：113A Đặng Dung営業時間：7～22時定休日：なし",
+        "image": {
+          "alternateText": "コム・タム（焼豚肉のせご飯）5万VND～",
+          "height": 514,
+          "sourceUrl": "https://a.mktgcdn.com/p/GYuc0Bxdcrx-7Ak3PzkmD3YnMwKV7RDYgL7IbfYKgrw/771x514.jpg",
+          "thumbnails": [
+            {
+              "height": 514,
+              "url": "https://a.mktgcdn.com/p-sandbox/1KQhESotNfhf4_DGOGKkLPN-dhZtFzna8PsHWw5qrz0/771x514.jpg",
+              "width": 771
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/1KQhESotNfhf4_DGOGKkLPN-dhZtFzna8PsHWw5qrz0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/1KQhESotNfhf4_DGOGKkLPN-dhZtFzna8PsHWw5qrz0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/1KQhESotNfhf4_DGOGKkLPN-dhZtFzna8PsHWw5qrz0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1KQhESotNfhf4_DGOGKkLPN-dhZtFzna8PsHWw5qrz0/771x514.jpg",
+          "width": 771
+        },
+        "imageCaption": "コム・タム（焼豚肉のせご飯）5万VND～",
+        "sectionTitle": "ホア・トゥック（Hoa Túc）"
+      },
+      {
+        "description": "「シークレット・ガーデン」は、ホーチミンの隠れ家レストランといえば必ず名前が挙がる人気店。古いアパートメントの中にあるのですが、雑然としたビルの入口やお店のある5階までの階段など、お店へたどり着くまでの過程すべてがレトロ！ 店内は、ビルの外観からは想像がつかないほどおしゃれで、そのギャップに驚くこと間違いなしです。",
+        "image": {
+          "alternateText": "ビルの最上階にあり、オープンエアの空間が心地よい",
+          "height": 3429,
+          "sourceUrl": "https://a.mktgcdn.com/p/SBhWsy8Dcwcj9QGVrQpbDf_ABsHsEsYgVu2_e4jk-Qw/5143x3429.jpg",
+          "thumbnails": [
+            {
+              "height": 3429,
+              "url": "https://a.mktgcdn.com/p-sandbox/-8xX1-CLLkE47fg08jWiezkfcIp7rsVHMR1WmSgZG9M/5143x3429.jpg",
+              "width": 5143
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/-8xX1-CLLkE47fg08jWiezkfcIp7rsVHMR1WmSgZG9M/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/-8xX1-CLLkE47fg08jWiezkfcIp7rsVHMR1WmSgZG9M/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/-8xX1-CLLkE47fg08jWiezkfcIp7rsVHMR1WmSgZG9M/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/-8xX1-CLLkE47fg08jWiezkfcIp7rsVHMR1WmSgZG9M/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-8xX1-CLLkE47fg08jWiezkfcIp7rsVHMR1WmSgZG9M/5143x3429.jpg",
+          "width": 5143
+        },
+        "imageCaption": "ビルの最上階にあり、オープンエアの空間が心地よい",
+        "sectionTitle": "3Tカフェ・チュン（3T Cà Phê Trứng）"
+      },
+      {
+        "description": "人気の秘密は空間だけでなく、料理のおいしさにもあります。メニューは不定期で変更されますが、素朴なベトナムの郷土料理が揃っていて、どれもシンプルながら最高の味。ベトナム南部に伝わるソンベー焼のお皿にも注目して。DATASecret Garden住所：5F, 158 Pasteur営業時間：10～22時定休日：なし",
+        "image": {
+          "alternateText": "お皿に盛られた料理はどれも絶品",
+          "height": 1029,
+          "sourceUrl": "https://a.mktgcdn.com/p/ihrPO8xtMneLRB6nN_hbQcN3rK7fcUK50gl3JTuYWdA/686x1029.jpg",
+          "thumbnails": [
+            {
+              "height": 1029,
+              "url": "https://a.mktgcdn.com/p-sandbox/3URVMo_u0HiFnKyi8mJFRR_HIz-qvZYwMhUKp93v3KI/686x1029.jpg",
+              "width": 686
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/3URVMo_u0HiFnKyi8mJFRR_HIz-qvZYwMhUKp93v3KI/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3URVMo_u0HiFnKyi8mJFRR_HIz-qvZYwMhUKp93v3KI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/3URVMo_u0HiFnKyi8mJFRR_HIz-qvZYwMhUKp93v3KI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3URVMo_u0HiFnKyi8mJFRR_HIz-qvZYwMhUKp93v3KI/686x1029.jpg",
+          "width": 686
+        },
+        "imageCaption": "お皿に盛られた料理はどれも絶品"
+      },
+      {
+        "description": "ラグジュアリーな気分を味わうなら「ホア・トゥック」へ。かつてアヘン工場として使われていた仏領時代の建物をリノベーションしたレストランです。天井の高い店内は瀟洒な家具や照明で彩られ、まるでフランスの古い邸宅を訪れたかのような気分で食事を楽しめます。",
+        "image": {
+          "alternateText": "フレンチコロニアルスタイルの建物は歴史価値も高い",
+          "height": 2000,
+          "sourceUrl": "https://a.mktgcdn.com/p/FydOLS468ewrHJ8UIC5AghvbsD1ioaz_MfZTnPW4244/3000x2000.jpg",
+          "thumbnails": [
+            {
+              "height": 2000,
+              "url": "https://a.mktgcdn.com/p-sandbox/k46MPTZ0ENi9N_Dgw7EZkuAElIgHR6RK9qvTxCtlzew/3000x2000.jpg",
+              "width": 3000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/k46MPTZ0ENi9N_Dgw7EZkuAElIgHR6RK9qvTxCtlzew/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/k46MPTZ0ENi9N_Dgw7EZkuAElIgHR6RK9qvTxCtlzew/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/k46MPTZ0ENi9N_Dgw7EZkuAElIgHR6RK9qvTxCtlzew/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/k46MPTZ0ENi9N_Dgw7EZkuAElIgHR6RK9qvTxCtlzew/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/k46MPTZ0ENi9N_Dgw7EZkuAElIgHR6RK9qvTxCtlzew/3000x2000.jpg",
+          "width": 3000
+        },
+        "imageCaption": "フレンチコロニアルスタイルの建物は歴史価値も高い"
+      },
+      {
+        "description": "料理はベトナム各地の伝統料理や庶民的な麺料理など、幅広いラインナップ。おなじみのベトナム料理が現代風にアレンジされており、ちょっと豪華なディナーにもぴったりです。DATAHoa Túc住所：74/7 Hai Bà Trưng営業時間：11～23時定休日：なし",
+        "image": {
+          "alternateText": "エビのかき揚げ13万5000VND",
+          "height": 924,
+          "sourceUrl": "https://a.mktgcdn.com/p/SRpFbkdtL5AJtEVm1r3zraDOnSBNdACcwpmB8H7eXcc/612x924.jpg",
+          "thumbnails": [
+            {
+              "height": 924,
+              "url": "https://a.mktgcdn.com/p-sandbox/h_MnlC_WY54Da6Zsp2SuQMUPpwjDZ6yjf3N3_A28t8c/612x924.jpg",
+              "width": 612
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/h_MnlC_WY54Da6Zsp2SuQMUPpwjDZ6yjf3N3_A28t8c/298x450.jpg",
+              "width": 298
+            },
+            {
+              "height": 296,
+              "url": "https://a.mktgcdn.com/p-sandbox/h_MnlC_WY54Da6Zsp2SuQMUPpwjDZ6yjf3N3_A28t8c/196x296.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/h_MnlC_WY54Da6Zsp2SuQMUPpwjDZ6yjf3N3_A28t8c/612x924.jpg",
+          "width": 612
+        },
+        "imageCaption": "エビのかき揚げ13万5000VND"
+      },
+      {
+        "description": "街なかでひと休みするなら、1950年代のホーチミンを思わせるレトロ調の店内がかわい「3Tカフェ・チュン」へ。サイゴン川に面しており、リバービューの小さなテラス席もあります。",
+        "image": {
+          "alternateText": "早朝から深夜まで客足が途絶えない人気ぶり",
+          "height": 2000,
+          "sourceUrl": "https://a.mktgcdn.com/p/30eSzqF-n5XRvWobKWbePWqz2HDz5gznuST_ryru-i4/3000x2000.jpg",
+          "thumbnails": [
+            {
+              "height": 2000,
+              "url": "https://a.mktgcdn.com/p-sandbox/PJW8tyKPVCLO9L4PQBYLXtLUimQojVNPEvzutcPBTso/3000x2000.jpg",
+              "width": 3000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/PJW8tyKPVCLO9L4PQBYLXtLUimQojVNPEvzutcPBTso/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/PJW8tyKPVCLO9L4PQBYLXtLUimQojVNPEvzutcPBTso/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/PJW8tyKPVCLO9L4PQBYLXtLUimQojVNPEvzutcPBTso/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/PJW8tyKPVCLO9L4PQBYLXtLUimQojVNPEvzutcPBTso/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PJW8tyKPVCLO9L4PQBYLXtLUimQojVNPEvzutcPBTso/3000x2000.jpg",
+          "width": 3000
+        },
+        "imageCaption": "早朝から深夜まで客足が途絶えない人気ぶり"
+      },
+      {
+        "description": "ぜひトライしてほしいのが、ハノイ発祥の伝統ドリンク“エッグコーヒー”です。卵黄とコンデンスミルクを泡立てたクリームをコーヒーの上にのせたもので、まったりと甘いクリーム×ほろ苦コーヒーの組み合わせがまるでデザートのような味わいです。DATA3T Cà Phê Trứng住所：1A Tôn Đức Thắng営業時間：7～24時定休日：なし※2023年8月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。",
+        "image": {
+          "alternateText": "看板メニューの「3Tエッグコーヒー」5万5000VND",
+          "height": 3000,
+          "sourceUrl": "https://a.mktgcdn.com/p/nlSQ9WS1tqGOBXUav2qZHqDte9-E12VIItM-XBZSQN4/2000x3000.jpg",
+          "thumbnails": [
+            {
+              "height": 3000,
+              "url": "https://a.mktgcdn.com/p-sandbox/z8m6V9b1kB3mn_puVjDZ82ujNW1e6HMThPIoH7Zrw00/2000x3000.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/z8m6V9b1kB3mn_puVjDZ82ujNW1e6HMThPIoH7Zrw00/1267x1900.jpg",
+              "width": 1267
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/z8m6V9b1kB3mn_puVjDZ82ujNW1e6HMThPIoH7Zrw00/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/z8m6V9b1kB3mn_puVjDZ82ujNW1e6HMThPIoH7Zrw00/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/z8m6V9b1kB3mn_puVjDZ82ujNW1e6HMThPIoH7Zrw00/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/z8m6V9b1kB3mn_puVjDZ82ujNW1e6HMThPIoH7Zrw00/2000x3000.jpg",
+          "width": 2000
+        },
+        "imageCaption": "看板メニューの「3Tエッグコーヒー」5万5000VND"
+      }
+    ],
+    "c_ap_DatePosted": "2023-09-16",
+    "c_ap_HeroImage": {
+      "alternateText": "エキゾチックな雰囲気漂うレトロカフェ\u0026レストラン【ベトナム　ホーチミン】",
+      "height": 4114,
+      "sourceUrl": "https://a.mktgcdn.com/p/SUmfVq52_au2poZqryM2lnXaa0GQpNve3FYPR0VDzVE/2743x4114.jpg",
+      "thumbnails": [
+        {
+          "height": 4114,
+          "url": "https://a.mktgcdn.com/p-sandbox/5aMZL9ZhckJGVNmoCIEPaAA6yWHynrE6grPx2MfaLHE/2743x4114.jpg",
+          "width": 2743
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/5aMZL9ZhckJGVNmoCIEPaAA6yWHynrE6grPx2MfaLHE/1267x1900.jpg",
+          "width": 1267
+        },
+        {
+          "height": 928,
+          "url": "https://a.mktgcdn.com/p-sandbox/5aMZL9ZhckJGVNmoCIEPaAA6yWHynrE6grPx2MfaLHE/619x928.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/5aMZL9ZhckJGVNmoCIEPaAA6yWHynrE6grPx2MfaLHE/300x450.jpg",
+          "width": 300
+        },
+        {
+          "height": 294,
+          "url": "https://a.mktgcdn.com/p-sandbox/5aMZL9ZhckJGVNmoCIEPaAA6yWHynrE6grPx2MfaLHE/196x294.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/5aMZL9ZhckJGVNmoCIEPaAA6yWHynrE6grPx2MfaLHE/2743x4114.jpg",
+      "width": 2743
+    },
+    "c_ap_HeroImageCaption": "飴色の木製家具が美しいカフェ・コー・バー",
+    "c_ap_LinkArticleSectionTitle": "ベトナムのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "ベトナム旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/vietnam/"
+      },
+      {
+        "linkText": "ホーチミンのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dSGN"
+      },
+      {
+        "linkText": "ベトナムのホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/194/?freeword\u003d%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d194"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea4": [
+      "ベトナム"
+    ],
+    "c_ap_ShortDescription": "ホーチミンでは今、古い建物をリノベーションしたカフェやレストランがトレンドです。アンティークの家具などが配されたレトロな空間は、まるでそこだけ時が止まっているかのよう。時間を忘れてのんびりとくつろげることうけあいです。アパートメントの1室だったり、静かな路地の奥だったり、まるで隠れ家のようなロケーションも秘密基地のようで楽しい！（写真：カフェ・コー・バー）",
+    "c_ap_Tags": [
+      "ホーチミン",
+      "ベトナム料理",
+      "カフェ",
+      "ランチ",
+      "ディナー"
+    ],
+    "c_ap_Title": "エキゾチックな雰囲気漂うレトロカフェ\u0026レストラン【ベトナム　ホーチミン】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "ホーチミンでは今、古い建物をリノベーションしたカフェやレストランがトレンドです。アンティークの家具などが配されたレトロな空間は、まるでそこだけ時が止まっているかのよう。時間を忘れてのんびりとくつろげることうけあいです。アパートメントの1室だったり、静かな路地の奥だったり、まるで隠れ家のようなロケーションも秘密基地のようで楽しい！（写真：カフェ・コー・バー）",
+    "c_metaTitle": "エキゾチックな雰囲気漂うレトロカフェ\u0026レストラン【ベトナム　ホーチミン】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000097",
+    "name": "エキゾチックな雰囲気漂うレトロカフェ\u0026レストラン【ベトナム　ホーチミン】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

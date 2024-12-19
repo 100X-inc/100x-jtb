@@ -1,0 +1,94 @@
+{
+  "$id": "cp_14883013",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "木村の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVqV_Ke",
+      "linkType": "OTHER"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfVxd",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "2024年４月より吉祥寺店の仲間入りした、木村悦子です。\n生まれも育ちも、東京の下町です。そのご縁から、JTBへ入社後も、\n北千住、浅草、小岩店と！コテコテの下町エリアでこれまで勤務して参りました。\nそれがなんと！初めて、東京の西エリア・おしゃれで人気の吉祥寺での勤務となり、\nめちゃくちゃハマっております。むしろ！もっと早く！西エリアで働きたかったと思うほどです！\nプライベートでは、92歳の母と、高校３年の受験生と主夫である夫の４人家族です。\n高齢の方を連れてのお出かけや、３世代の家族旅行など！なんでもご相談ください。\nお客様の大切なご旅行です。持てる知識をフル稼働してお手配させていただきます。",
+    "c_cp_DisplayName": "木村",
+    "c_cp_FieldOfExpertise": [
+      "グループ旅行"
+    ],
+    "c_cp_HiraganaName": "きむら",
+    "c_cp_JobTitle": "JTB吉祥寺店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 1060,
+      "sourceUrl": "https://a.mktgcdn.com/p/KEGK3Hogj2fqgJRJ2fPYWWmjcscfGiq46y2vHEbIWXo/1000x1060.jpg",
+      "thumbnails": [
+        {
+          "height": 1060,
+          "url": "https://a.mktgcdn.com/p-sandbox/KEGK3Hogj2fqgJRJ2fPYWWmjcscfGiq46y2vHEbIWXo/1000x1060.jpg",
+          "width": 1000
+        },
+        {
+          "height": 656,
+          "url": "https://a.mktgcdn.com/p-sandbox/KEGK3Hogj2fqgJRJ2fPYWWmjcscfGiq46y2vHEbIWXo/619x656.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/KEGK3Hogj2fqgJRJ2fPYWWmjcscfGiq46y2vHEbIWXo/425x450.jpg",
+          "width": 425
+        },
+        {
+          "height": 208,
+          "url": "https://a.mktgcdn.com/p-sandbox/KEGK3Hogj2fqgJRJ2fPYWWmjcscfGiq46y2vHEbIWXo/196x208.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/KEGK3Hogj2fqgJRJ2fPYWWmjcscfGiq46y2vHEbIWXo/1000x1060.jpg",
+      "width": 1000
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "オーストラリア"
+    ],
+    "c_cp_StrongAbroadArea2": [
+      "アメリカ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "スペイン",
+      "イタリア",
+      "ドイツ"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "広島県"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "しまなみ海道",
+      "同窓会",
+      "温泉",
+      "PTA"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 木村",
+    "c_metaTitle": "JTBトラベルコンサルタント | 木村",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_14883013",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10135_吉祥寺店",
+    "name": "きむら_14883013",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

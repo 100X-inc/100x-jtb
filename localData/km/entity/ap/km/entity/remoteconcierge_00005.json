@@ -1,0 +1,209 @@
+{
+  "$id": "ap_remoteconcierge_00005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "毎分800リットルという湯量豊富な自家源泉は、宿から5.4kmほど上流にあります。那須御用邸の源泉と隣接する沢の岩間から自然に湧いており、自然流下により直接宿に引き入れています。野趣あふれる大小2つの露天風呂では、春の新緑や夏の深緑、秋の紅葉と、季節の移ろいを感じながら湯浴みを満喫できます。木々のざわめきに耳を傾けながら、長湯を楽しむのもいいですね。",
+        "image": {
+          "height": 960,
+          "sourceUrl": "https://a.mktgcdn.com/p/U0v3HsoNYE1qqTBid_vY8RCcNFvY8-1revYCDkqikl8/1200x960.jpg",
+          "thumbnails": [
+            {
+              "height": 960,
+              "url": "https://a.mktgcdn.com/p-sandbox/Pf29APt__pwvDHhqphCKeM5U32DfusM6nXtVSH6iO00/1200x960.jpg",
+              "width": 1200
+            },
+            {
+              "height": 495,
+              "url": "https://a.mktgcdn.com/p-sandbox/Pf29APt__pwvDHhqphCKeM5U32DfusM6nXtVSH6iO00/619x495.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Pf29APt__pwvDHhqphCKeM5U32DfusM6nXtVSH6iO00/563x450.jpg",
+              "width": 563
+            },
+            {
+              "height": 157,
+              "url": "https://a.mktgcdn.com/p-sandbox/Pf29APt__pwvDHhqphCKeM5U32DfusM6nXtVSH6iO00/196x157.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Pf29APt__pwvDHhqphCKeM5U32DfusM6nXtVSH6iO00/1200x960.jpg",
+          "width": 1200
+        },
+        "imageCaption": "広々とした大露天風呂",
+        "sectionTitle": "自家源泉から引く自慢の湯を贅沢にかけ流しで"
+      },
+      {
+        "description": "夕食には季節を感じる会席料理を。全国からよりすぐった旬の食材を使った料理には、日本人の美意識と料理人の技が詰まっています。那須高原の有機野菜や栃木県産米など通年のこだわり食材のほか、春の筍、夏の鱧、秋の松茸、冬の京野菜と、季節の食材が食卓を彩ります。お食事は、料理茶屋「山翠亭」かお食事処「四季亭」のいずれかで。全室個室なので、周りを気にせず食事の時間を満喫できます。一部のお部屋では、お部屋食を選ぶこともできます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/AJIS3BmG2OCPWUTanTLp6sT0npuaTh78NtzK_N8uP8M/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/hGpnRyh51LCkXqPz41ea__glqa-X8nipps0q7JH3o_c/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/hGpnRyh51LCkXqPz41ea__glqa-X8nipps0q7JH3o_c/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/hGpnRyh51LCkXqPz41ea__glqa-X8nipps0q7JH3o_c/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/hGpnRyh51LCkXqPz41ea__glqa-X8nipps0q7JH3o_c/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hGpnRyh51LCkXqPz41ea__glqa-X8nipps0q7JH3o_c/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "旬の素材を生かした会席料理に舌鼓",
+        "sectionTitle": "日本の美をひと皿に表現。季節を感じる会席料理"
+      },
+      {
+        "description": "純和風のスタンダードな標準客室から、4タイプの露天風呂付特別客室まで、お部屋の種類は多彩です。ベッドタイプのお部屋や和洋室もあり、那須の絶景や手入れが行き届いた日本庭園など、窓からの自然風景を眺めながら優雅な滞在を楽しめます。洗練されたお部屋で、静寂に満ちたひとときをお楽しみください。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/GETlqviwU8QF6EHKuq1_ILjqKUY5gsIMWfu0SsgjckM/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/B1LU281y-eFGdj1uvbAaMHd33zbDTYLPC-looavIPas/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/B1LU281y-eFGdj1uvbAaMHd33zbDTYLPC-looavIPas/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/B1LU281y-eFGdj1uvbAaMHd33zbDTYLPC-looavIPas/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/B1LU281y-eFGdj1uvbAaMHd33zbDTYLPC-looavIPas/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/B1LU281y-eFGdj1uvbAaMHd33zbDTYLPC-looavIPas/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "2間続きの「数寄屋造り上級和室（東館）」",
+        "sectionTitle": "日本風情を感じながら過ごす、非日常のひととき"
+      },
+      {
+        "description": "四季を通じて楽しめる那須高原には、テーマーパークやアウトレット、森のカフェなど、魅力あふれる名所がたくさんあります。那須めぐりの拠点にも活用してくださいね。",
+        "sectionTitle": "魅力あふれるみどころが盛りだくさん。那須観光の拠点にも最適"
+      }
+    ],
+    "c_ap_DatePosted": "2023-06-15",
+    "c_ap_HeroImage": {
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/eFefUkVVY6TwSySBt9BeUlf8fXs1OoElHpyerFcyFBk/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZdFWbJJ76nL6QapoqKZQ5v7af__tq_5qNKOwZEGl-Cc/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZdFWbJJ76nL6QapoqKZQ5v7af__tq_5qNKOwZEGl-Cc/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZdFWbJJ76nL6QapoqKZQ5v7af__tq_5qNKOwZEGl-Cc/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZdFWbJJ76nL6QapoqKZQ5v7af__tq_5qNKOwZEGl-Cc/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ZdFWbJJ76nL6QapoqKZQ5v7af__tq_5qNKOwZEGl-Cc/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "湯量豊富な温泉が自慢の宿",
+    "c_ap_LinkArticleSectionTitle": "栃木県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "栃木旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/tochigi/"
+      },
+      {
+        "linkText": "栃木県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/tochigi/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "関東全般",
+      "栃木県"
+    ],
+    "c_ap_ShortDescription": "避暑地として名高い那須高原にある「那須温泉 山楽」は、大正12年（1923）創業の老舗旅館です。その昔、昭和天皇が訪れた際、雄大な那須野ヶ原の景観をお気に召されたことで那須御用邸造立を計画されたという話も伝わっています。\n野趣あふれる露天風呂に注がれる湯は、豊富な湯量を誇る自家源泉から引いており、御用邸と同じ泉質の湯を贅沢にかけ流しています。那須の雄大な自然を見渡すお部屋や、季節を感じるこだわり素材のお料理も、非日常のひとときを演出してくれます。静かに流れる時間のなかに身を置いて、贅沢な時間をお楽しみくださいね。",
+    "c_ap_Theme": [
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "創業100年。避暑地・那須高原に佇む老舗旅館【栃木県　那須温泉 山楽】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "避暑地として名高い那須高原にある「那須温泉 山楽」は、大正12年（1923）創業の老舗旅館です。その昔、昭和天皇が訪れた際、雄大な那須野ヶ原の景観をお気に召されたことで那須御用邸造立を計画されたという話も伝わ…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "創業100年。避暑地・那須高原に佇む老舗旅館【栃木県　那須温泉 山楽】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_remoteconcierge_00005",
+    "c_searchArea2": "関東全般, 栃木県",
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "創業100年。避暑地・那須高原に佇む老舗旅館【栃木県　那須温泉 山楽】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-17",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/17_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d45.296168%2C141.034103",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "「花の浮島」と呼ばれる礼文島では、300種類以上の花が5月から9月にかけて咲きそろいます。その中には礼文島だけに自生する花や、本州の日本アルプスでは標高2,000m以上の高山でなければ見られないような高山植物も多く含まれています。島の天気もまた高山のように変わりやすく、晴天であっても急に霧が出てきたりしますが、実はそのほうが花を見るには絶好のロケーションなのです。晴れた日よりも霧がかかった日のほうが、花の色が霧の中で鮮やかに映え、とても美しい花畑を見ることができます。香深（かふか）から桃岩展望台へのコースでは、たくさんの花々とともに、展望台から猫岩などの奇岩や利尻富士といった絶景を望むこともできます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/17.asp",
+    "name": "薄霧の中に咲く礼文島桃岩展望台周辺の花々"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

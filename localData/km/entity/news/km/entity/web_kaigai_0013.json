@@ -1,0 +1,370 @@
+{
+  "$id": "news_web_kaigai_0013",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1278,
+      "sourceUrl": "https://a.mktgcdn.com/p/CRnoShgON1SMdTVE6tciMwGAtDTkynQm1l7HuMXuXto/1920x1278.jpg",
+      "thumbnails": [
+        {
+          "height": 1278,
+          "url": "https://a.mktgcdn.com/p-sandbox/B6_4v8EtMcaHSC49Kpm-GsGV4g0VwClv-Kcj6seLtTA/1920x1278.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1265,
+          "url": "https://a.mktgcdn.com/p-sandbox/B6_4v8EtMcaHSC49Kpm-GsGV4g0VwClv-Kcj6seLtTA/1900x1265.jpg",
+          "width": 1900
+        },
+        {
+          "height": 412,
+          "url": "https://a.mktgcdn.com/p-sandbox/B6_4v8EtMcaHSC49Kpm-GsGV4g0VwClv-Kcj6seLtTA/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "https://a.mktgcdn.com/p-sandbox/B6_4v8EtMcaHSC49Kpm-GsGV4g0VwClv-Kcj6seLtTA/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "https://a.mktgcdn.com/p-sandbox/B6_4v8EtMcaHSC49Kpm-GsGV4g0VwClv-Kcj6seLtTA/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/B6_4v8EtMcaHSC49Kpm-GsGV4g0VwClv-Kcj6seLtTA/1920x1278.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "アイルランド旅行・ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/ireland/"
+      },
+      {
+        "linkText": "アイルランドのホテルを探す",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/84/?freeword\u003d%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d84"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_Tags": [
+      "グルメ",
+      "おみゃげ",
+      "アイルランド",
+      "ヨーロッパ",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "【JTB現地スタッフ厳選】アイルランド観光のおすすめ観光スポットと楽しみ方",
+    "c_linkedArea3News": [
+      "united_kingdom"
+    ],
+    "c_metaDescription": "JTB現地スタッフが厳選する、アイルランドのおすすめ観光スポットと楽しみ方をご紹介します。世界遺産などの人気スポットや一度は訪れたい観光名所、さらに現地グルメ情報まで！旅のプロが厳選した、アイルランド観光を満喫するための過ごし方をチェックしてみてください。",
+    "c_metaTitle": "【JTB現地スタッフ厳選】アイルランド観光のおすすめ観光スポットと楽しみ方",
+    "c_news_CTAs": [
+      {
+        "label": "アイルランド旅行・ツアーを探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/ireland/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "アイルランドのホテルを探す",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/84/?freeword\u003d%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d84",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "アイルランドの観光情報をもっとみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/western_europe/ireland/index.html",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "Adare Manorに泊まる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/38612/",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "Dromoland Castleに泊まる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/422200/",
+          "linkType": "OTHER"
+        },
+        "description": "日本との時差はマイナス9時間、日本が正午のときにアイルランドは午前3時。ただし、3月下旬から10月下旬にかけてのサマータイム期間はマイナス8時間です。温帯（西岸海洋性気候）に属し、島の西側を流れる暖流の影響もあるので、年間を通じて寒暖の差は少なく穏やかな気候といえます。冬季でも零下になることはあまり無く、積雪は一部の山間部を除いて稀です。シャワーと呼ばれる細かな雨が頻繁に降るため、一年を通じて緑豊かです。",
+        "image": {
+          "height": 1021,
+          "sourceUrl": "https://a.mktgcdn.com/p/AOPejwQ8t547M3_1qmvrOvQNNico9ph_4qKJhEO1g_Y/1536x1021.jpg",
+          "thumbnails": [
+            {
+              "height": 1021,
+              "url": "https://a.mktgcdn.com/p-sandbox/9Qns_Rpn6Pp_BJrcdw_reZooqeoojfJFr2xA2qP96Qk/1536x1021.jpg",
+              "width": 1536
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/9Qns_Rpn6Pp_BJrcdw_reZooqeoojfJFr2xA2qP96Qk/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/9Qns_Rpn6Pp_BJrcdw_reZooqeoojfJFr2xA2qP96Qk/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/9Qns_Rpn6Pp_BJrcdw_reZooqeoojfJFr2xA2qP96Qk/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9Qns_Rpn6Pp_BJrcdw_reZooqeoojfJFr2xA2qP96Qk/1536x1021.jpg",
+          "width": 1536
+        },
+        "imageCaption": "ギネス・ストアハウス／外観",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．アイルランドの基本情報"
+      },
+      {
+        "cTA1": {
+          "label": "トリニティ・カレッジの情報をみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/western_europe/ireland/DUB/119222/index.html",
+          "linkType": "OTHER"
+        },
+        "description": "ダブリンにある、16世紀頃にエリザベス1世が創設した、アイルランドで最初の大学です。アイルランドでも最大級といわれる図書館には420万冊以上もの蔵書があり、歴史的に重要な地図、音楽資料の他、9世紀頃の豪華な装飾写本『ケルズの書』があることでも有名です。",
+        "image": {
+          "height": 750,
+          "sourceUrl": "https://a.mktgcdn.com/p/xbqnusyN9CLgQf_xj20s3YHj4GKwrW36TiRrQwIcFZ0/1000x750.jpg",
+          "thumbnails": [
+            {
+              "height": 750,
+              "url": "https://a.mktgcdn.com/p-sandbox/xbqnusyN9CLgQf_xj20s3YHj4GKwrW36TiRrQwIcFZ0/1000x750.jpg",
+              "width": 1000
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/xbqnusyN9CLgQf_xj20s3YHj4GKwrW36TiRrQwIcFZ0/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/xbqnusyN9CLgQf_xj20s3YHj4GKwrW36TiRrQwIcFZ0/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/xbqnusyN9CLgQf_xj20s3YHj4GKwrW36TiRrQwIcFZ0/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xbqnusyN9CLgQf_xj20s3YHj4GKwrW36TiRrQwIcFZ0/1000x750.jpg",
+          "width": 1000
+        },
+        "imageCaption": "ミドルトン蒸留所／イメージ",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．アイルランドのおすすめ観光スポット5選"
+      },
+      {
+        "cTA1": {
+          "label": "ギネス・ストアハウスの情報をみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/western_europe/ireland/DUB/119223/index.html",
+          "linkType": "OTHER"
+        },
+        "description": "ダブリンにある、世界的に有名なギネスビールの魅力を紹介する施設です。ギネス社の資料や広告などの展示を見ることができ、醸造行程を見学できるコースも用意されています。入館料には1パイントのギネスの試飲も含まれる。6階と7階はバーになっており、ダブリンの街を見渡せる眺めも素晴らしいと評判です。",
+        "image": {
+          "height": 1194,
+          "sourceUrl": "https://a.mktgcdn.com/p/Ff-QuVBoIK7jjwFsrcXaD17-kQ6Oq2CGNzjJ98JAOi4/1536x1194.jpg",
+          "thumbnails": [
+            {
+              "height": 1194,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ff-QuVBoIK7jjwFsrcXaD17-kQ6Oq2CGNzjJ98JAOi4/1536x1194.jpg",
+              "width": 1536
+            },
+            {
+              "height": 481,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ff-QuVBoIK7jjwFsrcXaD17-kQ6Oq2CGNzjJ98JAOi4/619x481.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ff-QuVBoIK7jjwFsrcXaD17-kQ6Oq2CGNzjJ98JAOi4/579x450.jpg",
+              "width": 579
+            },
+            {
+              "height": 152,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ff-QuVBoIK7jjwFsrcXaD17-kQ6Oq2CGNzjJ98JAOi4/196x152.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ff-QuVBoIK7jjwFsrcXaD17-kQ6Oq2CGNzjJ98JAOi4/1536x1194.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "トリニティ・カレッジ"
+      },
+      {
+        "cTA1": {
+          "label": "Ashford Castleに泊まる",
+          "link": "https://www.jtb.co.jp/ovs_htl/detail/search_detail/24501/",
+          "linkType": "OTHER"
+        },
+        "description": "北アイルランドの中心都市ベルファストにある、オールド・ブッシュミルズ蒸留所は、1608年に国王ジェームス1世から免許を授かった最古の公認蒸留所として知られています。そんな歴史ある蒸留所では、そのウィスキー作りを探る蒸留所ツアーが人気ですが、この蒸留所を訪れるもう一つの理由があります。それは、ブッシュミルズ唯一のシングル・モルトウィスキー、｢Bushmills 12 year-old Distillery Reserve Single Malt｣が購入できるのが、ここのギフトショップだけだからです。",
+        "image": {
+          "height": 428,
+          "sourceUrl": "https://a.mktgcdn.com/p/54Dg-ocsVKp8dxdJHPmJkpHcmX70ARvx3HEBG1BXTc0/640x428.jpg",
+          "thumbnails": [
+            {
+              "height": 428,
+              "url": "https://a.mktgcdn.com/p-sandbox/54Dg-ocsVKp8dxdJHPmJkpHcmX70ARvx3HEBG1BXTc0/640x428.jpg",
+              "width": 640
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/54Dg-ocsVKp8dxdJHPmJkpHcmX70ARvx3HEBG1BXTc0/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/54Dg-ocsVKp8dxdJHPmJkpHcmX70ARvx3HEBG1BXTc0/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/54Dg-ocsVKp8dxdJHPmJkpHcmX70ARvx3HEBG1BXTc0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/54Dg-ocsVKp8dxdJHPmJkpHcmX70ARvx3HEBG1BXTc0/640x428.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ギネス・ストアハウス"
+      },
+      {
+        "description": "ベルファストにある、タイタニック専門の博物館です。2012年に、タイタニックが進水して100周年という節目を記念して建設されました。この博物館では、タイタニックがどのように造船されたのか、どのような人物が乗船していたのか、客室がリアルに再現されていたり、沈没の経緯に至るまで、コンピューターグラフィック、映像、展示にて分かり易く説明されています。",
+        "image": {
+          "height": 428,
+          "sourceUrl": "https://a.mktgcdn.com/p/9YoZV8VzA_2G9pMG3Z7eDYs6r8Xr_yNhG4JkFTXtQxo/640x428.jpg",
+          "thumbnails": [
+            {
+              "height": 428,
+              "url": "https://a.mktgcdn.com/p-sandbox/9YoZV8VzA_2G9pMG3Z7eDYs6r8Xr_yNhG4JkFTXtQxo/640x428.jpg",
+              "width": 640
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/9YoZV8VzA_2G9pMG3Z7eDYs6r8Xr_yNhG4JkFTXtQxo/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/9YoZV8VzA_2G9pMG3Z7eDYs6r8Xr_yNhG4JkFTXtQxo/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/9YoZV8VzA_2G9pMG3Z7eDYs6r8Xr_yNhG4JkFTXtQxo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9YoZV8VzA_2G9pMG3Z7eDYs6r8Xr_yNhG4JkFTXtQxo/640x428.jpg",
+          "width": 640
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "オールド・ブッシュミルズ蒸留所"
+      },
+      {
+        "description": "ベルファストの北約100kmに位置する世界遺産ジャイアンツ・コーズウェイ（巨人の石道）は、奇岩でできた海岸として人気の観光スポットとなっています。マグマの冷却でできた六角形の岩で敷き詰められており、自然の驚異に圧倒されます。",
+        "image": {
+          "height": 750,
+          "sourceUrl": "https://a.mktgcdn.com/p/sH9n5gvombdKlnzaFgcvqSm6161CPrxwzihuCE5SJ_s/1000x750.jpg",
+          "thumbnails": [
+            {
+              "height": 750,
+              "url": "https://a.mktgcdn.com/p-sandbox/sH9n5gvombdKlnzaFgcvqSm6161CPrxwzihuCE5SJ_s/1000x750.jpg",
+              "width": 1000
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/sH9n5gvombdKlnzaFgcvqSm6161CPrxwzihuCE5SJ_s/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/sH9n5gvombdKlnzaFgcvqSm6161CPrxwzihuCE5SJ_s/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/sH9n5gvombdKlnzaFgcvqSm6161CPrxwzihuCE5SJ_s/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sH9n5gvombdKlnzaFgcvqSm6161CPrxwzihuCE5SJ_s/1000x750.jpg",
+          "width": 1000
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "タイタニック・ベルファスト"
+      },
+      {
+        "description": "アイルランドの旅の大きな魅力として、郊外へ足を伸ばしてゆったりとした時間を過ごせることが挙げられます。素晴らしい自然がたくさんあり、澄み渡った空気と美しい緑豊かな景色が、心にリラックスとゆとりをもたらしてくれます。そして、アイルランドには、歴史ある｢キャッスル・ホテル｣が数多く存在します。中でもおすすめなのは、マヨ州の500年以上の歴史のある｢Ashford Castle（アシュフォード・キャッスル）｣、リメリック州にある伯爵の屋敷であった｢Adare Manor （アデア・マナー・ホテル）｣、クレア州にあり、インチクイン男爵が所有していた何百年もの歴史のある｢Dromoland Castle（ドロモランド・キャッスル）｣です。ぜひこれらの城に宿泊し、歴史や古きよきアイルランドを感じながら、穏やかでゆったりとした時間をご堪能ください。",
+        "image": {
+          "height": 414,
+          "sourceUrl": "https://a.mktgcdn.com/p/4y95X9x3FBYZBWzFVFOCSUSq_ngZd6_cZLVc-OA0yOA/414x414.jpg",
+          "thumbnails": [
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/4y95X9x3FBYZBWzFVFOCSUSq_ngZd6_cZLVc-OA0yOA/414x414.jpg",
+              "width": 414
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/4y95X9x3FBYZBWzFVFOCSUSq_ngZd6_cZLVc-OA0yOA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4y95X9x3FBYZBWzFVFOCSUSq_ngZd6_cZLVc-OA0yOA/414x414.jpg",
+          "width": 414
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ジャイアンツ・コーズウェイ"
+      },
+      {
+        "description": "アイルランドの名物料理といえば、羊肉と玉葱の煮込みにジャガイモを添えた｢アイリッシュ・シチュー｣を思い浮かべる方も多いかと思います。他にも｢モダン・アイリッシュ｣とよばれる伝統的な料理にフレンチ、地中海、アジアのテイストを加えた新しい料理が人気です。日本と同様に島国のアイランドは海の幸に恵まれていますが、日本と違いアイルランドでは基本的に海産物は生では食べません。そんなアイルランドで生でよく食べられるのが牡蠣です。アイルランドの牡蠣は丸い形をしており、味もミルキー。クリーミーなギネスビールとも相性抜群です。",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．アイルランドの「お城ホテル」に泊まる"
+      },
+      {
+        "description": "アイルランドのお酒といえば、ウィスキー｢ジェムソン｣を思い浮かべる人も多いのではないでしょうか？ジェムソン・ウィスキーを製造していた旧蒸留所では、見学ツアーだけでなく、ウィスキー・テイスティングも体験することが可能です。さらに、このジェムソンのウィスキーボトルに自分の名前を入れることが可能で、これこそ世界に一本だけしかない自分だけのボトルをつくるこができます。お土産にも最適で、ウィスキーファンにはたまらない最高のお土産となることでしょう。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．アイルランドのおすすめグルメ・料理"
+      },
+      {
+        "description": "毎年3月17日は、セント・パトリックス・デー（St Patrick’s Day)とよばれるアイルランドにとっては重要な祝祭日です。5世紀にアイルランドで初めてキリスト教を広め、365の教会を建てた司教の聖パトリックの命日で、1996年よりダブリンで5日間の盛大なフェスティバルが行われるようになり、その後世界各地でフェスティバルが行われるようになりました。アイルランドの国花“シャムロック”の緑に街中が染まるセント・パトリックス・デーに合わせて、アイルランドを訪れるのもおすすめです。",
+        "sectionLevel": "h2",
+        "sectionTitle": "5．JTB現地スタッフが教える！アイルランドのローカル情報"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "ウイスキー好きにおすすめのお土産"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "アイルランドの祝日「セント・パトリックス・デー」"
+      }
+    ],
+    "c_news_PublicationDate": "2020-10-21",
+    "c_news_UpdateDate": "2024-08-20",
+    "c_news_ViewCount": "790",
+    "c_news_ViewCount2of2": "790",
+    "c_news_ViewCountNum": "790",
+    "c_news_ViewCountNumForSorting": "61",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/europe/united_kingdom/news_web_kaigai_0013",
+    "name": "【JTB現地スタッフ厳選】アイルランド観光のおすすめ観光スポットと楽しみ方",
+    "slug": "kaigai/europe/united_kingdom/news_web_kaigai_0013",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

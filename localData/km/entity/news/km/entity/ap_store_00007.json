@@ -1,0 +1,936 @@
+{
+  "$id": "news_ap_store_00007",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB木場イトーヨーカドー店　齋藤・柴田 ／JTB葛西アリオ店　熊倉 ／JTB北千住マルイ店　岡田"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "＜1_S__13172749キャプション＞",
+      "height": 800,
+      "sourceUrl": "http://a.mktgcdn.com/p/DI9Bmvteg24I_V7tQU9ca5kLSUtZhJJIVsjDUJe-Ti4/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "//a.mktgcdn.com/p-sandbox/DI9Bmvteg24I_V7tQU9ca5kLSUtZhJJIVsjDUJe-Ti4/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/DI9Bmvteg24I_V7tQU9ca5kLSUtZhJJIVsjDUJe-Ti4/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/DI9Bmvteg24I_V7tQU9ca5kLSUtZhJJIVsjDUJe-Ti4/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/DI9Bmvteg24I_V7tQU9ca5kLSUtZhJJIVsjDUJe-Ti4/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/DI9Bmvteg24I_V7tQU9ca5kLSUtZhJJIVsjDUJe-Ti4/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "「MONZ CAFE」の季節のベイクドケーキはSNS映えばっちり！",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "東京旅行・ツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/tokyo/"
+      },
+      {
+        "linkText": "東京のホテル・旅館・宿をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/tokyo/"
+      },
+      {
+        "linkText": "JTB木場イトーヨーカドー店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/t3777-0"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "今回ご用意したのは、深川エリアを散策するモデルコース。定番の「富岡八幡宮」から出発し、「牡丹町笑栄会商店街」や「深川仲町通り商店街」といった商店街では、意外なお店との出会いにビックリ。「深川 伊勢屋」、「MONZ CAFE」、「辰巳新道」などのグルメスポットもご紹介！\n\n＜投稿者コメント＞ \n東京の中心に位置しながら、富岡八幡宮を中心に新しさと古さが融合した素敵な街です。 グルメに関しては胃袋が足りないぐらい素敵なお店がたくさんあります。 心身のリフレッシュとグルメを楽しみにぜひいらしてください。",
+    "c_ap_Tags": [
+      "観光スポット",
+      "おみゃげ",
+      "大江戸プラン",
+      "パワースポット巡り",
+      "神社巡り",
+      "レトロ喫茶",
+      "雑貨屋巡り",
+      "おやつ",
+      "カフェ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "母娘旅",
+      "一人旅",
+      "グループ",
+      "寺社・教会",
+      "建築・史跡",
+      "歴史・地理",
+      "街あるき",
+      "グルメ",
+      "ショッピング",
+      "お酒",
+      "カフェ",
+      "ご当地グルメ",
+      "おみやげ"
+    ],
+    "c_ap_Title": "レトロな下町・深川で東京観光！昭和にタイムスリップ!?",
+    "c_linkedArea3News": [
+      "tokyo"
+    ],
+    "c_metaDescription": "東京の下町・深川エリアを散策するモデルコースをご紹介。深川仲町通り商店街 食べ歩きをはじめ、レトロな下町・深川の観光スポットをぶらり巡る旅です！",
+    "c_metaTitle": "レトロな下町・深川で東京観光！昭和にタイムスリップ!?",
+    "c_news_CTAs": [
+      {
+        "label": "東京旅行・ツアー・パックをみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/tokyo/",
+        "linkType": "URL"
+      },
+      {
+        "label": "東京のホテル・旅館・宿をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/tokyo/",
+        "linkType": "URL"
+      },
+      {
+        "label": "JTB大江戸デスクホームページはこちら",
+        "link": "https://consultants.jtb.co.jp/top-tokyo",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "富岡八幡宮の周辺観光情報をみる",
+          "link": "https://www.jtb.co.jp/kokunai-guide/detail/index.html?spotID\u003d80011529",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "神楽坂エリアで御朱印巡りをしよう！",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00003",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "朝から東京ベイエリアを味わいつくそう！豊洲・お台場・月島のモデルコースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00014",
+          "linkType": "URL"
+        },
+        "description": "まずは「富岡八幡宮」からスタート。寛永4年（1627）に創建されて以来、「深川の八幡さま」と称され信仰を集めてきた神社。威厳あるたたずまいの本殿で参拝すれば、日々の暮らしで疲れた心もリフレッシュ♪",
+        "image": {
+          "alternateText": "＜02_御社殿 (2)キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/xFQ2ThZnwz2_3eZkTWqWjum0GAakmyV83t_3O9cg6q4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/xFQ2ThZnwz2_3eZkTWqWjum0GAakmyV83t_3O9cg6q4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/xFQ2ThZnwz2_3eZkTWqWjum0GAakmyV83t_3O9cg6q4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/xFQ2ThZnwz2_3eZkTWqWjum0GAakmyV83t_3O9cg6q4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/xFQ2ThZnwz2_3eZkTWqWjum0GAakmyV83t_3O9cg6q4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xFQ2ThZnwz2_3eZkTWqWjum0GAakmyV83t_3O9cg6q4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "威風堂々たる本殿に背筋が伸びる",
+        "infoBlockLabel": "富岡八幡宮の情報",
+        "infoBlockText": "電話：03-3642-1315住所：東京都江東区富岡1-20-3料金：境内自由時間：9～16時休み：無休アクセス：東京メトロ門前仲町駅から徒歩3分",
+        "sectionTitle": "11：00｜まずは「富岡八幡宮」にお参り"
+      },
+      {
+        "cTA1": {
+          "label": "あのアニメの聖地巡礼！亀有半日散策コースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00017",
+          "linkType": "URL"
+        },
+        "description": "「富岡八幡宮」は江戸勧進相撲発祥の地としても知られていて、境内には横綱を顕彰する「横綱力士碑」が。新横綱誕生時には石碑に名前を入れる刻名式が行われ、新横綱の土俵入りが奉納されるとのこと。また、神社にゆかりのある伊能忠敬の銅像も設置されている。のんびり散策して、歴史を感じてみよう★",
+        "image": {
+          "alternateText": "＜03_伊能忠敬像 (6)キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/wK0t7rUqodD7C3gY6ATbptcoi1FDXG-X1coMEMYlQB8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/wK0t7rUqodD7C3gY6ATbptcoi1FDXG-X1coMEMYlQB8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/wK0t7rUqodD7C3gY6ATbptcoi1FDXG-X1coMEMYlQB8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/wK0t7rUqodD7C3gY6ATbptcoi1FDXG-X1coMEMYlQB8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/wK0t7rUqodD7C3gY6ATbptcoi1FDXG-X1coMEMYlQB8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wK0t7rUqodD7C3gY6ATbptcoi1FDXG-X1coMEMYlQB8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "測量旅行の出発前には必ず富岡八幡宮を参拝していたという伊能忠敬",
+        "infoBlockLabel": "深川 伊勢屋の情報",
+        "infoBlockText": "電話：03-3641-0695住所：東京都江東区富岡1-8-12時間：11～17時（16時15分LO）※販売は8時30分～20時休み：火曜（販売は不定休）アクセス：東京メトロ門前仲町駅から徒歩3分",
+        "sectionTitle": "12：00｜「深川 伊勢屋」で深川めし"
+      },
+      {
+        "description": "境内で毎月開催されている、骨董市やフリーマーケットも要チェック。幅広いジャンルの出店があるので、思わぬ掘り出し物が見つかるはず！",
+        "image": {
+          "alternateText": "＜04_横綱力士碑 (2)キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/gXNG3grjdYYc9KU4p1ran3srtQPzoD-pl23IAkRw-Fo/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/gXNG3grjdYYc9KU4p1ran3srtQPzoD-pl23IAkRw-Fo/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/gXNG3grjdYYc9KU4p1ran3srtQPzoD-pl23IAkRw-Fo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/gXNG3grjdYYc9KU4p1ran3srtQPzoD-pl23IAkRw-Fo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/gXNG3grjdYYc9KU4p1ran3srtQPzoD-pl23IAkRw-Fo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gXNG3grjdYYc9KU4p1ran3srtQPzoD-pl23IAkRw-Fo/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "相撲ファンなら一度は訪れたい「横綱力士碑」",
+        "infoBlockLabel": "黒船稲荷神社の情報",
+        "infoBlockText": "住所：東京都江東区牡丹1-12-9料金：境内自由時間：境内自由休み：境内自由アクセス：東京メトロ門前仲町駅から徒歩4分",
+        "sectionTitle": "13：00｜食後は「牡丹町笑栄会商店街」をぶらぶら"
+      },
+      {
+        "description": "「富岡八幡宮」から出ると、そろそろお昼時。周辺には、江戸時代から深川で愛されてきた庶民の味・深川めしを提供している店はもちろん、おしゃれなレストランやカフェも♪昼食を探してあちこち散策するのもおすすめ。",
+        "image": {
+          "alternateText": "＜05_あさりめしキャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/kwW9LP6f90zD6SKQ_NqjDHS8S_u0c31zj7xCQYi30ZU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/kwW9LP6f90zD6SKQ_NqjDHS8S_u0c31zj7xCQYi30ZU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/kwW9LP6f90zD6SKQ_NqjDHS8S_u0c31zj7xCQYi30ZU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/kwW9LP6f90zD6SKQ_NqjDHS8S_u0c31zj7xCQYi30ZU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/kwW9LP6f90zD6SKQ_NqjDHS8S_u0c31zj7xCQYi30ZU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kwW9LP6f90zD6SKQ_NqjDHS8S_u0c31zj7xCQYi30ZU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「深川あさりめし」1200円。焼き目をつけた香ばしい油揚げがアクセント！",
+        "infoBlockLabel": "住吉神社の情報",
+        "infoBlockText": "住所：東京都江東区牡丹3-12-2料金：境内自由時間：境内自由休み：境内自由アクセス：東京メトロ門前仲町駅から徒歩4分",
+        "sectionTitle": "14：00｜「深川ワイナリー東京」でワインをゲット！"
+      },
+      {
+        "description": "数あるお店のなかでも、深川めしを食べるなら「富岡八幡宮」から徒歩2分の場所にある「深川 伊勢屋」がおすすめ！　あさりの風味がしっかりと感じられる丼を、まずは「炊き込み」のまま食べ進め、途中から日本茶やみそ汁を注ぎ「ぶっかけ」で。二つのおいしさが堪能できる逸品♪",
+        "image": {
+          "alternateText": "＜06_お食事処外観キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/jDdRALi8NZ9w8GRsYbmXQTPMlWcGWz7OAhbdY7nHLus/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/jDdRALi8NZ9w8GRsYbmXQTPMlWcGWz7OAhbdY7nHLus/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/jDdRALi8NZ9w8GRsYbmXQTPMlWcGWz7OAhbdY7nHLus/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/jDdRALi8NZ9w8GRsYbmXQTPMlWcGWz7OAhbdY7nHLus/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/jDdRALi8NZ9w8GRsYbmXQTPMlWcGWz7OAhbdY7nHLus/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jDdRALi8NZ9w8GRsYbmXQTPMlWcGWz7OAhbdY7nHLus/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "定食やぜんざいも味わえる「深川 伊勢屋」",
+        "infoBlockLabel": "Tsotangの情報",
+        "infoBlockText": "電話：03-5875-8341住所：東京都江東区古石場1-13-13-1F時間：11時～17時30分(土曜は12時～)休み：日曜、祝日ほか不定休ありアクセス：東京メトロ門前仲町駅から徒歩6分",
+        "sectionTitle": "15：00｜「深川仲町通り商店街」でお土産探し"
+      },
+      {
+        "description": "明治40年（1907）創業の和菓子店ということもあり、食後のデザートも充実！お茶と和菓子でゆったりくつろぎながら、午後の行動プランを立てよう★",
+        "image": {
+          "alternateText": "＜07_和菓子集合キャプション＞",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/yQ-cPoIol_HRWlgLCcpCd_Yxgii8x5_3wmUmB1Zd-Q0/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/yQ-cPoIol_HRWlgLCcpCd_Yxgii8x5_3wmUmB1Zd-Q0/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/yQ-cPoIol_HRWlgLCcpCd_Yxgii8x5_3wmUmB1Zd-Q0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/yQ-cPoIol_HRWlgLCcpCd_Yxgii8x5_3wmUmB1Zd-Q0/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yQ-cPoIol_HRWlgLCcpCd_Yxgii8x5_3wmUmB1Zd-Q0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yQ-cPoIol_HRWlgLCcpCd_Yxgii8x5_3wmUmB1Zd-Q0/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "和菓子は食事とセットで注文するとお得に",
+        "infoBlockLabel": "深川ワイナリー東京の情報",
+        "infoBlockText": "電話：03-5809-8058住所：東京都江東区古石場1-4-10高畠ビル1階時間：12～18時(月・火曜はボトル販売のみ)※醸造所見学は日曜14時～、16時～休み：無休アクセス：JR越中島駅から徒歩3分",
+        "sectionTitle": "16：00｜「MONZ CAFE」でほっと一息～「辰巳新道」でほろ酔い"
+      },
+      {
+        "description": "門前仲町駅から南に移動し、「牡丹町笑栄会商店街」へ！　地域住民が利用する小さななお店や、この土地に古くからある神社などを巡って、腹ごなしも兼ねた街歩きを楽しもう。",
+        "image": {
+          "alternateText": "＜08_IMG_0362キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/UrW8W0uJE_9rFHFi5W1nx61jBj3CMJBfU9pvsu8-qBs/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/UrW8W0uJE_9rFHFi5W1nx61jBj3CMJBfU9pvsu8-qBs/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/UrW8W0uJE_9rFHFi5W1nx61jBj3CMJBfU9pvsu8-qBs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/UrW8W0uJE_9rFHFi5W1nx61jBj3CMJBfU9pvsu8-qBs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/UrW8W0uJE_9rFHFi5W1nx61jBj3CMJBfU9pvsu8-qBs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/UrW8W0uJE_9rFHFi5W1nx61jBj3CMJBfU9pvsu8-qBs/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "飾らない雰囲気が魅力の「牡丹町笑栄会商店街」",
+        "infoBlockLabel": "かなもり屋の情報",
+        "infoBlockText": "電話：03-6240-3973住所：東京都江東区門前仲町1-6-14-101時間：9時～19時30分（土曜は11時～）休み：水・日曜アクセス：東京メトロ門前仲町駅から徒歩2分"
+      },
+      {
+        "description": "牡丹を栽培する農家が多かったため「牡丹町」と名付けられたというこのエリア。町の境目を流れる大横川沿いは、桜の名所としても有名♪",
+        "image": {
+          "alternateText": "＜09_IMG_0331キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/cluzavcxo-qRaObnJ73aNNMrmIxv1YcKSbePrZCKi98/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/cluzavcxo-qRaObnJ73aNNMrmIxv1YcKSbePrZCKi98/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/cluzavcxo-qRaObnJ73aNNMrmIxv1YcKSbePrZCKi98/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/cluzavcxo-qRaObnJ73aNNMrmIxv1YcKSbePrZCKi98/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/cluzavcxo-qRaObnJ73aNNMrmIxv1YcKSbePrZCKi98/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cluzavcxo-qRaObnJ73aNNMrmIxv1YcKSbePrZCKi98/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "『東海道四谷怪談』の作者・四世鶴屋南北が地内に住んでいたという「黒船稲荷神社」",
+        "infoBlockLabel": "みなとやの情報",
+        "infoBlockText": "電話：0120-80-3708住所：東京都江東区門前仲町2-4-9時間：10時～19時30分休み：無休アクセス：東京メトロ門前仲町駅からすぐ"
+      },
+      {
+        "description": "下町風情漂うのどかな商店街だけど、なかにはユニークなお店も！　ピンクの外観が目を引く「Tsotang（つおたん）」は、南アフリカ共和国などから輸入した品々を販売するアフリカ雑貨店。",
+        "image": {
+          "alternateText": "＜10_IMG_0318キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/MJ7QN6yrXEwtXDO8mv_uufPCfi6C8FLrXuBCyW5Z4G8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/MJ7QN6yrXEwtXDO8mv_uufPCfi6C8FLrXuBCyW5Z4G8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/MJ7QN6yrXEwtXDO8mv_uufPCfi6C8FLrXuBCyW5Z4G8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/MJ7QN6yrXEwtXDO8mv_uufPCfi6C8FLrXuBCyW5Z4G8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/MJ7QN6yrXEwtXDO8mv_uufPCfi6C8FLrXuBCyW5Z4G8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MJ7QN6yrXEwtXDO8mv_uufPCfi6C8FLrXuBCyW5Z4G8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "月島から分祀された「住吉神社」にお参り",
+        "infoBlockLabel": "MONZ CAFEの情報",
+        "infoBlockText": "電話：080-4716-4658住所：東京都江東区富岡1-14-5時間：9～19時（土・日曜、祝日は～18時）休み：無休アクセス：東京メトロ門前仲町駅からすぐ"
+      },
+      {
+        "description": "鮮やかな色使いや独特のデザインは、これぞアフリカ雑貨という印象。部屋に飾れば、雰囲気をぱっと明るくしてくれるはず♪またアフリカ雑貨に合わせた、カラフルで個性的な洋服も販売。",
+        "image": {
+          "alternateText": "＜11_IMG-2090キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/cqDb1w6EjiWziqWpdc5SVHQWcKXGgPh-Z-p5V62bqeQ/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/cqDb1w6EjiWziqWpdc5SVHQWcKXGgPh-Z-p5V62bqeQ/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/cqDb1w6EjiWziqWpdc5SVHQWcKXGgPh-Z-p5V62bqeQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/cqDb1w6EjiWziqWpdc5SVHQWcKXGgPh-Z-p5V62bqeQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/cqDb1w6EjiWziqWpdc5SVHQWcKXGgPh-Z-p5V62bqeQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cqDb1w6EjiWziqWpdc5SVHQWcKXGgPh-Z-p5V62bqeQ/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「Tsotang」は南アフリカのソト語で「驚くような」という意味",
+        "infoBlockLabel": "辰巳新道の情報",
+        "infoBlockText": "住所：東京都江東区門前仲町2-9時間：店舗により異なる 休み：店舗により異なるアクセス：東京メトロ門前仲町駅からすぐ"
+      },
+      {
+        "description": "牡丹町笑栄会商店街のなかからもう一店、「深川ワイナリー東京」をご紹介！この街中に佇む小さな醸造所では、自分好みのワインがゲットできる。",
+        "image": {
+          "alternateText": "＜12_IMG-2096キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/p-xjaOhnzmW_HkpcfCUcUCD4ymSv6Mda0cg0XNiaRrU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/p-xjaOhnzmW_HkpcfCUcUCD4ymSv6Mda0cg0XNiaRrU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/p-xjaOhnzmW_HkpcfCUcUCD4ymSv6Mda0cg0XNiaRrU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/p-xjaOhnzmW_HkpcfCUcUCD4ymSv6Mda0cg0XNiaRrU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/p-xjaOhnzmW_HkpcfCUcUCD4ymSv6Mda0cg0XNiaRrU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/p-xjaOhnzmW_HkpcfCUcUCD4ymSv6Mda0cg0XNiaRrU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "棚にところ狭しと並んだ色彩豊かな商品"
+      },
+      {
+        "description": "2016年にオープンした都市型ワイナリーで、各地から仕入れたブドウを用い、年間2万本のワインを製造。醸造所の目前にある「テイスティング・ラボ」では、ここで造られたワインの試飲ができ、飲み比べて選んだワインを実際に購入することも可能！",
+        "image": {
+          "alternateText": "＜13_深川ワイン2022キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/GtzdP82S8yAa_M94Fk2YJikj1EqbJFSQhjau7XfN9ck/1200x800.png",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/GtzdP82S8yAa_M94Fk2YJikj1EqbJFSQhjau7XfN9ck/1200x800.png",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/GtzdP82S8yAa_M94Fk2YJikj1EqbJFSQhjau7XfN9ck/619x413.png",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/GtzdP82S8yAa_M94Fk2YJikj1EqbJFSQhjau7XfN9ck/600x400.png",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/GtzdP82S8yAa_M94Fk2YJikj1EqbJFSQhjau7XfN9ck/196x131.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/GtzdP82S8yAa_M94Fk2YJikj1EqbJFSQhjau7XfN9ck/1200x800.png",
+          "width": 1200
+        },
+        "imageCaption": "「深川ワイナリー東京」ではオレンジワインやスパークリングワインも販売♪"
+      },
+      {
+        "description": "ワイン造りの専門家による解説も楽しみの一つ♡ブドウの品種や製造工程の違いにより生まれるワインの個性を知って、料理とのペアリングを想像してみよう。醸造についてもっと知りたいという方は、毎週日曜に行われている醸造所見学（要事前予約）にぜひ参加を！",
+        "image": {
+          "alternateText": "＜14_深川ワイナリー外観キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/x6gBRAXy0cphWg9c-DgVR1jDKCKiwLrFhiyuDGt9CP0/1200x800.png",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/x6gBRAXy0cphWg9c-DgVR1jDKCKiwLrFhiyuDGt9CP0/1200x800.png",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/x6gBRAXy0cphWg9c-DgVR1jDKCKiwLrFhiyuDGt9CP0/619x413.png",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/x6gBRAXy0cphWg9c-DgVR1jDKCKiwLrFhiyuDGt9CP0/600x400.png",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/x6gBRAXy0cphWg9c-DgVR1jDKCKiwLrFhiyuDGt9CP0/196x131.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/x6gBRAXy0cphWg9c-DgVR1jDKCKiwLrFhiyuDGt9CP0/1200x800.png",
+          "width": 1200
+        },
+        "imageCaption": "ワイナリーのキャラクター「ワインマン」がお出迎え♪"
+      },
+      {
+        "description": "5分ほど歩き再び門前仲町駅周辺まで戻ったら、江東区でも有数の大きさを誇る「深川仲町通り商店街」で、いつもお世話になっている人へのお土産を探そう。",
+        "image": {
+          "alternateText": "＜15_ラボ内観キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/lfYqLR643yvtgrXSc4b5IDfgwk0X_K24Tw0MTr1C2vc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/lfYqLR643yvtgrXSc4b5IDfgwk0X_K24Tw0MTr1C2vc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/lfYqLR643yvtgrXSc4b5IDfgwk0X_K24Tw0MTr1C2vc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/lfYqLR643yvtgrXSc4b5IDfgwk0X_K24Tw0MTr1C2vc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/lfYqLR643yvtgrXSc4b5IDfgwk0X_K24Tw0MTr1C2vc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lfYqLR643yvtgrXSc4b5IDfgwk0X_K24Tw0MTr1C2vc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "醸造している様子を見ながらテイスティング"
+      },
+      {
+        "description": "永代通り沿いにある「かなもり屋」は、大正9年（1920）創業の履物屋を引き継いだというお店。大正ロマンをテーマに、雰囲気に合った雑貨をセレクトしているのだとか。ずらりと並ぶ和モダンな小物は、贈り物にもぴったり♪",
+        "image": {
+          "alternateText": "＜16_仲町通り商店街 写真提供：一般社団法人江東区観光協会キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/WyaQ4L8FGTDSXK0jn22S_xEiyF-_2z9O_q7amIm7f3o/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/WyaQ4L8FGTDSXK0jn22S_xEiyF-_2z9O_q7amIm7f3o/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/WyaQ4L8FGTDSXK0jn22S_xEiyF-_2z9O_q7amIm7f3o/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/WyaQ4L8FGTDSXK0jn22S_xEiyF-_2z9O_q7amIm7f3o/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/WyaQ4L8FGTDSXK0jn22S_xEiyF-_2z9O_q7amIm7f3o/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WyaQ4L8FGTDSXK0jn22S_xEiyF-_2z9O_q7amIm7f3o/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "100店舗以上が加盟している「深川仲町通り商店街」 写真提供：一般社団法人江東区観光協会"
+      },
+      {
+        "description": "店頭では、栄養士や調理師などの資格を持つ店主が作る、おにぎりや米粉シフォンケーキも販売されている。とくに、新潟県産コシヒカリの米粉を100%使用したシフォンケーキは、独特のしっとりとした食感で人気の一品！",
+        "image": {
+          "alternateText": "＜17_９月１２日店先 (2)キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZxEhoyfYA8qLn4oAhw9gGiVzy-Q5XRez6bSg6N0xCnA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZxEhoyfYA8qLn4oAhw9gGiVzy-Q5XRez6bSg6N0xCnA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZxEhoyfYA8qLn4oAhw9gGiVzy-Q5XRez6bSg6N0xCnA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZxEhoyfYA8qLn4oAhw9gGiVzy-Q5XRez6bSg6N0xCnA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZxEhoyfYA8qLn4oAhw9gGiVzy-Q5XRez6bSg6N0xCnA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZxEhoyfYA8qLn4oAhw9gGiVzy-Q5XRez6bSg6N0xCnA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "レトロなテイストの雑貨が揃う「かなもり屋」"
+      },
+      {
+        "description": "お次は、かなもり屋から徒歩4分の場所にある「みなとや」へ。下町らしく、煎餅や和菓子を取り扱う店舗が数多く存在している深川のなかでもイチオシのお店★",
+        "image": {
+          "alternateText": "＜18_９月１２日棚５ (2)キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/v2hBiyVqa7HyjDLJgqOXleoEJqvVnxLTYSHDK6of2gw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/v2hBiyVqa7HyjDLJgqOXleoEJqvVnxLTYSHDK6of2gw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/v2hBiyVqa7HyjDLJgqOXleoEJqvVnxLTYSHDK6of2gw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/v2hBiyVqa7HyjDLJgqOXleoEJqvVnxLTYSHDK6of2gw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/v2hBiyVqa7HyjDLJgqOXleoEJqvVnxLTYSHDK6of2gw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/v2hBiyVqa7HyjDLJgqOXleoEJqvVnxLTYSHDK6of2gw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "かわいらしいハンドメイド雑貨も！"
+      },
+      {
+        "description": "ここで販売されている「深川あさり煎餅」は深川めしをモチーフにしたという独創的な煎餅で、アサリと味噌が絶妙のハーモニーを奏でる一品。お世話になっている人に“深川の味”をおすそ分けしてみては？",
+        "image": {
+          "alternateText": "＜19_9月１２日シフォン (2)キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/c5x9o28khUKin5sU04lGQni3wkyzcd6WG4Gw0yDaqs4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/c5x9o28khUKin5sU04lGQni3wkyzcd6WG4Gw0yDaqs4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/c5x9o28khUKin5sU04lGQni3wkyzcd6WG4Gw0yDaqs4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/c5x9o28khUKin5sU04lGQni3wkyzcd6WG4Gw0yDaqs4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/c5x9o28khUKin5sU04lGQni3wkyzcd6WG4Gw0yDaqs4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/c5x9o28khUKin5sU04lGQni3wkyzcd6WG4Gw0yDaqs4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「米粉のしっとりシフォン」ワンカット200円"
+      },
+      {
+        "description": "みなとやから3分ほど歩き、「MONZ CAFE」でコーヒーブレイクを。テラス席からは、近くにある深川不動堂を望むことも可能！",
+        "image": {
+          "alternateText": "＜20_IMGP2053キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/hOtNFJWFwVNBSY5wKIYI6MJRoXqbLQSmrw7vJ7z7enk/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/hOtNFJWFwVNBSY5wKIYI6MJRoXqbLQSmrw7vJ7z7enk/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/hOtNFJWFwVNBSY5wKIYI6MJRoXqbLQSmrw7vJ7z7enk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/hOtNFJWFwVNBSY5wKIYI6MJRoXqbLQSmrw7vJ7z7enk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/hOtNFJWFwVNBSY5wKIYI6MJRoXqbLQSmrw7vJ7z7enk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hOtNFJWFwVNBSY5wKIYI6MJRoXqbLQSmrw7vJ7z7enk/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "みなとやは昭和23年（1948）創業の煎餅・豆の専門店"
+      },
+      {
+        "description": "ラテアートが描かれたカプチーノと一緒に楽しみたいのが、旬の果物がのったベイクドケーキやベイクドタルト♪角ばった見た目がなんとも映えるスイーツを写真に収めて、SNSに投稿しよう。もちろん味にもこだわっていて、季節ごとのフルーツに合わせてクリームや生地を調整することで、果物本来のおいしさも味わえる逸品に。",
+        "image": {
+          "alternateText": "＜21_img-mainvisualキャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/dCqMVRBn4k3NUJtkuNnRUiRkVgYLo-mu7IQUVvnq4YQ/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/dCqMVRBn4k3NUJtkuNnRUiRkVgYLo-mu7IQUVvnq4YQ/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/dCqMVRBn4k3NUJtkuNnRUiRkVgYLo-mu7IQUVvnq4YQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/dCqMVRBn4k3NUJtkuNnRUiRkVgYLo-mu7IQUVvnq4YQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/dCqMVRBn4k3NUJtkuNnRUiRkVgYLo-mu7IQUVvnq4YQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dCqMVRBn4k3NUJtkuNnRUiRkVgYLo-mu7IQUVvnq4YQ/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「深川あさり煎餅」5枚入り540円"
+      },
+      {
+        "description": "日が暮れたら、「MONZ CAFE」から徒歩3分ほどの距離にある「辰巳新道」ではしご酒を♪レトロな街並みが残る横丁を飲み歩き、昭和にタイムスリップしたような気分で、おいしいお酒と料理を満喫しよう。ただし、飲み過ぎにはくれぐれもご注意を！",
+        "image": {
+          "alternateText": "＜22_front_monzキャプション＞",
+          "height": 782,
+          "sourceUrl": "https://a.mktgcdn.com/p/w8DIfXZeh3CciJ4qNonqMB4av9crioeE_GAQ81eLtbQ/1200x782.jpg",
+          "thumbnails": [
+            {
+              "height": 782,
+              "url": "https://a.mktgcdn.com/p-sandbox/w8DIfXZeh3CciJ4qNonqMB4av9crioeE_GAQ81eLtbQ/1200x782.jpg",
+              "width": 1200
+            },
+            {
+              "height": 403,
+              "url": "https://a.mktgcdn.com/p-sandbox/w8DIfXZeh3CciJ4qNonqMB4av9crioeE_GAQ81eLtbQ/619x403.jpg",
+              "width": 619
+            },
+            {
+              "height": 391,
+              "url": "https://a.mktgcdn.com/p-sandbox/w8DIfXZeh3CciJ4qNonqMB4av9crioeE_GAQ81eLtbQ/600x391.jpg",
+              "width": 600
+            },
+            {
+              "height": 128,
+              "url": "https://a.mktgcdn.com/p-sandbox/w8DIfXZeh3CciJ4qNonqMB4av9crioeE_GAQ81eLtbQ/196x128.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/w8DIfXZeh3CciJ4qNonqMB4av9crioeE_GAQ81eLtbQ/1200x782.jpg",
+          "width": 1200
+        },
+        "imageCaption": "深川不動堂へ続く参道沿いにある「MONZ CAFE」"
+      },
+      {
+        "image": {
+          "alternateText": "＜23_S__64372749キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/s0AjGVJabxUoqT-UwHpgmg2U6dfzno-649vUZJFBgKE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/s0AjGVJabxUoqT-UwHpgmg2U6dfzno-649vUZJFBgKE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/s0AjGVJabxUoqT-UwHpgmg2U6dfzno-649vUZJFBgKE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/s0AjGVJabxUoqT-UwHpgmg2U6dfzno-649vUZJFBgKE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/s0AjGVJabxUoqT-UwHpgmg2U6dfzno-649vUZJFBgKE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/s0AjGVJabxUoqT-UwHpgmg2U6dfzno-649vUZJFBgKE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「巨峰のベイクドタルト」680円と「カプチーノ」530円"
+      },
+      {
+        "image": {
+          "alternateText": "＜24_辰巳新道 (1)写真提供：一般社団法人江東区観光協会キャプション＞",
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/Y_EDm0qoLuhk14q58lxQ8N9Ia06vLUK_21tDMG5GSVU/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y_EDm0qoLuhk14q58lxQ8N9Ia06vLUK_21tDMG5GSVU/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y_EDm0qoLuhk14q58lxQ8N9Ia06vLUK_21tDMG5GSVU/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y_EDm0qoLuhk14q58lxQ8N9Ia06vLUK_21tDMG5GSVU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y_EDm0qoLuhk14q58lxQ8N9Ia06vLUK_21tDMG5GSVU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Y_EDm0qoLuhk14q58lxQ8N9Ia06vLUK_21tDMG5GSVU/1200x799.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「辰巳新道」でほろ酔い気分に 写真提供：一般社団法人江東区観光協会"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。※上記記事に記載の金額はすべて税込みです。また各施設の入場料金は大人料金を記載しています。※定休日は原則として年末年始・お盆休み・ゴールデンウィークを省略しています。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_store_00004",
+      "news_ap_store_00003",
+      "news_ap_store_00005",
+      "news_ap_store_00008",
+      "news_ap_store_00006"
+    ],
+    "c_news_FeaturedArticlesTitle": "その他JTB大江戸デスクコンサルタントの投稿記事",
+    "c_news_PublicationDate": "2022-12-01",
+    "c_news_UpdateDate": "2024-08-09",
+    "c_news_ViewCount": "1196",
+    "c_news_ViewCount1of2": "5",
+    "c_news_ViewCount2of2": "1196",
+    "c_news_ViewCountNum": "1196",
+    "c_news_ViewCountNumForSorting": "55",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00007",
+    "name": "レトロな下町・深川で東京観光！昭和にタイムスリップ!?",
+    "slug": "kokunai/kanto/tokyo/news_ap_store_00007",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

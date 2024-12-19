@@ -1,0 +1,85 @@
+{
+  "$id": "cp_21071322",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "大阪府",
+    "c_cp_CTA1": {
+      "label": "中西 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVB-_2f",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBgBq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "ママさん社員４年目です。家族旅行でお困りの事がございましたらお気軽にお問い合わせください。また一人旅も得意で、仕事終わりに飛行機飛び乗り海外にも行っていました！間際のご旅行も是非お問合せ下さい。思い出に残るご旅行に一緒に作りましょう♪",
+    "c_cp_DisplayName": "中西",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "一人旅",
+      "グループ旅行",
+      "テーマパーク"
+    ],
+    "c_cp_GeneralInfo": [
+      "資格：総合旅行業務取扱管理者、ハワイスペシャリスト"
+    ],
+    "c_cp_HiraganaName": "なかにし",
+    "c_cp_JobTitle": "JTBエキマルシェ大阪店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 1280,
+      "sourceUrl": "https://a.mktgcdn.com/p/2zcs5iGQ38338-ZyKtChD8yEfEl6MLpCkmdy2F2PkWY/960x1280.jpg",
+      "thumbnails": [
+        {
+          "height": 1280,
+          "url": "https://a.mktgcdn.com/p-sandbox/2zcs5iGQ38338-ZyKtChD8yEfEl6MLpCkmdy2F2PkWY/960x1280.jpg",
+          "width": 960
+        },
+        {
+          "height": 825,
+          "url": "https://a.mktgcdn.com/p-sandbox/2zcs5iGQ38338-ZyKtChD8yEfEl6MLpCkmdy2F2PkWY/619x825.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/2zcs5iGQ38338-ZyKtChD8yEfEl6MLpCkmdy2F2PkWY/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/2zcs5iGQ38338-ZyKtChD8yEfEl6MLpCkmdy2F2PkWY/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/2zcs5iGQ38338-ZyKtChD8yEfEl6MLpCkmdy2F2PkWY/960x1280.jpg",
+      "width": 960
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム",
+      "パラオ"
+    ],
+    "c_cp_StrongAbroadArea2": [
+      "アメリカ"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "沖縄県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 中西",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 中西",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21071322",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "20240401　JBX対応（リテール外転出）",
+    "name": "なかにし_21071322",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

@@ -1,0 +1,39 @@
+{
+  "$id": "kando-toki-231",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/231_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d37.423952%2C136.997169",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "石川県",
+    "c_searchTags": [
+      "石川県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "冬",
+      "海・湖・川・滝",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "世界農業遺産 白米千枚田 力強い日本海の音と約2万5千個のイルミネーションが対峙する音と光の世界へ\n\n\n急斜面に描かれた複雑な幾何学模様が生み出す絶景、千枚田。能登半島屈指の名所である「輪島市・白米千枚田」では、秋から冬の時期だけの特別な景色を見ることができます。それは昼間とは全く異なる夜の姿。日が落ちて暗くなると、棚田のあぜ道がゆっくりと輝きだします。ホタルの光のように淡く光を放つのは、LEDの光。日没から約30分、輝きを増した美しいイルミネーションが闇の中に浮かび上がり、のどかな里山の風景を、ファンタジックな世界へと一変させます。棚田ならではの独特な曲線を活かしたイルミネーションは、30分毎に色調を変え、人々の目を楽しませてくれます。2011年に始まったこの「あぜのきらめき」イベント。2012年には太陽光発電LED20,461個を用いたイルミネーションがギネス世界記録に認定されました。\n見所・お勧めポイント",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/231.asp",
+    "name": "世界農業遺産　白米千枚田　力強い日本海の音と約2万5千個のイルミネーションが対峙する音と光の世界へ"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

@@ -1,0 +1,27 @@
+{
+  "$id": "kaigai/area/tahiti/",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_searchArea1": [
+      "海外"
+    ],
+    "description": "タヒチ旅行ならJTBのタヒチツアー予約がおすすめ。タヒチ観光は、新婚旅行にもおすすめのボラボラ島の水上コテージや、イルカと触れ合えるモーレア島などでホテル滞在を満喫するのがおすすめ！タハア島でのダイビングも人気。JTBなら価格重視のお安いツアーからハネムーン向けの高級ツアー、一人旅向けまで、東京発・関空発の多数のパッケージツアーがあるので、比較してみて！",
+    "displayCoordinate": {
+      "latitude": -17.5597898,
+      "longitude": -149.6077031
+    },
+    "keywords": [
+      "タヒチ",
+      "旅行",
+      "ツアー",
+      "JTB"
+    ],
+    "landingPageUrl": "https://www.jtb.co.jp/kaigai/area/tahiti/",
+    "name": "タヒチ旅行・タヒチツアー"
+  },
+  "entityType": "ce_area2",
+  "folder": "海外ツアー",
+  "labels": []
+}

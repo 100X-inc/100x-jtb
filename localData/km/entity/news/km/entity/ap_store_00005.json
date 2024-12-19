@@ -1,0 +1,960 @@
+{
+  "$id": "news_ap_store_00005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB国会内店　牛渡/池袋パルコ　松田 /ルミネ新宿select　松下/中野マルイ　原/荻窪北口　竹内"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "＜01_皇居前広場（クレジット：環境省皇居外苑管理事務所）キャプション＞",
+      "height": 803,
+      "sourceUrl": "http://a.mktgcdn.com/p/YGnaLi3GBwCAW_KHbAxc23xbvoSub4UjnrnbrU9RPx8/1200x803.jpg",
+      "thumbnails": [
+        {
+          "height": 803,
+          "url": "//a.mktgcdn.com/p-sandbox/YGnaLi3GBwCAW_KHbAxc23xbvoSub4UjnrnbrU9RPx8/1200x803.jpg",
+          "width": 1200
+        },
+        {
+          "height": 414,
+          "url": "//a.mktgcdn.com/p-sandbox/YGnaLi3GBwCAW_KHbAxc23xbvoSub4UjnrnbrU9RPx8/619x414.jpg",
+          "width": 619
+        },
+        {
+          "height": 402,
+          "url": "//a.mktgcdn.com/p-sandbox/YGnaLi3GBwCAW_KHbAxc23xbvoSub4UjnrnbrU9RPx8/600x402.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/YGnaLi3GBwCAW_KHbAxc23xbvoSub4UjnrnbrU9RPx8/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/YGnaLi3GBwCAW_KHbAxc23xbvoSub4UjnrnbrU9RPx8/1200x803.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "美しい景観が楽しめる「皇居前広場」からスタート！ 画像提供：環境省皇居外苑管理事務所",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフによる記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "JTB店舗・専門店への相談はこちらから",
+        "uRL": "https://consultants.jtb.co.jp/top#locator"
+      },
+      {
+        "linkText": "日本の旬 東京・横浜 宿泊パック・ツアー・体験予約はこちら",
+        "uRL": "https://www.jtb.co.jp/nihonnoshun/tokyoyokohama/"
+      },
+      {
+        "linkText": "JTB国会内店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/j3342-0"
+      },
+      {
+        "linkText": "JTB池袋パルコ店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/j3352-0"
+      },
+      {
+        "linkText": "JTBルミネ新宿select店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/j3990-0"
+      },
+      {
+        "linkText": "JTB中野マルイ店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/j3911-0"
+      },
+      {
+        "linkText": "JTB荻窪北口店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/t3371-0"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "歴史や伝統に触れられるスポットが多い赤坂エリア周辺。今回は「皇居外苑」を皮切りに、「迎賓館赤坂離宮」「国会議事堂」「日枝神社」「ＫＩＴＴＥ」を1日で巡るモデルコースをご紹介します。「オールデイダイニング「ORIGAMI」」や「西洋菓子 しろたえ」といった人気店にも立ち寄って、知的好奇心もお腹も満たしちゃいましょう！",
+    "c_ap_Tags": [
+      "観光スポット",
+      "夜景",
+      "神社",
+      "モデルコース",
+      "おみゃげ",
+      "街歩き",
+      "オトナ旅",
+      "大江戸プラン",
+      "お散歩",
+      "レトロ喫茶",
+      "パワースポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "母娘旅",
+      "夫婦旅",
+      "自然・山",
+      "寺社・教会",
+      "建築・史跡",
+      "歴史・地理",
+      "動植物園・公園",
+      "美術鑑賞",
+      "街あるき",
+      "グルメ",
+      "カフェ",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "【赤坂観光】歴史に触れるオトナ旅モデルコース！おしゃれな街を散策",
+    "c_linkedArea3News": [
+      "tokyo"
+    ],
+    "c_metaDescription": "歴史に触れられるスポットが多い赤坂エリア周辺。今回は「皇居外苑」を皮切りに、「迎賓館赤坂離宮」「国会議事堂」「日枝神社」「ＫＩＴＴＥ」を1日で巡る、観光モデルコースをご紹介します。おすすめの観光スポットに足を運んでみましょう！",
+    "c_metaTitle": "【赤坂観光】歴史に触れるオトナ旅モデルコース！おしゃれな街を散策 | JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "赤坂のホテルを探す",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/1310308/",
+        "linkType": "URL"
+      },
+      {
+        "label": "東京旅行を探す",
+        "link": "https://www.jtb.co.jp/kokunai/area/tokyo/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "今回の旅は、広大な敷地を誇る国民公園「皇居外苑」からスタート。まずは、のんびりと散策しながら、都会の真ん中でリフレッシュ。",
+        "image": {
+          "alternateText": "＜02_平川濠と帯曲輪（クレジット：環境省皇居外苑管理事務所）キャプション＞",
+          "height": 803,
+          "sourceUrl": "https://a.mktgcdn.com/p/_fnIawgKlJgrxTPVPs2IzM6EFrp9k73vspqA0BhlRoQ/1200x803.jpg",
+          "thumbnails": [
+            {
+              "height": 803,
+              "url": "https://a.mktgcdn.com/p-sandbox/_fnIawgKlJgrxTPVPs2IzM6EFrp9k73vspqA0BhlRoQ/1200x803.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/_fnIawgKlJgrxTPVPs2IzM6EFrp9k73vspqA0BhlRoQ/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 402,
+              "url": "https://a.mktgcdn.com/p-sandbox/_fnIawgKlJgrxTPVPs2IzM6EFrp9k73vspqA0BhlRoQ/600x402.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/_fnIawgKlJgrxTPVPs2IzM6EFrp9k73vspqA0BhlRoQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_fnIawgKlJgrxTPVPs2IzM6EFrp9k73vspqA0BhlRoQ/1200x803.jpg",
+          "width": 1200
+        },
+        "imageCaption": "お濠を眺めながらゆったりおさんぽ 画像提供：環境省皇居外苑管理事務所",
+        "infoBlockLabel": "皇居外苑の情報",
+        "infoBlockText": "電話：03-3213-0095（環境省皇居外苑管理事務所） 住所：東京都千代田区皇居外苑1-1 料金：散策自由 時間：散策自由 休み：散策自由 アクセス：東京メトロ千代田線二重橋前駅から徒歩9分※皇居前広場（二重橋展望エリア）まで",
+        "sectionLevel": "h2",
+        "sectionSubtitle": "名物メニュー「排骨拉麺」は絶品",
+        "sectionTitle": "「皇居外苑」を歩いて気分転換（10：00）"
+      },
+      {
+        "description": "内堀通りと内濠に挟まれた「皇居前広場」は、芝生緑地と玉砂利で構成された広場に、約2000本のクロマツが点在。現代的な高層ビルと豊かな自然のコントラストが楽しめるビュースポットです。また、皇居付属庭園として一般公開されている「皇居東御苑」まで足を延ばせば、美しい庭園と歴史的遺構を目にすることができます。",
+        "image": {
+          "alternateText": "＜03_和田倉噴水公園（クレジット：環境省皇居外苑管理事務所）キャプション＞",
+          "height": 803,
+          "sourceUrl": "https://a.mktgcdn.com/p/ybddcXP20y-Dj9jdpKEDWZ0x_wzRSSyN1UIqgViEvxg/1200x803.jpg",
+          "thumbnails": [
+            {
+              "height": 803,
+              "url": "https://a.mktgcdn.com/p-sandbox/ybddcXP20y-Dj9jdpKEDWZ0x_wzRSSyN1UIqgViEvxg/1200x803.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/ybddcXP20y-Dj9jdpKEDWZ0x_wzRSSyN1UIqgViEvxg/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 402,
+              "url": "https://a.mktgcdn.com/p-sandbox/ybddcXP20y-Dj9jdpKEDWZ0x_wzRSSyN1UIqgViEvxg/600x402.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ybddcXP20y-Dj9jdpKEDWZ0x_wzRSSyN1UIqgViEvxg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ybddcXP20y-Dj9jdpKEDWZ0x_wzRSSyN1UIqgViEvxg/1200x803.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「和田倉噴水公園」の勇壮な大噴水も見逃せません 画像提供：環境省皇居外",
+        "infoBlockLabel": "楠公レストハウスの情報",
+        "infoBlockText": "電話：03-3231-5509（国民公園協会 皇居外苑） 住所：東京都千代田区皇居外苑1-1 時間：8時30分～17時※現在は10～16時の時短営業中。詳細は要問合せ 休み：無休 アクセス：東京メトロ千代田線二重橋前駅から徒歩3分",
+        "sectionLevel": "h3",
+        "sectionSubtitle": "周辺には各省庁のビルがずらり",
+        "sectionTitle": "「和田倉噴水公園」の勇壮な大噴水は必見！"
+      },
+      {
+        "description": "ひと休みには「楠公レストハウス」がおすすめ。腰を下ろせる休憩所のほか、レストランや売店も併設されています。皇居外苑を訪れた記念に、オリジナルアイテムもゲットしたいところ 。",
+        "image": {
+          "alternateText": "＜04_ExDxjNrU8AM8elrキャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/_Iy-dAWX7kL7YooZAqpkFgcRvIuPih91cKoNEA7lQoU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/_Iy-dAWX7kL7YooZAqpkFgcRvIuPih91cKoNEA7lQoU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/_Iy-dAWX7kL7YooZAqpkFgcRvIuPih91cKoNEA7lQoU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/_Iy-dAWX7kL7YooZAqpkFgcRvIuPih91cKoNEA7lQoU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/_Iy-dAWX7kL7YooZAqpkFgcRvIuPih91cKoNEA7lQoU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_Iy-dAWX7kL7YooZAqpkFgcRvIuPih91cKoNEA7lQoU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "楠木正成公の銅像を臨む場所にある「楠公レストハウス」 画像提供：（一財）国民公園協会皇居外苑",
+        "infoBlockLabel": "迎賓館赤坂離宮の情報",
+        "infoBlockText": "電話：03-5728-7788 住所：東京都港区元赤坂2-1-1 料金：本館・庭園参観1500円 時間：10～17時 休み：水曜（祝日の場合翌平日）、その他運営上の都合により休館の場合あり アクセス：各線四ツ谷駅から徒歩7分",
+        "sectionLevel": "h3",
+        "sectionTitle": "「楠公レストハウス」 でひと休み"
+      },
+      {
+        "description": "また「楠公レストハウス」の売店とは別の「皇居東御苑」内にある売店でも、特別なアイテムが販売されています。とくに菊の紋章入りの皮財布が人気商品なのだとか。併せてチェックしてみてはいかがでしょうか。",
+        "image": {
+          "alternateText": "＜05_koukyo_place_rest_nanko_shopmenu_img119キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/5a5g1R9c0S0TVq5k9BvIIIneFUkfwi19If7yj3CbAQc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/5a5g1R9c0S0TVq5k9BvIIIneFUkfwi19If7yj3CbAQc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/5a5g1R9c0S0TVq5k9BvIIIneFUkfwi19If7yj3CbAQc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/5a5g1R9c0S0TVq5k9BvIIIneFUkfwi19If7yj3CbAQc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/5a5g1R9c0S0TVq5k9BvIIIneFUkfwi19If7yj3CbAQc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5a5g1R9c0S0TVq5k9BvIIIneFUkfwi19If7yj3CbAQc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「楠公レストハウス」内の売店では、菊の紋章が入った「印鑑ケース」1400円などを販売",
+        "infoBlockLabel": "「ORIGAMI」の情報",
+        "infoBlockText": "電話：03-3503-0872 住所：東京都千代田区永田町2-10-3 ザ・キャピトルホテル東急 3階 時間：7～22時（21時LO） ※平日は7～15時（14時30分LO）、17～22時（21時LO） 休み：無休 アクセス：東京メトロ溜池山王駅・国会議事堂前駅からすぐ",
+        "sectionLevel": "h3",
+        "sectionTitle": "売店でお土産をゲット"
+      },
+      {
+        "description": "東京メトロ霞ヶ関駅から四ツ谷駅まで移動し、そこから7分ほど歩いた場所に、これまで多くの国王や大統領、首相を外国から迎えてきた「迎賓館赤坂離宮」があります。",
+        "image": {
+          "alternateText": "＜06_迎賓館赤坂離宮キャプション＞",
+          "height": 791,
+          "sourceUrl": "https://a.mktgcdn.com/p/GYSIPUX6xzVIDm8D9rKmIF-nCYRjaEdxKaQc3bfFRqs/1200x791.jpg",
+          "thumbnails": [
+            {
+              "height": 791,
+              "url": "https://a.mktgcdn.com/p-sandbox/GYSIPUX6xzVIDm8D9rKmIF-nCYRjaEdxKaQc3bfFRqs/1200x791.jpg",
+              "width": 1200
+            },
+            {
+              "height": 408,
+              "url": "https://a.mktgcdn.com/p-sandbox/GYSIPUX6xzVIDm8D9rKmIF-nCYRjaEdxKaQc3bfFRqs/619x408.jpg",
+              "width": 619
+            },
+            {
+              "height": 396,
+              "url": "https://a.mktgcdn.com/p-sandbox/GYSIPUX6xzVIDm8D9rKmIF-nCYRjaEdxKaQc3bfFRqs/600x396.jpg",
+              "width": 600
+            },
+            {
+              "height": 129,
+              "url": "https://a.mktgcdn.com/p-sandbox/GYSIPUX6xzVIDm8D9rKmIF-nCYRjaEdxKaQc3bfFRqs/196x129.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/GYSIPUX6xzVIDm8D9rKmIF-nCYRjaEdxKaQc3bfFRqs/1200x791.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「迎賓館赤坂離宮」は日本で唯一のネオ・バロック様式による宮殿建築物画像出典：迎賓館赤坂離宮公式ウェブサイト",
+        "infoBlockLabel": "国会議事堂の情報",
+        "infoBlockText": "住所：東京都千代田区永田町1-7 アクセス：東京メトロ溜池山王駅・国会議事堂前駅から徒歩3分",
+        "sectionLevel": "h3",
+        "sectionTitle": "「迎賓館赤坂離宮」を見学してうっとり（11：30）"
+      },
+      {
+        "description": "首脳会談や晩餐会が行われたり、国賓・公賓が宿泊したりと、各国要人を“おもてなし”する外交活動の舞台として利用されてきました。明治42年（1909）に東宮御所として建設された歴史ある建築物で、絵画やレリーフで彩られた館内は豪華絢爛の一言です。",
+        "image": {
+          "alternateText": "＜07_正面玄関キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/aKXT8cmss8sUUe3CWPq3UG6g7Pq-rcLhFkf1rD5dDmM/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/aKXT8cmss8sUUe3CWPq3UG6g7Pq-rcLhFkf1rD5dDmM/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/aKXT8cmss8sUUe3CWPq3UG6g7Pq-rcLhFkf1rD5dDmM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/aKXT8cmss8sUUe3CWPq3UG6g7Pq-rcLhFkf1rD5dDmM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/aKXT8cmss8sUUe3CWPq3UG6g7Pq-rcLhFkf1rD5dDmM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aKXT8cmss8sUUe3CWPq3UG6g7Pq-rcLhFkf1rD5dDmM/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "まさに非日常の入り口といった雰囲気の「玄関ホール」 画像出典：迎賓館赤坂離宮公式ウェブサイト",
+        "infoBlockLabel": "日枝神社の情報",
+        "infoBlockText": "電話：03-3581-2471 住所：東京都千代田区永田町2-10-5 料金：境内無料 時間：6時30分～17時(4～9月は6時～) 休み：無休（宝物殿は要問合せ) アクセス：東京メトロ溜池山王駅・国会議事堂前駅から徒歩3分",
+        "sectionLevel": "h3",
+        "sectionTitle": "「玄関ホール」は非日常の入り口"
+      },
+      {
+        "description": "「玄関ホール」や「羽衣の間」などがある本館と庭園は、20名以上の団体でなければ、事前予約なしで参観することができます。思わずため息が出てしまうほど美しく、きらびやかな空間に身を置いてみませんか？",
+        "image": {
+          "alternateText": "＜08_羽衣の間キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/kCF9qeqihVMMc7SRLMNEcuaWvhuVMiWv_TAak1_Rr5U/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/kCF9qeqihVMMc7SRLMNEcuaWvhuVMiWv_TAak1_Rr5U/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/kCF9qeqihVMMc7SRLMNEcuaWvhuVMiWv_TAak1_Rr5U/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/kCF9qeqihVMMc7SRLMNEcuaWvhuVMiWv_TAak1_Rr5U/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/kCF9qeqihVMMc7SRLMNEcuaWvhuVMiWv_TAak1_Rr5U/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kCF9qeqihVMMc7SRLMNEcuaWvhuVMiWv_TAak1_Rr5U/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「羽衣の間」は大きなシャンデリアが印象的です 画像出典：迎賓館赤坂離宮公式ウェブサイト",
+        "infoBlockLabel": "「西洋菓子 しろたえ」の情報",
+        "infoBlockText": "電話：03-3586-9039 住所：東京都港区赤坂4-1-4 時間：10時30分～19時30分（土曜、祝日は～19時） 休み：日曜 アクセス：東京メトロ赤坂見附駅から徒歩3分",
+        "sectionLevel": "h3",
+        "sectionTitle": "大きなシャンデリアの「羽衣の間」"
+      },
+      {
+        "description": "「和⾵別館」の参観はガイドツアー⽅式で実施しています。公式ウェブサイトから事前予約しておきましょう！",
+        "image": {
+          "alternateText": "＜09_和風別館キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/5mMrZSpHhu6Gv0P3xmXNrYS7W-w3nCbrpz4Z1vfxYRs/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/5mMrZSpHhu6Gv0P3xmXNrYS7W-w3nCbrpz4Z1vfxYRs/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/5mMrZSpHhu6Gv0P3xmXNrYS7W-w3nCbrpz4Z1vfxYRs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/5mMrZSpHhu6Gv0P3xmXNrYS7W-w3nCbrpz4Z1vfxYRs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/5mMrZSpHhu6Gv0P3xmXNrYS7W-w3nCbrpz4Z1vfxYRs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5mMrZSpHhu6Gv0P3xmXNrYS7W-w3nCbrpz4Z1vfxYRs/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「和⾵別館」の参観はガイドツアー⽅式で実施※要事前予約 画像出典：迎賓館赤坂離宮公式ウェブサイト",
+        "infoBlockLabel": "「ＫＩＴＴＥ」の情報",
+        "infoBlockText": "電話：03-3216-2811（受付10～19時） 住所：東京都千代田区丸の内2-7-2時間：物販 11～21時（日曜、祝日は～20時）、飲食11～23時（日曜、祝日は～22時）※一部営業時間が異なる店舗あり 休み：法定点検日 アクセス：各線東京駅からすぐ",
+        "sectionLevel": "h3",
+        "sectionTitle": "「和⾵別館」のガイドツアーに参加"
+      },
+      {
+        "description": "東京メトロ四ツ谷駅から約5分、溜池山王駅地下直結の「ザ・キャピトルホテル 東急」にあるレストラン「オールデイダイニング「ORIGAMI」」で、ランチを楽しみましょう。バラエティ豊かなメニューのなかから、今回は「排骨拉麺 （パーコーメン）」をセレクト。前身の「東京ヒルトンホテル」で総支配人を務めていたリチャード・ハンデルが、日本で人気があるメニューを、ゲストに発信したいという思いで発案したという、お店の名物メニューです。",
+        "image": {
+          "alternateText": "＜10_68A6873キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/nUxq7kuL_9Gvi4ybd8W50cToKsI1IktlbOkoJXe0nU8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/nUxq7kuL_9Gvi4ybd8W50cToKsI1IktlbOkoJXe0nU8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/nUxq7kuL_9Gvi4ybd8W50cToKsI1IktlbOkoJXe0nU8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/nUxq7kuL_9Gvi4ybd8W50cToKsI1IktlbOkoJXe0nU8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/nUxq7kuL_9Gvi4ybd8W50cToKsI1IktlbOkoJXe0nU8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nUxq7kuL_9Gvi4ybd8W50cToKsI1IktlbOkoJXe0nU8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "名物の「排骨拉麺 （パーコーメン）」3542円に舌鼓",
+        "sectionLevel": "h3",
+        "sectionTitle": "「オールデイダイニング「ORIGAMI」」で伝統の一品を堪能（12：30）"
+      },
+      {
+        "description": "麺の上にロースのカツがのったボリューム満点の一品で、秘伝のタレにつけ2度揚げしたというカツは、外はサクサク、中はジューシー。鶏ガラと豚ガラでダシをとったスープと絶妙にマッチしています。一緒に運ばれてくる七味唐辛子やラー油、白ネギ、万能ネギといったトッピングで、味変できるのもうれしいですね。",
+        "image": {
+          "alternateText": "＜11_Origami_High_n_0877キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/PyXWqc9FLw9s2sXS1fX7BGvtxgg9NveevOJ5oOu6RkE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/PyXWqc9FLw9s2sXS1fX7BGvtxgg9NveevOJ5oOu6RkE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/PyXWqc9FLw9s2sXS1fX7BGvtxgg9NveevOJ5oOu6RkE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/PyXWqc9FLw9s2sXS1fX7BGvtxgg9NveevOJ5oOu6RkE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/PyXWqc9FLw9s2sXS1fX7BGvtxgg9NveevOJ5oOu6RkE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PyXWqc9FLw9s2sXS1fX7BGvtxgg9NveevOJ5oOu6RkE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "洗練された雰囲気が漂う「オールデイダイニング「ORIGAMI」」",
+        "sectionLevel": "h3",
+        "sectionTitle": "「国会議事堂」を見物　～「日枝神社」を参拝（14：00）"
+      },
+      {
+        "description": "満腹になったら、ホテルから5分ほど歩いて「国会議事堂」へ。日本の政治の中心地を、間近で見物しましょう。",
+        "image": {
+          "alternateText": "＜12_ウィークエンドランチセット_イメージキャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/BFu7-58Rx-s_zkPLRk4z2wS-uHiiJlZxA0L5MH6WwIY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/BFu7-58Rx-s_zkPLRk4z2wS-uHiiJlZxA0L5MH6WwIY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/BFu7-58Rx-s_zkPLRk4z2wS-uHiiJlZxA0L5MH6WwIY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/BFu7-58Rx-s_zkPLRk4z2wS-uHiiJlZxA0L5MH6WwIY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/BFu7-58Rx-s_zkPLRk4z2wS-uHiiJlZxA0L5MH6WwIY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BFu7-58Rx-s_zkPLRk4z2wS-uHiiJlZxA0L5MH6WwIY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "週末限定の「ウィークエンドランチセット」5060円もおすすめ※料理内容は変更の場合あり",
+        "sectionLevel": "h3",
+        "sectionTitle": "「日枝神社」にお参り"
+      },
+      {
+        "description": "「国会議事堂」の近隣には、各省庁のビルや「首相官邸」のほか、「国立国会図書館」や「最高裁判所」などもあります。周辺を散策して、いろいろな建物を見て回るだけでも興味深い体験ができます。",
+        "image": {
+          "alternateText": "＜13_クレジット：衆議院憲政記念館所蔵 (2)キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Hwz8MB2IFoeQMqASjFhEtzxGxm6qL-OUxEKqXXBPjUo/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hwz8MB2IFoeQMqASjFhEtzxGxm6qL-OUxEKqXXBPjUo/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hwz8MB2IFoeQMqASjFhEtzxGxm6qL-OUxEKqXXBPjUo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hwz8MB2IFoeQMqASjFhEtzxGxm6qL-OUxEKqXXBPjUo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hwz8MB2IFoeQMqASjFhEtzxGxm6qL-OUxEKqXXBPjUo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Hwz8MB2IFoeQMqASjFhEtzxGxm6qL-OUxEKqXXBPjUo/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「国会議事堂」の正面から向かって右が参議院、左が衆議院　（衆議院憲政記念館所蔵）",
+        "sectionLevel": "h3",
+        "sectionTitle": "色鮮やかな本殿の脇をよく見ると……お猿さんが！"
+      },
+      {
+        "description": "「国会議事堂」のそばには、政財界やビジネスパーソンからの信仰を集める「日枝神社」も。山の神様として知られる大山咋神（おおやまくいのかみ）を祭る神社で、江戸の総鎮守。徳川家康が江戸城を居城に定めて以降は、徳川将軍家の産神として崇敬されてきました。本殿の前に、狛犬ではなく猿の像が配置されているのが特徴です。",
+        "image": {
+          "alternateText": "＜14_クレジット：衆議院憲政記念館所蔵キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/OqonLW7J0Q-yVIr5YuDcjBeHi2UWgWXtLrApp2-R2aM/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/OqonLW7J0Q-yVIr5YuDcjBeHi2UWgWXtLrApp2-R2aM/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/OqonLW7J0Q-yVIr5YuDcjBeHi2UWgWXtLrApp2-R2aM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/OqonLW7J0Q-yVIr5YuDcjBeHi2UWgWXtLrApp2-R2aM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/OqonLW7J0Q-yVIr5YuDcjBeHi2UWgWXtLrApp2-R2aM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OqonLW7J0Q-yVIr5YuDcjBeHi2UWgWXtLrApp2-R2aM/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "昭和11年（1936）に完成した由緒ある建物です　（衆議院憲政記念館所蔵）",
+        "sectionLevel": "h2",
+        "sectionTitle": "「まさる守」の裏側には尻尾も描かれていてキュート"
+      },
+      {
+        "description": "かねてより猿は、大山咋神の使いとして敬われ、「神猿（まさる）」と称されてきました。その音から「勝る」、「魔が去る」とも考えられ、勝運の神や魔除けの神として配置されているそうですよ。また猿は「えん」とも読むことから「縁」を運ぶともいわれ、多くの人が縁結びや商売繁盛の祈願に訪れるそうです。",
+        "image": {
+          "alternateText": "＜15_003キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/7PFp9WEgdimEVYp8hTAQs49VQUXg_ZFyIhZhuqW-b7w/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/7PFp9WEgdimEVYp8hTAQs49VQUXg_ZFyIhZhuqW-b7w/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/7PFp9WEgdimEVYp8hTAQs49VQUXg_ZFyIhZhuqW-b7w/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/7PFp9WEgdimEVYp8hTAQs49VQUXg_ZFyIhZhuqW-b7w/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/7PFp9WEgdimEVYp8hTAQs49VQUXg_ZFyIhZhuqW-b7w/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7PFp9WEgdimEVYp8hTAQs49VQUXg_ZFyIhZhuqW-b7w/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「日枝神社」の境内につながる「山王橋」には上下のエスカレーターが設置されています",
+        "sectionLevel": "h3",
+        "sectionTitle": "「西洋菓子 しろたえ」で優雅なティータイム（16：00）"
+      },
+      {
+        "description": "猿をモチーフにした授与品の数々は、デザインが愛らしいと人気を集めています。申年最強のパワースポットともいわれる神社に足を運んでみては？",
+        "image": {
+          "alternateText": "＜16_0R4A2096キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/8kMNnS_DrUL2uTG1PbICwY23l_srLpCI_gEX4WvL138/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/8kMNnS_DrUL2uTG1PbICwY23l_srLpCI_gEX4WvL138/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/8kMNnS_DrUL2uTG1PbICwY23l_srLpCI_gEX4WvL138/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/8kMNnS_DrUL2uTG1PbICwY23l_srLpCI_gEX4WvL138/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/8kMNnS_DrUL2uTG1PbICwY23l_srLpCI_gEX4WvL138/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8kMNnS_DrUL2uTG1PbICwY23l_srLpCI_gEX4WvL138/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "異国情緒漂うシックな店構えの「西洋菓子 しろたえ」  ＜本文＞",
+        "sectionLevel": "h3",
+        "sectionTitle": "さわやかなデザートに舌鼓"
+      },
+      {
+        "description": "「日枝神社」から歩くこと約7分、一ツ木通りにある「西洋菓子 しろたえ」で、名品との呼び声高いレアチーズケーキを堪能しましょう。",
+        "image": {
+          "alternateText": "＜17_全員集合3_2キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/oFmQ1ixChTztYIZA-1HE8vLDsu4Y_1qmrfjFO8811AY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/oFmQ1ixChTztYIZA-1HE8vLDsu4Y_1qmrfjFO8811AY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/oFmQ1ixChTztYIZA-1HE8vLDsu4Y_1qmrfjFO8811AY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/oFmQ1ixChTztYIZA-1HE8vLDsu4Y_1qmrfjFO8811AY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/oFmQ1ixChTztYIZA-1HE8vLDsu4Y_1qmrfjFO8811AY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oFmQ1ixChTztYIZA-1HE8vLDsu4Y_1qmrfjFO8811AY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「レアチーズケーキ」290円。「季節の紅茶」550円などと一緒に味わいたいですね",
+        "sectionLevel": "h3",
+        "sectionTitle": "落ち着いた空間でホッとひと息"
+      },
+      {
+        "description": "純白のチーズケーキに、ピスタチオがちょこんとのったビジュアルがフォトジェニック。チーズの濃厚なコクとレモンの爽やかさ、クリームのなめらかな舌触りとクッキー生地のサクッとした食感が、絶妙のハーモニーを奏でる一品です。",
+        "image": {
+          "alternateText": "＜18_DSC00016キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/D7TLkE7XV3lw57xb1qh0jfJpQxLqQUDf6CF4tmsuL88/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/D7TLkE7XV3lw57xb1qh0jfJpQxLqQUDf6CF4tmsuL88/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/D7TLkE7XV3lw57xb1qh0jfJpQxLqQUDf6CF4tmsuL88/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/D7TLkE7XV3lw57xb1qh0jfJpQxLqQUDf6CF4tmsuL88/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/D7TLkE7XV3lw57xb1qh0jfJpQxLqQUDf6CF4tmsuL88/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/D7TLkE7XV3lw57xb1qh0jfJpQxLqQUDf6CF4tmsuL88/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "昭和51年（1976）創業。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ケーキの種類が豊富で迷っちゃう！"
+      },
+      {
+        "description": "「レアチーズケーキ」の他にも、常時20種類ほどのケーキを販売しているとのこと。また、「マドレーヌ」などの焼き菓子も多数取り揃えているので、お土産を購入するのにもぴったりです。",
+        "image": {
+          "alternateText": "＜19_DSC00023キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/IbNwuflG6lVnlF-u8SgAYVxtrScd0d1d6vS4TvkieKA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/IbNwuflG6lVnlF-u8SgAYVxtrScd0d1d6vS4TvkieKA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/IbNwuflG6lVnlF-u8SgAYVxtrScd0d1d6vS4TvkieKA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/IbNwuflG6lVnlF-u8SgAYVxtrScd0d1d6vS4TvkieKA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/IbNwuflG6lVnlF-u8SgAYVxtrScd0d1d6vS4TvkieKA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/IbNwuflG6lVnlF-u8SgAYVxtrScd0d1d6vS4TvkieKA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "おいしそうなケーキがショーケースにずらりと並んでいます",
+        "sectionLevel": "h3",
+        "sectionTitle": "「ＫＩＴＴＥ」から夜景を眺める（17：00）"
+      },
+      {
+        "description": "東京メトロ赤坂見附駅から約10分、今回のコースの終着点である「ＫＩＴＴＥ」へ。旧東京中央郵便局の局舎を一部保存・再生して建てられた商業施設で、買い物を楽しみましょう。全国各地の銘品を扱うグルメショップなど、日本らしさを感じさせる個性豊かなお店が集結しているので、各フロアを回るだけであっという間に時間が過ぎてしまいます。",
+        "image": {
+          "alternateText": "＜20_DSC00018キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/jji_bTYuAESQ9zd7F0HNnZlYaEeawQZ0_GhmIz4W56A/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/jji_bTYuAESQ9zd7F0HNnZlYaEeawQZ0_GhmIz4W56A/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/jji_bTYuAESQ9zd7F0HNnZlYaEeawQZ0_GhmIz4W56A/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/jji_bTYuAESQ9zd7F0HNnZlYaEeawQZ0_GhmIz4W56A/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/jji_bTYuAESQ9zd7F0HNnZlYaEeawQZ0_GhmIz4W56A/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jji_bTYuAESQ9zd7F0HNnZlYaEeawQZ0_GhmIz4W56A/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "地上38階建ての高層ビル「ＪＰタワー」の地下1階から6階までが「ＫＩＴＴＥ」です",
+        "sectionLevel": "h2",
+        "sectionTitle": "「旧東京中央郵便局長室」も見どころ"
+      },
+      {
+        "description": "ただし、今回の真の目的はショッピングではなく、6階の屋上庭園「ＫＩＴＴＥガーデン」から見える夜景。丸の内エリアに立ち並ぶビルの窓明かりや、東京駅丸の内駅舎のライトが織りなすロマンチックな光景を、心ゆくまで満喫しましょう。",
+        "image": {
+          "alternateText": "＜21_DSC00046キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/nqXVlsMGBngoz9y63IeCiNhNdLJ5TRbgAMl7glFTVhI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/nqXVlsMGBngoz9y63IeCiNhNdLJ5TRbgAMl7glFTVhI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/nqXVlsMGBngoz9y63IeCiNhNdLJ5TRbgAMl7glFTVhI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/nqXVlsMGBngoz9y63IeCiNhNdLJ5TRbgAMl7glFTVhI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/nqXVlsMGBngoz9y63IeCiNhNdLJ5TRbgAMl7glFTVhI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nqXVlsMGBngoz9y63IeCiNhNdLJ5TRbgAMl7glFTVhI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ライトアップされた東京駅丸の内駅舎の美しさに感動！",
+        "sectionTitle": "東京駅の夜景は圧巻"
+      },
+      {
+        "description": "一度はテレビなどで目にしたことがある国会議事堂やクラシカルな雰囲気にうっとり見入ってしまう迎賓館赤坂離宮など・・・東京ならではの歴史や景色・グルメを詰め込んだコースになっております。 ゆったりとお散歩をしながら、都会のビル群だけでなく、うつりゆく様々な景色をお楽しみいただけると思いますので、お写真を撮ることが好きな方にも、ぜひオススメです！ 高級感漂うレストランや東京の歴史を感じられるような老舗レストランなど・・・グルメスポットも多数ございます！ワンランク大人な東京旅、次回のご旅行にいかがでしょうか？ぜひお待ちしております♪",
+        "image": {
+          "alternateText": "＜22_2.ＪＰタワー低層部(1)キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/bIyVbL9Dt7fmaaLQ3RIK5xOVyzoppO7cplvW3k2lVcE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/bIyVbL9Dt7fmaaLQ3RIK5xOVyzoppO7cplvW3k2lVcE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/bIyVbL9Dt7fmaaLQ3RIK5xOVyzoppO7cplvW3k2lVcE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/bIyVbL9Dt7fmaaLQ3RIK5xOVyzoppO7cplvW3k2lVcE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/bIyVbL9Dt7fmaaLQ3RIK5xOVyzoppO7cplvW3k2lVcE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bIyVbL9Dt7fmaaLQ3RIK5xOVyzoppO7cplvW3k2lVcE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。※上記記事に記載の金額はすべて税込みです。また各施設の入場料金は大人料金を記載しています。※定休日は原則として年末年始・お盆休み・ゴールデンウィークを省略しています。",
+        "sectionTitle": "投稿者からひとこと！"
+      },
+      {
+        "description": "＜投稿者コメント＞",
+        "image": {
+          "alternateText": "＜23_5.ＫＩＴＴＥ旧局長室（5）キャプション＞",
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/r73ej9FJEVHi3ha1VBs4ik5fA1bq78kFOofFYjdesiU/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/r73ej9FJEVHi3ha1VBs4ik5fA1bq78kFOofFYjdesiU/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/r73ej9FJEVHi3ha1VBs4ik5fA1bq78kFOofFYjdesiU/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/r73ej9FJEVHi3ha1VBs4ik5fA1bq78kFOofFYjdesiU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/r73ej9FJEVHi3ha1VBs4ik5fA1bq78kFOofFYjdesiU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/r73ej9FJEVHi3ha1VBs4ik5fA1bq78kFOofFYjdesiU/1200x799.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "image": {
+          "alternateText": "＜24_5.ＫＩＴＴＥガーデン（夜）キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/B9ZmBonzZrJnWgDqS3oO9nFlM2zrpLXAWz6tNqrW6ek/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/B9ZmBonzZrJnWgDqS3oO9nFlM2zrpLXAWz6tNqrW6ek/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/B9ZmBonzZrJnWgDqS3oO9nFlM2zrpLXAWz6tNqrW6ek/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/B9ZmBonzZrJnWgDqS3oO9nFlM2zrpLXAWz6tNqrW6ek/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/B9ZmBonzZrJnWgDqS3oO9nFlM2zrpLXAWz6tNqrW6ek/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/B9ZmBonzZrJnWgDqS3oO9nFlM2zrpLXAWz6tNqrW6ek/1200x800.jpg",
+          "width": 1200
+        }
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_store_00003",
+      "news_ap_store_00004",
+      "news_ap_store_00007",
+      "news_ap_store_00008",
+      "news_ap_store_00006"
+    ],
+    "c_news_FeaturedArticlesTitle": "その他JTB大江戸デスクコンサルタントの投稿記事",
+    "c_news_PublicationDate": "2022-11-25",
+    "c_news_UpdateDate": "2024-04-26",
+    "c_news_ViewCount": "2862",
+    "c_news_ViewCount1of2": "13",
+    "c_news_ViewCount2of2": "2862",
+    "c_news_ViewCountNum": "2862",
+    "c_news_ViewCountNumForSorting": "147",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00005",
+    "name": "【赤坂観光】歴史に触れるオトナ旅モデルコース！おしゃれな街を散策",
+    "slug": "kokunai/kanto/tokyo/news_ap_store_00005",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

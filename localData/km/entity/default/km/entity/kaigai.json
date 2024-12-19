@@ -1,0 +1,60 @@
+{
+  "$id": "kaigai",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_Tags": [
+      "観光スポット",
+      "ホノルル",
+      "ソウル",
+      "台北",
+      "世界遺産",
+      "リゾート",
+      "グルメ",
+      "絶景",
+      "ビーチ",
+      "オーシャンビュー",
+      "夜景",
+      "スパ",
+      "アクティビティ",
+      "モデルコース"
+    ],
+    "c_ap_TagsLabel": "人気のタグ",
+    "c_latestArticleSectionTitle": "海外の新着記事",
+    "c_linkedArea01": [
+      "area_root"
+    ],
+    "c_linkedArea12": [
+      "beach_resort",
+      "north_america",
+      "asia",
+      "europe",
+      "kg_oth2"
+    ],
+    "c_metaDescription": "海外に関する記事をピックアップ！JTBニュースでは、海外で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 海外 | 旅行・おでかけ情報",
+    "c_news_AreaSearchLink": {
+      "label": "すべての海外の記事から探す",
+      "link": "https://www.jtb.co.jp/news/list/kaigai",
+      "linkType": "OTHER"
+    },
+    "c_news_AreaSearchTitle": "すべての国から探す",
+    "c_news_PopularAreas": [
+      "news_pa_asia",
+      "news_pa_europe",
+      "news_pa_hawai",
+      "news_pa_guam",
+      "news_pa_beach_resort",
+      "news_pa_oceania",
+      "news_pa_korea",
+      "news_pa_singapore"
+    ],
+    "c_news_PopularAreasTitle": "人気エリアから探す",
+    "c_rankedArticleSectionTitle": "海外の人気ランキング",
+    "name": "海外",
+    "slug": "kaigai"
+  },
+  "entityType": "ce_areaLevel1",
+  "folder": "ニュース記事",
+  "labels": []
+}

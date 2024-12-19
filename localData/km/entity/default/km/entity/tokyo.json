@@ -1,0 +1,94 @@
+{
+  "$id": "tokyo",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "kanto"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_store_00012",
+      "news_ap_store_00015",
+      "news_ap_store_00006",
+      "news_ap_store_00013",
+      "news_ap_store_00018",
+      "news_ap_store_00009",
+      "news_ap_store_00005",
+      "news_ap_store_000011",
+      "news_ap_store_00020",
+      "news_ap_store_00003",
+      "news_ap_store_00016",
+      "news_ap_store_00004",
+      "news_ap_store_00007",
+      "news_ap_store_00011",
+      "news_ap_store_00019",
+      "news_ap_store_00008",
+      "news_ap_y_ishihara225_025",
+      "news_ap_store_00010",
+      "news_ap_m_omatsu513_003",
+      "news_ap_store_00014",
+      "news_ap_store_00017",
+      "news_ap_store_00024",
+      "news_ap_m_nagano601_001",
+      "news_ap_chiki_100127",
+      "news_ap_area_000007",
+      "news_ap_chiki_100021_01",
+      "news_ap_chiki_100196",
+      "news_ap_area_000008",
+      "news_ap_chiki_100018",
+      "news_ap_chiki_100016",
+      "news_ap_chiki_100020",
+      "news_ap_chiki_100066",
+      "news_ap_chiki_100023",
+      "news_ap_chiki_100008",
+      "news_ap_chiki_100059",
+      "news_ap_chiki_100009",
+      "news_ap_chiki_100004",
+      "news_ap_m_takasawa518_011",
+      "news_ap_e_shinden034_005",
+      "news_ap_m_takasawa518_010",
+      "news_ap_area_000009"
+    ],
+    "c_metaDescription": "東京に関する記事をピックアップ！JTBニュースでは、東京で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 東京 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "東京",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/DXMLIjNXH3oIjPCGc4I0-OXjZI2Hgt-FXRHvYfpRzlE/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/ljLZWDthHxjYvLDxBRGpLDUMDJShWPI265ZJQTBBRkw/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/ljLZWDthHxjYvLDxBRGpLDUMDJShWPI265ZJQTBBRkw/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/ljLZWDthHxjYvLDxBRGpLDUMDJShWPI265ZJQTBBRkw/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/ljLZWDthHxjYvLDxBRGpLDUMDJShWPI265ZJQTBBRkw/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/ljLZWDthHxjYvLDxBRGpLDUMDJShWPI265ZJQTBBRkw/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ljLZWDthHxjYvLDxBRGpLDUMDJShWPI265ZJQTBBRkw/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "東京",
+    "slug": "kokunai/kanto/tokyo"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

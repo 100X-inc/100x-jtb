@@ -1,0 +1,141 @@
+{
+  "$id": "cp_10192070",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "埼玉県",
+    "c_cp_CTA1": {
+      "label": "早川 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVfiBDe",
+      "linkType": "OTHER"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfd_Kf",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "ご当地ならではの美味しいグルメ、お酒を楽しむことが大好きです。\n旅先では地元の方々おすすめの美味しいご飯屋さんや穴場スポットを訪れて、その場所に住んでいるかのように過ごすことを心掛けています。\nまた乗馬やマリンスポーツなど大自然を舞台にアクティビティを体験することも多いです。\n学生の頃はヨーロッパ方面へ旅に出ることが多かったので、ヨーロッパ好きの方、ぜひお話しましょう！\n\n最近はサウナにはまっており、サウナ基準で宿を選ぶことも増えてきました。\n\n皆様ともたくさんお話をさせて頂き、ワクワクするような旅のご提案をさせて頂きます！\nよろしくお願いいたします。",
+    "c_cp_DisplayName": "早川",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "母娘旅",
+      "夫婦旅",
+      "ハネムーン",
+      "記念旅行",
+      "クルーズ",
+      "テーマパーク",
+      "グルメ",
+      "お酒"
+    ],
+    "c_cp_GeneralInfo": [
+      "●資格：世界遺産検定2級、ハワイスペシャリスト上級",
+      "出身地：埼玉県川口市",
+      "好きな街：ブタペスト、サン・セバスティアン、尾道"
+    ],
+    "c_cp_HiraganaName": "はやかわ",
+    "c_cp_JobTitle": "JTBイオンモール川口前川店 トラベルコンサルタント",
+    "c_cp_OverseasExpert": {
+      "area2": {
+        "rank": "bronze"
+      },
+      "area5": {
+        "rank": "bronze"
+      }
+    },
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 2420,
+      "sourceUrl": "https://a.mktgcdn.com/p/Nxg8keJ9TxiwiMc9VC7z9N66XTjUdABXvBG9U0FeMLs/1815x2420.jpg",
+      "thumbnails": [
+        {
+          "height": 2420,
+          "url": "https://a.mktgcdn.com/p-sandbox/vgvtNrEyFTZ0quNC-YzQwYY65HxMus_2Hc6lB-l2lP8/1815x2420.jpg",
+          "width": 1815
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/vgvtNrEyFTZ0quNC-YzQwYY65HxMus_2Hc6lB-l2lP8/1425x1900.jpg",
+          "width": 1425
+        },
+        {
+          "height": 825,
+          "url": "https://a.mktgcdn.com/p-sandbox/vgvtNrEyFTZ0quNC-YzQwYY65HxMus_2Hc6lB-l2lP8/619x825.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/vgvtNrEyFTZ0quNC-YzQwYY65HxMus_2Hc6lB-l2lP8/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/vgvtNrEyFTZ0quNC-YzQwYY65HxMus_2Hc6lB-l2lP8/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/vgvtNrEyFTZ0quNC-YzQwYY65HxMus_2Hc6lB-l2lP8/1815x2420.jpg",
+      "width": 1815
+    },
+    "c_cp_Point": "1828",
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム",
+      "オーストラリア"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "フランス",
+      "スペイン",
+      "イタリア",
+      "オーストリア・チェコ・ハンガリー"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "香港・マカオ",
+      "台湾",
+      "シンガポール"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "北陸全般",
+      "静岡県",
+      "愛知県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "三重県",
+      "京都府",
+      "大阪府"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "中国全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "福岡県",
+      "熊本県",
+      "大分県",
+      "鹿児島県",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "スノボ",
+      "サウナ"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 早川　茉帆",
+    "c_metaTitle": "JTBトラベルコンサルタント | 早川　茉帆",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_10192070",
+    "c_responsibleService": [
+      "海外専門デスクスタッフ",
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10093_イオンモール川口前川店",
+    "name": "はやかわ まほ_10192070",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

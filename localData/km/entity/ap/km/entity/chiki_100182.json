@@ -1,0 +1,469 @@
+{
+  "$id": "ap_chiki_100182",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 千葉県担当 立石 未希"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "新装オープンした「宿泊者専用ウェルカムラウンジ」は、宿泊者だけが利用できるくつろぎ空間。名前の通りいつでもウェルカムなので、チェックイン前や滞在中のお出かけ前後に立ち寄れば、子どもならソフトドリンクやお菓子を、大人であればビールやスパークリングワインを味わいながら、目の前に広がる海の景色と合わせて楽しめます。提供されているメニューはすべて無料。テイクアウトはできませんが、14：00～18：00利用できるので、気ままに休息のひとときを過ごしましょう。",
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/fLqhJpopu-7M3GNxix5ubHRtKsstPk2dYKdE0ZMrWaQ/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/-IrG4vhCjSLlIVhonOTwZNPGbrOsciBP031NQnfSmkA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/-IrG4vhCjSLlIVhonOTwZNPGbrOsciBP031NQnfSmkA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-IrG4vhCjSLlIVhonOTwZNPGbrOsciBP031NQnfSmkA/600x450.jpg",
+          "width": 600
+        },
+        "imageCaption": "6階建て、全197室の客室がある「ホテル＆リゾーツ 南房総」",
+        "sectionTitle": "気ままに過ごせる新スポットに変身した宿泊者専用ウェルカムラウンジ"
+      },
+      {
+        "description": "「ウェルカムベビーのお宿」とは、ミキハウス子育て総研が規定した、乳幼児などの子ども連れでも安心して宿泊できる施設として認定する制度。ホテルには3タイプのウェルカムベビー認定ルームが用意されています。そのうち2つは72㎡の広々としたスイートルームで、3つ目のベベリアンルームはツインベッドがある36㎡のワンルームタイプですが、子どもがハイハイしても安心のコルクを床材に使用。壁やベッドのヘッドボードにはかわいい動物の絵が描かれていて子どもとの弾む会話が聞こえてきそうな雰囲気を醸し出しています。ウェルカムベビー認定ルームには、ベビーカー置き場、子ども用のおもちゃ、おねしょマット、おむつポット、調乳ポットなどが用意されているのも特長。無料の貸出品は子ども用の爪切り、おしり拭き、ベビー用全身泡ソープ、補助便座、ベビーバス、ベビーガードなど品揃えが充実しています。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/pk2SdBN3eXFi3LLRK54ykS27zV5iB2uqomzuS2sUtAI/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/aK1cUND6oezY8rbRyaB0NXodhOPtFuCy7-5F8LVR9QA/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/aK1cUND6oezY8rbRyaB0NXodhOPtFuCy7-5F8LVR9QA/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/aK1cUND6oezY8rbRyaB0NXodhOPtFuCy7-5F8LVR9QA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/aK1cUND6oezY8rbRyaB0NXodhOPtFuCy7-5F8LVR9QA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aK1cUND6oezY8rbRyaB0NXodhOPtFuCy7-5F8LVR9QA/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "広がる海を眺めながら落ち着いた空間でブレイク",
+        "sectionTitle": "小さな子ども連れは「ウェルカムベビーのお宿」の客室を"
+      },
+      {
+        "description": "そのほか、定員が1名から4名までの洋室タイプや定員5名の和洋室、小グループや3世代の家族が宿泊できる和室大部屋など、旅の目的やホテルでの過ごし方、宿泊人数で選べる客室があります。また、愛犬と一緒に泊まれるペット専用ルームも2タイプあり、ホテルの敷地内にあるドッグランで愛犬と一緒にのびのびと遊ぶことができます。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/QIAav1nUjYAi1bJeQ7YGAbHloC6Jf_EzKPcvFqmLCC4/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/7YwvnHWnkc6AHkTCJOmQBb3Jx6CiIG7BVjPLCafhLAM/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/7YwvnHWnkc6AHkTCJOmQBb3Jx6CiIG7BVjPLCafhLAM/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/7YwvnHWnkc6AHkTCJOmQBb3Jx6CiIG7BVjPLCafhLAM/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/7YwvnHWnkc6AHkTCJOmQBb3Jx6CiIG7BVjPLCafhLAM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7YwvnHWnkc6AHkTCJOmQBb3Jx6CiIG7BVjPLCafhLAM/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "子どもと一緒に楽しめる工夫が施されたベベリアンルーム",
+        "sectionTitle": "子どもへの優しさで溢れている館内設備を活用"
+      },
+      {
+        "description": "子ども連れの宿泊者に対する優しさは客室だけでなく、ベビーカーがスムーズに移動できるようにホテル全体をバリアフリーにするなど安心して過ごせる配慮がなされています。パブリックスペースにはプライバシーを重視した授乳室をはじめ、絵本を読んだり遊具で遊んだりできるキッズコーナー。ベビーキープや補助便座がある多目的トイレ、おむつの自動販売機。さらには、子どもから大人まで楽しめるゲームコーナーなど、子どもと一緒に過ごすときに“あったらいいな”と感じる気配りが随所に施されています。",
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/IA6IW9RfJxoHWyGwackIaKKEYKKDhzkHw8KImpX8VOc/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/fHXf6wyWuoSZsH3GvmHy48gdgUwo6VEE8eP3CZuxKR4/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/fHXf6wyWuoSZsH3GvmHy48gdgUwo6VEE8eP3CZuxKR4/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fHXf6wyWuoSZsH3GvmHy48gdgUwo6VEE8eP3CZuxKR4/600x450.jpg",
+          "width": 600
+        },
+        "imageCaption": "4名まで泊まることができるスタンダードツイン",
+        "sectionTitle": "リニューアルしたビュッフェは、ご当地メニューに注目"
+      },
+      {
+        "description": "海を望むビュッフェレストラン「ブラッスリー海風」でいただく朝食とディナーのビュッフェは、「料理の森からあなたの好きな一品を発見！」をテーマにメニューをリニューアル。朝食のビュッフェではビーフの旨味とベーコンの香りが食欲をそそるBLTビーフバーガー、アボカド\u0026フィッシュバーガーが新たに登場。ご当地料理では、アジを使ったフライや水なますがおすすめです。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/B_LKnbONKQeniLSR0fFsDmeP6FIPePRIOkEw1KRJO0Q/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/5kPQ0ds3FVd0MV6lbqDWv8DLSc0iO4MNXKurMhuXDc0/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/5kPQ0ds3FVd0MV6lbqDWv8DLSc0iO4MNXKurMhuXDc0/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/5kPQ0ds3FVd0MV6lbqDWv8DLSc0iO4MNXKurMhuXDc0/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/5kPQ0ds3FVd0MV6lbqDWv8DLSc0iO4MNXKurMhuXDc0/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5kPQ0ds3FVd0MV6lbqDWv8DLSc0iO4MNXKurMhuXDc0/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ウォーターサーバーを設置した授乳室",
+        "sectionTitle": "子どもと一緒に露天風呂と大浴場でゆったり過ごそう"
+      },
+      {
+        "description": "ディナーのビュッフェでは、ローストビーフや好みの具材をディップしていただくチーズフォンデュが人気。カジキマグロのアヒージョやアジのなめろうに薬味を加えて焼いたさんが焼きなど、ご当地メニューも楽しみましょう。また、キッズメニューや5カ月～12カ月のべビー向け離乳食があり、子ども用のカトラリーや椅子も用意されているので家族揃って安心して食事を楽しめます。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/vVQwp9Lve6hTP4H80hfD734ioqYwc8byVEdz4ClKGvo/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/4PaqQF_2knsaWiHFntwe9g5X0KqcP_bYJVeuCq85tuE/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/4PaqQF_2knsaWiHFntwe9g5X0KqcP_bYJVeuCq85tuE/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/4PaqQF_2knsaWiHFntwe9g5X0KqcP_bYJVeuCq85tuE/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/4PaqQF_2knsaWiHFntwe9g5X0KqcP_bYJVeuCq85tuE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4PaqQF_2knsaWiHFntwe9g5X0KqcP_bYJVeuCq85tuE/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "リニューアルされた料理の数々を堪能しよう",
+        "sectionTitle": "家族で楽しめるアクティビティに出かけよう"
+      },
+      {
+        "description": "地下1階には温泉を引いた露天風呂と沸かし湯の大浴場があり、温泉の適応症は腰痛症や神経痛、打撲・捻挫、関節リウマチなど。浴場内には子ども用の椅子やベビーバスがあるので一緒に温泉が楽しめ、女性大浴場の脱衣所にはおむつの交換台やベビーベッド、子どもの安全を守るベビーサークルがあるので安心して利用できます。同じフロアにはリラクゼーションサロンもあるので、心身をさらにリフレッシュしたい方にはおすすめです。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZhU2HFATBb3w7_uawE39-tVnpPq5cbZF9Yu_fiP5Tpg/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/OvnnNdo5myQeXXI6TuMOW-ik-LMzhFe8ZGYy68PDuuo/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/OvnnNdo5myQeXXI6TuMOW-ik-LMzhFe8ZGYy68PDuuo/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/OvnnNdo5myQeXXI6TuMOW-ik-LMzhFe8ZGYy68PDuuo/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/OvnnNdo5myQeXXI6TuMOW-ik-LMzhFe8ZGYy68PDuuo/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OvnnNdo5myQeXXI6TuMOW-ik-LMzhFe8ZGYy68PDuuo/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "大きな窓からは時間とともに表情を変える海の景色が広がる"
+      },
+      {
+        "description": "ホテル周辺は大房岬自然公園に指定され一年を通じて利用できるアクティビティが満載。徒歩圏内には、磯遊びができる海岸園地やピクニック気分が楽しめる南芝生園地、雄大な自然の眺望を望む展望台、生き物観察ツアーなど多彩なイベントに参加できる大房岬自然の家が。大房岬では初心者でも子どもと一緒に楽しめるシーカヤックなどのマリンアクティビティも体験できます。車の移動では30分圏内に富士山を眺めることができる鋸山ロープウェイ、東京湾に浮かぶ東京湾アクアラインの海ほたる、60分圏内には鴨川シーワールドやマザー牧場など家族で楽しめる観光スポットがあるので、ホテルの行き帰りに立ち寄ってみましょう。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/8tPTB5omJ3UeLfHtHwBXmmwUOEAOeHWW2duEACLUAbM/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/W4MMhMLNvJ9BgK4qxGIty4uQGpUv-UezRWdjU7XemrY/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/W4MMhMLNvJ9BgK4qxGIty4uQGpUv-UezRWdjU7XemrY/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/W4MMhMLNvJ9BgK4qxGIty4uQGpUv-UezRWdjU7XemrY/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/W4MMhMLNvJ9BgK4qxGIty4uQGpUv-UezRWdjU7XemrY/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/W4MMhMLNvJ9BgK4qxGIty4uQGpUv-UezRWdjU7XemrY/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "フードディッシャーや子ども用のカトラリーがあるので安心"
+      },
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/cC48YOVoGmX0ZHgkxw_sD2SUPxP-LVm8QJwKAeiCMdA/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/Q1QMUzJnpj537rZM-uPO_f3CVShZDQ5j5IDPrInOLmA/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/Q1QMUzJnpj537rZM-uPO_f3CVShZDQ5j5IDPrInOLmA/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Q1QMUzJnpj537rZM-uPO_f3CVShZDQ5j5IDPrInOLmA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Q1QMUzJnpj537rZM-uPO_f3CVShZDQ5j5IDPrInOLmA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Q1QMUzJnpj537rZM-uPO_f3CVShZDQ5j5IDPrInOLmA/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "潮騒を遠くに感じながらのんびりしたい天然温泉の露天風呂"
+      },
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/Ukb4MSUrVxDk6YsX-qdK6uaxOoawC7BohS5xb8n8_ew/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/JZQ0f_nzwsoI_7dpnTsuaolyl4Zb8ahSMJ6WdkG3xbI/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/JZQ0f_nzwsoI_7dpnTsuaolyl4Zb8ahSMJ6WdkG3xbI/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/JZQ0f_nzwsoI_7dpnTsuaolyl4Zb8ahSMJ6WdkG3xbI/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/JZQ0f_nzwsoI_7dpnTsuaolyl4Zb8ahSMJ6WdkG3xbI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JZQ0f_nzwsoI_7dpnTsuaolyl4Zb8ahSMJ6WdkG3xbI/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "子どもが安心して入浴できるバスグッズが用意された大浴場"
+      },
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/CBN7Jz86YU9Y11qXSbP_BqpuMFJJxfufEqvkA2VXmRY/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/1dfx7AB0BsT98MlPhxyABEJKozzvH13Cdr9EBNzSUaQ/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/1dfx7AB0BsT98MlPhxyABEJKozzvH13Cdr9EBNzSUaQ/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1dfx7AB0BsT98MlPhxyABEJKozzvH13Cdr9EBNzSUaQ/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/1dfx7AB0BsT98MlPhxyABEJKozzvH13Cdr9EBNzSUaQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1dfx7AB0BsT98MlPhxyABEJKozzvH13Cdr9EBNzSUaQ/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "入浴後や就寝前に利用したいリラクゼーションサロン"
+      },
+      {
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/MGXKwUfmpVlA2NKtJCRsu2P7MAywNFPfklbAq6-ef_0/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/zHhAPvfEoNAx0UaaBbe9fRy6RbOfXj4DIJ55B3Y0q6w/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/zHhAPvfEoNAx0UaaBbe9fRy6RbOfXj4DIJ55B3Y0q6w/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/zHhAPvfEoNAx0UaaBbe9fRy6RbOfXj4DIJ55B3Y0q6w/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/zHhAPvfEoNAx0UaaBbe9fRy6RbOfXj4DIJ55B3Y0q6w/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zHhAPvfEoNAx0UaaBbe9fRy6RbOfXj4DIJ55B3Y0q6w/1200x900.jpg",
+          "width": 1200
+        }
+      }
+    ],
+    "c_ap_DatePosted": "2023-10-30",
+    "c_ap_HeroImage": {
+      "height": 899,
+      "sourceUrl": "https://a.mktgcdn.com/p/QWwzn0ds6tIznglWbERUuuz3WuvZ76hGA_jybvZNb_Y/1200x899.jpg",
+      "thumbnails": [
+        {
+          "height": 899,
+          "url": "https://a.mktgcdn.com/p-sandbox/eVLTqs1kuzdPhCb-abu88nLhrWZ7AXB92XrScT5pRWw/1200x899.jpg",
+          "width": 1200
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/eVLTqs1kuzdPhCb-abu88nLhrWZ7AXB92XrScT5pRWw/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/eVLTqs1kuzdPhCb-abu88nLhrWZ7AXB92XrScT5pRWw/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/eVLTqs1kuzdPhCb-abu88nLhrWZ7AXB92XrScT5pRWw/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/eVLTqs1kuzdPhCb-abu88nLhrWZ7AXB92XrScT5pRWw/1200x899.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "海と緑に囲まれた大房岬の大自然にたたずむリゾートホテル",
+    "c_ap_LinkArticleSectionTitle": "千葉県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "千葉旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/chiba/"
+      },
+      {
+        "linkText": "千葉県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/chiba/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "関東全般",
+      "千葉県"
+    ],
+    "c_ap_ShortDescription": "東京の都心から車で約90分。南房総国定公園内の大房岬に立つ「ホテル＆リゾーツ 南房総」は、小さな子ども連れでも安心して宿泊できる施設とサービスが充実。2023年7月15日に1階のウェルカムラウンジや朝食とディナーのビュッフェメニューが生まれ変わり、おもてなしの魅力がさらにアップしました。\nホテルから車で1時間圏内には、海と陸の多彩なアクティビティが楽しめる施設や鴨川シーワールドなどのアミューズメント施設が点在。一年を通じて自然とふれあいながら非日常の体験を満喫できます。",
+    "c_ap_Tags": [
+      "南房総",
+      "眺望",
+      "アクティビティ",
+      "露天風呂"
+    ],
+    "c_ap_Theme": [
+      "自然・山",
+      "動植物園・公園",
+      "温泉・立ち寄り湯",
+      "リゾート",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "小さな子どものお泊まりデビュー＆家族で楽しめるアクティビティが充実【千葉県 ホテル＆リゾーツ 南房総】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "東京の都心から車で約90分。南房総国定公園内の大房岬に立つ「ホテル＆リゾーツ 南房総」は、小さな子ども連れでも安心して宿泊できる施設とサービスが充実。2023年7月15日に1階のウェルカムラウンジや朝食とディ…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "小さな子どものお泊まりデビュー＆家族で楽しめるアクティビティが充実【千葉県 ホテル＆リゾーツ 南房総】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100182",
+    "name": "小さな子どものお泊まりデビュー＆家族で楽しめるアクティビティが充実【千葉県 ホテル＆リゾーツ 南房総】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

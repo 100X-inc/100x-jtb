@@ -1,0 +1,163 @@
+{
+  "$id": "cp_h_yokoyama031",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_CTA1": {
+      "label": "横山のリモート相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVBix2l",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "コンサルタント一覧",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_cp_Certification": [
+      "総合旅行業取扱管理者"
+    ],
+    "c_cp_Description": "お客様にとって素敵な思い出に残るような旅行のお手伝いを精一杯させて頂きます。\nこれまでの私の経験を最大限に活用し、最高の選択肢になるように目的に合わせておすすめのお宿や観光地もご提案させて頂きます。\n是非一緒に楽しい旅の計画を立てましょう♪",
+    "c_cp_DisplayName": "横山",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ旅行",
+      "ウエディング",
+      "ハネムーン",
+      "記念旅行",
+      "クルーズ",
+      "テーマパーク",
+      "スポーツ観戦",
+      "ドライブ",
+      "飛行機",
+      "グルメ",
+      "ショッピング",
+      "温泉・立ち寄り湯",
+      "音楽ライブ"
+    ],
+    "c_cp_GeneralInfo": [
+      "★オージースペシャリスト（オーストラリア）",
+      "★ニュージーランドスペシャリスト",
+      "趣味：バレ－ボ－ル、推し活（ライブ・イベント）、ドライブ、グルメ、インスタ映えスポット巡り",
+      "大好きな場所：北海道・沖縄"
+    ],
+    "c_cp_HeroImage": {
+      "height": 500,
+      "sourceUrl": "https://a.mktgcdn.com/p/iEBRiKMbwdkzZRwovPhxO_i_npPV_n4rWUvSqQM1pzY/652x500.jpg",
+      "thumbnails": [
+        {
+          "height": 500,
+          "url": "https://a.mktgcdn.com/p-sandbox/C5I0WGv4r08WMM7o7OXnORuTzAEyYpuunNUYEHlZkeU/652x500.jpg",
+          "width": 652
+        },
+        {
+          "height": 475,
+          "url": "https://a.mktgcdn.com/p-sandbox/C5I0WGv4r08WMM7o7OXnORuTzAEyYpuunNUYEHlZkeU/619x475.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/C5I0WGv4r08WMM7o7OXnORuTzAEyYpuunNUYEHlZkeU/587x450.jpg",
+          "width": 587
+        },
+        {
+          "height": 150,
+          "url": "https://a.mktgcdn.com/p-sandbox/C5I0WGv4r08WMM7o7OXnORuTzAEyYpuunNUYEHlZkeU/196x150.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/C5I0WGv4r08WMM7o7OXnORuTzAEyYpuunNUYEHlZkeU/652x500.jpg",
+      "width": 652
+    },
+    "c_cp_HiraganaName": "よこやま",
+    "c_cp_JobTitle": "JTBリモートコンシェルジュ　トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 675,
+      "sourceUrl": "https://a.mktgcdn.com/p/_zVvaxu7hAQsLX_fZZlnGUcika74bMh7V39sqhjb_AA/640x675.jpg",
+      "thumbnails": [
+        {
+          "height": 675,
+          "url": "https://a.mktgcdn.com/p-sandbox/ig6OBi4u86x9V2xTxYO6KYVkt2exFgEvJ-DJVnNkA1s/640x675.jpg",
+          "width": 640
+        },
+        {
+          "height": 653,
+          "url": "https://a.mktgcdn.com/p-sandbox/ig6OBi4u86x9V2xTxYO6KYVkt2exFgEvJ-DJVnNkA1s/619x653.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/ig6OBi4u86x9V2xTxYO6KYVkt2exFgEvJ-DJVnNkA1s/427x450.jpg",
+          "width": 427
+        },
+        {
+          "height": 207,
+          "url": "https://a.mktgcdn.com/p-sandbox/ig6OBi4u86x9V2xTxYO6KYVkt2exFgEvJ-DJVnNkA1s/196x207.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ig6OBi4u86x9V2xTxYO6KYVkt2exFgEvJ-DJVnNkA1s/640x675.jpg",
+      "width": 640
+    },
+    "c_cp_Point": "145",
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム",
+      "オーストラリア",
+      "ニュージーランド"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "スペイン",
+      "イタリア"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "香港・マカオ",
+      "韓国",
+      "台湾",
+      "インドネシア・バリ島",
+      "シンガポール"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道",
+      "東北全般"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "東京都",
+      "神奈川県"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "中部全般",
+      "北陸全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "近畿全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "ハワイスペシャリスト上級",
+      "ハネムーン",
+      "女子旅",
+      "温泉",
+      "記念旅行",
+      "クルーズ"
+    ],
+    "c_metaDescription": "「JTBリモートコンシェルジュ」は、オンラインでの旅行相談・申込の専門店です。知識豊富なスタッフがご希望の旅をご提案します。 オンライ相談の予約も承ります。",
+    "c_metaTitle": "JTBリモートコンシェルジュ ｜  横山 ｜ リモートトラベルコンシェルジュ | オンライン旅行相談",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_h_yokoyama031",
+    "c_responsibleService": [
+      "リモートコンシェルジュ"
+    ],
+    "name": "h_yokoyama031",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

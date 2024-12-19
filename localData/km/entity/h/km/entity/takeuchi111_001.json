@@ -1,0 +1,247 @@
+{
+  "$id": "h_takeuchi111_001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 竹内 寿夫"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちらから",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちらから",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "まずは日本国内の各地にいるスタッフたちが国内のおすすめ旅プランや印象に残る旅先、日常のおでかけネタなどをご紹介していきます。いずれは全世界からお届けできるといいなと思っております。最初のうちは記事本数が少ないですが、日々ちょっとずつ増やしていきます！",
+        "image": {
+          "height": 1000,
+          "sourceUrl": "https://a.mktgcdn.com/p/HwVXLunoS06F6p_Nft62KWyY9qggTkBdkCcggm1DdNs/1500x1000.jpg",
+          "thumbnails": [
+            {
+              "height": 1000,
+              "url": "https://a.mktgcdn.com/p-sandbox/HwVXLunoS06F6p_Nft62KWyY9qggTkBdkCcggm1DdNs/1500x1000.jpg",
+              "width": 1500
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/HwVXLunoS06F6p_Nft62KWyY9qggTkBdkCcggm1DdNs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/HwVXLunoS06F6p_Nft62KWyY9qggTkBdkCcggm1DdNs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/HwVXLunoS06F6p_Nft62KWyY9qggTkBdkCcggm1DdNs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HwVXLunoS06F6p_Nft62KWyY9qggTkBdkCcggm1DdNs/1500x1000.jpg",
+          "width": 1500
+        },
+        "imageCaption": "青森県 初夏の十和田湖。新緑の中、湖上を遊覧船でめぐるとなんとも爽快な気分になります。夏こそ行きたいスポットのひとつ",
+        "sectionTitle": "全国のJTBスタッフが皆さまへおすすめしたい旅や日常のおでかけネタを記事として日々投稿していきます！"
+      },
+      {
+        "description": "JTBのお店にいるスタッフも記事を投稿します。気になる投稿や旅行ネタを見かけたらその記事を投稿したトラベルコンサルタントにオンラインで旅行の相談や申込をすることもできちゃいます。（オンライン相談をお受けできるのは一部スタッフのみです、あしからず…）",
+        "image": {
+          "height": 745,
+          "sourceUrl": "https://a.mktgcdn.com/p/NQv_HKecUC6d2t6DW4SjC0jTZXGO9uxOl9C_nfuNGV4/1088x745.jpg",
+          "thumbnails": [
+            {
+              "height": 745,
+              "url": "https://a.mktgcdn.com/p-sandbox/AfmTlHdSc7D1jEYtBPXjacoB42FUv_iOiiSil5spqVY/1088x745.jpg",
+              "width": 1088
+            },
+            {
+              "height": 424,
+              "url": "https://a.mktgcdn.com/p-sandbox/AfmTlHdSc7D1jEYtBPXjacoB42FUv_iOiiSil5spqVY/619x424.jpg",
+              "width": 619
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/AfmTlHdSc7D1jEYtBPXjacoB42FUv_iOiiSil5spqVY/600x411.jpg",
+              "width": 600
+            },
+            {
+              "height": 134,
+              "url": "https://a.mktgcdn.com/p-sandbox/AfmTlHdSc7D1jEYtBPXjacoB42FUv_iOiiSil5spqVY/196x134.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AfmTlHdSc7D1jEYtBPXjacoB42FUv_iOiiSil5spqVY/1088x745.jpg",
+          "width": 1088
+        },
+        "imageCaption": "旅の知見豊富なスタッフたちがご希望に叶う旅をご提案します。お気軽にご相談ください",
+        "sectionTitle": "お店のスタッフも記事を投稿、気になったら投稿したトラベルコンサルタントにオンラインで旅行の相談ができます！"
+      },
+      {
+        "description": "ツアーの企画、在庫の仕入、ホームページの更新、公式SNSの投稿など旅行の裏方で働くスタッフたちも記事を投稿していきます。様々な視点を持った個性あるメンバーもたくさんいますので一味違った旅のネタが見つかるかも知れません。仕入企画担当者だからこその観点の情報もたくさんあるようですよ。さあ、これから私たちJTBスタッフが愛する旅、だからこそ皆さまにおすすめしたい旅を、それぞれの感性で綴っていきます。そのぶん、個人の趣味や主観が入りますことご容赦ください。そして、どうぞひとときの旅気分を味わって楽しんでいただけたら嬉しいです。では、これからどうぞ宜しくお願いいたします！----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "image": {
+          "height": 1263,
+          "sourceUrl": "https://a.mktgcdn.com/p/8f5A-SxYMX1iPecMx2dkC-Y_1lABrDx6o9wQC-IwGz8/1637x1263.jpg",
+          "thumbnails": [
+            {
+              "height": 1263,
+              "url": "https://a.mktgcdn.com/p-sandbox/6HYlHUpnRpe78psnmS7Js_fh9-EJ2a9nKoRpr6D4m-w/1637x1263.jpg",
+              "width": 1637
+            },
+            {
+              "height": 478,
+              "url": "https://a.mktgcdn.com/p-sandbox/6HYlHUpnRpe78psnmS7Js_fh9-EJ2a9nKoRpr6D4m-w/619x478.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/6HYlHUpnRpe78psnmS7Js_fh9-EJ2a9nKoRpr6D4m-w/583x450.jpg",
+              "width": 583
+            },
+            {
+              "height": 151,
+              "url": "https://a.mktgcdn.com/p-sandbox/6HYlHUpnRpe78psnmS7Js_fh9-EJ2a9nKoRpr6D4m-w/196x151.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6HYlHUpnRpe78psnmS7Js_fh9-EJ2a9nKoRpr6D4m-w/1637x1263.jpg",
+          "width": 1637
+        },
+        "imageCaption": "2年ほど前の川越散歩での一コマ。気兼ねなく外で一杯やれる日が早く来るといいですね",
+        "sectionTitle": "企画・仕入・Webなど様々な分野のスタッフが旅の楽しみをお伝えします！　おでかけが恋しくなったらいつでも覗きにきてください！"
+      }
+    ],
+    "c_ap_DatePosted": "2021-08-04",
+    "c_ap_DirectoryImage": {
+      "height": 1200,
+      "sourceUrl": "https://a.mktgcdn.com/p/GnyrV6fI2fpPv5wZEhAeSyl14vKMcuEJwi0es37f83M/1800x1200.jpg",
+      "thumbnails": [
+        {
+          "height": 1200,
+          "url": "https://a.mktgcdn.com/p-sandbox/GnyrV6fI2fpPv5wZEhAeSyl14vKMcuEJwi0es37f83M/1800x1200.jpg",
+          "width": 1800
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/GnyrV6fI2fpPv5wZEhAeSyl14vKMcuEJwi0es37f83M/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/GnyrV6fI2fpPv5wZEhAeSyl14vKMcuEJwi0es37f83M/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/GnyrV6fI2fpPv5wZEhAeSyl14vKMcuEJwi0es37f83M/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/GnyrV6fI2fpPv5wZEhAeSyl14vKMcuEJwi0es37f83M/1800x1200.jpg",
+      "width": 1800
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "JTBスタッフによる「おすすめ旅\u0026おでかけ記事」投稿スタートします！【ご挨拶】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 751,
+      "sourceUrl": "https://a.mktgcdn.com/p/JbqOK-qh3cadpA05g_-utLA4hMVukWHz_XxGo8VaZxI/1799x751.jpg",
+      "thumbnails": [
+        {
+          "height": 751,
+          "url": "https://a.mktgcdn.com/p-sandbox/wnairchA5kZo4eKegdKehVfbMa3iKdLRNDYxiR_6kPk/1799x751.jpg",
+          "width": 1799
+        },
+        {
+          "height": 258,
+          "url": "https://a.mktgcdn.com/p-sandbox/wnairchA5kZo4eKegdKehVfbMa3iKdLRNDYxiR_6kPk/619x258.jpg",
+          "width": 619
+        },
+        {
+          "height": 250,
+          "url": "https://a.mktgcdn.com/p-sandbox/wnairchA5kZo4eKegdKehVfbMa3iKdLRNDYxiR_6kPk/600x250.jpg",
+          "width": 600
+        },
+        {
+          "height": 82,
+          "url": "https://a.mktgcdn.com/p-sandbox/wnairchA5kZo4eKegdKehVfbMa3iKdLRNDYxiR_6kPk/196x82.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/wnairchA5kZo4eKegdKehVfbMa3iKdLRNDYxiR_6kPk/1799x751.jpg",
+      "width": 1799
+    },
+    "c_ap_HeroImageCaption": "茨城県ひたちなか市の国営ひたち海浜公園。春はスイセン、初夏はネモフィラ、夏はヒマワリ、秋はコキアなど、色彩豊かな花々が四季を彩ります",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフによる記事一覧はこちら"
+      },
+      {
+        "linkText": "トラベルコンサルタント一覧はこちら"
+      },
+      {
+        "linkText": "JTB店舗・専門店への相談はこちらから"
+      },
+      {
+        "linkText": "JTB国内宿泊プラン　ホテル・旅館・宿"
+      },
+      {
+        "linkText": "JTBの海外旅行おすすめプラン"
+      },
+      {
+        "linkText": "新型コロナウイルス感染防止のための私たちの取り組み"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_NotificationBanner": "～2021年8月4日開始～　JTBスタッフによる 旅の提案 おすすめ こだわりを紡ぐ「おすすめ旅\u0026おでかけ記事」投稿をスタートいたします！",
+    "c_ap_ShortDescription": "こんにちは！　JTBホームページ担当よりご挨拶です。\nこのたび2021/8/4、JTBスタッフによる、おすすめ旅\u0026おでかけ記事の投稿を本ページにてスタートします！\n\nコロナ拡大からはや1年半…。思うように旅行できない時期が続きますが、もともと旅好きの集まりである私たちJTBのスタッフはやはり旅のことを語りたくて仕方ないのです。\n気軽に旅することがこれほど愛しいと感じてしまう今だからこそ、それぞれの 行きたい街、いつか行く旅、思い出の場所などに想いを巡らせて、少しでも旅の気分を味わってみてください。\nもちろん、旅に行きたくなったらいつでもご相談ください。あなたにぴったりの素敵な旅をご提案できると思います！",
+    "c_ap_Tags": [
+      "JTBスタッフ",
+      "おすすめ",
+      "旅",
+      "おでかけ",
+      "投稿"
+    ],
+    "c_ap_Title": "2021.8.4　JTBスタッフによる「おすすめ旅\u0026おでかけ記事」投稿スタートします！【ご挨拶】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "このたび、JTBスタッフによる「おすすめ旅\u0026おでかけ記事」の投稿を本ページにてスタートします！ コロナ拡大からはや1年半…。思うように旅行できない時期が続きますが、もともと旅好きの集まりである私たちJTBのス…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "JTBスタッフによる「おすすめ旅\u0026おでかけ記事」投稿スタートします！【ご挨拶】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/h_takeuchi111_001",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "JTBスタッフの「おすすめ旅\u0026おでかけ記事」スタートします【ご挨拶】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

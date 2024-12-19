@@ -1,0 +1,15 @@
+{
+  "$id": "test_kokunai_others_level3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "test_kokunai_others_level2"
+    ],
+    "name": "テスト国内その他3",
+    "slug": "test_kokunai/test_kokunai_others_level2/test_kokunai_others_level3"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

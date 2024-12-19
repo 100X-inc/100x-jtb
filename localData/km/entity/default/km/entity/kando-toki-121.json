@@ -1,0 +1,40 @@
+{
+  "$id": "kando-toki-121",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/121_kv_pc03.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d40.489149%2C140.951503",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "青森県",
+    "c_searchTags": [
+      "青森県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "海・湖・川・滝",
+      "山・森・野・里",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "濃い緑、明るい緑、青に近い緑、苔むした緑…。様々な種類の緑色が、木漏れ日を浴びてまるで宝石箱のようにきらめく場所。新緑の季節を迎えた奥入瀬渓流は、目を射るような美しい緑が視界いっぱいに広がります。深い森に囲まれた奥入瀬渓流は、時にゆるやかな川の流れとなり、あるいは激しく飛沫を散らして流れ落ちる滝となり、場所によってさまざまな顔を見せてくれます。渓流に沿って作られた車道や歩道からは多彩な川の姿を目線と同じ高さで見ることができ、変化する水の芸術品が並べられた美術館を歩くように、森林浴を楽しめます。さらに新緑の季節ともなれば、鮮やかな若葉が渓流を彩ります。真っ白な飛沫を上げて流れる渓流からは涼しい風が湧き上がり、身も心も清らかに洗い流してくれるような清々しい空気があふれます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/121.asp",
+    "name": "新緑かおる奥入瀬渓流"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

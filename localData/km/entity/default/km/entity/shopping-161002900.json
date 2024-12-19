@@ -1,0 +1,30 @@
+{
+  "$id": "shopping-161002900",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_imageURL": "https://shopping.jtb.co.jp/contents/shop/jtbtrd/img/goods/123/123136/161002900_1.jpg",
+    "c_primaryCTA": {
+      "link": "https://shopping.jtb.co.jp/item/161002900/",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "海外"
+    ],
+    "c_searchArea2": "イギリス",
+    "c_searchTags": [
+      "Drink（飲みもの）",
+      "お茶",
+      "紅茶",
+      "不思議の国のアリス紅茶",
+      "6箱セット",
+      "イギリス"
+    ],
+    "description": "「不思議の国のアリス」に使用されたイラストをパッケージに。ティーバッグタイプのアールグレイです。",
+    "name": "不思議の国のアリス紅茶 6箱セット"
+  },
+  "entityType": "ce_shopping",
+  "folder": "お土産通販",
+  "labels": []
+}

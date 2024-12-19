@@ -1,0 +1,24 @@
+{
+  "$id": "defaultDirectory_ci_cheng_xian",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "2",
+    "dm_childEntityIds": [
+      "1045019369",
+      "1045019388"
+    ],
+    "dm_directoryChildren": [
+      "defaultDirectory_ci_cheng_xian_shui_hu_shi",
+      "defaultDirectory_ci_cheng_xian_tsukubashi"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory"
+    ],
+    "name": "茨城県",
+    "slug": "茨城県"
+  },
+  "entityType": "ce_region",
+  "labels": []
+}

@@ -1,0 +1,46 @@
+{
+  "$id": "news_pa_yokohama",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kokunai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "横浜",
+      "link": "https://www.jtb.co.jp/news/list/index.html?tag\u003d%E6%A8%AA%E6%B5%9C",
+      "linkType": "OTHER"
+    },
+    "c_news_PopularAreasImage": {
+      "height": 506,
+      "sourceUrl": "https://a.mktgcdn.com/p/lHqeCqWYAFLMfSe57Shfu3FCyu6C97-vZ1kGKjACDDM/1200x506.jpg",
+      "thumbnails": [
+        {
+          "height": 506,
+          "url": "https://a.mktgcdn.com/p-sandbox/lHqeCqWYAFLMfSe57Shfu3FCyu6C97-vZ1kGKjACDDM/1200x506.jpg",
+          "width": 1200
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/lHqeCqWYAFLMfSe57Shfu3FCyu6C97-vZ1kGKjACDDM/619x261.jpg",
+          "width": 619
+        },
+        {
+          "height": 253,
+          "url": "https://a.mktgcdn.com/p-sandbox/lHqeCqWYAFLMfSe57Shfu3FCyu6C97-vZ1kGKjACDDM/600x253.jpg",
+          "width": 600
+        },
+        {
+          "height": 83,
+          "url": "https://a.mktgcdn.com/p-sandbox/lHqeCqWYAFLMfSe57Shfu3FCyu6C97-vZ1kGKjACDDM/196x83.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/lHqeCqWYAFLMfSe57Shfu3FCyu6C97-vZ1kGKjACDDM/1200x506.jpg",
+      "width": 1200
+    },
+    "name": "横浜"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

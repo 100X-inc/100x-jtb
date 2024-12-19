@@ -1,0 +1,368 @@
+{
+  "$id": "ap_chiki_100026",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター いね"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "海で暮らす多種多様な魚や水辺の動物だけでなく、カピバラ、コツメカワウソ、レッサーパンダ、プレーリードッグといった森で暮らす動物たちにも会える、とっても珍しい日本最大級の水族館です。ここでは約700種類、12万点の生きものたちが生活しているそう。中はLABO形式で構成されており、LABO1～11までの11コーナーにそれぞれテーマが設けられ、学びながら楽しむことが出来ます。大水槽ではたくさんの魚たちが伸び伸びと泳いでいる姿や、かわいいイルカが興味津々に近寄って来る姿が見られました！また、アクアスタジアムではペンギンのかわいいパフォーマンスやイルカたちのダイナミックなジャンプなどを間近で見られる、見どころいっぱいの海のエンターテインメントショーが繰り広げられます♪　海の動物たちとトレーナーさんとの信頼関係に驚かされながらも癒しの時間を過ごすことが出来ました。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/mBCr0moGnahVpV0rHC1r8ljeKMtlp-U3tGNVs2uc_fE/1280x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/Dy9Z17BwcnRiJ8NbjPVzNOaKrzgSdTlycZuV6kDghnA/1280x1024.jpg",
+              "width": 1280
+            },
+            {
+              "height": 495,
+              "url": "https://a.mktgcdn.com/p-sandbox/Dy9Z17BwcnRiJ8NbjPVzNOaKrzgSdTlycZuV6kDghnA/619x495.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Dy9Z17BwcnRiJ8NbjPVzNOaKrzgSdTlycZuV6kDghnA/563x450.jpg",
+              "width": 563
+            },
+            {
+              "height": 157,
+              "url": "https://a.mktgcdn.com/p-sandbox/Dy9Z17BwcnRiJ8NbjPVzNOaKrzgSdTlycZuV6kDghnA/196x157.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Dy9Z17BwcnRiJ8NbjPVzNOaKrzgSdTlycZuV6kDghnA/1280x1024.jpg",
+          "width": 1280
+        },
+        "imageCaption": "見どころ満載！もはや水族館を超えるアクアミュージアム",
+        "sectionTitle": "多様な環境に生息する生きものたちに会うことが出来る水族館「アクアミュージアム」"
+      },
+      {
+        "description": "とにかく愛らしい動物たちがいっぱい！ 公式ホームページからの事前予約が必要ですが、「ふれあい体験プログラム」も多数用意されています。実際に私も家族と一緒に「カピバラ・マーラのごはんタイム」を体験。可愛いカピバラやマーラがごはんを求めて近寄って来るので、こどもも大人も大興奮！ また、「コツメカワウソとあくしゅ」ではごはんをあげてガラス越しにコツメカワウソとあくしゅ出来る癒しの時間を過ごせます♪他にも色々な動物とふれあうプログラムが盛りだくさんで、どのプログラムも大人気なので早めの予約をオススメします。",
+        "image": {
+          "height": 1280,
+          "sourceUrl": "https://a.mktgcdn.com/p/0fnhU7s64yZ5TW6jvwkBMOQzGxoL3yprpYE2aoh3pjo/1280x1280.jpg",
+          "thumbnails": [
+            {
+              "height": 1280,
+              "url": "https://a.mktgcdn.com/p-sandbox/T0HbdyDhdW4vd-pvmVXpSRo2NrghhNCjC8EPSEI3MUw/1280x1280.jpg",
+              "width": 1280
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/T0HbdyDhdW4vd-pvmVXpSRo2NrghhNCjC8EPSEI3MUw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/T0HbdyDhdW4vd-pvmVXpSRo2NrghhNCjC8EPSEI3MUw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/T0HbdyDhdW4vd-pvmVXpSRo2NrghhNCjC8EPSEI3MUw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/T0HbdyDhdW4vd-pvmVXpSRo2NrghhNCjC8EPSEI3MUw/1280x1280.jpg",
+          "width": 1280
+        },
+        "imageCaption": "かわいい動物たちとのふれあいタイム♪",
+        "sectionTitle": "事前予約必須！「ふれあいプログラム」で動物たちとふれあう癒しの時間♪"
+      },
+      {
+        "description": "一歩中に入ると大きなアーチ水槽に圧倒！ 自然の光がふりそそぐ中でバンドウイルカたちが仲良く泳ぐ姿やたくさんの魚たちが群れで泳ぐ姿を見ることが出来ます。また、奥に進むと大きなマンボウがゆったりと泳ぐ円柱水槽があり、時が止まったかのようなのんびりとした時間を過ごすことが出来ます。",
+        "image": {
+          "height": 1592,
+          "sourceUrl": "https://a.mktgcdn.com/p/MWRskCZoGWpg35bFV3BDMCgJPNMcG7CEOPXus6AufAQ/1200x1592.jpg",
+          "thumbnails": [
+            {
+              "height": 1592,
+              "url": "https://a.mktgcdn.com/p-sandbox/b5ncbN04Tx6KpjJygKb9zjyGEtNUU-ivWRDLn2XVW7Q/1200x1592.jpg",
+              "width": 1200
+            },
+            {
+              "height": 821,
+              "url": "https://a.mktgcdn.com/p-sandbox/b5ncbN04Tx6KpjJygKb9zjyGEtNUU-ivWRDLn2XVW7Q/619x821.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/b5ncbN04Tx6KpjJygKb9zjyGEtNUU-ivWRDLn2XVW7Q/339x450.jpg",
+              "width": 339
+            },
+            {
+              "height": 260,
+              "url": "https://a.mktgcdn.com/p-sandbox/b5ncbN04Tx6KpjJygKb9zjyGEtNUU-ivWRDLn2XVW7Q/196x260.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/b5ncbN04Tx6KpjJygKb9zjyGEtNUU-ivWRDLn2XVW7Q/1200x1592.jpg",
+          "width": 1200
+        },
+        "imageCaption": "まるで海底を散歩しているかのよう・・・",
+        "sectionTitle": "自然の光が降り注ぐ中でイルカの様子を観察することが出来る水族館「ドルフィンファンタジー」"
+      },
+      {
+        "description": "続いては2021年7月にリニューアルオープンしたばかりの新施設「うみファーム」へ！ 「うみファーム」は自然の海の上に作られた施設で、オーシャンラボとフィッシャーマンズオアシスの2つのエリアから構成されています。オーシャンラボは自然・環境やSDGsへの取り組みの大切さについて興味を持って貰うことを目的として作られたそう。四季を通じて変化する自然の海（東京湾）の様子、海藻に集まる生きものやクラゲなどの生態を観察しながら学ぶことが出来ます。",
+        "image": {
+          "height": 1280,
+          "sourceUrl": "https://a.mktgcdn.com/p/iRa5FhgeAYGOqkPyPmttTmIUXXLQ9vVSxqybNdY5GZY/956x1280.jpg",
+          "thumbnails": [
+            {
+              "height": 1280,
+              "url": "https://a.mktgcdn.com/p-sandbox/HjkZWTxUFnFqA4RZ9ttdTzb7Y5HcCFtc-revp74GtuQ/956x1280.jpg",
+              "width": 956
+            },
+            {
+              "height": 829,
+              "url": "https://a.mktgcdn.com/p-sandbox/HjkZWTxUFnFqA4RZ9ttdTzb7Y5HcCFtc-revp74GtuQ/619x829.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/HjkZWTxUFnFqA4RZ9ttdTzb7Y5HcCFtc-revp74GtuQ/336x450.jpg",
+              "width": 336
+            },
+            {
+              "height": 262,
+              "url": "https://a.mktgcdn.com/p-sandbox/HjkZWTxUFnFqA4RZ9ttdTzb7Y5HcCFtc-revp74GtuQ/196x262.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HjkZWTxUFnFqA4RZ9ttdTzb7Y5HcCFtc-revp74GtuQ/956x1280.jpg",
+          "width": 956
+        },
+        "imageCaption": "オーシャンラボ",
+        "sectionTitle": "海の面白さを肌で感じられる「うみファーム」で海育！"
+      },
+      {
+        "description": "フィッシャーマンズオアシスではこどもも大人も夢中になれる魚釣りを体験！　釣り竿のレンタルもあり、エサ（オキアミ）も貰えるため、初心者でも手軽に楽しめるのが魅力です。釣れる魚は日によって異なるそうですが、自分が釣りたい魚によって生け簀が選べます。この日は「アジ」「ギンザケ」「マダイ」の中から「ギンザケ」をチョイス。釣り竿を垂らして数秒で簡単に釣れました♪実際に釣った魚は「うみファームキッチン」でその場で捌いて調理して貰い、お好みに合わせてフライやグリルにしてアツアツのまま食べられます。普段あまり魚を食べない我が家の娘もペロリ♪ 「もっと食べたい！」と言うほどでした。海の生きものたちを「観る」「知る」「獲る」「食べる」ことを通じて海を身近に感じ、まさに、「海育」体験をすることが出来ました！",
+        "image": {
+          "height": 854,
+          "sourceUrl": "https://a.mktgcdn.com/p/TaKg__CtruBk0MHXqekm4pst6slHruTVmFodQMBMSJY/1280x854.jpg",
+          "thumbnails": [
+            {
+              "height": 854,
+              "url": "https://a.mktgcdn.com/p-sandbox/QIV4OwK53xdzR9W5xlmY_xryeJWP61lH3d2LVdTJ7YE/1280x854.jpg",
+              "width": 1280
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/QIV4OwK53xdzR9W5xlmY_xryeJWP61lH3d2LVdTJ7YE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/QIV4OwK53xdzR9W5xlmY_xryeJWP61lH3d2LVdTJ7YE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/QIV4OwK53xdzR9W5xlmY_xryeJWP61lH3d2LVdTJ7YE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QIV4OwK53xdzR9W5xlmY_xryeJWP61lH3d2LVdTJ7YE/1280x854.jpg",
+          "width": 1280
+        },
+        "imageCaption": "こどもでも簡単に釣れ、楽しみながら「海育」体験が出来ました！（ちなみに、海育とは「海」＋「食育」の造語です）",
+        "sectionTitle": "海の生きものたちとの”ふれあい体験”が出来る水族館「ふれあいラグーン」"
+      },
+      {
+        "description": "このエリアの水槽はガラスの高さが低く、より間近でイルカたちを見ることが出来ます。運が良ければ好奇心旺盛なイルカたちが近づいて来てくれるかも！？また、「ケープペンギンのパレード」も開催され、かわいいペンギン達がお散歩する姿を見ることが出来、パレード後には実際にペンギンに触れ合ったり写真を撮ったりすることも出来ます！",
+        "image": {
+          "height": 1280,
+          "sourceUrl": "https://a.mktgcdn.com/p/Tf2XolmODHyPo4x0ymPK9LkF1wycEmZrX7Y3BGsF4Kw/956x1280.jpg",
+          "thumbnails": [
+            {
+              "height": 1280,
+              "url": "https://a.mktgcdn.com/p-sandbox/kfkrvjB5eDtSo1aYKKHAo2OUHaT4cFfCqfmGc2U_hQo/956x1280.jpg",
+              "width": 956
+            },
+            {
+              "height": 829,
+              "url": "https://a.mktgcdn.com/p-sandbox/kfkrvjB5eDtSo1aYKKHAo2OUHaT4cFfCqfmGc2U_hQo/619x829.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/kfkrvjB5eDtSo1aYKKHAo2OUHaT4cFfCqfmGc2U_hQo/336x450.jpg",
+              "width": 336
+            },
+            {
+              "height": 262,
+              "url": "https://a.mktgcdn.com/p-sandbox/kfkrvjB5eDtSo1aYKKHAo2OUHaT4cFfCqfmGc2U_hQo/196x262.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kfkrvjB5eDtSo1aYKKHAo2OUHaT4cFfCqfmGc2U_hQo/956x1280.jpg",
+          "width": 956
+        },
+        "imageCaption": "イルカやペンギンとのふれあい",
+        "sectionTitle": "ただの水族館と侮ることなかれ。大人も楽しめるアトラクションや美味しいグルメも盛りだくさん！"
+      },
+      {
+        "description": "広大な敷地を持つ「横浜・八景島シーパラダイス」ですが、水族館はもちろんのこと、遊園地やグルメも充実しています。16ものアトラクションからなる遊園地「プレジャーランド」で、大人も夢中になれるアトラクションに乗ってワクワクドキドキしてみては？ファストフード、和食、洋食・・・色々なレストランがあるので、気分に合わせて美味しいグルメを楽しめます。また、地元小柴産のレモンを使用したオリジナルの「八景島ハニーレモンエール（発泡酒）」や、黒ビールなどのクラフトビール・おつまみも販売されているので、アルコールを飲みながら大人な楽しみ方も出来、開園から閉園まで1日中遊び尽くしました♪これからお出かけもしやすくなる季節。まさに「レジャーアイランド」という名にふさわしい横浜・八景島シーパラダイスへ一度出かけてみてはいかがでしょうか。",
+        "image": {
+          "height": 1280,
+          "sourceUrl": "https://a.mktgcdn.com/p/IuLpuyQ6CLPjucb6XqZEX13aj27gJdrkJ7NP0EqKBV4/1280x1280.jpg",
+          "thumbnails": [
+            {
+              "height": 1280,
+              "url": "https://a.mktgcdn.com/p-sandbox/VImJC_E0Lzl1Nx5BpJIZJCrGqWbM7G2CLBIPIk3VyjM/1280x1280.jpg",
+              "width": 1280
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/VImJC_E0Lzl1Nx5BpJIZJCrGqWbM7G2CLBIPIk3VyjM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/VImJC_E0Lzl1Nx5BpJIZJCrGqWbM7G2CLBIPIk3VyjM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/VImJC_E0Lzl1Nx5BpJIZJCrGqWbM7G2CLBIPIk3VyjM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VImJC_E0Lzl1Nx5BpJIZJCrGqWbM7G2CLBIPIk3VyjM/1280x1280.jpg",
+          "width": 1280
+        },
+        "imageCaption": "1日中楽しみました★"
+      },
+      {
+        "description": "----------------------------------------------※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-04-11",
+    "c_ap_HeroImage": {
+      "alternateText": "こどもだけじゃない！大人も1日楽しめるレジャーアイランド♪【神奈川県　横浜・八景島シーパラダイス】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/o9-mwlO81dLqExJmFd1In097LRPpgHknVHKMWb4K9Wg/1280x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/o9-mwlO81dLqExJmFd1In097LRPpgHknVHKMWb4K9Wg/1280x960.jpg",
+          "width": 1280
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/o9-mwlO81dLqExJmFd1In097LRPpgHknVHKMWb4K9Wg/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/o9-mwlO81dLqExJmFd1In097LRPpgHknVHKMWb4K9Wg/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/o9-mwlO81dLqExJmFd1In097LRPpgHknVHKMWb4K9Wg/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/o9-mwlO81dLqExJmFd1In097LRPpgHknVHKMWb4K9Wg/1280x960.jpg",
+      "width": 1280
+    },
+    "c_ap_HeroImageCaption": "ファミリーだけでなく大勢の人で賑わっています！",
+    "c_ap_LinkArticleSectionTitle": "神奈川県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "「横浜・八景島シーパラダイス」入館券プラン",
+        "uRL": "https://tabisugo.jtb.co.jp/coupons/1808"
+      },
+      {
+        "linkText": "シーパラで「釣って・食べる」お魚バーガー体験",
+        "uRL": "https://tabisugo.jtb.co.jp/coupons/1809"
+      },
+      {
+        "linkText": "「横浜・八景島シーパラダイス」の入場パスポートがついたプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai/dynamic/enjoy/to_yoko/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "関東全般",
+      "神奈川県"
+    ],
+    "c_ap_ShortDescription": "海のすべてがそろった4つの水族館「アクアリゾーツ」と、1日中楽しめる海の遊園地「プレジャーランド」からなる横浜・八景島シーパラダイス！ かわいい海の仲間たちに癒されに行きませんか？",
+    "c_ap_Tags": [
+      "水族館",
+      "女子旅",
+      "カップル",
+      "SNS映え"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "グループ",
+      "動植物園・公園",
+      "テーマパーク"
+    ],
+    "c_ap_Title": "こどもだけじゃない！大人も1日楽しめるレジャーアイランド♪【神奈川県　横浜・八景島シーパラダイス】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "海のすべてがそろった4つの水族館「アクアリゾーツ」と、1日中楽しめる海の遊園地「プレジャーランド」からなる横浜・八景島シーパラダイス！ かわいい海の仲間たちに癒されに行きませんか？",
+    "c_metaTitle": "こどもだけじゃない！大人も1日楽しめるレジャーアイランド♪【神奈川県　横浜・八景島シーパラダイス】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100026",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "関東全般, 神奈川県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "こどもだけじゃない！大人も1日楽しめるレジャーアイランド♪【神奈川県　横浜・八景島シーパラダイス】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,27 @@
+{
+  "$id": "kaigai/area/kauai-island/",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_searchArea1": [
+      "海外"
+    ],
+    "description": "カウアイ島旅行ならJTBのカウアイ島ツアー予約がおすすめ。カウアイ島観光は、ハワイのグランドキャニオン、ワイメア渓谷やナパリコーストなど、大自然を感じる観光スポット・見所が満載！ビーチ沿いのホテル・コンドミニアムに滞在すれば、日帰りでは行けない秘境観光やゴルフ三昧の旅も楽しめます。JTB限定のお得なレンタカー付ツアーから、一人旅、ハネムーン向けの高級ツアーまで、多数のパッケージツアーがあるので比較してみて！",
+    "displayCoordinate": {
+      "latitude": 22.0964396,
+      "longitude": -159.5261238
+    },
+    "keywords": [
+      "カウアイ島",
+      "旅行",
+      "ツアー",
+      "JTB"
+    ],
+    "landingPageUrl": "https://www.jtb.co.jp/kaigai/area/kauai-island/",
+    "name": "カウアイ島旅行・カウアイ島ツアー"
+  },
+  "entityType": "ce_area2",
+  "folder": "海外ツアー",
+  "labels": []
+}

@@ -1,0 +1,251 @@
+{
+  "$id": "ap_osarea_0000103",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_Contents": [
+      {
+        "description": "皇帝一家が愛した老舗スイーツ店「ザッハー」は、世界に誇るザッハートルテ発祥の店。1832年、当時16歳だったフランツ・ザッハーが考案したことで知られています。オリジナルのザッハートルテは、真ん中にアプリコットジャムの層があるのが特徴で、スポンジはしっとりとした口当たり。深い赤と純白、金色で統一された優雅な店内で、伝統スイーツをぜひ味わってみてください。DATACafé Sacher住所：Philharmoniker Str.4　ザッハー・ウィーン内営業時間：8～20時定休日：なし",
+        "image": {
+          "alternateText": "チョコレートを使ったゲルストナー・トルテ€5.50やシシィトルテ€5.50などがおすすめ",
+          "height": 1111,
+          "sourceUrl": "https://a.mktgcdn.com/p/hlSCQZTDWY_RFwQpUpqaIZywf_jkoVSiR7aSdWMV8-E/1754x1111.jpg",
+          "thumbnails": [
+            {
+              "height": 1111,
+              "url": "https://a.mktgcdn.com/p-sandbox/8WhhQsXspxpEM2ebga2hIDrHzcjkFufy4uG2tfVLspY/1754x1111.jpg",
+              "width": 1754
+            },
+            {
+              "height": 392,
+              "url": "https://a.mktgcdn.com/p-sandbox/8WhhQsXspxpEM2ebga2hIDrHzcjkFufy4uG2tfVLspY/619x392.jpg",
+              "width": 619
+            },
+            {
+              "height": 380,
+              "url": "https://a.mktgcdn.com/p-sandbox/8WhhQsXspxpEM2ebga2hIDrHzcjkFufy4uG2tfVLspY/600x380.jpg",
+              "width": 600
+            },
+            {
+              "height": 124,
+              "url": "https://a.mktgcdn.com/p-sandbox/8WhhQsXspxpEM2ebga2hIDrHzcjkFufy4uG2tfVLspY/196x124.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8WhhQsXspxpEM2ebga2hIDrHzcjkFufy4uG2tfVLspY/1754x1111.jpg",
+          "width": 1754
+        },
+        "imageCaption": "オリジナル・ザッハートルテ€8.90",
+        "sectionTitle": "ザッハー（Café Sacher）"
+      },
+      {
+        "description": "1847年、菓子職人のアントン・ゲルストナーが創業したカフェ「ゲルストナー」。帝国オペラ劇場やウィーン万博のケータリングを任され、その褒賞として王室御用達菓子店の肩書を得たといいます。店内は宮廷文化を今に伝える柱や天井、シャンデリアなど豪華な装飾に彩られ、王室ゆかりの店であることを実感させてくれる優雅さです。1階はショップになっていて、シシィゆかりのスミレ菓子など、おみやげもたくさん揃っているので要チェックです！DATAGerstner K.u.K Hofzuckerbacker住所：Kärntner Str. 51営業時間：10～23時定休日：なし",
+        "image": {
+          "alternateText": "ケーキはショーケースから選び、注文票をもらい席に着くシステム",
+          "height": 896,
+          "sourceUrl": "https://a.mktgcdn.com/p/mg1wQnfopUaax7eMgJmu0VUXkqEsrS-5v5EO2lU7a-8/1344x896.jpg",
+          "thumbnails": [
+            {
+              "height": 896,
+              "url": "https://a.mktgcdn.com/p-sandbox/p7JWevJj0-91XaoAgZvP7v4TINHOCMhou4iKyVweguM/1344x896.jpg",
+              "width": 1344
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/p7JWevJj0-91XaoAgZvP7v4TINHOCMhou4iKyVweguM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/p7JWevJj0-91XaoAgZvP7v4TINHOCMhou4iKyVweguM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/p7JWevJj0-91XaoAgZvP7v4TINHOCMhou4iKyVweguM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/p7JWevJj0-91XaoAgZvP7v4TINHOCMhou4iKyVweguM/1344x896.jpg",
+          "width": 1344
+        },
+        "imageCaption": "チョコレートを使ったゲルストナー・トルテ€5.50やシシィトルテ€5.50などがおすすめ",
+        "sectionTitle": "ゲルストナー（Gerstner K.u.K Hofzuckerbacker）"
+      },
+      {
+        "description": "かつてはハプスブルク家専門のベーカリーだった「デメル」。そのことから今も店の紋章には王家と同じ双頭の鷲が使われています。フランツ・ヨーゼフ1世と皇妃シシィも通ったことは有名で、なんと店内には皇帝の間も残されています。ケーキ類は約30種もラインナップされていて、なかでもおすすめは「デメルズ・ザッハートルテ」€7.50。軽めのスポンジ生地が濃厚なチョコレートと相性抜群です。1階のショップコーナーでおみやげ探しもお忘れなく！DATADemel住所：Kohlmarkt 14営業時間：10～19時定休日：なし",
+        "image": {
+          "alternateText": "カフェメニューのほか、朝食も用意",
+          "height": 820,
+          "sourceUrl": "https://a.mktgcdn.com/p/XAMUYOu9j8M9-DxaFanwgcfBKB5z7ye4UGkM30wCicI/1229x820.jpg",
+          "thumbnails": [
+            {
+              "height": 820,
+              "url": "https://a.mktgcdn.com/p-sandbox/eRR5ICUg1Ofv2SCopZ2FA5gGNWi1os_Ks_-_zGwgLPQ/1229x820.jpg",
+              "width": 1229
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/eRR5ICUg1Ofv2SCopZ2FA5gGNWi1os_Ks_-_zGwgLPQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/eRR5ICUg1Ofv2SCopZ2FA5gGNWi1os_Ks_-_zGwgLPQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/eRR5ICUg1Ofv2SCopZ2FA5gGNWi1os_Ks_-_zGwgLPQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/eRR5ICUg1Ofv2SCopZ2FA5gGNWi1os_Ks_-_zGwgLPQ/1229x820.jpg",
+          "width": 1229
+        },
+        "imageCaption": "ケーキはショーケースから選び、注文票をもらい席に着くシステム",
+        "sectionTitle": "デメル（Demel）"
+      },
+      {
+        "description": "1840年に創業した老舗「ハイナー」。こちらのカフェも「デメル」と同じように双頭の鷲の紋章を掲げています。伝統が感じられるスイーツは常時30種類以上揃っていて、おすすめは甘みを抑えたスポンジとたっぷりのチョコレートクリームが絶妙な「ハウストルテ」。また、こちらでは軽食にぴったりのオープンサンドも味わえるのもうれしいポイントです。DATACafé Konditorei Heiner住所：Kärntner Str. 21-23営業時間：9～19 時（日曜、祝日は10時～）定休日：なし",
+        "image": {
+          "height": 425,
+          "sourceUrl": "https://a.mktgcdn.com/p/T-M0z2xxv2658GLYcDxSG1HRLd1WFwX3MgmLp7DmK5o/350x425.jpg",
+          "thumbnails": [
+            {
+              "height": 425,
+              "url": "https://a.mktgcdn.com/p-sandbox/O_0kchbSGovidVPFR_UiGch8_RwjS7-hl6Hk5E5ahDY/350x425.jpg",
+              "width": 350
+            },
+            {
+              "height": 238,
+              "url": "https://a.mktgcdn.com/p-sandbox/O_0kchbSGovidVPFR_UiGch8_RwjS7-hl6Hk5E5ahDY/196x238.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/O_0kchbSGovidVPFR_UiGch8_RwjS7-hl6Hk5E5ahDY/350x425.jpg",
+          "width": 350
+        },
+        "imageCaption": "ハウストルテ€4.30",
+        "sectionTitle": "ハイナー（Café Konditorei Heiner）"
+      },
+      {
+        "description": "ウィーン南部の温泉地、オーバラーを拠点に、市内に11店舗を展開する「オーバラー・シュタットハウス」。甘さ控えめのケーキが評判で、バリエーションの豊富さも魅力です。おすすめは風味とコクのあるチョコレートケーキの「オーバラー・クアバート・トルテ」€4.80。軽めの口当たりで食べやすく、トップの美しい模様は写真映えしそう！ポットで提供される紅茶€5.90と一緒にお試しください。DATAOberlaa Stadthaus住所：NeuerMarkt 16営業時間：8～20時定休日：なし※2023年3月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。",
+        "image": {
+          "height": 4032,
+          "sourceUrl": "https://a.mktgcdn.com/p/R8tq_iY0NBlqAxsWd_M2e5qz8oieVydwS7_jBLCWN-A/3024x4032.jpg",
+          "thumbnails": [
+            {
+              "height": 4032,
+              "url": "https://a.mktgcdn.com/p-sandbox/oltm_jvh7b0u_M1QBoEVEoJtCorixeV6eSHRL0NAsss/3024x4032.jpg",
+              "width": 3024
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/oltm_jvh7b0u_M1QBoEVEoJtCorixeV6eSHRL0NAsss/1425x1900.jpg",
+              "width": 1425
+            },
+            {
+              "height": 825,
+              "url": "https://a.mktgcdn.com/p-sandbox/oltm_jvh7b0u_M1QBoEVEoJtCorixeV6eSHRL0NAsss/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/oltm_jvh7b0u_M1QBoEVEoJtCorixeV6eSHRL0NAsss/338x450.jpg",
+              "width": 338
+            },
+            {
+              "height": 261,
+              "url": "https://a.mktgcdn.com/p-sandbox/oltm_jvh7b0u_M1QBoEVEoJtCorixeV6eSHRL0NAsss/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oltm_jvh7b0u_M1QBoEVEoJtCorixeV6eSHRL0NAsss/3024x4032.jpg",
+          "width": 3024
+        },
+        "imageCaption": "カフェメニューのほか、朝食も用意",
+        "sectionTitle": "オーバラー・シュタットハウス（Oberlaa Stadthaus）"
+      }
+    ],
+    "c_ap_DatePosted": "2024-02-02",
+    "c_ap_HeroImage": {
+      "alternateText": "スイーツも絶品♪ 王室も愛した名門カフェ5選【オーストリア ウィーン】",
+      "height": 896,
+      "sourceUrl": "https://a.mktgcdn.com/p/EamG8ifIi6xqBxKpxtZRZ75YLD4SziIFJKKD_zGfsZc/1344x896.jpg",
+      "thumbnails": [
+        {
+          "height": 896,
+          "url": "https://a.mktgcdn.com/p-sandbox/qn034Kxmy2kiTdcRx2MJ2xAiCJKSyOZTY2plFRxy_ig/1344x896.jpg",
+          "width": 1344
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/qn034Kxmy2kiTdcRx2MJ2xAiCJKSyOZTY2plFRxy_ig/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/qn034Kxmy2kiTdcRx2MJ2xAiCJKSyOZTY2plFRxy_ig/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/qn034Kxmy2kiTdcRx2MJ2xAiCJKSyOZTY2plFRxy_ig/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/qn034Kxmy2kiTdcRx2MJ2xAiCJKSyOZTY2plFRxy_ig/1344x896.jpg",
+      "width": 1344
+    },
+    "c_ap_HeroImageCaption": "気品が漂うザッハーの店内にはフランツ・ヨーゼフ1世の肖像画も",
+    "c_ap_LinkArticleSectionTitle": "オーストリアのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "中欧旅行・ツアー",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/central-europe/"
+      },
+      {
+        "linkText": "ウィーンのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dVIE"
+      },
+      {
+        "linkText": "オーストリアのホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/11/?freeword\u003d%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d11"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea3": [
+      "オーストリア・チェコ・ハンガリー"
+    ],
+    "c_ap_ShortDescription": "ハプスブルク家の繁栄とともに菓子店やカフェが誕生したウィーンには、今も王室の歴史と優雅さが感じられる老舗カフェが残っています。そこで今回はウィーンを代表するスイーツのザッハートルテをはじめ、魅力あふれる伝統の味が楽しめる名門カフェのご紹介です。（写真：ザッハー）",
+    "c_ap_Tags": [
+      "ウィーン",
+      "スイーツ",
+      "王室",
+      "カフェ"
+    ],
+    "c_ap_Title": "スイーツも絶品♪ 王室も愛した名門カフェ5選【オーストリア ウィーン】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "ハプスブルク家の繁栄とともに菓子店やカフェが誕生したウィーンには、今も王室の歴史と優雅さが感じられる老舗カフェが残っています。そこで今回はウィーンを代表するスイーツのザッハートルテをはじめ、魅力あふれる伝統の味が楽しめる名門カフェのご紹介です。（写真：ザッハー）",
+    "c_metaTitle": "スイーツも絶品♪ 王室も愛した名門カフェ5選【オーストリア ウィーン】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000103",
+    "name": "スイーツも絶品♪ 王室も愛した名門カフェ5選【オーストリア ウィーン】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,48 @@
+{
+  "$id": "asia",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea12": [
+      "kaigai"
+    ],
+    "c_linkedArea23": [
+      "korea",
+      "taiwan",
+      "thailand",
+      "vietnam",
+      "singapore",
+      "hong_kong",
+      "china",
+      "philippines",
+      "malaysia",
+      "india",
+      "cambodia",
+      "sri_lanka",
+      "indonesia",
+      "macau",
+      "southeast_asia"
+    ],
+    "c_metaDescription": "アジアに関する記事をピックアップ！JTBニュースでは、アジアで話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | アジア | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "アジア",
+      "height": 70,
+      "sourceUrl": "https://a.mktgcdn.com/p/FnFmMwne-6qw7NbV2B81ncHbwaHvBwBO46deejlcTtU/70x70.png",
+      "thumbnails": [
+        {
+          "height": 70,
+          "url": "https://a.mktgcdn.com/p-sandbox/PFoH5fcoa7hhgXGfo917dUKiuZhh9ZS438e2pTIudjE/70x70.png",
+          "width": 70
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/PFoH5fcoa7hhgXGfo917dUKiuZhh9ZS438e2pTIudjE/70x70.png",
+      "width": 70
+    },
+    "name": "アジア",
+    "slug": "kaigai/asia"
+  },
+  "entityType": "ce_areaLevel2",
+  "folder": "level2",
+  "labels": []
+}

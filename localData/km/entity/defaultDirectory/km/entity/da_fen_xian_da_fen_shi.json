@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_da_fen_xian_da_fen_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247434"
+    ],
+    "dm_directoryChildren": [
+      "8967-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_da_fen_xian"
+    ],
+    "name": "大分市",
+    "slug": "大分県/大分市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

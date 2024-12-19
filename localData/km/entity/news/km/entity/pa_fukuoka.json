@@ -1,0 +1,46 @@
+{
+  "$id": "news_pa_fukuoka",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kokunai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "福岡",
+      "link": "https://www.jtb.co.jp/news/list/kokunai/kyushu/fukuoka",
+      "linkType": "OTHER"
+    },
+    "c_news_PopularAreasImage": {
+      "height": 505,
+      "sourceUrl": "https://a.mktgcdn.com/p/k8J-Z7HYlEjeQkrQ2B7VNnU5-C2zdUXLK2B3Zpf-3-A/1200x505.jpg",
+      "thumbnails": [
+        {
+          "height": 505,
+          "url": "https://a.mktgcdn.com/p-sandbox/k8J-Z7HYlEjeQkrQ2B7VNnU5-C2zdUXLK2B3Zpf-3-A/1200x505.jpg",
+          "width": 1200
+        },
+        {
+          "height": 260,
+          "url": "https://a.mktgcdn.com/p-sandbox/k8J-Z7HYlEjeQkrQ2B7VNnU5-C2zdUXLK2B3Zpf-3-A/619x260.jpg",
+          "width": 619
+        },
+        {
+          "height": 253,
+          "url": "https://a.mktgcdn.com/p-sandbox/k8J-Z7HYlEjeQkrQ2B7VNnU5-C2zdUXLK2B3Zpf-3-A/600x253.jpg",
+          "width": 600
+        },
+        {
+          "height": 82,
+          "url": "https://a.mktgcdn.com/p-sandbox/k8J-Z7HYlEjeQkrQ2B7VNnU5-C2zdUXLK2B3Zpf-3-A/196x82.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/k8J-Z7HYlEjeQkrQ2B7VNnU5-C2zdUXLK2B3Zpf-3-A/1200x505.jpg",
+      "width": 1200
+    },
+    "name": "福岡"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

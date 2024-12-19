@@ -1,0 +1,14 @@
+{
+  "$id": "w00132",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_answer_HTML": "※オンライン予約をされたお客様へのご案内です。\u003cbr\u003e\u003cbr\u003e予約確認・詳細画面にて、列車名に「★」マークがついている場合は、事前受付の際にご希望いただいた列車の時刻がダイヤ改正等の理由により変更になっております。\u003cbr\u003e(例:★のぞみ○○号)\u003cbr\u003e\u003ca href\u003d\"https://www.jtb.co.jp/information/reservation/\" target\u003d\"_blank\"\u003e予約詳細・確認画面\u003c/a\u003e にて列車の再選択をお願いします。\u003cbr\u003e※会員ログインをせずに「列車変更」「支払い情報の再入力」操作を行うとエラーとなる場合があります。会員ログインをして予約されたお客様は「MyJTBで確認（会員ページ）」よりご確認ください。\u003cbr\u003e\u003cbr\u003e詳しくは、下記よりご確認ください。\u003cbr\u003e【国内ツアー】ご希望列車の運行確認について\u003cbr\u003ehttps://customerhelp.jtb.co.jp/s/article/f6632\u003cbr\u003e\u003cbr\u003e※列車変更時はお支払い情報の再入力が必要です。往復の列車手配が完了次第、予約時に入力したお支払い情報ではなく列車変更時に再入力したお支払い情報で購入手続きを行います（二重決済にはなりません）。",
+    "landingPageUrl": "https://customerhelp.jtb.co.jp/s/article/w00132",
+    "name": "【国内ツアー（新幹線・JR＋ホテル・旅館）】「★」マークのある列車について",
+    "question": "【国内ツアー（新幹線・JR＋ホテル・旅館）】「★」マークのある列車について"
+  },
+  "entityType": "faq",
+  "labels": []
+}

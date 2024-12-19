@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_dong_jing_du_wu_zang_ye_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247894"
+    ],
+    "dm_directoryChildren": [
+      "3334-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_dong_jing_du"
+    ],
+    "name": "武蔵野市",
+    "slug": "東京都/武蔵野市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

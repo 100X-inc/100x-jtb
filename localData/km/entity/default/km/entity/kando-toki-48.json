@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-48",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/48_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d42.915922%2C141.155009",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "建物・景観"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "豊平峡は札幌市南部・定山渓温泉の近くにある景勝地で、札幌有数の絶景ポイントです。豊平川の治水である豊平峡ダムを中心に満々と水を湛えた水面と岩肌を飾る緑が織りなす景観は、雄大な自然の魅力を間近に見せてくれます。特に紅葉の季節は美しく、林野庁の「水源の森100選」や「ダム湖100選」にも選定されています。見上げるほどの切れ立った岸壁の岩肌を赤や黄色の紅葉が華やかに彩るさまは美しく、白い岩と紅葉の鮮やかなコントラストは訪れた人々の目を楽しませてくれます。昭和51年（1976年）から電気自動車を導入し、ダム入口からダムまでの約2kmの距離は、環境保護のために一般車両・バイク・自転車の乗り入れが通年禁止で、徒歩か電気自動車を利用します。10月末日まではダムの観光放流も行われており、壮大な紅葉風景を見ることができます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/48.asp",
+    "name": "豊平峡ダムの紅葉"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

@@ -1,0 +1,84 @@
+{
+  "$id": "cp_18136205",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "福岡県",
+    "c_cp_CTA1": {
+      "label": "大曲の来店予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVeixc",
+      "linkType": "OTHER"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVqkxq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "旅行は出発前からどこに行こうか何を食べようかと計画するのが好きです。\n素敵な思い出となるようお手伝いいたしますのでお気軽にご相談下さいませ。",
+    "c_cp_DisplayName": "大曲",
+    "c_cp_FieldOfExpertise": [
+      "テーマパーク"
+    ],
+    "c_cp_HiraganaName": "おおまがり",
+    "c_cp_JobTitle": "JTB久留米ゆめタウン店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/MZJOl52fm-XRdRFsw7k19aku0ujufUiwGc94iLABV-c/1280x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/MZJOl52fm-XRdRFsw7k19aku0ujufUiwGc94iLABV-c/1280x960.jpg",
+          "width": 1280
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/MZJOl52fm-XRdRFsw7k19aku0ujufUiwGc94iLABV-c/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/MZJOl52fm-XRdRFsw7k19aku0ujufUiwGc94iLABV-c/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/MZJOl52fm-XRdRFsw7k19aku0ujufUiwGc94iLABV-c/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/MZJOl52fm-XRdRFsw7k19aku0ujufUiwGc94iLABV-c/1280x960.jpg",
+      "width": 1280
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "台湾"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "京都府"
+    ],
+    "c_cp_Tags": [
+      "TDR",
+      "USJ"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 大曲",
+    "c_metaTitle": "JTBトラベルコンサルタント | 大曲",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_18136205",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10409_久留米ゆめタウン店",
+    "name": "おおまがり_18136205",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

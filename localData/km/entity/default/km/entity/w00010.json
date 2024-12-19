@@ -1,0 +1,14 @@
+{
+  "$id": "w00010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_answer_HTML": "\u003cdiv\u003eオンライン予約をされたお客様は、お問い合わせ前に以下をご確認ください。\u003cbr\u003e\u003cbr\u003eJR（契）乗車票を紛失した場合\u003cbr\u003ehttps://customerhelp.jtb.co.jp/s/article/f6749\u003cbr\u003e\u003cbr\u003eきっぷのお受け取りについて\u003cbr\u003ehttps://customerhelp.jtb.co.jp/s/article/f6628\u003cbr\u003e\u003cbr\u003e列車に乗り遅れた場合\u003cbr\u003ehttps://customerhelp.jtb.co.jp/s/article/f6752\u003cbr\u003e\u003cbr\u003e飛行機に乗り遅れた場合\u003cbr\u003ehttps://customerhelp.jtb.co.jp/s/article/f6753\u003cbr\u003e\u003cbr\u003e悪天候時の対応について（オンライン予約）\u003cbr\u003ehttps://customerhelp.jtb.co.jp/s/article/f4851\u003cbr\u003e\u003cbr\u003e宿泊施設でのチェックインについて\u003cbr\u003ehttps://customerhelp.jtb.co.jp/s/article/f4771\u003c/div\u003e",
+    "landingPageUrl": "https://customerhelp.jtb.co.jp/s/article/w00010",
+    "name": "【国内ツアー（飛行機/JR＋ホテル・旅館）】出発当日・旅行中のよくあるお問い合わせ",
+    "question": "【国内ツアー（飛行機/JR＋ホテル・旅館）】出発当日・旅行中のよくあるお問い合わせ"
+  },
+  "entityType": "faq",
+  "labels": []
+}

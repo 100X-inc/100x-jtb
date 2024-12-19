@@ -1,0 +1,96 @@
+{
+  "$id": "cp_14082506",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfr_q",
+      "linkType": "URL"
+    },
+    "c_cp_Certification": [
+      "トラベルコーディネーターA級",
+      "総合旅行業取扱管理者",
+      "ウエディングコンサルタント"
+    ],
+    "c_cp_Description": "いつも当店をご利用いただき誠にありがとうございます。\n当店は銀座線・半蔵門線「三越前駅」コレド室町1のB1にございます。雨の日でもぬれずにお越しいただけます。日本橋室町でのお買い物やお食事もかねてぜひご来店をお待ちしております。\n【ハワイスペシャリスト検定　ハープウ（上級）合格】\n【オージースペシャリスト取得】",
+    "c_cp_DisplayName": "入江",
+    "c_cp_EnrollmentArea": "東京",
+    "c_cp_HiraganaName": "いりえ",
+    "c_cp_JobTitle": "JTB日本橋コレド室町店　店長",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 392,
+      "sourceUrl": "https://a.mktgcdn.com/p/SOexYhl_KUGf2DFBMsExc2IHnYClCzUI-_S7Cld6Sms/392x392.jpg",
+      "thumbnails": [
+        {
+          "height": 392,
+          "url": "https://a.mktgcdn.com/p-sandbox/SOexYhl_KUGf2DFBMsExc2IHnYClCzUI-_S7Cld6Sms/392x392.jpg",
+          "width": 392
+        },
+        {
+          "height": 196,
+          "url": "https://a.mktgcdn.com/p-sandbox/SOexYhl_KUGf2DFBMsExc2IHnYClCzUI-_S7Cld6Sms/196x196.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/SOexYhl_KUGf2DFBMsExc2IHnYClCzUI-_S7Cld6Sms/392x392.jpg",
+      "width": 392
+    },
+    "c_cp_StrongAbroadArea1": [
+      "タヒチ・フィジー"
+    ],
+    "c_cp_StrongAbroadArea2": [
+      "ペルー"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "フランス",
+      "スペイン",
+      "イタリア",
+      "ドイツ",
+      "ポルトガル",
+      "バルト三国"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "香港・マカオ",
+      "台湾"
+    ],
+    "c_cp_StrongAbroadArea5": [
+      "ドバイ",
+      "エジプト"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道",
+      "青森県",
+      "岩手県",
+      "秋田県",
+      "山形県"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "東京都",
+      "神奈川県"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "富山県",
+      "長野県",
+      "岐阜県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "大阪府"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 入江",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 入江",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_14082506",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2024/02/01　JBX対応（リテール外転出）",
+    "name": "いりえ_14082506",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

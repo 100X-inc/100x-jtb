@@ -1,0 +1,40 @@
+{
+  "$id": "kando-toki-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/6_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.456458%2C143.766082",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "冬",
+      "太陽・星・月"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "陸別町は豊かな自然に恵まれた、林業と酪農の街。澄んだ空気と広い夜空を活かし、「日本一寒いまち」「星」をテーマにまちおこしが進められています。環境省からは1987年度（昭和62）、「星空の街」に選定されました。1997年度（平成9）にも「星空にやさしい街10選」に認定されており、町の上空には文字通り、星をちりばめたような満天の星空をあおぐことができます。おしゃれなコテージで星々を眺めて過ごす、ロマンティックな一時も魅力的。マイナス30℃以下にもなる極寒の地で、壮大な星空をご覧ください。\n見所・お勧めポイント\n「銀河の森天文台」は一般公開型天文台としては日本最大級の115cm反射望遠鏡をはじめ、30cmクラスの小型望遠鏡４基、４連太陽望遠鏡等を備える公開天文台です。１階展示室では、銀河の森、オーロラ、宇宙の美しいパネル展示、宇宙探検コンピューターや70インチ大型モニターによる宇宙の体験学習ができます。２階は大型望遠鏡ドーム、小型望遠鏡観測室、大勢の人が星空を楽しめる屋上広場となっています。天文台では大型望遠鏡「りくり」でその時期見頃の惑星や月、更に遥か彼方の星雲や星団、銀河などさまざまな天体を見ることができます。また、昼間でも晴れていれば明るい恒星を見ることができます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/6.asp",
+    "name": "星の降る里陸別町の星空"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

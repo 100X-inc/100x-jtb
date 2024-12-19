@@ -1,0 +1,101 @@
+{
+  "$id": "cp_20061309",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_CTA1": {
+      "label": "櫻井 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVfrx2c",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVesxG",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "ドライブや街歩き、旅先で「こどもの遊べる場所」を見つけて旅を楽しんでいます！　旅先での自転車旅も計画中です♪　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　丁寧な対応を心がけております！小さなお子様づれのご家族旅行・記念日旅行などお気軽にご相談くださいませ！",
+    "c_cp_DisplayName": "櫻井",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "夫婦旅",
+      "クルーズ",
+      "ドライブ",
+      "温泉・立ち寄り湯"
+    ],
+    "c_cp_GeneralInfo": [
+      "資格：資格：総合旅行業務取扱管理者　ハワイスペシャリスト検定上級",
+      "好きな街：淡路島　京都　バルセロナ"
+    ],
+    "c_cp_HiraganaName": "さくらい",
+    "c_cp_JobTitle": "JTBイオンモール名古屋茶屋店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 2007,
+      "sourceUrl": "https://a.mktgcdn.com/p/h-4P8FM0HzvJ2y2ZiQPQH7jqrVtGD0W5ys8zGLHQZMw/1802x2007.jpg",
+      "thumbnails": [
+        {
+          "height": 2007,
+          "url": "https://a.mktgcdn.com/p-sandbox/dn6wLOFf3cYGPqaUKvaLKs75JaF2Q2xuEkP0kGhYta0/1802x2007.jpg",
+          "width": 1802
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/dn6wLOFf3cYGPqaUKvaLKs75JaF2Q2xuEkP0kGhYta0/1706x1900.jpg",
+          "width": 1706
+        },
+        {
+          "height": 689,
+          "url": "https://a.mktgcdn.com/p-sandbox/dn6wLOFf3cYGPqaUKvaLKs75JaF2Q2xuEkP0kGhYta0/619x689.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/dn6wLOFf3cYGPqaUKvaLKs75JaF2Q2xuEkP0kGhYta0/404x450.jpg",
+          "width": 404
+        },
+        {
+          "height": 218,
+          "url": "https://a.mktgcdn.com/p-sandbox/dn6wLOFf3cYGPqaUKvaLKs75JaF2Q2xuEkP0kGhYta0/196x218.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/dn6wLOFf3cYGPqaUKvaLKs75JaF2Q2xuEkP0kGhYta0/1802x2007.jpg",
+      "width": 1802
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "スペイン"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "台湾"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "中部全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "京都府",
+      "兵庫県"
+    ],
+    "c_cp_Tags": [
+      "子どもとお出かけ",
+      "3世代",
+      "淡路島",
+      "京都"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 櫻井",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 櫻井",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_20061309",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2023/04/26 JBX対応（4/1CC中部異動→CC中部の方は生成フラグがいいえのため修正せずフラグ・フォルダのみ変更）",
+    "name": "さくらい_20061309",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

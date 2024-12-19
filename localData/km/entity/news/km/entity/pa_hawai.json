@@ -1,0 +1,37 @@
+{
+  "$id": "news_pa_hawai",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kaigai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "ハワイ",
+      "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii",
+      "linkType": "URL"
+    },
+    "c_news_PopularAreasImage": {
+      "alternateText": "ハワイ",
+      "height": 327,
+      "sourceUrl": "https://a.mktgcdn.com/p/WsUJl7rw9spDvvUSxqtXIYQCHg0JOjiUr8Qs-tXdoaE/500x327.jpg",
+      "thumbnails": [
+        {
+          "height": 327,
+          "url": "https://a.mktgcdn.com/p-sandbox/WsUJl7rw9spDvvUSxqtXIYQCHg0JOjiUr8Qs-tXdoaE/500x327.jpg",
+          "width": 500
+        },
+        {
+          "height": 128,
+          "url": "https://a.mktgcdn.com/p-sandbox/WsUJl7rw9spDvvUSxqtXIYQCHg0JOjiUr8Qs-tXdoaE/196x128.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/WsUJl7rw9spDvvUSxqtXIYQCHg0JOjiUr8Qs-tXdoaE/500x327.jpg",
+      "width": 500
+    },
+    "name": "ハワイ"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

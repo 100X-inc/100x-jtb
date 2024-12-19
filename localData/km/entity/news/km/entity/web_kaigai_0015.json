@@ -1,0 +1,293 @@
+{
+  "$id": "news_web_kaigai_0015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1440,
+      "sourceUrl": "https://a.mktgcdn.com/p/osowm6Hlt-zGiIO8OLTCWPrIpgg6eQ_HQsoDz7bbC7Q/1920x1440.jpg",
+      "thumbnails": [
+        {
+          "height": 1440,
+          "url": "https://a.mktgcdn.com/p-sandbox/osowm6Hlt-zGiIO8OLTCWPrIpgg6eQ_HQsoDz7bbC7Q/1920x1440.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1425,
+          "url": "https://a.mktgcdn.com/p-sandbox/osowm6Hlt-zGiIO8OLTCWPrIpgg6eQ_HQsoDz7bbC7Q/1900x1425.jpg",
+          "width": 1900
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/osowm6Hlt-zGiIO8OLTCWPrIpgg6eQ_HQsoDz7bbC7Q/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/osowm6Hlt-zGiIO8OLTCWPrIpgg6eQ_HQsoDz7bbC7Q/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/osowm6Hlt-zGiIO8OLTCWPrIpgg6eQ_HQsoDz7bbC7Q/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/osowm6Hlt-zGiIO8OLTCWPrIpgg6eQ_HQsoDz7bbC7Q/1920x1440.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ベルギー旅行・ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/holland-belgium/"
+      },
+      {
+        "linkText": "ベルギーの添乗員同行ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?houmen\u003d01\u0026kuni\u003dBE"
+      },
+      {
+        "linkText": "ベルギーのホテルを予約する",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/17/?freeword\u003d%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d17"
+      },
+      {
+        "linkText": "ヨーロッパ周遊バスツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/landcruise/index.html"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_Tags": [
+      "グルメ",
+      "世界遺産",
+      "ベルギー",
+      "ヨーロッパ",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "ベルギー観光【現地スタッフが選ぶ】おすすめスポット＆旅の過ごし方",
+    "c_linkedArea3News": [
+      "belgium"
+    ],
+    "c_metaDescription": "【JTB】現地スタッフがおすすめする、ベルギー観光！世界遺産などの人気スポットや一度は訪れたい観光名所、さらに現地グルメ情報まで！旅のプロが厳選した、ベルギー観光を満喫するための過ごし方をご紹介いたします。",
+    "c_metaTitle": "ベルギー観光【現地スタッフが選ぶ】おすすめスポット＆旅の過ごし方",
+    "c_news_CTAs": [
+      {
+        "label": "ベルギー旅行・ツアーを探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/holland-belgium/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "ベルギーのホテルを予約する",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/17/?freeword\u003d%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d17",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ベルギーの観光情報をもっと見る",
+          "link": "https://www.jtb.co.jp/kaigai_guide/western_europe/kingdom_of_belgium/index.html",
+          "linkType": "OTHER"
+        },
+        "description": "日本との時差はマイナス8時間、日本が正午のときにベルギーは午前4時。ただし、サマータイム期間（3月最終日曜日～10月最終日曜日）はマイナス7時間です。春は遅めで、4、5月でも肌寒い日が多いです。6～8月の夏の時期も、気温はあまり上がらず快適な日が多いです。秋はアルデンヌ地方の紅葉が美しく、冬は曇天と雨天の日が比較的多く、雪は例年数回ほど降ります。10～4月くらいまではコートなどが必要です。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/zBTiQgAqG8X2SWfeHrbmX14veNdd7sBwB02lgbaTs6M/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/zBTiQgAqG8X2SWfeHrbmX14veNdd7sBwB02lgbaTs6M/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/zBTiQgAqG8X2SWfeHrbmX14veNdd7sBwB02lgbaTs6M/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/zBTiQgAqG8X2SWfeHrbmX14veNdd7sBwB02lgbaTs6M/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/zBTiQgAqG8X2SWfeHrbmX14veNdd7sBwB02lgbaTs6M/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zBTiQgAqG8X2SWfeHrbmX14veNdd7sBwB02lgbaTs6M/1536x1024.jpg",
+          "width": 1536
+        },
+        "imageCaption": "ラトリエ・ド・ラ・トリュフ・ノワール　料理例",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．ベルギーの基本情報"
+      },
+      {
+        "cTA1": {
+          "label": "オランダのおすすめ観光スポットをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/europe/netherlands/news_web_kaigai_0019",
+          "linkType": "OTHER"
+        },
+        "description": "ブリュッセルの街の中心地がこのグランプラスです。中世の建物で囲まれた広場は、フランスの小説家ヴィクトル・ユーゴーが「世界一美しい広場」と称し、詩人ジャン・コクトーが「絢爛たる劇場」と讃えたほど美しく華やかで、様々な催しも開かれています。毎年7月の第1火曜日・木曜日に開催されるのは、ベルギーの代表的なお祭りで、中世を再現したパレード「オメガング」。12月になるとクリスマスの音楽とイルミネーションで、広場はロマンチックな雰囲気になります。そして2年に1度の祭典「フラワーカーペット」。テーマに合わせて敷き詰められたベゴニアの花の絨毯は壮観です。",
+        "image": {
+          "height": 709,
+          "sourceUrl": "https://a.mktgcdn.com/p/x-kcbENfMLTIbUII1Dwh2Gl9TjvUbJ1mjIKVAKO9GQk/1094x709.jpg",
+          "thumbnails": [
+            {
+              "height": 709,
+              "url": "https://a.mktgcdn.com/p-sandbox/x-kcbENfMLTIbUII1Dwh2Gl9TjvUbJ1mjIKVAKO9GQk/1094x709.jpg",
+              "width": 1094
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/x-kcbENfMLTIbUII1Dwh2Gl9TjvUbJ1mjIKVAKO9GQk/619x401.jpg",
+              "width": 619
+            },
+            {
+              "height": 389,
+              "url": "https://a.mktgcdn.com/p-sandbox/x-kcbENfMLTIbUII1Dwh2Gl9TjvUbJ1mjIKVAKO9GQk/600x389.jpg",
+              "width": 600
+            },
+            {
+              "height": 127,
+              "url": "https://a.mktgcdn.com/p-sandbox/x-kcbENfMLTIbUII1Dwh2Gl9TjvUbJ1mjIKVAKO9GQk/196x127.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/x-kcbENfMLTIbUII1Dwh2Gl9TjvUbJ1mjIKVAKO9GQk/1094x709.jpg",
+          "width": 1094
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "2．ベルギーの世界遺産・観光名所"
+      },
+      {
+        "description": "見て、聞いて楽しむことのできる、体験型の博物館、楽器博物館です。ブリュッセルの中心地、グランプラスから徒歩7分ほどの王宮広場に位置しています。その美しい外観はアールヌーボーの建築としても有名で、旧百貨店オールドイングランドの建物を転用したものです。館内には、古代から現代までの、ありとあらゆる楽器、小さな笛から大きなピアノまで、また世界中の珍しい民族楽器が陳列されています。それらの楽器がどのような音を奏でるのだろうか気になる人も多いと思われますが、入り口で渡されるヘッドフォンを付けて楽器の前に立つことで、その楽器による演奏を聞くことができます。最上階にはレストランがあり、ここからブリュッセルの街並みを一望できます。",
+        "image": {
+          "height": 432,
+          "sourceUrl": "https://a.mktgcdn.com/p/ujBpm3mMg5_yUzGmseR9N-B3PLdniJWh1NiyiXI4iYA/900x432.jpg",
+          "thumbnails": [
+            {
+              "height": 432,
+              "url": "https://a.mktgcdn.com/p-sandbox/ujBpm3mMg5_yUzGmseR9N-B3PLdniJWh1NiyiXI4iYA/900x432.jpg",
+              "width": 900
+            },
+            {
+              "height": 297,
+              "url": "https://a.mktgcdn.com/p-sandbox/ujBpm3mMg5_yUzGmseR9N-B3PLdniJWh1NiyiXI4iYA/619x297.jpg",
+              "width": 619
+            },
+            {
+              "height": 288,
+              "url": "https://a.mktgcdn.com/p-sandbox/ujBpm3mMg5_yUzGmseR9N-B3PLdniJWh1NiyiXI4iYA/600x288.jpg",
+              "width": 600
+            },
+            {
+              "height": 94,
+              "url": "https://a.mktgcdn.com/p-sandbox/ujBpm3mMg5_yUzGmseR9N-B3PLdniJWh1NiyiXI4iYA/196x94.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ujBpm3mMg5_yUzGmseR9N-B3PLdniJWh1NiyiXI4iYA/900x432.jpg",
+          "width": 900
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "グランプラス"
+      },
+      {
+        "description": "ベルギー名物といえばチョコレートやビールですが、ベルギーは美食の国としてもよく知られています。一説によると、首都ブリュッセルでは一人あたりのレストランの数が世界一と言われるこもあるほど、充実しています。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/7mEnyljsSR4dr7gUZ_ooQg-T0-8Y1_1GIxdwjgl8ULs/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/7mEnyljsSR4dr7gUZ_ooQg-T0-8Y1_1GIxdwjgl8ULs/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/7mEnyljsSR4dr7gUZ_ooQg-T0-8Y1_1GIxdwjgl8ULs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/7mEnyljsSR4dr7gUZ_ooQg-T0-8Y1_1GIxdwjgl8ULs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/7mEnyljsSR4dr7gUZ_ooQg-T0-8Y1_1GIxdwjgl8ULs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7mEnyljsSR4dr7gUZ_ooQg-T0-8Y1_1GIxdwjgl8ULs/1536x1024.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "楽器博物館"
+      },
+      {
+        "description": "その中でも、多くのレストランが集まって、食い倒れの街、あるいは食べ物横丁とも称されるのが、グランプラス近くの「イロ・サクレ地区」。狭い路地の両側には、ずらりとたくさんのお店が並んでいます。そこで多く目立つのが、魚介類のお店。キャセロールに山盛りの「ムール貝のワイン煮込み」は、ベルギーの代表料理のひとつ。「フリッツ」と呼ばれる、いわゆるフライドポテトが添えられており、「ベルギービール」との相性も抜群です。他にも、「トマト・オー・クレヴェット（北海産の小エビをトマトに詰めたり、添えたサラダ）」、「小エビのコロッケ」なども名物料理として人気です。",
+        "image": {
+          "height": 582,
+          "sourceUrl": "https://a.mktgcdn.com/p/9OZa1_4vX0zzqEPvLiv3k3RzmYoG4iHdh8ihv4G0P_s/836x582.jpg",
+          "thumbnails": [
+            {
+              "height": 582,
+              "url": "https://a.mktgcdn.com/p-sandbox/9OZa1_4vX0zzqEPvLiv3k3RzmYoG4iHdh8ihv4G0P_s/836x582.jpg",
+              "width": 836
+            },
+            {
+              "height": 431,
+              "url": "https://a.mktgcdn.com/p-sandbox/9OZa1_4vX0zzqEPvLiv3k3RzmYoG4iHdh8ihv4G0P_s/619x431.jpg",
+              "width": 619
+            },
+            {
+              "height": 418,
+              "url": "https://a.mktgcdn.com/p-sandbox/9OZa1_4vX0zzqEPvLiv3k3RzmYoG4iHdh8ihv4G0P_s/600x418.jpg",
+              "width": 600
+            },
+            {
+              "height": 136,
+              "url": "https://a.mktgcdn.com/p-sandbox/9OZa1_4vX0zzqEPvLiv3k3RzmYoG4iHdh8ihv4G0P_s/196x136.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9OZa1_4vX0zzqEPvLiv3k3RzmYoG4iHdh8ihv4G0P_s/836x582.jpg",
+          "width": 836
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "3．ベルギーのおすすめグルメ・料理"
+      },
+      {
+        "description": "ベルギー北部のフランダース地方（フランドル地方）では、「カルボナードルラマンド」という、牛肉をビールで煮込んだ名物料理があります。他にもゲント料理の「ワーテルゾーイ」という鶏肉または魚介類のクリームシチューも、ベルギーで古くから愛されている伝統的な家庭料理です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ブリュッセルの「イロ・サクレ地区」のおすすめ料理"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "フランダース地方（フランドル地方）のおすすめ料理"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0019",
+      "news_web_kaigai_0018",
+      "news_web_kaigai_0013"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2020-10-21",
+    "c_news_UpdateDate": "2024-08-27",
+    "c_news_ViewCount": "781",
+    "c_news_ViewCount2of2": "781",
+    "c_news_ViewCountNum": "781",
+    "c_news_ViewCountNumForSorting": "70",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/europe/belgium/news_web_kaigai_0015",
+    "name": "ベルギー観光【現地スタッフが選ぶ】おすすめスポット＆旅の過ごし方",
+    "slug": "kaigai/europe/belgium/news_web_kaigai_0015",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

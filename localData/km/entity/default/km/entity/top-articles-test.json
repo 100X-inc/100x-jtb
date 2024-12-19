@@ -1,0 +1,608 @@
+{
+  "$id": "top-articles-test",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Hero-imageCaption {\ntext-shadow: 0 0 10px #010101;\n}\n\n/* バックグラウンドカラーを濃いめに */\n.Consultants-wrapper {\n    background-color: #f5f6f7;\n}\n.Locator-wrapper {\n    background-color: #f5f6f7;\n}\n.Teaser--article.Teaser--articleTop {\n    background-color: #f5f6f7;\n}\n.InfoItem {\n    background-color: #f5f6f7;\n}\n\n/* サブタイトルのラップ */\n.Consultants-subtitle {\nwhite-space: pre-wrap;\n}\n.Locator-subtitle {\nwhite-space: pre-wrap;\n}\n.Info-subtitle {\nwhite-space: pre-wrap;\n}\n\n\n/* Information セクションの画像をオリジナルのままの比率で表示 */\n.InfoItem-image {\n    height: unset;\n}\n\n/* アコーディオンタイトルのセンタリング */\n.FAQ-questionText {\n margin: auto;\nfont-size: 1.1rem;\n}\n\n/* FAQ のリンクの色 */\n.Consultants .FAQ--ace .FAQ-answerText a {\ncolor: #3498db;\n\n}\n\n/* スムーススクロール */\nhtml { \nscroll-behavior: smooth;\n}\n\n/* locator を hidden */\n#locator {\ndisplay: none;\n}",
+    "c_cSSMobile": "/* 現在地が折り返さないように */\na.Locator-button.Locator-geolocate {\n  width: 6rem;\n}\n\n\n/* locator を hidden */\n#locator {\ndisplay: none;\n}",
+    "c_metaDescription": "JTBスタッフが自らの体験にもとづくおすすめの旅やおでかけ先をご紹介。全国の旅のプロたちが日々記事を投稿します。ご旅行の参考にぜひ！ 投稿者のトラベルコンサルタントにオンラインでの旅行相談をすることもできます。",
+    "c_metaTitle": "JTB | スタッフ | おすすめ | 旅 | おでかけ | 記事 | ブログ | ジェイティービー |",
+    "c_news_NewsList": [
+      "news_2991542033062313085",
+      "news_4373647437752168064",
+      "news_3147297021910893309"
+    ],
+    "c_topBreadcrumb": {
+      "label": "投稿記事TOP"
+    },
+    "c_top_AnchorLinks": [
+      {
+        "link": "#consultants",
+        "linkType": "OTHER"
+      },
+      {
+        "link": "#locator",
+        "linkType": "OTHER"
+      },
+      {
+        "link": "#info",
+        "linkType": "OTHER"
+      },
+      {
+        "link": "#info",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_top_Articles": [
+      "2991542033062313085",
+      "4373647437752168064",
+      "3147297021910893309"
+    ],
+    "c_top_ArticlesSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e",
+    "c_top_ArticlesSectionSubTitle": "毎週はじめに新着動画を順次公開中！",
+    "c_top_ArticlesSectionTitle": "新着動画",
+    "c_top_ConsultantsSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e\n\u003cscript\u003e\nwindow.addEventListener(\u0027load\u0027, function() {\n  atags \u003d document.querySelectorAll(\u0027.FAQ-answerText a[href^\u003d\"https:\"]\u0027);\n  atags.forEach(function(atag){atag.setAttribute(\u0027target\u0027, \u0027_blank\u0027);});\n});\n\u003c/script\u003e",
+    "c_top_HeroImage": {
+      "height": 522,
+      "sourceUrl": "https://a.mktgcdn.com/p/fLxckGXS7ihRFvZYz-h5mEa98wrjXdQNQ3mo4yv8Bik/1721x522.jpg",
+      "thumbnails": [
+        {
+          "height": 522,
+          "url": "https://a.mktgcdn.com/p-sandbox/fLxckGXS7ihRFvZYz-h5mEa98wrjXdQNQ3mo4yv8Bik/1721x522.jpg",
+          "width": 1721
+        },
+        {
+          "height": 188,
+          "url": "https://a.mktgcdn.com/p-sandbox/fLxckGXS7ihRFvZYz-h5mEa98wrjXdQNQ3mo4yv8Bik/619x188.jpg",
+          "width": 619
+        },
+        {
+          "height": 182,
+          "url": "https://a.mktgcdn.com/p-sandbox/fLxckGXS7ihRFvZYz-h5mEa98wrjXdQNQ3mo4yv8Bik/600x182.jpg",
+          "width": 600
+        },
+        {
+          "height": 59,
+          "url": "https://a.mktgcdn.com/p-sandbox/fLxckGXS7ihRFvZYz-h5mEa98wrjXdQNQ3mo4yv8Bik/196x59.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/fLxckGXS7ihRFvZYz-h5mEa98wrjXdQNQ3mo4yv8Bik/1721x522.jpg",
+      "width": 1721
+    },
+    "c_top_HeroImageMobile": {
+      "height": 741,
+      "sourceUrl": "https://a.mktgcdn.com/p/vnSdQI2NicP75jvA3R8T_Ateij7Mwi4uJEHYhJy8gZM/1269x741.jpg",
+      "thumbnails": [
+        {
+          "height": 741,
+          "url": "https://a.mktgcdn.com/p-sandbox/Z1pd91V4l-ju5LVGh6Y5Q9xKtV6bvFgw2NydIW2PD9U/1269x741.jpg",
+          "width": 1269
+        },
+        {
+          "height": 361,
+          "url": "https://a.mktgcdn.com/p-sandbox/Z1pd91V4l-ju5LVGh6Y5Q9xKtV6bvFgw2NydIW2PD9U/619x361.jpg",
+          "width": 619
+        },
+        {
+          "height": 350,
+          "url": "https://a.mktgcdn.com/p-sandbox/Z1pd91V4l-ju5LVGh6Y5Q9xKtV6bvFgw2NydIW2PD9U/600x350.jpg",
+          "width": 600
+        },
+        {
+          "height": 114,
+          "url": "https://a.mktgcdn.com/p-sandbox/Z1pd91V4l-ju5LVGh6Y5Q9xKtV6bvFgw2NydIW2PD9U/196x114.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Z1pd91V4l-ju5LVGh6Y5Q9xKtV6bvFgw2NydIW2PD9U/1269x741.jpg",
+      "width": 1269
+    },
+    "c_top_Info": [
+      {
+        "cTA1": {
+          "label": "▶動画",
+          "link": "https://www.youtube.com/watch?v\u003dvfnoIJ0XiXo\u0026t\u003d5s",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://a.mktgcdn.com/p/854r06Kxcbf7MKf5oYEM6bYlEZr-w7GSirbRJFlRUxk/1920x1080.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "https://a.mktgcdn.com/p-sandbox/854r06Kxcbf7MKf5oYEM6bYlEZr-w7GSirbRJFlRUxk/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p-sandbox/854r06Kxcbf7MKf5oYEM6bYlEZr-w7GSirbRJFlRUxk/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/854r06Kxcbf7MKf5oYEM6bYlEZr-w7GSirbRJFlRUxk/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/854r06Kxcbf7MKf5oYEM6bYlEZr-w7GSirbRJFlRUxk/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/854r06Kxcbf7MKf5oYEM6bYlEZr-w7GSirbRJFlRUxk/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/854r06Kxcbf7MKf5oYEM6bYlEZr-w7GSirbRJFlRUxk/1920x1080.jpg",
+          "width": 1920
+        },
+        "title": "【旅×アート】箱根で出合う、多彩な美術品と緑あふれる自然。わたしと旅する、箱根 美術館巡り"
+      },
+      {
+        "cTA1": {
+          "label": "▶動画",
+          "link": "https://www.youtube.com/watch?v\u003dlZOV0pDi2-w",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://a.mktgcdn.com/p/iRoZwbCh4_L4kpVbvlT6um6D0FPMkObJ3V6v75E3ebw/1920x1080.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "https://a.mktgcdn.com/p-sandbox/iRoZwbCh4_L4kpVbvlT6um6D0FPMkObJ3V6v75E3ebw/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p-sandbox/iRoZwbCh4_L4kpVbvlT6um6D0FPMkObJ3V6v75E3ebw/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/iRoZwbCh4_L4kpVbvlT6um6D0FPMkObJ3V6v75E3ebw/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/iRoZwbCh4_L4kpVbvlT6um6D0FPMkObJ3V6v75E3ebw/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/iRoZwbCh4_L4kpVbvlT6um6D0FPMkObJ3V6v75E3ebw/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iRoZwbCh4_L4kpVbvlT6um6D0FPMkObJ3V6v75E3ebw/1920x1080.jpg",
+          "width": 1920
+        },
+        "title": "【旅×歴史・伝統】食、伝統、歴史を感じるわたしの旅。 情緒豊かな古都金沢"
+      },
+      {
+        "cTA1": {
+          "label": "▶動画",
+          "link": "https://www.youtube.com/watch?v\u003dPn-gkVie1XE\u0026t\u003d18s",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://a.mktgcdn.com/p/_3AY9OaqUlTwEnNqXd92jeFC-Okr5_ziZ5UqnkdOwkg/1920x1080.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "https://a.mktgcdn.com/p-sandbox/_3AY9OaqUlTwEnNqXd92jeFC-Okr5_ziZ5UqnkdOwkg/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p-sandbox/_3AY9OaqUlTwEnNqXd92jeFC-Okr5_ziZ5UqnkdOwkg/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/_3AY9OaqUlTwEnNqXd92jeFC-Okr5_ziZ5UqnkdOwkg/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/_3AY9OaqUlTwEnNqXd92jeFC-Okr5_ziZ5UqnkdOwkg/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/_3AY9OaqUlTwEnNqXd92jeFC-Okr5_ziZ5UqnkdOwkg/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_3AY9OaqUlTwEnNqXd92jeFC-Okr5_ziZ5UqnkdOwkg/1920x1080.jpg",
+          "width": 1920
+        },
+        "title": "【旅×アート】本と共に旅する、文豪ゆかりの地"
+      },
+      {
+        "cTA1": {
+          "label": "▶動画",
+          "link": "https://www.youtube.com/watch?v\u003dfH4l_u6kUpQ",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://a.mktgcdn.com/p/P44btiaL1NDw3fRAQ4NUAIIgCLjrQJ7J8EPsiZPn_e8/1920x1080.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "https://a.mktgcdn.com/p-sandbox/P44btiaL1NDw3fRAQ4NUAIIgCLjrQJ7J8EPsiZPn_e8/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p-sandbox/P44btiaL1NDw3fRAQ4NUAIIgCLjrQJ7J8EPsiZPn_e8/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/P44btiaL1NDw3fRAQ4NUAIIgCLjrQJ7J8EPsiZPn_e8/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/P44btiaL1NDw3fRAQ4NUAIIgCLjrQJ7J8EPsiZPn_e8/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/P44btiaL1NDw3fRAQ4NUAIIgCLjrQJ7J8EPsiZPn_e8/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/P44btiaL1NDw3fRAQ4NUAIIgCLjrQJ7J8EPsiZPn_e8/1920x1080.jpg",
+          "width": 1920
+        },
+        "title": "【旅×歴史・伝統】四季折々で感じる京都嵐山の魅力体験。秋冬の楽しみを探しに"
+      },
+      {
+        "cTA1": {
+          "label": "▶動画",
+          "link": "https://www.youtube.com/watch?v\u003dZVSuBqvM-og",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://a.mktgcdn.com/p/bKVC1108N7Ina6X454L5mhWwxHj8CRZDYJWwOCAlqAM/1920x1080.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "https://a.mktgcdn.com/p-sandbox/bKVC1108N7Ina6X454L5mhWwxHj8CRZDYJWwOCAlqAM/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p-sandbox/bKVC1108N7Ina6X454L5mhWwxHj8CRZDYJWwOCAlqAM/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/bKVC1108N7Ina6X454L5mhWwxHj8CRZDYJWwOCAlqAM/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/bKVC1108N7Ina6X454L5mhWwxHj8CRZDYJWwOCAlqAM/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/bKVC1108N7Ina6X454L5mhWwxHj8CRZDYJWwOCAlqAM/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bKVC1108N7Ina6X454L5mhWwxHj8CRZDYJWwOCAlqAM/1920x1080.jpg",
+          "width": 1920
+        },
+        "title": "【旅×歴史・伝統】”大正ロマン” 趣のある銀山温泉。はじめての親子女子旅"
+      }
+    ],
+    "c_top_Info2": [
+      {
+        "cTA1": {
+          "label": "▶動画リスト",
+          "link": "https://www.youtube.com/playlist?list\u003dPLPcrS-7upKFLEaz5zdsWdh3r23IT1IJeB",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://a.mktgcdn.com/p/XN7zGmd3f1gJVLr_yZtF23HRHO_UXzOXVLZ_Qcp_5l8/1920x1080.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "https://a.mktgcdn.com/p-sandbox/XN7zGmd3f1gJVLr_yZtF23HRHO_UXzOXVLZ_Qcp_5l8/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p-sandbox/XN7zGmd3f1gJVLr_yZtF23HRHO_UXzOXVLZ_Qcp_5l8/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/XN7zGmd3f1gJVLr_yZtF23HRHO_UXzOXVLZ_Qcp_5l8/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/XN7zGmd3f1gJVLr_yZtF23HRHO_UXzOXVLZ_Qcp_5l8/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/XN7zGmd3f1gJVLr_yZtF23HRHO_UXzOXVLZ_Qcp_5l8/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/XN7zGmd3f1gJVLr_yZtF23HRHO_UXzOXVLZ_Qcp_5l8/1920x1080.jpg",
+          "width": 1920
+        },
+        "title": "【旅×リフレッシュ】Travel × Reflesh"
+      },
+      {
+        "cTA1": {
+          "label": "▶動画リスト",
+          "link": "https://www.youtube.com/playlist?list\u003dPLPcrS-7upKFLEaz5zdsWdh3r23IT1IJeB",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://a.mktgcdn.com/p/XKiKrq1NRhMPeBN7o9_Tmb9EFQtivrYjOzIikDTpkek/1920x1080.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "https://a.mktgcdn.com/p-sandbox/XKiKrq1NRhMPeBN7o9_Tmb9EFQtivrYjOzIikDTpkek/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p-sandbox/XKiKrq1NRhMPeBN7o9_Tmb9EFQtivrYjOzIikDTpkek/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/XKiKrq1NRhMPeBN7o9_Tmb9EFQtivrYjOzIikDTpkek/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/XKiKrq1NRhMPeBN7o9_Tmb9EFQtivrYjOzIikDTpkek/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/XKiKrq1NRhMPeBN7o9_Tmb9EFQtivrYjOzIikDTpkek/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/XKiKrq1NRhMPeBN7o9_Tmb9EFQtivrYjOzIikDTpkek/1920x1080.jpg",
+          "width": 1920
+        },
+        "title": "【旅×自然】Travel × Nature"
+      },
+      {
+        "cTA1": {
+          "label": "▶動画リスト",
+          "link": "https://www.youtube.com/playlist?list\u003dPLPcrS-7upKFL_6_TKkwmF60DXL9RvaetC",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://a.mktgcdn.com/p/_3AY9OaqUlTwEnNqXd92jeFC-Okr5_ziZ5UqnkdOwkg/1920x1080.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "https://a.mktgcdn.com/p-sandbox/_3AY9OaqUlTwEnNqXd92jeFC-Okr5_ziZ5UqnkdOwkg/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p-sandbox/_3AY9OaqUlTwEnNqXd92jeFC-Okr5_ziZ5UqnkdOwkg/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/_3AY9OaqUlTwEnNqXd92jeFC-Okr5_ziZ5UqnkdOwkg/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/_3AY9OaqUlTwEnNqXd92jeFC-Okr5_ziZ5UqnkdOwkg/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/_3AY9OaqUlTwEnNqXd92jeFC-Okr5_ziZ5UqnkdOwkg/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_3AY9OaqUlTwEnNqXd92jeFC-Okr5_ziZ5UqnkdOwkg/1920x1080.jpg",
+          "width": 1920
+        },
+        "title": "【旅×アート】Travel × Arts"
+      },
+      {
+        "cTA1": {
+          "label": "▶動画リスト",
+          "link": "https://www.youtube.com/playlist?list\u003dPLPcrS-7upKFL_6_TKkwmF60DXL9RvaetC",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://a.mktgcdn.com/p/iRoZwbCh4_L4kpVbvlT6um6D0FPMkObJ3V6v75E3ebw/1920x1080.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "https://a.mktgcdn.com/p-sandbox/iRoZwbCh4_L4kpVbvlT6um6D0FPMkObJ3V6v75E3ebw/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p-sandbox/iRoZwbCh4_L4kpVbvlT6um6D0FPMkObJ3V6v75E3ebw/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/iRoZwbCh4_L4kpVbvlT6um6D0FPMkObJ3V6v75E3ebw/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/iRoZwbCh4_L4kpVbvlT6um6D0FPMkObJ3V6v75E3ebw/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/iRoZwbCh4_L4kpVbvlT6um6D0FPMkObJ3V6v75E3ebw/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iRoZwbCh4_L4kpVbvlT6um6D0FPMkObJ3V6v75E3ebw/1920x1080.jpg",
+          "width": 1920
+        },
+        "title": "【旅×歴史・伝統】Travel × History"
+      },
+      {
+        "cTA1": {
+          "label": "▶動画リスト",
+          "link": "https://www.youtube.com/playlist?list\u003dPLPcrS-7upKFLJ5MJQAqgciDphfb8-ePSo",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://a.mktgcdn.com/p/Ck-sFWNKrbKLsExSriZSElF-NxolvRxKXjDpuDeM18Y/1920x1080.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ck-sFWNKrbKLsExSriZSElF-NxolvRxKXjDpuDeM18Y/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ck-sFWNKrbKLsExSriZSElF-NxolvRxKXjDpuDeM18Y/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ck-sFWNKrbKLsExSriZSElF-NxolvRxKXjDpuDeM18Y/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ck-sFWNKrbKLsExSriZSElF-NxolvRxKXjDpuDeM18Y/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ck-sFWNKrbKLsExSriZSElF-NxolvRxKXjDpuDeM18Y/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ck-sFWNKrbKLsExSriZSElF-NxolvRxKXjDpuDeM18Y/1920x1080.jpg",
+          "width": 1920
+        },
+        "title": "【旅×食】Travel × Foods"
+      }
+    ],
+    "c_top_Info2SectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_Info2SectionTitle": "タビカケル　テーマ一覧",
+    "c_top_InfoSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_InfoSectionTitle": "Pick Up 【旅×アート・歴史・伝統】",
+    "c_top_LocatorSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e",
+    "c_top_OnlineConsultationButton1": {
+      "label": "タビカケル動画一覧はこちら",
+      "link": "https://www.youtube.com/playlist?list\u003dPLPcrS-7upKFIgy73HJRYUmC_bkVmtceYH",
+      "linkType": "URL"
+    },
+    "c_top_OnlineConsultationButton2": {
+      "label": "チャンネル登録お願いします",
+      "link": "https://www.youtube.com/channel/UCjDeNR2xFC4wFh3txHql20Q",
+      "linkType": "URL"
+    },
+    "c_top_OnlineConsultationSectionSubTitle": "\"タビカケル\"とは、旅と旅の近くにあるテーマをかけ合わせ、改めて旅の魅力を発信する動画シリーズです",
+    "c_top_OnlineConsultationSectionTitle": "旅と日常をつなぐ\"タビカケル\"",
+    "c_top_PromotionBanners": [
+      {
+        "clickthroughUrl": "https://www.youtube.com/watch?v\u003dTAqNQein-ik\u0026t\u003d10s",
+        "description": "横浜1泊2日でグルメも遊びも満喫する女子旅",
+        "details": "横浜女子旅",
+        "image": {
+          "alternateText": "横浜女子旅",
+          "height": 861,
+          "sourceUrl": "https://a.mktgcdn.com/p/_fhe2i8rX7hNTrrt4fk3SagCi1BlUQ4UhAUnch3OMg0/1528x861.jpg",
+          "thumbnails": [
+            {
+              "height": 861,
+              "url": "https://a.mktgcdn.com/p-sandbox/_fhe2i8rX7hNTrrt4fk3SagCi1BlUQ4UhAUnch3OMg0/1528x861.jpg",
+              "width": 1528
+            },
+            {
+              "height": 349,
+              "url": "https://a.mktgcdn.com/p-sandbox/_fhe2i8rX7hNTrrt4fk3SagCi1BlUQ4UhAUnch3OMg0/619x349.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/_fhe2i8rX7hNTrrt4fk3SagCi1BlUQ4UhAUnch3OMg0/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/_fhe2i8rX7hNTrrt4fk3SagCi1BlUQ4UhAUnch3OMg0/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_fhe2i8rX7hNTrrt4fk3SagCi1BlUQ4UhAUnch3OMg0/1528x861.jpg",
+          "width": 1528
+        }
+      },
+      {
+        "clickthroughUrl": "https://www.youtube.com/watch?v\u003dU4gbXRH9yV4",
+        "description": "自由って最高！1人気ままに横浜グルメ旅",
+        "details": "横浜一人旅",
+        "image": {
+          "alternateText": "横浜一人旅",
+          "height": 854,
+          "sourceUrl": "https://a.mktgcdn.com/p/zbAvX3P28qsldq7Y87fEvAvx0PgY--mHdKtn_IHR-1I/1531x854.jpg",
+          "thumbnails": [
+            {
+              "height": 854,
+              "url": "https://a.mktgcdn.com/p-sandbox/zbAvX3P28qsldq7Y87fEvAvx0PgY--mHdKtn_IHR-1I/1531x854.jpg",
+              "width": 1531
+            },
+            {
+              "height": 345,
+              "url": "https://a.mktgcdn.com/p-sandbox/zbAvX3P28qsldq7Y87fEvAvx0PgY--mHdKtn_IHR-1I/619x345.jpg",
+              "width": 619
+            },
+            {
+              "height": 335,
+              "url": "https://a.mktgcdn.com/p-sandbox/zbAvX3P28qsldq7Y87fEvAvx0PgY--mHdKtn_IHR-1I/600x335.jpg",
+              "width": 600
+            },
+            {
+              "height": 109,
+              "url": "https://a.mktgcdn.com/p-sandbox/zbAvX3P28qsldq7Y87fEvAvx0PgY--mHdKtn_IHR-1I/196x109.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zbAvX3P28qsldq7Y87fEvAvx0PgY--mHdKtn_IHR-1I/1531x854.jpg",
+          "width": 1531
+        }
+      }
+    ],
+    "c_top_PromotionBannersSectionSubTitle": "今月は横浜の旅をお届けします！\n気鋭の若手動画クリエイターによる渾身の旅MOVIEを！",
+    "c_top_PromotionBannersSectionTitle": "11月の特集「横浜旅」",
+    "name": "TOP ARTICLES TEST (本番はコンサルタントフォルダ）"
+  },
+  "entityType": "ce_tOP",
+  "labels": []
+}

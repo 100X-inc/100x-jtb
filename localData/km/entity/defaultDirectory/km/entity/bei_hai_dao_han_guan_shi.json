@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_bei_hai_dao_han_guan_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044199913"
+    ],
+    "dm_directoryChildren": [
+      "lc-0001"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_bei_hai_dao"
+    ],
+    "name": "函館市",
+    "slug": "北海道/函館市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

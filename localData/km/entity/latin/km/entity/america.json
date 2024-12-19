@@ -1,0 +1,38 @@
+{
+  "$id": "latin_america",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "mexico",
+      "peru",
+      "brazil"
+    ],
+    "c_metaDescription": "中南米に関する記事をピックアップ！JTBニュースでは、中南米で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 中南米 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "中南米",
+      "height": 327,
+      "sourceUrl": "https://a.mktgcdn.com/p/hhxuqD_8QhC0-N1cnEpduzvbagxTxc3tAEpEKJuXJO0/500x327.jpg",
+      "thumbnails": [
+        {
+          "height": 327,
+          "url": "https://a.mktgcdn.com/p-sandbox/hhxuqD_8QhC0-N1cnEpduzvbagxTxc3tAEpEKJuXJO0/500x327.jpg",
+          "width": 500
+        },
+        {
+          "height": 128,
+          "url": "https://a.mktgcdn.com/p-sandbox/hhxuqD_8QhC0-N1cnEpduzvbagxTxc3tAEpEKJuXJO0/196x128.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/hhxuqD_8QhC0-N1cnEpduzvbagxTxc3tAEpEKJuXJO0/500x327.jpg",
+      "width": 500
+    },
+    "name": "中南米",
+    "slug": "latin_america"
+  },
+  "entityType": "ce_areaLevel2",
+  "folder": "level2",
+  "labels": []
+}

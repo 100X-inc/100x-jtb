@@ -1,0 +1,40 @@
+{
+  "$id": "kando-toki-32",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/32_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.077199%2C142.59854",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "太陽・星・月",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "北海道の中央、日高山脈の北側に位置する星野リゾート トマム。ここにある「雲海テラス」では、雲がまるで足元に広がる海のように眼下に広がる絶景の雲海と、日高・十勝の山々のコントラストが楽しめます。遠く空の彼方までを埋め尽くす雲の海に、淡く輝く山々のシルエットが映え、朝日に照らされていく様子は、早朝、しかもある気象条件が重なったときにしか見ることはできません。けれど、この非日常の世界を体験しようと道内外から多くの人が集まってきます。テラスは2021年にリニューアルオープン。空中にせり出す展望デッキからは雲がまるで波のように見え、足元に迫ってくるかのような大迫力で雲海が眺めることができます。雲海の発生確率は、事前に専用ホームページ「雲海テラス」特設ページで確認をしてみてください。\n見所・お勧めポイント\n山道に沿って点在する6つのユニークなデッキからは様々な角度の雲海を楽しむことが出来ます。2021年8月には「雲海テラス」がリニューアル。地上3階建ての建物には空中にせり出す展望デッキや、雲をテーマにしたスイーツやドリンクが楽しめる「雲cafe」が併設されており、今まで以上に圧倒的なスケールの大自然を堪能でき、すがすがしい朝を迎えられます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/32.asp",
+    "name": "トマム　雲海テラス"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

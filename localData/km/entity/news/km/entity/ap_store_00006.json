@@ -1,0 +1,868 @@
+{
+  "$id": "news_ap_store_00006",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB池袋西武店　安川／JTBラウンジプラチナム池袋店　山田 JTB大泉学園ゆめりあフェンテ店　渡辺／JTB光が丘IMA店　吉村"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "＜01_おでむかえドラえもんキャプション＞",
+      "height": 798,
+      "sourceUrl": "http://a.mktgcdn.com/p/n9MzFRlYt-k3MnKjlkTxoO0n3Rm2ST9lvBNY66Q7VJA/1200x798.jpg",
+      "thumbnails": [
+        {
+          "height": 798,
+          "url": "//a.mktgcdn.com/p-sandbox/n9MzFRlYt-k3MnKjlkTxoO0n3Rm2ST9lvBNY66Q7VJA/1200x798.jpg",
+          "width": 1200
+        },
+        {
+          "height": 412,
+          "url": "//a.mktgcdn.com/p-sandbox/n9MzFRlYt-k3MnKjlkTxoO0n3Rm2ST9lvBNY66Q7VJA/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "//a.mktgcdn.com/p-sandbox/n9MzFRlYt-k3MnKjlkTxoO0n3Rm2ST9lvBNY66Q7VJA/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "//a.mktgcdn.com/p-sandbox/n9MzFRlYt-k3MnKjlkTxoO0n3Rm2ST9lvBNY66Q7VJA/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/n9MzFRlYt-k3MnKjlkTxoO0n3Rm2ST9lvBNY66Q7VJA/1200x798.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "大人気ミュージアムを思う存分満喫しましょうⒸFujiko-Pro",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフによる記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "JTB店舗・専門店への相談はこちらから",
+        "uRL": "https://consultants.jtb.co.jp/top#locator"
+      },
+      {
+        "linkText": "日本の旬 東京・横浜 宿泊パック・ツアー・体験予約はこちら",
+        "uRL": "https://www.jtb.co.jp/nihonnoshun/tokyoyokohama/"
+      },
+      {
+        "linkText": "JTB池袋西武店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/j1011-0"
+      },
+      {
+        "linkText": "JTBラウンジプラチナム池袋店（店舗情報）",
+        "uRL": "https://www.jtb.co.jp/stores/jtbloungeplatinum/access_ikebukuro/"
+      },
+      {
+        "linkText": "JTB大泉学園ゆめりあフェンテ店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/t3619-0"
+      },
+      {
+        "linkText": "JTB光が丘IMA店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/t3440-0"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "子どもから大人まで、誰もが楽しめる作品として世代・時代を超えて愛されてきた『ドラえもん』と『サザエさん』。この国民的2大キャラクターに関する展示が見られるミュージアムを巡ってみませんか？　「RAYARD MIYASHITA PARK」や「渋谷スクランブルスクエア」などの人気スポットも組み込んだモデルコースをご紹介します！",
+    "c_ap_Tags": [
+      "カフェ",
+      "モデルコース",
+      "大江戸プラン",
+      "国民的アニメ",
+      "聖地巡り",
+      "東京夜景"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "グループ",
+      "文芸・文学",
+      "美術鑑賞",
+      "街あるき",
+      "グルメ",
+      "ショッピング",
+      "カフェ",
+      "ご当地グルメ",
+      "おみやげ"
+    ],
+    "c_ap_Title": "【ミュージアム巡り】～昭和・平成・令和～時代を超えて愛され続ける国民的2大キャラクター＜ドラえもん・サザエさん＞ミュージアム巡りモデルコース",
+    "c_linkedArea3News": [
+      "tokyo"
+    ],
+    "c_metaDescription": "子どもから大人まで、誰もが楽しめる作品として世代・時代を超えて愛されてきた『ドラえもん』と『サザエさん』。この国民的2大キャラクターに関する展示が見られるミュージアムを巡ってみませんか？　「RAYARD MIYASHITA PARK」や「渋谷スクランブルスクエア」などの人気スポットも組み込んだモデルコースをご紹介します！",
+    "c_metaTitle": "【ミュージアム巡り】～昭和・平成・令和～時代を超えて愛され続ける国民的2大キャラクター＜ドラえもん・サザエさん＞ミュージアム巡りモデルコース | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "JTB大江戸デスクホームページはこちら",
+        "link": "https://consultants.jtb.co.jp/top-tokyo",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "最初の目的地は、川崎市にある「川崎市 藤子・F・不二雄ミュージアム」。新宿駅から小田急線で約20分の登戸駅からは、ミュージアムへの直行バス（有料）が運行されていて便利です。",
+        "image": {
+          "alternateText": "＜02_まんがコーナーキャプション＞",
+          "height": 796,
+          "sourceUrl": "http://a.mktgcdn.com/p/aFRMeBmmJLPvK409P1-fMyzuad4Fw7IuBm5_kBPDRbk/1200x796.jpg",
+          "thumbnails": [
+            {
+              "height": 796,
+              "url": "//a.mktgcdn.com/p-sandbox/aFRMeBmmJLPvK409P1-fMyzuad4Fw7IuBm5_kBPDRbk/1200x796.jpg",
+              "width": 1200
+            },
+            {
+              "height": 411,
+              "url": "//a.mktgcdn.com/p-sandbox/aFRMeBmmJLPvK409P1-fMyzuad4Fw7IuBm5_kBPDRbk/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "//a.mktgcdn.com/p-sandbox/aFRMeBmmJLPvK409P1-fMyzuad4Fw7IuBm5_kBPDRbk/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "//a.mktgcdn.com/p-sandbox/aFRMeBmmJLPvK409P1-fMyzuad4Fw7IuBm5_kBPDRbk/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/aFRMeBmmJLPvK409P1-fMyzuad4Fw7IuBm5_kBPDRbk/1200x796.jpg",
+          "width": 1200
+        },
+        "imageCaption": "藤子作品の世界観にどっぷりと浸れますⒸFujiko-Pro",
+        "sectionTitle": "「川崎市 藤子・F・不二雄ミュージアム」でドラえもんに会う（13：00）"
+      },
+      {
+        "description": "館内では、藤子・F・不二雄氏の描いた原画を中心に、さまざまな資料が公開されています。たくさんの展示物から、藤子作品に込められた「やさしい思い」や「あたたかいまなざし」を感じることができますよ。また、実際の作品が読める「まんがコーナー」も用意されているので、気になったタイトルをここでチェックするのもおすすめです。",
+        "image": {
+          "alternateText": "＜03_藤子ミュージアム外観キャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/npijfwXGYMZk5wxGVP-rqQpWHmMBZYUDR6tZRLlVjy8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/npijfwXGYMZk5wxGVP-rqQpWHmMBZYUDR6tZRLlVjy8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/npijfwXGYMZk5wxGVP-rqQpWHmMBZYUDR6tZRLlVjy8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/npijfwXGYMZk5wxGVP-rqQpWHmMBZYUDR6tZRLlVjy8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/npijfwXGYMZk5wxGVP-rqQpWHmMBZYUDR6tZRLlVjy8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/npijfwXGYMZk5wxGVP-rqQpWHmMBZYUDR6tZRLlVjy8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ミュージアム内に広がる藤子・F・不二雄ワールドを想像してワクワク！",
+        "sectionTitle": "「ミュージアムカフェ」でランチを楽しむ（14：30）"
+      },
+      {
+        "description": "ここでしか観られないオリジナル作品を上映する「Fシアター」や、愛用の机や蔵書を公開・展示している「先生の部屋」、おなじみの土管や“どこでもドア”が設置されている3階の屋上スペース「はらっぱ」など、見どころが盛りだくさん。『ドラえもん』好きにはたまらない、魅力たっぷりのスポットです。また、期間限定の企画展を開催する2階「展示室Ⅱ」も要チェック。2022年10月22日～2023年10月中旬（予定）には、大人向けの作品で多くのファンを魅了した「SF 短編シリーズ」の特集『藤子・F・不二雄のSF短編原画展 ― Sukoshi・Fushigi ワールドへの招待 ―』を楽しむことができます。",
+        "image": {
+          "alternateText": "＜04_展示室Ⅰキャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/9BESwHU4B0L4XtLtA9BhXz6Ti0grBGVtr9Ow8Ca2fAw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/9BESwHU4B0L4XtLtA9BhXz6Ti0grBGVtr9Ow8Ca2fAw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/9BESwHU4B0L4XtLtA9BhXz6Ti0grBGVtr9Ow8Ca2fAw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/9BESwHU4B0L4XtLtA9BhXz6Ti0grBGVtr9Ow8Ca2fAw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/9BESwHU4B0L4XtLtA9BhXz6Ti0grBGVtr9Ow8Ca2fAw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/9BESwHU4B0L4XtLtA9BhXz6Ti0grBGVtr9Ow8Ca2fAw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "『ドラえもん』の歩みを原画とともに紹介する「展示室Ⅰ」",
+        "sectionTitle": "「長谷川町子記念館」でサザエさんと会う（16：00）"
+      },
+      {
+        "description": "1階にある「ミュージアムショップ」や、3階のギフトコーナー「藤子屋」には、数多くのオリジナルグッズが販売されているので、こちらも見逃せません。なかでも、普段使いしやすい剛田雑貨店シリーズの商品や、ひみつ道具“アンキパン”をイメージした「アンキパンラスク」は、お土産にもぴったりです。",
+        "image": {
+          "alternateText": "＜05_Fシアターキャプション＞",
+          "height": 4480,
+          "sourceUrl": "http://a.mktgcdn.com/p/4wAVseXCZ7qMeqYHSm7hcTl4R-m3djbt-xZQTh25u1c/6720x4480.jpg",
+          "thumbnails": [
+            {
+              "height": 4480,
+              "url": "//a.mktgcdn.com/p-sandbox/GAyoz5iWVaZdBVnrTbB9LyzzkbAtKGZDc4_giajhbsc/6720x4480.jpg",
+              "width": 6720
+            },
+            {
+              "height": 1267,
+              "url": "//a.mktgcdn.com/p-sandbox/GAyoz5iWVaZdBVnrTbB9LyzzkbAtKGZDc4_giajhbsc/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/GAyoz5iWVaZdBVnrTbB9LyzzkbAtKGZDc4_giajhbsc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/GAyoz5iWVaZdBVnrTbB9LyzzkbAtKGZDc4_giajhbsc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/GAyoz5iWVaZdBVnrTbB9LyzzkbAtKGZDc4_giajhbsc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/GAyoz5iWVaZdBVnrTbB9LyzzkbAtKGZDc4_giajhbsc/6720x4480.jpg",
+          "width": 6720
+        },
+        "imageCaption": "「Fシアター」には200インチの大スクリーンが設置されています",
+        "sectionTitle": "賑わいの「渋谷横丁」で夕食（18：00）"
+      },
+      {
+        "description": "館内を一通り見学したら、3階にある「ミュージアムカフェ」でランチを。窓の向こうに広がる「はらっぱ」を眺めながら、藤子作品にちなんだオリジナルメニューを味わいましょう。ここでは、おすすめの3品をご紹介！",
+        "image": {
+          "alternateText": "＜06_1Fショップキャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/dwP_5ttJruNjA2xXUviuqzuF5jUsxBdYmKeJo9XaezA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/dwP_5ttJruNjA2xXUviuqzuF5jUsxBdYmKeJo9XaezA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/dwP_5ttJruNjA2xXUviuqzuF5jUsxBdYmKeJo9XaezA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/dwP_5ttJruNjA2xXUviuqzuF5jUsxBdYmKeJo9XaezA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/dwP_5ttJruNjA2xXUviuqzuF5jUsxBdYmKeJo9XaezA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/dwP_5ttJruNjA2xXUviuqzuF5jUsxBdYmKeJo9XaezA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "来館記念のお土産は出口手前にある「ミュージアムショップ」で",
+        "sectionTitle": "「SHIBUYA SKY」でくつろぎの時間を（20：00）"
+      },
+      {
+        "description": "一つ目は「OSAMPO ポコニャンバーガー」。ポコニャンを模したかわいらしいハンバーガーに、アメリカンドッグやフライドポテトが付いた、満足度の高い一品です。",
+        "image": {
+          "alternateText": "＜07_3Fカフェキャプション＞　",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/f19klkSsIuQnLU1eRWQ-0QpH6DU5JEcaBVg1S5py-HA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/f19klkSsIuQnLU1eRWQ-0QpH6DU5JEcaBVg1S5py-HA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/f19klkSsIuQnLU1eRWQ-0QpH6DU5JEcaBVg1S5py-HA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/f19klkSsIuQnLU1eRWQ-0QpH6DU5JEcaBVg1S5py-HA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/f19klkSsIuQnLU1eRWQ-0QpH6DU5JEcaBVg1S5py-HA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/f19klkSsIuQnLU1eRWQ-0QpH6DU5JEcaBVg1S5py-HA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ミュージアムが誇る豊かな自然も見られますⒸFujiko-Pro"
+      },
+      {
+        "description": "『ドラえもん』ファンへのイチオシは、ひみつ道具風のデザインが印象的な「フレンチトーストdeアンキパン」。ふんわりとやわらかいトーストの食感が、子どもたちにも大人気！",
+        "image": {
+          "alternateText": "＜08_OSAMPO ポコニャンバーガーキャプション＞　",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/GfP2yMJHEUFe5UfpNc-SSiALUHB-74Qd4Y2-UKz5u2I/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/GfP2yMJHEUFe5UfpNc-SSiALUHB-74Qd4Y2-UKz5u2I/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/GfP2yMJHEUFe5UfpNc-SSiALUHB-74Qd4Y2-UKz5u2I/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/GfP2yMJHEUFe5UfpNc-SSiALUHB-74Qd4Y2-UKz5u2I/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/GfP2yMJHEUFe5UfpNc-SSiALUHB-74Qd4Y2-UKz5u2I/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/GfP2yMJHEUFe5UfpNc-SSiALUHB-74Qd4Y2-UKz5u2I/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「OSAMPO ポコニャンバーガー」1450円"
+      },
+      {
+        "description": "三つ目はおすすめのデザート「ドラえもんぶらん」。ホワイトチョコレート風味のクリームでバニラ味のムースを包んだ、軽い口当たりが特徴のスイーツです。鮮やかなブルーのドラえもんが愛らしい、写真映え間違いなしの一皿です。",
+        "image": {
+          "alternateText": "＜09_フレンチトーストdeアンキパンキャプション＞　",
+          "height": 797,
+          "sourceUrl": "http://a.mktgcdn.com/p/kK--3rT45ER3XP844SevDqi4YeuIWmhhsss4sl-LG4E/1200x797.png",
+          "thumbnails": [
+            {
+              "height": 797,
+              "url": "//a.mktgcdn.com/p-sandbox/kK--3rT45ER3XP844SevDqi4YeuIWmhhsss4sl-LG4E/1200x797.png",
+              "width": 1200
+            },
+            {
+              "height": 411,
+              "url": "//a.mktgcdn.com/p-sandbox/kK--3rT45ER3XP844SevDqi4YeuIWmhhsss4sl-LG4E/619x411.png",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "//a.mktgcdn.com/p-sandbox/kK--3rT45ER3XP844SevDqi4YeuIWmhhsss4sl-LG4E/600x399.png",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "//a.mktgcdn.com/p-sandbox/kK--3rT45ER3XP844SevDqi4YeuIWmhhsss4sl-LG4E/196x130.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/kK--3rT45ER3XP844SevDqi4YeuIWmhhsss4sl-LG4E/1200x797.png",
+          "width": 1200
+        },
+        "imageCaption": "「フレンチトーストdeアンキパン」1080円"
+      },
+      {
+        "description": "登戸駅から電車を乗り次ぎ約20分、桜新町駅から徒歩7分の場所にある「長谷川町子記念館」。ここでは、サザエさんに関する展示などを楽しめます。",
+        "image": {
+          "alternateText": "＜10_ドラえもんぶらんキャプション＞　",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/OzG3GQI6qrrv15rKODWU17ArG0XycOx3Je0-tPT_qzs/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/OzG3GQI6qrrv15rKODWU17ArG0XycOx3Je0-tPT_qzs/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/OzG3GQI6qrrv15rKODWU17ArG0XycOx3Je0-tPT_qzs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/OzG3GQI6qrrv15rKODWU17ArG0XycOx3Je0-tPT_qzs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/OzG3GQI6qrrv15rKODWU17ArG0XycOx3Je0-tPT_qzs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/OzG3GQI6qrrv15rKODWU17ArG0XycOx3Je0-tPT_qzs/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「ドラえもんぶらん」1200円"
+      },
+      {
+        "description": "記念館がオープンしたのは、長谷川町子氏が生誕100周年を迎えた2020年のこと。姉の毬子氏と一緒に収集した美術品の展示を目的に、1985年に開館した「長谷川町子美術館」の分館として、道を隔てた向かい側に建設されました。町子氏の生涯や漫画作品に関する資料は、この記念館に展示されています。",
+        "image": {
+          "alternateText": "＜11_長谷川町子記念館　1階常設展示室「町子の作品」-1 (c)長谷川町子美術館キャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/DJd5fcM_4LXXhFrxCwfAN379fT4GYKU25579eqk2mP4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/DJd5fcM_4LXXhFrxCwfAN379fT4GYKU25579eqk2mP4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/DJd5fcM_4LXXhFrxCwfAN379fT4GYKU25579eqk2mP4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/DJd5fcM_4LXXhFrxCwfAN379fT4GYKU25579eqk2mP4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/DJd5fcM_4LXXhFrxCwfAN379fT4GYKU25579eqk2mP4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/DJd5fcM_4LXXhFrxCwfAN379fT4GYKU25579eqk2mP4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "『サザエさん』パネルがお出迎え（c）長谷川町子美術館"
+      },
+      {
+        "description": "記念館1階の常設展示室「町子の作品」では、『サザエさん』や『エプロンおばさん』、『いじわるばあさん』といった代表作の世界観に触れることができます。また、原作のデジタルアーカイブをタッチパネル式モニターで自由に閲覧できたり、バーチャル落書きができる板塀があったりと、デジタルとアナログを融合させた先進的な展示も行われています。",
+        "image": {
+          "alternateText": "＜12_長谷川町子記念館　外観キャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/JUuj03mc4HHinxLpGQcHQ5SNPeOv4N9GnYnaQUPf4M8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/JUuj03mc4HHinxLpGQcHQ5SNPeOv4N9GnYnaQUPf4M8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/JUuj03mc4HHinxLpGQcHQ5SNPeOv4N9GnYnaQUPf4M8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/JUuj03mc4HHinxLpGQcHQ5SNPeOv4N9GnYnaQUPf4M8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/JUuj03mc4HHinxLpGQcHQ5SNPeOv4N9GnYnaQUPf4M8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/JUuj03mc4HHinxLpGQcHQ5SNPeOv4N9GnYnaQUPf4M8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「長谷川町子美術館」の目の前にあります"
+      },
+      {
+        "description": "館内には、もうひとつの常設展示室である2階「町子の生涯」や企画展示室のほか、「喫茶部（カフェ）」や「購買部（ショップ）」も。喫茶部では、町子氏が好んで食べたというドライパパイアを、ほうじ茶とともに味わうことができますよ。",
+        "image": {
+          "alternateText": "＜13_長谷川町子記念館　1階常設展示室「町子の作品」-2キャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/pxwpEzP6IvXsYvoO0-AotcQd5_WMuT9eQJplfm2tgqU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/pxwpEzP6IvXsYvoO0-AotcQd5_WMuT9eQJplfm2tgqU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/pxwpEzP6IvXsYvoO0-AotcQd5_WMuT9eQJplfm2tgqU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/pxwpEzP6IvXsYvoO0-AotcQd5_WMuT9eQJplfm2tgqU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/pxwpEzP6IvXsYvoO0-AotcQd5_WMuT9eQJplfm2tgqU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/pxwpEzP6IvXsYvoO0-AotcQd5_WMuT9eQJplfm2tgqU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "子どもたちが大喜びするユニークな展示も"
+      },
+      {
+        "description": "記念館を出たら、桜新町駅まで続く「桜新町商店街（サザエさん通り）」を散策しましょう。商店街のいたるところに配置された『サザエさん』のイラストやモニュメントを眺めながら歩くだけでも楽しいですよ。また、街中には『サザエさん』が描かれたどら焼きや、バウムクーヘンを販売している店もあるそうなので、ぜひ探してみてください。",
+        "image": {
+          "alternateText": "＜14_長谷川町子記念館　購買部・喫茶部キャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/EGdmJmlBqfNafVWpIpSksgc9Y7PHM4k2--j3mOVE2xI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/EGdmJmlBqfNafVWpIpSksgc9Y7PHM4k2--j3mOVE2xI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/EGdmJmlBqfNafVWpIpSksgc9Y7PHM4k2--j3mOVE2xI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/EGdmJmlBqfNafVWpIpSksgc9Y7PHM4k2--j3mOVE2xI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/EGdmJmlBqfNafVWpIpSksgc9Y7PHM4k2--j3mOVE2xI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/EGdmJmlBqfNafVWpIpSksgc9Y7PHM4k2--j3mOVE2xI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "購買部と喫茶部は館内1階に併設されています"
+      },
+      {
+        "description": "日も暮れて、そろそろお腹が空いてきたころ。桜新町駅から東急田園都市線に乗り、渋谷駅のそばにある「RAYARD MIYASHITA PARK」へ。施設1階にある「渋谷横丁」で夕食を楽しみましょう。",
+        "image": {
+          "alternateText": "＜15_手ぬぐい　880円 (c)長谷川町子美術館キャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/3sacLik5rf9sQErxqqgZ0i_3Vgjl3nD_43HmsG-dz1I/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/3sacLik5rf9sQErxqqgZ0i_3Vgjl3nD_43HmsG-dz1I/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/3sacLik5rf9sQErxqqgZ0i_3Vgjl3nD_43HmsG-dz1I/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/3sacLik5rf9sQErxqqgZ0i_3Vgjl3nD_43HmsG-dz1I/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/3sacLik5rf9sQErxqqgZ0i_3Vgjl3nD_43HmsG-dz1I/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/3sacLik5rf9sQErxqqgZ0i_3Vgjl3nD_43HmsG-dz1I/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "粋でおしゃれなデザインの「手ぬぐい」880円"
+      },
+      {
+        "description": "全長100メートルの横丁内には、「近畿食市」や「九州食市」、「韓国食市」など、さまざまな地域の郷土料理やB級グルメを味わえる飲食店が並んでいます。全19店舗のなかからお気に入りの一軒を見つけるもよし、はしご酒をするもよし。各地のソウルフードを味わって、ちょっとした旅行気分に浸ってみてはいかがですか。",
+        "image": {
+          "alternateText": "＜16_IMG_1806キャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/OiZWghitzrxhM5dIE9cueWjEjDBiQqM2Cbt2u80hgCU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/OiZWghitzrxhM5dIE9cueWjEjDBiQqM2Cbt2u80hgCU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/OiZWghitzrxhM5dIE9cueWjEjDBiQqM2Cbt2u80hgCU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/OiZWghitzrxhM5dIE9cueWjEjDBiQqM2Cbt2u80hgCU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/OiZWghitzrxhM5dIE9cueWjEjDBiQqM2Cbt2u80hgCU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/OiZWghitzrxhM5dIE9cueWjEjDBiQqM2Cbt2u80hgCU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "商店街でたくさんの『サザエさん』と遭遇！"
+      },
+      {
+        "description": "“次世代体感型エンターテイメント横丁”と銘打たれた施設内は、毎日が“フェス”のように賑やか。ギター流しやマジックなどのテーブルパフォーマンス、DJライブなどのイベントが開催されています。落ち着いて食事を楽しみたい方は、「RAYARD MIYASHITA PARK」内のレストランを利用するのもアリですよ。",
+        "image": {
+          "alternateText": "＜17_DSC3162キャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/hNSKCfWyIciQhBDEhsDF1kGhpWQfxj1Svqot5X1uIbE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/hNSKCfWyIciQhBDEhsDF1kGhpWQfxj1Svqot5X1uIbE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/hNSKCfWyIciQhBDEhsDF1kGhpWQfxj1Svqot5X1uIbE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/hNSKCfWyIciQhBDEhsDF1kGhpWQfxj1Svqot5X1uIbE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/hNSKCfWyIciQhBDEhsDF1kGhpWQfxj1Svqot5X1uIbE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/hNSKCfWyIciQhBDEhsDF1kGhpWQfxj1Svqot5X1uIbE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ディナーは活気あふれる「渋谷横丁」で"
+      },
+      {
+        "description": "「渋谷スクランブルスクエア」の屋上に位置する展望施設「SHIBUYA SKY」が今日のゴール。東京の街が作り出す美しい夜景を眺めて、旅を締めくくりましょう。",
+        "image": {
+          "alternateText": "＜18_BOK6952＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/eujfxp4sEtyhVaOMIWhCfU3wz_ZJgb59aJcKZ_GEGH4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/eujfxp4sEtyhVaOMIWhCfU3wz_ZJgb59aJcKZ_GEGH4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/eujfxp4sEtyhVaOMIWhCfU3wz_ZJgb59aJcKZ_GEGH4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/eujfxp4sEtyhVaOMIWhCfU3wz_ZJgb59aJcKZ_GEGH4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/eujfxp4sEtyhVaOMIWhCfU3wz_ZJgb59aJcKZ_GEGH4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/eujfxp4sEtyhVaOMIWhCfU3wz_ZJgb59aJcKZ_GEGH4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "日本各地の食文化が一堂に会しています"
+      },
+      {
+        "description": "「SHIBUYA SKY」のメインゾーンである屋上展望空間「SKY STAGE」は、渋谷上空229メートルからの絶景を満喫できる“空の舞台”。ステージの角に位置する「SKY EDGE」では、スクランブル交差点を真上から見下ろしているような感覚が味わえます。",
+        "image": {
+          "alternateText": "＜19_鉄鍋餃子キャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/jiCgcuSgdpFNelNP_a9BN_IDpCfAjGIou1aV9uZjPf8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/jiCgcuSgdpFNelNP_a9BN_IDpCfAjGIou1aV9uZjPf8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/jiCgcuSgdpFNelNP_a9BN_IDpCfAjGIou1aV9uZjPf8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/jiCgcuSgdpFNelNP_a9BN_IDpCfAjGIou1aV9uZjPf8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/jiCgcuSgdpFNelNP_a9BN_IDpCfAjGIou1aV9uZjPf8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/jiCgcuSgdpFNelNP_a9BN_IDpCfAjGIou1aV9uZjPf8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「九州食市」で味わえる「鉄鍋餃子」33個2639円"
+      },
+      {
+        "description": "日没後にしか楽しめない特別な見どころも。30分毎に行われる「CROSSING LIGHT」では、夜空をどこまでも伸びていく光線が作り出す、幻想的な光景を見ることができます。渋谷の上空で、ゆったりとした時間を過ごしてみませんか？",
+        "image": {
+          "alternateText": "＜20_フードホールキャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/1K_tzxRszC3DqCgkCyt3bVPtjZwKivAc8KShIgJNpCk/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/1K_tzxRszC3DqCgkCyt3bVPtjZwKivAc8KShIgJNpCk/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/1K_tzxRszC3DqCgkCyt3bVPtjZwKivAc8KShIgJNpCk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/1K_tzxRszC3DqCgkCyt3bVPtjZwKivAc8KShIgJNpCk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/1K_tzxRszC3DqCgkCyt3bVPtjZwKivAc8KShIgJNpCk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/1K_tzxRszC3DqCgkCyt3bVPtjZwKivAc8KShIgJNpCk/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「RAYARD MIYASHITA PARK」内にはフードコート形式で多国籍料理が味わえる「フードホール」もあります"
+      },
+      {
+        "description": "＜投稿者コメント＞子どもから大人まで楽しめるアニメをテーマとした映えスポット満載のコースです。さらに生まれ変わった渋谷の最新スポットでグルメやショッピングをご堪能ください。ぜひフォトジェニックな写真をたくさんとって、素敵な旅の思い出の1ページになりますよう願っております。●スポット情報  【川崎市 藤子・F・不二雄ミュージアム（かわさきし ふじこ・えふ・ふじおみゅーじあむ）】 電話：0570-055-245 住所：神奈川県川崎市多摩区長尾2-8-1 料金：1000円（完全日時指定制のチケット予約が必要） 時間：10～18時（入館時間は1日7回、1時間ごと） 休み：火曜（ほか臨時休館あり。公式ホームページのミュージアムカレンダーなどで要確認） アクセス：JR・小田急線登戸駅から川崎市バス直行便で9分  【長谷川町子記念館（はせがわまちこきねんかん）】 電話：03-3701-8766 住所：東京都世田谷区桜新町1-30-6 料金：900円時間：10時〜17時30分 休み：月曜（祝日の場合は翌日）、展示替期間 アクセス：東急田園都市線桜新町駅から徒歩7分  【RAYARD MIYASHITA PARK（れいやーど みやした ぱーく）】 電話：03-6712-5630（施設代表電話※受付11～18時） 住所：東京都渋谷区神宮前6-20-10 時間：ショップ11～21時、レストラン・フードホール11～23時（店舗により異なる） 休み：不定休 アクセス：各線渋谷駅から徒歩3分 【渋谷横丁（しぶやよこちょう）】 電話：店舗により異なる 住所：東京都渋谷区神宮前6-20-10 MIYASHITA PARK South 1階 時間：月～土曜、祝前日11時～午前5時（一部店舗のみ～23時）※日曜、祝日11～23時 休み：施設に準ずる  【SHIBUYA SKY（しぶやすかい）】 電話：03-4221-0229 住所：東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア14階・45階・46階・屋上 料金：当日入場2000円 時間：10時～22時30分（最終入場21時20分） 休み：無休（ほか臨時休館あり） アクセス：各線渋谷駅直結",
+        "image": {
+          "alternateText": "＜21_SPS_3989キャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/TC1ywllWrNSeT56biwdYSUbhZNiaBN-F-vvpuQNwMr0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/TC1ywllWrNSeT56biwdYSUbhZNiaBN-F-vvpuQNwMr0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/TC1ywllWrNSeT56biwdYSUbhZNiaBN-F-vvpuQNwMr0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/TC1ywllWrNSeT56biwdYSUbhZNiaBN-F-vvpuQNwMr0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/TC1ywllWrNSeT56biwdYSUbhZNiaBN-F-vvpuQNwMr0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/TC1ywllWrNSeT56biwdYSUbhZNiaBN-F-vvpuQNwMr0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「SHIBUYA SKY」からは東京の街を一望できます 提供：渋谷スクランブルスクエア"
+      },
+      {
+        "image": {
+          "alternateText": "＜22_渋谷スクランブルスクエア 外観（夜）【提供：渋谷スクランブルスクエア】竣工写真キャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/9uYobBRLKdnDecdDHcylctQbhpUieSi8-odaMr8nzhE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/9uYobBRLKdnDecdDHcylctQbhpUieSi8-odaMr8nzhE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/9uYobBRLKdnDecdDHcylctQbhpUieSi8-odaMr8nzhE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/9uYobBRLKdnDecdDHcylctQbhpUieSi8-odaMr8nzhE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/9uYobBRLKdnDecdDHcylctQbhpUieSi8-odaMr8nzhE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/9uYobBRLKdnDecdDHcylctQbhpUieSi8-odaMr8nzhE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "渋谷エリアのランドマークとなっている「渋谷スクランブルスクエア」 提供：渋谷スクランブルスクエア"
+      },
+      {
+        "image": {
+          "alternateText": "＜23_SPS_4015キャプション＞",
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/7ix6sVdmbQjibwSAplDhqvVTlCUKf0Z8-yvLPe-vFPU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/7ix6sVdmbQjibwSAplDhqvVTlCUKf0Z8-yvLPe-vFPU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/7ix6sVdmbQjibwSAplDhqvVTlCUKf0Z8-yvLPe-vFPU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/7ix6sVdmbQjibwSAplDhqvVTlCUKf0Z8-yvLPe-vFPU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/7ix6sVdmbQjibwSAplDhqvVTlCUKf0Z8-yvLPe-vFPU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/7ix6sVdmbQjibwSAplDhqvVTlCUKf0Z8-yvLPe-vFPU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「CROSSING LIGHT」は光の柱が時刻を知らせるライト演出です 提供：渋谷スクランブルスクエア"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。※上記記事に記載の金額はすべて税込みです。また各施設の入場料金は大人料金を記載しています。※定休日は原則として年末年始・お盆休み・ゴールデンウィークを省略しています。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_store_00004",
+      "news_ap_store_00003",
+      "news_ap_store_00005",
+      "news_ap_store_00007",
+      "news_ap_store_00008"
+    ],
+    "c_news_FeaturedArticlesTitle": "その他JTB大江戸デスクコンサルタントの投稿記事",
+    "c_news_PublicationDate": "2022-12-06",
+    "c_news_UpdateDate": "2022-12-06",
+    "c_news_ViewCount": "19",
+    "c_news_ViewCount2of2": "19",
+    "c_news_ViewCountNum": "19",
+    "c_news_ViewCountNumForSorting": "6",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00006",
+    "name": "【ミュージアム巡り】～昭和・平成・令和～時代を超えて愛され続ける国民的2大キャラクター＜ドラえもん・サザエさん＞ミュージアム巡りモデルコース",
+    "slug": "kokunai/kanto/tokyo/news_ap_store_00006",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

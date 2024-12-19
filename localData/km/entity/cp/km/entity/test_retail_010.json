@@ -1,0 +1,156 @@
+{
+  "$id": "cp_test_retail_010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_Articles": [
+      "ap_chiki_100001"
+    ],
+    "c_cp_ArticlesSectionTitle": "このコンサルタントの投稿記事",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "このコンサルタントがいるお店",
+      "link": "https://stores.jtb.co.jp/t4432-0",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "コンサルタント一覧",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_cp_CaseStudies": [
+      "ap_test_004",
+      "3511005588108258709"
+    ],
+    "c_cp_CaseStudySectionTitle": "BLOG",
+    "c_cp_Certification": [
+      "トラベルコーディネーターA級",
+      "総合旅行業取扱管理者",
+      "ウエディングコンサルタント"
+    ],
+    "c_cp_Description": "年に最低でも3回以上は旅行をする旅好きで、一人で京都へ旅することは私のライフスタイルとして定着しました。\n歳を重ねるごとに、先人たちが築いてきた食・文化・伝統や何億年もかけてできた地球の神秘により魅力を感じるようになりました。遠出が難しい今は本やインターネットで情報収集をし、次の旅行へ向けて楽しんで予習をしています！旅は自分の悩みや憂鬱な気持ちを吹き飛ばしてくれる最高の栄養剤です！皆さんの旅行が何かのきっかけになるようなご提案ができるようお手伝いさせて頂きます。どうぞよろしくお願いいたします。",
+    "c_cp_DisplayName": "テスト１０ かずみ",
+    "c_cp_FieldOfExpertise": [
+      "動植物園・公園",
+      "美術鑑賞",
+      "スポーツ観戦",
+      "温泉・立ち寄り湯",
+      "音楽ライブ"
+    ],
+    "c_cp_GeneralInfo": [
+      "世界遺産検定1級",
+      "出身地：東京",
+      "趣味：神社仏閣訪問",
+      "ああああああああああああああああああああああああああ",
+      "いいいいいいいいいいいいいいいいいいいいいいいいいいいい"
+    ],
+    "c_cp_HeroImage": {
+      "alternateText": "hero",
+      "height": 203,
+      "sourceUrl": "http://a.mktgcdn.com/p/wK2pQNmL-7G7fjsQw9auIDns1yf7_c4R1nbJUQtG2nU/360x203.jpg",
+      "thumbnails": [
+        {
+          "height": 203,
+          "url": "//a.mktgcdn.com/p-sandbox/wK2pQNmL-7G7fjsQw9auIDns1yf7_c4R1nbJUQtG2nU/360x203.jpg",
+          "width": 360
+        },
+        {
+          "height": 111,
+          "url": "//a.mktgcdn.com/p-sandbox/wK2pQNmL-7G7fjsQw9auIDns1yf7_c4R1nbJUQtG2nU/196x111.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/wK2pQNmL-7G7fjsQw9auIDns1yf7_c4R1nbJUQtG2nU/360x203.jpg",
+      "width": 360
+    },
+    "c_cp_HiraganaName": "てすと かずみ",
+    "c_cp_JobTitle": "JTBトラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 600,
+      "sourceUrl": "http://a.mktgcdn.com/p/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/800x600.jpg",
+      "thumbnails": [
+        {
+          "height": 600,
+          "url": "//a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/800x600.jpg",
+          "width": 800
+        },
+        {
+          "height": 464,
+          "url": "//a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "//a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "//a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/sfYE_1ze4LkZVplY0DYaKpn51gx93Kh5VilFYPZM4Hc/800x600.jpg",
+      "width": 800
+    },
+    "c_cp_Point": "1",
+    "c_cp_StrongAbroadArea3": [
+      "オランダ・ベルギー",
+      "クロアチア・スロベニア",
+      "オーストリア・チェコ・ハンガリー"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "カンボジア・アンコールワット",
+      "インドネシア・バリ島"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "東北全般"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般",
+      "神奈川県"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "中部全般",
+      "北陸全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "近畿全般",
+      "和歌山県"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "中国全般",
+      "四国全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "鹿児島県"
+    ],
+    "c_cp_Tags": [
+      "あいうえおかきくけこさしすせそたちつてと",
+      "ウォーキング",
+      "トレッキング",
+      "写真",
+      "家族旅行"
+    ],
+    "c_cp_UpdateComments": "2024年6月 中東・ドバイに旅してきました！！2024年6月 中東・ドバイに旅してきました！！2024年6月 中東・ドバイに旅してきました！！",
+    "c_cp_notificationBannerMultiText": "お知らせバナーが表示されます。",
+    "c_metaDescription": "JTB オンライン相談 | トラベルコンサルタント | 武田 和美 | 予約 リモートコンシェルジュ 旅行相談",
+    "c_metaTitle": "JTBリモートトラベルコンシェルジュ ｜ テストリテールコンサルタント010",
+    "c_news_NewsList": [
+      "news_ap_chiki_100001"
+    ],
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_m_tachibana004",
+    "c_responsibleService": [
+      "リモートコンシェルジュ",
+      "リテール店舗"
+    ],
+    "name": "テストリテールコンサルタント010",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-16",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/16_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d45.226788%2C141.248099",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "利尻島のシンボルで「日本百名山」のひとつでもある利尻富士。その利尻富士を仰ぎ見ることのできる絶景ポイントは幾つかありますが、原生林に囲まれた周囲800mの小さな沼、姫沼で見られる利尻富士は、一風変わった姿を見せてくれます。それは鏡のような湖面に映し出された「利尻富士」。早朝、天気が良い日に姫沼を訪れると、その水面に利尻富士が鏡のように映し出されていることがあります。沼の水面に浮かぶ「逆さ利尻富士」と間近に仰げる本物の利尻富士との共演は、何とも荘厳な雰囲気で心を落ち着かせてくれます。沼の周囲には散策路も整備されており、深い森に囲まれた静けさの中、野鳥の鳴き声を聞きながらゆったりとした散策が楽しめます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/16.asp",
+    "name": "早朝の姫沼に映る逆さ利尻富士"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

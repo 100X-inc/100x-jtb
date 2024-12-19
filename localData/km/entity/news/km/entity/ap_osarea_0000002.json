@@ -1,0 +1,443 @@
+{
+  "$id": "news_ap_osarea_0000002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "アサイボウルからシェイブアイスまで！ 見た目も味も南国気分♪ ロコにも人気な胸キュンスイーツ　【ハワイ　ホノルル】",
+      "height": 1623,
+      "sourceUrl": "http://a.mktgcdn.com/p/hNsZ_ih8Z04Ja8J_usN3JAGaDh8I4YqyKr6WVa-KsdI/2165x1623.jpg",
+      "thumbnails": [
+        {
+          "height": 1623,
+          "url": "//a.mktgcdn.com/p-sandbox/lJohJ5qwiskqM81_iDe_NHuOZvWMylQwsvUTn9Me_m8/2165x1623.jpg",
+          "width": 2165
+        },
+        {
+          "height": 1424,
+          "url": "//a.mktgcdn.com/p-sandbox/lJohJ5qwiskqM81_iDe_NHuOZvWMylQwsvUTn9Me_m8/1900x1424.jpg",
+          "width": 1900
+        },
+        {
+          "height": 464,
+          "url": "//a.mktgcdn.com/p-sandbox/lJohJ5qwiskqM81_iDe_NHuOZvWMylQwsvUTn9Me_m8/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "//a.mktgcdn.com/p-sandbox/lJohJ5qwiskqM81_iDe_NHuOZvWMylQwsvUTn9Me_m8/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "//a.mktgcdn.com/p-sandbox/lJohJ5qwiskqM81_iDe_NHuOZvWMylQwsvUTn9Me_m8/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/lJohJ5qwiskqM81_iDe_NHuOZvWMylQwsvUTn9Me_m8/2165x1623.jpg",
+      "width": 2165
+    },
+    "c_ap_HeroImageCaption": "アイランド・ヴィンテージ・シェイブアイス",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "ハワイ旅行・ツアー特集をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hawaii/"
+      },
+      {
+        "linkText": "JTBMySTYLEでハワイ旅行を計画する",
+        "uRL": "https://www.jtb.co.jp/lookjtb/service/hawaii/"
+      },
+      {
+        "linkText": "ハワイのおすすめホテル特集をみる",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/"
+      },
+      {
+        "linkText": "ハワイの現地オプショナルツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aHWI/bH1/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "ヘルシーなアサイボウルやハワイ版かき氷のシェイブアイス、ローカルスイーツのマラサダまで、ハワイで食べたいおすすめスイーツをご紹介！ 見た目もカラフルでかわいいので写真映えもバツグンです（写真：アイランド・ヴィンテージ・シェイブアイス）",
+    "c_ap_Tags": [
+      "スイーツ",
+      "フォトジェニック",
+      "ホノルル",
+      "アイス",
+      "ローカルスイーツ",
+      "グルメ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ",
+      "ウエディング",
+      "ハネムーン",
+      "記念旅行",
+      "グルメ",
+      "カフェ",
+      "ご当地グルメ",
+      "おみやげ",
+      "リゾート"
+    ],
+    "c_ap_Title": "ハワイのおすすめスイーツショップ7選！アサイーボウルからドーナツまで",
+    "c_linkedArea3News": [
+      "hawaii"
+    ],
+    "c_metaDescription": "ヘルシーなアサイボウルやハワイ版かき氷のシェイブアイス、ローカルスイーツのマラサダまで、ハワイで食べたいおすすめスイーツをご紹介！ 見た目もカラフルでかわいいので写真映えもバツグンです（写真：アイランド・ヴィンテージ・シェイブアイス）",
+    "c_metaTitle": "ハワイのおすすめスイーツショップ7選！アサイーボウルからドーナツまで",
+    "c_news_CTAs": [
+      {
+        "label": "ハワイ特集をみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/hawaii/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "ハワイのおすすめホテルをみる",
+        "link": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "JTBMySTYLEでハワイ旅行を計画する",
+        "link": "https://www.jtb.co.jp/lookjtb/service/hawaii/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ハワイのショッピングセンターをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000013",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "ハワイのパンケーキおすすめ店をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000001",
+          "linkType": "OTHER"
+        },
+        "description": "アサイボウルの人気店といえばこちら。早朝から観光客や地元の人で賑わうワイキキの有名カフェです。看板メニューは、オーガニックのグラノーラやハワイアンハニー100％を使用するなど、食材にこだわるアサイボウル。見た目も華やかでヘルシーという一品は、朝食にもランチにもおすすめです。",
+        "image": {
+          "alternateText": "ワイアルア・モアナボウル（手前）など",
+          "height": 1920,
+          "sourceUrl": "https://a.mktgcdn.com/p/vrzRh9I7kCj0_rYPslUileNgrOPUkWAhyltPEOyt3WY/2880x1920.jpg",
+          "thumbnails": [
+            {
+              "height": 1920,
+              "url": "https://a.mktgcdn.com/p-sandbox/vrzRh9I7kCj0_rYPslUileNgrOPUkWAhyltPEOyt3WY/2880x1920.jpg",
+              "width": 2880
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/vrzRh9I7kCj0_rYPslUileNgrOPUkWAhyltPEOyt3WY/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/vrzRh9I7kCj0_rYPslUileNgrOPUkWAhyltPEOyt3WY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/vrzRh9I7kCj0_rYPslUileNgrOPUkWAhyltPEOyt3WY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/vrzRh9I7kCj0_rYPslUileNgrOPUkWAhyltPEOyt3WY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vrzRh9I7kCj0_rYPslUileNgrOPUkWAhyltPEOyt3WY/2880x1920.jpg",
+          "width": 2880
+        },
+        "imageCaption": "ワイアルア・モアナボウル（手前）など",
+        "infoBlockLabel": "Island Vintage Coffee",
+        "infoBlockText": "住所：2301 Kalakaua Ave. ロイヤル・ハワイアン・センターC館2F営業時間：6～22時（食事は7時～21時30分）定休日：なしURL：www.islandvintagecoffee.com",
+        "sectionLevel": "h2",
+        "sectionTitle": "アイランド・ヴィンテージ・シェイブアイス　（Island Vintage Shave Ice）"
+      },
+      {
+        "description": "上記でご紹介した「アイランド・ヴィンテージ・コーヒー」のシェイブアイス専門店です。ハワイ産フルーツで作った自家製シロップは自然な甘さが特徴。オーガニックのソフトクリームや自家製アズキなどのトッピングもあります。イチオシは、「ハワイアンレインボー」（トップ画像のもの）。3種のシロップで、ハワイの虹を表現しています。",
+        "image": {
+          "alternateText": "買い物途中のブレイクタイムに寄るのにも便利な場所です",
+          "height": 3162,
+          "sourceUrl": "https://a.mktgcdn.com/p/PJjd5DvXRbCAhyK6W1AEro11NNs34wW-TobXRkVqF_s/4743x3162.jpg",
+          "thumbnails": [
+            {
+              "height": 3162,
+              "url": "https://a.mktgcdn.com/p-sandbox/PJjd5DvXRbCAhyK6W1AEro11NNs34wW-TobXRkVqF_s/4743x3162.jpg",
+              "width": 4743
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/PJjd5DvXRbCAhyK6W1AEro11NNs34wW-TobXRkVqF_s/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/PJjd5DvXRbCAhyK6W1AEro11NNs34wW-TobXRkVqF_s/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/PJjd5DvXRbCAhyK6W1AEro11NNs34wW-TobXRkVqF_s/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/PJjd5DvXRbCAhyK6W1AEro11NNs34wW-TobXRkVqF_s/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PJjd5DvXRbCAhyK6W1AEro11NNs34wW-TobXRkVqF_s/4743x3162.jpg",
+          "width": 4743
+        },
+        "imageCaption": "買い物途中のブレイクタイムに寄るのにも便利な場所です",
+        "infoBlockLabel": "Island Vintage Shave Ice",
+        "infoBlockText": "住所：2201 Kalakaua Ave.　 ロイヤル・ハワイアン・センターB館1F 英城時間：10～21時定休日：なし",
+        "sectionLevel": "h2",
+        "sectionTitle": "アイランド・ヴィンテージ・シェイブアイス　（Island Vintage Shave Ice）"
+      },
+      {
+        "description": "ハワイ産のヘルシーアイスを楽しみたいなら、ワイキキにあるバナンへ。バナナをベースに、砂糖や乳製品不使用という、ギルティ―フリーなソフトクリームをいただけます。バナナ以外の食材も、ハワイの農家をサポートするためにできる限り地元産のものを使用しているそうです。おすすめは、アサイのソフトクリームにイチゴやキヌアが入る「アマゾンカップ」。",
+        "image": {
+          "alternateText": "アマゾンカップ",
+          "height": 3100,
+          "sourceUrl": "https://a.mktgcdn.com/p/dp02SSCvm3fYlps-DcJeS7k_gqPN7GuSEsYkIVbZN5Y/2067x3100.jpg",
+          "thumbnails": [
+            {
+              "height": 3100,
+              "url": "https://a.mktgcdn.com/p-sandbox/uPjYk9YQLprfF5DjPKeVhVods18sUhM9VanoqCMbK6I/2067x3100.jpg",
+              "width": 2067
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/uPjYk9YQLprfF5DjPKeVhVods18sUhM9VanoqCMbK6I/1267x1900.jpg",
+              "width": 1267
+            },
+            {
+              "height": 928,
+              "url": "https://a.mktgcdn.com/p-sandbox/uPjYk9YQLprfF5DjPKeVhVods18sUhM9VanoqCMbK6I/619x928.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/uPjYk9YQLprfF5DjPKeVhVods18sUhM9VanoqCMbK6I/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/uPjYk9YQLprfF5DjPKeVhVods18sUhM9VanoqCMbK6I/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uPjYk9YQLprfF5DjPKeVhVods18sUhM9VanoqCMbK6I/2067x3100.jpg",
+          "width": 2067
+        },
+        "imageCaption": "アマゾンカップ",
+        "infoBlockLabel": "Banan",
+        "infoBlockText": "住所：2201 Kalakaua Ave.　 ロイヤル・ハワイアン・センターC館1F営業時間：8時30分～20時定休日：なし",
+        "sectionLevel": "h2",
+        "sectionTitle": "バナン（Banan）"
+      },
+      {
+        "description": "今ロコの注目を集めているドーナツ店といえば、カハラにあるこちら。ポップな見た目がかわいいドーナツが揃います。常時13種類（12種類のレギュラーフレーバーと毎週月曜日に更新される週替わりフレーバー）のドーナツは、「ユニコーンバット・スニーズ」など、遊び心を感じるメニューばかり。店内で調理しているので、タイミングが合えば揚げたてのアツアツをいただけます。",
+        "image": {
+          "alternateText": "揚げたてのドーナツのおいしさは格別！",
+          "height": 1102,
+          "sourceUrl": "https://a.mktgcdn.com/p/Sf9UfYqx3H_y8ROgs5vZ6x6SWHR_C1IBXPfm3r_WT-4/1654x1102.jpg",
+          "thumbnails": [
+            {
+              "height": 1102,
+              "url": "https://a.mktgcdn.com/p-sandbox/orLmM52J_JRwxqe70LM8v_9Q_QGM1DC-LhUQnFhJPU8/1654x1102.jpg",
+              "width": 1654
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/orLmM52J_JRwxqe70LM8v_9Q_QGM1DC-LhUQnFhJPU8/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/orLmM52J_JRwxqe70LM8v_9Q_QGM1DC-LhUQnFhJPU8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/orLmM52J_JRwxqe70LM8v_9Q_QGM1DC-LhUQnFhJPU8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/orLmM52J_JRwxqe70LM8v_9Q_QGM1DC-LhUQnFhJPU8/1654x1102.jpg",
+          "width": 1654
+        },
+        "imageCaption": "揚げたてのドーナツのおいしさは格別！",
+        "infoBlockLabel": "Purve Donuts Stop",
+        "infoBlockText": "住所：4210 Waialae Ave, 営業時間：6～21時定休日：なしURL：www.purvehawaii.com",
+        "sectionLevel": "h2",
+        "sectionTitle": "パーヴェ・ドーナツ・ストップ　（Purve Donuts Stop）"
+      },
+      {
+        "description": "ハワイのローカルおやつ・マラサダ。レナーズ・ベーカリーは、オアフ島随一のグルメエリア・カパフル通りに1952年に創業し、マラサダをハワイ全土に広めたというお店です。オーダーを受けてから揚げるので、アツアツのできたてを味わえます。定番は「シナモンシュガー」。クリームが入ったマラサダもあります。",
+        "image": {
+          "alternateText": "マラサダ各（上から時計回りにシナモン、オリジナル、リヒンムイ）",
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/VCGFko3ZkoHqJlro8cjBbFOgBBU46X926_InoSwpgVU/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/VCGFko3ZkoHqJlro8cjBbFOgBBU46X926_InoSwpgVU/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/VCGFko3ZkoHqJlro8cjBbFOgBBU46X926_InoSwpgVU/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/VCGFko3ZkoHqJlro8cjBbFOgBBU46X926_InoSwpgVU/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/VCGFko3ZkoHqJlro8cjBbFOgBBU46X926_InoSwpgVU/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VCGFko3ZkoHqJlro8cjBbFOgBBU46X926_InoSwpgVU/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "マラサダ各（上から時計回りにシナモン、オリジナル、リヒンムイ）",
+        "infoBlockLabel": "Leonard\u0027s Bakery",
+        "infoBlockText": "住所：933 Kapahulu Ave. 営業時間：5時30分～19時定休日：なしURL：www.leonardshawaii.com",
+        "sectionLevel": "h2",
+        "sectionTitle": "レナーズ・ベーカリー　（Leonard\u0027s Bakery）"
+      },
+      {
+        "description": "ホノルル西部のカリヒにある、ハワイの伝統食材・ウベ（紫山芋）を使ったオリジナルスイーツの専門店。ウベの上品な甘さを生かした味が、ローカルたちの間で評判になっています。人気メニューはチーズケーキカップやチーズケーキタルトなど。Tシャツなどオリジナルのロゴグッズも販売しています。",
+        "image": {
+          "alternateText": "チーズケーキカップ（手前）、チーズケーキタルト（奥左）、クリンクルクッキー（奥右）",
+          "height": 2480,
+          "sourceUrl": "https://a.mktgcdn.com/p/RMRc-0ae1rwMklNZduzuWx4q_C5ItSNhJhblloRbMC8/1654x2480.jpg",
+          "thumbnails": [
+            {
+              "height": 2480,
+              "url": "https://a.mktgcdn.com/p-sandbox/4QQNI86NRfwuTTtXu9ktjVB0YpaJwS09WIC9EwRo1uA/1654x2480.jpg",
+              "width": 1654
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/4QQNI86NRfwuTTtXu9ktjVB0YpaJwS09WIC9EwRo1uA/1267x1900.jpg",
+              "width": 1267
+            },
+            {
+              "height": 928,
+              "url": "https://a.mktgcdn.com/p-sandbox/4QQNI86NRfwuTTtXu9ktjVB0YpaJwS09WIC9EwRo1uA/619x928.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/4QQNI86NRfwuTTtXu9ktjVB0YpaJwS09WIC9EwRo1uA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/4QQNI86NRfwuTTtXu9ktjVB0YpaJwS09WIC9EwRo1uA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4QQNI86NRfwuTTtXu9ktjVB0YpaJwS09WIC9EwRo1uA/1654x2480.jpg",
+          "width": 1654
+        },
+        "imageCaption": "チーズケーキカップ（手前）、チーズケーキタルト（奥左）、クリンクルクッキー（奥右）",
+        "infoBlockLabel": "Ubae",
+        "infoBlockText": "住所：1284 Kalani St.営業時間：9～18時（日曜は～16時）定休日：なしURL：www.ubaehawaii.com",
+        "sectionLevel": "h2",
+        "sectionTitle": "ウバエ　（Ubae）"
+      },
+      {
+        "description": "マーケットでは1日500～800個売れる人気のスコーンや、種類豊富なできたてのデリが並ぶお店で、ワイキキ東部のモンサラットにあります。ビッグサイズのずっしりスコーンは食べごたえも満点。入口の右手にあるグリル窓口で注文する各種プレートランチも人気です。",
+        "image": {
+          "alternateText": "ブルーベリークリームチーズ（左）、マンダリンクランベリー（右）など",
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/BcINfJhCN6X5Jq3CqGl8rVSskYGFuwC_3IA02Mk9r64/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/BcINfJhCN6X5Jq3CqGl8rVSskYGFuwC_3IA02Mk9r64/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/BcINfJhCN6X5Jq3CqGl8rVSskYGFuwC_3IA02Mk9r64/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/BcINfJhCN6X5Jq3CqGl8rVSskYGFuwC_3IA02Mk9r64/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/BcINfJhCN6X5Jq3CqGl8rVSskYGFuwC_3IA02Mk9r64/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BcINfJhCN6X5Jq3CqGl8rVSskYGFuwC_3IA02Mk9r64/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ブルーベリークリームチーズ（左）、マンダリンクランベリー（右）など",
+        "infoBlockLabel": "Diamond Head Market \u0026 Grill",
+        "infoBlockText": "住所：3158 Monsarrat Ave.営業時間：グリルは月～金曜日11～20時、土・日曜10～20時マーケットは7時30分～20時30分定休日：なし",
+        "sectionLevel": "h2",
+        "sectionTitle": "ダイヤモンドヘッド・マーケット＆グリル　（Diamond Head Market \u0026 Grill）"
+      },
+      {
+        "imageCaption": "営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000001",
+      "news_ap_osarea_0000003",
+      "news_ap_osarea_0000004",
+      "news_ap_osarea_0000005",
+      "news_ap_osarea_0000006",
+      "news_ap_osarea_0000007",
+      "news_ap_osarea_0000008",
+      "news_ap_osarea_0000009",
+      "news_ap_osarea_0000010",
+      "news_ap_osarea_0000011",
+      "news_ap_osarea_0000012",
+      "news_ap_osarea_0000013",
+      "news_ap_osarea_0000014",
+      "news_ap_osarea_0000015",
+      "news_ap_osarea_0000016",
+      "news_ap_osarea_0000017",
+      "news_ap_osarea_0000018",
+      "news_ap_osarea_0000019"
+    ],
+    "c_news_FeaturedArticlesTitle": "ハワイのその他の投稿記事",
+    "c_news_PublicationDate": "2023-05-22",
+    "c_news_UpdateDate": "2024-11-12",
+    "c_news_ViewCount": "361",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "361",
+    "c_news_ViewCountNum": "361",
+    "c_news_ViewCountNumForSorting": "15",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/beach_resort/hawaii/news_ap_osarea_0000002",
+    "name": "ハワイのおすすめスイーツショップ7選！アサイーボウルからドーナツまで",
+    "slug": "kaigai/beach_resort/hawaii/news_ap_osarea_0000002",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

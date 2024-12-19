@@ -1,0 +1,410 @@
+{
+  "$id": "news_ap_chiki_100205",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 秋田県担当　鈴木 優子"
+    },
+    "c_ap_HeroImage": {
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/quzNPE7ll6YzfxglUzQFHVi4XuSlNi96cXTqz4Fed50/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/quzNPE7ll6YzfxglUzQFHVi4XuSlNi96cXTqz4Fed50/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/quzNPE7ll6YzfxglUzQFHVi4XuSlNi96cXTqz4Fed50/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/quzNPE7ll6YzfxglUzQFHVi4XuSlNi96cXTqz4Fed50/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/quzNPE7ll6YzfxglUzQFHVi4XuSlNi96cXTqz4Fed50/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/quzNPE7ll6YzfxglUzQFHVi4XuSlNi96cXTqz4Fed50/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "酸性に強いと言われる「青森ヒバ」を使用した木造の大浴場",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://www.jtb.co.jp/news/list/index.html?tag\u003d%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "秋田旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/akita/"
+      },
+      {
+        "linkText": "秋田県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/akita/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "十和田八幡平国立公園にある「新玉川温泉」は世界的にも珍しい塩酸を主成分とした温泉で、水の性質を示すpHは1.2。0～14で数値が小さいほど酸性が強い（中性はｐH7.0前後）ので、どれだけの強酸性なのかがわかります。湯治で人気の姉妹温泉「玉川温泉」と同じ「大噴（おおぶき）」から引く湯量は、一カ所からの湧出量が1分間に9000ℓと日本一。源泉100％や50％の弱酸性など14種類の浴槽で温泉が楽しめるので、温泉三昧の旅を満喫しましょう。温泉の効能を十分に享受するには連泊がおすすめです。",
+    "c_ap_Tags": [
+      "温泉",
+      "リゾート",
+      "新玉川温泉",
+      "露天風呂",
+      "岩盤浴",
+      "リモートコンシェルジュ",
+      "JTBの一押しホテル"
+    ],
+    "c_ap_Theme": [
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "世界でも珍しい塩酸を主成分とした強酸性の湯を14種類の浴槽や岩盤浴で楽しめる温泉リゾート【秋田県　新玉川温泉】",
+    "c_linkedArea3News": [
+      "akita"
+    ],
+    "c_metaDescription": "十和田八幡平国立公園にある「新玉川温泉」は世界的にも珍しい塩酸を主成分とした温泉で、水の性質を示すpHは1.2。0～14で数値が小さいほど酸性が強い（中性はｐH7.0前後）ので、どれだけの強酸性なのかがわかります。湯治で人気の姉妹温泉「玉川温泉」と同じ「大噴（おおぶき）」から引く湯量は、一カ所からの湧出量が1分間に9000ℓと日本一。源泉100％や50％の弱酸性など14種類の浴槽で温泉が楽しめるので、温泉三昧の旅を満喫しましょう。温泉の効能を十分に享受するには連泊がおすすめです。",
+    "c_metaTitle": "世界でも珍しい塩酸を主成分とした強酸性の湯を14種類の浴槽や岩盤浴で楽しめる温泉リゾート【秋田県　新玉川温泉】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "新玉川温泉を予約する",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/htl/2135002/plan/",
+        "linkType": "URL"
+      },
+      {
+        "label": "リモートでの旅行相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#consultants",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "JTB店舗・専門店への相談はこちら",
+        "link": "https://stores.jtb.co.jp/index.html",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "新緑や紅葉、冬木立など四季折々の見事な景観が広がる新玉川温泉は、田沢湖や抱き返り渓谷、八幡沼（八幡平頂上）など観光名所が車で約60分程度の距離にあるので、湯浴みの後に周辺観光に出かけてみるのもおすすめです。新玉川温泉までのアクセスは、JR田沢湖駅から路線バスで約70分、秋田空港からエアポートライナーで約160分。12月〜4月下旬は路線バスの利用のみとなります。",
+        "image": {
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/RYDQigNpFhDn25J2yYjhQEUKuHbUFiSxlDfSnPG_9qA/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/RYDQigNpFhDn25J2yYjhQEUKuHbUFiSxlDfSnPG_9qA/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/RYDQigNpFhDn25J2yYjhQEUKuHbUFiSxlDfSnPG_9qA/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/RYDQigNpFhDn25J2yYjhQEUKuHbUFiSxlDfSnPG_9qA/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/RYDQigNpFhDn25J2yYjhQEUKuHbUFiSxlDfSnPG_9qA/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RYDQigNpFhDn25J2yYjhQEUKuHbUFiSxlDfSnPG_9qA/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "山の中のロッジをイメージしたモダンな佇まいの新玉川温泉",
+        "sectionLevel": "h2",
+        "sectionTitle": "日ごろの疲れを多彩な浴槽と露天風呂、岩盤浴で癒やそう"
+      },
+      {
+        "description": "新玉川温泉の温泉施設は、大浴場・露天風呂・屋内岩盤浴、貸切浴場があります。大浴場には源泉100％のかけ湯や源泉50％のあつ湯・気泡湯をはじめ14種類の浴槽があり、その日の体調に合わせて入浴が楽しめます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/d8ac4lPvwb1pp84-IavQde_Gj_GVKKh5m2Rcoa95p-Y/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/d8ac4lPvwb1pp84-IavQde_Gj_GVKKh5m2Rcoa95p-Y/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/d8ac4lPvwb1pp84-IavQde_Gj_GVKKh5m2Rcoa95p-Y/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/d8ac4lPvwb1pp84-IavQde_Gj_GVKKh5m2Rcoa95p-Y/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/d8ac4lPvwb1pp84-IavQde_Gj_GVKKh5m2Rcoa95p-Y/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/d8ac4lPvwb1pp84-IavQde_Gj_GVKKh5m2Rcoa95p-Y/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "吹き出る気泡でマッサージ効果が期待できる、源泉50％の気泡湯",
+        "sectionLevel": "h2",
+        "sectionTitle": "趣が異なる多彩なツインルームとグループに最適な和室に泊まる"
+      },
+      {
+        "description": "蒸気浴槽を使って発汗作用を促し新陳代謝を活性化させる箱蒸し湯や座り湯、蒸気浴、打たせ湯、歩行湯、頭浸浴など、温泉に浸るだけでなく趣が異なるユニークな浴槽を体験できるので、ぜひ試してみたいですね。ピリピリした刺激が心地よい強酸性の泉質には、疲労改善や美肌の効果が期待されるそうです。",
+        "image": {
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/wjjNdIQIeFKKUgSw6IemJYTMBuyQZUl4qGDDPA__EaY/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/wjjNdIQIeFKKUgSw6IemJYTMBuyQZUl4qGDDPA__EaY/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/wjjNdIQIeFKKUgSw6IemJYTMBuyQZUl4qGDDPA__EaY/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/wjjNdIQIeFKKUgSw6IemJYTMBuyQZUl4qGDDPA__EaY/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/wjjNdIQIeFKKUgSw6IemJYTMBuyQZUl4qGDDPA__EaY/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wjjNdIQIeFKKUgSw6IemJYTMBuyQZUl4qGDDPA__EaY/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "温泉蒸気が充満した木箱の中に腰掛ける箱蒸し湯",
+        "sectionLevel": "h2",
+        "sectionTitle": "秋田の郷土料理と健康を意識した旬の味覚が並ぶブッフェ"
+      },
+      {
+        "description": "大浴場には源泉を30％にした露天風呂もあり、目の前に見える庭は季節により緑の木々や雪景色に変わり情緒豊かに湯に浸れます。また、宿泊者のみが利用できる貸切浴場（要予約）もあり、源泉100％の中浴場と源泉50％の中浴場・小浴場があります。気兼ねなく利用できるプライベート空間なので、夫婦や家族、グループでゆったりと温泉を楽しみましょう。",
+        "image": {
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/o9W7Kw-uKrLmBCmzLTU0i_3oajBv1iRudnDhCwKkFv4/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/o9W7Kw-uKrLmBCmzLTU0i_3oajBv1iRudnDhCwKkFv4/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/o9W7Kw-uKrLmBCmzLTU0i_3oajBv1iRudnDhCwKkFv4/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/o9W7Kw-uKrLmBCmzLTU0i_3oajBv1iRudnDhCwKkFv4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/o9W7Kw-uKrLmBCmzLTU0i_3oajBv1iRudnDhCwKkFv4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/o9W7Kw-uKrLmBCmzLTU0i_3oajBv1iRudnDhCwKkFv4/1200x799.jpg",
+          "width": 1200
+        },
+        "imageCaption": "夜の静寂に包まれた露天風呂でゆったり湯に浸る"
+      },
+      {
+        "description": "大浴場と同じフロアには男女別の屋内岩盤浴もあり、フロントで予約をすれば50分利用できます。岩盤は温泉施設で20年間使用した御影石で、床下に源泉を流しています。岩盤の温度は50℃～47℃程度に分かれているので、心地よく感じる温度の岩盤を選びましょう。作務衣のレンタルがあるので着衣したまま横たわれば、岩盤から発生する遠赤外線がからだを芯からじんわりと温めるので、熱いのが苦手な方でも気軽に利用できます。また、玉川温泉と同様に、自然研究路脇岩盤一帯の天然岩盤浴も体験できます。小屋や地熱のある岩盤にゴザを敷き、タオルケットをからだの上にかけて熱を逃さないようにすれば岩盤浴がスタート。低温火傷を防ぐためにからだの向きを変えながら、しっかり水分を補給しましょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/zlHeLrhFjwuzl4l8cYWGWEkERI7u-eXrZhuGRvCkdQg/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/zlHeLrhFjwuzl4l8cYWGWEkERI7u-eXrZhuGRvCkdQg/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/zlHeLrhFjwuzl4l8cYWGWEkERI7u-eXrZhuGRvCkdQg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/zlHeLrhFjwuzl4l8cYWGWEkERI7u-eXrZhuGRvCkdQg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/zlHeLrhFjwuzl4l8cYWGWEkERI7u-eXrZhuGRvCkdQg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zlHeLrhFjwuzl4l8cYWGWEkERI7u-eXrZhuGRvCkdQg/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "左右に温度が異なる岩盤が配置された屋内岩盤浴"
+      },
+      {
+        "description": "新玉川温泉の客室は、A館、B館、C館、D館の4つの宿泊棟に洋室129室、和室57室の全195室あります。夫婦やカップル用のツイン、家族などグループ旅にぴったりの和室などがありますが、ツインルームは室内のインテリアや雰囲気が異なる客室が6タイプも揃っています。たとえば、49m²のコンフォートツインルームはリビングと寝室が別にあるモダンな造りで、快適な空間でくつろぐことができます。木の温もりと畳が心地よい和室ツインルームは38㎡の1ルームタイプですが、ベッドや緑が映る窓辺のテーブル＆チェアなどインテリアがシンプルかつミニマルな空間なので、温泉を楽しんだ後にゆったりと過ごすことができそうです。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/3F1qXXJTAf8nwbd5_E3o1O7nBTuUdPytfrN028zoIuU/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/3F1qXXJTAf8nwbd5_E3o1O7nBTuUdPytfrN028zoIuU/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/3F1qXXJTAf8nwbd5_E3o1O7nBTuUdPytfrN028zoIuU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3F1qXXJTAf8nwbd5_E3o1O7nBTuUdPytfrN028zoIuU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/3F1qXXJTAf8nwbd5_E3o1O7nBTuUdPytfrN028zoIuU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3F1qXXJTAf8nwbd5_E3o1O7nBTuUdPytfrN028zoIuU/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ブナの森に包まれた、ゆったりスペースの和室ツイン"
+      },
+      {
+        "description": "また、家族やグループで利用したいのが1〜5名タイプと1〜4名タイプの和室です。どちらの和室にも景色を楽しみながらくつろげる広縁があり、畳の上にごろんと寝転んだり、語り合ったり、自由気ままに過ごせます。洋室を利用したい場合は、定員3名のトリプルルームもあります。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/MjvHQgVf06eS2dO93WDfjNWWjyUT7BgPpuG0xnSinok/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/MjvHQgVf06eS2dO93WDfjNWWjyUT7BgPpuG0xnSinok/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/MjvHQgVf06eS2dO93WDfjNWWjyUT7BgPpuG0xnSinok/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/MjvHQgVf06eS2dO93WDfjNWWjyUT7BgPpuG0xnSinok/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/MjvHQgVf06eS2dO93WDfjNWWjyUT7BgPpuG0xnSinok/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MjvHQgVf06eS2dO93WDfjNWWjyUT7BgPpuG0xnSinok/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "1〜5名まで宿泊できる10畳サイズの和室"
+      },
+      {
+        "description": "新玉川温泉の食事は、朝・夕ともにブッフェスタイル。健康と美容、栄養バランスを考えながら、メイン料理の半数以上が日替わりメニューとして登場するのが魅力です。食事会場となる「旬彩ダイニング～ぶなの四季～」は、シェフが目の前で調理するオープンキッチンもあり食欲を掻き立てます。夕食はきりたんぽ鍋、比内地鶏鉄板焼き、いぶりがっこなど、秋田の郷土料理が人気で、料理に合う地酒も用意されています。また、ブッフェに加えて、秋田錦牛や比内地鶏燻製をネタにしたにぎり寿司5貫盛り合わせ、秋田牛サーロインと季節野菜の陶板焼きなどが味わえる宿泊プランもあります。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/X_wyjmrHcXwmsULteykdp1khDEJqmGanmmJZ4_hNyHg/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/X_wyjmrHcXwmsULteykdp1khDEJqmGanmmJZ4_hNyHg/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/X_wyjmrHcXwmsULteykdp1khDEJqmGanmmJZ4_hNyHg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/X_wyjmrHcXwmsULteykdp1khDEJqmGanmmJZ4_hNyHg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/X_wyjmrHcXwmsULteykdp1khDEJqmGanmmJZ4_hNyHg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/X_wyjmrHcXwmsULteykdp1khDEJqmGanmmJZ4_hNyHg/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "日替わりメニューが数多く登場する夕食のブッフェ"
+      },
+      {
+        "description": "朝食のブッフェは、「あきたこまち」の炊きたてご飯や多彩な和洋の惣菜、ヘルシーな野菜やヨーグルトなど、からだにやさしいメニューが充実しています。食後は部屋で少しゆっくりして、温泉や岩盤浴、貸切浴場などを存分に楽しんだり、周辺観光へ出かけたりして秋田の自然を満喫しましょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Zru3rKRaB3Ir6AQMtcPsruu_x59HjF2e_wY-UudrfHY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Zru3rKRaB3Ir6AQMtcPsruu_x59HjF2e_wY-UudrfHY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Zru3rKRaB3Ir6AQMtcPsruu_x59HjF2e_wY-UudrfHY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Zru3rKRaB3Ir6AQMtcPsruu_x59HjF2e_wY-UudrfHY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Zru3rKRaB3Ir6AQMtcPsruu_x59HjF2e_wY-UudrfHY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Zru3rKRaB3Ir6AQMtcPsruu_x59HjF2e_wY-UudrfHY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "朝を心地よく目覚めさせてくれる朝食ブッフェ"
+      }
+    ],
+    "c_news_PublicationDate": "2024-07-09",
+    "c_news_UpdateDate": "2024-07-09",
+    "c_news_ViewCount": "393",
+    "c_news_ViewCount2of2": "393",
+    "c_news_ViewCountNum": "393",
+    "c_news_ViewCountNumForSorting": "23",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/tohoku/akita/news_ap_chiki_100205",
+    "name": "世界でも珍しい塩酸を主成分とした強酸性の湯を14種類の浴槽や岩盤浴で楽しめる温泉リゾート【秋田県　新玉川温泉】",
+    "slug": "kokunai/tohoku/akita/news_ap_chiki_100205",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "仕入記事"
+  ]
+}

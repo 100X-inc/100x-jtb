@@ -1,0 +1,357 @@
+{
+  "$id": "ap_area_0000011",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ トラベルコンサルタント 新田 笑子",
+      "link": "https://consultants.jtb.co.jp/cp_e_shinden034",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿者にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVq9",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "旅のスタートは、福岡市民のオアシス「大濠公園」から。福岡城の外堀を利用して造られた広大な池があり、水と緑の織りなす美しい風景が心を癒してくれます。池を囲む約2㎞の遊歩道をのんびり散策したり、ボートに乗って水上散歩したりするのが定番の楽しみ方。園内にはカフェやレストラン、日本庭園などもあり、のんびり過ごせます。",
+        "image": {
+          "height": 2333,
+          "sourceUrl": "https://a.mktgcdn.com/p/FP2GT5cgdFOKxpGmYGrZsGE4iJd5vThyPR54MwdTMtI/3500x2333.jpg",
+          "thumbnails": [
+            {
+              "height": 2333,
+              "url": "https://a.mktgcdn.com/p-sandbox/FP2GT5cgdFOKxpGmYGrZsGE4iJd5vThyPR54MwdTMtI/3500x2333.jpg",
+              "width": 3500
+            },
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/FP2GT5cgdFOKxpGmYGrZsGE4iJd5vThyPR54MwdTMtI/1900x1266.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/FP2GT5cgdFOKxpGmYGrZsGE4iJd5vThyPR54MwdTMtI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/FP2GT5cgdFOKxpGmYGrZsGE4iJd5vThyPR54MwdTMtI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/FP2GT5cgdFOKxpGmYGrZsGE4iJd5vThyPR54MwdTMtI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FP2GT5cgdFOKxpGmYGrZsGE4iJd5vThyPR54MwdTMtI/3500x2333.jpg",
+          "width": 3500
+        },
+        "imageCaption": "都会の真ん中にあるとは思えない光景が広がる「大濠公園」",
+        "sectionTitle": "「大濠公園」で豊かな自然にふれる（1日目　10：00）"
+      },
+      {
+        "description": "お昼は本場の博多ラーメンを食べにいきましょう。「博多らーめん shin-shin 天神本店」は、地元の人から愛される人気店。細めのストレート麺が濃厚でコク深いスープと絡み合い、“これぞ博多ラーメン”と唸る一杯。麺の硬さや替え玉、トッピングなど、博多ラーメンならではの楽しみ方も魅力です。",
+        "image": {
+          "height": 772,
+          "sourceUrl": "https://a.mktgcdn.com/p/pA_d-OiCk_WgAuN_IJ8ZLMIw4eHk-UGabmENlEZex-A/965x772.jpg",
+          "thumbnails": [
+            {
+              "height": 772,
+              "url": "https://a.mktgcdn.com/p-sandbox/pA_d-OiCk_WgAuN_IJ8ZLMIw4eHk-UGabmENlEZex-A/965x772.jpg",
+              "width": 965
+            },
+            {
+              "height": 495,
+              "url": "https://a.mktgcdn.com/p-sandbox/pA_d-OiCk_WgAuN_IJ8ZLMIw4eHk-UGabmENlEZex-A/619x495.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/pA_d-OiCk_WgAuN_IJ8ZLMIw4eHk-UGabmENlEZex-A/563x450.jpg",
+              "width": 563
+            },
+            {
+              "height": 157,
+              "url": "https://a.mktgcdn.com/p-sandbox/pA_d-OiCk_WgAuN_IJ8ZLMIw4eHk-UGabmENlEZex-A/196x157.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/pA_d-OiCk_WgAuN_IJ8ZLMIw4eHk-UGabmENlEZex-A/965x772.jpg",
+          "width": 965
+        },
+        "imageCaption": "福岡でのランチは絶品ラーメンに舌鼓",
+        "sectionTitle": "「博多らーめん shin-shin 天神本店」で本場の博多ラーメンを味わう（1日目　13：00）"
+      },
+      {
+        "description": "ハイセンスなカフェやショップが立ち並ぶ「糸島」は、人気急上昇中のリゾートエリア。天使の羽の壁画やヤシの木ブランコ、自販機を模したオブジェ「＃ジハングン」など、フォトジェニックなスポットでも知られ、SNS映えする写真がたくさん撮影できますよ。1日目は糸島で一泊。オーシャンビューの宿泊施設に泊まれば、部屋にいながら雄大な景色を楽しめます。",
+        "image": {
+          "height": 2333,
+          "sourceUrl": "https://a.mktgcdn.com/p/Un7qbEaM5Y-zo6gZLJIhyDtxbTSGnhP6pM2GxjGAf5Q/3500x2333.jpg",
+          "thumbnails": [
+            {
+              "height": 2333,
+              "url": "https://a.mktgcdn.com/p-sandbox/Un7qbEaM5Y-zo6gZLJIhyDtxbTSGnhP6pM2GxjGAf5Q/3500x2333.jpg",
+              "width": 3500
+            },
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/Un7qbEaM5Y-zo6gZLJIhyDtxbTSGnhP6pM2GxjGAf5Q/1900x1266.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Un7qbEaM5Y-zo6gZLJIhyDtxbTSGnhP6pM2GxjGAf5Q/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Un7qbEaM5Y-zo6gZLJIhyDtxbTSGnhP6pM2GxjGAf5Q/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Un7qbEaM5Y-zo6gZLJIhyDtxbTSGnhP6pM2GxjGAf5Q/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Un7qbEaM5Y-zo6gZLJIhyDtxbTSGnhP6pM2GxjGAf5Q/3500x2333.jpg",
+          "width": 3500
+        },
+        "imageCaption": "「＃ジハングン」は個性的な一枚が撮影できます",
+        "sectionTitle": "「糸島」でフォトジェニックスポットめぐり（1日目　15：00）"
+      },
+      {
+        "description": "宿をチェックアウトしたら、まずは福岡（天神）駅へ向かい、2日目のメインスポットである「太宰府天満宮」へ、食事も楽しめる「THE RAIL KITCHEN CHIKUGO（ザ レールキッチン チクゴ）」に乗っていきましょう。地元食材を使ったメニューと車窓の景色を同時に堪能できるレストラン列車です。太宰府駅に到着するまで、約40分間の列車旅を楽しんでみませんか？※運行内容は変更される可能性があります。最新情報は「THE RAIL KITCHEN CHIKUGO」ホームページをご確認ください。",
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://a.mktgcdn.com/p/fpO6iQKrjDwccRKZhPGLs5KdWuyNGE9q10oPMOenSKo/720x480.jpg",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/5RWrUr_LBUc9-1sq5uhH76LWbrLILDSwcydOd4WFMws/720x480.jpg",
+              "width": 720
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/5RWrUr_LBUc9-1sq5uhH76LWbrLILDSwcydOd4WFMws/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/5RWrUr_LBUc9-1sq5uhH76LWbrLILDSwcydOd4WFMws/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/5RWrUr_LBUc9-1sq5uhH76LWbrLILDSwcydOd4WFMws/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5RWrUr_LBUc9-1sq5uhH76LWbrLILDSwcydOd4WFMws/720x480.jpg",
+          "width": 720
+        },
+        "imageCaption": "金・土・日曜、祝日を中心に運行※2022年5月現在",
+        "sectionTitle": "「THE RAIL KITCHEN CHIKUGO」で太宰府へ（2日目　9：30）"
+      },
+      {
+        "description": "昌泰4年(901) に京都から左遷され、亡くなるまでの約2年間を大宰府で過ごした菅原道真公。“学問の神様”と名高い菅原道真公を祀る「太宰府天満宮」は、学業上達や厄除けなどのご利益で知られています。お参りを終えたら、参道をぶらぶらと散策。太宰府名物「梅ヶ枝餅」を食べたり、太宰府にちなんだ縁起物を探したり。グルメやショッピングを楽しみましょう。",
+        "image": {
+          "height": 2666,
+          "sourceUrl": "https://a.mktgcdn.com/p/5W496HF__Q1X32L_sLnAL7WcmedkkDbNhlCT3rCbmvM/4000x2666.jpg",
+          "thumbnails": [
+            {
+              "height": 2666,
+              "url": "https://a.mktgcdn.com/p-sandbox/5W496HF__Q1X32L_sLnAL7WcmedkkDbNhlCT3rCbmvM/4000x2666.jpg",
+              "width": 4000
+            },
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/5W496HF__Q1X32L_sLnAL7WcmedkkDbNhlCT3rCbmvM/1900x1266.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/5W496HF__Q1X32L_sLnAL7WcmedkkDbNhlCT3rCbmvM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/5W496HF__Q1X32L_sLnAL7WcmedkkDbNhlCT3rCbmvM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/5W496HF__Q1X32L_sLnAL7WcmedkkDbNhlCT3rCbmvM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5W496HF__Q1X32L_sLnAL7WcmedkkDbNhlCT3rCbmvM/4000x2666.jpg",
+          "width": 4000
+        },
+        "imageCaption": "現在も多くの受験生が参拝に訪れます",
+        "sectionTitle": "「太宰府天満宮」で参拝し、参道を散策（2日目　11：00）"
+      },
+      {
+        "description": "福岡の玄関口・博多駅の「JR博多シティ」は日本最大級の規模を誇る駅ビルで、福岡名物や人気のおみやげを買うのにもってこい。とくに筑紫口の「博多デイトス」1階「みやげもん市場」はグルメが充実しています。お世話になっている人への贈り物に、自分へのごほうびに、銘菓や地酒、明太子などの福岡みやげを購入したいですね。",
+        "image": {
+          "height": 1721,
+          "sourceUrl": "https://a.mktgcdn.com/p/za88GI0HkAFD5UQHdgE6Ybefb-NzpTCrfkd3drpbmTo/2301x1721.jpg",
+          "thumbnails": [
+            {
+              "height": 1721,
+              "url": "https://a.mktgcdn.com/p-sandbox/v2FEvWIeKD9brMp4yMs-g_WjmFixBh20jRGiUp4m6XU/2301x1721.jpg",
+              "width": 2301
+            },
+            {
+              "height": 1421,
+              "url": "https://a.mktgcdn.com/p-sandbox/v2FEvWIeKD9brMp4yMs-g_WjmFixBh20jRGiUp4m6XU/1900x1421.jpg",
+              "width": 1900
+            },
+            {
+              "height": 463,
+              "url": "https://a.mktgcdn.com/p-sandbox/v2FEvWIeKD9brMp4yMs-g_WjmFixBh20jRGiUp4m6XU/619x463.jpg",
+              "width": 619
+            },
+            {
+              "height": 449,
+              "url": "https://a.mktgcdn.com/p-sandbox/v2FEvWIeKD9brMp4yMs-g_WjmFixBh20jRGiUp4m6XU/600x449.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/v2FEvWIeKD9brMp4yMs-g_WjmFixBh20jRGiUp4m6XU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/v2FEvWIeKD9brMp4yMs-g_WjmFixBh20jRGiUp4m6XU/2301x1721.jpg",
+          "width": 2301
+        },
+        "imageCaption": "巨大な駅ビル「JR博多シティ」のなかに商業施設が集結しています",
+        "sectionTitle": "「JR博多シティ」でおみやげをゲット（2日目　14：00）"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-06-15",
+    "c_ap_HeroImage": {
+      "alternateText": "最高の福岡旅を！美景とグルメを満喫する定番一泊二日モデルコース【福岡県　福岡タウン～太宰府】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 2333,
+      "sourceUrl": "https://a.mktgcdn.com/p/MfU7vmUgSZWsCxEH71mx1MljYUqbn-Vi2s4WLUQqL4k/3500x2333.jpg",
+      "thumbnails": [
+        {
+          "height": 2333,
+          "url": "https://a.mktgcdn.com/p-sandbox/MfU7vmUgSZWsCxEH71mx1MljYUqbn-Vi2s4WLUQqL4k/3500x2333.jpg",
+          "width": 3500
+        },
+        {
+          "height": 1266,
+          "url": "https://a.mktgcdn.com/p-sandbox/MfU7vmUgSZWsCxEH71mx1MljYUqbn-Vi2s4WLUQqL4k/1900x1266.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/MfU7vmUgSZWsCxEH71mx1MljYUqbn-Vi2s4WLUQqL4k/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/MfU7vmUgSZWsCxEH71mx1MljYUqbn-Vi2s4WLUQqL4k/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/MfU7vmUgSZWsCxEH71mx1MljYUqbn-Vi2s4WLUQqL4k/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/MfU7vmUgSZWsCxEH71mx1MljYUqbn-Vi2s4WLUQqL4k/3500x2333.jpg",
+      "width": 3500
+    },
+    "c_ap_LinkArticleSectionTitle": "福岡県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "福岡市街のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/400101/"
+      },
+      {
+        "linkText": "福岡旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/fukuoka/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea6": [
+      "九州全般",
+      "福岡県"
+    ],
+    "c_ap_ShortDescription": "全国約1万2000社ある天満宮の総本山「太宰府天満宮」は、福岡定番の観光スポット。ここをメインに、水辺の景観が美しい「大濠公園」やSNS映えスポットで人気の「糸島」、観光列車「THE RAIL KITCHEN CHIKUGO」を楽しめるモデルコースをご紹介します。もちろん、福岡のご当地グルメも要チェック！",
+    "c_ap_Tags": [
+      "写真映え",
+      "モデルプラン",
+      "大宰府",
+      "糸島"
+    ],
+    "c_ap_Theme": [
+      "自然・山",
+      "寺社・教会",
+      "動植物園・公園",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "最高の福岡旅を！美景とグルメを満喫する定番一泊二日モデルコース【福岡県　福岡タウン～太宰府】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "全国約1万2000社ある天満宮の総本山「太宰府天満宮」は、福岡定番の観光スポット。ここをメインに、水辺の景観が美しい「大濠公園」やSNS映えスポットで人気の「糸島」、観光列車「THE RAIL KITCHEN…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "最高の福岡旅を！美景とグルメを満喫する定番一泊二日モデルコース【福岡県　福岡タウン～太宰府】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_area_0000011",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "九州全般, 福岡県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：九州全般, 福岡県",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：九州全般, 福岡県",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "【福岡県　福岡タウン～太宰府】 最高の福岡旅を！美景とグルメを満喫する定番一泊二日モデルコース",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

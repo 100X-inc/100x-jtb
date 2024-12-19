@@ -1,0 +1,519 @@
+{
+  "$id": "news_ap_y_ishihara225_033",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 石原　優子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "こんぴら温泉郷（こんぴらおんせんきょう）",
+      "height": 800,
+      "sourceUrl": "http://a.mktgcdn.com/p/2GUfYFHb6Z-KLFIJFSo9n0ru8pCrr-1Bpk0F6M7CQf8/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "//a.mktgcdn.com/p-sandbox/2GUfYFHb6Z-KLFIJFSo9n0ru8pCrr-1Bpk0F6M7CQf8/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/2GUfYFHb6Z-KLFIJFSo9n0ru8pCrr-1Bpk0F6M7CQf8/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/2GUfYFHb6Z-KLFIJFSo9n0ru8pCrr-1Bpk0F6M7CQf8/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/2GUfYFHb6Z-KLFIJFSo9n0ru8pCrr-1Bpk0F6M7CQf8/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/2GUfYFHb6Z-KLFIJFSo9n0ru8pCrr-1Bpk0F6M7CQf8/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "こんぴら温泉郷（こんぴらおんせんきょう）",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "香川県のホテル・旅館・宿をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/kagawa/"
+      },
+      {
+        "linkText": "香川県の『温泉宿』をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/kagawa/feature/k_onsen/"
+      },
+      {
+        "linkText": "香川旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/kagawa/"
+      },
+      {
+        "linkText": "温泉旅行におすすめの温泉宿・旅館・ホテル",
+        "uRL": "https://www.jtb.co.jp/onsen/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "香川県うどん県として知られ、誰もが絶賛する讃岐うどんが有名な香川県では、瀬戸内海の新鮮な魚料理や骨付き鳥なども人気のグルメです。古くから海の神様として絶大な信仰を集める金刀比羅宮や日本最大級の広さを誇る栗林公園、瀬戸大橋記念公園といったロケーションのよい場所が非常に多いです。温泉では、行基ゆかりの温泉地である塩江温泉や瀬戸内海に浮かぶ小豆島の小豆島温泉が有名です。今回はそんな香川県の人気温泉地10選を紹介します。",
+    "c_ap_Tags": [
+      "四国エリア",
+      "香川県",
+      "温泉",
+      "温泉地まとめ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "温泉・立ち寄り湯"
+    ],
+    "c_ap_Title": "香川県の人気温泉地 おすすめ10選",
+    "c_linkedArea3News": [
+      "kagawa"
+    ],
+    "c_metaDescription": "香川県の有名温泉地10選をご紹介！日帰りでも楽しめる温泉や、旅館でゆっくり過ごせる人気の温泉地、露天風呂からの景色が魅力の穴場温泉などもピックアップ！温泉街で散策を楽しむのもおすすめです。",
+    "c_metaTitle": "香川県の人気温泉地 おすすめ10選｜JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "香川県のホテル・旅館をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/kagawa/",
+        "linkType": "URL"
+      },
+      {
+        "label": "香川県のツアー・パックをみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/kagawa/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "あじ温泉 庵治観光ホテル海のやどりをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/7409001/plan/",
+          "linkType": "URL"
+        },
+        "description": "瀬戸内海に面した一軒宿の温泉四国・高松市にある庵治[あじ]半島の先端、多島美を満喫できる瀬戸内海に面した地に湧く温泉。映画『世界の中心で愛をさけぶ』のロケ地にもなった風光明媚なところにある。宿は｢あじ温泉 庵治観光ホテル 海のやどり｣が一軒のみ。大浴場の｢源氏の湯｣、｢平家の湯｣は、男女昼夜入替えなので、宿泊すれば両方に入浴できる。朝夕で表情を変える瀬戸の島影を見ながら、入浴を満喫したい。日帰り入浴も受付けている(営業時間等は要確認)。",
+        "image": {
+          "alternateText": "あじ温泉（あじおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/aaI3RcnJvQUKz6wdXRg-7L5VAHRILq1UytzF6JeZF1Q/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/aaI3RcnJvQUKz6wdXRg-7L5VAHRILq1UytzF6JeZF1Q/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/aaI3RcnJvQUKz6wdXRg-7L5VAHRILq1UytzF6JeZF1Q/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/aaI3RcnJvQUKz6wdXRg-7L5VAHRILq1UytzF6JeZF1Q/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/aaI3RcnJvQUKz6wdXRg-7L5VAHRILq1UytzF6JeZF1Q/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aaI3RcnJvQUKz6wdXRg-7L5VAHRILq1UytzF6JeZF1Q/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "あじ温泉（あじおんせん）",
+        "infoBlockLabel": "あじ温泉の情報",
+        "infoBlockText": "所在地：香川県高松市庵治町江の浜泉温：18.2℃源泉：1湯量：27リットル／分飲用：不可泉質：単純弱放射能冷鉱泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、痛風、打ち身、慢性消化器病、高血圧、動脈硬化症、慢性皮ふ病、痔疾、慢性婦人病、美肌など宿泊施設：1アクセス：（公共交通機関）ＪＲ高松駅からことでんバス庵治線で45分、バス停：終点下車（車）高松道高松中央ICから国道11号経由18.5km",
+        "sectionTitle": "あじ温泉"
+      },
+      {
+        "cTA1": {
+          "label": "湯元さぬき瀬戸大橋温泉 せとうちそうをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/7412A10/plan/",
+          "linkType": "URL"
+        },
+        "description": "心も体もリラックスさせる美肌効果のある療養泉常盤公園近くにあり、瀬戸大橋が間近に見える湯元さぬき瀬戸大橋温泉の｢せとうちそう」に湧出する。展望風呂や露天風呂で、美肌効果の高いアルカリ性のナトリウム、塩化物・炭酸水素塩泉の温泉を楽しめるほか、サウナや露天水風呂も完備。花風呂や檜風呂など、貸切風呂も充実している。料理は鯛のしゃぶしゃぶや伊勢エビなど、瀬戸内の海の幸を使用した会席料理が食膳にのぼる。",
+        "image": {
+          "alternateText": "湯元さぬき瀬戸大橋温泉（ゆもとさぬきせとおおはしおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/zzBpUOvniDSFYrCeeBmRESyyf0Kkpucx4Un2lt76GnE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/zzBpUOvniDSFYrCeeBmRESyyf0Kkpucx4Un2lt76GnE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/zzBpUOvniDSFYrCeeBmRESyyf0Kkpucx4Un2lt76GnE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/zzBpUOvniDSFYrCeeBmRESyyf0Kkpucx4Un2lt76GnE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/zzBpUOvniDSFYrCeeBmRESyyf0Kkpucx4Un2lt76GnE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zzBpUOvniDSFYrCeeBmRESyyf0Kkpucx4Un2lt76GnE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "湯元さぬき瀬戸大橋温泉（ゆもとさぬきせとおおはしおんせん）",
+        "infoBlockLabel": "湯元さぬき瀬戸大橋温泉の情報",
+        "infoBlockText": "所在地：香川県坂出市常盤町泉温：35℃源泉：1湯量：25リットル／分飲用：不可泉質：ナトリウム-塩化物・炭酸水素塩泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、打ち身、慢性消化器病、切り傷、やけど、慢性皮ふ病、痔疾、慢性婦人病、美肌など宿泊施設：1アクセス：（公共交通機関）ＪＲ坂出駅から坂出市営バス東山魁夷美術館行きで7分、バス停：坂工前下車、徒歩8分（車）瀬戸中央道坂出北ICから0.7km",
+        "sectionTitle": "湯元さぬき瀬戸大橋温泉"
+      },
+      {
+        "cTA1": {
+          "label": "ホテル レオマの森をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/7500002/plan/",
+          "linkType": "URL"
+        },
+        "description": "テーマパーク・宿泊・食事・温泉のリゾート施設中四国最大のテーマパーク「レオマリゾート」のオフィシャルホテル「ホテル レオマの森」内にある温泉。3～5階がスパゾーン(宿泊者無料)となっており、男女と屋内温水プールでは、も高～低温浴槽や、雄大な森に囲まれた小鳥さえずる森の露天風呂など、豊富な浴槽が揃う。ファミリーやカップルで楽しめる水着着用の屋内温水プールには、ジャグジーやカラーバスもあり(土・日曜、祝日、特定日のみ)、日帰り入浴のみの利用も受け付けている(営業時間等は公式サイトにて要確認)。日帰りランチバイキングとのセットや隣接のレオマ花ワールド(入場料別途)の春秋のバラや初夏のあじさいもおすすめ。",
+        "image": {
+          "alternateText": "天然温泉森の湯（てんねんおんせんもりのゆ）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/G2IW4rkfgzi_Qf0gSsKl9yD7vUq2KOkJ-f1IoY4V8ec/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/G2IW4rkfgzi_Qf0gSsKl9yD7vUq2KOkJ-f1IoY4V8ec/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/G2IW4rkfgzi_Qf0gSsKl9yD7vUq2KOkJ-f1IoY4V8ec/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/G2IW4rkfgzi_Qf0gSsKl9yD7vUq2KOkJ-f1IoY4V8ec/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/G2IW4rkfgzi_Qf0gSsKl9yD7vUq2KOkJ-f1IoY4V8ec/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/G2IW4rkfgzi_Qf0gSsKl9yD7vUq2KOkJ-f1IoY4V8ec/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "天然温泉森の湯（てんねんおんせんもりのゆ）",
+        "infoBlockLabel": "天然温泉森の湯の情報",
+        "infoBlockText": "所在地：香川県丸亀市綾歌町栗熊西泉温：17.8℃源泉：1湯量：80リットル／分飲用：不可泉質：単純弱放射能冷鉱泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、打ち身、動脈硬化症、慢性消化器病、痔疾、高血圧症など宿泊施設：1アクセス：（公共交通機関）ことでん岡田駅から車で5分（車）高松道坂出ICから国道438号経由15km",
+        "sectionTitle": "天然温泉森の湯"
+      },
+      {
+        "cTA1": {
+          "label": "クアパーク津田をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/7410401/bath/",
+          "linkType": "URL"
+        },
+        "description": "結願のお遍路さんも訪れるやすらぎの湯四国霊場結願寺の第88番札所・大窪寺[おおくぼじ]門前に湧く温泉。宿は広大な敷地に日本庭園が配された和風旅館の「野田屋 竹屋敷」が1軒あるのみ。温泉は庭園を見ながら入浴できる窓を広くとった大浴場で楽しめる。湯口には薬師如来像が祀られ、まさに霊泉の趣き。肌にやさしいアルカリ性の炭酸水素塩泉がたたえられる。宿泊以外に食事付きの入浴休憩も受付けている(営業時間等は要問合せ)。春の山菜採り、夏のホタル狩り、秋は紅葉と、四季折々の自然にふれあえて楽しみも多い。",
+        "image": {
+          "alternateText": "薬師湯温泉（やくしゆおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/m5MaYx-QrZgqmrwk4VIJCFI1tYyWRsMg5Vy8z-gquwM/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/m5MaYx-QrZgqmrwk4VIJCFI1tYyWRsMg5Vy8z-gquwM/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/m5MaYx-QrZgqmrwk4VIJCFI1tYyWRsMg5Vy8z-gquwM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/m5MaYx-QrZgqmrwk4VIJCFI1tYyWRsMg5Vy8z-gquwM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/m5MaYx-QrZgqmrwk4VIJCFI1tYyWRsMg5Vy8z-gquwM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/m5MaYx-QrZgqmrwk4VIJCFI1tYyWRsMg5Vy8z-gquwM/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "薬師湯温泉（やくしゆおんせん）",
+        "infoBlockLabel": "薬師湯温泉の情報",
+        "infoBlockText": "所在地：香川県さぬき市多和泉温：16.7℃源泉：3湯量：60リットル／分飲用：不可泉質：ナトリウム-炭酸水素塩冷鉱泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、運動麻痺、冷え性、五十肩、慢性消化器病など宿泊施設：1アクセス：（公共交通機関）ＪＲ志度駅からさぬき市コミュニティバス大窪寺行きで1時間、バス停：竹屋敷下車（車）高松東道路志度ICから県道3号、国道377号経由20km",
+        "sectionTitle": "薬師湯温泉"
+      },
+      {
+        "cTA1": {
+          "label": "ベイリゾートホテル小豆島をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/7403005/plan/",
+          "linkType": "URL"
+        },
+        "description": "タラソテラピーを取り入れた温泉リゾート瀬戸内海に面する名勝・津田の松原に湧出する温泉。タラソテラピー(海洋療法)を取り入れた入浴施設の「クアタラソ さぬき津田」で楽しむことができる。男女別浴室のほか、気泡浴、寝湯、打たせ湯、遠赤サウナ、ミストサウナ、海水露天風呂、プールなどがあるバーデゾーンは、水着着用で利用できるので、家族連れにも好評だ。宿泊は隣接する全室オーシャンビューの「クアパーク津田」で可能だ。",
+        "image": {
+          "alternateText": "津田温泉（つだおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/o6PkPT9xo6hcZq8DOY_VkhMcbkVW_tbncKCNvTndlzA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/o6PkPT9xo6hcZq8DOY_VkhMcbkVW_tbncKCNvTndlzA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/o6PkPT9xo6hcZq8DOY_VkhMcbkVW_tbncKCNvTndlzA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/o6PkPT9xo6hcZq8DOY_VkhMcbkVW_tbncKCNvTndlzA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/o6PkPT9xo6hcZq8DOY_VkhMcbkVW_tbncKCNvTndlzA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/o6PkPT9xo6hcZq8DOY_VkhMcbkVW_tbncKCNvTndlzA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "津田温泉（つだおんせん）",
+        "infoBlockLabel": "津田温泉の情報",
+        "infoBlockText": "所在地：香川県さぬき市津田町泉温：19.2℃源泉：1湯量：20リットル／分飲用：不可泉質：カルシウム・マグネシウム・ナトリウム-塩化物泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、打ち身、皮ふ病、呼吸器疾患、婦人病など宿泊施設：1アクセス：（公共交通機関）ＪＲ讃岐津田駅から車で3分（車）高松道津田東ICから国道11号経由3km",
+        "sectionTitle": "津田温泉"
+      },
+      {
+        "cTA1": {
+          "label": "夕凪の湯 HOTEL花樹海をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/7406037/plan/",
+          "linkType": "URL"
+        },
+        "description": "小豆島の岬に立つリゾートホテルに湧く自家源泉内海湾に突き出た小さい岬に立つ「ベイリゾートホテル小豆島」に湧く湯。瀬戸の海を見渡す露天風呂やサウナ付きの展望大浴場、貸切個室露天風呂(要予約・有料)で、地下1600mから汲み上げた温泉に入浴できる。鉄分と塩分を多く含む温泉は、保温効果も高く、体がよく温まると評判が高い。すべての客室から穏やかな内海湾を眺めることができる眺望のいいホテルだ。夕食には瀬戸内の海の幸も食膳にのぼる。",
+        "image": {
+          "alternateText": "湯元オリーブ温泉（ゆもとおりーぶおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/g0t4SpVgRmDQeiGud4skzGgN-m8Y26vS5Vy2aG2_8Pg/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/g0t4SpVgRmDQeiGud4skzGgN-m8Y26vS5Vy2aG2_8Pg/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/g0t4SpVgRmDQeiGud4skzGgN-m8Y26vS5Vy2aG2_8Pg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/g0t4SpVgRmDQeiGud4skzGgN-m8Y26vS5Vy2aG2_8Pg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/g0t4SpVgRmDQeiGud4skzGgN-m8Y26vS5Vy2aG2_8Pg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/g0t4SpVgRmDQeiGud4skzGgN-m8Y26vS5Vy2aG2_8Pg/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "湯元オリーブ温泉（ゆもとおりーぶおんせん）",
+        "infoBlockLabel": "湯元オリーブ温泉の情報",
+        "infoBlockText": "所在地：香川県小豆郡小豆島町古江泉温：22.8℃源泉：1湯量：1500リットル／分飲用：不可泉質：含鉄・二酸化炭素-ナトリウム-塩化物泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、打ち身、慢性消化器病、切り傷、やけど、慢性皮ふ病、痔疾、慢性婦人病など宿泊施設：1アクセス：（公共交通機関）小豆島福田港から車で30分（車）香川県小豆島坂手港から県道28号経由2km",
+        "sectionTitle": "湯元オリーブ温泉"
+      },
+      {
+        "cTA1": {
+          "label": "こんぴら温泉郷の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/370401/feature/k_onsen/",
+          "linkType": "OTHER"
+        },
+        "description": "瀬戸内海や高松市街を眺め温泉を満喫栗林公園に程近い、近代的な和風旅館の「夕凪の湯　ホテル花樹海」が一軒宿。温泉の泉質はナトリウム-炭酸水素塩泉。角質化した肌に潤いを与え、入浴後に肌がスベスベになる。美肌効果が高いことから美人の湯とも言われ、女性客に好評を得ている。大浴場温泉からは、高松市街と瀬戸内海を一望するパノラマ展望を満喫。天然温泉を引いた客室も備わっている。",
+        "image": {
+          "alternateText": "花樹海温泉（はなじゅかいおんせん）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/0HTxsRBX3fYieV86nm5m-kttcbYV6CKdjUI_HPkwYpo/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/0HTxsRBX3fYieV86nm5m-kttcbYV6CKdjUI_HPkwYpo/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/0HTxsRBX3fYieV86nm5m-kttcbYV6CKdjUI_HPkwYpo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/0HTxsRBX3fYieV86nm5m-kttcbYV6CKdjUI_HPkwYpo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/0HTxsRBX3fYieV86nm5m-kttcbYV6CKdjUI_HPkwYpo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0HTxsRBX3fYieV86nm5m-kttcbYV6CKdjUI_HPkwYpo/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "花樹海温泉（はなじゅかいおんせん）",
+        "infoBlockLabel": "花樹海温泉の情報",
+        "infoBlockText": "所在地：香川県高松市西宝町泉温：27℃源泉：1湯量：25リットル／分飲用：不可泉質：ナトリウム-炭酸水素塩泉温泉効能：アレルギー性皮ふ炎、アトピー性皮ふ炎、皮ふ病、切り傷、美肌など宿泊施設：1アクセス：（公共交通機関）ＪＲ高松駅から車で10分（車）高松道高松西ICから県道178号・176号・33号経由8km",
+        "sectionTitle": "花樹海温泉"
+      },
+      {
+        "cTA1": {
+          "label": "塩江温泉郷の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/3720107/",
+          "linkType": "OTHER"
+        },
+        "description": "こんぴらさんの門前町でも温泉が満喫できる金刀比羅宮の門前町として発展してきた琴平町。みやげ物店や飲食店が立ち並ぶ、情緒たっぷりの1368段もの石段が続く参道は、いつも観光客で賑やかだ。その門前町にあるこんぴら温泉郷の中には、2種類の泉質が湧出している。こんぴら温泉・湯元を名乗るのが、カルシウム・ナトリウム-炭酸水素塩・塩化物泉を引く「八千代」。江戸時代の享保10年(1725)から続く老舗旅館だ。他の宿は、町で掘削した単純弱放射能冷鉱泉の琴平町智光院温泉を引いている。日帰り入浴や昼食付きの休憩などを受付けている宿も多い。",
+        "image": {
+          "alternateText": "こんぴら温泉郷（こんぴらおんせんきょう）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/2GUfYFHb6Z-KLFIJFSo9n0ru8pCrr-1Bpk0F6M7CQf8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/2GUfYFHb6Z-KLFIJFSo9n0ru8pCrr-1Bpk0F6M7CQf8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/2GUfYFHb6Z-KLFIJFSo9n0ru8pCrr-1Bpk0F6M7CQf8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/2GUfYFHb6Z-KLFIJFSo9n0ru8pCrr-1Bpk0F6M7CQf8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/2GUfYFHb6Z-KLFIJFSo9n0ru8pCrr-1Bpk0F6M7CQf8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2GUfYFHb6Z-KLFIJFSo9n0ru8pCrr-1Bpk0F6M7CQf8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "こんぴら温泉郷（こんぴらおんせんきょう）",
+        "infoBlockLabel": "こんぴら温泉郷の情報",
+        "infoBlockText": "所在地：香川県仲多度郡琴平町泉温：19.3～26.2℃源泉：3湯量：不明飲用：不可泉質：カルシウム・ナトリウム-炭酸水素塩・塩化物泉、単純弱放射能冷鉱泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、動脈硬化症、打ち身、慢性消化器病、高血圧、慢性皮ふ病、慢性婦人病など宿泊施設：11アクセス：（公共交通機関）ＪＲ琴平駅下車高松道善通寺ICから国道319号経由8km",
+        "sectionTitle": "こんぴら温泉郷"
+      },
+      {
+        "cTA1": {
+          "label": "オリビアン小豆島 夕陽ケ丘ホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/7401016/plan/",
+          "linkType": "OTHER"
+        },
+        "description": "ホタルの光や山の幸が出迎える自然豊かないで湯の里塩江温泉郷は1300年ほど前の奈良時代に、高僧・行基によって発見されたと伝わる古湯で、国民保養温泉地にも指定されている。讃岐山脈の懐に抱かれて、夏は清流・香東川［こうとうがわ］にホタルが飛び交うなど、豊かな自然が残る。周囲には不動の滝はじめ景勝地が多く、恒例のさくら祭・ホタル祭・温泉祭・もみじ祭などの祭も人気だ。樺川、奥の湯、さぬきなどの源泉が点在し、5軒の宿がある。それぞれ自慢の風呂をもっており、3軒の宿で日帰り入浴もできる。「湯愛の郷［ゆめのさと］道の駅しおのえ」の川向かいにある、日帰り温泉施設｢行基の湯｣に立ち寄るのもいい。",
+        "image": {
+          "alternateText": "塩江温泉郷（しおのえおんせんきょう）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/HcsuPWvK43cRBQgh83RSidGcnVWOMrGlm1BSgGaD_kc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/HcsuPWvK43cRBQgh83RSidGcnVWOMrGlm1BSgGaD_kc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/HcsuPWvK43cRBQgh83RSidGcnVWOMrGlm1BSgGaD_kc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/HcsuPWvK43cRBQgh83RSidGcnVWOMrGlm1BSgGaD_kc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/HcsuPWvK43cRBQgh83RSidGcnVWOMrGlm1BSgGaD_kc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HcsuPWvK43cRBQgh83RSidGcnVWOMrGlm1BSgGaD_kc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "塩江温泉郷（しおのえおんせんきょう）",
+        "infoBlockLabel": "塩江温泉郷の情報",
+        "infoBlockText": "所在地：香川県高松市塩江町泉温：15～19.9℃源泉：4湯量：904リットル／分飲用：不可泉質：単純硫黄泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、打ち身、胃腸病、切り傷、やけど、皮ふ病、痔疾、婦人病、美肌など宿泊施設：5アクセス：（公共交通機関）ＪＲ高松駅からことでんバス塩江行きで1時間10分、バス停：塩江下車高松道高松西ICから国道193号経由21km。高松中央ICから県道43号、国道193号で25km",
+        "sectionTitle": "塩江温泉郷"
+      },
+      {
+        "description": "小豆島の自然が育んだ大地からの贈り物約30万年前にこの地に降った雨水が濾過されて、｢オリビアン小豆島　夕陽ケ丘ホテル｣内に湧き出ている天然温泉。ヌメリ感のある湯は、湯上がりに肌がツルツルになり、高い保温、保湿効果をもつのが特徴。瀬戸内海を一望できる露天風呂から眺める夕日は最高。満天の星空の下、瀬戸内の海に揺れる漁火も絶景だ。",
+        "image": {
+          "alternateText": "小豆島温泉オリビアンの湯（しょうどしまおんせんおりびあんのゆ）",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/wSdDthEu_ZrZ3Yxoym6zS0OZDaQzcDmf3Mx9v1oeZ3k/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/wSdDthEu_ZrZ3Yxoym6zS0OZDaQzcDmf3Mx9v1oeZ3k/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/wSdDthEu_ZrZ3Yxoym6zS0OZDaQzcDmf3Mx9v1oeZ3k/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/wSdDthEu_ZrZ3Yxoym6zS0OZDaQzcDmf3Mx9v1oeZ3k/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/wSdDthEu_ZrZ3Yxoym6zS0OZDaQzcDmf3Mx9v1oeZ3k/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wSdDthEu_ZrZ3Yxoym6zS0OZDaQzcDmf3Mx9v1oeZ3k/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "小豆島温泉オリビアンの湯（しょうどしまおんせんおりびあんのゆ）",
+        "infoBlockLabel": "小豆島温泉オリビアンの湯の情報",
+        "infoBlockText": "所在地：香川県小豆郡土庄町屋形崎泉温：42.7℃源泉：1湯量：260トン／日飲用：不可泉質：アルカリ性単純温泉温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、打ち身、慢性消化器病、痔疾など宿泊施設：7アクセス：（公共交通機関）小豆島土庄港から車で20分香川県小豆島土庄港から国道436号、県道26号・27号経由7km",
+        "sectionTitle": "小豆島温泉オリビアンの湯"
+      },
+      {
+        "imageCaption": "ーーーーーーーーーーーーーーーーー ※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。 ※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_y_ishihara225_035",
+      "news_ap_y_ishihara225_034"
+    ],
+    "c_news_FeaturedArticlesTitle": "四国エリアの温泉記事",
+    "c_news_PublicationDate": "2023-02-26",
+    "c_news_UpdateDate": "2024-05-17",
+    "c_news_ViewCount": "9309",
+    "c_news_ViewCount1of2": "10",
+    "c_news_ViewCount2of2": "9309",
+    "c_news_ViewCountNum": "9309",
+    "c_news_ViewCountNumForSorting": "683",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/shikoku/kagawa/news_ap_y_ishihara225_033",
+    "name": "香川県の人気温泉地 おすすめ10選",
+    "slug": "kokunai/shikoku/kagawa/news_ap_y_ishihara225_033",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "温泉地"
+  ]
+}

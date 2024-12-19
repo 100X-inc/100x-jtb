@@ -1,0 +1,205 @@
+{
+  "$id": "ap_remoteconcierge_00001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "お部屋は全部で26室。純和風の和室からベッドタイプまで20タイプの趣の異なるお部屋があります。ゆったりと過ごしたい旅に特におすすめなのが、テラスと露天風呂が付いた新館「樹亭」のお部屋です。露天風呂にも天然温泉が引かれているので、日々の疲れを癒すのにはぴったり！　晴れた日には、広いテラスから美しい山々を眺めることもできます。気兼ねなく入れる温泉と伸びやかな風景を満喫しながら、ゆったりとした大人時間が過ごせます。",
+        "image": {
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/Nke49J1rW2ElY7Wlp6g0tp3onmcDgrClyqhARo0o36A/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/uy6_AMkxn7UUAoMIRaKPAb4HX2FKBwaE0XFdBuD92xk/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/uy6_AMkxn7UUAoMIRaKPAb4HX2FKBwaE0XFdBuD92xk/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/uy6_AMkxn7UUAoMIRaKPAb4HX2FKBwaE0XFdBuD92xk/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/uy6_AMkxn7UUAoMIRaKPAb4HX2FKBwaE0XFdBuD92xk/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uy6_AMkxn7UUAoMIRaKPAb4HX2FKBwaE0XFdBuD92xk/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "新館「樹亭」の露天風呂付客室（一例）",
+        "sectionTitle": "木のぬくもりがあふれる、お部屋に癒やされる"
+      },
+      {
+        "description": "夕食で提供されるのは季節の会席料理です。地産の旬の食材もたっぷり取り入れられており、地酒との相性も抜群です。また、お料理が盛り付けられるお皿には、「お宿玉樹の料理」のための特注品もあります。盛り付けもていねいなので、舌だけでなく目でも楽しめるお料理です。",
+        "image": {
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/dFJSS7_fBKpTFmOnWTA3W1IZrXih6akaOSEO0E96HyE/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/9WoZbAddPrAw68XmjV9tv_GYk9Qv2eLrXM8Gc-xCVG0/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/9WoZbAddPrAw68XmjV9tv_GYk9Qv2eLrXM8Gc-xCVG0/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/9WoZbAddPrAw68XmjV9tv_GYk9Qv2eLrXM8Gc-xCVG0/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/9WoZbAddPrAw68XmjV9tv_GYk9Qv2eLrXM8Gc-xCVG0/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9WoZbAddPrAw68XmjV9tv_GYk9Qv2eLrXM8Gc-xCVG0/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "季節を感じる会席料理の一例",
+        "sectionTitle": "盛り付けも鮮やか。彩り豊かな四季折々の味わいを楽しむ"
+      },
+      {
+        "description": "レトロな温泉街で人気の伊香保温泉には「黄金の湯」と「白銀の湯」という、趣の異なる2つの源泉があります。宿では、この2つの源泉を引湯しているので、両方の温泉を楽しめます。大浴場は、「榛栗（はしばみ）の湯」と「玉伊吹の湯」の2つ。男女入れ替え制で、それぞれに内湯と露天風呂、サウナを備えます。また、「貸切岩風呂 小春日和」では、100％かけ流しの黄金の湯を独り占めでき、白銀の湯を引湯した貸切露天風呂も新設されました。家族やカップルなどで、プライベートな湯浴みを楽しんでくださいね。",
+        "image": {
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/msTkFmTtU7FG_jzPasW_XS3DvSVlQQ1LDOp_RI0AhDY/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/msTkFmTtU7FG_jzPasW_XS3DvSVlQQ1LDOp_RI0AhDY/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/msTkFmTtU7FG_jzPasW_XS3DvSVlQQ1LDOp_RI0AhDY/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/msTkFmTtU7FG_jzPasW_XS3DvSVlQQ1LDOp_RI0AhDY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/msTkFmTtU7FG_jzPasW_XS3DvSVlQQ1LDOp_RI0AhDY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/msTkFmTtU7FG_jzPasW_XS3DvSVlQQ1LDOp_RI0AhDY/1200x799.jpg",
+          "width": 1200
+        },
+        "imageCaption": "大浴場「玉伊吹の湯」",
+        "sectionTitle": "黄金の湯と白銀の湯。伊香保の2つの源泉を堪能"
+      },
+      {
+        "description": "伊香保温泉の中心にある「石段街」は、宿のすぐ目の前にあります。石段をはさんでおみやげ店や饅頭屋、遊戯場などが並び、温泉情緒もたっぷりです。400年もの歴史をもつ石段は昭和の時代に大改修され、いまでは365段あります。途中に設けられた足湯でひと休みしながら、石段街を散策しましょう。",
+        "sectionTitle": "伊香保名物、石段街をそぞろ歩き。レトロな温泉情緒を満喫"
+      }
+    ],
+    "c_ap_DatePosted": "2023-05-31",
+    "c_ap_HeroImage": {
+      "height": 637,
+      "sourceUrl": "https://a.mktgcdn.com/p/VPcboyUaoGyuRo6sFOWpEIDp1ykjFYKu0bxEleLS4to/1200x637.jpg",
+      "thumbnails": [
+        {
+          "height": 637,
+          "url": "https://a.mktgcdn.com/p-sandbox/0p6TJ2N3OncEB0j-UPsW4qsxBz9a8XNDdYOe8r4aLq4/1200x637.jpg",
+          "width": 1200
+        },
+        {
+          "height": 329,
+          "url": "https://a.mktgcdn.com/p-sandbox/0p6TJ2N3OncEB0j-UPsW4qsxBz9a8XNDdYOe8r4aLq4/619x329.jpg",
+          "width": 619
+        },
+        {
+          "height": 319,
+          "url": "https://a.mktgcdn.com/p-sandbox/0p6TJ2N3OncEB0j-UPsW4qsxBz9a8XNDdYOe8r4aLq4/600x319.jpg",
+          "width": 600
+        },
+        {
+          "height": 104,
+          "url": "https://a.mktgcdn.com/p-sandbox/0p6TJ2N3OncEB0j-UPsW4qsxBz9a8XNDdYOe8r4aLq4/196x104.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/0p6TJ2N3OncEB0j-UPsW4qsxBz9a8XNDdYOe8r4aLq4/1200x637.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "温かなおもてなしが魅力の純和風の宿",
+    "c_ap_LinkArticleSectionTitle": "群馬県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "群馬旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/gunma/"
+      },
+      {
+        "linkText": "群馬県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/gunma/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "関東全般",
+      "群馬県"
+    ],
+    "c_ap_ShortDescription": "都心からのアクセスのよさで人気の伊香保温泉。風光明媚な温泉街のシンボル「伊香保石段街」の入口の目の前に立つのが、「お宿玉樹」です。浴衣に着替えたら、すぐに温泉街に出かけてみましょう。石段の両側に軒を連ねるお店を覗きながら散策すれば、風情たっぷりの温泉情緒を満喫できます。純和風の館内には、女将自らが摘んだ野花が飾られ、四季の移ろいや人の温かみが感じられます。お部屋の数は26室。我が家のようにくつろげる、そんな癒し空間を存分にお楽しみください。",
+    "c_ap_Tags": [
+      "伊香保温泉",
+      "純和風",
+      "露店風呂"
+    ],
+    "c_ap_Theme": [
+      "夫婦旅",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "青畳の香り漂う純和風旅館で、和の趣を満喫【群馬県　お宿玉樹】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "都心からのアクセスのよさで人気の伊香保温泉。風光明媚な温泉街のシンボル「伊香保石段街」の入口の目の前に立つのが、「お宿玉樹」です。浴衣に着替えたら、すぐに温泉街に出かけてみましょう。石段の両側に軒を連ねるお店…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "青畳の香り漂う純和風旅館で、和の趣を満喫【群馬県　お宿玉樹】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_remoteconcierge_00001",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "関東全般, 群馬県",
+    "name": "青畳の香り漂う純和風旅館で、和の趣を満喫【群馬県　お宿玉樹】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

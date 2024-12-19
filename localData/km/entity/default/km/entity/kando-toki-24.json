@@ -1,0 +1,39 @@
+{
+  "$id": "kando-toki-24",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/24_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.590264%2C145.3349",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "海・湖・川・滝",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "野付半島は全長約26kmからなる日本最大の砂嘴（さし）で、荒涼とした自然の景色が広がっています。その景色を織り成すのは、原生花園やトドマツ、エゾマツ、ミズナラなどの原生林が、地盤沈下で海水に浸食されることによって風化し、立ち枯れてできた「トドワラ」、「ナラワラ」と呼ばれるもの。立ち枯れた木々が湿地の上に残骸を見せる、珍しい光景を見ることができます。また、野付半島と野付湾はラムサール条約に登録された湿地となっており、渡りの時期には約6万羽の水鳥が飛来するほか、タンチョウやオジロワシ、アカアシシギの繁殖地にもなっています。6月に入ると、橙黄のエゾカンゾウや赤いハマナスなどの花が鮮やかに咲き、湾の浅瀬にはゴマフアザラシの親子が訪れることもあります。\n見所・お勧めポイント",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/24.asp",
+    "name": "野付半島 トドワラ・ナラワラ"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

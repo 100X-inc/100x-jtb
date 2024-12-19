@@ -1,0 +1,428 @@
+{
+  "$id": "ap_osarea_0000074",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "最初にご紹介するのは、スペイン南部、アンダルシア地方を代表する世界遺産・アルハンブラ宮殿の敷地内にある「パラドール・デ・グラナダ」です。15世紀に建てられたサンフランシスコ修道院を宿泊施設として改装し、一般の人が宿泊できるようになりました。アルハンブラ宮殿はかつてイスラム王朝の大宮殿として繁栄を極めただけあって、イスラム文化の名残をあちこちに見出すことができます。",
+        "image": {
+          "alternateText": "王宮の一室だったとされるナサリの間",
+          "height": 2832,
+          "sourceUrl": "https://a.mktgcdn.com/p/U_2Yx4NypXyVA-vQXgTbNB7pOtpRn5g0Izi5ZFV1vPI/4256x2832.jpg",
+          "thumbnails": [
+            {
+              "height": 2832,
+              "url": "https://a.mktgcdn.com/p-sandbox/U_2Yx4NypXyVA-vQXgTbNB7pOtpRn5g0Izi5ZFV1vPI/4256x2832.jpg",
+              "width": 4256
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/U_2Yx4NypXyVA-vQXgTbNB7pOtpRn5g0Izi5ZFV1vPI/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/U_2Yx4NypXyVA-vQXgTbNB7pOtpRn5g0Izi5ZFV1vPI/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/U_2Yx4NypXyVA-vQXgTbNB7pOtpRn5g0Izi5ZFV1vPI/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/U_2Yx4NypXyVA-vQXgTbNB7pOtpRn5g0Izi5ZFV1vPI/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/U_2Yx4NypXyVA-vQXgTbNB7pOtpRn5g0Izi5ZFV1vPI/4256x2832.jpg",
+          "width": 4256
+        },
+        "imageCaption": "回廊に囲まれた噴水のある中庭",
+        "sectionTitle": "パラドール・デ・グラナダ（Parador de Granada）"
+      },
+      {
+        "description": "宿泊者のみに入場を許されたエリアや、闇夜のアルハンブラ宮殿の散策など、ほかでは得られない貴重な経験ができます。“世界遺産に宿泊する”という機会は、普通に生活しているだけではまず訪れないもの。スペイン旅行の際は、パラドールに泊まってみてはいかがでしょうか。DATAParador de Granada住所：C/Real de la Alhambra s/n料金：€240～客室数：40",
+        "image": {
+          "alternateText": "テラスからの旧市街の眺望",
+          "height": 918,
+          "sourceUrl": "https://a.mktgcdn.com/p/PV6j9F2XIULEjRs6QZGtlD2AnJlE92hf0nggaZ2XlD0/1380x918.jpg",
+          "thumbnails": [
+            {
+              "height": 918,
+              "url": "https://a.mktgcdn.com/p-sandbox/PV6j9F2XIULEjRs6QZGtlD2AnJlE92hf0nggaZ2XlD0/1380x918.jpg",
+              "width": 1380
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/PV6j9F2XIULEjRs6QZGtlD2AnJlE92hf0nggaZ2XlD0/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/PV6j9F2XIULEjRs6QZGtlD2AnJlE92hf0nggaZ2XlD0/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/PV6j9F2XIULEjRs6QZGtlD2AnJlE92hf0nggaZ2XlD0/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PV6j9F2XIULEjRs6QZGtlD2AnJlE92hf0nggaZ2XlD0/1380x918.jpg",
+          "width": 1380
+        },
+        "imageCaption": "王宮の一室だったとされるナサリの間",
+        "sectionTitle": "パラドール・デ・トレド（Parador de Toledo）"
+      },
+      {
+        "description": "マドリードから南に70kmほど、小高い丘の上に位置する街・トレド。三方をぐるりとタホ川に囲まれ、古代ローマ時代以降、城塞都市として栄えた旧市街の全域が「古都トレド」として世界文化遺産に登録されています。「パラドール・デ・トレド」はそんな世界遺産の旧市街を一望できるパラドールです。キリスト教、ユダヤ教、イスラム教など異なる宗教文化によって形成された都市を眺めれば、気分はさながら中世の貴族。建物はカスティーリャ地方の伝統的な建築様式を取り入れており、トレドの古い家屋をイメージした客室、伝統的な調度品、夏限定で使える屋外プールなど、心躍る要素が盛りだくさんです。DATAParador de Toledo住所：Cerro ded Emperador s/n料金：€110～客室数：79",
+        "image": {
+          "alternateText": "均整の取れた造りのパティオ",
+          "height": 4247,
+          "sourceUrl": "https://a.mktgcdn.com/p/avlR457Ize_ZkMWned0rns4B-oDXMFdiocwOTwSOo4o/2825x4247.jpg",
+          "thumbnails": [
+            {
+              "height": 4247,
+              "url": "https://a.mktgcdn.com/p-sandbox/avlR457Ize_ZkMWned0rns4B-oDXMFdiocwOTwSOo4o/2825x4247.jpg",
+              "width": 2825
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/avlR457Ize_ZkMWned0rns4B-oDXMFdiocwOTwSOo4o/1264x1900.jpg",
+              "width": 1264
+            },
+            {
+              "height": 931,
+              "url": "https://a.mktgcdn.com/p-sandbox/avlR457Ize_ZkMWned0rns4B-oDXMFdiocwOTwSOo4o/619x931.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/avlR457Ize_ZkMWned0rns4B-oDXMFdiocwOTwSOo4o/299x450.jpg",
+              "width": 299
+            },
+            {
+              "height": 295,
+              "url": "https://a.mktgcdn.com/p-sandbox/avlR457Ize_ZkMWned0rns4B-oDXMFdiocwOTwSOo4o/196x295.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/avlR457Ize_ZkMWned0rns4B-oDXMFdiocwOTwSOo4o/2825x4247.jpg",
+          "width": 2825
+        },
+        "imageCaption": "テラスからの旧市街の眺望",
+        "sectionTitle": "パラドール・デ・カルモナ（Parador de Carmona）"
+      },
+      {
+        "description": "「パラドール・デ・カルモナ」があるのはアンダルシア地方の小さな街・カルモナ。19世紀にローマ遺跡が発掘されるなど歴史の街であると同時に、一面に咲き誇るひまわり畑でも有名です。",
+        "image": {
+          "alternateText": "目の前にカルモナの絶景が広がる",
+          "height": 918,
+          "sourceUrl": "https://a.mktgcdn.com/p/jlJJy4Z3mx1RxYzRlaqG5nrYtqe3H8awvNu8b8qks6s/1337x918.jpg",
+          "thumbnails": [
+            {
+              "height": 918,
+              "url": "https://a.mktgcdn.com/p-sandbox/jlJJy4Z3mx1RxYzRlaqG5nrYtqe3H8awvNu8b8qks6s/1337x918.jpg",
+              "width": 1337
+            },
+            {
+              "height": 425,
+              "url": "https://a.mktgcdn.com/p-sandbox/jlJJy4Z3mx1RxYzRlaqG5nrYtqe3H8awvNu8b8qks6s/619x425.jpg",
+              "width": 619
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/jlJJy4Z3mx1RxYzRlaqG5nrYtqe3H8awvNu8b8qks6s/600x412.jpg",
+              "width": 600
+            },
+            {
+              "height": 135,
+              "url": "https://a.mktgcdn.com/p-sandbox/jlJJy4Z3mx1RxYzRlaqG5nrYtqe3H8awvNu8b8qks6s/196x135.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jlJJy4Z3mx1RxYzRlaqG5nrYtqe3H8awvNu8b8qks6s/1337x918.jpg",
+          "width": 1337
+        },
+        "imageCaption": "均整の取れた造りのパティオ",
+        "sectionTitle": "パラドール・デ・ロンダ（Parador de Ronda）"
+      },
+      {
+        "description": "こちらのホテルは、14世紀にカスティーリャ王国の国王ペドロ１世のために作られた古城を再建・復元した建物を使用しています。噴水を配した中庭には、イスラム建築の真骨頂とも呼べるアラベスク模様のタイルが敷き詰められています。テラス席から見えるのは、カルモナののどかな田園風景。ひととおりホテル内を散策した後は、レストランでアンダルシアの料理を楽しみましょう。時の流れが緩やかなカルモナの地で過ごすひとときは、きっと最高の思い出になるはずです。DATAParador de Carmona住所：Alcazar s/n料金：€110～客室数：63",
+        "image": {
+          "alternateText": "スペイン広場に面する入口",
+          "height": 918,
+          "sourceUrl": "https://a.mktgcdn.com/p/t9oaCvF1rGYLW8_REdw28btehsduarB4JXlnXllwqJs/1400x918.jpg",
+          "thumbnails": [
+            {
+              "height": 918,
+              "url": "https://a.mktgcdn.com/p-sandbox/t9oaCvF1rGYLW8_REdw28btehsduarB4JXlnXllwqJs/1400x918.jpg",
+              "width": 1400
+            },
+            {
+              "height": 406,
+              "url": "https://a.mktgcdn.com/p-sandbox/t9oaCvF1rGYLW8_REdw28btehsduarB4JXlnXllwqJs/619x406.jpg",
+              "width": 619
+            },
+            {
+              "height": 393,
+              "url": "https://a.mktgcdn.com/p-sandbox/t9oaCvF1rGYLW8_REdw28btehsduarB4JXlnXllwqJs/600x393.jpg",
+              "width": 600
+            },
+            {
+              "height": 129,
+              "url": "https://a.mktgcdn.com/p-sandbox/t9oaCvF1rGYLW8_REdw28btehsduarB4JXlnXllwqJs/196x129.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/t9oaCvF1rGYLW8_REdw28btehsduarB4JXlnXllwqJs/1400x918.jpg",
+          "width": 1400
+        },
+        "imageCaption": "目の前にカルモナの絶景が広がる",
+        "sectionTitle": "パラドール・デ・レオン（Parador de Leon）"
+      },
+      {
+        "description": "カルモナと同じくアンダルシア地方にある小さな街・ロンダは、標高700ｍ以上の崖の上に家々が立ち並ぶという変わった街。街のシンボルでもある「パラドール・デ・ロンダ」も同様に、断崖絶壁の上に建っています。バルコニーから見下ろすのは、18世紀に造られた高さ100ｍ以上のヌエボ橋。レストランからは崖の上と下を同時に眺めることができ、その迫力ある光景に驚きます。客室はスーペリアルームやメゾネットなど様々な種類から選ぶことができます。DATAParador de Ronda住所：Plaza de España s/n料金：€150～客室数：78",
+        "image": {
+          "alternateText": "ベルネガス川のほとりに建つ修道院を改装",
+          "height": 918,
+          "sourceUrl": "https://a.mktgcdn.com/p/Cmfx7Wf7G5Wg19AMidKFTDciZyhgArlCVgoe1EIWLkw/612x918.jpg",
+          "thumbnails": [
+            {
+              "height": 918,
+              "url": "https://a.mktgcdn.com/p-sandbox/Cmfx7Wf7G5Wg19AMidKFTDciZyhgArlCVgoe1EIWLkw/612x918.jpg",
+              "width": 612
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Cmfx7Wf7G5Wg19AMidKFTDciZyhgArlCVgoe1EIWLkw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Cmfx7Wf7G5Wg19AMidKFTDciZyhgArlCVgoe1EIWLkw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Cmfx7Wf7G5Wg19AMidKFTDciZyhgArlCVgoe1EIWLkw/612x918.jpg",
+          "width": 612
+        },
+        "imageCaption": "スペイン広場に面する入口",
+        "sectionTitle": "パラドール・デ・サンディアゴ・デ・コンポステラ（Parador de Santiago de Compostela）"
+      },
+      {
+        "description": "建物内に足を踏み入れた途端、まるで別世界に来たかのような錯覚を覚えてしまうのが、ここ「パラドール・デ・レオン」。16世紀から２世紀もの歳月をかけて建設した病院兼修道院を、宿泊施設として利用できるようにしました。貴重な美術品の数々が飾られたロビーエリア、クラシカルなレストラン、ゴシック様式の礼拝堂など「本当にここに泊まっていいの⁉」と思ってしまうほどの風格が漂います。",
+        "image": {
+          "alternateText": "趣ある調度品に囲まれた、天蓋付きベッドの部屋",
+          "height": 918,
+          "sourceUrl": "https://a.mktgcdn.com/p/1DooQVPH-_Dx8H3MjpZm9eGJO3XAfZ2SBYd-2-jyAQ4/1380x918.jpg",
+          "thumbnails": [
+            {
+              "height": 918,
+              "url": "https://a.mktgcdn.com/p-sandbox/1DooQVPH-_Dx8H3MjpZm9eGJO3XAfZ2SBYd-2-jyAQ4/1380x918.jpg",
+              "width": 1380
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/1DooQVPH-_Dx8H3MjpZm9eGJO3XAfZ2SBYd-2-jyAQ4/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/1DooQVPH-_Dx8H3MjpZm9eGJO3XAfZ2SBYd-2-jyAQ4/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/1DooQVPH-_Dx8H3MjpZm9eGJO3XAfZ2SBYd-2-jyAQ4/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1DooQVPH-_Dx8H3MjpZm9eGJO3XAfZ2SBYd-2-jyAQ4/1380x918.jpg",
+          "width": 1380
+        },
+        "imageCaption": "ベルネガス川のほとりに建つ修道院を改装"
+      },
+      {
+        "description": "中世のお姫様や王子様になったつもりで、天蓋付きのベッドで眠りにつきましょう。アンティークの調度品に囲まれて至福の夜を過ごすことができます。礼拝堂やミュージアムを見学できる館内ツアーへの参加もぜひ。DATAParador de Leon住所：Plaza de San Marcos 7料金：€206～客室数：51",
+        "image": {
+          "alternateText": "サンディアゴ・デ・コンポステラのカテドラル前に建つ",
+          "height": 918,
+          "sourceUrl": "https://a.mktgcdn.com/p/EqkSIZMYW4m5VGU6ZZc8ELojNEqlMWe8cXzfxObu_2g/1380x918.jpg",
+          "thumbnails": [
+            {
+              "height": 918,
+              "url": "https://a.mktgcdn.com/p-sandbox/EqkSIZMYW4m5VGU6ZZc8ELojNEqlMWe8cXzfxObu_2g/1380x918.jpg",
+              "width": 1380
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/EqkSIZMYW4m5VGU6ZZc8ELojNEqlMWe8cXzfxObu_2g/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/EqkSIZMYW4m5VGU6ZZc8ELojNEqlMWe8cXzfxObu_2g/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/EqkSIZMYW4m5VGU6ZZc8ELojNEqlMWe8cXzfxObu_2g/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EqkSIZMYW4m5VGU6ZZc8ELojNEqlMWe8cXzfxObu_2g/1380x918.jpg",
+          "width": 1380
+        },
+        "imageCaption": "趣ある調度品に囲まれた、天蓋付きベッドの部屋"
+      },
+      {
+        "description": "最後にご紹介するのは、全長約900kmものキリスト教徒の「巡礼の道」、その終着地点に建つ「パラドール・デ・サンディアゴ・デ・コンポステラ」。15世紀の救護院を改装した建物で、ゴシック、ルネサンス、バロックの３つの建築様式が混在します。列柱のアーチが連なる回廊、天蓋付きベッドの部屋など、クラシカルな雰囲気がパラドール全体を包みます。古くから巡礼者を見守ってきたこの場所で、聖なるひとときを過ごしてみはいかがでしょうか。DATAParador de Santiago de Compostela住所：Plaza do Obradiro 1料金：€170～客室数：137",
+        "image": {
+          "height": 918,
+          "sourceUrl": "https://a.mktgcdn.com/p/4rIDtsYDlQDmz7tEZyKAzKO1Y9148ZFX2WUOs_BuvTw/1380x918.jpg",
+          "thumbnails": [
+            {
+              "height": 918,
+              "url": "https://a.mktgcdn.com/p-sandbox/4rIDtsYDlQDmz7tEZyKAzKO1Y9148ZFX2WUOs_BuvTw/1380x918.jpg",
+              "width": 1380
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/4rIDtsYDlQDmz7tEZyKAzKO1Y9148ZFX2WUOs_BuvTw/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/4rIDtsYDlQDmz7tEZyKAzKO1Y9148ZFX2WUOs_BuvTw/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/4rIDtsYDlQDmz7tEZyKAzKO1Y9148ZFX2WUOs_BuvTw/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4rIDtsYDlQDmz7tEZyKAzKO1Y9148ZFX2WUOs_BuvTw/1380x918.jpg",
+          "width": 1380
+        },
+        "imageCaption": "サンディアゴ・デ・コンポステラのカテドラル前に建つ"
+      },
+      {
+        "imageCaption": "※2023年6月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2023-07-06",
+    "c_ap_HeroImage": {
+      "alternateText": "スペインならではの体験！　一度は泊まりたい「パラドール」【スペイン】",
+      "height": 918,
+      "sourceUrl": "https://a.mktgcdn.com/p/aIQ1z37LmS7uOyOHZIq6mmmjCyctaIBtthcslHecj6w/1380x918.jpg",
+      "thumbnails": [
+        {
+          "height": 918,
+          "url": "https://a.mktgcdn.com/p-sandbox/aIQ1z37LmS7uOyOHZIq6mmmjCyctaIBtthcslHecj6w/1380x918.jpg",
+          "width": 1380
+        },
+        {
+          "height": 412,
+          "url": "https://a.mktgcdn.com/p-sandbox/aIQ1z37LmS7uOyOHZIq6mmmjCyctaIBtthcslHecj6w/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "https://a.mktgcdn.com/p-sandbox/aIQ1z37LmS7uOyOHZIq6mmmjCyctaIBtthcslHecj6w/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "https://a.mktgcdn.com/p-sandbox/aIQ1z37LmS7uOyOHZIq6mmmjCyctaIBtthcslHecj6w/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/aIQ1z37LmS7uOyOHZIq6mmmjCyctaIBtthcslHecj6w/1380x918.jpg",
+      "width": 1380
+    },
+    "c_ap_HeroImageCaption": "世界遺産の旧市街を一望できるパラドール・デ・トレド",
+    "c_ap_LinkArticleSectionTitle": "スペインのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "スペイン旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/spain/"
+      },
+      {
+        "linkText": "バルセロナのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dBCN"
+      },
+      {
+        "linkText": "スペインのホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/06/166/?freeword\u003d%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d166"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea3": [
+      "スペイン",
+      "西欧全般"
+    ],
+    "c_ap_ShortDescription": "城や宮殿、修道院などの歴史的建造物を、宿泊施設としてリノベーションしたスペイン国営ホテルのことを“パラドール”といいます。スペインの歴史や文化に包まれながら一夜を過ごせるパラドールは、非常に人気が高く予約が必須。スペインへ旅行に行くなら一度は泊まりたい、魅力的なパラドールをご紹介します。（写真：パラドール・デ・トレド）",
+    "c_ap_Tags": [
+      "パラドール",
+      "宿泊",
+      "ホテル"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "一人旅",
+      "夫婦旅",
+      "グループ",
+      "自然・山",
+      "寺社・教会",
+      "建築・史跡",
+      "歴史・地理",
+      "世界遺産",
+      "リゾート",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "スペインならではの体験！　一度は泊まりたい「パラドール」【スペイン】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "城や宮殿、修道院などの歴史的建造物を、宿泊施設としてリノベーションしたスペイン国営ホテルのことを“パラドール”といいます。スペインの歴史や文化に包まれながら一夜を過ごせるパラドールは、非常に人気が高く予約が必須。スペインへ旅行に行くなら一度は泊まりたい、魅力的なパラドールをご紹介します。（写真：パラドール・デ・トレド）",
+    "c_metaTitle": "スペインならではの体験！　一度は泊まりたい「パラドール」【スペイン】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000074",
+    "c_searchArea1": [
+      "海外"
+    ],
+    "c_searchArea2": "スペイン, 西欧全般",
+    "name": "スペインならではの体験！ 一度は泊まりたい「パラドール」【スペイン】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

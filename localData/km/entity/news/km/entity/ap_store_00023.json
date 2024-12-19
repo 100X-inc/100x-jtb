@@ -1,0 +1,50 @@
+{
+  "$id": "news_ap_store_00023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB玉川髙島屋ショッピングセンター店 松田",
+      "link": "https://consultants.jtb.co.jp/cp_14153518",
+      "linkType": "URL"
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "JTB店舗・専門店への相談はこちら",
+        "uRL": "https://consultants.jtb.co.jp/top#locator"
+      },
+      {
+        "linkText": "日本の旬 東京・横浜 宿泊パック・ツアー・体験予約はこちら",
+        "uRL": "https://www.jtb.co.jp/nihonnoshun/tokyoyokohama/"
+      },
+      {
+        "linkText": "JTB玉川髙島屋ショッピングセンター店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/t3417-0"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "山梨県笛吹市～私だけの贅沢な旅を探しに～【山梨県】",
+    "c_metaDescription": "山梨県笛吹市～私だけの贅沢な旅を探しに～【山梨県】",
+    "c_metaTitle": "山梨県笛吹市～私だけの贅沢な旅を探しに～【山梨県】",
+    "c_news_CTAs": [
+      {
+        "label": "この記事の投稿店舗に相談予約をする",
+        "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfsxG",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_FeaturedArticlesTitle": "山梨県のその他の記事",
+    "c_news_ViewCount": "0",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/news_ap_store_00023",
+    "name": "山梨県笛吹市～私だけの贅沢な旅を探しに～【山梨県】",
+    "slug": "news_ap_store_00023",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

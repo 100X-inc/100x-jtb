@@ -1,0 +1,81 @@
+{
+  "$id": "cp_50132010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "北海道",
+    "c_cp_CTA1": {
+      "label": "横内 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVBiBVy",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVer",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "お客様と旅先の事を考えながら、楽しくご旅行の計画を立てていきたいと思っております。是非お気軽にご相談くださいませ。",
+    "c_cp_DisplayName": "横内",
+    "c_cp_GeneralInfo": [
+      "●資格：ハワイスペシャリスト上級"
+    ],
+    "c_cp_HiraganaName": "よこうち",
+    "c_cp_JobTitle": "JTBトラベルゲート札幌 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 1131,
+      "sourceUrl": "https://a.mktgcdn.com/p/w82f2jcaX-IkdnX3IjNYbXzFY2BNYRMeDLpJQ7YY8Kw/1108x1131.jpg",
+      "thumbnails": [
+        {
+          "height": 1131,
+          "url": "https://a.mktgcdn.com/p-sandbox/w82f2jcaX-IkdnX3IjNYbXzFY2BNYRMeDLpJQ7YY8Kw/1108x1131.jpg",
+          "width": 1108
+        },
+        {
+          "height": 632,
+          "url": "https://a.mktgcdn.com/p-sandbox/w82f2jcaX-IkdnX3IjNYbXzFY2BNYRMeDLpJQ7YY8Kw/619x632.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/w82f2jcaX-IkdnX3IjNYbXzFY2BNYRMeDLpJQ7YY8Kw/441x450.jpg",
+          "width": 441
+        },
+        {
+          "height": 200,
+          "url": "https://a.mktgcdn.com/p-sandbox/w82f2jcaX-IkdnX3IjNYbXzFY2BNYRMeDLpJQ7YY8Kw/196x200.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/w82f2jcaX-IkdnX3IjNYbXzFY2BNYRMeDLpJQ7YY8Kw/1108x1131.jpg",
+      "width": 1108
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "台湾"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "東京都"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "京都府",
+      "大阪府"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 横内",
+    "c_metaTitle": "JTBトラベルコンサルタント | 横内",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_50132010",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10022_トラベルゲート札幌",
+    "name": "よこうち_50132010",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

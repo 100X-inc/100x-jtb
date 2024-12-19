@@ -1,0 +1,47 @@
+{
+  "$id": "news_pa_oceania",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kaigai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "タイ",
+      "link": "https://www.jtb.co.jp/news/list/kaigai/asia/thailand",
+      "linkType": "URL"
+    },
+    "c_news_PopularAreasImage": {
+      "alternateText": "タイ",
+      "height": 430,
+      "sourceUrl": "https://a.mktgcdn.com/p/bXVzoaCK4RwtnIzRFO9W2JWXPxeXovmB8_TBLvo7IXs/640x430.jpg",
+      "thumbnails": [
+        {
+          "height": 430,
+          "url": "https://a.mktgcdn.com/p-sandbox/bXVzoaCK4RwtnIzRFO9W2JWXPxeXovmB8_TBLvo7IXs/640x430.jpg",
+          "width": 640
+        },
+        {
+          "height": 416,
+          "url": "https://a.mktgcdn.com/p-sandbox/bXVzoaCK4RwtnIzRFO9W2JWXPxeXovmB8_TBLvo7IXs/619x416.jpg",
+          "width": 619
+        },
+        {
+          "height": 403,
+          "url": "https://a.mktgcdn.com/p-sandbox/bXVzoaCK4RwtnIzRFO9W2JWXPxeXovmB8_TBLvo7IXs/600x403.jpg",
+          "width": 600
+        },
+        {
+          "height": 132,
+          "url": "https://a.mktgcdn.com/p-sandbox/bXVzoaCK4RwtnIzRFO9W2JWXPxeXovmB8_TBLvo7IXs/196x132.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/bXVzoaCK4RwtnIzRFO9W2JWXPxeXovmB8_TBLvo7IXs/640x430.jpg",
+      "width": 640
+    },
+    "name": "タイ"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

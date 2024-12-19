@@ -1,0 +1,92 @@
+{
+  "$id": "cp_35145257",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "大阪府",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNdxc",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "美味しいグルメ食べてくないですか？絶景を見たくないですか？ \n全国制覇した元添乗員がおすすめグルメ・観光スポットを案内いたします。 \n国内旅行ならお任せください！",
+    "c_cp_DisplayName": "木下",
+    "c_cp_FieldOfExpertise": [
+      "一人旅",
+      "グルメ",
+      "温泉・立ち寄り湯",
+      "お祭り",
+      "音楽ライブ"
+    ],
+    "c_cp_HiraganaName": "きのした",
+    "c_cp_JobTitle": "JTB大阪なんば店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 2504,
+      "sourceUrl": "https://a.mktgcdn.com/p/jvOORPfcPBxs1QuOX_QqRNNCiLsrsB1fnXurvsV1Ht0/1878x2504.jpg",
+      "thumbnails": [
+        {
+          "height": 2504,
+          "url": "https://a.mktgcdn.com/p-sandbox/jvOORPfcPBxs1QuOX_QqRNNCiLsrsB1fnXurvsV1Ht0/1878x2504.jpg",
+          "width": 1878
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/jvOORPfcPBxs1QuOX_QqRNNCiLsrsB1fnXurvsV1Ht0/1425x1900.jpg",
+          "width": 1425
+        },
+        {
+          "height": 825,
+          "url": "https://a.mktgcdn.com/p-sandbox/jvOORPfcPBxs1QuOX_QqRNNCiLsrsB1fnXurvsV1Ht0/619x825.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/jvOORPfcPBxs1QuOX_QqRNNCiLsrsB1fnXurvsV1Ht0/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/jvOORPfcPBxs1QuOX_QqRNNCiLsrsB1fnXurvsV1Ht0/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/jvOORPfcPBxs1QuOX_QqRNNCiLsrsB1fnXurvsV1Ht0/1878x2504.jpg",
+      "width": 1878
+    },
+    "c_cp_StrongLocalArea1": [
+      "北海道",
+      "東北全般"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "中部全般",
+      "北陸全般"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "近畿全般"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "中国全般",
+      "四国全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 木下",
+    "c_metaTitle": "JTBトラベルコンサルタント | 木下",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_35145257",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10326_大阪なんば店",
+    "name": "きのした_35145257",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

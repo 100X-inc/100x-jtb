@@ -1,0 +1,567 @@
+{
+  "$id": "news_web_kaigai_0001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "alternateText": "ソウルの2泊3日おすすめモデルコース",
+      "height": 720,
+      "sourceUrl": "https://a.mktgcdn.com/p/_LDTRpkDXxVMi77AwQ_wxQC-pKFnkrUMFfW0a24faU8/1280x720.webp",
+      "thumbnails": [
+        {
+          "height": 720,
+          "url": "https://a.mktgcdn.com/p-sandbox/_LDTRpkDXxVMi77AwQ_wxQC-pKFnkrUMFfW0a24faU8/1280x720.webp",
+          "width": 1280
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p-sandbox/_LDTRpkDXxVMi77AwQ_wxQC-pKFnkrUMFfW0a24faU8/619x348.webp",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p-sandbox/_LDTRpkDXxVMi77AwQ_wxQC-pKFnkrUMFfW0a24faU8/600x338.webp",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p-sandbox/_LDTRpkDXxVMi77AwQ_wxQC-pKFnkrUMFfW0a24faU8/196x110.webp",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/_LDTRpkDXxVMi77AwQ_wxQC-pKFnkrUMFfW0a24faU8/1280x720.webp",
+      "width": 1280
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "韓国旅行・ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/korea/"
+      },
+      {
+        "linkText": "韓国の現地オプショナルツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bKR/"
+      },
+      {
+        "linkText": "ソウル行きの航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/asia/korea/seoul/"
+      },
+      {
+        "linkText": "ソウルの人気ホテルランキングを見る",
+        "uRL": "https://www.jtb.co.jp/ovs_htl_static/promotion/ranking/country/SEL/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "日本から飛行機で約２時間！国内旅行感覚で気軽に行ける「韓国」は、女子旅の定番旅行先。おすすめの穴場グルメ、インスタ映えするフォトジェニックなスポットやカラフルなカフェをめぐる、ソウル中心の2泊3日モデルコースをご紹介します。",
+    "c_ap_Tags": [
+      "女子旅",
+      "カフェ",
+      "朝食",
+      "2泊3日",
+      "インスタ映え",
+      "グルメ",
+      "モデルコース",
+      "友達旅行",
+      "母娘旅行",
+      "観光スポット",
+      "買い物",
+      "韓国おすすめ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "韓国・ソウルの2泊3日おすすめモデルコース！女子旅を満喫",
+    "c_linkedArea3News": [
+      "korea"
+    ],
+    "c_metaDescription": "日本から飛行機で約２時間！国内旅行感覚で気軽に行ける「韓国」は、女子旅の定番旅行先。おすすめの穴場グルメ、インスタ映えするフォトジェニックなスポットやカラフルなカフェをめぐる、ソウル中心の2泊3日モデルコースをご紹介します。",
+    "c_metaTitle": "韓国・ソウルの2泊3日おすすめモデルコース！女子旅を満喫",
+    "c_news_CTAs": [
+      {
+        "label": "韓国旅行・ツアーを探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/korea/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "ソウル行きの航空券を探す",
+        "link": "https://www.jtb.co.jp/ovs_air_static/asia/korea/seoul/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "ソウルのホテルを探す",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/94/3124/?freeword\u003d%E3%82%BD%E3%82%A6%E3%83%AB\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d3124",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "2泊3日の韓国旅行費用をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/guide_0006",
+          "linkType": "OTHER"
+        },
+        "description": "「海外旅行をしたいけど、長期休暇がなかなか取れない…」「友達と休みの日程を合わせるのが一苦労…」そんな忙しい女子に人気なのがお隣の国、韓国！土日に１日お休みをプラスして、２泊３日の短い日程でも買い物、グルメ、美容と楽しんじゃいましょう！",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/-UOo225hKTjfEhBMZp_i6MJlpCMz-BdkKCGV3Y8MtEA/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/-UOo225hKTjfEhBMZp_i6MJlpCMz-BdkKCGV3Y8MtEA/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/-UOo225hKTjfEhBMZp_i6MJlpCMz-BdkKCGV3Y8MtEA/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/-UOo225hKTjfEhBMZp_i6MJlpCMz-BdkKCGV3Y8MtEA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/-UOo225hKTjfEhBMZp_i6MJlpCMz-BdkKCGV3Y8MtEA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-UOo225hKTjfEhBMZp_i6MJlpCMz-BdkKCGV3Y8MtEA/1536x1152.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "仁寺洞の情報",
+        "infoBlockText": "住所：ソウル市鐘路区仁寺洞通り一帯営業時間：店により異なる定休日：店により異なるアクセス：地下鉄3号線安国駅6番出口、または地下鉄1号線鐘閣駅3番出口",
+        "sectionLevel": "h2",
+        "sectionTitle": "買い物もグルメも美容も楽しめる！2泊3日の韓国観光モデルコース"
+      },
+      {
+        "cTA1": {
+          "label": "肉汁と旨味を堪能！ソウルの絶品肉料理8選をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_ap_osarea_0000044",
+          "linkType": "URL"
+        },
+        "description": "1日目はソウル観光の定番、明洞を中心にショッピングや屋台での食べ歩きを楽しみましょう！",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/dUQE1WxLT9TK5_Ggs8Kf7VHEKmuh-mv19sXCZ04qkaY/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/dUQE1WxLT9TK5_Ggs8Kf7VHEKmuh-mv19sXCZ04qkaY/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/dUQE1WxLT9TK5_Ggs8Kf7VHEKmuh-mv19sXCZ04qkaY/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dUQE1WxLT9TK5_Ggs8Kf7VHEKmuh-mv19sXCZ04qkaY/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/dUQE1WxLT9TK5_Ggs8Kf7VHEKmuh-mv19sXCZ04qkaY/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dUQE1WxLT9TK5_Ggs8Kf7VHEKmuh-mv19sXCZ04qkaY/1536x1152.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "梨泰院の情報",
+        "infoBlockText": "住所：ソウル市龍山区梨泰院路一帯営業時間：店により異なる定休日：店により異なるアクセス：地下鉄6号線梨泰院駅一帯",
+        "sectionLevel": "h2",
+        "sectionTitle": "1日目"
+      },
+      {
+        "cTA1": {
+          "label": "絶対にハズさない！韓国のおすすめコスメをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_ap_osarea_0000043",
+          "linkType": "URL"
+        },
+        "description": "空港に着いたら、すぐに「明洞（ミョンドン）」へ移動。ホテルにスーツケースを預けたらまずは定番サムギョプサルで腹ごしらえ。 韓国のほとんどのお店では、キムチが食べ放題！いろいろな種類があるので食べ比べて、お気に入りのキムチを見つけてみるのも楽しいです。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/sPM5-Ps-nFtKnkYM0rXBXG1ykmMe5ZYORJDrKr8YZPI/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/sPM5-Ps-nFtKnkYM0rXBXG1ykmMe5ZYORJDrKr8YZPI/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/sPM5-Ps-nFtKnkYM0rXBXG1ykmMe5ZYORJDrKr8YZPI/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/sPM5-Ps-nFtKnkYM0rXBXG1ykmMe5ZYORJDrKr8YZPI/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/sPM5-Ps-nFtKnkYM0rXBXG1ykmMe5ZYORJDrKr8YZPI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sPM5-Ps-nFtKnkYM0rXBXG1ykmMe5ZYORJDrKr8YZPI/1536x1152.jpg",
+          "width": 1536
+        },
+        "infoBlockText": "お店の情報：明洞栄養粥",
+        "sectionLevel": "h3",
+        "sectionTitle": "13:00｜まずは定番サムギョプサルで腹ごしらえ！"
+      },
+      {
+        "cTA1": {
+          "label": "絶対行きたい！ソウルのおすすめカフェ8選をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_ap_osarea_0000042",
+          "linkType": "URL"
+        },
+        "description": "満腹になったら、流行りの韓国コスメを免税店でまとめ買い！韓国語を話せなくても、スマホで買いたい商品を店員さんに見せれば、お目当てのコスメをゲットできます。韓国コスメはプチプラ価格なものが多いので、迷ったら色違いで大人買い！アイシャドウやクッションファンデなど自分用以外にお土産としてもおすすめです。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/atRTIbD7bVzj4dc_WeB-spr4bJfplE0rJmKqMV-lBtE/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/atRTIbD7bVzj4dc_WeB-spr4bJfplE0rJmKqMV-lBtE/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/atRTIbD7bVzj4dc_WeB-spr4bJfplE0rJmKqMV-lBtE/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/atRTIbD7bVzj4dc_WeB-spr4bJfplE0rJmKqMV-lBtE/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/atRTIbD7bVzj4dc_WeB-spr4bJfplE0rJmKqMV-lBtE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/atRTIbD7bVzj4dc_WeB-spr4bJfplE0rJmKqMV-lBtE/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "15:00｜免税店で韓国コスメを大人買い"
+      },
+      {
+        "cTA1": {
+          "label": "鍾路3街の屋台の観光情報をみる",
+          "link": "https://www.jtb.co.jp/kaigai_guide/asia/republic_of_korea/SEL/104364/index.html",
+          "linkType": "URL"
+        },
+        "description": "韓国ではSNS映えするおしゃれなカフェや、進化系のベーカリーが今注目されています。韓国のカフェは、ただコーヒーブレイクを楽しむだけでなく、インテリアのこだわり、かわいいパンやケーキの豊富さなど視覚的な体験を大切にしているのが特徴です。また、韓国のパンの進化は遂げており、一枚ずつめくることができる「ティッシュブレッド」やクロワッサンにクッキー生地をのせたサクサク触感の「クロッキー」といった新しいスタイルのパンが注目されています。特におすすめなのが、「望遠洞（マンウォンドン）」と呼ばれるおしゃれなカフェが密集しているエリア。たくさんカフェ巡りをしたいけど、満腹でわたり歩けない…そんなときは、テイクアウトして、翌日の朝食にするのがおすすめです！",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/mQvmr9nGIRZLAMbCl5Ok_21WlOYC3ieBPt5ftP81CkE/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/mQvmr9nGIRZLAMbCl5Ok_21WlOYC3ieBPt5ftP81CkE/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/mQvmr9nGIRZLAMbCl5Ok_21WlOYC3ieBPt5ftP81CkE/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/mQvmr9nGIRZLAMbCl5Ok_21WlOYC3ieBPt5ftP81CkE/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/mQvmr9nGIRZLAMbCl5Ok_21WlOYC3ieBPt5ftP81CkE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/mQvmr9nGIRZLAMbCl5Ok_21WlOYC3ieBPt5ftP81CkE/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "19:00｜オシャレなカフェで朝食用のパンをテイクアウト"
+      },
+      {
+        "cTA1": {
+          "label": "明洞のホテルを探す",
+          "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/94/3124/?freeword\u003d%E6%98%8E%E6%B4%9E\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d3124",
+          "linkType": "URL"
+        },
+        "description": "B級グルメを楽しむなら、「弘大（ホンデ）」がオススメ。チキンのデリバリーが盛んな韓国ではたくさんの韓国版唐揚げが楽しめます。定番トッポギや韓国版ホットドック（ハットグ）など歩いているだけで楽しいエリアです。買い物の合間に、B級グルメで小腹を満たすのも韓国旅行の醍醐味のひとつです。",
+        "image": {
+          "height": 864,
+          "sourceUrl": "https://a.mktgcdn.com/p/gpyVw3Mz6YBCAgcrboWz1RZEO7Jvl5LuB4PgrU2OURc/1536x864.jpg",
+          "thumbnails": [
+            {
+              "height": 864,
+              "url": "https://a.mktgcdn.com/p-sandbox/gpyVw3Mz6YBCAgcrboWz1RZEO7Jvl5LuB4PgrU2OURc/1536x864.jpg",
+              "width": 1536
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/gpyVw3Mz6YBCAgcrboWz1RZEO7Jvl5LuB4PgrU2OURc/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/gpyVw3Mz6YBCAgcrboWz1RZEO7Jvl5LuB4PgrU2OURc/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/gpyVw3Mz6YBCAgcrboWz1RZEO7Jvl5LuB4PgrU2OURc/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gpyVw3Mz6YBCAgcrboWz1RZEO7Jvl5LuB4PgrU2OURc/1536x864.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "20:00｜ 見るだけで楽しい！屋台食べ歩き"
+      },
+      {
+        "cTA1": {
+          "label": "JTBのオプショナルツアーでカンジャンケジャンを堪能しよう！",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aASI/bKR/cSEL/?keyWord\u003d%25E3%2582%25AB%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25B3%25E3%2582%25B1%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25B3\u0026searchFlag\u003d1",
+          "linkType": "URL"
+        },
+        "description": "眠らない街ソウル。「明洞（ミョンドン）」の飲食店は日本語メニューが置いてあるお店も夜遅くまで開いているので、短い日程での旅行でも効率よく楽しめます！辛いものは苦手…という方には牛肉を長時間煮込んだソルロンタンがおすすめ。 たくさん食べて疲れた胃にも優しいですよ。",
+        "image": {
+          "height": 1148,
+          "sourceUrl": "https://a.mktgcdn.com/p/OFBT4nUOYF8QvxmXc5a7iSa-DWhiSU2q6wMO2dRtcaM/1536x1148.jpg",
+          "thumbnails": [
+            {
+              "height": 1148,
+              "url": "https://a.mktgcdn.com/p-sandbox/OFBT4nUOYF8QvxmXc5a7iSa-DWhiSU2q6wMO2dRtcaM/1536x1148.jpg",
+              "width": 1536
+            },
+            {
+              "height": 463,
+              "url": "https://a.mktgcdn.com/p-sandbox/OFBT4nUOYF8QvxmXc5a7iSa-DWhiSU2q6wMO2dRtcaM/619x463.jpg",
+              "width": 619
+            },
+            {
+              "height": 448,
+              "url": "https://a.mktgcdn.com/p-sandbox/OFBT4nUOYF8QvxmXc5a7iSa-DWhiSU2q6wMO2dRtcaM/600x448.jpg",
+              "width": 600
+            },
+            {
+              "height": 146,
+              "url": "https://a.mktgcdn.com/p-sandbox/OFBT4nUOYF8QvxmXc5a7iSa-DWhiSU2q6wMO2dRtcaM/196x146.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OFBT4nUOYF8QvxmXc5a7iSa-DWhiSU2q6wMO2dRtcaM/1536x1148.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "21:00｜明洞に戻って遅めの夜ご飯"
+      },
+      {
+        "cTA1": {
+          "label": "SNS映え満点！韓国・ソウルのかわいいスイーツ7選をみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_ap_osarea_0000048",
+          "linkType": "URL"
+        },
+        "description": "2日目は韓国の伝統文化に触れられる仁寺洞からスタート！江南や梨泰院でトレンドをチェックするのも忘れずに。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/3W-SPtuFXK-CoIlXfU4Oa86TFtmQoReglt232bxgx-E/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/3W-SPtuFXK-CoIlXfU4Oa86TFtmQoReglt232bxgx-E/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/3W-SPtuFXK-CoIlXfU4Oa86TFtmQoReglt232bxgx-E/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3W-SPtuFXK-CoIlXfU4Oa86TFtmQoReglt232bxgx-E/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/3W-SPtuFXK-CoIlXfU4Oa86TFtmQoReglt232bxgx-E/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3W-SPtuFXK-CoIlXfU4Oa86TFtmQoReglt232bxgx-E/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "2日目"
+      },
+      {
+        "cTA1": {
+          "label": "梨泰院のホテルを探す",
+          "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/94/3124/?freeword\u003d%E6%A2%A8%E6%B3%B0%E9%99%A2\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d3124",
+          "linkType": "URL"
+        },
+        "description": "ホテルで朝食用に購入したパンとボトルドリンクで朝食をとったら、早速「仁寺洞（インサンドン）」へ。 仁寺洞（インサドン）は他の街とは少し雰囲気が異なり、日本の京都のような街並みです。ゆっくりとお散歩しながら、お気に入りの古民家カフェを見つけて、韓国の伝統茶を味わってみてはいかがでしょうか。ゆったりとした時間が流れるカフェで落ち着いたひとときを満喫できます。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/eJMOZ9WUaYuwu611NODGD82qqM6dVobCb2TX4L3NQUE/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/eJMOZ9WUaYuwu611NODGD82qqM6dVobCb2TX4L3NQUE/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/eJMOZ9WUaYuwu611NODGD82qqM6dVobCb2TX4L3NQUE/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/eJMOZ9WUaYuwu611NODGD82qqM6dVobCb2TX4L3NQUE/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/eJMOZ9WUaYuwu611NODGD82qqM6dVobCb2TX4L3NQUE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/eJMOZ9WUaYuwu611NODGD82qqM6dVobCb2TX4L3NQUE/1536x1152.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "11:00｜まるで日本の京都！仁寺洞で韓国の伝統茶を堪能"
+      },
+      {
+        "cTA1": {
+          "label": "チマチョゴリをレンタルする",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/searchlist/aASI/bKR/cSEL/?keyWord\u003d%25E9%259F%2593%25E6%259C%258D\u0026searchFlag\u003d1",
+          "linkType": "URL"
+        },
+        "description": "カンジャンケジャンとは、新鮮な生のワタリガニを醤油ダレに漬け込んだ料理です。その美味しさでご飯が進むことから韓国ではご飯泥棒（パットドゥッ）と呼ばれているほど。 韓国を訪れたら食べたい逸品です。",
+        "image": {
+          "height": 896,
+          "sourceUrl": "https://a.mktgcdn.com/p/q_ZrZQe5Wsdo50kji9R4P0Hc6kKt2YqDpYYRjaQUxdw/1536x896.jpg",
+          "thumbnails": [
+            {
+              "height": 896,
+              "url": "https://a.mktgcdn.com/p-sandbox/q_ZrZQe5Wsdo50kji9R4P0Hc6kKt2YqDpYYRjaQUxdw/1536x896.jpg",
+              "width": 1536
+            },
+            {
+              "height": 361,
+              "url": "https://a.mktgcdn.com/p-sandbox/q_ZrZQe5Wsdo50kji9R4P0Hc6kKt2YqDpYYRjaQUxdw/619x361.jpg",
+              "width": 619
+            },
+            {
+              "height": 350,
+              "url": "https://a.mktgcdn.com/p-sandbox/q_ZrZQe5Wsdo50kji9R4P0Hc6kKt2YqDpYYRjaQUxdw/600x350.jpg",
+              "width": 600
+            },
+            {
+              "height": 114,
+              "url": "https://a.mktgcdn.com/p-sandbox/q_ZrZQe5Wsdo50kji9R4P0Hc6kKt2YqDpYYRjaQUxdw/196x114.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/q_ZrZQe5Wsdo50kji9R4P0Hc6kKt2YqDpYYRjaQUxdw/1536x896.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "13:00｜絶対食べたい！カンジャンケジャン"
+      },
+      {
+        "cTA1": {
+          "label": "現地オプショナルツアーで韓国をさらに楽しもう！",
+          "link": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bKR/",
+          "linkType": "URL"
+        },
+        "description": "しょっぱいものを食べたら、甘いものを食べたくなりますよね…ということで、カンジャンケジャンを堪能した後はインスタ映え間違いなしのフォトジェニックなスイーツを堪能しましょう！韓国の伝統的な揚げツイストドーナツ「クァベギ」をはじめ、SNSで人気の「猫プリン」や進化系チュロスの「ディップチュロス」など、かわいくておいしいスイーツを楽しんでくださいね。",
+        "image": {
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/Lzh5zXp4Dk0rC5mghLi98QgC7zSKlhdUxKoj8v-mHsU/1536x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/Lzh5zXp4Dk0rC5mghLi98QgC7zSKlhdUxKoj8v-mHsU/1536x799.jpg",
+              "width": 1536
+            },
+            {
+              "height": 322,
+              "url": "https://a.mktgcdn.com/p-sandbox/Lzh5zXp4Dk0rC5mghLi98QgC7zSKlhdUxKoj8v-mHsU/619x322.jpg",
+              "width": 619
+            },
+            {
+              "height": 312,
+              "url": "https://a.mktgcdn.com/p-sandbox/Lzh5zXp4Dk0rC5mghLi98QgC7zSKlhdUxKoj8v-mHsU/600x312.jpg",
+              "width": 600
+            },
+            {
+              "height": 102,
+              "url": "https://a.mktgcdn.com/p-sandbox/Lzh5zXp4Dk0rC5mghLi98QgC7zSKlhdUxKoj8v-mHsU/196x102.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Lzh5zXp4Dk0rC5mghLi98QgC7zSKlhdUxKoj8v-mHsU/1536x799.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "15:00｜インスタ映え抜群！フォトジェニックなスイーツを堪能"
+      },
+      {
+        "description": "日本でも若い女性を中心に大人気なオルチャンファッションを購入するなら多くの店舗が立ち並ぶ「江南 （カンナム）」 へ！普段通販で購入している方も生地やサイズを確かめながら選べるので思う存分購入できるチャンスです。最新のファッションをプチプラで購入できる買い物天国に、お財布のひもがついつい緩んでしまいます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "16:00｜江南で最新オルチャンファッションをチェック"
+      },
+      {
+        "description": "韓国最後の夜は、異国情緒溢れる街「梨泰院 （イテウォン ）」へ。アメリカ軍基地が近く、外国人が多く住んでいるエリアです。オシャレなバーやレストランも多く、国際色溢れるグルメが楽しめます。マスカットマッコリが美味しい韓国料理店でプルコギをチヂミで挟んだメニューを堪能してみては？",
+        "sectionLevel": "h3",
+        "sectionTitle": "19:00｜インターナショナルな街「梨泰院」で夜ごはん"
+      },
+      {
+        "description": "最終日は、韓国の伝統衣装「チマチョゴリ」を体験して締めくくりましょう！空港でお土産をたくさんゲットして帰国してくださいね。",
+        "sectionLevel": "h2",
+        "sectionTitle": "3日目"
+      },
+      {
+        "description": "最終日の朝ごはんは黒ゴマやアワビなどバラエティ豊富なお粥と、じゃがいもの粉をつかったもちもち餃子で人気のお店へ。 日本の芸能人のサインや写真もたくさん飾ってあり、韓国人だけでなく日本人にも大人気のお店です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "10:00｜最終日はお粥でヘルシー朝ごはん"
+      },
+      {
+        "description": "写真が撮り足りない！そんな方は韓国の伝統服「チマチョゴリ」を体験してみては？カラフルな衣装を友達と選ぶのもとっても楽しい時間。明洞（ミョンドン）にはチマチョゴリをレンタルできる場所もあり観光客で賑わっています。時間に余裕があれば、絶対におすすめです！",
+        "sectionLevel": "h3",
+        "sectionTitle": "12:00｜明洞でチマチョゴリ体験"
+      },
+      {
+        "description": "気軽に行けて、買い物もグルメも楽しみながらフォトジェニックな写真もたくさん撮れる韓国はいまっぽ女子に大人気な旅行先。どの観光地にも近い明洞（ミョンドン）で宿をとれば効率よく回ることが出来ます。JTBの韓国ツアーなら24時間日本語対応なので滞在中も安心です。週末や3連休に、仲良しの友達や家族を誘って韓国を思いっきり満喫してください。",
+        "sectionLevel": "h2",
+        "sectionTitle": "気軽に行けて大満足の韓国を楽しんで"
+      }
+    ],
+    "c_news_PublicationDate": "2020-02-14",
+    "c_news_UpdateDate": "2024-10-17",
+    "c_news_ViewCount": "71310",
+    "c_news_ViewCount2of2": "71310",
+    "c_news_ViewCountNum": "71310",
+    "c_news_ViewCountNumForSorting": "5280",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_web_kaigai_0001",
+    "c_relatedAreas": [
+      "korea"
+    ],
+    "name": "韓国・ソウルの2泊3日おすすめモデルコース！女子旅を満喫",
+    "slug": "kaigai/asia/korea/news_web_kaigai_0001",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "$id": "ap_osarea_0000098",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "「ザ・デック」はリバーフロントのテラス席が人気のレストラン＆バー。オープンエアの店内席からも眺望を楽しむことができます。世界各地の料理を融合させた独創的なフュージョン料理が特徴で、「フーコック産エビの春巻き」26万VNDや「ローストダックとスイカ、カシューナッツのサラダ」25万VNDなど多彩なアラカルトを揃えています。",
+        "image": {
+          "alternateText": "川を望む窓際の席は予約がベター",
+          "height": 645,
+          "sourceUrl": "https://a.mktgcdn.com/p/i86r1t835Z2tNfkvsj6z6CWL_M0Q_c7KN2vqb60J0yQ/967x645.jpg",
+          "thumbnails": [
+            {
+              "height": 645,
+              "url": "https://a.mktgcdn.com/p-sandbox/i86r1t835Z2tNfkvsj6z6CWL_M0Q_c7KN2vqb60J0yQ/967x645.jpg",
+              "width": 967
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/i86r1t835Z2tNfkvsj6z6CWL_M0Q_c7KN2vqb60J0yQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/i86r1t835Z2tNfkvsj6z6CWL_M0Q_c7KN2vqb60J0yQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/i86r1t835Z2tNfkvsj6z6CWL_M0Q_c7KN2vqb60J0yQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/i86r1t835Z2tNfkvsj6z6CWL_M0Q_c7KN2vqb60J0yQ/967x645.jpg",
+          "width": 967
+        },
+        "imageCaption": "川を望む窓際の席は予約がベター",
+        "sectionTitle": "ザ・デック（The Deck）"
+      },
+      {
+        "description": "料理とともに味わいたいのは、100種類以上のワインやカクテルの数々。オリジナルレシピのモヒート24万VNDなどは、夜景を眺めながらの食後の一杯にぴったりです。DATAThe Deck住所：38 Nguyễn Ư Di, Thảo Điền, TP. Thủ Đức営業時間：8～23時ごろ定休日：なし",
+        "image": {
+          "alternateText": "朝食からディナーまで終日利用できる",
+          "height": 1934,
+          "sourceUrl": "https://a.mktgcdn.com/p/6ymoJrBAa8zcbQpebcXuTWtztoZsqqZz0cQiy67QOVw/1289x1934.jpg",
+          "thumbnails": [
+            {
+              "height": 1934,
+              "url": "https://a.mktgcdn.com/p-sandbox/6ymoJrBAa8zcbQpebcXuTWtztoZsqqZz0cQiy67QOVw/1289x1934.jpg",
+              "width": 1289
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/6ymoJrBAa8zcbQpebcXuTWtztoZsqqZz0cQiy67QOVw/1266x1900.jpg",
+              "width": 1266
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/6ymoJrBAa8zcbQpebcXuTWtztoZsqqZz0cQiy67QOVw/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/6ymoJrBAa8zcbQpebcXuTWtztoZsqqZz0cQiy67QOVw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/6ymoJrBAa8zcbQpebcXuTWtztoZsqqZz0cQiy67QOVw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6ymoJrBAa8zcbQpebcXuTWtztoZsqqZz0cQiy67QOVw/1289x1934.jpg",
+          "width": 1289
+        },
+        "imageCaption": "朝食からディナーまで終日利用できる",
+        "sectionTitle": "ザ・ウィンテージ・エンポリウム（The Vintage Emporium）"
+      },
+      {
+        "description": "邸宅を改装したレストラン「ザ・ヴィンテージ・エンポリウム」は、まるでセレブの家にお邪魔しているかのような非日常感！ 緑のアーチが美しいアプローチや優雅なインテリアのエントランスホールなど、思わずSNSにアップしたくなる空間が魅力です。",
+        "image": {
+          "alternateText": "白を基調にした高級感あふれる店内",
+          "height": 1029,
+          "sourceUrl": "https://a.mktgcdn.com/p/Uv_1J83z_fV0xH2IzZkzaqFbj0rF7LRdGX3cEvXsLfE/1543x1029.jpg",
+          "thumbnails": [
+            {
+              "height": 1029,
+              "url": "https://a.mktgcdn.com/p-sandbox/Uv_1J83z_fV0xH2IzZkzaqFbj0rF7LRdGX3cEvXsLfE/1543x1029.jpg",
+              "width": 1543
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Uv_1J83z_fV0xH2IzZkzaqFbj0rF7LRdGX3cEvXsLfE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Uv_1J83z_fV0xH2IzZkzaqFbj0rF7LRdGX3cEvXsLfE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Uv_1J83z_fV0xH2IzZkzaqFbj0rF7LRdGX3cEvXsLfE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Uv_1J83z_fV0xH2IzZkzaqFbj0rF7LRdGX3cEvXsLfE/1543x1029.jpg",
+          "width": 1543
+        },
+        "imageCaption": "白を基調にした高級感あふれる店内",
+        "sectionTitle": "ビストロ・ソン・ヴィ（Bistro Sông Vie）"
+      },
+      {
+        "description": "オーナー夫婦にゆかりのあるシドニーのカフェからヒントを得たというメニューは、どれもヘルシーで見た目も鮮やか。契約農家から仕入れた食材を使うなど、健康にも配慮した料理を心がけているそう。スイーツなら、マンゴーやパッションフルーツを飾った「パブロバ」13万VNDをぜひ。ビートルートの「ピンクラテ」8万VNDとバタフライピーの「ブルーラテ」6万VNDなど、カラフルなドリンクにも注目して！DATAThe Vintage Emporium住所：1 Đường Số 39, TP. Thủ Đức営業時間：8時30分～22時30分定休日：なし",
+        "image": {
+          "alternateText": "南国フルーツたっぷりのヘルシー料理",
+          "height": 549,
+          "sourceUrl": "https://a.mktgcdn.com/p/FOAxMWzGhxsjWyAKJrp8Nt-96haZkV0Cu8MJlRdgAEY/823x549.jpg",
+          "thumbnails": [
+            {
+              "height": 549,
+              "url": "https://a.mktgcdn.com/p-sandbox/FOAxMWzGhxsjWyAKJrp8Nt-96haZkV0Cu8MJlRdgAEY/823x549.jpg",
+              "width": 823
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/FOAxMWzGhxsjWyAKJrp8Nt-96haZkV0Cu8MJlRdgAEY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/FOAxMWzGhxsjWyAKJrp8Nt-96haZkV0Cu8MJlRdgAEY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/FOAxMWzGhxsjWyAKJrp8Nt-96haZkV0Cu8MJlRdgAEY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FOAxMWzGhxsjWyAKJrp8Nt-96haZkV0Cu8MJlRdgAEY/823x549.jpg",
+          "width": 823
+        },
+        "imageCaption": "南国フルーツたっぷりのヘルシー料理",
+        "sectionTitle": "トロワ・グルマン（Trois Gourmands）"
+      },
+      {
+        "description": "「ビストロ・ソン・ヴィ」はコロニアル調の建物が美しいホテル、ヴィラ・ソン・サイゴン内にあるダイニングです。エレガントな内装の店内席も素敵ですが、天気のいい日はぜひサイゴン川に面する屋外の席へ。パラソルが並ぶテラスでくつろげば、日常を忘れてリゾート気分に浸れること間違いなしです。",
+        "image": {
+          "alternateText": "リバービューのテラス席が狙い目",
+          "height": 1715,
+          "sourceUrl": "https://a.mktgcdn.com/p/mX-1IFjs9oSdB-KqMFXwZR1tZWrJEOnpZUo5CzSiSGE/2572x1715.jpg",
+          "thumbnails": [
+            {
+              "height": 1715,
+              "url": "https://a.mktgcdn.com/p-sandbox/1TSDLjiQkHO-Qr2s2pNwUmOKG62Jzsn8Wo_7wZelGU4/2572x1715.jpg",
+              "width": 2572
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/1TSDLjiQkHO-Qr2s2pNwUmOKG62Jzsn8Wo_7wZelGU4/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/1TSDLjiQkHO-Qr2s2pNwUmOKG62Jzsn8Wo_7wZelGU4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/1TSDLjiQkHO-Qr2s2pNwUmOKG62Jzsn8Wo_7wZelGU4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/1TSDLjiQkHO-Qr2s2pNwUmOKG62Jzsn8Wo_7wZelGU4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1TSDLjiQkHO-Qr2s2pNwUmOKG62Jzsn8Wo_7wZelGU4/2572x1715.jpg",
+          "width": 2572
+        },
+        "imageCaption": "リバービューのテラス席が狙い目",
+        "sectionTitle": "クレイ・サイゴン（CLAY Saigon）"
+      },
+      {
+        "description": "コンセプトは「ダイニング・バイ・ザ・リバー」。ベトナムをはじめとしたアジア各国のフュージョン料理を提供しています。「シンガポール・チリクラブ風のパスタ」30万8000VND、「アヒル肉の春巻き」17万8000VNDなど、川の食材を使った料理にトライしてみて。DATABistro Sông Vie住所：Villa Sông Saigon, 197/2 Nguyễn Văn Hưởng, TP. Thủ Đức営業時間：6～23時定休日：なし",
+        "image": {
+          "alternateText": "左：シンガポール・チリクラブ風のパスタ30万8000VND、右：アヒルの肉の春巻17万8000VNDなど",
+          "height": 446,
+          "sourceUrl": "https://a.mktgcdn.com/p/4zrVYyXNbK7A_TC4fj36_dd8PNhnCY60wepMHxHhibA/669x446.jpg",
+          "thumbnails": [
+            {
+              "height": 446,
+              "url": "https://a.mktgcdn.com/p-sandbox/4zrVYyXNbK7A_TC4fj36_dd8PNhnCY60wepMHxHhibA/669x446.jpg",
+              "width": 669
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/4zrVYyXNbK7A_TC4fj36_dd8PNhnCY60wepMHxHhibA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/4zrVYyXNbK7A_TC4fj36_dd8PNhnCY60wepMHxHhibA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/4zrVYyXNbK7A_TC4fj36_dd8PNhnCY60wepMHxHhibA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4zrVYyXNbK7A_TC4fj36_dd8PNhnCY60wepMHxHhibA/669x446.jpg",
+          "width": 669
+        },
+        "imageCaption": "左：シンガポール・チリクラブ風のパスタ30万8000VND、右：アヒルの肉の春巻17万8000VNDなど"
+      },
+      {
+        "description": "ホーチミンに数あるフレンチレストランの中でも、本格的な料理を楽しめると評判なのが「トロワ・グルマン」。伝統的な南仏料理にアジアの食材をプラスしており、自家製のチーズも自慢です。その味は、ホーチミンに住む在住フランス人も認めるほどだとか。メニューはランチ・ディナーともにプリフィックスのコース仕立てで、5品199万VND～です。",
+        "image": {
+          "alternateText": "パクチーをしのばせたカニのタルタル",
+          "height": 967,
+          "sourceUrl": "https://a.mktgcdn.com/p/xA74C9Ue-OTjw8Mtr-gQ0LsjS3lYLE_weJLMQoaF3_4/645x967.jpg",
+          "thumbnails": [
+            {
+              "height": 967,
+              "url": "https://a.mktgcdn.com/p-sandbox/xA74C9Ue-OTjw8Mtr-gQ0LsjS3lYLE_weJLMQoaF3_4/645x967.jpg",
+              "width": 645
+            },
+            {
+              "height": 928,
+              "url": "https://a.mktgcdn.com/p-sandbox/xA74C9Ue-OTjw8Mtr-gQ0LsjS3lYLE_weJLMQoaF3_4/619x928.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/xA74C9Ue-OTjw8Mtr-gQ0LsjS3lYLE_weJLMQoaF3_4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/xA74C9Ue-OTjw8Mtr-gQ0LsjS3lYLE_weJLMQoaF3_4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xA74C9Ue-OTjw8Mtr-gQ0LsjS3lYLE_weJLMQoaF3_4/645x967.jpg",
+          "width": 645
+        },
+        "imageCaption": "パクチーをしのばせたカニのタルタル"
+      },
+      {
+        "description": "「トロワ・グルマン」の魅力は料理のおいしさだけにあらず！ フランス映画に登場しそうな洗練された空間も、このお店の人気の秘密です。緑に包まれた白亜の洋館を一軒丸ごと利用しており、店内はクラシカル。芝生の中庭に並んだテーブル席で、プチぜいたくなランチを楽しんでみては？DATATrois Gourmands住所：39 Trần Ngọc Diện, Thảo Điền, TP. Thủ Đức営業時間：11時30分～14時、17時30分～22時30分定休日：月曜",
+        "image": {
+          "alternateText": "広い中庭にテーブル席が並ぶ",
+          "height": 1481,
+          "sourceUrl": "https://a.mktgcdn.com/p/-qtwNQe4cl6P5bPTIoAol2Q1sbHrAnSMsW3Hur4-Cbo/1975x1481.jpg",
+          "thumbnails": [
+            {
+              "height": 1481,
+              "url": "https://a.mktgcdn.com/p-sandbox/-qtwNQe4cl6P5bPTIoAol2Q1sbHrAnSMsW3Hur4-Cbo/1975x1481.jpg",
+              "width": 1975
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p-sandbox/-qtwNQe4cl6P5bPTIoAol2Q1sbHrAnSMsW3Hur4-Cbo/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/-qtwNQe4cl6P5bPTIoAol2Q1sbHrAnSMsW3Hur4-Cbo/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/-qtwNQe4cl6P5bPTIoAol2Q1sbHrAnSMsW3Hur4-Cbo/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/-qtwNQe4cl6P5bPTIoAol2Q1sbHrAnSMsW3Hur4-Cbo/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-qtwNQe4cl6P5bPTIoAol2Q1sbHrAnSMsW3Hur4-Cbo/1975x1481.jpg",
+          "width": 1975
+        },
+        "imageCaption": "広い中庭にテーブル席が並ぶ"
+      },
+      {
+        "description": "2022年8月にオープンするなり、流行に敏感なバンコクっ子の間で話題になったのが「クレイ・サイゴン」。ガスや電気を一切使わない、炭火調理にこだわったアジア料理レストランです。サイゴン川に面した緑あふれるテラス席はまさに都会のオアシス。景色を楽しみながらのんびりと食事を楽しめます。",
+        "image": {
+          "alternateText": "リバービューのテラス席。週末はＤＪが入り賑やかに",
+          "height": 2000,
+          "sourceUrl": "https://a.mktgcdn.com/p/8lgvg-MmFGvHZRsD_GWeekBft2tj-3o36A85ZBQ1XpQ/3000x2000.jpg",
+          "thumbnails": [
+            {
+              "height": 2000,
+              "url": "https://a.mktgcdn.com/p-sandbox/5QO6K1QJBN3gp5pJDtlLS4u3jvjSeU8KmQ24PuWDKhI/3000x2000.jpg",
+              "width": 3000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/5QO6K1QJBN3gp5pJDtlLS4u3jvjSeU8KmQ24PuWDKhI/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/5QO6K1QJBN3gp5pJDtlLS4u3jvjSeU8KmQ24PuWDKhI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/5QO6K1QJBN3gp5pJDtlLS4u3jvjSeU8KmQ24PuWDKhI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/5QO6K1QJBN3gp5pJDtlLS4u3jvjSeU8KmQ24PuWDKhI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5QO6K1QJBN3gp5pJDtlLS4u3jvjSeU8KmQ24PuWDKhI/3000x2000.jpg",
+          "width": 3000
+        },
+        "imageCaption": "リバービューのテラス席。週末はＤＪが入り賑やかに"
+      },
+      {
+        "description": "多彩なメニューはアジア料理を研究し尽くしたフランス人シェフによるもの。旬の食材を巧みに使用した盛り付けも美しいグリル料理をアラカルトで堪能できます。パッションフルーツを使った「ボーンスター・マティーニ」18万8000VNDなど、オシャレなカクテルもご一緒に。DATACLAY Saigon住所：18 Đường Số 6, TP. Thủ Đức営業時間：15～24時（土・日曜11時～）定休日：月曜※2023年8月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。",
+        "image": {
+          "alternateText": "牛の骨髄の味噌ソース焼き29万VND",
+          "height": 2000,
+          "sourceUrl": "https://a.mktgcdn.com/p/Jipf2IxqhJyn6t8gcNE3Cvu7FcHXDycNZYy596wg_pY/3000x2000.jpg",
+          "thumbnails": [
+            {
+              "height": 2000,
+              "url": "https://a.mktgcdn.com/p-sandbox/J_lqMimDanlie1zxJMDShfDrQSn0Q_dx9yZTTdeD1X8/3000x2000.jpg",
+              "width": 3000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/J_lqMimDanlie1zxJMDShfDrQSn0Q_dx9yZTTdeD1X8/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/J_lqMimDanlie1zxJMDShfDrQSn0Q_dx9yZTTdeD1X8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/J_lqMimDanlie1zxJMDShfDrQSn0Q_dx9yZTTdeD1X8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/J_lqMimDanlie1zxJMDShfDrQSn0Q_dx9yZTTdeD1X8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/J_lqMimDanlie1zxJMDShfDrQSn0Q_dx9yZTTdeD1X8/3000x2000.jpg",
+          "width": 3000
+        },
+        "imageCaption": "牛の骨髄の味噌ソース焼き29万VND"
+      }
+    ],
+    "c_ap_DatePosted": "2023-09-21",
+    "c_ap_HeroImage": {
+      "alternateText": "リゾート感満点！ リバーサイドエリアのグルメアドレス【ベトナム　ホーチミン】",
+      "height": 720,
+      "sourceUrl": "https://a.mktgcdn.com/p/Lg-Qrh_OvrvgIr_wxaKp_hflLzXeH-VxI_BHu74l6as/1080x720.jpg",
+      "thumbnails": [
+        {
+          "height": 720,
+          "url": "https://a.mktgcdn.com/p-sandbox/Lg-Qrh_OvrvgIr_wxaKp_hflLzXeH-VxI_BHu74l6as/1080x720.jpg",
+          "width": 1080
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/Lg-Qrh_OvrvgIr_wxaKp_hflLzXeH-VxI_BHu74l6as/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/Lg-Qrh_OvrvgIr_wxaKp_hflLzXeH-VxI_BHu74l6as/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/Lg-Qrh_OvrvgIr_wxaKp_hflLzXeH-VxI_BHu74l6as/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Lg-Qrh_OvrvgIr_wxaKp_hflLzXeH-VxI_BHu74l6as/1080x720.jpg",
+      "width": 1080
+    },
+    "c_ap_HeroImageCaption": "穏やかな川の流れを望むテラス席が特等席！",
+    "c_ap_LinkArticleSectionTitle": "ベトナムのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "ベトナム旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/vietnam/"
+      },
+      {
+        "linkText": "ホーチミンのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dSGN"
+      },
+      {
+        "linkText": "ベトナムのホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/194/?freeword\u003d%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d194"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea4": [
+      "ベトナム"
+    ],
+    "c_ap_ShortDescription": "市内を蛇行するように流れるサイゴン川は、ホーチミンのシンボル。サイゴン川に3方を囲まれた高級住宅街のタオディエン地区には、話題のグルメアドレスが集まっています。テラス席からサイゴン川を望むリバービューレストランや、中庭が素敵な一軒レストランで、ハイエンドなリゾート気分を満喫して。（写真：ビストロ・ソン・ヴィ）",
+    "c_ap_Tags": [
+      "ホーチミン",
+      "ベトナム料理",
+      "リバーサイド"
+    ],
+    "c_ap_Title": "リゾート感満点！ リバーサイドエリアのグルメアドレス【ベトナム　ホーチミン】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "市内を蛇行するように流れるサイゴン川は、ホーチミンのシンボル。サイゴン川に3方を囲まれた高級住宅街のタオディエン地区には、話題のグルメアドレスが集まっています。テラス席からサイゴン川を望むリバービューレストランや、中庭が素敵な一軒レストランで、ハイエンドなリゾート気分を満喫して。（写真：ビストロ・ソン・ヴィ）",
+    "c_metaTitle": "リゾート感満点！ リバーサイドエリアのグルメアドレス【ベトナム　ホーチミン】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000098",
+    "name": "リゾート感満点！ リバーサイドエリアのグルメアドレス【ベトナム　ホーチミン】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

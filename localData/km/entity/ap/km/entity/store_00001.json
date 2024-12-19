@@ -1,0 +1,223 @@
+{
+  "$id": "ap_store_00001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBイランカラプテ北海道（オンライン相談デスク）",
+      "link": "https://stores.jtb.co.jp/lc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfr",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "北海道のほぼ中央部、新千歳空港から車で約1時間30分のところに位置する「星野リゾート トマム」。東京ドーム213個分の1000万平方メートルという広大な敷地を持つリゾート施設です。「トマム ザ・タワー」と「リゾナーレトマム」の4棟の超高層ホテルを中心に、多彩な29コースを誇るトマムスキー場や、牛や羊が草を食むのどかなファームエリアなどが広がり、波のあるプール施設のミナミナビーチ、水の教会、レストランが集まるホタルストリートなど、多彩な施設が点在します。さらに、トマムでは、周辺の大自然の中で、ラフティングやカヌー、気球フライト、乗馬体験など、季節ごとに魅力溢れるアクティビティを楽しむことができます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/4hgqYOH-xR5Z_DLJyf9aFerM3L21d3EkmfAIwzdOeok/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/4hgqYOH-xR5Z_DLJyf9aFerM3L21d3EkmfAIwzdOeok/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/4hgqYOH-xR5Z_DLJyf9aFerM3L21d3EkmfAIwzdOeok/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/4hgqYOH-xR5Z_DLJyf9aFerM3L21d3EkmfAIwzdOeok/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/4hgqYOH-xR5Z_DLJyf9aFerM3L21d3EkmfAIwzdOeok/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4hgqYOH-xR5Z_DLJyf9aFerM3L21d3EkmfAIwzdOeok/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "雲海テラス",
+        "sectionTitle": "大自然の中で贅沢なリゾートステイを堪能できる「星野リゾート トマム」"
+      },
+      {
+        "description": "「雲海テラス」は、そんなトマムの施設の一つです。冬のスキー場で活躍するゴンドラを夏場に整備するスタッフがいつも見ていた雲海。それをお客様にも見てもらいたい、という想いから誕生したそうです。雲海テラスは、トマム山の山腹、標高1088m地点にあり、山麓駅から13分の空中散歩で行く雲海ゴンドラの山頂駅に隣接しています。雲海を間近で観賞できる、高さ12m、3階建ての展望施設で、1階は空中にせり出す展望デッキ、2階は屋根のあるソファスペース、最上階では雲海に加え、日高山脈の山々など、自然が織りなす絶景をより広く見渡すことができます。雲海の景観はもちろんですが、ここでの感動は併設の「雲Cafe」にも。ふわふわの雲をイメージした「雲ソフト」や、青い空と白い雲海を表現した「雲海オレ」など、見た目も感動もののスイーツやドリンクをぜひ召し上がってください。インスタ映えもバッチリですよ。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/BaCL752imeMF0U9rAa1VG9zRg8VBdeo5bwCY71eQByY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/BaCL752imeMF0U9rAa1VG9zRg8VBdeo5bwCY71eQByY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/BaCL752imeMF0U9rAa1VG9zRg8VBdeo5bwCY71eQByY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/BaCL752imeMF0U9rAa1VG9zRg8VBdeo5bwCY71eQByY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/BaCL752imeMF0U9rAa1VG9zRg8VBdeo5bwCY71eQByY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BaCL752imeMF0U9rAa1VG9zRg8VBdeo5bwCY71eQByY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "クラウドプール",
+        "sectionTitle": "空中にせり出したテラスから臨むダイナミックな景色は圧巻"
+      },
+      {
+        "description": "雲海テラスでしばし雲海を楽しんだ後には、山頂駅から続く山道に点在するユニークな展望スポットをお楽しみください。バーカウンターをイメージしたクラウドバーをはじめ、クラウドウォーク、クラウドベッド、クラウドプールなど、どれも眼下に広がるダイナミックな雲海を存分に楽しめること請け合いです。雲海鑑賞後には、トマムの多彩な施設やアクティビティでリゾート気分を満喫してください。敷地内には、和・洋・中20以上のレストランもあります。スープカレーやジンギスカンなど、道産食材をふんだんに使用したお食事が絶品です。コロナ対応で、一部レストランではテイクアウトも対応しているため、ゆったりとしたお部屋で食事することも可能です。インスタ映えする大自然の景色は女子旅に、感動の絶景はご夫婦にとってかけがえのない思い出の一ページに、魅力あふれるアクティビティは三世代旅行にと、幅広い世代の方にご満足いただけるディスティネーション、それが、星野リゾート　トマムです。ぜひ、皆様も実際にお越しいただき、思う存分北海道・トマムの魅力を堪能してみてはいかがでしょうか。----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/ewysYUbDPKMRh3JztD-DbIHOcmBcVpFosPl-YyicIo0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/ewysYUbDPKMRh3JztD-DbIHOcmBcVpFosPl-YyicIo0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ewysYUbDPKMRh3JztD-DbIHOcmBcVpFosPl-YyicIo0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ewysYUbDPKMRh3JztD-DbIHOcmBcVpFosPl-YyicIo0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ewysYUbDPKMRh3JztD-DbIHOcmBcVpFosPl-YyicIo0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ewysYUbDPKMRh3JztD-DbIHOcmBcVpFosPl-YyicIo0/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionTitle": "ユニークな展望スポットや多彩なリゾート施設が満載！"
+      }
+    ],
+    "c_ap_DatePosted": "2021-09-29",
+    "c_ap_HeroImage": {
+      "alternateText": "感動の絶景！ 朝焼けに映えるトマムのダイナミックな雲海【北海道】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/NjFqX5IzSk5z2og03mVhI5kqV2SRfkk5Qqm_A1ROS0s/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/NjFqX5IzSk5z2og03mVhI5kqV2SRfkk5Qqm_A1ROS0s/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/NjFqX5IzSk5z2og03mVhI5kqV2SRfkk5Qqm_A1ROS0s/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/NjFqX5IzSk5z2og03mVhI5kqV2SRfkk5Qqm_A1ROS0s/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/NjFqX5IzSk5z2og03mVhI5kqV2SRfkk5Qqm_A1ROS0s/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/NjFqX5IzSk5z2og03mVhI5kqV2SRfkk5Qqm_A1ROS0s/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "星野リゾート トマムのクラウドバーから臨む絶景",
+    "c_ap_LinkArticleSectionTitle": "北海道のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "この記事の投稿店舗にリモート相談予約をする",
+        "uRL": "https://stores.jtb.co.jp/lc-0001"
+      },
+      {
+        "linkText": "Webで予約できる星野リゾート トマム ザ・タワーの宿泊プラン",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/1578006/plan/"
+      },
+      {
+        "linkText": "Webで予約できる星野リゾート リゾナーレトマムの宿泊プラン",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/1578020/plan/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談できるトラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea1": [
+      "北海道"
+    ],
+    "c_ap_ShortDescription": "2021年夏に「雲海テラス」がリニューアルオープンした「星野リゾート トマム」。ここでは、春から秋にかけて天候などの条件に恵まれると「雲海」を見ることができます。空中にせり出す展望デッキからまるで雲に乗って世界を見渡しているかのような錯覚に襲われるのはまさにここでしか味わえない貴重な体験です。雲海が見られるのは主に5月から10月半ばまで、発生する確率は40％ほどと言われています。明け方の発生率が最も高いため、鑑賞のタイミングとしては早朝がベスト。見事な雲海は地元の人もなかなか見ることができず、何度も訪れる方もいらっしゃるとか。道外からのお越しの際は連泊での宿泊がおすすめです。",
+    "c_ap_Tags": [
+      "雲海",
+      "展望デッキ",
+      "トマム",
+      "インスタ映え"
+    ],
+    "c_ap_Title": "感動の絶景！ 朝焼けに映えるトマムのダイナミックな雲海【北海道】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "2021年夏に「雲海テラス」がリニューアルオープンした「星野リゾート トマム」。ここでは、春から秋にかけて天候などの条件に恵まれると「雲海」を見ることができます。空中にせり出す展望デッキからまるで雲に乗って世…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "感動の絶景！ 朝焼けに映えるトマムのダイナミックな雲海【北海道】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_store_00001",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "感動の絶景！ トマムの雲海【北海道】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

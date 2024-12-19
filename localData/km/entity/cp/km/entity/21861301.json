@@ -1,0 +1,72 @@
+{
+  "$id": "cp_21861301",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "京都府",
+    "c_cp_CTA1": {
+      "label": "まえだ の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVqdBc",
+      "linkType": "OTHER"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBdxq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "旅行に行くと ありとあらゆる欲望を叶えようとして ついつい散財してしまう癖があり 旅行後に必ず冷静な自分に戒められるルーティンを 入社してからずっと続行中です。\nでも旅行ってそういうものじゃないかと思っています。\nせっかく行くんですから！もう来ることない土地かもしれないんですから！\nお客様のやりたい事、食べたいもの、観たいもの、できるだけ叶えるお手伝いをさせてください。\n店頭でお待ち申し上げております。",
+    "c_cp_DisplayName": "まえだ",
+    "c_cp_HiraganaName": "まえだ",
+    "c_cp_JobTitle": "JTBイオンモール京都五条店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 640,
+      "sourceUrl": "https://a.mktgcdn.com/p/DZGVgwCpzldg07H1tuMRog25BJiKNWysxzVo0-sF8yM/480x640.jpg",
+      "thumbnails": [
+        {
+          "height": 640,
+          "url": "https://a.mktgcdn.com/p-sandbox/DZGVgwCpzldg07H1tuMRog25BJiKNWysxzVo0-sF8yM/480x640.jpg",
+          "width": 480
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/DZGVgwCpzldg07H1tuMRog25BJiKNWysxzVo0-sF8yM/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/DZGVgwCpzldg07H1tuMRog25BJiKNWysxzVo0-sF8yM/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/DZGVgwCpzldg07H1tuMRog25BJiKNWysxzVo0-sF8yM/480x640.jpg",
+      "width": 480
+    },
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "ハワイスペシャリスト上級",
+      "アジアシティ（台湾・韓国・タイ）",
+      "温泉",
+      "北海道・九州・沖縄"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | まえだ",
+    "c_metaTitle": "JTBトラベルコンサルタント | まえだ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21861301",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10303_イオンモール京都五条店",
+    "name": "まえだ_21861301",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

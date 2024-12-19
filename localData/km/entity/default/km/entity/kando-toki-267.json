@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-267",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/267_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d34.987616%2C135.759345",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "京都府",
+    "c_searchTags": [
+      "京都府",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "夏",
+      "文化・伝統"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "京都の夏の風物詩、「五山の送り火」。六つの字や図形をかたどった送り火はお盆に迎えた祖先の霊魂をあの世へ送り届ける灯火であり、京都の人々の祖先への想いが込められています。8月16日の夜、20時ちょうどから送り火の点火が始まります。一番最初に火が点されるのは、大文字山（如意ヶ嶽）の「大文字」。それから5分おきに、「松ケ崎妙法」、「船形万灯籠」、「左大文字」、「鳥居形松明」と順々に点火されていきます。巨大な火文字が夜空に浮かび上がるたびに市内のあちらこちらで鑑賞している人々からは感嘆の声がもれ、次の文字が浮かぶ様子を見守ります。送り火はおよそ30分ほど燃え続け、その火が消えてしまうと、祖先の霊魂を見送った人々は故人の思い出を偲びながら家路につきます。\n京都五山送り火連合会",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/267.asp",
+    "name": "京都五山送り火"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

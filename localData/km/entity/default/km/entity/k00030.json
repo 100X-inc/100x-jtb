@@ -1,0 +1,14 @@
+{
+  "$id": "k00030",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_answer_HTML": "ご予約のお客様を優先してご案内しておりますので、ご予約が無い場合、順番までお待たせすることが予想されます。\u003cbr\u003eなお、相談予約は店舗ホームページからお申込みください。\u003cbr\u003e【JTB店舗検索】\u003ca href\u003d\"https://stores.jtb.co.jp/search\" target\u003d\"_blank\"\u003ehttps://stores.jtb.co.jp/search\u003c/a\u003e",
+    "landingPageUrl": "https://customerhelp.jtb.co.jp/s/article/k00030",
+    "name": "【相談予約】来店予約は必ず必要ですか？",
+    "question": "【相談予約】来店予約は必ず必要ですか？"
+  },
+  "entityType": "faq",
+  "labels": []
+}

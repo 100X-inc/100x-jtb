@@ -1,0 +1,34 @@
+{
+  "$id": "news_pa_taiwan",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreasCTA": {
+      "label": "台湾テスト",
+      "link": "/kaigai/asia/taiwan",
+      "linkType": "OTHER"
+    },
+    "c_news_PopularAreasImage": {
+      "alternateText": "台湾",
+      "height": 120,
+      "sourceUrl": "https://a.mktgcdn.com/p/Op5FThevgUQR5p0dwhXygESGVnHE_3Upf-MJNy7jMFY/308x120.png",
+      "thumbnails": [
+        {
+          "height": 120,
+          "url": "https://a.mktgcdn.com/p-sandbox/Op5FThevgUQR5p0dwhXygESGVnHE_3Upf-MJNy7jMFY/308x120.png",
+          "width": 308
+        },
+        {
+          "height": 76,
+          "url": "https://a.mktgcdn.com/p-sandbox/Op5FThevgUQR5p0dwhXygESGVnHE_3Upf-MJNy7jMFY/196x76.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Op5FThevgUQR5p0dwhXygESGVnHE_3Upf-MJNy7jMFY/308x120.png",
+      "width": 308
+    },
+    "name": "台湾"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

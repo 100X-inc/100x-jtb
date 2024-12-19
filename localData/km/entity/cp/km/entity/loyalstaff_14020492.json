@@ -1,0 +1,143 @@
+{
+  "$id": "cp_loyalstaff_14020492",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "神奈川県",
+    "c_cp_CTA1": {
+      "label": "山田 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVeVxVy",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf9Bq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "自身の豊富な旅行経験から、国内海外問わずお客様にピッタリの旅をご提案させていただきます。ロイヤルスタッフ歴14年、JTBのラグジュアリートラベルやブライダル専門部門での勤務経験もございますので、オーダーメイド旅行やハネムーンのご相談等も是非お気軽にお問合せください。皆さまのご旅行のお手伝いが出来ることを楽しみにしております。",
+    "c_cp_DisplayName": "山田 真弓",
+    "c_cp_EnrollmentArea": "東京",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "夫婦旅",
+      "記念旅行",
+      "クルーズ",
+      "寺社・教会"
+    ],
+    "c_cp_GeneralInfo": [
+      "総合旅行業取扱管理者",
+      "旅程管理（総合）",
+      "クルーズコンサルタント",
+      "ウエディングコンサルタント",
+      "ハワイスペシャリスト（上級）",
+      "エリアスペシャリスト（ヨーロッパⅢ）",
+      "オージースペシャリスト・ニュージーランドスペシャリスト",
+      "好きな国：ハワイ（30回以上の渡航歴あり）"
+    ],
+    "c_cp_HeroImage": {
+      "height": 1200,
+      "sourceUrl": "https://a.mktgcdn.com/p/mM3w164npPE4PqIpR3UWp3HiJNBuIYMQ2No2sB_ZQcw/1600x1200.jpg",
+      "thumbnails": [
+        {
+          "height": 1200,
+          "url": "https://a.mktgcdn.com/p-sandbox/mM3w164npPE4PqIpR3UWp3HiJNBuIYMQ2No2sB_ZQcw/1600x1200.jpg",
+          "width": 1600
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/mM3w164npPE4PqIpR3UWp3HiJNBuIYMQ2No2sB_ZQcw/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/mM3w164npPE4PqIpR3UWp3HiJNBuIYMQ2No2sB_ZQcw/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/mM3w164npPE4PqIpR3UWp3HiJNBuIYMQ2No2sB_ZQcw/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/mM3w164npPE4PqIpR3UWp3HiJNBuIYMQ2No2sB_ZQcw/1600x1200.jpg",
+      "width": 1600
+    },
+    "c_cp_HiraganaName": "やまだ　まゆみ",
+    "c_cp_JobTitle": "JTBロイヤルスタッフ（ JTBそごう横浜店 所属）",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 882,
+      "sourceUrl": "https://a.mktgcdn.com/p/gDk9Rrs8H_ppZXMl-ctHo24lzuN-VIbj6jjP3p60L64/882x882.jpg",
+      "thumbnails": [
+        {
+          "height": 882,
+          "url": "https://a.mktgcdn.com/p-sandbox/rj0P5AyFGAFNQu85MVvFF78i4qlAeVhlHWCe9aJl5Vg/882x882.jpg",
+          "width": 882
+        },
+        {
+          "height": 619,
+          "url": "https://a.mktgcdn.com/p-sandbox/rj0P5AyFGAFNQu85MVvFF78i4qlAeVhlHWCe9aJl5Vg/619x619.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/rj0P5AyFGAFNQu85MVvFF78i4qlAeVhlHWCe9aJl5Vg/450x450.jpg",
+          "width": 450
+        },
+        {
+          "height": 196,
+          "url": "https://a.mktgcdn.com/p-sandbox/rj0P5AyFGAFNQu85MVvFF78i4qlAeVhlHWCe9aJl5Vg/196x196.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/rj0P5AyFGAFNQu85MVvFF78i4qlAeVhlHWCe9aJl5Vg/882x882.jpg",
+      "width": 882
+    },
+    "c_cp_Point": "94",
+    "c_cp_RoyalStaff": true,
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "タヒチ・フィジー"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "西欧全般"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "モルディブ",
+      "東南アジア全般"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "中部全般",
+      "北陸全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "ハワイマスター",
+      "47都道府県制覇",
+      "有名旅館",
+      "子連れ旅",
+      "海外リゾート"
+    ],
+    "c_metaDescription": "自身の豊富な旅行経験から、国内海外問わずお客様にピッタリの旅をご提案させていただきます。ロイヤルスタッフ歴14年、JTBのラグジュアリートラベルやブライダル専門部門での勤務経験もございますので、オーダーメイド…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "JTBロイヤルスタッフ 山田（JTBそごう横浜店 所属）",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_loyalstaff_14020492",
+    "c_responsibleService": [
+      "ロイヤルスタッフ"
+    ],
+    "c_v2Folder": "10189_そごう横浜店",
+    "name": "L.S_山田",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

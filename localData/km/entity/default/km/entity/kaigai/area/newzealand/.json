@@ -1,0 +1,27 @@
+{
+  "$id": "kaigai/area/newzealand/",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_searchArea1": [
+      "海外"
+    ],
+    "description": "ニュージーランド旅行ならJTBのニュージーランドツアー予約がおすすめ。四季が美しいニュージーランド観光は定番のオークランドやロード・オブ・ザ・リングの世界が広がるホビット村はもちろん、美しい星空で有名なテカポ、世界遺産フィヨルドランド国立公園のミルフォード・サウンド、トレッキングも人気のマウントクックなど見所満載。JTBなら価格重視ツアーから添乗員同行の周遊ツアーまで東京発・中部発・関空発・福岡発の多数のパッケージツアーがあるので、ぜひ比較してみて！",
+    "displayCoordinate": {
+      "latitude": -40.900557,
+      "longitude": 174.885971
+    },
+    "keywords": [
+      "ニュージーランド",
+      "旅行",
+      "ツアー",
+      "JTB"
+    ],
+    "landingPageUrl": "https://www.jtb.co.jp/kaigai/area/newzealand/",
+    "name": "ニュージーランド旅行・ニュージーランドツアー"
+  },
+  "entityType": "ce_area2",
+  "folder": "海外ツアー",
+  "labels": []
+}

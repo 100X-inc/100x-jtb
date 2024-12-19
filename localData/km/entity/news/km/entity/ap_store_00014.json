@@ -1,0 +1,636 @@
+{
+  "$id": "news_ap_store_00014",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBららぽーと豊洲店　安藤"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "＜01_04771_Fキャプション＞",
+      "height": 799,
+      "sourceUrl": "http://a.mktgcdn.com/p/5G3v3IFwzUcV4da4jlXHeVIFuUZTpNcrnzWBMMW2_Zo/1200x799.jpg",
+      "thumbnails": [
+        {
+          "height": 799,
+          "url": "//a.mktgcdn.com/p-sandbox/5G3v3IFwzUcV4da4jlXHeVIFuUZTpNcrnzWBMMW2_Zo/1200x799.jpg",
+          "width": 1200
+        },
+        {
+          "height": 412,
+          "url": "//a.mktgcdn.com/p-sandbox/5G3v3IFwzUcV4da4jlXHeVIFuUZTpNcrnzWBMMW2_Zo/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/5G3v3IFwzUcV4da4jlXHeVIFuUZTpNcrnzWBMMW2_Zo/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/5G3v3IFwzUcV4da4jlXHeVIFuUZTpNcrnzWBMMW2_Zo/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/5G3v3IFwzUcV4da4jlXHeVIFuUZTpNcrnzWBMMW2_Zo/1200x799.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "東京湾やレインボーブリッジを見渡せるお台場で、海風を感じながらおさんぽ",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "日本の旬 東京・横浜 宿泊パック・ツアー・体験予約はこちら",
+        "uRL": "https://www.jtb.co.jp/nihonnoshun/tokyoyokohama/"
+      },
+      {
+        "linkText": "東京旅行・ツアーをみる",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/tokyo/"
+      },
+      {
+        "linkText": "JTBららぽーと豊洲店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/j3992-0"
+      },
+      {
+        "linkText": "JTB大江戸デスクホームページはこちら",
+        "uRL": "https://consultants.jtb.co.jp/top-tokyo"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "せっかくの休日は、早起きしてたっぷり遊ぶのはいかが？　朝の豊洲、昼のお台場、夜の月島と、東京ベイエリアを1日で巡るコースをご案内。「豊洲市場」や「ヒルトン東京お台場」のビュッフェ、月島のもんじゃなど、アーバンリゾートも下町風情も感じられるのはこのエリアならではの魅力です。「日本科学未来館」や水陸両用バス「スカイダック」など、体験コンテンツもお見逃しなく！\n\n＜投稿者コメント＞\n豊洲市場から始まり、お台場でのホテルビュッフェ、下町情緒あふれる月島でのもんじゃ…と食べることばかりを考えながら作成しました(笑)  豊洲～お台場周辺には、日本科学未来館のみならず体験しながら楽しんで学べる施設が他にも存在するので、色々巡ってみてください！",
+    "c_ap_Tags": [
+      "観光スポット",
+      "モデルコース",
+      "大江戸プラン",
+      "東京ベイエリア",
+      "豊洲市場",
+      "ホテルビュッフェ",
+      "ソウルフード",
+      "月島もんじゃ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ",
+      "美術鑑賞",
+      "街あるき",
+      "グルメ",
+      "ショッピング",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "【豊洲・お台場・月島】1日観光モデルコース！朝から東京ベイエリアを味わいつくそう",
+    "c_linkedArea3News": [
+      "tokyo"
+    ],
+    "c_metaDescription": "豊洲、お台場、月島と東京ベイエリアを1日で観光するモデルコースをご案内。「豊洲市場」や「ヒルトン東京お台場」のビュッフェ、月島のもんじゃなど、絶品グルメを味わい尽くしましょう！",
+    "c_metaTitle": "【豊洲・お台場・月島】1日観光モデルコース！朝から東京ベイエリアを味わいつくそう",
+    "c_news_CTAs": [
+      {
+        "label": "JTB大江戸デスクホームページはこちら",
+        "link": "https://consultants.jtb.co.jp/top-tokyo",
+        "linkType": "URL"
+      },
+      {
+        "label": "東京旅行・ツアーをみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/tokyo/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ヒルトン東京お台場のレストラン情報",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/4012009/restaurant/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ヒルトン東京お台場のプランをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/4012009/plan/",
+          "linkType": "URL"
+        },
+        "description": "ゆりかもめ市場前駅から徒歩5分。今回のコースは、早朝の「豊洲市場」から。日本最大級の規模を誇る「豊洲市場」には、全国各地から新鮮な魚介や野菜、果物などが日々集まります。",
+        "image": {
+          "alternateText": "＜02_正門南入口キャプション＞",
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/VObIBU_rCjLykaiDiTJsyL8j2w9uJu3yz2P5fpRwfIc/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/VObIBU_rCjLykaiDiTJsyL8j2w9uJu3yz2P5fpRwfIc/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/VObIBU_rCjLykaiDiTJsyL8j2w9uJu3yz2P5fpRwfIc/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/VObIBU_rCjLykaiDiTJsyL8j2w9uJu3yz2P5fpRwfIc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/VObIBU_rCjLykaiDiTJsyL8j2w9uJu3yz2P5fpRwfIc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VObIBU_rCjLykaiDiTJsyL8j2w9uJu3yz2P5fpRwfIc/1200x799.jpg",
+          "width": 1200
+        },
+        "imageCaption": "平成30年(2018)に築地から移転。広さは築地市場の1.7倍",
+        "infoBlockLabel": "豊洲市場（東京都中央卸売市場）の情報",
+        "infoBlockText": "電話：03-3520-8205（代表）住所：東京都江東区豊洲6-6-1料金：入場無料時間：5～15時（競り見学は5時30分～）休み：日曜、祝日、一部水曜アクセス：ゆりかもめ市場前駅から徒歩5分",
+        "sectionLevel": "h2",
+        "sectionTitle": "5:30｜「豊洲市場」で競り見学＆朝ごはん"
+      },
+      {
+        "cTA1": {
+          "label": "丸の内から豊洲まで1日欲張りコースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_000011",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "下町の人気スポットを巡る1泊2日モデルコースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_area_000008",
+          "linkType": "URL"
+        },
+        "description": "市場前駅から市場へは見学者通路がのびています。一般見学は朝5時からOK。水産卸売場棟でのマグロの競りなど、見どころもいろいろです。事前に申し込めば、見学者デッキから間近に見ることもできます。威勢のいい掛け声が行き交うプロの現場は必見です！",
+        "image": {
+          "alternateText": "＜03_冷凍マグロせり１キャプション＞",
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/M75Bc0Gjt3Sh0wmH34UPyGzVQgsxv6H6yiYAXLlzkKc/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/M75Bc0Gjt3Sh0wmH34UPyGzVQgsxv6H6yiYAXLlzkKc/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/M75Bc0Gjt3Sh0wmH34UPyGzVQgsxv6H6yiYAXLlzkKc/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/M75Bc0Gjt3Sh0wmH34UPyGzVQgsxv6H6yiYAXLlzkKc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/M75Bc0Gjt3Sh0wmH34UPyGzVQgsxv6H6yiYAXLlzkKc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/M75Bc0Gjt3Sh0wmH34UPyGzVQgsxv6H6yiYAXLlzkKc/1200x799.jpg",
+          "width": 1200
+        },
+        "imageCaption": "マグロの競りの様子。見学者通路からは申し込みなしで見られます",
+        "infoBlockLabel": "日本科学未来館の情報",
+        "infoBlockText": "電話：03-3570-9151住所：東京都江東区青海2-3-6料金：入館630円(特別展、ドームシアターは別料金)時間：10～17時（入館券購入は～16時30分）休み：火曜（春・夏・冬休み期間などは開館の場合あり）アクセス：ゆりかもめテレコムセンター駅から徒歩4分",
+        "sectionLevel": "h2",
+        "sectionTitle": "10:00｜「日本科学未来館」で最新テクノロジーを体感"
+      },
+      {
+        "description": "そして、豊洲市場といえば海鮮グルメ！　場内の飲食店は、管理施設棟「７街区」３階、水産仲卸売棟「６街区」３階、青果棟「５街区」１階にあります。なかでも、新鮮な魚介を使った寿司や海鮮丼、天ぷらが人気。オープン時間は店舗により異なりますが、朝6時から開店しているお店も。市場見学のあとは、ちょっと贅沢な朝ごはんでキマリですね♪",
+        "image": {
+          "alternateText": "＜04_01405_Fキャプション＞",
+          "height": 802,
+          "sourceUrl": "https://a.mktgcdn.com/p/puy4DWBWaW5UP77BdjV79M8vxs57UwTflk7qOv3VSFQ/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "https://a.mktgcdn.com/p-sandbox/puy4DWBWaW5UP77BdjV79M8vxs57UwTflk7qOv3VSFQ/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/puy4DWBWaW5UP77BdjV79M8vxs57UwTflk7qOv3VSFQ/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/puy4DWBWaW5UP77BdjV79M8vxs57UwTflk7qOv3VSFQ/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/puy4DWBWaW5UP77BdjV79M8vxs57UwTflk7qOv3VSFQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/puy4DWBWaW5UP77BdjV79M8vxs57UwTflk7qOv3VSFQ/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "青果棟「５街区」にある「大和寿司」など、築地時代からの人気店も！",
+        "infoBlockLabel": "ヒルトン東京お台場の情報",
+        "infoBlockText": "電話：03-5500-5500住所：東京都港区台場1-9-1アクセス：ゆりかもめ台場駅直結※「シースケープ テラス・ダイニング」のビュッフェについては公式ホームページを要確認",
+        "sectionLevel": "h2",
+        "sectionTitle": "11:30｜「ヒルトン東京お台場」でランチビュッフェ"
+      },
+      {
+        "description": "ゆりかもめ市場前駅から約10分、テレコムセンター駅で下車して向かった先は「日本科学未来館」。地球や宇宙などをわかりやすく解説するミュージアムで、身近な科学から最先端のテクノロジーまでを学ぶことができます。",
+        "image": {
+          "alternateText": "＜05_日本科学未来館キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/yfhPEoT7F0eq2L_pYc689Q7lRoXwmzvUQi-hJ5iNHyc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/yfhPEoT7F0eq2L_pYc689Q7lRoXwmzvUQi-hJ5iNHyc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/yfhPEoT7F0eq2L_pYc689Q7lRoXwmzvUQi-hJ5iNHyc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/yfhPEoT7F0eq2L_pYc689Q7lRoXwmzvUQi-hJ5iNHyc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yfhPEoT7F0eq2L_pYc689Q7lRoXwmzvUQi-hJ5iNHyc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yfhPEoT7F0eq2L_pYc689Q7lRoXwmzvUQi-hJ5iNHyc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "お台場にある国立のサイエンスミュージアム",
+        "infoBlockLabel": "スカイダック台場の情報",
+        "infoBlockText": "電話：03-3215-0008住所：東京都江東区青海1-2-1（お台場SKYツーリストインフォメーション）料金：豊洲・東京Viewコース3500円 時間・休み：運行日・出発時間は公式ホームページを要確認アクセス：りんかい線東京テレポート駅からすぐ",
+        "sectionLevel": "h2",
+        "sectionTitle": "15:00｜「スカイダック」でお台場観光にGO！"
+      },
+      {
+        "description": "常設展は1・3・5階。リアルな地球の姿を表現した球体ディスプレイ「ジオ・コスモス」をはじめ、宇宙飛行士の暮らしや研究成果を紹介する「こちら、国際宇宙ステーション」、現実世界と計算機の中の世界を区別することがなくなった未来像を提示し、問いかける展示「計算機と自然、計算機の自然」など、さまざまなコンテンツが揃います。",
+        "image": {
+          "alternateText": "＜06_ジオ・コスモス_1キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/-Dvx5tzUoNNVVIbpCo2c_HtOZmR7WWaXyowOFus2sU4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/-Dvx5tzUoNNVVIbpCo2c_HtOZmR7WWaXyowOFus2sU4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/-Dvx5tzUoNNVVIbpCo2c_HtOZmR7WWaXyowOFus2sU4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/-Dvx5tzUoNNVVIbpCo2c_HtOZmR7WWaXyowOFus2sU4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/-Dvx5tzUoNNVVIbpCo2c_HtOZmR7WWaXyowOFus2sU4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-Dvx5tzUoNNVVIbpCo2c_HtOZmR7WWaXyowOFus2sU4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "直径6メートルの「ジオ・コスモス」。人工衛星による観測データなどを取り込み、地球の様子を映し出しています",
+        "infoBlockLabel": "月島名物もんじゃ だるま 月島本店の情報",
+        "infoBlockText": "電話：03-3531-7626住所：東京都中央区月島3-17-9時間：11時30分～23時（土・日曜、祝日は11時～、LO22時）休み：無休アクセス：地下鉄月島駅から徒歩3分",
+        "sectionLevel": "h2",
+        "sectionTitle": "18:00｜夕食は「月島名物もんじゃ だるま 月島本店」で"
+      },
+      {
+        "description": "さらに、6階には、迫力ある映像で宇宙や科学に関するプログラムを上映する「ドームシアター」も。特別展や企画展、科学コミュニケーターによるトークイベント、ワークショップなども開かれているので、時間に余裕がある方はこちらもぜひチェックしてみてください。",
+        "image": {
+          "alternateText": "＜07_ 07_未来館‗計算機と自然キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/3StOxJ2LWA0wwMJAtEB8pw5-Iro5k3KL8NJLeJoSngY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/3StOxJ2LWA0wwMJAtEB8pw5-Iro5k3KL8NJLeJoSngY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/3StOxJ2LWA0wwMJAtEB8pw5-Iro5k3KL8NJLeJoSngY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/3StOxJ2LWA0wwMJAtEB8pw5-Iro5k3KL8NJLeJoSngY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/3StOxJ2LWA0wwMJAtEB8pw5-Iro5k3KL8NJLeJoSngY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3StOxJ2LWA0wwMJAtEB8pw5-Iro5k3KL8NJLeJoSngY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "人工物が自然に溶け込み、調和した世界を表現した「計算機と自然」"
+      },
+      {
+        "description": "お台場散策をしながら、今回のランチスポット「ヒルトン東京お台場」へ。豪華客船をイメージした外観に心躍りつつ、レストランに向かいます。ビュッフェ会場の2階「シースケープ テラス・ダイニング」は、東京湾を見渡すパノラマビューが魅力。窓からの景色もごちそうです。",
+        "image": {
+          "alternateText": "＜08_ヒルトン東京お台場_Seascape_内観キャプション＞",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/_7pwtfdeDZy4WQ0-_SITsbiZplowYozYcUwUyn60HR8/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/_7pwtfdeDZy4WQ0-_SITsbiZplowYozYcUwUyn60HR8/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/_7pwtfdeDZy4WQ0-_SITsbiZplowYozYcUwUyn60HR8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/_7pwtfdeDZy4WQ0-_SITsbiZplowYozYcUwUyn60HR8/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/_7pwtfdeDZy4WQ0-_SITsbiZplowYozYcUwUyn60HR8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_7pwtfdeDZy4WQ0-_SITsbiZplowYozYcUwUyn60HR8/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "レインボーブリッジや東京タワー、高層ビル群などを眺められるロケーション"
+      },
+      {
+        "description": "色とりどりの前菜やローストビーフ、シェフパフォーマンスも楽しめるスイーツなど、バラエティに富んだ料理が並ぶランチビュッフェ。好きなものを好きなだけ食べられる幸せを実感★ちなみに、ランチビュッフェは11時30分～13時、13時30分～15時の2部制です。事前予約をお忘れなく。",
+        "image": {
+          "alternateText": "＜09_ヒルトン東京お台場_Seascape_Buffet Imageキャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/h3IFKc0jX3i4ttcyVszjWeIypyVZtV2u95yIInW4gb8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/h3IFKc0jX3i4ttcyVszjWeIypyVZtV2u95yIInW4gb8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/h3IFKc0jX3i4ttcyVszjWeIypyVZtV2u95yIInW4gb8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/h3IFKc0jX3i4ttcyVszjWeIypyVZtV2u95yIInW4gb8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/h3IFKc0jX3i4ttcyVszjWeIypyVZtV2u95yIInW4gb8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/h3IFKc0jX3i4ttcyVszjWeIypyVZtV2u95yIInW4gb8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ランチビュッフェは5500円～。内容は時期により異なります"
+      },
+      {
+        "description": "お腹が満たされたら、午後はお台場観光を満喫。陸からも海からも臨海エリアを楽しむなら、大人気の水陸両用バス「スカイダック」がおすすめです。スカイダックの乗り場・お台場SKYツーリストインフォメーションへは、ヒルトン東京お台場から徒歩15分。ワクワクしながら「スカイダック」に乗り込みます。",
+        "image": {
+          "alternateText": "＜10_豊洲キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/61Iv_qGNwe60laKCbqZV5Da_Sg5sW9QLj1n4bYuzZ5E/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/61Iv_qGNwe60laKCbqZV5Da_Sg5sW9QLj1n4bYuzZ5E/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/61Iv_qGNwe60laKCbqZV5Da_Sg5sW9QLj1n4bYuzZ5E/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/61Iv_qGNwe60laKCbqZV5Da_Sg5sW9QLj1n4bYuzZ5E/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/61Iv_qGNwe60laKCbqZV5Da_Sg5sW9QLj1n4bYuzZ5E/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/61Iv_qGNwe60laKCbqZV5Da_Sg5sW9QLj1n4bYuzZ5E/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "お台場のシンボル・レインボーブリッジを海から望むスペシャルな体験"
+      },
+      {
+        "description": "今回紹介するのは「豊洲・東京Viewコース」。約80分かけて、お台場、有明、豊洲を巡るコースです。お台場から豊洲へ走り抜け、スロープから海にスプラッシュ！　陸から海に入る瞬間は、盛り上がること間違いなしです。",
+        "image": {
+          "alternateText": "＜11_豊洲スプラッシュキャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/EnG_DgZ-DYqaWx657hLnFCaxbOntnBCGubTyDP5_Bfk/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/EnG_DgZ-DYqaWx657hLnFCaxbOntnBCGubTyDP5_Bfk/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/EnG_DgZ-DYqaWx657hLnFCaxbOntnBCGubTyDP5_Bfk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/EnG_DgZ-DYqaWx657hLnFCaxbOntnBCGubTyDP5_Bfk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/EnG_DgZ-DYqaWx657hLnFCaxbOntnBCGubTyDP5_Bfk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EnG_DgZ-DYqaWx657hLnFCaxbOntnBCGubTyDP5_Bfk/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "水しぶきを豪快にあげながら突入する「スプラッシュイン」が醍醐味！"
+      },
+      {
+        "description": "有明アリーナや豊洲市場などを海上から眺めつつ、東京湾へ。撮影ポイントは、レインボーブリッジを望むエリア。東京湾に架かる全長約800mの巨大な橋を撮った一枚は、旅の記念にぴったり♪同じ乗り場から出発する「お台場パノラマコース」もおすすめ。自由の女神像やフジテレビといった、お台場を代表する見どころを50分で巡ります。こちらのコースは、レインボーブリッジをくぐるルートに設定されているので、真下から橋を見上げることができますよ。",
+        "image": {
+          "alternateText": "＜12_ IMG_4521キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/kXbkrXR6sC2UiDlGBLyAYAuHt4PDykN6Au1mvp6QsxA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/kXbkrXR6sC2UiDlGBLyAYAuHt4PDykN6Au1mvp6QsxA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/kXbkrXR6sC2UiDlGBLyAYAuHt4PDykN6Au1mvp6QsxA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/kXbkrXR6sC2UiDlGBLyAYAuHt4PDykN6Au1mvp6QsxA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/kXbkrXR6sC2UiDlGBLyAYAuHt4PDykN6Au1mvp6QsxA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kXbkrXR6sC2UiDlGBLyAYAuHt4PDykN6Au1mvp6QsxA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "海上からは陸とは違った新鮮な景色を楽しめます"
+      },
+      {
+        "description": "夜ごはんは、月島で東京のソウルフード・もんじゃをいただきましょう。お台場から月島へは、ゆりかもめと地下鉄を乗り継いで、30分ほどで到着です。80軒以上のもんじゃ焼き店が集まる月島で、今回は支店を複数構える人気店「月島名物もんじゃ だるま」の本店へ。",
+        "image": {
+          "alternateText": "＜13_外観キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/gMBah-vtljQGeNwy7cRVmgz3ZL1Q3utEWl8EyXTHwqs/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/gMBah-vtljQGeNwy7cRVmgz3ZL1Q3utEWl8EyXTHwqs/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/gMBah-vtljQGeNwy7cRVmgz3ZL1Q3utEWl8EyXTHwqs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/gMBah-vtljQGeNwy7cRVmgz3ZL1Q3utEWl8EyXTHwqs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/gMBah-vtljQGeNwy7cRVmgz3ZL1Q3utEWl8EyXTHwqs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gMBah-vtljQGeNwy7cRVmgz3ZL1Q3utEWl8EyXTHwqs/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "月島もんじゃストリートにあるもんじゃ焼き店。店舗は昭和初期の建物を改装"
+      },
+      {
+        "description": "豊洲市場などから仕入れる新鮮素材を使ったもんじゃは、いずれもボリューム満点。名物の「もち明太子チーズもんじゃ」やイカ、タコ、エビなど7種の海鮮が入った「だるまくんもんじゃ」など、メニューも豊富です。希望すればスタッフが目の前で焼いてくれるので、初めてでも安心。トロトロ、カリカリと変化に富んだ食感もたまりません。",
+        "image": {
+          "alternateText": "＜14_もち明太子チーズキャプション＞",
+          "height": 802,
+          "sourceUrl": "https://a.mktgcdn.com/p/gMLJBqPHR7S5BoSvz5_LLq5IVQ_R3jZgZ8gjAHAtE_Q/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "https://a.mktgcdn.com/p-sandbox/gMLJBqPHR7S5BoSvz5_LLq5IVQ_R3jZgZ8gjAHAtE_Q/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/gMLJBqPHR7S5BoSvz5_LLq5IVQ_R3jZgZ8gjAHAtE_Q/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/gMLJBqPHR7S5BoSvz5_LLq5IVQ_R3jZgZ8gjAHAtE_Q/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/gMLJBqPHR7S5BoSvz5_LLq5IVQ_R3jZgZ8gjAHAtE_Q/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gMLJBqPHR7S5BoSvz5_LLq5IVQ_R3jZgZ8gjAHAtE_Q/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "イチオシの「もち明太子チーズもんじゃ」1639円はビジュアルもインパクト大！"
+      },
+      {
+        "description": "もんじゃを堪能したら、長かった1日が終了。早朝スタートのおかげで、いつもより1日が長く感じられたはず。たまには早起きをして、おでかけするのもいいですよね。",
+        "image": {
+          "alternateText": "＜15_ main_shop002キャプション＞",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/btGBLCy0tyn5Qd7f-nGffhOrx0aPsHleLSpexYP3xAw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/btGBLCy0tyn5Qd7f-nGffhOrx0aPsHleLSpexYP3xAw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/btGBLCy0tyn5Qd7f-nGffhOrx0aPsHleLSpexYP3xAw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/btGBLCy0tyn5Qd7f-nGffhOrx0aPsHleLSpexYP3xAw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/btGBLCy0tyn5Qd7f-nGffhOrx0aPsHleLSpexYP3xAw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/btGBLCy0tyn5Qd7f-nGffhOrx0aPsHleLSpexYP3xAw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "下町エリアの子どものおやつがルーツといわれるもんじゃですが、お酒のつまみとしてもぴったり！"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。※上記記事に記載の金額はすべて税込みです。また各施設の入場料金は大人料金を記載しています。※定休日は原則として年末年始・お盆休み・ゴールデンウィークを省略しています。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_store_00003",
+      "news_ap_store_00006",
+      "news_ap_store_00004",
+      "news_ap_store_00009",
+      "news_ap_store_00007",
+      "news_ap_store_00008",
+      "news_ap_store_00005",
+      "news_ap_store_00013",
+      "news_ap_store_000011",
+      "news_ap_store_00010",
+      "news_ap_store_00011"
+    ],
+    "c_news_FeaturedArticlesTitle": "その他JTB大江戸デスクコンサルタントの投稿記事",
+    "c_news_PublicationDate": "2022-12-25",
+    "c_news_UpdateDate": "2024-07-19",
+    "c_news_ViewCount": "4211",
+    "c_news_ViewCount1of2": "3",
+    "c_news_ViewCount2of2": "4211",
+    "c_news_ViewCountNum": "4211",
+    "c_news_ViewCountNumForSorting": "187",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00014",
+    "name": "【豊洲・お台場・月島】1日観光モデルコース！朝から東京ベイエリアを味わいつくそう",
+    "slug": "kokunai/kanto/tokyo/news_ap_store_00014",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

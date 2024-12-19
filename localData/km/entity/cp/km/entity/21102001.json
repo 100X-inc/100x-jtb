@@ -1,0 +1,59 @@
+{
+  "$id": "cp_21102001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントのいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBgBq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "～ご挨拶～\nいつもJTBエキマルシェ大阪店をご利用頂き、誠にありがとうございます。当店はリニューアルオープンして、新しい場所で元気に営業中です！JR大阪駅直結のエキマルシェ大阪内にあり、利便性バツグン！国内・海外各種パッケージツアーからハネムーン・クルーズの旅やグループ旅行などお客様のご希望に添ったプランをスタッフがご提案させていただきます。また旅行だけでなく、大切な人への贈り物や自分へのご褒美としてもお使いいただける、各種ギフトも取扱いしております。\n\n店舗、またはオンラインにてご相談を承りますので、是非、皆様のご利用心よりお待ちいたしております。",
+    "c_cp_DisplayName": "上垣",
+    "c_cp_HiraganaName": "うえがき",
+    "c_cp_JobTitle": "JTBエキマルシェ大阪店 店長",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "alternateText": "JTBトラベルコンサルタント ｜ 上垣",
+      "height": 675,
+      "sourceUrl": "https://a.mktgcdn.com/p/Olf315TTkyDRfmnihLqe-sUsvFScp-8vUKigxjLZGD4/749x675.jpg",
+      "thumbnails": [
+        {
+          "height": 675,
+          "url": "https://a.mktgcdn.com/p-sandbox/n2WmL0qpS2t1lBW4S3YJiTin4NgNHjmigWgiaoUA7zM/749x675.jpg",
+          "width": 749
+        },
+        {
+          "height": 558,
+          "url": "https://a.mktgcdn.com/p-sandbox/n2WmL0qpS2t1lBW4S3YJiTin4NgNHjmigWgiaoUA7zM/619x558.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/n2WmL0qpS2t1lBW4S3YJiTin4NgNHjmigWgiaoUA7zM/499x450.jpg",
+          "width": 499
+        },
+        {
+          "height": 177,
+          "url": "https://a.mktgcdn.com/p-sandbox/n2WmL0qpS2t1lBW4S3YJiTin4NgNHjmigWgiaoUA7zM/196x177.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/n2WmL0qpS2t1lBW4S3YJiTin4NgNHjmigWgiaoUA7zM/749x675.jpg",
+      "width": 749
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 上垣",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 上垣",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21102001",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2024/02/27　JBX対応（グループ外出向者→日付不明）",
+    "name": "うえがき_21102001",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

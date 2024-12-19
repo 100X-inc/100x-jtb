@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/2_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d41.429338%2C140.109573",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "松前城、寺町、観光施設「松前藩屋敷」を含む松前公園。多種多数の彩りが綺麗な桜の名所であり、多くの史跡がある歴史名所です。公園内には「桜見本園」「新桜見本園」やバラ園・ボタン園もあり、公園全体と津軽海峡を見渡す高台が第二公園となっています。4月下旬から5月中旬にかけて、およそ250種・1万本の桜が1ヶ月にわたって咲き続けます。早咲き、中咲き、遅咲きと順に咲いていく多彩な桜の花は、いつ訪れても人々を飽きさせません。そのなかでも1本の幹から早咲きのソメイヨシノとナデンが寄り添うように並ぶ「夫婦桜」は、実に仲睦まじい雰囲気で春の訪れを感じさせてくれます。\n見所・お勧めポイント\n夫婦桜と並んで、松前公園で最も多い品種のナデンの親木である「ケチミャクザクラ」や、淡い紅色の「カスミザクラ」の老木、「エゾカスミザクラ」があり、こちらは「松前桜 三大名木」と呼ばれています。 澄んだ空のもと、幾重にも広がる桜の木々と松前城が織り成す春の絶景を楽しめる松前は、その美しさから『さくらの里』と呼ばれています。\n背景\n『さくらの里』松前の桜は、かつて松前城下で財力を誇った商人や、京の都から輿入れした藩主の奥方たちがふるさとを偲んで植えたり、藩主や侍たちが参勤交代の際に江戸から持ち帰ったのが始まりとも言われています。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/2.asp",
+    "name": "松前公園 夫婦桜"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

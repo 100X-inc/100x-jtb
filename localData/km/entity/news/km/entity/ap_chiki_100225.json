@@ -1,0 +1,446 @@
+{
+  "$id": "news_ap_chiki_100225",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 静岡県担当　竹浦"
+    },
+    "c_ap_HeroImage": {
+      "height": 530,
+      "sourceUrl": "https://a.mktgcdn.com/p/w8VbmRFLi-bzAlhX6bzn8Pfauef8IoXi1UTnvPWAgQY/953x530.jpg",
+      "thumbnails": [
+        {
+          "height": 530,
+          "url": "https://a.mktgcdn.com/p-sandbox/SIDU0uiSzBKgVHrK44pYJVNqJG2On6jiQfzGr5HR4EI/953x530.jpg",
+          "width": 953
+        },
+        {
+          "height": 344,
+          "url": "https://a.mktgcdn.com/p-sandbox/SIDU0uiSzBKgVHrK44pYJVNqJG2On6jiQfzGr5HR4EI/619x344.jpg",
+          "width": 619
+        },
+        {
+          "height": 334,
+          "url": "https://a.mktgcdn.com/p-sandbox/SIDU0uiSzBKgVHrK44pYJVNqJG2On6jiQfzGr5HR4EI/600x334.jpg",
+          "width": 600
+        },
+        {
+          "height": 109,
+          "url": "https://a.mktgcdn.com/p-sandbox/SIDU0uiSzBKgVHrK44pYJVNqJG2On6jiQfzGr5HR4EI/196x109.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/SIDU0uiSzBKgVHrK44pYJVNqJG2On6jiQfzGr5HR4EI/953x530.jpg",
+      "width": 953
+    },
+    "c_ap_HeroImageCaption": "2つのホテル棟を中心に、スポーツ＆レジャーのアクティビティが点在",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://www.jtb.co.jp/news/list/index.html?tag\u003d%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "静岡旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/shizuoka/"
+      },
+      {
+        "linkText": "静岡県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/shizuoka/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "JR東京駅から約1時間50分。JR掛川駅下車後、無料シャトルバス（夏期は予約不要）で約15分の場所にある「つま恋リゾート 彩の郷」。広大なつま恋リゾートで20種類以上のアクティビティを楽しみながら、温泉でくつろいだり、自然の中でのんびり過ごしたり、カップルや夫婦、子ども連れの家族でリフレッシュしたりできるリゾート型ホテルです。\n\nつま恋リゾート内は、ランドカー（要自動車免許）や周遊バス、自転車で気軽に移動できるので、初心者でも気軽に体験できる1番人気のアーチェリー、テニス、ゴルフなどのスポーツ施設や、子どもから大人までワイワイ遊べる「ウォーターパーク」（夏季限定）など、お目当ての場所やエリアで思いっきり楽しみましょう。",
+    "c_ap_Tags": [
+      "温泉",
+      "リゾート",
+      "リゾートホテル",
+      "アクティビティ",
+      "ウォーターパーク",
+      "露天風呂",
+      "リモートコンシェルジュ",
+      "JTBの一押しホテル"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "夫婦旅",
+      "グループ",
+      "温泉・立ち寄り湯",
+      "リゾート",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "多彩なアクティビティと温泉が楽しめる、緑豊かなリゾート型ホテル【静岡県　つま恋リゾート 彩の郷】",
+    "c_linkedArea3News": [
+      "shizuoka"
+    ],
+    "c_metaDescription": "JR東京駅から約1時間50分。JR掛川駅下車後、無料シャトルバス（夏期は予約不要）で約15分の場所にある「つま恋リゾート 彩の郷」。広大なつま恋リゾートで20種類以上のアクティビティを楽しみながら、温泉でくつろいだり、自然の中でのんびり過ごしたり、カップルや夫婦、子ども連れの家族でリフレッシュしたりできるリゾート型ホテルです。\n\nつま恋リゾート内は、ランドカー（要自動車免許）や周遊バス、自転車で気軽に移動できるので、初心者でも気軽に体験できる1番人気のアーチェリー、テニス、ゴルフなどのスポーツ施設や、子どもから大人までワイワイ遊べる「ウォーターパーク」（夏季限定）など、お目当ての場所やエリアで思いっきり楽しみましょう。",
+    "c_metaTitle": "多彩なアクティビティと温泉が楽しめる、緑豊かなリゾート型ホテル【静岡県　つま恋リゾート 彩の郷】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "つま恋リゾート 彩の郷を予約する",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/htl/4429006/plan/",
+        "linkType": "URL"
+      },
+      {
+        "label": "リモートでの旅行相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#consultants",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "JTB店舗・専門店への相談はこちら",
+        "link": "https://stores.jtb.co.jp/index.html",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "つま恋リゾート 彩の郷は、ホテル・ノースウィングとホテル・サウスウィングの2つのホテルに全232室の客室があります。ホテル棟はそれぞれ個性が異なり、ホテル・ノースウィングは全客室が52.3㎡のゆったりした空間で5名まで宿泊できるので家族やグループの旅行に最適。客室タイプはプレミアルーム、デラックスルーム、和洋室の3種類あり、10畳の和室とツインベッドルームがある和洋室は最上階にあるので、天気がよければ富士山を望むこともできます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/lFWwWssIZPSkc1XQ31-fRRdZO2FwroteQPmURi6Nfj4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/lFWwWssIZPSkc1XQ31-fRRdZO2FwroteQPmURi6Nfj4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/lFWwWssIZPSkc1XQ31-fRRdZO2FwroteQPmURi6Nfj4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/lFWwWssIZPSkc1XQ31-fRRdZO2FwroteQPmURi6Nfj4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/lFWwWssIZPSkc1XQ31-fRRdZO2FwroteQPmURi6Nfj4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lFWwWssIZPSkc1XQ31-fRRdZO2FwroteQPmURi6Nfj4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ホテル・ノースウィングのデラックスルーム",
+        "sectionLevel": "h2",
+        "sectionTitle": "個性が違うホテル棟に全5タイプが揃うゆったり空間の客室"
+      },
+      {
+        "description": "一方、ホテル・サウスウィングは山の斜面を利用して建てられた森の中にあり、4階建ての全客にあるテラスから緑の自然を眺めながらゆったりとした時間を過ごせます。客室タイプは、スタンダードツインルームとデラックスツインルームの2つ。カップルや夫婦での旅におすすめです",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/a1nMpoGLXiw5gRnr2SCf9enC5gaG36CIOlzpkerKESM/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/a1nMpoGLXiw5gRnr2SCf9enC5gaG36CIOlzpkerKESM/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/a1nMpoGLXiw5gRnr2SCf9enC5gaG36CIOlzpkerKESM/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/a1nMpoGLXiw5gRnr2SCf9enC5gaG36CIOlzpkerKESM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/a1nMpoGLXiw5gRnr2SCf9enC5gaG36CIOlzpkerKESM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/a1nMpoGLXiw5gRnr2SCf9enC5gaG36CIOlzpkerKESM/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "ホテル・ノースウィングの和洋室",
+        "sectionLevel": "h2",
+        "sectionTitle": "カニやウナギのほか和洋中の料理が揃う夕食バイキング"
+      },
+      {
+        "description": "また、ホテル・ノースウィングには、宿泊者なら無料で誰でも利用できる大浴場「ガーデンビューバス」があります。朝風呂でからだを目覚めさせたり、多彩なアクティビティで楽しんだ後に汗を流したり、気ままに利用したいですね。つま恋リゾート内には温泉施設「森林の湯」もあるので上手に使い分けをしてみましょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Xp0CME8zHM-PPYZdDKNPV4elFFbAMjPggQDHinmEgbE/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xp0CME8zHM-PPYZdDKNPV4elFFbAMjPggQDHinmEgbE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xp0CME8zHM-PPYZdDKNPV4elFFbAMjPggQDHinmEgbE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xp0CME8zHM-PPYZdDKNPV4elFFbAMjPggQDHinmEgbE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xp0CME8zHM-PPYZdDKNPV4elFFbAMjPggQDHinmEgbE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Xp0CME8zHM-PPYZdDKNPV4elFFbAMjPggQDHinmEgbE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ホテル・サウスウィングのスタンダードツインルーム",
+        "sectionLevel": "h2",
+        "sectionTitle": "2つの温泉で疲れたからだを癒しながら自然を満喫"
+      },
+      {
+        "description": "つま恋リゾート 彩の郷での朝・夕の食事は、レストラン「ビュッフェテラス」でのバイキング。夕食にはカニやウナギの贅沢な食材から、お寿司、天ぷらなどの和食をはじめ、約60種類もの料理が並びます。富士の湧水が育んだ富士山サーモンや名物の深蒸し茶うどんは見逃せない味。食事の最後は、旬の恵みを活かしたパティシエ自慢のスイーツで締めましょう。朝食は焼きたてのクロワッサンやライブキッチンでつくる日替わりオムレツ、からだにやさしいスープやサラダなど彩り豊かなメニューが30種類ほど揃っています。つま恋名物「掛川茶とほんのりだし茶漬け」はぜひ試してみたい味の一つです。",
+        "image": {
+          "height": 636,
+          "sourceUrl": "https://a.mktgcdn.com/p/U3k_YWLnFGCs63pAiuCf4fn8LnD1UblWeYuZvfXBtOM/865x636.jpg",
+          "thumbnails": [
+            {
+              "height": 636,
+              "url": "https://a.mktgcdn.com/p-sandbox/U3k_YWLnFGCs63pAiuCf4fn8LnD1UblWeYuZvfXBtOM/865x636.jpg",
+              "width": 865
+            },
+            {
+              "height": 455,
+              "url": "https://a.mktgcdn.com/p-sandbox/U3k_YWLnFGCs63pAiuCf4fn8LnD1UblWeYuZvfXBtOM/619x455.jpg",
+              "width": 619
+            },
+            {
+              "height": 441,
+              "url": "https://a.mktgcdn.com/p-sandbox/U3k_YWLnFGCs63pAiuCf4fn8LnD1UblWeYuZvfXBtOM/600x441.jpg",
+              "width": 600
+            },
+            {
+              "height": 144,
+              "url": "https://a.mktgcdn.com/p-sandbox/U3k_YWLnFGCs63pAiuCf4fn8LnD1UblWeYuZvfXBtOM/196x144.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/U3k_YWLnFGCs63pAiuCf4fn8LnD1UblWeYuZvfXBtOM/865x636.jpg",
+          "width": 865
+        },
+        "imageCaption": "ホテル・ノースウィングのガーデンビューバス",
+        "sectionLevel": "h2",
+        "sectionTitle": "スポーツ＆レジャーのアクティビティを思い切り楽しもう"
+      },
+      {
+        "description": "掛川つま恋温泉「森林の湯」は、つま恋リゾート 彩の郷にある大自然に囲まれた湯処。施設内には外の湯と内の湯があり、それぞれ趣が違う魅力的な風呂が揃っているので楽しみながらのんびりと湯に浸かれます。外の湯は丘の斜面を利用して作られた立体的な設計で、どこからでも美しい自然を満喫できます。池のほとりに突き出した眺望の湯や歩行湯など露天風呂の種類も多く、30人でもラクに入れる眺望サウナも人気です。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/lvcAbYSw9r-WIXfmOLWfwE-V6UAIPdbySq9NhL2TEP8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/lvcAbYSw9r-WIXfmOLWfwE-V6UAIPdbySq9NhL2TEP8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/lvcAbYSw9r-WIXfmOLWfwE-V6UAIPdbySq9NhL2TEP8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/lvcAbYSw9r-WIXfmOLWfwE-V6UAIPdbySq9NhL2TEP8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/lvcAbYSw9r-WIXfmOLWfwE-V6UAIPdbySq9NhL2TEP8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lvcAbYSw9r-WIXfmOLWfwE-V6UAIPdbySq9NhL2TEP8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "レストラン「ビュッフェテラス」のディナーバイキング（イメージ）"
+      },
+      {
+        "description": "内の湯も大露天風呂や高温湯、低温湯、寝湯など露天風呂のバリエーションが豊富。内風呂には内湯と水風呂のほかに人気の「お茶風呂」では茶処の掛川のお茶を使用。お茶には抗酸化作用があり肌にやさしいことから、リラックス効果や美肌効果が期待できるそうです。外の湯と内の湯は、男女日替わりでどちらも入浴できるので、ゆったりと湯船に浸かりながら美しい自然の景観を眺めて心身を癒しましょう。",
+        "image": {
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/TbHrLRD4SaAbR9XNk7mWA4kRnOmeC1F1fSnUDvzu2zc/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/TbHrLRD4SaAbR9XNk7mWA4kRnOmeC1F1fSnUDvzu2zc/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/TbHrLRD4SaAbR9XNk7mWA4kRnOmeC1F1fSnUDvzu2zc/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/TbHrLRD4SaAbR9XNk7mWA4kRnOmeC1F1fSnUDvzu2zc/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/TbHrLRD4SaAbR9XNk7mWA4kRnOmeC1F1fSnUDvzu2zc/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/TbHrLRD4SaAbR9XNk7mWA4kRnOmeC1F1fSnUDvzu2zc/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "露天風呂や眺望サウナがある外の湯"
+      },
+      {
+        "description": "広大な敷地が広がるつま恋リゾートでは、ウォーターパーク（夏季限定）や乗馬、つま恋の森に隠されたコインを金属探知機で探し出すトレジャーハンティングなど大人から子どもまで楽しめるレジャー施設が数多くあります。また、アーチェリーやゴルフ、テニス、卓球などのスポーツ施設も充実。1年を通じて多彩なアクティビティが満喫できるので、事前に旅のプランを考えて家族やグループで遊び尽くしましょう。",
+        "image": {
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/qfGPCJxBgQjY3bcNqr-YXvn1Ae5fIKi95M87kZ1HYOQ/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/qfGPCJxBgQjY3bcNqr-YXvn1Ae5fIKi95M87kZ1HYOQ/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/qfGPCJxBgQjY3bcNqr-YXvn1Ae5fIKi95M87kZ1HYOQ/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/qfGPCJxBgQjY3bcNqr-YXvn1Ae5fIKi95M87kZ1HYOQ/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/qfGPCJxBgQjY3bcNqr-YXvn1Ae5fIKi95M87kZ1HYOQ/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qfGPCJxBgQjY3bcNqr-YXvn1Ae5fIKi95M87kZ1HYOQ/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "森林の湯「内の湯」の大露天風呂"
+      },
+      {
+        "image": {
+          "height": 667,
+          "sourceUrl": "https://a.mktgcdn.com/p/MCF3rtGAG28tSisMmL7OVT7MHT2vkIVYU-k8JkJk77U/1000x667.jpg",
+          "thumbnails": [
+            {
+              "height": 667,
+              "url": "https://a.mktgcdn.com/p-sandbox/Sk6uD03jGEGs8wf-_dx9jQoHBMl9vrbuReXTXql8ZKc/1000x667.jpg",
+              "width": 1000
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Sk6uD03jGEGs8wf-_dx9jQoHBMl9vrbuReXTXql8ZKc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Sk6uD03jGEGs8wf-_dx9jQoHBMl9vrbuReXTXql8ZKc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Sk6uD03jGEGs8wf-_dx9jQoHBMl9vrbuReXTXql8ZKc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Sk6uD03jGEGs8wf-_dx9jQoHBMl9vrbuReXTXql8ZKc/1000x667.jpg",
+          "width": 1000
+        },
+        "imageCaption": "外の湯にある大人数でも余裕の眺望サウナ"
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/dJ_MaUA_VsNZr5DUsLnnzg5X-J6GXnJN5Y6JKJXxQiY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/dJ_MaUA_VsNZr5DUsLnnzg5X-J6GXnJN5Y6JKJXxQiY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/dJ_MaUA_VsNZr5DUsLnnzg5X-J6GXnJN5Y6JKJXxQiY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/dJ_MaUA_VsNZr5DUsLnnzg5X-J6GXnJN5Y6JKJXxQiY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/dJ_MaUA_VsNZr5DUsLnnzg5X-J6GXnJN5Y6JKJXxQiY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dJ_MaUA_VsNZr5DUsLnnzg5X-J6GXnJN5Y6JKJXxQiY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "初心者でも気軽に体験できる1番人気のアーチェリー"
+      },
+      {
+        "image": {
+          "height": 899,
+          "sourceUrl": "https://a.mktgcdn.com/p/JvYL-sxIySySXWU925n2_BX4Bxl7gX73Ccu1yHtIcM4/1200x899.jpg",
+          "thumbnails": [
+            {
+              "height": 899,
+              "url": "https://a.mktgcdn.com/p-sandbox/JvYL-sxIySySXWU925n2_BX4Bxl7gX73Ccu1yHtIcM4/1200x899.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/JvYL-sxIySySXWU925n2_BX4Bxl7gX73Ccu1yHtIcM4/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/JvYL-sxIySySXWU925n2_BX4Bxl7gX73Ccu1yHtIcM4/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/JvYL-sxIySySXWU925n2_BX4Bxl7gX73Ccu1yHtIcM4/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JvYL-sxIySySXWU925n2_BX4Bxl7gX73Ccu1yHtIcM4/1200x899.jpg",
+          "width": 1200
+        },
+        "imageCaption": "夏季限定のウォーターパーク"
+      }
+    ],
+    "c_news_PublicationDate": "2024-08-19",
+    "c_news_UpdateDate": "2024-08-19",
+    "c_news_ViewCount": "33",
+    "c_news_ViewCount2of2": "33",
+    "c_news_ViewCountNum": "33",
+    "c_news_ViewCountNumForSorting": "1",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/tokai/shizuoka/news_ap_chiki_100225",
+    "name": "多彩なアクティビティと温泉が楽しめる、緑豊かなリゾート型ホテル【静岡県　つま恋リゾート 彩の郷】",
+    "slug": "kokunai/tokai/shizuoka/news_ap_chiki_100225",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "仕入記事"
+  ]
+}

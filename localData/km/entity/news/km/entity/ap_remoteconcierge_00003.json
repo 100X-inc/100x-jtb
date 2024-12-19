@@ -1,0 +1,252 @@
+{
+  "$id": "news_ap_remoteconcierge_00003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_HeroImage": {
+      "height": 800,
+      "sourceUrl": "http://a.mktgcdn.com/p/9L64oMJDuUIvCWBctCHhYR9Ws9gRM8qucV7ZBEkcwls/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "//a.mktgcdn.com/p-sandbox/pm9-2Ahtwa5R-RZwvaiBA_lL8ic_Ve6S9a7f_MnmtgE/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/pm9-2Ahtwa5R-RZwvaiBA_lL8ic_Ve6S9a7f_MnmtgE/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/pm9-2Ahtwa5R-RZwvaiBA_lL8ic_Ve6S9a7f_MnmtgE/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/pm9-2Ahtwa5R-RZwvaiBA_lL8ic_Ve6S9a7f_MnmtgE/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/pm9-2Ahtwa5R-RZwvaiBA_lL8ic_Ve6S9a7f_MnmtgE/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "法師川沿いに立つ、秘湯の一軒宿",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "群馬旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/gunma/"
+      },
+      {
+        "linkText": "群馬県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/gunma/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "上信越高原国立公園内にある秘湯の一軒宿。「日本秘湯を守る会」の会員宿でもある「法師温泉長寿館」は、明治時代の面影を今に残す貴重な宿のひとつです。川端康成や与謝野晶子など、文人に愛された宿としても知られ、本館や別館は国登録有形文化財に登録されています。\n郷愁を誘われる宿の顔ともいえるのが、本館にある吹き抜けの玄関です。中央には重厚な栃の木の火鉢が置かれ、季節ごとの飾りもレトロ感たっぷり。玄関の脇には囲炉裏の部屋もあり、ゲスト同士のふれあいの場にもなっています。昔ながらの混浴のお風呂も残っており、タイムスリップしたかのような、不思議な感覚で滞在できます。",
+    "c_ap_Tags": [
+      "温泉",
+      "国立公園",
+      "秘湯",
+      "有形文化財",
+      "囲炉裏",
+      "リモートコンシェルジュ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "夫婦旅",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "国登録有形文化財の宿で、秘湯風情に浸る【群馬県　法師温泉長寿館】",
+    "c_linkedArea3News": [
+      "gunma"
+    ],
+    "c_metaDescription": "上信越高原国立公園内にある秘湯の一軒宿。「日本秘湯を守る会」の会員宿でもある「法師温泉長寿館」は、明治時代の面影を今に残す貴重な宿のひとつです。川端康成や与謝野晶子など、文人に愛された宿としても知られ、本館や…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "国登録有形文化財の宿で、秘湯風情に浸る【群馬県　法師温泉長寿館】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "この記事の投稿店舗にリモート相談予約をする",
+        "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "温泉は3つありますが、名物は趣のある「法師乃湯」です。築100年を超える大きな建物は、洋の要素が混ざった鹿鳴館様式。中央には田の字に切られた浴槽があり、底に敷き詰められた玉石の間から直接、ぼこぼこと源泉が湧出しています。法師乃湯には、男女別の脱衣所がありますが、湯船は昔ながらの混浴のスタイル。女性専用の時間も設けられているので、混浴が苦手な女性も名物の湯を楽しめるようになっています。このほか、宿には内湯と露天風呂がある「玉城乃湯」と、泉質の良さで知られる「長寿乃湯」があります。いずれも男女入れ替え制なので、全部の湯に入って、肌ざわりなどを比べてみてください。",
+        "image": {
+          "height": 797,
+          "sourceUrl": "http://a.mktgcdn.com/p/0L_ywDCAbax1GKUajbwNoMaiAS3gyeaA0UwKhQNjt9M/1200x797.jpg",
+          "thumbnails": [
+            {
+              "height": 797,
+              "url": "//a.mktgcdn.com/p-sandbox/woUZ4LsppjJLve7oVhoL9l3kRbEvI_VcDb2Ej5bgwrc/1200x797.jpg",
+              "width": 1200
+            },
+            {
+              "height": 411,
+              "url": "//a.mktgcdn.com/p-sandbox/woUZ4LsppjJLve7oVhoL9l3kRbEvI_VcDb2Ej5bgwrc/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "//a.mktgcdn.com/p-sandbox/woUZ4LsppjJLve7oVhoL9l3kRbEvI_VcDb2Ej5bgwrc/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "//a.mktgcdn.com/p-sandbox/woUZ4LsppjJLve7oVhoL9l3kRbEvI_VcDb2Ej5bgwrc/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/woUZ4LsppjJLve7oVhoL9l3kRbEvI_VcDb2Ej5bgwrc/1200x797.jpg",
+          "width": 1200
+        },
+        "imageCaption": "法師乃湯は、旧国鉄時代のポスターにも使われた名湯",
+        "sectionTitle": "これぞ秘湯。湯船の底から湧く歴史の湯に癒やされる"
+      },
+      {
+        "description": "できる限り町内産、県内産にこだわる夕食は、安心・安全をモットーに調理された滋味溢れる和食です。上州牛や上州麦豚、赤城鶏などの食材が料理を彩り、格別なひとときを過ごせます。宿の先祖が新潟県南魚沼の出身ということもあり、秋口には契約農家で収穫された魚沼産コシヒカリを食べることもできます。自家水源から引くミネラル豊富な清水も、お料理の味を引き立てています。",
+        "image": {
+          "height": 837,
+          "sourceUrl": "http://a.mktgcdn.com/p/Od0tjikfsk8L86Pjw1LF8jeY40ssrr31j7yMEeZhVT0/1200x837.jpg",
+          "thumbnails": [
+            {
+              "height": 837,
+              "url": "//a.mktgcdn.com/p-sandbox/C3KU67PZEhlL0Fv041_3s-z9uTfSDgKRR0iCQL2HwRM/1200x837.jpg",
+              "width": 1200
+            },
+            {
+              "height": 432,
+              "url": "//a.mktgcdn.com/p-sandbox/C3KU67PZEhlL0Fv041_3s-z9uTfSDgKRR0iCQL2HwRM/619x432.jpg",
+              "width": 619
+            },
+            {
+              "height": 419,
+              "url": "//a.mktgcdn.com/p-sandbox/C3KU67PZEhlL0Fv041_3s-z9uTfSDgKRR0iCQL2HwRM/600x419.jpg",
+              "width": 600
+            },
+            {
+              "height": 137,
+              "url": "//a.mktgcdn.com/p-sandbox/C3KU67PZEhlL0Fv041_3s-z9uTfSDgKRR0iCQL2HwRM/196x137.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/C3KU67PZEhlL0Fv041_3s-z9uTfSDgKRR0iCQL2HwRM/1200x837.jpg",
+          "width": 1200
+        },
+        "imageCaption": "地場産素材を取り入れた会席料理",
+        "sectionTitle": "群馬県産にこだわった食材を季節替わりで楽しむ"
+      },
+      {
+        "description": "お部屋は、明治8年に建てられた本館と、法師川を隔てて立つ昭和15年築の別館、昭和53年に建てられた法師川沿いの薫山荘、平成元年築の法隆殿の4つの棟にあります。圧倒的なレトロ感がお好みなら本館が、昔ながらの風情と快適さを求めるなら別館がおすすめです。薫山荘と法隆殿のお部屋はゆったりとした間取りで、各国の著名人が滞在した部屋もあります。ワンランク上の快適さを求めるなら、この2館がおすすめです。",
+        "image": {
+          "height": 797,
+          "sourceUrl": "http://a.mktgcdn.com/p/GTd5x72nhisXTUeH6xDMdc1twgyONMOBKQKAwAf464k/1200x797.jpg",
+          "thumbnails": [
+            {
+              "height": 797,
+              "url": "//a.mktgcdn.com/p-sandbox/b1FCZdvM7RlbH0WVjhj69uCiQDECuFJWCyP2gkVHkmc/1200x797.jpg",
+              "width": 1200
+            },
+            {
+              "height": 411,
+              "url": "//a.mktgcdn.com/p-sandbox/b1FCZdvM7RlbH0WVjhj69uCiQDECuFJWCyP2gkVHkmc/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "//a.mktgcdn.com/p-sandbox/b1FCZdvM7RlbH0WVjhj69uCiQDECuFJWCyP2gkVHkmc/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "//a.mktgcdn.com/p-sandbox/b1FCZdvM7RlbH0WVjhj69uCiQDECuFJWCyP2gkVHkmc/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/b1FCZdvM7RlbH0WVjhj69uCiQDECuFJWCyP2gkVHkmc/1200x797.jpg",
+          "width": 1200
+        },
+        "imageCaption": "風情ある別館のお部屋",
+        "sectionTitle": "時代が異なる4つの棟にお部屋が並ぶ。レトロ気分を味わうなら本館がおすすめ"
+      },
+      {
+        "description": "玄関の左側にある囲炉裏のあるお部屋は、ゲストが自由に利用できる場所。一年中、薪がパチパチと燃えており、自在鉤に下がる茶釜では湯がシュンシュンと沸いています。ひとり、ふたりと集まればいつしか会話も弾み、ゲスト同士のふれあいの場に。宿の主人が自ら鉄瓶のお茶をふるまってくれることもあります。豊かな自然と、人とのふれあいを身近に感じることができる宿。レトロな建物といまでは貴重な秘湯情緒を味わいに、ぜひお出かけください。",
+        "image": {
+          "height": 1806,
+          "sourceUrl": "http://a.mktgcdn.com/p/HHHFmh34REqieEvVKOexpYXk8Mhv3nIfsHGzxxbMfAs/1200x1806.jpg",
+          "thumbnails": [
+            {
+              "height": 1806,
+              "url": "//a.mktgcdn.com/p-sandbox/ik-nbKh02jeUspFlc-prlXJtzRtMo89aIy5_Cm7Vra4/1200x1806.jpg",
+              "width": 1200
+            },
+            {
+              "height": 932,
+              "url": "//a.mktgcdn.com/p-sandbox/ik-nbKh02jeUspFlc-prlXJtzRtMo89aIy5_Cm7Vra4/619x932.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "//a.mktgcdn.com/p-sandbox/ik-nbKh02jeUspFlc-prlXJtzRtMo89aIy5_Cm7Vra4/299x450.jpg",
+              "width": 299
+            },
+            {
+              "height": 295,
+              "url": "//a.mktgcdn.com/p-sandbox/ik-nbKh02jeUspFlc-prlXJtzRtMo89aIy5_Cm7Vra4/196x295.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/ik-nbKh02jeUspFlc-prlXJtzRtMo89aIy5_Cm7Vra4/1200x1806.jpg",
+          "width": 1200
+        },
+        "sectionTitle": "囲炉裏がつなぐ、ゲスト同士のふれあいのひととき"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_chiki_100118",
+      "news_ap_chiki_100001",
+      "news_ap_chiki_100119",
+      "news_ap_y_ichikawa501_009",
+      "news_ap_m_omatsu513_001",
+      "news_ap_remoteconcierge_00002",
+      "news_ap_y_ishihara225_023",
+      "news_ap_remoteconcierge_00001"
+    ],
+    "c_news_FeaturedArticlesTitle": "群馬県のその他の記事",
+    "c_news_PublicationDate": "2023-06-05",
+    "c_news_UpdateDate": "2023-06-05",
+    "c_news_ViewCount": "46",
+    "c_news_ViewCount1of2": "7",
+    "c_news_ViewCount2of2": "46",
+    "c_news_ViewCountNum": "46",
+    "c_news_ViewCountNumForSorting": "2",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kanto/gunma/news_ap_remoteconcierge_00003",
+    "name": "国登録有形文化財の宿で、秘湯風情に浸る【群馬県　法師温泉長寿館】",
+    "slug": "kokunai/kanto/gunma/news_ap_remoteconcierge_00003",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "リモコン記事"
+  ]
+}

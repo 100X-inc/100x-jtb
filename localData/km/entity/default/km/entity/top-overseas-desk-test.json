@@ -1,0 +1,855 @@
+{
+  "$id": "top-overseas-desk-test",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}\n\n.Promotions-subtitle {\ntext-decoration: unset;\n}\n\n.OnlineConsultation-subtitle {\ntext-decoration: unset;\n}\n\n.Info-title {\ntext-decoration: unset;\nfont-size:130%;\n}\n\n.Info-wrapper {\npadding-top:0px;\n}\n\n.Consultants-subtitle {\ntext-decoration: unset;\n}\n\n#locator {\ndisplay: none;\n}\n\n.Promotions {\nbackground-color:#fff; padding:32px;\n}\n\n.Promotions-promoWrapper {\nbackground-color:#fef6f0; padding:32px 0px; margin:0px 8px; border:solid 1px #eee;\n}\n\n.Info-wrapper {\nbackground-color:#ecf9ff; padding:24px 0px;\n}\n\n.InfoItem {\nbackground-color:#fff;\n}\n\n#onlineconsultation {\nbackground-color:#ecf9ff; margin:0px; padding:0px;\n}\n\n\n#consultants {\nmargin-top:0px;\n}\n\n.pc { display: block !important;  border: 0px;}\n.sp { display: none !important; }\n\n#info {\ndisplay: none;\n}\n\n#info2 {\ndisplay: none;\n}\n\n.Hero {\nheight: 27rem\n}\n\n.Hero-link {\nbackground-color: #3498DB;\nbackground-border: 1px solid #3498DB;\ncolor: #fff;\n}\n\n.Hero-links {\npadding-top: 320px;\n}\n\n#Shop-title {\nfont-size: 2rem;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}\n\n.Hero {\nheight: 27rem\n}\n\n.Hero-link {\nbackground-color: #3498DB;\nbackground-border: 1px solid #3498DB;\ncolor: #fff;\n}\n\n.Hero-links {\npadding-top: 320px;\n}\n\n#Shop-title {\nfont-size: 1.5rem;\n}\n.Promotions-promo {\n    flex-wrap: wrap;\n}\n.Promotions-image {\n    width: unset;\n}\n.Promotions-subtitle {\ntext-decoration: unset;\n}\n\n.OnlineConsultation-subtitle {\ntext-decoration: unset;\n}\n\n.Hero-imageContainer {\nheight: auto;\n}\n\n.Promotions-subtitle {\nfont-size: 1.2rem;\n}\n\n.Promotions-description {\npadding-inline: 1rem;\n}\n\n.Promotions-content {\nmargin-bottom:40px;\n}\n\n#locator {\ndisplay: none;\n}\n\n@media only screen and (max-width: 750px) {\n    .pc { display: none !important; }\n    .sp { display: block !important; border: 0px;}\n}\n\n.Promotions-promoWrapper {\nbackground-color:#fef6f0; padding:8px 8px 24px; margin:0px 0px 16px; border:solid 1px #eee;\n}\n\nPromotions-description {\npadding-right:0px;\npadding-left:0px;\nfont-size: 1.1rem;\n}\n\nPromotions-subtitle {\nfont-size:90%;\n}\n\n.Promotions {\npadding:16px;\n}\n\n.Hero {\nheight: 28rem\n}\n\n.Hero-link {\nbackground-color: #3498DB;\nbackground-border: 1px solid #3498DB;\nfont-size: 1.1rem;\ncolor: #fff;\n}\n\n.Hero-links {\npadding-top: 160px;\n}\n\n.Promotions-subtitle {\npadding-bottom: 0px;\n}\n\n#Shop-title {\nfont-size: 1.5rem;\n}",
+    "c_metaDescription": "JTB 海外旅行専門デスク | お店でも、オンラインでも、あなたの旅をご提案します！",
+    "c_metaTitle": "JTB 海外旅行専門デスク | お店でも、オンラインでも、あなたの旅をご提案します！",
+    "c_pagesURL": "https://consultants.jtb.co.jp/top-overseas-desk",
+    "c_topBreadcrumb": {
+      "label": "海外旅行専門デスク",
+      "link": "top-overseas-desk",
+      "linkType": "OTHER"
+    },
+    "c_top_AnchorLinks": [
+      {
+        "label": "専門デスクのある店舗",
+        "link": "#Shop-title",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "リモート相談専門店",
+        "link": "https://consultants.jtb.co.jp/top-overseas",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "海外エキスパートスタッフと相談",
+        "link": "https://consultants.jtb.co.jp/top-overseas-expert",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_top_ArticlesSectionHTML": "\u003ca href\u003d\"https://www.jtb.co.jp\"\u003e海外エキスパート相談\u003c/a\u003e",
+    "c_top_ArticlesSectionSubTitle": "\u003ca href\u003d\"https://www.jtb.co.jp\"\u003e海外エキスパート相談\u003c/a\u003e",
+    "c_top_ArticlesSectionTitle": "\u003ca href\u003d\"https://www.jtb.co.jp\"\u003e海外エキスパート相談\u003c/a\u003e",
+    "c_top_BannerBackgroundColor": "#ffc300",
+    "c_top_Consultants": [
+      "cp_14990371",
+      "cp_14151598",
+      "cp_21071003",
+      "cp_14183012",
+      "cp_14072567",
+      "cp_21162003",
+      "cp_21155007",
+      "cp_17136013",
+      "cp_14161574",
+      "cp_14141587",
+      "cp_14171528",
+      "cp_20171001",
+      "cp_21169089",
+      "cp_21169024",
+      "cp_loyalstaff_21179007",
+      "cp_17136009"
+    ],
+    "c_top_ConsultantsSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e\n\u003cscript\u003e\nwindow.addEventListener(\u0027load\u0027, function() {\n  atags \u003d document.querySelectorAll(\u0027.FAQ-answerText a[href^\u003d\"https:\"]\u0027);\n  atags.forEach(function(atag){atag.setAttribute(\u0027target\u0027, \u0027_blank\u0027);});\n});\n\u003c/script\u003e",
+    "c_top_ConsultantsSectionSubTitle": "お客様が「行きたい、叶えたい」海外旅行への要望に対して、社内資格を有した、知識豊富なスタッフが、相談を承ります。\nお客様へ最適な最新情報をご案内するとともに、旅のワクワクを一緒に創ります！\n\u003cdiv style\u003d\"margin-top:12px;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/stores/overseas-expert/about/\" target\u003d\"_blank\" style\u003d\"font-size:85%; color:#3498DB;\"\u003e⇒ 海外エキスパートの認定基準はこちら\u003c/a\u003e\u003c/div\u003e",
+    "c_top_ConsultantsSectionTitle": "海外エキスパート社員のご紹介",
+    "c_top_HeroImage": {
+      "height": 556,
+      "sourceUrl": "https://a.mktgcdn.com/p/BYqoDAMRuDtmqtmGBiiC-IUDvbICyKN6TPbNN0u3wKg/1900x556.jpg",
+      "thumbnails": [
+        {
+          "height": 556,
+          "url": "https://a.mktgcdn.com/p-sandbox/BYqoDAMRuDtmqtmGBiiC-IUDvbICyKN6TPbNN0u3wKg/1900x556.jpg",
+          "width": 1900
+        },
+        {
+          "height": 181,
+          "url": "https://a.mktgcdn.com/p-sandbox/BYqoDAMRuDtmqtmGBiiC-IUDvbICyKN6TPbNN0u3wKg/619x181.jpg",
+          "width": 619
+        },
+        {
+          "height": 176,
+          "url": "https://a.mktgcdn.com/p-sandbox/BYqoDAMRuDtmqtmGBiiC-IUDvbICyKN6TPbNN0u3wKg/600x176.jpg",
+          "width": 600
+        },
+        {
+          "height": 57,
+          "url": "https://a.mktgcdn.com/p-sandbox/BYqoDAMRuDtmqtmGBiiC-IUDvbICyKN6TPbNN0u3wKg/196x57.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/BYqoDAMRuDtmqtmGBiiC-IUDvbICyKN6TPbNN0u3wKg/1900x556.jpg",
+      "width": 1900
+    },
+    "c_top_HeroImageMobile": {
+      "height": 880,
+      "sourceUrl": "https://a.mktgcdn.com/p/_y9_QhR3NX9Ink8NxMNJ4q9cVGWoFIWwGNNhE2ySUxk/720x880.png",
+      "thumbnails": [
+        {
+          "height": 880,
+          "url": "https://a.mktgcdn.com/p-sandbox/_y9_QhR3NX9Ink8NxMNJ4q9cVGWoFIWwGNNhE2ySUxk/720x880.png",
+          "width": 720
+        },
+        {
+          "height": 757,
+          "url": "https://a.mktgcdn.com/p-sandbox/_y9_QhR3NX9Ink8NxMNJ4q9cVGWoFIWwGNNhE2ySUxk/619x757.png",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/_y9_QhR3NX9Ink8NxMNJ4q9cVGWoFIWwGNNhE2ySUxk/368x450.png",
+          "width": 368
+        },
+        {
+          "height": 240,
+          "url": "https://a.mktgcdn.com/p-sandbox/_y9_QhR3NX9Ink8NxMNJ4q9cVGWoFIWwGNNhE2ySUxk/196x240.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/_y9_QhR3NX9Ink8NxMNJ4q9cVGWoFIWwGNNhE2ySUxk/720x880.png",
+      "width": 720
+    },
+    "c_top_Info2SectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_Info3": [
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j3354-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNVBc",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 400,
+          "sourceUrl": "https://a.mktgcdn.com/p/t1JsUCszhN0NDeN_dAookt7V1up26Y-pcwYVzEEIZIw/533x400.jpg",
+          "thumbnails": [
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/omZoHwfdux-Obn46tsPRWRdqx4L-oVWD1tRssmqccac/533x400.jpg",
+              "width": 533
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/omZoHwfdux-Obn46tsPRWRdqx4L-oVWD1tRssmqccac/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/omZoHwfdux-Obn46tsPRWRdqx4L-oVWD1tRssmqccac/533x400.jpg",
+          "width": 533
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j3354-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003e上野マルイ店\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j3385-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNVBd",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 449,
+          "sourceUrl": "https://a.mktgcdn.com/p/A_ZYdZ7MuXhQWufrn7xkEbpr6Gmlx2APT2RtV11xOvQ/599x449.png",
+          "thumbnails": [
+            {
+              "height": 449,
+              "url": "https://a.mktgcdn.com/p-sandbox/A_ZYdZ7MuXhQWufrn7xkEbpr6Gmlx2APT2RtV11xOvQ/599x449.png",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/A_ZYdZ7MuXhQWufrn7xkEbpr6Gmlx2APT2RtV11xOvQ/196x147.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/A_ZYdZ7MuXhQWufrn7xkEbpr6Gmlx2APT2RtV11xOvQ/599x449.png",
+          "width": 599
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j3385-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003e北千住マルイ店\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j3336-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNkxc",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/wmImNqv3wQ-lKLCvx6cRQRlT33HN_Z4SG2QaeTGyPY0/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dOt2vaC6g3xVKATSper2xnn7blJV9bi-Wak9NpLTbxA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/dOt2vaC6g3xVKATSper2xnn7blJV9bi-Wak9NpLTbxA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dOt2vaC6g3xVKATSper2xnn7blJV9bi-Wak9NpLTbxA/600x450.jpg",
+          "width": 600
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j3336-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003eトラベルゲート有楽町\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j3494-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "http://ttps://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVl-xG",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/FAXO4gi5yBb-fst_6YHeYdkIHZm_2xFVCYL9eY-orkk/600x450.png",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/FAXO4gi5yBb-fst_6YHeYdkIHZm_2xFVCYL9eY-orkk/600x450.png",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/FAXO4gi5yBb-fst_6YHeYdkIHZm_2xFVCYL9eY-orkk/196x147.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FAXO4gi5yBb-fst_6YHeYdkIHZm_2xFVCYL9eY-orkk/600x450.png",
+          "width": 600
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j3494-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003e渋谷ヒカリエ シンクス店\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j3352-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVlrxc",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 337,
+          "sourceUrl": "https://a.mktgcdn.com/p/-LWF55gcVUALIv_3WyZYElzW0WjoDQL_vc-T9PR5vg8/449x337.jpg",
+          "thumbnails": [
+            {
+              "height": 337,
+              "url": "https://a.mktgcdn.com/p-sandbox/a98Zy3tPJkXSXhQr8ih6LEOYgrdIlpTLjD5aq4A4uvI/449x337.jpg",
+              "width": 449
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/a98Zy3tPJkXSXhQr8ih6LEOYgrdIlpTLjD5aq4A4uvI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/a98Zy3tPJkXSXhQr8ih6LEOYgrdIlpTLjD5aq4A4uvI/449x337.jpg",
+          "width": 449
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j3352-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003e池袋パルコ店\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j3334-2",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNg_q",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/L_QE8sSUYkupWHHkPo-dDUjdaYG5Gq-iymeCq8QHR0s/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/XLC1cKaqHscWA4nYGq6kzNEhAg4X_kYTvu9kUcr27JU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/XLC1cKaqHscWA4nYGq6kzNEhAg4X_kYTvu9kUcr27JU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/XLC1cKaqHscWA4nYGq6kzNEhAg4X_kYTvu9kUcr27JU/600x450.jpg",
+          "width": 600
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j3334-2\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003e吉祥寺店\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j3927-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNkxG",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/od8qizUJatmuiNCwSmk7HidSWrPO6zs--1st326a0sw/600x450.png",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/od8qizUJatmuiNCwSmk7HidSWrPO6zs--1st326a0sw/600x450.png",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/od8qizUJatmuiNCwSmk7HidSWrPO6zs--1st326a0sw/196x147.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/od8qizUJatmuiNCwSmk7HidSWrPO6zs--1st326a0sw/600x450.png",
+          "width": 600
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j3927-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003eトラベルゲート立川\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/t6691-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVcr_G",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 376,
+          "sourceUrl": "https://a.mktgcdn.com/p/FrIpzcwggCtE0GCmOaXwBRR7vZCdDMkbDappuPBYVQk/501x376.png",
+          "thumbnails": [
+            {
+              "height": 376,
+              "url": "https://a.mktgcdn.com/p-sandbox/FrIpzcwggCtE0GCmOaXwBRR7vZCdDMkbDappuPBYVQk/501x376.png",
+              "width": 501
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/FrIpzcwggCtE0GCmOaXwBRR7vZCdDMkbDappuPBYVQk/196x147.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FrIpzcwggCtE0GCmOaXwBRR7vZCdDMkbDappuPBYVQk/501x376.png",
+          "width": 501
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/t6691-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003e千里中央店\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j6655-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVN7Bc",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/UsZr0LgWUOVe1eTsEHNP1QnTLbYxFzA5Ug4Oen60s94/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/aEQaL0ic8PCN5nn6-HQjppTi4SH7cnPH3xwgVHNmn1k/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/aEQaL0ic8PCN5nn6-HQjppTi4SH7cnPH3xwgVHNmn1k/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aEQaL0ic8PCN5nn6-HQjppTi4SH7cnPH3xwgVHNmn1k/600x450.jpg",
+          "width": 600
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j6655-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003e大阪なんば店\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j6881-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVN7Bd",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/1Q0ThVffIHfM1o-YoX-Z2o94tzvGv7J7iJZbl0xNqnE/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/hHKK4QqRUOw4j4zz33J7ZalAKXvUbQnn_uRYrRPfFBU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/hHKK4QqRUOw4j4zz33J7ZalAKXvUbQnn_uRYrRPfFBU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hHKK4QqRUOw4j4zz33J7ZalAKXvUbQnn_uRYrRPfFBU/600x450.jpg",
+          "width": 600
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j6881-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003e大阪天王寺店\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j1160-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNkBq",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 400,
+          "sourceUrl": "https://a.mktgcdn.com/p/vcHwOopUINqmER196treePDwLq-TEoan4jOcgcEmEaI/533x400.png",
+          "thumbnails": [
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/vcHwOopUINqmER196treePDwLq-TEoan4jOcgcEmEaI/533x400.png",
+              "width": 533
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/vcHwOopUINqmER196treePDwLq-TEoan4jOcgcEmEaI/196x147.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vcHwOopUINqmER196treePDwLq-TEoan4jOcgcEmEaI/533x400.png",
+          "width": 533
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j1160-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003eトラベルゲート札幌\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j2231-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNkBc",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 447,
+          "sourceUrl": "https://a.mktgcdn.com/p/x_DXXVB_necEX_RYma-wUKB9fmrWmG5VOqxJpdBui6I/596x447.jpg",
+          "thumbnails": [
+            {
+              "height": 447,
+              "url": "https://a.mktgcdn.com/p-sandbox/o-98vnacWQfs5agB_2VIji7MbexkDu02UqXxvcuhsAs/596x447.jpg",
+              "width": 596
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/o-98vnacWQfs5agB_2VIji7MbexkDu02UqXxvcuhsAs/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/o-98vnacWQfs5agB_2VIji7MbexkDu02UqXxvcuhsAs/596x447.jpg",
+          "width": 596
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j2231-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003eトラベルゲート仙台\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j3404-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNkBd",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/iG4MgKq40gP6rp7kanUNbFjbQF937ppu2RAXBZgTRrk/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/FRHr25LEs3xAH0tK7iW6FDZO4qjzUWJsqz9_8k6K6Dk/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/FRHr25LEs3xAH0tK7iW6FDZO4qjzUWJsqz9_8k6K6Dk/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FRHr25LEs3xAH0tK7iW6FDZO4qjzUWJsqz9_8k6K6Dk/600x450.jpg",
+          "width": 600
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j3404-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003eトラベルゲート大宮\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j3403-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNgxd",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 355,
+          "sourceUrl": "https://a.mktgcdn.com/p/H_Z72ou3qLbcSbvFOT9LE95IcdEttQpuPbD2kFY6wLM/473x355.jpg",
+          "thumbnails": [
+            {
+              "height": 355,
+              "url": "https://a.mktgcdn.com/p-sandbox/3maCWkKBAn3npbuoHoVZxG_yX9MlrMUlXx1Y3Nhebog/473x355.jpg",
+              "width": 473
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/3maCWkKBAn3npbuoHoVZxG_yX9MlrMUlXx1Y3Nhebog/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3maCWkKBAn3npbuoHoVZxG_yX9MlrMUlXx1Y3Nhebog/473x355.jpg",
+          "width": 473
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j3403-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003e船橋店\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j5548-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNk_G",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/cB5qvQSrPRI68ly0lapQJhV_3zU-JWg2oYmFFY6ycTc/600x450.png",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/cB5qvQSrPRI68ly0lapQJhV_3zU-JWg2oYmFFY6ycTc/600x450.png",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/cB5qvQSrPRI68ly0lapQJhV_3zU-JWg2oYmFFY6ycTc/196x147.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cB5qvQSrPRI68ly0lapQJhV_3zU-JWg2oYmFFY6ycTc/600x450.png",
+          "width": 600
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j5548-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003eトラベルゲート名古屋栄\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j5544-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVN-Bq",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 338,
+          "sourceUrl": "https://a.mktgcdn.com/p/ri6dhKw051zQH_9dgHDQCvnHpx-h67yZ7BH66VVITTI/450x338.jpg",
+          "thumbnails": [
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/M8z4JTTOXZ9FW4aRXDfqf3YpIBa1Twe8n4vUeG_zUOI/450x338.jpg",
+              "width": 450
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/M8z4JTTOXZ9FW4aRXDfqf3YpIBa1Twe8n4vUeG_zUOI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/M8z4JTTOXZ9FW4aRXDfqf3YpIBa1Twe8n4vUeG_zUOI/450x338.jpg",
+          "width": 450
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j5544-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003e名古屋松坂屋店\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j6860-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNkBG",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/EsDpk6Jy0FsrWxEgS8kl3eZq6y1Ba9wZo9aCLKDqOjA/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/bvi4PFUjt1tTGS9iwbyRVSTEgGUUNUTBG6zv8Tv-q2o/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/bvi4PFUjt1tTGS9iwbyRVSTEgGUUNUTBG6zv8Tv-q2o/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bvi4PFUjt1tTGS9iwbyRVSTEgGUUNUTBG6zv8Tv-q2o/600x450.jpg",
+          "width": 600
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j6860-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003eトラベルゲート京都四条\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j6623-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVcrBG",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/s60jg3XNlMXM9ljGyEYMSQdDLDL7-Wo4T7PZyx2cAwI/600x450.png",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/s60jg3XNlMXM9ljGyEYMSQdDLDL7-Wo4T7PZyx2cAwI/600x450.png",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/s60jg3XNlMXM9ljGyEYMSQdDLDL7-Wo4T7PZyx2cAwI/196x147.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/s60jg3XNlMXM9ljGyEYMSQdDLDL7-Wo4T7PZyx2cAwI/600x450.png",
+          "width": 600
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j6623-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003e京都駅前店\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j6646-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNgBG",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/gzIWmehiGx8yxIAK4clhQv6scmSqFx3UegYOxGblQ9M/600x450.png",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/gzIWmehiGx8yxIAK4clhQv6scmSqFx3UegYOxGblQ9M/600x450.png",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/gzIWmehiGx8yxIAK4clhQv6scmSqFx3UegYOxGblQ9M/196x147.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gzIWmehiGx8yxIAK4clhQv6scmSqFx3UegYOxGblQ9M/600x450.png",
+          "width": 600
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j6646-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003eトラベルゲート神戸三ノ宮\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j8822-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNgBq",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/9lJPuE9T7pf2Fyvmerrtv0gY5KPNGuhL1XG2Ug5eePE/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/2JEWZ5o1jwGQ8Gt3UZiviXOmnvF1l9VtV4PBGh_Kmko/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/2JEWZ5o1jwGQ8Gt3UZiviXOmnvF1l9VtV4PBGh_Kmko/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2JEWZ5o1jwGQ8Gt3UZiviXOmnvF1l9VtV4PBGh_Kmko/600x450.jpg",
+          "width": 600
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j8822-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003eトラベルゲート広島紙屋町\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/t8835-0",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVcixc",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/Nqv9Q-5GlRLKLeUMzeqrKgrVBREYmY4JqQfAUFbLupk/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Cl9p7x7AICAzcxyu1FrMmQVnBrIJEEQj_qoqJWz2Sxw/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Cl9p7x7AICAzcxyu1FrMmQVnBrIJEEQj_qoqJWz2Sxw/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Cl9p7x7AICAzcxyu1FrMmQVnBrIJEEQj_qoqJWz2Sxw/600x450.jpg",
+          "width": 600
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/t8835-0\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003eイオンモール広島府中店\u003c/a\u003e"
+      },
+      {
+        "cTA1": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e店舗ホーページはこちら\u003c/span\u003e",
+          "link": "https://stores.jtb.co.jp/j8980-1",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "\u003cspan style\u003d\"font-size:85%; color:#3498DB; font-weight:normal;\"\u003e海外旅行相談予約\u003c/span\u003e",
+          "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNgBc",
+          "linkType": "URL"
+        },
+        "image": {
+          "height": 400,
+          "sourceUrl": "https://a.mktgcdn.com/p/DACqTuE4vhnOKMoOBMpGu6Wk2j1Vmv8PwW_0Y1PUm8Q/533x400.jpg",
+          "thumbnails": [
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/opTzWTcIOIHjpbkslS-qStAy8cNCj6Wn_qHFJPxhooA/533x400.jpg",
+              "width": 533
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/opTzWTcIOIHjpbkslS-qStAy8cNCj6Wn_qHFJPxhooA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/opTzWTcIOIHjpbkslS-qStAy8cNCj6Wn_qHFJPxhooA/533x400.jpg",
+          "width": 533
+        },
+        "title": "\u003ca href\u003d\"https://stores.jtb.co.jp/j8980-1\" style\u003d\"font-size:90%; font-weight:bold; color:#323743;\"\u003eトラベルゲート天神\u003c/a\u003e"
+      }
+    ],
+    "c_top_Info3SectionTitle": "その他の海外旅行専門デスクがある店舗",
+    "c_top_OnlineConsultationSectionSubTitle": "\u003cdiv style\u003d\"margin:32px 0px 0px;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/top-overseas-expert\"\u003e\u003cimg class\u003d\"pc\" src\u003d\"https://a.mktgcdn.com/p/ivAc2j5x22soMbRLPXOES4hzZ8BRe0JD1W5HSi6HMR8/1138x120.jpg\" style\u003d\"border:solid 1px #3498DB;\" alt\u003d\"海外エキスパート相談\"\u003e\u003c/a\u003e\n\u003ca href\u003d\"https://consultants.jtb.co.jp/top-overseas-expert\"\u003e\u003cimg class\u003d\"sp\" src\u003d\"https://a.mktgcdn.com/p/jjXcWsNBiRg7Z11rRHOU8nn03DuaQ0JJSWuwPCwPeIk/720x240.jpg\" style\u003d\"border:solid 1px #3498DB;\" alt\u003d\"海外エキスパート相談\"\u003e\u003c/a\u003e\u003c/div\u003e",
+    "c_top_PromotionBanners": [
+      {
+        "clickthroughUrl": "https://stores.jtb.co.jp/j3361-0#consultants",
+        "description": "\u003cp style\u003d\"margin-bottom:8px;\"\u003e\u003ca href\u003d\"https://stores.jtb.co.jp/j3361-0\" target\u003d\"_blank\"\u003e\u003cspan style\u003d\"font-size:110%; font-weight:bold; color:#323743;\"\u003eJTB トラベルゲート新宿マルイ本館\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp style\u003d\"font-size:80%; margin-bottom:8px;\"\u003e各方面のエキスパートスタッフがお客様の行きたい海外旅行を叶えるお手伝いをいたします。クルーズ・ハネムーン・ウエディングもお任せください。\u003c/p\u003e\u003cp style\u003d\"font-size:90%;\"\u003e\u003ca href\u003d\"https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVNkxq\" style\u003d\"color:#3498DB;\" target\u003d\"_blank\"\u003e＞ 海外旅行相談予約\u003c/a\u003e\u003cbr\u003e\u003ca href\u003d\"https://peatix.com/group/11929135/events\" style\u003d\"color:#3498DB;\" target\u003d\"_blank\"\u003e＞ 開催イベント一覧\u003c/a\u003e\u003c/p\u003e",
+        "image": {
+          "alternateText": "JTB トラベルゲート新宿マルイ本館",
+          "height": 331,
+          "sourceUrl": "https://a.mktgcdn.com/p/Kb4W0BmFYsLchrS1cL5-K0oSX9RJVj1oTJ6wjcRWlGs/437x331.jpg",
+          "thumbnails": [
+            {
+              "height": 331,
+              "url": "https://a.mktgcdn.com/p-sandbox/Kb4W0BmFYsLchrS1cL5-K0oSX9RJVj1oTJ6wjcRWlGs/437x331.jpg",
+              "width": 437
+            },
+            {
+              "height": 148,
+              "url": "https://a.mktgcdn.com/p-sandbox/Kb4W0BmFYsLchrS1cL5-K0oSX9RJVj1oTJ6wjcRWlGs/196x148.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Kb4W0BmFYsLchrS1cL5-K0oSX9RJVj1oTJ6wjcRWlGs/437x331.jpg",
+          "width": 437
+        }
+      },
+      {
+        "clickthroughUrl": "https://stores.jtb.co.jp/j6627-1#consultants",
+        "description": "\u003cp style\u003d\"margin-bottom:8px;\"\u003e\u003ca href\u003d\"https://stores.jtb.co.jp/j6627-1\" target\u003d\"_blank\"\u003e\u003cspan style\u003d\"font-size:110%; font-weight:bold; color:#323743;\"\u003eJTB トラベルゲート大阪梅田\u003c/span\u003e\u003c/a\u003e\u003cp\u003e\u003cp style\u003d\"font-size:80%; margin-bottom:8px;\"\u003e海外渡航歴豊富なスタッフが、JR大阪駅直結の店舗でお待ちしております。クルーズ・ハネムーン・ウエディングもお任せください。\u003c/p\u003e\u003cp style\u003d\"font-size:95%;\"\u003e\u003ca href\u003d\"https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBk_q\" style\u003d\"color:#3498DB;\" target\u003d\"_blank\"\u003e＞ 海外旅行相談予約\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+        "image": {
+          "alternateText": "JTB トラベルゲート大阪梅田",
+          "height": 331,
+          "sourceUrl": "https://a.mktgcdn.com/p/cS7oIfv2NHAHjIFiH2NA4MnyDBzAyTVsalLmT-q4EYs/420x331.jpg",
+          "thumbnails": [
+            {
+              "height": 331,
+              "url": "https://a.mktgcdn.com/p-sandbox/cS7oIfv2NHAHjIFiH2NA4MnyDBzAyTVsalLmT-q4EYs/420x331.jpg",
+              "width": 420
+            },
+            {
+              "height": 154,
+              "url": "https://a.mktgcdn.com/p-sandbox/cS7oIfv2NHAHjIFiH2NA4MnyDBzAyTVsalLmT-q4EYs/196x154.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cS7oIfv2NHAHjIFiH2NA4MnyDBzAyTVsalLmT-q4EYs/420x331.jpg",
+          "width": 420
+        }
+      }
+    ],
+    "c_top_PromotionBannersSectionSubTitle": "\u003cp style\u003d\"text-decoration: none!important;\"\u003e海外旅行へのワクワクを発信する場所\u003cbr\u003e渡航歴や方面毎の資格を持った、経験豊富なスタッフが相談を承ります。\u003cbr\u003e今回の旅で何を叶えますか。ご相談お待ちしております。\u003c/p\u003e\n\n\u003cdiv\u003e\u003ca href\u003d\"https://www.jtb.co.jp/myjtb/stage/event-kaigai/\"\u003e\u003cimg class\u003d\"pc\" src\u003d\"https://a.mktgcdn.com/p/Oynlz9wWCUxTBc3TJSd2znezdlVglcUGCKx5yvMmpVs/1138x120.jpg\" style\u003d\"border:solid 1px #3498DB;\" alt\u003d\"海外旅行説明会\"\u003e\u003c/a\u003e\n\u003ca href\u003d\"https://www.jtb.co.jp/myjtb/stage/event-kaigai/\"\u003e\u003cimg class\u003d\"sp\" src\u003d\"https://a.mktgcdn.com/p/-ov0Jf3WbJXPuIaxBIqPhGBkBqrT3yJd5eaO9-cDzpk/720x240.jpg\" style\u003d\"border:solid 1px #3498DB;\" alt\u003d\"海外旅行説明会\"\u003e\u003c/a\u003e\u003c/div\u003e\n\n\u003cdiv class\u003d\"Promotions\"\u003e\u003ch2 id\u003d\"Shop-title\"\u003e海外旅行専門デスクのある店舗\u003c/h2\u003e\u003c/div\u003e",
+    "c_top_PromotionBannersSectionTitle": "海外旅行専門デスクとは",
+    "name": "TEST TOP 海外旅行専門デスク（テスト・本番はコンサルタントフォルダです）"
+  },
+  "entityType": "ce_tOP",
+  "labels": []
+}

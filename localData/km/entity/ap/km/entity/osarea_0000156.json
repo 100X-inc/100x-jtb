@@ -1,0 +1,340 @@
+{
+  "$id": "ap_osarea_0000156",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター"
+    },
+    "c_ap_CTA1": {
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "ウブドから少し足をのばした、ギャニアール地方にある大型サファリパーク。約22haの広大な敷地に、サファリゾーン、プールゾーン、ホテルなどが備わり、バリ島でも圧倒的な人気を誇る観光スポットのひとつです。おすすめの遊び方は、「サファリ・ジャーニー」ツアーへの参加。インドネシア、アフリカ、インドとエリアごとに分かれたパーク内で、約60種600匹もの多種多様な動物に出合えるサファリツアーです。スマトラゾウやインドネシアの希少種コモドドラゴンにも出くわすことができますよ。",
+        "image": {
+          "height": 2832,
+          "sourceUrl": "https://a.mktgcdn.com/p/fZ2Ifv-QTg1ALzK0wuxxuMuxjZGGIQKotjUIbIIsIsc/4256x2832.jpg",
+          "thumbnails": [
+            {
+              "height": 2832,
+              "url": "https://a.mktgcdn.com/p-sandbox/fZ2Ifv-QTg1ALzK0wuxxuMuxjZGGIQKotjUIbIIsIsc/4256x2832.jpg",
+              "width": 4256
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/fZ2Ifv-QTg1ALzK0wuxxuMuxjZGGIQKotjUIbIIsIsc/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/fZ2Ifv-QTg1ALzK0wuxxuMuxjZGGIQKotjUIbIIsIsc/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/fZ2Ifv-QTg1ALzK0wuxxuMuxjZGGIQKotjUIbIIsIsc/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/fZ2Ifv-QTg1ALzK0wuxxuMuxjZGGIQKotjUIbIIsIsc/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fZ2Ifv-QTg1ALzK0wuxxuMuxjZGGIQKotjUIbIIsIsc/4256x2832.jpg",
+          "width": 4256
+        },
+        "imageCaption": "野生ではほとんど見ることができないホワイトタイガーも飼育",
+        "sectionTitle": "バリ・サファリ\u0026マリン・パーク（Bali Safari \u0026 Marine Park）"
+      },
+      {
+        "description": "DATABali Safari \u0026 Marine Park住所：Jl.By Pass Ida,Bagus Mantra, Km19,8 Gianyar営業時間：9〜17時(アクティビティにより異なる）定休日：なし料金：大人Rp.65万～",
+        "image": {
+          "height": 2832,
+          "sourceUrl": "https://a.mktgcdn.com/p/AUKdCFEMkv3Ahc7qhu8F8Dh7hlwluR6COSw21fBTx0w/4256x2832.jpg",
+          "thumbnails": [
+            {
+              "height": 2832,
+              "url": "https://a.mktgcdn.com/p-sandbox/AUKdCFEMkv3Ahc7qhu8F8Dh7hlwluR6COSw21fBTx0w/4256x2832.jpg",
+              "width": 4256
+            },
+            {
+              "height": 1264,
+              "url": "https://a.mktgcdn.com/p-sandbox/AUKdCFEMkv3Ahc7qhu8F8Dh7hlwluR6COSw21fBTx0w/1900x1264.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/AUKdCFEMkv3Ahc7qhu8F8Dh7hlwluR6COSw21fBTx0w/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/AUKdCFEMkv3Ahc7qhu8F8Dh7hlwluR6COSw21fBTx0w/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/AUKdCFEMkv3Ahc7qhu8F8Dh7hlwluR6COSw21fBTx0w/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AUKdCFEMkv3Ahc7qhu8F8Dh7hlwluR6COSw21fBTx0w/4256x2832.jpg",
+          "width": 4256
+        },
+        "imageCaption": "専用バスに乗って動物たちが自由に暮らすサファリゾーンへ。ツアーは約30分間",
+        "sectionTitle": "バリ・バード・パーク（Bali Bird Park）"
+      },
+      {
+        "description": "こちらもギャニアール地方の、南国の鮮やかな色彩の鳥たちに出合えるテーマパーク。約2haの敷地には約250種、 1300羽以上の鳥たちが生息しているんです。園内は熱帯雨林が再現され、コンゴウインコやオオワシ、バリ島に固有で棲息しているといわれているジャラック・バリなど世界各国の珍しい鳥たちがほぼ放し飼いにされています。また、バードショーなど数多くのイベントも一日数回行われており、これらのイベント料金 は入園料に含まれています。さらに、インドネシアの特産であるコモドドラゴンも飼育されているので爬虫類好きは必見です。",
+        "image": {
+          "height": 2681,
+          "sourceUrl": "https://a.mktgcdn.com/p/sEx0sDQNCuZc8D0eh1iBqieRpCcMCxfdbvy3beipuQs/4016x2681.jpg",
+          "thumbnails": [
+            {
+              "height": 2681,
+              "url": "https://a.mktgcdn.com/p-sandbox/sEx0sDQNCuZc8D0eh1iBqieRpCcMCxfdbvy3beipuQs/4016x2681.jpg",
+              "width": 4016
+            },
+            {
+              "height": 1268,
+              "url": "https://a.mktgcdn.com/p-sandbox/sEx0sDQNCuZc8D0eh1iBqieRpCcMCxfdbvy3beipuQs/1900x1268.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/sEx0sDQNCuZc8D0eh1iBqieRpCcMCxfdbvy3beipuQs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/sEx0sDQNCuZc8D0eh1iBqieRpCcMCxfdbvy3beipuQs/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/sEx0sDQNCuZc8D0eh1iBqieRpCcMCxfdbvy3beipuQs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sEx0sDQNCuZc8D0eh1iBqieRpCcMCxfdbvy3beipuQs/4016x2681.jpg",
+          "width": 4016
+        },
+        "imageCaption": "子供がいる家族連れの利用にもおすすめ",
+        "sectionTitle": "クムヌ・バタフライ・パーク（Kemenuh Butterfly Park）"
+      },
+      {
+        "description": "DATA Bali Bird Park住所：Jl. Serma Cok Ngurah Gambir, Singapadu,Batubulan営業時間：9時~17時30分 定休日：なし 料金：大人Rp.38万5000～",
+        "image": {
+          "height": 4016,
+          "sourceUrl": "https://a.mktgcdn.com/p/oFvtifIp7-Ca2JZ_115pUaO6SoxnQHYrhnQBkl4l_R0/6016x4016.jpg",
+          "thumbnails": [
+            {
+              "height": 4016,
+              "url": "https://a.mktgcdn.com/p-sandbox/oFvtifIp7-Ca2JZ_115pUaO6SoxnQHYrhnQBkl4l_R0/6016x4016.jpg",
+              "width": 6016
+            },
+            {
+              "height": 1268,
+              "url": "https://a.mktgcdn.com/p-sandbox/oFvtifIp7-Ca2JZ_115pUaO6SoxnQHYrhnQBkl4l_R0/1900x1268.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/oFvtifIp7-Ca2JZ_115pUaO6SoxnQHYrhnQBkl4l_R0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/oFvtifIp7-Ca2JZ_115pUaO6SoxnQHYrhnQBkl4l_R0/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/oFvtifIp7-Ca2JZ_115pUaO6SoxnQHYrhnQBkl4l_R0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oFvtifIp7-Ca2JZ_115pUaO6SoxnQHYrhnQBkl4l_R0/6016x4016.jpg",
+          "width": 6016
+        },
+        "imageCaption": "カフェレストランではアジアン料理からウエスタン料理まで楽しめる"
+      },
+      {
+        "description": "トゥグヌンガンの滝近くにある蝶のテーマパーク。園内はネットに覆われていて、20種類以上の珍しい蝶が訪れる人たちの頭上を飛び回る、なんとも不思議で美しいテーマパークです。コクーンルームでは、ウブドのアユン川渓谷周辺にしか生息しないといわれている怪蝶、クプクプバロンを飼育していて、実際に手に乗せて触ることもできます。草花や木々が生い茂る園内を抜けると、インドネシア料理のレストランや蝶々グッズが手に入るお土産ショップもありますよ。小さなお子さんがいる家族連れにもおすすめです。",
+        "image": {
+          "height": 4000,
+          "sourceUrl": "https://a.mktgcdn.com/p/LyBNBjmQKtms1zZI4G8S3x3XysTnwVtuSndimUpfoAI/6000x4000.jpg",
+          "thumbnails": [
+            {
+              "height": 4000,
+              "url": "https://a.mktgcdn.com/p-sandbox/LyBNBjmQKtms1zZI4G8S3x3XysTnwVtuSndimUpfoAI/6000x4000.jpg",
+              "width": 6000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/LyBNBjmQKtms1zZI4G8S3x3XysTnwVtuSndimUpfoAI/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/LyBNBjmQKtms1zZI4G8S3x3XysTnwVtuSndimUpfoAI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/LyBNBjmQKtms1zZI4G8S3x3XysTnwVtuSndimUpfoAI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/LyBNBjmQKtms1zZI4G8S3x3XysTnwVtuSndimUpfoAI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/LyBNBjmQKtms1zZI4G8S3x3XysTnwVtuSndimUpfoAI/6000x4000.jpg",
+          "width": 6000
+        },
+        "imageCaption": "巨大なオブジェが置かれた園内。まるでおとぎの国に迷い込んだ気分に"
+      },
+      {
+        "description": "DATAKemenuh Butterfly Park住所：Jl. Ir. Sutami, Kemenuh, Sukawati 営業時間：9時～17時30分定休日：なし料金：大人Rp.10万～",
+        "image": {
+          "height": 2575,
+          "sourceUrl": "https://a.mktgcdn.com/p/NPmMJmp4-0V55nOKpRGj7BcRlmuBfEBhNYhdBU2qpHc/3863x2575.jpg",
+          "thumbnails": [
+            {
+              "height": 2575,
+              "url": "https://a.mktgcdn.com/p-sandbox/NPmMJmp4-0V55nOKpRGj7BcRlmuBfEBhNYhdBU2qpHc/3863x2575.jpg",
+              "width": 3863
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/NPmMJmp4-0V55nOKpRGj7BcRlmuBfEBhNYhdBU2qpHc/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/NPmMJmp4-0V55nOKpRGj7BcRlmuBfEBhNYhdBU2qpHc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/NPmMJmp4-0V55nOKpRGj7BcRlmuBfEBhNYhdBU2qpHc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/NPmMJmp4-0V55nOKpRGj7BcRlmuBfEBhNYhdBU2qpHc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NPmMJmp4-0V55nOKpRGj7BcRlmuBfEBhNYhdBU2qpHc/3863x2575.jpg",
+          "width": 3863
+        },
+        "imageCaption": "目の前を舞う蝶たちに癒やされよう"
+      },
+      {
+        "imageCaption": "※2023年12月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2024-02-13",
+    "c_ap_HeroImage": {
+      "height": 2832,
+      "sourceUrl": "https://a.mktgcdn.com/p/hv-i-pRfdu4VVZwLzKB9_xeOsG6Dqsd-66i1ii7djgM/4256x2832.jpg",
+      "thumbnails": [
+        {
+          "height": 2832,
+          "url": "https://a.mktgcdn.com/p-sandbox/hv-i-pRfdu4VVZwLzKB9_xeOsG6Dqsd-66i1ii7djgM/4256x2832.jpg",
+          "width": 4256
+        },
+        {
+          "height": 1264,
+          "url": "https://a.mktgcdn.com/p-sandbox/hv-i-pRfdu4VVZwLzKB9_xeOsG6Dqsd-66i1ii7djgM/1900x1264.jpg",
+          "width": 1900
+        },
+        {
+          "height": 412,
+          "url": "https://a.mktgcdn.com/p-sandbox/hv-i-pRfdu4VVZwLzKB9_xeOsG6Dqsd-66i1ii7djgM/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "https://a.mktgcdn.com/p-sandbox/hv-i-pRfdu4VVZwLzKB9_xeOsG6Dqsd-66i1ii7djgM/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "https://a.mktgcdn.com/p-sandbox/hv-i-pRfdu4VVZwLzKB9_xeOsG6Dqsd-66i1ii7djgM/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/hv-i-pRfdu4VVZwLzKB9_xeOsG6Dqsd-66i1ii7djgM/4256x2832.jpg",
+      "width": 4256
+    },
+    "c_ap_HeroImageCaption": "スマトラ象のショーも開催",
+    "c_ap_LinkArticleSectionTitle": "バリ島のその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "バリ島旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/bali/"
+      },
+      {
+        "linkText": "デンパサールのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dDPS"
+      },
+      {
+        "linkText": "バリ島のホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/81/1054/?freeword\u003d%E3%83%87%E3%83%B3%E3%83%91%E3%82%B5%E3%83%BC%E3%83%AB%20%20%E3%83%90%E3%83%AA%E5%B3%B6%20%20%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d1054"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea4": [
+      "インドネシア・バリ島"
+    ],
+    "c_ap_ShortDescription": "自然豊かなバリ島のウブド周辺エリアには、広大な敷地で飼育されているアニマルパークが点在しています。コモド島に生息するコモドドラゴンや、スマトラ島のスマトラ象など、インドネシアならではのユニークな動物たちに出合えます。アニマル好きにはたまらない、おすすめのパークをご紹介します！（写真：バリ・サファリ\u0026マリン・パーク）",
+    "c_ap_Tags": [
+      "バリ島動物園",
+      "爬虫類",
+      "蝶々",
+      "スマトラゾウ",
+      "ファミリー"
+    ],
+    "c_ap_Theme": [
+      "一人旅",
+      "記念旅行",
+      "自然・山",
+      "動植物園・公園",
+      "テーマパーク"
+    ],
+    "c_ap_Title": "インドネシアならではの生き物たちに出合える！\nバリ島アニマルパーク【バリ島　ウブド】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "自然豊かなバリ島のウブド周辺エリアには、広大な敷地で飼育されているアニマルパークが点在しています。コモド島に生息するコモドドラゴンや、スマトラ島のスマトラ象など、インドネシアならではのユニークな動物たちに出合えます。アニマル好きにはたまらない、おすすめのパークをご紹介します！（写真：バリ・サファリ\u0026マリン・パーク）",
+    "c_metaTitle": "インドネシアならではの生き物たちに出合える！\nバリ島アニマルパーク【バリ島　ウブド】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000156",
+    "name": "インドネシアならではの生き物たちに出合える！ バリ島アニマルパーク【バリ島　ウブド】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

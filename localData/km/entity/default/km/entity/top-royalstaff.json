@@ -1,0 +1,142 @@
+{
+  "$id": "top-royalstaff",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Hero-imageCaption {\ntext-shadow: 0 0 10px #010101;\n}\n\n/* バックグラウンドカラーを濃いめに */\n.Consultants-wrapper {\n    background-color: #f5f6f7;\n}\n.Locator-wrapper {\n    background-color: #f5f6f7;\n}\n.Teaser--article.Teaser--articleTop {\n    background-color: #f5f6f7;\n}\n.InfoItem {\n    background-color: #f5f6f7;\n}\n\n/* サブタイトルのラップ */\n.Consultants-subtitle {\nwhite-space: pre-wrap;\n}\n.Locator-subtitle {\nwhite-space: pre-wrap;\n}\n.Info-subtitle {\nwhite-space: pre-wrap;\n}\n\n\n/* Information セクションの画像をオリジナルのままの比率で表示 */\n.InfoItem-image {\n    height: unset;\n}\n\n/* アコーディオンタイトルのセンタリング */\n.FAQ-questionText {\n margin: auto;\nfont-size: 1.1rem;\n}\n\n/* FAQ のリンクの色 */\n.Consultants .FAQ--ace .FAQ-answerText a {\ncolor: #3498db;\n\n}\n\n/* スムーススクロール */\nhtml { \nscroll-behavior: smooth;\n}\n\n/* locator を hidden */\n#locator {\ndisplay: none;\n}\n\n/* \n  下線部カラー：水色\n  下線部の太さ：細目\n*/\n.OnlineConsultation-subtitle,\n.Consultants-subtitle,\n.Articles-subtitle,\n.Info-subtitle \n{\n    text-decoration-color: skyblue;\n    text-decoration-thickness: 0.15rem;\n}",
+    "c_activeOnTops": true,
+    "c_cSSMobile": "/* 現在地が折り返さないように */\na.Locator-button.Locator-geolocate {\n  width: 6rem;\n}\n\n\n/* locator を hidden */\n#locator {\ndisplay: none;\n}",
+    "c_metaDescription": "JTBスタッフが自らの体験にもとづくおすすめの旅やおでかけ先をご紹介。全国の旅のプロたちが日々記事を投稿します。ご旅行の参考にぜひ！ 投稿者のトラベルコンサルタントにオンラインでの旅行相談をすることもできます。",
+    "c_metaTitle": "JTB | ロイヤルスタッフ | ジェイティービー |",
+    "c_pagesURL": "https://consultants.jtb.co.jp/top-royalstaff",
+    "c_topBreadcrumb": {
+      "label": "ロイヤルスタッフ",
+      "link": "top-royalstaff",
+      "linkType": "OTHER"
+    },
+    "c_topTemplate": "STANDARD",
+    "c_top_AnchorLinks": [
+      {
+        "link": "#consultants",
+        "linkType": "OTHER"
+      },
+      {
+        "link": "#locator",
+        "linkType": "OTHER"
+      },
+      {
+        "link": "#info",
+        "linkType": "OTHER"
+      },
+      {
+        "link": "#info",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_top_ArticlesSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e",
+    "c_top_BannerBackgroundColor": "#FFF450",
+    "c_top_Consultants": [
+      "cp_loyalstaff_34873947",
+      "cp_loyalstaff_21672196",
+      "cp_loyalstaff_12980407",
+      "cp_loyalstaff_12111572",
+      "cp_loyalstaff_22675892",
+      "cp_14123072",
+      "cp_14151539",
+      "cp_loyalstaff_19407638",
+      "cp_loyalstaff_14083006",
+      "cp_loyalstaff_28404161",
+      "cp_loyalstaff_14020492",
+      "cp_loyalstaff_14985052",
+      "cp_loyalstaff_14141635",
+      "cp_loyalstaff_20071023",
+      "cp_loyalstaff_26328933",
+      "cp_loyalstaff_15085035",
+      "cp_loyalstaff_21131028",
+      "cp_loyalstaff_18047960",
+      "cp_loyalstaff_21179007",
+      "cp_loyalstaff_17066017",
+      "cp_loyalstaff_18008199",
+      "cp_loyalstaff_18134101",
+      "cp_loyalstaff_26496105",
+      "cp_m_omatsu513"
+    ],
+    "c_top_ConsultantsSectionHTML": "\u003cscript\u003e\nwindow.addEventListener(\u0027load\u0027, function() {\n  atags \u003d document.querySelectorAll(\u0027.FAQ-answerText a[href^\u003d\"https:\"]\u0027);\n  atags.forEach(function(atag){atag.setAttribute(\u0027target\u0027, \u0027_blank\u0027);});\n});\n\u003c/script\u003e",
+    "c_top_ConsultantsSectionSubTitle": "全国の中から選び抜かれたロイヤルスタッフは、まさに究極の旅の水先案内人。ファーストクラスのおもてなしで皆様のかけがえのないひと時のお手伝いをいたします。ロイヤルスタッフと共に至高の旅支度を始めませんか？",
+    "c_top_ConsultantsSectionTitle": "ロイヤルスタッフのご紹介",
+    "c_top_HeroImage": {
+      "height": 1200,
+      "sourceUrl": "http://a.mktgcdn.com/p/Nss0i7sdSwOmEN1RwNQ5Jn9S9G9WkMYWdJJOZ-JntYw/1797x1200.jpg",
+      "thumbnails": [
+        {
+          "height": 1200,
+          "url": "//a.mktgcdn.com/p-sandbox/Nss0i7sdSwOmEN1RwNQ5Jn9S9G9WkMYWdJJOZ-JntYw/1797x1200.jpg",
+          "width": 1797
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/Nss0i7sdSwOmEN1RwNQ5Jn9S9G9WkMYWdJJOZ-JntYw/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 401,
+          "url": "//a.mktgcdn.com/p-sandbox/Nss0i7sdSwOmEN1RwNQ5Jn9S9G9WkMYWdJJOZ-JntYw/600x401.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/Nss0i7sdSwOmEN1RwNQ5Jn9S9G9WkMYWdJJOZ-JntYw/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/Nss0i7sdSwOmEN1RwNQ5Jn9S9G9WkMYWdJJOZ-JntYw/1797x1200.jpg",
+      "width": 1797
+    },
+    "c_top_HeroImageCaption": "ロイヤルスタッフがお客様の最適な旅を\nご提案いたします",
+    "c_top_Info2SectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_InfoSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_LocatorSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e",
+    "c_top_OnlineConsultationButton1": {
+      "label": "ロイヤルスタッフについて"
+    },
+    "c_top_OnlineConsultationButton2": {
+      "label": "ロイヤルスタッフがいるお店",
+      "link": "https://consultants.jtb.co.jp/royalstaff",
+      "linkType": "URL"
+    },
+    "c_top_OnlineConsultationButton2Image": {
+      "alternateText": "TOP ロイヤルスタッフ",
+      "height": 1200,
+      "sourceUrl": "https://a.mktgcdn.com/p/ZhJakyiq37ZQmEg4EnFsTZ4vCh_hY3MzFeb1cVCPbOs/1240x1200.png",
+      "thumbnails": [
+        {
+          "height": 1200,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZhJakyiq37ZQmEg4EnFsTZ4vCh_hY3MzFeb1cVCPbOs/1240x1200.png",
+          "width": 1240
+        },
+        {
+          "height": 599,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZhJakyiq37ZQmEg4EnFsTZ4vCh_hY3MzFeb1cVCPbOs/619x599.png",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZhJakyiq37ZQmEg4EnFsTZ4vCh_hY3MzFeb1cVCPbOs/465x450.png",
+          "width": 465
+        },
+        {
+          "height": 190,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZhJakyiq37ZQmEg4EnFsTZ4vCh_hY3MzFeb1cVCPbOs/196x190.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ZhJakyiq37ZQmEg4EnFsTZ4vCh_hY3MzFeb1cVCPbOs/1240x1200.png",
+      "width": 1240
+    },
+    "c_top_OnlineConsultationSectionSubTitle": "ホスピタリティー、幅広い業務知識 、特定分野における深い専門性を兼ね備え、社内の厳しい審査を経て認定されるJTB最高峰の資格です。お客様の人生が彩り豊かなものとなりますようロイヤルスタッフがプロデュースいたします。",
+    "c_top_OnlineConsultationSectionTitle": "JTB「ロイヤルスタッフ」とは",
+    "name": "TOP ロイヤルスタッフ"
+  },
+  "entityType": "ce_tOP",
+  "labels": []
+}

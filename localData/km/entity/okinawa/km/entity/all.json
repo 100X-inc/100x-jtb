@@ -1,0 +1,111 @@
+{
+  "$id": "okinawa_all",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "okinawa"
+    ],
+    "c_linkedArea3News": [
+      "news_web_kokunai_0007",
+      "news_web_kokunai_0004",
+      "news_web_kokunai_0012",
+      "news_web_kokunai_0015",
+      "news_web_kokunai_0002",
+      "news_web_kokunai_0016",
+      "news_web_kokunai_0006",
+      "news_web_kokunai_0005",
+      "news_web_kokunai_0017",
+      "news_web_kokunai_0001",
+      "news_web_kokunai_0014",
+      "news_web_kokunai_0022",
+      "news_ap_chiki_100206",
+      "news_ap_chiki_100227",
+      "news_web_kokunai_0009",
+      "news_web_kokunai_0011",
+      "news_ap_chiki_100239",
+      "news_web_kokunai_0019",
+      "news_ap_chiki_100251",
+      "news_ap_chiki_100250",
+      "news_ap_chiki_100049",
+      "news_web_kokunai_0018",
+      "news_ap_y_kitano151_008",
+      "news_ap_chiki_100209",
+      "news_ap_e_shinden034_004",
+      "news_ap_chiki_100139",
+      "news_ap_h_nakamura327_003",
+      "news_ap_chiki_100146",
+      "news_ap_chiki_100087",
+      "news_ap_chiki_100218",
+      "news_ap_chiki_100140",
+      "news_ap_chiki_100229",
+      "news_ap_a_muto106_007",
+      "news_ap_chiki_100138",
+      "news_ap_chiki_100149",
+      "news_ap_area_000004",
+      "news_ap_chiki_100081",
+      "news_ap_y_ishihara225_014",
+      "news_ap_chiki_100075",
+      "news_ap_chiki_100141",
+      "news_ap_chiki_100048",
+      "news_ap_area_000005",
+      "news_ap_chiki_100085",
+      "news_ap_chiki_100105",
+      "news_ap_chiki_100073",
+      "news_ap_chiki_100077",
+      "news_ap_chiki_100079",
+      "news_ap_chiki_100084",
+      "news_ap_chiki_100083",
+      "news_ap_chiki_100093",
+      "news_ap_chiki_100080",
+      "news_ap_chiki_100074",
+      "news_ap_chiki_100070",
+      "news_ap_chiki_100078",
+      "news_ap_chiki_100076",
+      "news_ap_chiki_100072",
+      "news_ap_chiki_100082",
+      "news_ap_area_000006"
+    ],
+    "c_metaDescription": "沖縄に関する記事をピックアップ！JTBニュースでは、沖縄で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 沖縄 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "沖縄",
+      "height": 1050,
+      "sourceUrl": "https://a.mktgcdn.com/p/qyxjxOEGJ895S5JjQ6U-hjYcg8VQm0LxJ-muAjP6U_Q/1920x1050.jpg",
+      "thumbnails": [
+        {
+          "height": 1050,
+          "url": "https://a.mktgcdn.com/p-sandbox/qyxjxOEGJ895S5JjQ6U-hjYcg8VQm0LxJ-muAjP6U_Q/1920x1050.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1039,
+          "url": "https://a.mktgcdn.com/p-sandbox/qyxjxOEGJ895S5JjQ6U-hjYcg8VQm0LxJ-muAjP6U_Q/1900x1039.jpg",
+          "width": 1900
+        },
+        {
+          "height": 339,
+          "url": "https://a.mktgcdn.com/p-sandbox/qyxjxOEGJ895S5JjQ6U-hjYcg8VQm0LxJ-muAjP6U_Q/619x339.jpg",
+          "width": 619
+        },
+        {
+          "height": 328,
+          "url": "https://a.mktgcdn.com/p-sandbox/qyxjxOEGJ895S5JjQ6U-hjYcg8VQm0LxJ-muAjP6U_Q/600x328.jpg",
+          "width": 600
+        },
+        {
+          "height": 107,
+          "url": "https://a.mktgcdn.com/p-sandbox/qyxjxOEGJ895S5JjQ6U-hjYcg8VQm0LxJ-muAjP6U_Q/196x107.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/qyxjxOEGJ895S5JjQ6U-hjYcg8VQm0LxJ-muAjP6U_Q/1920x1050.jpg",
+      "width": 1920
+    },
+    "name": "沖縄",
+    "slug": "kokunai/okinawa/okinawa_all"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "ニュース記事",
+  "labels": []
+}

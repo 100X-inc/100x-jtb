@@ -1,0 +1,69 @@
+{
+  "$id": "cp_21071326",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "大阪府",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBVxc",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "子育て真っ最中です。\nお子様とのご旅行や、ご夫婦のゆったり旅行など、ご旅行のお手伝いをさせていただきます。",
+    "c_cp_DisplayName": "田中",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "夫婦旅"
+    ],
+    "c_cp_HiraganaName": "たなか",
+    "c_cp_JobTitle": "JTB鳳アリオ店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 948,
+      "sourceUrl": "https://a.mktgcdn.com/p/-Wb8FoUFEs6o-v3N2aI0IB9ce5idhstYYWCp3XOp4bg/852x948.jpg",
+      "thumbnails": [
+        {
+          "height": 948,
+          "url": "https://a.mktgcdn.com/p-sandbox/-Wb8FoUFEs6o-v3N2aI0IB9ce5idhstYYWCp3XOp4bg/852x948.jpg",
+          "width": 852
+        },
+        {
+          "height": 689,
+          "url": "https://a.mktgcdn.com/p-sandbox/-Wb8FoUFEs6o-v3N2aI0IB9ce5idhstYYWCp3XOp4bg/619x689.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/-Wb8FoUFEs6o-v3N2aI0IB9ce5idhstYYWCp3XOp4bg/404x450.jpg",
+          "width": 404
+        },
+        {
+          "height": 218,
+          "url": "https://a.mktgcdn.com/p-sandbox/-Wb8FoUFEs6o-v3N2aI0IB9ce5idhstYYWCp3XOp4bg/196x218.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/-Wb8FoUFEs6o-v3N2aI0IB9ce5idhstYYWCp3XOp4bg/852x948.jpg",
+      "width": 852
+    },
+    "c_cp_StrongLocalArea4": [
+      "近畿全般"
+    ],
+    "c_cp_Tags": [
+      "ハワイスペシャリスト"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 田中",
+    "c_metaTitle": "JTBトラベルコンサルタント | 田中",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21071326",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10332_鳳アリオ店",
+    "name": "たなか あき_21071326",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

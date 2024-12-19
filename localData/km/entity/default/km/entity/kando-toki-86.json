@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-86",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/86_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d41.759188%2C140.704046",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "冬",
+      "建物・景観"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "函館山の夜景といえば一年を通して有名ですが、冬の魅力はまた格別。宝石箱のような煌めきを散りばめた、まばゆい函館の夜景を雪が照り返し、他の季節では見ることのできない幻想的な風景を生み出します。ビルや住宅、道路に連なる車のライトなど、街を彩る数えきれないほどの多彩な光が、雪の照り返しによって淡い輝きを帯び、それが幾重にも重なることで、幻想的な光の乱舞が生み出されます。人工の光と自然の産物が織りなす絶景は、冬の期間、それも雪が積もっている時期にしか見らません。海抜334mの山頂までは、ロープウェイでおよそ3分。身が引き締まるような空気の中、冴えた冬の夜空のもとに、冬の北海道を彩るのにふさわしい、豪華な光の海が広がります。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/86.asp",
+    "name": "函館山　冬夜景"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

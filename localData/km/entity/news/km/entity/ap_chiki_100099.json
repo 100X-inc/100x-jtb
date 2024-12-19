@@ -1,0 +1,290 @@
+{
+  "$id": "news_ap_chiki_100099",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 長野県担当 石塚"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "自然に囲まれた美しい外観",
+      "height": 800,
+      "sourceUrl": "http://a.mktgcdn.com/p/uTMQscVaAPbJ0wwgO3GJ8W397GF0vhochETR4RzD5qM/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "//a.mktgcdn.com/p-sandbox/uTMQscVaAPbJ0wwgO3GJ8W397GF0vhochETR4RzD5qM/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/uTMQscVaAPbJ0wwgO3GJ8W397GF0vhochETR4RzD5qM/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/uTMQscVaAPbJ0wwgO3GJ8W397GF0vhochETR4RzD5qM/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/uTMQscVaAPbJ0wwgO3GJ8W397GF0vhochETR4RzD5qM/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/uTMQscVaAPbJ0wwgO3GJ8W397GF0vhochETR4RzD5qM/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "自然に囲まれた美しい外観",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "軽井沢ホテル　ロンギングハウスのWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/3248100/plan/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "軽井沢と言えば夏！のイメージがあるかと思いますが、気候がぐっと涼しくなり紅葉が美しい秋のシーズンもおすすめです。\n今日はその軽井沢より、「軽井沢ホテル　ロンギングハウス」をご紹介します。\n敷地が広く、アンティーク調でどこを切り取っても絵になるこちらのホテルは、旧軽井沢やショッピングモールまで自転車で約10分、軽井沢駅より車で約５分と、観光に便利な立地です。",
+    "c_ap_Tags": [
+      "朝食",
+      "軽井沢",
+      "リゾート",
+      "貸切露天風呂",
+      "美と健康",
+      "JTBの一押しホテル"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "自然・山",
+      "グルメ",
+      "ショッピング",
+      "温泉・立ち寄り湯",
+      "リゾート",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "アンティーク調でおしゃれ！新鮮野菜が魅力のホテル【長野県　軽井沢ホテル ロンギングハウス】",
+    "c_linkedArea3News": [
+      "nagano"
+    ],
+    "c_metaDescription": "軽井沢と言えば夏！のイメージがあるかと思いますが、気候がぐっと涼しくなり紅葉が美しい秋のシーズンもおすすめです。…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "アンティーク調でおしゃれ！新鮮野菜が魅力のホテル【長野県　軽井沢ホテル ロンギングハウス】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "軽井沢ホテル ロンギングハウスを予約する",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/htl/3248100/plan/",
+        "linkType": "URL"
+      },
+      {
+        "label": "リモートでの旅行相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#consultants",
+        "linkType": "URL"
+      },
+      {
+        "label": "JTB店舗・専門店への相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#locator",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "お部屋のある棟は「本館」と「新館」の２つに分かれており、フロントが同じ棟にある「本館」が、レストランも近く館内の移動に便利です。お部屋は琉球畳をイメージした小上がりのある「和洋室タイプ」や、バス・トイレ別(＝ユニットバスではない)の「28㎡洋室タイプ」など種類も豊富。「新館」には趣向を凝らした様々なお部屋も！女性におすすめの「岩盤浴付洋室」や、テラスに面した大きなお風呂のある「大浴室付洋室」、連泊にぴったりな「キッチン付洋室」など、どのお部屋にするか迷ってしまうほど…！ぜひ旅の目的に合わせて最適なお部屋を選んでくださいね。建物は２階建ですが、２階のお部屋にあがるのには階段を利用するので、１階がご希望の場合はご予約時にホテルに確認いただくのがおすすめです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/8-_AHXFskqNtSIuKtAHvktP08N3QmXTvQ5PBelCPPgI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/8-_AHXFskqNtSIuKtAHvktP08N3QmXTvQ5PBelCPPgI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/8-_AHXFskqNtSIuKtAHvktP08N3QmXTvQ5PBelCPPgI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/8-_AHXFskqNtSIuKtAHvktP08N3QmXTvQ5PBelCPPgI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/8-_AHXFskqNtSIuKtAHvktP08N3QmXTvQ5PBelCPPgI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/8-_AHXFskqNtSIuKtAHvktP08N3QmXTvQ5PBelCPPgI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "窓に面したカウンターが嬉しい新館和洋モダン客室(一例)　",
+        "sectionTitle": "おしゃれなだけじゃない！ニーズに合わせたお部屋のチョイスOK！"
+      },
+      {
+        "description": "レストランは敷地内、新館からは少し外を歩いた場所にあり、こちらのホテルのイチオシは美味しい新鮮なお野菜をふんだんに使ったコース料理です。北は北海道から南は九州・沖縄まで、野菜ソムリエ・プロのスタッフが自ら現地を訪問し、目で見て、土に触れ、舌で直接確かめたこだわりのお野菜を使用しています。新鮮な野菜を使用したお料理は彩りも美しく、自然の甘みを感じられ、これまでに味わったことのない野菜の美味しさに出会えます。また食事を通して「美」と「健康」を届けたい！という思いから、料理に使用する油やお砂糖にまでこだわっているそうです。メインには地元でとれた信州サーモンや信州黄金シャモ、信州蓼科牛などもご用意。地元ならではの美味しさを味わえます。あるいはヴィーガン・ベジタリアンの方にご利用いただけるメニューもあるので、ご希望方はリクエストしてみてくださいね。こちらのレストラン、とても人気があるので、事前のご予約をおすすめします。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/BnQIbW6SYKsc8SJ7DQ5LWGiETyR7-si4uXVKODxWxqc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/BnQIbW6SYKsc8SJ7DQ5LWGiETyR7-si4uXVKODxWxqc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/BnQIbW6SYKsc8SJ7DQ5LWGiETyR7-si4uXVKODxWxqc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/BnQIbW6SYKsc8SJ7DQ5LWGiETyR7-si4uXVKODxWxqc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/BnQIbW6SYKsc8SJ7DQ5LWGiETyR7-si4uXVKODxWxqc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/BnQIbW6SYKsc8SJ7DQ5LWGiETyR7-si4uXVKODxWxqc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "野菜ソムリエ厳選のお野菜が豊富に使われたディナー(イメージ)",
+        "sectionTitle": "野菜がおいしいレストランでのディナーがおすすめ！"
+      },
+      {
+        "description": "レストランではディナーだけではなく、朝食でもおいしいお野菜を堪能しましょう。形式はハーフバイキングで、サラダ・スープ・デザート・ドリンクはバイキング形式、焼き立てパンとメインディッシュは席まで持ってきていただけます。メインディッシュはもちろんお野菜を使った数種類のメニューから選ぶことができます。お天気が良ければ、ぜひテラス席へ！軽井沢の心地よい風を感じながら朝食を楽しめます。普段とはちょっと違う、優雅な朝食をぜひ楽しんでみてください。",
+        "image": {
+          "height": 489,
+          "sourceUrl": "http://a.mktgcdn.com/p/QZXo0B4znSZ1cw6MB_hrbRJwohYRLN5p9VOItObH1vQ/1305x489.png",
+          "thumbnails": [
+            {
+              "height": 489,
+              "url": "//a.mktgcdn.com/p-sandbox/QZXo0B4znSZ1cw6MB_hrbRJwohYRLN5p9VOItObH1vQ/1305x489.png",
+              "width": 1305
+            },
+            {
+              "height": 232,
+              "url": "//a.mktgcdn.com/p-sandbox/QZXo0B4znSZ1cw6MB_hrbRJwohYRLN5p9VOItObH1vQ/619x232.png",
+              "width": 619
+            },
+            {
+              "height": 225,
+              "url": "//a.mktgcdn.com/p-sandbox/QZXo0B4znSZ1cw6MB_hrbRJwohYRLN5p9VOItObH1vQ/600x225.png",
+              "width": 600
+            },
+            {
+              "height": 73,
+              "url": "//a.mktgcdn.com/p-sandbox/QZXo0B4znSZ1cw6MB_hrbRJwohYRLN5p9VOItObH1vQ/196x73.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/QZXo0B4znSZ1cw6MB_hrbRJwohYRLN5p9VOItObH1vQ/1305x489.png",
+          "width": 1305
+        },
+        "imageCaption": "〔写真左：風が心地よいテラス席／写真右：朝食のエッグベネディクト(イメージ)〕",
+        "sectionTitle": "天気のいい日はテラス席やサンルーム席で朝食を"
+      },
+      {
+        "description": "ホテルには珍しい、貸切露天風呂もお楽しみいただけます。１回のご利用時間は45分、本館と新館にそれぞれお風呂があります。夜は15時～23時、朝は8時～11時までご利用OK。プライベート感のある露天風呂で軽井沢の新鮮な空気とともに、ゆっくり過ごすことができます。利用時間はチェックイン時の予約となるため、到着時間に合わせて利用時間を選ぶことができるのも便利ですね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/MSgZqVI3kt6zJVMF3uG_xUGmzm_gS6j3KdI8pLhWXq4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/MSgZqVI3kt6zJVMF3uG_xUGmzm_gS6j3KdI8pLhWXq4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/MSgZqVI3kt6zJVMF3uG_xUGmzm_gS6j3KdI8pLhWXq4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/MSgZqVI3kt6zJVMF3uG_xUGmzm_gS6j3KdI8pLhWXq4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/MSgZqVI3kt6zJVMF3uG_xUGmzm_gS6j3KdI8pLhWXq4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/MSgZqVI3kt6zJVMF3uG_xUGmzm_gS6j3KdI8pLhWXq4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ご家族連れにも嬉しい貸切露天風呂",
+        "sectionTitle": "10か所の貸切露天風呂は2019年にオープン！"
+      },
+      {
+        "description": "本日は軽井沢ホテル ロンギングハウスをご紹介させていただきました。軽井沢の自然に囲まれ、美味しいお食事で旅の疲れを癒してくれる、そんな滞在をすることが出来ます。・オシャレな写真を撮りたい・美味しいお食事を楽しみたい・「美」と「健康」を食事から意識してみたいそんな方はぜひ足を運んでみてください。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/SYLwV9CqqP2spbJKR4hbUwZBhQYPOv6Tlcuc7uJ7ocQ/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/SYLwV9CqqP2spbJKR4hbUwZBhQYPOv6Tlcuc7uJ7ocQ/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/SYLwV9CqqP2spbJKR4hbUwZBhQYPOv6Tlcuc7uJ7ocQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/SYLwV9CqqP2spbJKR4hbUwZBhQYPOv6Tlcuc7uJ7ocQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/SYLwV9CqqP2spbJKR4hbUwZBhQYPOv6Tlcuc7uJ7ocQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/SYLwV9CqqP2spbJKR4hbUwZBhQYPOv6Tlcuc7uJ7ocQ/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "夜のライトアップも必見！レストランまでお散歩するだけで海外気分に…"
+      },
+      {
+        "description": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_area_0000021",
+      "news_ap_area_0000019",
+      "news_ap_area_0000020",
+      "news_ap_store_00002"
+    ],
+    "c_news_FeaturedArticlesTitle": "長野県のその他の記事",
+    "c_news_PublicationDate": "2022-11-07",
+    "c_news_UpdateDate": "2022-11-07",
+    "c_news_ViewCount": "31",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "31",
+    "c_news_ViewCountNum": "31",
+    "c_news_ViewCountNumForSorting": "1",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/koshinetsu/nagano/news_ap_chiki_100099",
+    "name": "アンティーク調でおしゃれ！新鮮野菜が魅力のホテル【長野県　軽井沢ホテル ロンギングハウス】",
+    "slug": "kokunai/koshinetsu/nagano/news_ap_chiki_100099",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

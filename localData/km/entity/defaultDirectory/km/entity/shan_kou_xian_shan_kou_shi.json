@@ -1,0 +1,23 @@
+{
+  "$id": "defaultDirectory_shan_kou_xian_shan_kou_shi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1044247469"
+    ],
+    "dm_directoryChildren": [
+      "8858-w"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory",
+      "defaultDirectory_shan_kou_xian"
+    ],
+    "name": "山口市",
+    "slug": "山口県/山口市"
+  },
+  "entityType": "ce_city",
+  "labels": []
+}

@@ -1,0 +1,233 @@
+{
+  "$id": "ap_m_takahashi509_002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "総部屋数90室というお部屋は、そのほとんどが和室です。スタンダードなお部屋も、調度品の色合いや障子のデザインなどにもこだわり、伝統を感じる日本間の造りに洗練されたモダンな設計が取り入れられ、落ち着きがあってゆったりと寛ぐことができます。7・8階は特別フロア「松風楼」。7階は、「江戸情緒の湯」、「野の湯」などの愛称が付けられた人気のお部屋で、9室のすべてが異なる庭園露天風呂付き。道後温泉100％のお湯を、檜風呂や岩風呂、打たせ湯のある露天風呂などで気兼ねなく楽しめます。春なら「シダレの湯」の予約を。露天風呂の温泉に浸かりながらシダレザクラの花見を楽しむという贅沢が最高。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/0KevnQLfH-CiGKmMCMD2T5UURq6jIu5YAuqL01xJxGg/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/0KevnQLfH-CiGKmMCMD2T5UURq6jIu5YAuqL01xJxGg/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/0KevnQLfH-CiGKmMCMD2T5UURq6jIu5YAuqL01xJxGg/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/0KevnQLfH-CiGKmMCMD2T5UURq6jIu5YAuqL01xJxGg/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/0KevnQLfH-CiGKmMCMD2T5UURq6jIu5YAuqL01xJxGg/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0KevnQLfH-CiGKmMCMD2T5UURq6jIu5YAuqL01xJxGg/800x600.jpg",
+          "width": 800
+        },
+        "imageCaption": "「滝の湯」の愛称をもつ露天風呂付き特別室",
+        "sectionTitle": "旅籠の良さと現代建築が調和したお部屋でまったり寛ぐ"
+      },
+      {
+        "description": "四季折々の季節のおいしいものを、郷土の味を大切にしながら調理した「他では食べられないもの」が味わえるのがこのお宿のお料理。温暖な気候と山海の自然に恵まれた松山・道後。料理人が厳選した瀬戸内の旬の魚介、伊予の食材に加え、器や盛り付けにもこだわって仕上げた郷土色豊かなお料理を本格会席料理でいただけます。愛媛のブランド鯛「愛鯛[あいたい]」の薄引きやしゃぶしゃぶ、ブランド牛の「伊予牛」、道後舘オリジナルの自家製じゃこ天など、美味づくしのお料理をゆっくり味わいながら、日常からかけ離れたひと時を満喫してください。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/topOJBO2QPIQoRHZuVOfVqZIHJ7JtRsmIAyiCAVosu4/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/u8SCOFWJ9OrMpvIgwIDiWqOpg82rwEsqIENbYoTGDxQ/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/u8SCOFWJ9OrMpvIgwIDiWqOpg82rwEsqIENbYoTGDxQ/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/u8SCOFWJ9OrMpvIgwIDiWqOpg82rwEsqIENbYoTGDxQ/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/u8SCOFWJ9OrMpvIgwIDiWqOpg82rwEsqIENbYoTGDxQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/u8SCOFWJ9OrMpvIgwIDiWqOpg82rwEsqIENbYoTGDxQ/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "瀬戸内の旬の魚介など厳選食材のお料理（イメージ）",
+        "sectionTitle": "瀬戸内と伊予、郷土の美味を匠の技で山海の幸を存分にいただく"
+      },
+      {
+        "description": "大浴場へは、足元を照らす灯りがしっとりとした情緒を醸し出す「湯けむりの道」を通って。男湯と女湯の2つの大浴場は、いずれも広々とした石造りです。湯船に溢れる掛け流しの温泉は、アルカリ性単純泉の道後温泉。無色透明の20～55度のいくつかの源泉をブレンドした温泉は42度程の適温に。分湯場から引かれたこのお宿のお湯も、肌に優しくなめらかなで湯治や美容に最適です。内湯にはあつ湯やぬる湯、打たせ湯、寝風呂、サウナと揃っていて、外には風情たっぷりの露天風呂も。ゆっくり温泉を楽しんだ湯あがりには「湯上がり茶屋」で冷たい薬草茶をどうぞ。----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/XS_x0unF7xCN_oLIOx6XCN650MHRpB2-gmxkGFrc08Q/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/XS_x0unF7xCN_oLIOx6XCN650MHRpB2-gmxkGFrc08Q/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/XS_x0unF7xCN_oLIOx6XCN650MHRpB2-gmxkGFrc08Q/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/XS_x0unF7xCN_oLIOx6XCN650MHRpB2-gmxkGFrc08Q/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/XS_x0unF7xCN_oLIOx6XCN650MHRpB2-gmxkGFrc08Q/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/XS_x0unF7xCN_oLIOx6XCN650MHRpB2-gmxkGFrc08Q/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "美容にもいいという道後の温泉が楽しめる大浴場",
+        "sectionTitle": "湯船に溢れる名湯・道後温泉にゆっくりまったり温泉三昧"
+      }
+    ],
+    "c_ap_DatePosted": "2021-10-26",
+    "c_ap_HeroImage": {
+      "alternateText": "日本屈指の古湯、道後温泉にあるスタイリッシュな宿【愛媛県　道後舘】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/J54aliSPM4vSxQoZDsyaawxZ-hirS1J0ie8oIm3J-bE/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/J54aliSPM4vSxQoZDsyaawxZ-hirS1J0ie8oIm3J-bE/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/J54aliSPM4vSxQoZDsyaawxZ-hirS1J0ie8oIm3J-bE/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/J54aliSPM4vSxQoZDsyaawxZ-hirS1J0ie8oIm3J-bE/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/J54aliSPM4vSxQoZDsyaawxZ-hirS1J0ie8oIm3J-bE/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/J54aliSPM4vSxQoZDsyaawxZ-hirS1J0ie8oIm3J-bE/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "黒川紀章氏設計のスタイリッシュなお宿",
+    "c_ap_LinkArticleSectionTitle": "愛媛県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "トラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "この記事の投稿者にリモート相談予約をする",
+        "uRL": "https://link.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNF1DN-qJBbQkxq"
+      },
+      {
+        "linkText": "道後舘 のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/7461014/plan/"
+      },
+      {
+        "linkText": "道後温泉の旅館・ホテル・宿おすすめランキング",
+        "uRL": "https://www.jtb.co.jp/ranking/kokunai/dogo_onsen/"
+      },
+      {
+        "linkText": "愛媛旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/ehime/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea5": [
+      "四国全般",
+      "愛媛県"
+    ],
+    "c_ap_ShortDescription": "兵庫県有馬温泉、和歌山県白浜温泉とともに、日本三古湯の一つといわれる道後温泉。奈良時代の『万葉集』にもその名が見られ、夏目漱石の小説『坊つちやん 』の舞台にもなった温泉地です。温泉街のほぼ真ん中に立つ「道後温泉本館」と2つの外湯を中心に、温泉街には数多くのお宿、商店街、観光施設などが集まり、一年中訪れる人々が絶えません。「道後舘」は道後温泉本館に程近い高台に位置するお宿。きめ細やかなおもてなしと料理に定評があり、大切な人との記念日旅行にもおすすめのお宿です。建物の設計は黒川紀章氏。古いものと新しいものが調和した“共生の舘”というだけに、江戸の蔵屋敷をイメージしたロビーや、吹き抜けの2階から流れ落ちる滝がお客様をお迎えします。",
+    "c_ap_Tags": [
+      "道後温泉",
+      "黒川紀章",
+      "共生の舘",
+      "四国"
+    ],
+    "c_ap_Theme": [
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "日本屈指の古湯、道後温泉にあるスタイリッシュな宿【愛媛県　道後舘】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "兵庫県有馬温泉、和歌山県白浜温泉とともに、日本三古湯の一つといわれる道後温泉。奈良時代の『万葉集』にもその名が見られ、夏目漱石の小説『坊つちやん 』の舞台にもなった温泉地です。温泉街のほぼ真ん中に立つ「道後温…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "日本屈指の古湯、道後温泉にあるスタイリッシュな宿【愛媛県　道後舘】 | JTBリモートコンシェルジュ トラベルコンサルタントのおすすめ旅",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_m_takahashi509_002",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "四国全般, 愛媛県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：四国全般, 愛媛県",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：四国全般, 愛媛県",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "日本屈指の古湯、道後温泉にあるスタイリッシュな宿【愛媛県　道後舘】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

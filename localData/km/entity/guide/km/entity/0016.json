@@ -1,0 +1,737 @@
+{
+  "$id": "guide_0016",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "alternateText": "ヘルシンキのマーケット広場",
+      "height": 901,
+      "sourceUrl": "https://a.mktgcdn.com/p/Rzx68hDudKVr2f2To-Ij0PAcO6XyKDRkixINhLNy0-I/1200x901.jpg",
+      "thumbnails": [
+        {
+          "height": 901,
+          "url": "https://a.mktgcdn.com/p-sandbox/Rzx68hDudKVr2f2To-Ij0PAcO6XyKDRkixINhLNy0-I/1200x901.jpg",
+          "width": 1200
+        },
+        {
+          "height": 465,
+          "url": "https://a.mktgcdn.com/p-sandbox/Rzx68hDudKVr2f2To-Ij0PAcO6XyKDRkixINhLNy0-I/619x465.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/Rzx68hDudKVr2f2To-Ij0PAcO6XyKDRkixINhLNy0-I/599x450.jpg",
+          "width": 599
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/Rzx68hDudKVr2f2To-Ij0PAcO6XyKDRkixINhLNy0-I/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Rzx68hDudKVr2f2To-Ij0PAcO6XyKDRkixINhLNy0-I/1200x901.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "フィンランド旅行・ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/finland/"
+      },
+      {
+        "linkText": "フィンランドの添乗員同行ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?brand\u003d00LK,02RR\u0026houmen\u003d01\u0026kuni\u003dFI\u0026vacantseat\u003d1\u0026departure\u003dHND,NRT,TYO"
+      },
+      {
+        "linkText": "フィンランド行きの航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air/search/search_result/?trvlType\u003d1\u0026deptDt1\u003d20241230\u0026deptCd1\u003dTYO\u0026arvlCd1\u003dHEL\u0026deptDt2\u003d20250104\u0026deptCd2\u003dHEL\u0026arvlCd2\u003dTYO\u0026totalNumAdlt\u003d2\u0026totalNumChld\u003d0\u0026totalNumIns\u003d0\u0026totalNumInf\u003d0"
+      },
+      {
+        "linkText": "フィンランドのホテルを探す",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/?freeword\u003d%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89\u0026chkinDt\u003d2024-12-30\u0026chkoutDt\u003d2024-12-31"
+      }
+    ],
+    "c_ap_PagesGeneration": true,
+    "c_ap_Title": "フィンランド観光ガイド｜JTBスタッフのおすすめスポットと楽しみ方",
+    "c_linkedArea3News": [
+      "northern_europe"
+    ],
+    "c_metaDescription": "フィンランド観光で外せない名所や楽しみ方をご紹介します。冬のオーロラや、夏の白夜、サウナ、北欧雑貨などフィンランドならではの体験を楽しみましょう！",
+    "c_metaTitle": "フィンランド観光ガイド｜JTBスタッフのおすすめスポットと楽しみ方",
+    "c_news_CTAs": [
+      {
+        "label": "フィンランド旅行・ツアーを探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/finland/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "フィンランドの添乗員同行ツアーを探す",
+        "link": "https://www.jtb.co.jp/escort/rweb/kensaku/pages/kensakukekka.aspx?brand\u003d00LK,02RR\u0026houmen\u003d01\u0026kuni\u003dFI\u0026vacantseat\u003d1\u0026departure\u003dHND,NRT,TYO",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "フィンランドのオーロラ鑑賞ツアーを探す",
+          "link": "https://www.jtb.co.jp/lookjtb/special/aurora/europe/",
+          "linkType": "OTHER"
+        },
+        "description": "フィンランドは、美しい大自然とモダンな都市部の風景をどちらも楽しめる国。ここでは、フィンランドを訪れるなら外せない、おすすめの観光スポットをご紹介します。",
+        "image": {
+          "alternateText": "ヘルシンキ大聖堂",
+          "height": 901,
+          "sourceUrl": "https://a.mktgcdn.com/p/akkW3PV5GqTu4v2XbifCLNJDzupvB63IyDUNYIkKKDM/1200x901.jpg",
+          "thumbnails": [
+            {
+              "height": 901,
+              "url": "https://a.mktgcdn.com/p-sandbox/akkW3PV5GqTu4v2XbifCLNJDzupvB63IyDUNYIkKKDM/1200x901.jpg",
+              "width": 1200
+            },
+            {
+              "height": 465,
+              "url": "https://a.mktgcdn.com/p-sandbox/akkW3PV5GqTu4v2XbifCLNJDzupvB63IyDUNYIkKKDM/619x465.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/akkW3PV5GqTu4v2XbifCLNJDzupvB63IyDUNYIkKKDM/599x450.jpg",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/akkW3PV5GqTu4v2XbifCLNJDzupvB63IyDUNYIkKKDM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/akkW3PV5GqTu4v2XbifCLNJDzupvB63IyDUNYIkKKDM/1200x901.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "フィンランドのおすすめ観光スポット10選"
+      },
+      {
+        "cTA1": {
+          "label": "エストニア旅行・ツアーを探す",
+          "link": "https://www.jtb.co.jp/kaigai/area/estonia/",
+          "linkType": "OTHER"
+        },
+        "description": "ヘルシンキ大聖堂は、白い壁と緑のドームが印象的な建物で、ヘルシンキの象徴的な存在です。元老院広場広場に面して建つこの大聖堂は、ルーテル派（ルター派）の総本山であり、内部の壁画や彫刻も見逃せません。他のヨーロッパの国々とはまた違った、フィンランドならではの建築を楽しめますよ。夏は青空に、冬は雪景色に映える姿は圧巻です。",
+        "image": {
+          "alternateText": "マーケット広場",
+          "height": 901,
+          "sourceUrl": "https://a.mktgcdn.com/p/Rzx68hDudKVr2f2To-Ij0PAcO6XyKDRkixINhLNy0-I/1200x901.jpg",
+          "thumbnails": [
+            {
+              "height": 901,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rzx68hDudKVr2f2To-Ij0PAcO6XyKDRkixINhLNy0-I/1200x901.jpg",
+              "width": 1200
+            },
+            {
+              "height": 465,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rzx68hDudKVr2f2To-Ij0PAcO6XyKDRkixINhLNy0-I/619x465.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rzx68hDudKVr2f2To-Ij0PAcO6XyKDRkixINhLNy0-I/599x450.jpg",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rzx68hDudKVr2f2To-Ij0PAcO6XyKDRkixINhLNy0-I/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Rzx68hDudKVr2f2To-Ij0PAcO6XyKDRkixINhLNy0-I/1200x901.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "【ヘルシンキ】ヘルシンキ大聖堂"
+      },
+      {
+        "description": "ヘルシンキの海沿いに位置するマーケット広場は、地元の新鮮な食材や工芸品を販売する活気あふれる市場です。お土産を探すのにぴったりの場所で、地元の人々の日常を垣間見ることができます。特に夏の間は、カフェやレストランが営業しており、海の幸を楽しめますよ。フィンランドグルメを食べたい方や、地元の雰囲気を感じたい方におすすめ。新鮮なサーモンや伝統的なフィンランド料理を味わってみてくださいね。",
+        "image": {
+          "alternateText": "ウスペンスキー教会",
+          "height": 901,
+          "sourceUrl": "https://a.mktgcdn.com/p/a2e8e0_IwHHdNHjhxvi7q3-6XFBPkvwfVU7RUqIFE20/1200x901.jpg",
+          "thumbnails": [
+            {
+              "height": 901,
+              "url": "https://a.mktgcdn.com/p-sandbox/a2e8e0_IwHHdNHjhxvi7q3-6XFBPkvwfVU7RUqIFE20/1200x901.jpg",
+              "width": 1200
+            },
+            {
+              "height": 465,
+              "url": "https://a.mktgcdn.com/p-sandbox/a2e8e0_IwHHdNHjhxvi7q3-6XFBPkvwfVU7RUqIFE20/619x465.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/a2e8e0_IwHHdNHjhxvi7q3-6XFBPkvwfVU7RUqIFE20/599x450.jpg",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/a2e8e0_IwHHdNHjhxvi7q3-6XFBPkvwfVU7RUqIFE20/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/a2e8e0_IwHHdNHjhxvi7q3-6XFBPkvwfVU7RUqIFE20/1200x901.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "【ヘルシンキ】マーケット広場"
+      },
+      {
+        "description": "ウスペンスキー教会は、ヘルシンキのカタヤノッカの丘にそびえ立つ、西ヨーロッパで最大の東方正教会です。教会は、ロシアの影響を色濃く反映した赤レンガの壁と金色のドームが特徴で、内部には豪華なイコンとフレスコ画があります。フィンランドの多様な文化的背景に触れられるスポットですよ。ぜひヘルシンキ大聖堂とあわせて訪れて、その違いを感じてみてくださいね。",
+        "image": {
+          "alternateText": "スオメンリンナの要塞群",
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/Pyzhv5AhEnDgwSXdsQc3jVpi_kGNWxM20mkm4uDZVe4/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/Pyzhv5AhEnDgwSXdsQc3jVpi_kGNWxM20mkm4uDZVe4/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/Pyzhv5AhEnDgwSXdsQc3jVpi_kGNWxM20mkm4uDZVe4/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Pyzhv5AhEnDgwSXdsQc3jVpi_kGNWxM20mkm4uDZVe4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Pyzhv5AhEnDgwSXdsQc3jVpi_kGNWxM20mkm4uDZVe4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Pyzhv5AhEnDgwSXdsQc3jVpi_kGNWxM20mkm4uDZVe4/1200x799.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "【ヘルシンキ】ウスペンスキー教会"
+      },
+      {
+        "description": "スオメンリンナの要塞群は、ヘルシンキの港からフェリーで簡単にアクセスできる世界遺産。18世紀にスウェーデンによって築かれた要塞で、その後ロシア帝国の支配下にも置かれました。現在は博物館やカフェ、アートギャラリーがあり、夏はピクニックやウォーキングを楽しむ人々で賑わいます。",
+        "image": {
+          "alternateText": "サンタクロース村",
+          "height": 802,
+          "sourceUrl": "https://a.mktgcdn.com/p/Q-PZB-ZHnF_keaq82wjCt4ewot9VGs52vWuWqA9N_IA/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "https://a.mktgcdn.com/p-sandbox/Q-PZB-ZHnF_keaq82wjCt4ewot9VGs52vWuWqA9N_IA/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/Q-PZB-ZHnF_keaq82wjCt4ewot9VGs52vWuWqA9N_IA/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/Q-PZB-ZHnF_keaq82wjCt4ewot9VGs52vWuWqA9N_IA/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Q-PZB-ZHnF_keaq82wjCt4ewot9VGs52vWuWqA9N_IA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Q-PZB-ZHnF_keaq82wjCt4ewot9VGs52vWuWqA9N_IA/1200x802.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "【ヘルシンキ】スオメンリンナの要塞群"
+      },
+      {
+        "description": "タンペレにあるムーミン美術館は、フィンランドが世界に誇るムーミンの作者、トーベ・ヤンソンの作品を集めた美術館です。原画や立体作品を通じてムーミンの物語の世界に浸ることができます。子どもから大人まで幅広い世代に愛されるムーミンのキャラクターたちに会えるのは、ファンにとって夢のような体験ですよね。家族連れにもおすすめのスポットです。",
+        "image": {
+          "alternateText": "サイマー湖",
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/dvGmtbgbfxWqgC9BK0lJdvbx8g6YqOuWbnqJmSaWCBA/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/dvGmtbgbfxWqgC9BK0lJdvbx8g6YqOuWbnqJmSaWCBA/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/dvGmtbgbfxWqgC9BK0lJdvbx8g6YqOuWbnqJmSaWCBA/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/dvGmtbgbfxWqgC9BK0lJdvbx8g6YqOuWbnqJmSaWCBA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/dvGmtbgbfxWqgC9BK0lJdvbx8g6YqOuWbnqJmSaWCBA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dvGmtbgbfxWqgC9BK0lJdvbx8g6YqOuWbnqJmSaWCBA/1200x799.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "【タンペレ】ムーミン美術館"
+      },
+      {
+        "description": "ナーンタリのムーミンワールドは、ムーミン谷をテーマにしたテーマパークで、夏季限定で開園します。ムーミン一家の家をはじめ、原作に登場するさまざまな場所を実際に体験できるのが魅力。キャラクターたちとのふれあいや、自然の中でのアクティビティが楽しめるので、子供はもちろん、大人でも満喫できますよ。",
+        "image": {
+          "alternateText": "ポルヴォーの街並み",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/feoxT5_iixACxtnniMHpbdCOq10iFxlHpKCCW-5F8Zs/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/feoxT5_iixACxtnniMHpbdCOq10iFxlHpKCCW-5F8Zs/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/feoxT5_iixACxtnniMHpbdCOq10iFxlHpKCCW-5F8Zs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/feoxT5_iixACxtnniMHpbdCOq10iFxlHpKCCW-5F8Zs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/feoxT5_iixACxtnniMHpbdCOq10iFxlHpKCCW-5F8Zs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/feoxT5_iixACxtnniMHpbdCOq10iFxlHpKCCW-5F8Zs/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "【ナーンタリ】ムーミンワールド"
+      },
+      {
+        "description": "ロヴァニエミにあるサンタクロース村は、クリスマスの雰囲気を年中体験できる場所です。北極圏直下に位置し、サンタクロースに会えるだけでなく、郵便局で手紙を出すこともできます。サンタクロース村から届いた手紙は宝物になるはず！子どもたちにとって、憧れのサンタクロースに会える夢のような体験ができるのはもちろん、大人も童心にかえって楽しめるスポットです。",
+        "image": {
+          "alternateText": "トゥルク",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/jwu8IjnhW0SQeWXWzA-YCAbR25TvAAK0G-mnuo5CcBI/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/jwu8IjnhW0SQeWXWzA-YCAbR25TvAAK0G-mnuo5CcBI/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/jwu8IjnhW0SQeWXWzA-YCAbR25TvAAK0G-mnuo5CcBI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/jwu8IjnhW0SQeWXWzA-YCAbR25TvAAK0G-mnuo5CcBI/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/jwu8IjnhW0SQeWXWzA-YCAbR25TvAAK0G-mnuo5CcBI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jwu8IjnhW0SQeWXWzA-YCAbR25TvAAK0G-mnuo5CcBI/1200x801.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "【ロヴァニエミ】サンタクロース村"
+      },
+      {
+        "description": "サイマー湖は、フィンランド東部に位置する大自然に囲まれた湖です。フィンランドで最も大きな湖の一つであり、水上アクティビティや釣り、ボートツアーなどが楽しめます。湖畔にはサヴォンリンナ城がそびえ立ち、夏に開催されるオペラのイベントも見どころ。フィンランドの自然と文化に興味がある方はぜひ訪れてみてください。",
+        "image": {
+          "alternateText": "フィンランドのオーロラ",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/anUagKZsbMirG5ZTkT6TExFkXiC532TeNgEIuEtX4Kw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/anUagKZsbMirG5ZTkT6TExFkXiC532TeNgEIuEtX4Kw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/anUagKZsbMirG5ZTkT6TExFkXiC532TeNgEIuEtX4Kw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/anUagKZsbMirG5ZTkT6TExFkXiC532TeNgEIuEtX4Kw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/anUagKZsbMirG5ZTkT6TExFkXiC532TeNgEIuEtX4Kw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/anUagKZsbMirG5ZTkT6TExFkXiC532TeNgEIuEtX4Kw/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "【サヴォンリンナ】サイマー湖"
+      },
+      {
+        "description": "ポルヴォーは、ヘルシンキから東へ約50kmに位置するフィンランドで二番目に古い町です。中世の雰囲気が色濃く残る街で、カラフルな木造の家々と石畳の道が特徴。川沿いのカフェでのんびりと過ごしたり、地元のアートや工芸品を探したりと様々な楽しみ方ができますよ。絵画のような美しさを持つ、静かな街並みをゆったりと探索してみてくださいね。",
+        "image": {
+          "alternateText": "フィンランドのサウナ",
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/uakXZh2EACrixuS19y-YT1_wpV0HBB4Z73s-GMvKFo0/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/uakXZh2EACrixuS19y-YT1_wpV0HBB4Z73s-GMvKFo0/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/uakXZh2EACrixuS19y-YT1_wpV0HBB4Z73s-GMvKFo0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/uakXZh2EACrixuS19y-YT1_wpV0HBB4Z73s-GMvKFo0/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/uakXZh2EACrixuS19y-YT1_wpV0HBB4Z73s-GMvKFo0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uakXZh2EACrixuS19y-YT1_wpV0HBB4Z73s-GMvKFo0/1200x801.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ポルヴォー"
+      },
+      {
+        "description": "トゥルクはフィンランド最古の都市であり、フィンランド発祥の地とも言われています。トゥルク城やトゥルク大聖堂などの歴史的な建物が見どころで、過去の功績をを今に伝えている場所。フィンランド多島海域への玄関口としても知られ、群島を訪れるための拠点にもなっています。",
+        "image": {
+          "alternateText": "マリメッコのアウトレット",
+          "height": 901,
+          "sourceUrl": "https://a.mktgcdn.com/p/ovw9l4xoe_SrgLxFB7byvwKMTTpNlHptLcjGXOI5xZw/1200x901.jpg",
+          "thumbnails": [
+            {
+              "height": 901,
+              "url": "https://a.mktgcdn.com/p-sandbox/ovw9l4xoe_SrgLxFB7byvwKMTTpNlHptLcjGXOI5xZw/1200x901.jpg",
+              "width": 1200
+            },
+            {
+              "height": 465,
+              "url": "https://a.mktgcdn.com/p-sandbox/ovw9l4xoe_SrgLxFB7byvwKMTTpNlHptLcjGXOI5xZw/619x465.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ovw9l4xoe_SrgLxFB7byvwKMTTpNlHptLcjGXOI5xZw/599x450.jpg",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/ovw9l4xoe_SrgLxFB7byvwKMTTpNlHptLcjGXOI5xZw/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ovw9l4xoe_SrgLxFB7byvwKMTTpNlHptLcjGXOI5xZw/1200x901.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "トゥルク"
+      },
+      {
+        "description": "ここからは、フィンランド旅行の楽しみ方をご紹介します。定番のオーロラ観測はもちろん、サウナや北欧雑貨、隣国への日帰り旅行などさまざまな楽しみ方ができますよ。",
+        "image": {
+          "alternateText": "エストニア",
+          "height": 901,
+          "sourceUrl": "https://a.mktgcdn.com/p/rJFQ4KASEVuEHa-aIlYezjyMW_AOPzrKE3NNLTGryZ4/1200x901.jpg",
+          "thumbnails": [
+            {
+              "height": 901,
+              "url": "https://a.mktgcdn.com/p-sandbox/rJFQ4KASEVuEHa-aIlYezjyMW_AOPzrKE3NNLTGryZ4/1200x901.jpg",
+              "width": 1200
+            },
+            {
+              "height": 465,
+              "url": "https://a.mktgcdn.com/p-sandbox/rJFQ4KASEVuEHa-aIlYezjyMW_AOPzrKE3NNLTGryZ4/619x465.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/rJFQ4KASEVuEHa-aIlYezjyMW_AOPzrKE3NNLTGryZ4/599x450.jpg",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/rJFQ4KASEVuEHa-aIlYezjyMW_AOPzrKE3NNLTGryZ4/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rJFQ4KASEVuEHa-aIlYezjyMW_AOPzrKE3NNLTGryZ4/1200x901.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "フィンランドの楽しみ方4選"
+      },
+      {
+        "description": "フィンランドのラップランド地方は、世界でも有数のオーロラ観測スポットです。特に、9月から3月の冬の期間は、夜空を彩るオーロラを見るために多くの観光客が訪れます。ロヴァニエミやイヴァロなどはオーロラ観測に最適な場所として知られており、澄んだ夜空の下で幻想的な光のショーを体験できる名所。オーロラ観測ツアーに参加すれば、知識豊富なガイドの解説を聞きながら、オーロラについてより深く理解することができますよ。冬の寒さを忘れさせるほどの絶景は、一生の思い出になること間違いなしです。",
+        "image": {
+          "alternateText": "サーモンスープ",
+          "height": 901,
+          "sourceUrl": "https://a.mktgcdn.com/p/AycI2VFO_dvvPM7RIhEtHMUqLILaagSVvbKDxLg-6nM/1200x901.jpg",
+          "thumbnails": [
+            {
+              "height": 901,
+              "url": "https://a.mktgcdn.com/p-sandbox/AycI2VFO_dvvPM7RIhEtHMUqLILaagSVvbKDxLg-6nM/1200x901.jpg",
+              "width": 1200
+            },
+            {
+              "height": 465,
+              "url": "https://a.mktgcdn.com/p-sandbox/AycI2VFO_dvvPM7RIhEtHMUqLILaagSVvbKDxLg-6nM/619x465.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/AycI2VFO_dvvPM7RIhEtHMUqLILaagSVvbKDxLg-6nM/599x450.jpg",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/AycI2VFO_dvvPM7RIhEtHMUqLILaagSVvbKDxLg-6nM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AycI2VFO_dvvPM7RIhEtHMUqLILaagSVvbKDxLg-6nM/1200x901.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "オーロラを見に行く"
+      },
+      {
+        "description": "フィンランドといえばサウナの国！フィンランドには数多くのサウナがあり、公共のサウナから湖畔のコテージにあるプライベートサウナまで、多様なサウナ体験が可能です。フィンランド人はサウナを日常的に利用しており、観光客も一緒に体験できます。サウナで汗を流した後に冷たい湖に飛び込むのは、フィンランドならではのリフレッシュ方法！現地の人と一緒にサウナを体験することで、フィンランドの生活スタイルをより深く理解できますよ。",
+        "image": {
+          "alternateText": "シナモンロール",
+          "height": 901,
+          "sourceUrl": "https://a.mktgcdn.com/p/uOMEl4dHH1mTlwxkBYA4pngUsJ5H-WtHDTA8GE-ZRTk/1200x901.jpg",
+          "thumbnails": [
+            {
+              "height": 901,
+              "url": "https://a.mktgcdn.com/p-sandbox/uOMEl4dHH1mTlwxkBYA4pngUsJ5H-WtHDTA8GE-ZRTk/1200x901.jpg",
+              "width": 1200
+            },
+            {
+              "height": 465,
+              "url": "https://a.mktgcdn.com/p-sandbox/uOMEl4dHH1mTlwxkBYA4pngUsJ5H-WtHDTA8GE-ZRTk/619x465.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/uOMEl4dHH1mTlwxkBYA4pngUsJ5H-WtHDTA8GE-ZRTk/599x450.jpg",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/uOMEl4dHH1mTlwxkBYA4pngUsJ5H-WtHDTA8GE-ZRTk/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uOMEl4dHH1mTlwxkBYA4pngUsJ5H-WtHDTA8GE-ZRTk/1200x901.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "本場のサウナを楽しむ"
+      },
+      {
+        "description": "フィンランドは、マリメッコやイッタラなどの有名なデザインブランドの本場です。特にヘルシンキには有名ブランドのアウトレットショップもあり、北欧雑貨や食器をお得にゲットできます。北欧雑貨やショッピングが好きな方に特におすすめで、お土産にもぴったり。ぜひ現地でしか手に入らないアイテムをチェックしてみてくださいね。",
+        "image": {
+          "alternateText": "トナカイのソテー",
+          "height": 857,
+          "sourceUrl": "https://a.mktgcdn.com/p/VQCg3bboQjkPJEdu72xmoG1iUO2ZqDyjDAwsBrM8M6M/1200x857.jpg",
+          "thumbnails": [
+            {
+              "height": 857,
+              "url": "https://a.mktgcdn.com/p-sandbox/VQCg3bboQjkPJEdu72xmoG1iUO2ZqDyjDAwsBrM8M6M/1200x857.jpg",
+              "width": 1200
+            },
+            {
+              "height": 442,
+              "url": "https://a.mktgcdn.com/p-sandbox/VQCg3bboQjkPJEdu72xmoG1iUO2ZqDyjDAwsBrM8M6M/619x442.jpg",
+              "width": 619
+            },
+            {
+              "height": 429,
+              "url": "https://a.mktgcdn.com/p-sandbox/VQCg3bboQjkPJEdu72xmoG1iUO2ZqDyjDAwsBrM8M6M/600x429.jpg",
+              "width": 600
+            },
+            {
+              "height": 140,
+              "url": "https://a.mktgcdn.com/p-sandbox/VQCg3bboQjkPJEdu72xmoG1iUO2ZqDyjDAwsBrM8M6M/196x140.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VQCg3bboQjkPJEdu72xmoG1iUO2ZqDyjDAwsBrM8M6M/1200x857.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "北欧雑貨や食器をゲット"
+      },
+      {
+        "description": "フィンランドの首都ヘルシンキからは、フェリーで約2時間でエストニアの首都タリンに行くことができます。中世の雰囲気が色濃く残るタリンの旧市街は、世界遺産にも登録されており、日帰り旅行でも楽しめるのが魅力。旧市街の散策やショッピング、エストニア料理などフィンランドとはまた違った雰囲気を体験できますよ。フィンランド旅行の際は、ぜひエストニアへの小旅行も旅程に加えてみてくださいね。",
+        "image": {
+          "alternateText": "フィンランドのオーロラ",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/g7yInOJ5BzF5oOG5EnLI4nBUMzMu3rbYGUAP_8FYveY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/g7yInOJ5BzF5oOG5EnLI4nBUMzMu3rbYGUAP_8FYveY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/g7yInOJ5BzF5oOG5EnLI4nBUMzMu3rbYGUAP_8FYveY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/g7yInOJ5BzF5oOG5EnLI4nBUMzMu3rbYGUAP_8FYveY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/g7yInOJ5BzF5oOG5EnLI4nBUMzMu3rbYGUAP_8FYveY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/g7yInOJ5BzF5oOG5EnLI4nBUMzMu3rbYGUAP_8FYveY/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "エストニアまで足を延ばす"
+      },
+      {
+        "description": "フィンランド旅行で食べたいおすすめグルメをご紹介します。海に囲まれたフィンランドは、サーモン料理が絶品！また、独自の文化（フィーカ）で定番のお菓子もおいしいですよ。",
+        "image": {
+          "alternateText": "ウスペンスキー教会の周辺",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/1oynX-9zE02_ZZRzX21yAtc3WmOIPAAHQ0k19rJQkRs/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/1oynX-9zE02_ZZRzX21yAtc3WmOIPAAHQ0k19rJQkRs/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/1oynX-9zE02_ZZRzX21yAtc3WmOIPAAHQ0k19rJQkRs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/1oynX-9zE02_ZZRzX21yAtc3WmOIPAAHQ0k19rJQkRs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/1oynX-9zE02_ZZRzX21yAtc3WmOIPAAHQ0k19rJQkRs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1oynX-9zE02_ZZRzX21yAtc3WmOIPAAHQ0k19rJQkRs/1200x800.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "フィンランドで食べたいグルメ3選"
+      },
+      {
+        "description": "サーモンスープは、フィンランドの代表的な料理の一つです。新鮮なサーモンをたっぷりと使用し、クリームやジャガイモ、ニンジン、リーキなどの野菜と一緒に煮込んだスープは、寒い冬に体を温めてくれます。ハーブで風味を加えているのもポイントで、フィンランドの家庭料理を感じることができる一品です。",
+        "image": {
+          "alternateText": "フィンランドの自然",
+          "height": 675,
+          "sourceUrl": "https://a.mktgcdn.com/p/vKjpXj8Xj9XEHMZfkd8xSDj7Huqq6igyJBuXwJ4dTVM/1200x675.jpg",
+          "thumbnails": [
+            {
+              "height": 675,
+              "url": "https://a.mktgcdn.com/p-sandbox/vKjpXj8Xj9XEHMZfkd8xSDj7Huqq6igyJBuXwJ4dTVM/1200x675.jpg",
+              "width": 1200
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/vKjpXj8Xj9XEHMZfkd8xSDj7Huqq6igyJBuXwJ4dTVM/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/vKjpXj8Xj9XEHMZfkd8xSDj7Huqq6igyJBuXwJ4dTVM/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/vKjpXj8Xj9XEHMZfkd8xSDj7Huqq6igyJBuXwJ4dTVM/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vKjpXj8Xj9XEHMZfkd8xSDj7Huqq6igyJBuXwJ4dTVM/1200x675.jpg",
+          "width": 1200
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "サーモンスープ"
+      },
+      {
+        "description": "「コルヴァプースティ」と呼ばれるシナモンロールは、実はフィンランドが発祥のパンです。お菓子とコーヒーをお供におしゃべりを楽しむフィンランドの文化「フィーカ（fika）」で食べる定番のおやつ。シナモンとカルダモンの香りが特徴の生地を巻いて焼き上げており、日本でよく見る形とは違った、ぺしゃっと潰れた形が特徴です。甘いだけでなく、スパイスの効いた奥深い味わいを楽しめますよ。",
+        "sectionLevel": "h3",
+        "sectionTitle": "シナモンロール"
+      },
+      {
+        "description": "トナカイのソテーは、ラップランド地方の伝統的な料理です。トナカイの肉は、低脂肪でヘルシーなのが特徴で、独特の風味があります。ジャガイモやベリーのソースと一緒に食べることが多く、フィンランドの大自然を感じさせる料理です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "トナカイのソテー"
+      },
+      {
+        "description": "フィンランド観光のベストシーズンは、目的によって異なります。オーロラを見たいなら、9月から3月の冬季がおすすめ。日照時間が短く、暗闇の中でオーロラがよく見えます。フィンランドの自然や観光スポット巡りを楽しみたいなら、6月から8月がよいでしょう。夜がほとんどない「白夜」を体験でき、長い時間観光できますよ。",
+        "sectionLevel": "h2",
+        "sectionTitle": "フィンランド観光のベストシーズン"
+      },
+      {
+        "description": "フィンランドは物価が高い国の一つで、特にヘルシンキなどの都市部では宿泊費や食事代がかなり高くなります。一般的に、ホテルは1泊100ユーロ以上、食事は1回15ユーロ以上が目安。オーロラ観測ツアーやサウナ体験などのアクティビティも予算に含める必要があります。交通機関の1デイパスや、観光スポットへの入場権も含まれる「ヘルシンキカード」などを活用してうまく節約してみてくださいね。",
+        "sectionLevel": "h2",
+        "sectionTitle": "フィンランド観光の旅行費用"
+      },
+      {
+        "description": "フィンランドは四季折々の自然と文化が楽しめる国です。冬のオーロラや、夏の白夜、サウナ、北欧雑貨などフィンランドならではの体験を楽しみましょう！旅の計画を立てる際は、シーズンや予算も考慮して、忘れられないフィンランド旅行にしてくださいね。",
+        "sectionLevel": "h2",
+        "sectionTitle": "四季折々のフィンランドの魅力を楽しもう！"
+      }
+    ],
+    "c_news_PublicationDate": "2024-10-31",
+    "c_news_UpdateDate": "2024-10-31",
+    "c_news_ViewCount": "282",
+    "c_news_ViewCount2of2": "282",
+    "c_news_ViewCountNum": "282",
+    "c_news_ViewCountNumForSorting": "106",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/europe/northern_europe/guide_0016",
+    "c_relatedAreas": [
+      "northern_europe"
+    ],
+    "name": "フィンランド観光ガイド｜JTBスタッフのおすすめスポットと楽しみ方",
+    "slug": "kaigai/europe/northern_europe/guide_0016",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

@@ -1,0 +1,602 @@
+{
+  "$id": "news_ap_y_ishihara225_004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 石原 優子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "山梨のおすすめ温泉地MV",
+      "height": 826,
+      "sourceUrl": "https://a.mktgcdn.com/p/ZnMa02HgShvCDUCV_SidTAM1TmiupPgldskqNPsVpzs/1271x826.png",
+      "thumbnails": [
+        {
+          "height": 826,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZnMa02HgShvCDUCV_SidTAM1TmiupPgldskqNPsVpzs/1271x826.png",
+          "width": 1271
+        },
+        {
+          "height": 402,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZnMa02HgShvCDUCV_SidTAM1TmiupPgldskqNPsVpzs/619x402.png",
+          "width": 619
+        },
+        {
+          "height": 390,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZnMa02HgShvCDUCV_SidTAM1TmiupPgldskqNPsVpzs/600x390.png",
+          "width": 600
+        },
+        {
+          "height": 127,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZnMa02HgShvCDUCV_SidTAM1TmiupPgldskqNPsVpzs/196x127.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ZnMa02HgShvCDUCV_SidTAM1TmiupPgldskqNPsVpzs/1271x826.png",
+      "width": 1271
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "山梨県のホテル・旅館・宿をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/yamanashi/"
+      },
+      {
+        "linkText": "山梨県の『温泉宿』をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/yamanashi/feature/k_onsen/"
+      },
+      {
+        "linkText": "山梨旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/yamanashi/"
+      },
+      {
+        "linkText": "温泉旅行におすすめの温泉宿・旅館・ホテル",
+        "uRL": "https://www.jtb.co.jp/onsen/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "山梨県はブドウやモモなどのフルーツとワインで知られる県。世界遺産にも登録された富士山と富士五湖、清里などのリゾートや昇仙峡などの景勝地でも有名です。富士山周辺には眺望自慢の多数の温泉が湧出するほか、古くから知られている西山温泉が有名です。そんな山梨県の人気温泉地15選を紹介します。",
+    "c_ap_Tags": [
+      "温泉",
+      "甲信越エリア",
+      "中部エリア",
+      "山梨県",
+      "甲府"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "温泉・立ち寄り湯"
+    ],
+    "c_ap_Title": "山梨県の人気温泉地 おすすめ15選",
+    "c_linkedArea3News": [
+      "yamanashi"
+    ],
+    "c_metaDescription": "山梨県の有名温泉地15選をご紹介！日帰りでも楽しめる温泉や、旅館でゆっくり過ごせる人気の温泉地、露天風呂からの景色が魅力の穴場温泉などもピックアップ！温泉街で散策を楽しむのもおすすめです。",
+    "c_metaTitle": "山梨県の人気温泉地 おすすめ15選",
+    "c_news_CTAs": [
+      {
+        "label": "山梨県のホテル・旅館をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/yamanashi/",
+        "linkType": "URL"
+      },
+      {
+        "label": "山梨県のツアー・パックをみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/yamanashi/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "富士河口湖温泉郷の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1943005/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "「慶雲館」をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/4453001/",
+          "linkType": "OTHER"
+        },
+        "description": "富士河口湖温泉郷は、世界遺産・富士山の壮大な景色を背景に、リゾート気分を満喫できる温泉地です。1992年に河口湖の北岸で発見された比較的新しい温泉地で、4つの源泉を持ち、神経痛などに効能があるとされています。露天風呂を新設した宿が多く、富士山を眺めながらの湯浴みは格別。約50軒の宿泊施設があり、河口湖畔には美術館やクラフト体験施設、おしゃれなレストランが集まっています。バス釣りや水上スキーなどのアクティビティも楽しめますよ。",
+        "image": {
+          "alternateText": "富士河口湖温泉郷",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/TSBzK25O_N02Ti2U9qn2y3MzCDC7gAS6inQPNEbr6l0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/TSBzK25O_N02Ti2U9qn2y3MzCDC7gAS6inQPNEbr6l0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/TSBzK25O_N02Ti2U9qn2y3MzCDC7gAS6inQPNEbr6l0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/TSBzK25O_N02Ti2U9qn2y3MzCDC7gAS6inQPNEbr6l0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/TSBzK25O_N02Ti2U9qn2y3MzCDC7gAS6inQPNEbr6l0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/TSBzK25O_N02Ti2U9qn2y3MzCDC7gAS6inQPNEbr6l0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "富士河口湖温泉郷（ふじかわぐちこおんせんきょう）",
+        "infoBlockLabel": "富士河口湖温泉郷の情報",
+        "infoBlockText": "所在地：山梨県南巨摩郡早川町西山温泉泉温：41～52℃源泉：8湯量：約2000リットル／分飲用：可泉質：ナトリウム・カルシウム-硫酸塩・塩化物泉、ナトリウム-硫酸塩・塩化物泉など効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、打ち身、胃腸病、高血圧症、動脈硬化症、切り傷、やけど、慢性皮ふ病、糖尿病、痔疾、慢性婦人病、美肌など宿泊施設数：2アクセス：（公共交通）ＪＲ身延駅、または下部温泉駅から早川町乗合バス奈良田温泉行きで1時間～1時間30分、バス停：湯島の湯、西山温泉下車（車）中央道甲府南ICから国道358号・139号・300号経由78km。または中部横断道増穂ICから国道52号、県道37号で34km",
+        "sectionLevel": "h2",
+        "sectionTitle": "山梨の人気温泉地10選"
+      },
+      {
+        "cTA1": {
+          "label": "石和温泉郷のおすすめ宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/190201/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "「川浦温泉山県館」をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/4273001/",
+          "linkType": "OTHER"
+        },
+        "description": "石和温泉は山梨県内で最大規模を誇る温泉郷で、その歴史は1961年にブドウ畑から湧出した高温の温泉に始まります。発見以降、石和は温泉観光地として急速に発展し、現在では50軒以上のホテルや旅館がひしめく一大温泉郷へと変貌を遂げました。四季折々のイベントが彩りを添え、春には桃源郷春まつり、夏には鵜飼や花火、秋にはブドウ・ワインのイベントが開催されます。ブドウや桃の農園、県立博物館、ワイナリーなど、豊かな自然と文化が融合する周辺施設も魅力。石和温泉で、温泉の癒しと地域の魅力に触れる旅をお楽しみください。",
+        "image": {
+          "alternateText": "石和温泉郷",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/-v35fmSE6wbisy5z0cuk9EiRtSDJDCsy4svW31hblkU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/-v35fmSE6wbisy5z0cuk9EiRtSDJDCsy4svW31hblkU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/-v35fmSE6wbisy5z0cuk9EiRtSDJDCsy4svW31hblkU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/-v35fmSE6wbisy5z0cuk9EiRtSDJDCsy4svW31hblkU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/-v35fmSE6wbisy5z0cuk9EiRtSDJDCsy4svW31hblkU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-v35fmSE6wbisy5z0cuk9EiRtSDJDCsy4svW31hblkU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "石和温泉郷（いさわおんせんきょう）",
+        "infoBlockLabel": "石和温泉郷の情報",
+        "infoBlockText": "所在地：山梨県笛吹市石和町泉温：45℃前後源泉：6湯量：1836リットル／分飲用：不可泉質：アルカリ性単純温泉効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、打ち身、慢性消化器病、痔疾など宿泊施設数：約50アクセス：（公共交通）ＪＲ石和温泉駅下車（車）中央道一宮御坂ICから国道137号・20号、県道311号経由5km",
+        "sectionLevel": "h3",
+        "sectionTitle": "富士河口湖温泉郷"
+      },
+      {
+        "cTA1": {
+          "label": "下部温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/190503/",
+          "linkType": "URL"
+        },
+        "description": "下部温泉は甲州を代表する温泉地で、武田信玄の隠し湯としても知られています。信玄が川中島の戦いの傷を癒したという逸話があり、温泉の歴史は約1200年前の平安時代にまで遡るほど。下部川の渓流沿いには旅館が建ち並び、湯治場の風情を今に伝えています。源泉は低温であるため、多くの宿では源泉の湯と湧かし湯を用意し、交互に入浴することで効能を高めています。近年は約51℃の高アルカリ泉も湧出し、2007年からは旅館での利用も始まりました。共同浴場の「下部温泉会館」もありますよ。",
+        "image": {
+          "alternateText": "下部温泉",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/oHa4G44kB4G42oLupBTzNBTC5Kqdg38WSPgrmVdUhXw/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/oHa4G44kB4G42oLupBTzNBTC5Kqdg38WSPgrmVdUhXw/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/oHa4G44kB4G42oLupBTzNBTC5Kqdg38WSPgrmVdUhXw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/oHa4G44kB4G42oLupBTzNBTC5Kqdg38WSPgrmVdUhXw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/oHa4G44kB4G42oLupBTzNBTC5Kqdg38WSPgrmVdUhXw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oHa4G44kB4G42oLupBTzNBTC5Kqdg38WSPgrmVdUhXw/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "下部温泉（しもべおんせん）",
+        "infoBlockLabel": "下部温泉の情報",
+        "infoBlockText": "所在地：山梨県南巨摩郡身延町下部泉温：30℃前後・51℃など源泉：7湯量：不明飲用：一部可泉質：単純温泉など効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、打ち身、慢性消化器病、切り傷、やけど、慢性皮ふ病、慢性婦人病、痔疾など宿泊施設数：14アクセス：（公共交通）ＪＲ下部温泉駅から車3分(送迎車あり)（車）中部横断道下部温泉早川ICから国道300号経由3.6km",
+        "sectionLevel": "h3",
+        "sectionTitle": "石和温泉郷"
+      },
+      {
+        "cTA1": {
+          "label": "西山温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1936402/",
+          "linkType": "URL"
+        },
+        "description": "西山温泉は南アルプスの最高峰・北岳を源流とする早川の渓谷沿いに位置する、歴史ある山間の温泉です。開湯は1300年前の慶雲年間（704～708年）にさかのぼり、徳川家康や武田信玄も訪れたとされる由緒正しいいで湯として知られています。ギネスに「世界でもっとも古い歴史を持つ宿」として認定された「慶雲館」は、全館源泉かけ流しのもてなしが定評の名旅館。胃腸の名湯として古くから親しまれ、開湯1300年を記念した温泉掘削でさらに良質な温泉が湧出しました。湯治に効くと言われている「蓬莱館」もあり、日帰り入浴施設「西山温泉 湯島の湯」では3種の露天風呂を楽しめて、コテージにも泊まれるのが魅力。自然に囲まれた西山温泉で、歴史を感じながらのんびりと温泉を満喫してみましょう！",
+        "image": {
+          "alternateText": "西山温泉",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/jNU3lIgTepqF2hD5Lyymn0oHXJBaNQMqGvXTj70oG9g/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/jNU3lIgTepqF2hD5Lyymn0oHXJBaNQMqGvXTj70oG9g/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/jNU3lIgTepqF2hD5Lyymn0oHXJBaNQMqGvXTj70oG9g/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/jNU3lIgTepqF2hD5Lyymn0oHXJBaNQMqGvXTj70oG9g/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/jNU3lIgTepqF2hD5Lyymn0oHXJBaNQMqGvXTj70oG9g/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jNU3lIgTepqF2hD5Lyymn0oHXJBaNQMqGvXTj70oG9g/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "西山温泉（にしやまおんせん）",
+        "infoBlockLabel": "西山温泉の情報",
+        "infoBlockText": "所在地：山梨県南巨摩郡早川町西山温泉泉温：41～52℃源泉：8湯量：約2000リットル／分飲用：可泉質：ナトリウム・カルシウム-硫酸塩・塩化物泉、ナトリウム-硫酸塩・塩化物泉など効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、打ち身、胃腸病、高血圧症、動脈硬化症、切り傷、やけど、慢性皮ふ病、糖尿病、痔疾、慢性婦人病、美肌など宿泊施設数：2アクセス：（公共交通）ＪＲ身延駅、または下部温泉駅から早川町乗合バス奈良田温泉行きで1時間～1時間30分、バス停：湯島の湯、西山温泉下車（車）中央道甲府南ICから国道358号・139号・300号経由78km。または中部横断道増穂ICから国道52号、県道37号で34km",
+        "sectionLevel": "h3",
+        "sectionTitle": "下部温泉"
+      },
+      {
+        "cTA1": {
+          "label": "川浦温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1920503/",
+          "linkType": "URL"
+        },
+        "description": "川浦温泉は、笛吹川上流の渓谷に湧く武田信玄ゆかりの温泉です。一軒宿である「川浦温泉山県館」は、戦国時代から信玄公の隠し湯として知られ、豊富な湯量を誇ります。大浴場「せせらぎ之湯」は、笛吹川渓谷と甲州の山々を一望できる内湯。露天風呂「美肌之湯」や日本庭園に面した「薬師之湯」、渓流に面する「信玄公岩風呂・渓流雅之湯」など、多彩な湯船で湯めぐりが楽しめます。有料貸切風呂や露天風呂付き客室もあり、加温加水なしの源泉100％かけ流しの名湯を堪能できます。武田二十四将重臣の子孫が館主を務めるこの宿で、歴史を感じながら贅沢な温泉体験をしてみてください。",
+        "image": {
+          "alternateText": "川浦温泉",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/K1O9JdPMd5kr8k4IV3NQz2rkMvoXoy86hd_hL8Z6koM/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/K1O9JdPMd5kr8k4IV3NQz2rkMvoXoy86hd_hL8Z6koM/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/K1O9JdPMd5kr8k4IV3NQz2rkMvoXoy86hd_hL8Z6koM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/K1O9JdPMd5kr8k4IV3NQz2rkMvoXoy86hd_hL8Z6koM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/K1O9JdPMd5kr8k4IV3NQz2rkMvoXoy86hd_hL8Z6koM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/K1O9JdPMd5kr8k4IV3NQz2rkMvoXoy86hd_hL8Z6koM/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "川浦温泉（かわうらおんせん）",
+        "infoBlockLabel": "川浦温泉の情報",
+        "infoBlockText": "所在地：山梨県山梨市三富川浦泉温：41.2、43.2℃源泉：2湯量：1250リットル／分飲用：可泉質：アルカリ性単純温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、打ち身、慢性消化器病、痔疾など宿泊施設数：1アクセス：（公共交通）ＪＲ山梨市駅から山梨市営バス西沢渓谷行きで50分、バス停：川浦温泉前下車（車）中央道勝沼ICから国道20号・411号、県道38号、国道140号経由21km",
+        "sectionLevel": "h3",
+        "sectionTitle": "西山温泉"
+      },
+      {
+        "cTA1": {
+          "label": "春日居温泉郷の宿を見る",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1921104/",
+          "linkType": "URL"
+        },
+        "description": "春日居温泉郷は豊かな自然に囲まれた温泉地で、特に桃の生産地として知られています。春には一面に広がる桃の花が人気で、夏から秋にかけては桃やブドウ狩りを楽しめますよ。JR中央本線春日居町駅からアクセスしやすく、散策しながら温泉地へ向かうのもおすすめ。駅周辺には地元の新鮮な農産物を販売する直売所があり、地元の味を堪能できるのも魅力です。リゾートホテルから旅館、民宿まで、さまざまな宿泊施設があり、アットホームな雰囲気の中で温泉を満喫できますよ。",
+        "image": {
+          "alternateText": "春日居温泉郷",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/DDpg2-qskLYkcH3o4hvXLUBPpeLiA2JlJVdK0cxqFVs/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/DDpg2-qskLYkcH3o4hvXLUBPpeLiA2JlJVdK0cxqFVs/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/DDpg2-qskLYkcH3o4hvXLUBPpeLiA2JlJVdK0cxqFVs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/DDpg2-qskLYkcH3o4hvXLUBPpeLiA2JlJVdK0cxqFVs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/DDpg2-qskLYkcH3o4hvXLUBPpeLiA2JlJVdK0cxqFVs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DDpg2-qskLYkcH3o4hvXLUBPpeLiA2JlJVdK0cxqFVs/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "春日居温泉郷（かすがいおんせんきょう）",
+        "infoBlockLabel": "春日居温泉郷の情報",
+        "infoBlockText": "所在地：山梨県笛吹市春日居町泉温：42℃など源泉：3湯量：630リットル／分飲用：不可泉質：アルカリ性単純温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、五十肩、打ち身、慢性消化器病、痔疾、美肌など宿泊施設数：10アクセス：（公共交通）ＪＲ春日居町駅下車（車）中央道一宮御坂ICから国道137号、県道312号経由4km",
+        "sectionLevel": "h3",
+        "sectionTitle": "川浦温泉"
+      },
+      {
+        "cTA1": {
+          "label": "笛吹温泉郷の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/190203/",
+          "linkType": "OTHER"
+        },
+        "description": "笛吹川の清流に沿って温泉宿が点在している笛吹温泉郷。この地域は果樹園が広がる農業地帯としても知られ、特にブドウや桃などのフルーツ狩りで賑わっています。温泉郷自体は静かな山間に位置し、穏やかでゆったりとした時間を過ごせるのが魅力。源泉は肌に優しいアルカリ性の泉質で、疲労回復や美肌効果が期待できると言われています。都会の喧騒を離れ、自然の中でゆったりと温泉を楽しみたい方におすすめの温泉郷です。",
+        "image": {
+          "alternateText": "湯村温泉",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/aDXilj8GlzqLy2EambmU8p9ziHhgUqfET1tom1wLhLM/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/aDXilj8GlzqLy2EambmU8p9ziHhgUqfET1tom1wLhLM/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/aDXilj8GlzqLy2EambmU8p9ziHhgUqfET1tom1wLhLM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/aDXilj8GlzqLy2EambmU8p9ziHhgUqfET1tom1wLhLM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/aDXilj8GlzqLy2EambmU8p9ziHhgUqfET1tom1wLhLM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aDXilj8GlzqLy2EambmU8p9ziHhgUqfET1tom1wLhLM/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "信玄の湯 湯村温泉（しんげんのゆ ゆむらおんせん）",
+        "infoBlockLabel": "湯村温泉の情報",
+        "infoBlockText": "所在地：山梨県甲府市湯村泉温：40～46℃源泉：8湯量：830リットル／分飲用：一部可泉質：ナトリウム・カルシウム-塩化物泉・硫酸塩泉など効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、打ち身、慢性消化器病、動脈硬化症、切り傷、やけど、慢性皮ふ病、慢性婦人病、痔疾など宿泊施設数：10アクセス：（公共交通）ＪＲ甲府駅から山梨交通バス敷島・昇仙峡行きで15分、バス停：湯村温泉入口下車（車）中央道甲府昭和ICから県道5号・7号・6号経由5km",
+        "sectionLevel": "h3",
+        "sectionTitle": "春日居温泉郷"
+      },
+      {
+        "cTA1": {
+          "label": "湯村温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1920103/",
+          "linkType": "URL"
+        },
+        "description": "湯村温泉は、JR甲府駅から北西に約4km、昇仙峡へと続く道中の湯村山麓に位置する、歴史ある名湯です。大同3年（808年）に弘法大師によって開湯されたとされ、戦国時代には武田信玄が負傷した兵を治療させたという伝承も残っています。温泉街には、大型リゾートホテルから老舗の高級旅館、気軽に利用できるB\u0026Bタイプの宿泊施設まで、多様な選択肢が揃っていますよ。他の宿の風呂にも500円で入浴できる湯巡り手形が宿泊客向けに発行されており、温泉好きにはたまらない魅力が満載です。",
+        "image": {
+          "alternateText": "塩山温泉郷",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/hxOYUQRYfnovSSLGLA0WzKAe6XRO4dcBMcySyaTNwBY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/hxOYUQRYfnovSSLGLA0WzKAe6XRO4dcBMcySyaTNwBY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/hxOYUQRYfnovSSLGLA0WzKAe6XRO4dcBMcySyaTNwBY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/hxOYUQRYfnovSSLGLA0WzKAe6XRO4dcBMcySyaTNwBY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/hxOYUQRYfnovSSLGLA0WzKAe6XRO4dcBMcySyaTNwBY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hxOYUQRYfnovSSLGLA0WzKAe6XRO4dcBMcySyaTNwBY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "塩山温泉郷（えんざんおんせんきょう）",
+        "infoBlockLabel": "塩山温泉郷の情報",
+        "infoBlockText": "所在地：山梨県甲州市塩山上於曽泉温：27℃源泉：1湯量：200リットル／分飲用：不可泉質：単純温泉効能：神経痛、筋肉痛、関節痛、疲労回復、冷え性、慢性消化器病、貧血、皮ふ病、切り傷、糖尿病、婦人病、痔疾、美肌など宿泊施設数：5アクセス：（公共交通）ＪＲ塩山駅から徒歩10～15分（車）中央道勝沼ICから国道20号・411号経由8km",
+        "sectionLevel": "h3",
+        "sectionTitle": "笛吹温泉郷"
+      },
+      {
+        "cTA1": {
+          "label": "甲州市の温泉宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/19213/feature/onsn_pre/",
+          "linkType": "URL"
+        },
+        "description": "塩山温泉郷は塩ノ山南麓から湧き出る温泉。JR中央本線塩山駅周辺に約5軒の宿泊施設が点在しています。開湯は650年前に遡るほどの長い歴史が特徴。平安時代の「古今和歌集」に「志ほの山」と詠まれたことから、宮廷歌人にも憧れられた地として知られています。名刹・恵林寺への参詣や大菩薩トレッキング、周辺でのフルーツ狩りなど、アクティビティが充実しているので、観光の拠点にもぴったりです。",
+        "image": {
+          "alternateText": "増富温泉",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/gPDveOYYeKf4dZk-2XoL7oW3NPhnSOwuQzx3TKDhOuo/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/gPDveOYYeKf4dZk-2XoL7oW3NPhnSOwuQzx3TKDhOuo/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/gPDveOYYeKf4dZk-2XoL7oW3NPhnSOwuQzx3TKDhOuo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/gPDveOYYeKf4dZk-2XoL7oW3NPhnSOwuQzx3TKDhOuo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/gPDveOYYeKf4dZk-2XoL7oW3NPhnSOwuQzx3TKDhOuo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gPDveOYYeKf4dZk-2XoL7oW3NPhnSOwuQzx3TKDhOuo/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "増富温泉（ますとみおんせん）",
+        "infoBlockLabel": "増富温泉の情報",
+        "infoBlockText": "所在地：山梨県北杜市須玉町泉温：25～35℃源泉：約10湯量：不明飲用：一部可泉質：ラジウム泉、含二酸化炭素-ナトリウム-塩化物・炭酸水素塩泉など効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、打ち身、慢性消化器病、切り傷、やけど、慢性皮ふ病、動脈硬化症、糖尿病、肝臓病、痔疾、慢性婦人病など宿泊施設数：7アクセス：（公共交通）ＪＲ韮崎駅から山梨交通バス増富温泉行きで1時間、バス停：終点下車（車）中央道須玉ICから国道141号、県道601号・23号経由18km",
+        "sectionLevel": "h3",
+        "sectionTitle": "湯村温泉"
+      },
+      {
+        "cTA1": {
+          "label": "増富温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/190705/",
+          "linkType": "OTHER"
+        },
+        "description": "増富温泉は、山梨県と長野県の県境に近い場所に湧出する、効能豊かなラジウム泉が自慢の国民保養温泉地です。武田信玄の隠し湯としても知られ、秩父多摩甲斐国立公園の西端に位置しています。ラジウム成分を多く含むのが特徴で、秋田の玉川温泉、鳥取の三朝温泉と並ぶ日本三大ラジウム泉の一つとして名高く、健康増進や疲労回復に効果があるとされています。日帰り入浴施設「増富の湯」もあり、気軽に名湯を楽しめるのも嬉しいポイントです。",
+        "image": {
+          "alternateText": "富士・山中湖",
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/oHQNYTrq_cEKvOBsxGSGk-lGfQuIKOJoOvCZRGDzx3o/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/oHQNYTrq_cEKvOBsxGSGk-lGfQuIKOJoOvCZRGDzx3o/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/oHQNYTrq_cEKvOBsxGSGk-lGfQuIKOJoOvCZRGDzx3o/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/oHQNYTrq_cEKvOBsxGSGk-lGfQuIKOJoOvCZRGDzx3o/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/oHQNYTrq_cEKvOBsxGSGk-lGfQuIKOJoOvCZRGDzx3o/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oHQNYTrq_cEKvOBsxGSGk-lGfQuIKOJoOvCZRGDzx3o/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "富士・山中湖の温泉（ふじ・やまなかこのおんせん）",
+        "infoBlockLabel": "富士・山中湖の温泉情報",
+        "infoBlockText": "所在地：山梨県南都留郡山中湖村泉温：26.1℃(紅富士の湯)、29.2℃(石割の湯)源泉：2(紅富士の湯),1(石割の湯)湯量：433リットル／分、150リットル／分「紅富士の湯」、61.3リットル／分、「石割の湯」飲用：どちらも不可泉質：アルカリ性単純温泉など効能：神経痛、筋肉痛、関節痛、疲労回復、五十肩、冷え性、打ち身、慢性消化器病、痔疾など宿泊施設数：0アクセス：（公共交通）富士急行富士山駅から富士急山梨バス山中湖方面行きで30分、バス停：旭日丘などで下車(紅富士の湯)。またはバス停：石割の湯下車(石割の湯)（車）東富士五湖道路山中湖ICから国道138号・413号経由5km(紅富士の湯)、または10km(石割の湯)",
+        "sectionLevel": "h3",
+        "sectionTitle": "塩山温泉郷"
+      },
+      {
+        "cTA1": {
+          "label": "富士吉田市の温泉宿を見る",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/190303/feature/k_onsen/",
+          "linkType": "OTHER"
+        },
+        "description": "富士吉田市は世界遺産である富士山の麓に位置し、壮大な景色を見ながら温泉を満喫できる人気のエリアです。富士山の水を源とする温泉は、豊富な湯量と良質な泉質で知られています。温泉地には富士山を望む露天風呂を備えた宿泊施設が多く、泉質はもちろん、視覚でも楽しめますよ。富士登山の拠点としても利用されることが多く、登山前後の疲れを癒すのにぴったり。四季折々の富士山の景色と共に、温泉でのんびりとした時間を過ごしてみてくださいね。",
+        "sectionLevel": "h3",
+        "sectionTitle": "増富温泉"
+      },
+      {
+        "cTA1": {
+          "label": "甲斐大泉の温泉宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/190702/feature/k_onsen/",
+          "linkType": "OTHER"
+        },
+        "description": "八ヶ岳南麓の標高約1000mに位置する甲斐大泉温泉は、白樺やカラマツ林に囲まれた高原リゾートの静けさを楽しめる温泉地。JR小海線「甲斐大泉駅」近くにあり、日帰り入浴施設やホテルが点在しています。特に「パノラマの湯」は富士山を望む露天風呂があり、足湯も無料で利用可能。宿泊は「いずみ荘」や「大泉高原八ヶ岳ロイヤルホテル」があり、どちらも温泉を満喫できます。周辺には自然スポットが豊富で、避暑やスキーなど四季折々の楽しみがありますよ。森林浴やドライブの後には、温泉でのんびりとした時間を過ごせる、癒しのリゾート地です。",
+        "sectionLevel": "h2",
+        "sectionTitle": "山梨で温泉旅館・温泉付きホテルが人気のエリア5選"
+      },
+      {
+        "cTA1": {
+          "label": "富士・山中湖の温泉宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/190301/feature/k_onsen/",
+          "linkType": "URL"
+        },
+        "description": "富士五湖の中でも最大の山中湖畔に湧く温泉は、自然に囲まれた癒しスポット。1996年に開設された村営の日帰り温泉施設「山中湖平野温泉 石割の湯」を皮切りに、1998年には「山中湖温泉 紅富士の湯」もオープンしました。現在は運び湯を行う旅館や湖畔のホテルが増え、高原リゾートとしても人気を集めています。アルカリ性単純温泉の湯はクセがなく、肌に優しい柔らかな感触が特徴。標高1000mに位置する山中湖は富士山に近く、絶景を楽しめるハイキングコースや湖畔のサイクリングロードが人気です。年間を通して白鳥が見られる湖でのウォータースポーツなど、温泉だけでなく豊かな自然を活かしたアクティビティも魅力の一つです。",
+        "sectionLevel": "h3",
+        "sectionTitle": "富士吉田市の温泉"
+      },
+      {
+        "cTA1": {
+          "label": "清泉寮・美し森の温泉宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/1920911/feature/k_onsen/",
+          "linkType": "OTHER"
+        },
+        "description": "清泉寮・美し森エリアは、標高1542mの小高い丘に位置し、八ヶ岳の主峰赤岳や富士山、南アルプスを一望できる絶景が魅力。山上には展望台があり、雄大な自然を背景にした高原リゾートの魅力を堪能できます。周辺は高山植物の群生地としても有名で、6月上旬にはレンゲツツジやヤマツツジの花が咲き誇ります。清泉寮ではジャージー牛の牧場をはじめ、宿泊施設やレストラン、ショップが点在しており、高原の眺望とグルメを楽しめるのもポイントです。このエリアを代表する温泉宿「清里高原ホテル」は、樹齢250年の秋田杉の矢倉と総檜造りの露天風呂に入れます。頭上には満点の星空が広がり、贅沢なひとときを過ごせますよ。",
+        "sectionLevel": "h3",
+        "sectionTitle": "甲斐大泉の温泉"
+      },
+      {
+        "cTA1": {
+          "label": "甲州市の温泉宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/19213/feature/k_onsen/",
+          "linkType": "OTHER"
+        },
+        "description": "甲州市は、多様な天然温泉が湧出しているエリアです。泉質やお湯の温度がそれぞれ異なるため、自分好みの温泉を見つける楽しみがありますよ。湯船からは、山梨県特有の自然豊かな絶景を眺めることができ、日常を忘れさせてくれるような癒しの時間を楽しめます。地元の人々はもちろん、県外からの観光客にも愛されており、日頃の疲れを癒す場所としてだけでなく、人々が集いコミュニケーションを楽しむ場としても活用されていますよ。",
+        "sectionLevel": "h3",
+        "sectionTitle": "富士・山中湖の温泉"
+      },
+      {
+        "description": "\u003cp\u003e山梨県の温泉を探す\u003c/p\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/190201/\" style\u003d\"text-decoration: underline;\"\u003e石和温泉の宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1920103/\" style\u003d\"text-decoration: underline;\"\u003e湯村温泉の宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1943005/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e富士の温泉宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/19201/\" style\u003d\"text-decoration: underline;\"\u003e甲府温泉の宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1943005/\" style\u003d\"text-decoration: underline;\"\u003e河口湖温泉郷の宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/190301/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e山中湖の温泉宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/190403/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e大月の温泉宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1901/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e昇仙峡の温泉宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1921101/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e笛吹温泉郷の宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/190305/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e西湖の温泉宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/190704/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e清里の温泉宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/190701/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e小淵沢の温泉宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/190202/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e勝沼の温泉宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1936601/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e南部町の温泉宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1943008/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e精進湖の温泉宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/19364/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e早川町の温泉宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/190303/feature/k_onsen/\" style\u003d\"text-decoration: underline;\"\u003e富士吉田の温泉宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/190503/\" style\u003d\"text-decoration: underline;\"\u003e下部温泉温泉の宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1936402/\" style\u003d\"text-decoration: underline;\"\u003e西山温泉温泉の宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1920503/\" style\u003d\"text-decoration: underline;\"\u003e川浦温泉温泉の宿\u003c/a\u003e \u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/list/1920503/\" style\u003d\"text-decoration: underline;\"\u003e春日井温泉郷温泉の宿\u003c/a\u003e----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "sectionLevel": "h3",
+        "sectionTitle": "清泉寮・美し森の温泉"
+      },
+      {
+        "sectionLevel": "h3",
+        "sectionTitle": "甲州市"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_y_hotate510_001",
+      "news_ap_chiki_100003",
+      "news_ap_chiki_100014",
+      "news_ap_chiki_100024"
+    ],
+    "c_news_FeaturedArticlesTitle": "山梨県のその他の記事",
+    "c_news_PublicationDate": "2022-07-29",
+    "c_news_UpdateDate": "2024-10-07",
+    "c_news_ViewCount": "3183",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "3183",
+    "c_news_ViewCountNum": "3183",
+    "c_news_ViewCountNumForSorting": "177",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/koshinetsu/yamanashi/news_ap_y_ishihara225_004",
+    "name": "山梨県の人気温泉地 おすすめ15選",
+    "slug": "kokunai/koshinetsu/yamanashi/news_ap_y_ishihara225_004",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "温泉地"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "$id": "news_pa_beach_resort",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kaigai",
+      "test_kaigai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "ビーチリゾート",
+      "link": "https://www.jtb.co.jp/news/list/kaigai/beach_resort",
+      "linkType": "URL"
+    },
+    "c_news_PopularAreasImage": {
+      "alternateText": "ビーチリゾート",
+      "height": 327,
+      "sourceUrl": "https://a.mktgcdn.com/p/GOZmuoXIGCIYoblwHAOnqQ2bZJaajz7iGgiLsBhaUIE/500x327.jpg",
+      "thumbnails": [
+        {
+          "height": 327,
+          "url": "https://a.mktgcdn.com/p-sandbox/GOZmuoXIGCIYoblwHAOnqQ2bZJaajz7iGgiLsBhaUIE/500x327.jpg",
+          "width": 500
+        },
+        {
+          "height": 128,
+          "url": "https://a.mktgcdn.com/p-sandbox/GOZmuoXIGCIYoblwHAOnqQ2bZJaajz7iGgiLsBhaUIE/196x128.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/GOZmuoXIGCIYoblwHAOnqQ2bZJaajz7iGgiLsBhaUIE/500x327.jpg",
+      "width": 500
+    },
+    "name": "ビーチリゾート"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

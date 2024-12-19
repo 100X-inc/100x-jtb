@@ -1,0 +1,72 @@
+{
+  "$id": "cp_21164008",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "大阪府",
+    "c_cp_CTA1": {
+      "label": "宮崎の来店予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVlkBG",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBVxq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "一人旅から記念の旅行、グループ旅行など、一人一人にご希望に寄り添った接客を心がけています。何なりとお気軽にご相談くださいませ。",
+    "c_cp_DisplayName": "宮崎",
+    "c_cp_FieldOfExpertise": [
+      "一人旅",
+      "スポーツ観戦"
+    ],
+    "c_cp_HiraganaName": "みやざき",
+    "c_cp_JobTitle": "JTBイオンモ－ル堺北花田店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 530,
+      "sourceUrl": "https://a.mktgcdn.com/p/tZk2IiaTlCEQ0NgRaT7ZGYwmOSjZt9w5GJK8f5TY2Mk/475x530.jpg",
+      "thumbnails": [
+        {
+          "height": 530,
+          "url": "https://a.mktgcdn.com/p-sandbox/cLSW04UKIVXREZixBqz4JUKrzSNUCWmmkoQiqEfl-4k/475x530.jpg",
+          "width": 475
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/cLSW04UKIVXREZixBqz4JUKrzSNUCWmmkoQiqEfl-4k/403x450.jpg",
+          "width": 403
+        },
+        {
+          "height": 219,
+          "url": "https://a.mktgcdn.com/p-sandbox/cLSW04UKIVXREZixBqz4JUKrzSNUCWmmkoQiqEfl-4k/196x219.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/cLSW04UKIVXREZixBqz4JUKrzSNUCWmmkoQiqEfl-4k/475x530.jpg",
+      "width": 475
+    },
+    "c_cp_StrongAbroadArea4": [
+      "韓国"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "ハワイスペシャリスト上級"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 宮崎",
+    "c_metaTitle": "JTBトラベルコンサルタント | 宮崎",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21164008",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10331_イオンモール堺北花田店",
+    "name": "みやざき_21164008",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-349",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/349_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d24.3554%2C124.039393",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "沖縄県",
+    "c_searchTags": [
+      "沖縄県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "夏",
+      "海・湖・川・滝"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "どこまでも広がる青い空と海のはざまで過ごす、特別な時間。波間に時々姿を見せる「幻の島」に足を踏み入れることができるのは、潮の満ち引きの条件が揃った時だけです。海面から顔をのぞかせる白いビーチには、浅瀬に停泊した船から直接海にダイブし、透明感あふれるエメラルドグリーンの海をそのまま歩いて上陸します。「幻の島」のビーチには、桟橋などの人工物はもちろん、木々も岩もありません。視界を遮るものが一切なく、見渡す限り視界に映るのは、空と海だけという贅沢な空間。透明度の高い水底にはビーチと同じ白い砂が広がっており、心地よい感触が楽しめます。一度訪れたら決して忘れられない、空と海の青さ。ぜひこの絶景を、全身で体感してみてください。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/349.asp",
+    "name": "“海に浮かぶビーチ”一生に一度は訪れたい「幻の島」"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

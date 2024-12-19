@@ -1,0 +1,197 @@
+{
+  "$id": "EKI0396",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja_JP",
+  "content": {
+    "address": {
+      "city": "Osaka-shi",
+      "countryCode": "JP",
+      "line1": "OCAT Building 2F 1-4-1 Minatomachi",
+      "postalCode": "556-0022",
+      "region": "Osaka",
+      "sublocality": "Naniwa-ku"
+    },
+    "appleCompanyId": "1480313529409856512",
+    "c_1MenuLabel": "LFT Official Page",
+    "c_1MenuURL": "https://www.luggage-free-travel.com/travel/index.php",
+    "c_2MenuLabel": "Same-day Delivery Information",
+    "c_2MenuURL": "https://www.luggage-free-travel.com/5-1.html",
+    "c_3MenuLabel": "Frequently Asked Questions",
+    "c_3MenuURL": "https://faq.luggage-free-travel.com/allfaq",
+    "c_about_Section_Sub_font_color": "#740a0b",
+    "c_about_Section_Title_font_color": "#740a0b",
+    "c_about_Section_background": "#f3eee8",
+    "c_cTA1URL": "https://www.luggage-free-travel.com/travel/index.php",
+    "c_cTA1ラベル": "Book Online",
+    "c_cTA2ラベル": "TEL",
+    "c_cTA3URL": "https://www.luggage-free-travel.com/about.html",
+    "c_cTA3ラベル": "What\u0027s LFT?",
+    "c_cTA5URL": "[[c_pagesURL]]",
+    "c_cTA_Main_background": "#e2b343",
+    "c_cTA_Main_border": "#e2b343",
+    "c_cTA_Main_font_color": "#740a0b",
+    "c_cTA_Main_hover_background": "#e2b343",
+    "c_cTA_Main_hover_font_color": "#740a0b",
+    "c_cTA_Sub_background": "#f3eee8",
+    "c_cTA_Sub_border": "#e2b343",
+    "c_cTA_Sub_font_color": "#740a0b",
+    "c_cTA_Sub_hover_background": "#f3eee8",
+    "c_cTA_Sub_hover_font_color": "#740a0b",
+    "c_footer_Section_background": "#f3eee8",
+    "c_mobile_Menu_background": "#f3eee8",
+    "c_nAP_Section_Sub_font_color": "#740a0b",
+    "c_nearby_Section_Title_font_color": "#740a0b",
+    "c_nearby_Section_background": "#f3eee8",
+    "c_pagesSortGroup": "X",
+    "c_pagesURL": "https://locations.luggage-free-travel.com/EKI0396",
+    "c_plusJTBTitle": "[[c_lFT_外部リンクタイトル]]",
+    "c_plusJTBリンク1URL": "[[c_lFT_外部リンク1URL]]",
+    "c_plusJTBリンク1ラベル": "[[c_lFT_外部リンク1タイトル]]",
+    "c_plusJTBリンク2URL": "[[c_lFT_外部リンク2URL]]",
+    "c_plusJTBリンク2ラベル": "[[c_lFT_外部リンク2タイトル]]",
+    "c_plusJTBリンク3URL": "[[c_lFT_外部リンク3URL]]",
+    "c_plusJTBリンク3ラベル": "[[c_lFT_外部リンク3タイトル]]",
+    "c_promo1_Section_Title_font_color": "#740a0b",
+    "c_promo1_Section_background": "#f3eee8",
+    "c_promo2_Section_Title_font_color": "#740a0b",
+    "c_promo2_Section_background": "#ffffff",
+    "c_wed_Menu_background": "#e2b343",
+    "c_wed_Menu_border": "#e2b343",
+    "c_wed_Menu_font_color": "#740a0b",
+    "c_wed_Menu_font_color_on_light": "#740a0b",
+    "c_wed_Menu_light_background": "#f3eee8",
+    "c_店舗MetaDescription": "LFT is your personal baggage concierge as you tour Japan. See the details of delivery location here.",
+    "c_店舗MetaTitle": "[[name]] | LFT",
+    "c_店舗ページ生成": false,
+    "c_店舗営業時間追記0": "[[c_lFT_施設タイプ]]",
+    "c_店舗営業時間追記1": "Last reception time for Drop-off: 5:00PM",
+    "closed": true,
+    "description": "Same-day Delivery Area:  \n    Osaka, Kyoto, Hyogo, Nara, Shiga, Hyogo（Excluding some areas）\n\nDeadline for Same-day delivery\u0027s drop-off: 9:00AMー10:00AM\n\nSame-day delivery\u0027s Earliest pickup time: 6:00PMー9:00PM",
+    "keywords": [
+      "luggage delivery",
+      "baggage delivery",
+      "LUGGAGE-FREE TRAVEL",
+      "LFT"
+    ],
+    "mainPhone": "+81368315692",
+    "name": "Yamato Transport Kuroneko Yamato OCAT Center (JR Namba Station)",
+    "services": [
+      "luggage delivery",
+      "baggage delivery",
+      "LUGGAGE-FREE TRAVEL",
+      "LFT"
+    ],
+    "slug": "[[entityId]]",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "location",
+  "folder": "298832",
+  "labels": [
+    "label3ライセンスなし"
+  ],
+  "alternateProfiles": [
+    {
+      "locale": "ja",
+      "content": {
+        "address": {
+          "city": "大阪市",
+          "countryCode": "JP",
+          "line1": "湊町1-4-1 OCATビル2階",
+          "postalCode": "556-0022",
+          "region": "大阪府",
+          "sublocality": "浪速区"
+        },
+        "c_cTA1ラベル": "オンライン予約",
+        "c_cTA3URL": "https://www.luggage-free-travel.com/jp/about.html",
+        "c_cTA3ラベル": "LFT とは？",
+        "c_店舗MetaDescription": "LFTは、日本を周遊する旅に最適な荷物のコンシェルジェサービス。配送可能エリアはこちら。",
+        "c_店舗営業時間追記1": "配送の最終受付時間: 5:00PM",
+        "description": "当日配送エリア:  \n    Osaka, Kyoto, Hyogo, Nara, Shiga, Hyogo（Excluding some areas）\n\n当日配送受付締切時間: 9:00AMー10:00AM\n\n当日配送最短お渡し時間: 6:00PMー9:00PM",
+        "keywords": [
+          "荷物配送サービス",
+          "ラゲージフリートラベル",
+          "LFT"
+        ],
+        "name": "ヤマト運輸　クロネコヤマトOCATセンター　（JR難波駅）"
+      }
+    },
+    {
+      "locale": "ko",
+      "content": {
+        "address": {
+          "city": "오사카시",
+          "countryCode": "JP",
+          "line1": "나니와구 미나토 마치 1-4-1 OCAT 빌딩 2 층",
+          "postalCode": "556-0022",
+          "region": "오사카부",
+          "sublocality": "나니와 구"
+        },
+        "c_cTA1ラベル": "온라인 예약",
+        "c_cTA3URL": "https://www.luggage-free-travel.com/kr/about.html",
+        "c_cTA3ラベル": "LFT는 무엇입니까?",
+        "c_店舗MetaDescription": "LUGGAGE-FREE TRAVEL은 일본 관광여행 시 편리하고 쾌적한 수하물 컨시어지 서비스. 배송 위치에 대한 자세한 내용은 여기를 참조하십시오.",
+        "c_店舗MetaTitle": "[[name]] | LFT",
+        "c_店舗営業時間追記1": "배송 최종 접수 시간: 5:00PM",
+        "description": "당일 배송 지역:  \n    Osaka, Kyoto, Hyogo, Nara, Shiga, Hyogo（Excluding some areas）\n\n당일 배송 접수 마감 시간: 9:00AMー10:00AM\n\n당일 배송 최단 전달 시간: 6:00PMー9:00PM",
+        "keywords": [
+          "수하물 배달",
+          "LUGGAGE-FREE TRAVEL",
+          "LFT"
+        ],
+        "name": "야마토 운수 야마토 OCAT 센터 (JR 난바역)"
+      }
+    },
+    {
+      "locale": "zh_Hans",
+      "content": {
+        "address": {
+          "city": "大阪市",
+          "countryCode": "JP",
+          "line1": "凑町1-4-1 OCAT大厦2F",
+          "postalCode": "556-0022",
+          "region": "大阪府",
+          "sublocality": "浪速区"
+        },
+        "c_cTA1ラベル": "网上预定",
+        "c_cTA3URL": "https://www.luggage-free-travel.com/sc/about.html",
+        "c_cTA3ラベル": "什么是LFT？",
+        "c_店舗MetaDescription": "LUGGAGE-FREE TRAVEL是环游日本之旅最佳的行李礼宾服务。在此处查看交货地点的详细信息。",
+        "c_店舗MetaTitle": "[[name]] | LFT",
+        "c_店舗営業時間追記1": "最后交货时间: 5:00PM",
+        "description": "当天送达区:  \n    Osaka, Kyoto, Hyogo, Nara, Shiga, Hyogo（Excluding some areas）\n\n接待截止日期: 9:00AMー10:00AM\n\n最短交貨時間: 6:00PMー9:00PM",
+        "keywords": [
+          "行李运送",
+          "LUGGAGE-FREE TRAVEL",
+          "LFT"
+        ],
+        "name": "雅玛多运输 Kuroneko雅玛多OCAT中心 (JR 难波站)"
+      }
+    },
+    {
+      "locale": "zh_Hant",
+      "content": {
+        "address": {
+          "city": "大阪市",
+          "countryCode": "JP",
+          "line1": "湊町1-4-1 OCAT大樓2階",
+          "postalCode": "556-0022",
+          "region": "大阪府",
+          "sublocality": "浪速區"
+        },
+        "c_cTA1ラベル": "網上預定",
+        "c_cTA3URL": "https://www.luggage-free-travel.com/tc/about.html",
+        "c_cTA3ラベル": "什麼是LFT？",
+        "c_店舗MetaDescription": "LUGGAGE-FREE TRAVEL是周遊日本最佳的行李管理服務。在此處查看交貨地點的詳細信息。",
+        "c_店舗MetaTitle": "[[name]] | LFT",
+        "c_店舗営業時間追記1": "最後交貨時間: 5:00PM",
+        "description": "當天送達區:  \n    Osaka, Kyoto, Hyogo, Nara, Shiga, Hyogo（Excluding some areas）\n\n當天交貨受理截止: 9:00AMー10:00AM\n\n當天交貨最短交貨時間: 6:00PMー9:00PM",
+        "keywords": [
+          "行李運送",
+          "LUGGAGE-FREE TRAVEL",
+          "LFT"
+        ],
+        "name": "雅瑪多運輸 Kuroneko雅瑪多OCAT中心 (JR 難波站)"
+      }
+    }
+  ]
+}

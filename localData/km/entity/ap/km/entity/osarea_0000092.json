@@ -1,0 +1,488 @@
+{
+  "$id": "ap_osarea_0000092",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 加川香菜子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "OTHER"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "OTHER"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "「マイ・カップ・オブ・ラブ」は見ているだけで楽しい、カラフルでポップなデザインが人気の雑貨店。ユニコーンのキーホルダーや、蝶々のフリンジがキュートな小物入れなど、お店に入った瞬間、思わずかわいい！と声が出てしまうアイテムがたくさん揃う空間です。人気商品は、つけると願いが叶うといわれている手作りのブレスレット。カラーは3色あって、チャームの種類も様々です。色やテーマごとに効果が異なるので、今の自分の気分にぴったりのブレスレットを選んでみてください！",
+        "image": {
+          "height": 4387,
+          "sourceUrl": "https://a.mktgcdn.com/p/H5sokbdKyroZIE6-w39LtGIh0B44LlV5aBR6wg5gjos/4000x4387.jpg",
+          "thumbnails": [
+            {
+              "height": 4387,
+              "url": "https://a.mktgcdn.com/p-sandbox/dTMsBmW9gGSEkikVS5IdyXTXF8fhAw-CG5gr0MLpLjs/4000x4387.jpg",
+              "width": 4000
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/dTMsBmW9gGSEkikVS5IdyXTXF8fhAw-CG5gr0MLpLjs/1732x1900.jpg",
+              "width": 1732
+            },
+            {
+              "height": 679,
+              "url": "https://a.mktgcdn.com/p-sandbox/dTMsBmW9gGSEkikVS5IdyXTXF8fhAw-CG5gr0MLpLjs/619x679.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dTMsBmW9gGSEkikVS5IdyXTXF8fhAw-CG5gr0MLpLjs/410x450.jpg",
+              "width": 410
+            },
+            {
+              "height": 215,
+              "url": "https://a.mktgcdn.com/p-sandbox/dTMsBmW9gGSEkikVS5IdyXTXF8fhAw-CG5gr0MLpLjs/196x215.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dTMsBmW9gGSEkikVS5IdyXTXF8fhAw-CG5gr0MLpLjs/4000x4387.jpg",
+          "width": 4000
+        },
+        "imageCaption": "ブレスレット3点セットRp.18万",
+        "sectionTitle": "マイ・カップ・オブ・ラブ（My Cup of Love）"
+      },
+      {
+        "description": "DATAMy Cup of Love住所：Jl. Kayu Cendana No.1, Seminyak営業時間：9～21時定休日：なし",
+        "image": {
+          "height": 3744,
+          "sourceUrl": "https://a.mktgcdn.com/p/0BWFZjL_4l8d-2TM8wYshpnA3M1BcF8utIAlcY05i34/5616x3744.jpg",
+          "thumbnails": [
+            {
+              "height": 3744,
+              "url": "https://a.mktgcdn.com/p-sandbox/0BWFZjL_4l8d-2TM8wYshpnA3M1BcF8utIAlcY05i34/5616x3744.jpg",
+              "width": 5616
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/0BWFZjL_4l8d-2TM8wYshpnA3M1BcF8utIAlcY05i34/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/0BWFZjL_4l8d-2TM8wYshpnA3M1BcF8utIAlcY05i34/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/0BWFZjL_4l8d-2TM8wYshpnA3M1BcF8utIAlcY05i34/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/0BWFZjL_4l8d-2TM8wYshpnA3M1BcF8utIAlcY05i34/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0BWFZjL_4l8d-2TM8wYshpnA3M1BcF8utIAlcY05i34/5616x3744.jpg",
+          "width": 5616
+        },
+        "imageCaption": "乙女心をくすぐるアイテムがたくさん",
+        "sectionTitle": "メルクレディ（Mercredi）"
+      },
+      {
+        "description": "「メルクレディ」は、食器やファブリックなど、テーブルウェアを中心にしたインテリアショップ。スミニャックのオベロイ通り交差点近くにある民家風の建物で、ウィンドウ越しにセンス良く配置されたインテリアのディスプレイが目を引きます。店内はテーブルクロスや食器、カトラリーなどインテリアの参考になるアイテムがいっぱい。100％リネンを使用したクッションカバーやラタン（籐）のビーズボックスなど、バリ島らしい素材を活用した、エレガントなアイテムが手に入ります。",
+        "image": {
+          "height": 3672,
+          "sourceUrl": "https://a.mktgcdn.com/p/HZZWxjWZTO_gz5uWs2fPCReuZFJo4n6RM9pTS82LIBQ/6000x3672.jpg",
+          "thumbnails": [
+            {
+              "height": 3672,
+              "url": "https://a.mktgcdn.com/p-sandbox/UQWT5pdZjRZTieJ5UjgbilQpnu1b-oJmVyxu1udhXSk/6000x3672.jpg",
+              "width": 6000
+            },
+            {
+              "height": 1163,
+              "url": "https://a.mktgcdn.com/p-sandbox/UQWT5pdZjRZTieJ5UjgbilQpnu1b-oJmVyxu1udhXSk/1900x1163.jpg",
+              "width": 1900
+            },
+            {
+              "height": 379,
+              "url": "https://a.mktgcdn.com/p-sandbox/UQWT5pdZjRZTieJ5UjgbilQpnu1b-oJmVyxu1udhXSk/619x379.jpg",
+              "width": 619
+            },
+            {
+              "height": 367,
+              "url": "https://a.mktgcdn.com/p-sandbox/UQWT5pdZjRZTieJ5UjgbilQpnu1b-oJmVyxu1udhXSk/600x367.jpg",
+              "width": 600
+            },
+            {
+              "height": 120,
+              "url": "https://a.mktgcdn.com/p-sandbox/UQWT5pdZjRZTieJ5UjgbilQpnu1b-oJmVyxu1udhXSk/196x120.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/UQWT5pdZjRZTieJ5UjgbilQpnu1b-oJmVyxu1udhXSk/6000x3672.jpg",
+          "width": 6000
+        },
+        "imageCaption": "エスニックな虎の柄が目を引くポーチRp.32万",
+        "sectionTitle": "カルガ（Carga）"
+      },
+      {
+        "description": "DATAMercredi住所：Jl. Basankasa, Seminyak営業時間：9～21時定休日：なし",
+        "image": {
+          "height": 4000,
+          "sourceUrl": "https://a.mktgcdn.com/p/6dfKmyoS9Wb6rTmpqcYmYA8Fb5-CeT5l5nO2cKUZDyM/6000x4000.jpg",
+          "thumbnails": [
+            {
+              "height": 4000,
+              "url": "https://a.mktgcdn.com/p-sandbox/6dfKmyoS9Wb6rTmpqcYmYA8Fb5-CeT5l5nO2cKUZDyM/6000x4000.jpg",
+              "width": 6000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/6dfKmyoS9Wb6rTmpqcYmYA8Fb5-CeT5l5nO2cKUZDyM/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/6dfKmyoS9Wb6rTmpqcYmYA8Fb5-CeT5l5nO2cKUZDyM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/6dfKmyoS9Wb6rTmpqcYmYA8Fb5-CeT5l5nO2cKUZDyM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/6dfKmyoS9Wb6rTmpqcYmYA8Fb5-CeT5l5nO2cKUZDyM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6dfKmyoS9Wb6rTmpqcYmYA8Fb5-CeT5l5nO2cKUZDyM/6000x4000.jpg",
+          "width": 6000
+        },
+        "imageCaption": "カラフルなディスプレイは定期的に変わる",
+        "sectionTitle": "バリゼン（Balizen）"
+      },
+      {
+        "description": "「カルガ」は竹や藁など、天然素材をアレンジしたアイテムを取り扱うインテリアショップ。店内には木製の鳥の置物など、エスニックなアジアンテイストの雑貨が揃い、日々の生活を彩ってくれます。茅葺屋根の一軒家で、古民家のような趣のある店はまるでギャラリーのような空間。木造の骨組みに高い天井とバリ島らしい建築で、木製の素朴なインテリアが素敵です。チーク材を使用したテーブルやラタン（籐）製の椅子など、本格的な家具もここで手に入りますよ。",
+        "image": {
+          "height": 2243,
+          "sourceUrl": "https://a.mktgcdn.com/p/y_csvV8sWobsDNp0Fz-b37fXbie_kJVoM_MltsbmFkA/3181x2243.jpg",
+          "thumbnails": [
+            {
+              "height": 2243,
+              "url": "https://a.mktgcdn.com/p-sandbox/y_csvV8sWobsDNp0Fz-b37fXbie_kJVoM_MltsbmFkA/3181x2243.jpg",
+              "width": 3181
+            },
+            {
+              "height": 1340,
+              "url": "https://a.mktgcdn.com/p-sandbox/y_csvV8sWobsDNp0Fz-b37fXbie_kJVoM_MltsbmFkA/1900x1340.jpg",
+              "width": 1900
+            },
+            {
+              "height": 436,
+              "url": "https://a.mktgcdn.com/p-sandbox/y_csvV8sWobsDNp0Fz-b37fXbie_kJVoM_MltsbmFkA/619x436.jpg",
+              "width": 619
+            },
+            {
+              "height": 423,
+              "url": "https://a.mktgcdn.com/p-sandbox/y_csvV8sWobsDNp0Fz-b37fXbie_kJVoM_MltsbmFkA/600x423.jpg",
+              "width": 600
+            },
+            {
+              "height": 138,
+              "url": "https://a.mktgcdn.com/p-sandbox/y_csvV8sWobsDNp0Fz-b37fXbie_kJVoM_MltsbmFkA/196x138.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/y_csvV8sWobsDNp0Fz-b37fXbie_kJVoM_MltsbmFkA/3181x2243.jpg",
+          "width": 3181
+        },
+        "imageCaption": "フラミンゴのクッションカバー Rp.25万",
+        "sectionTitle": "トコ・エンポリウム（Toko Emporium）"
+      },
+      {
+        "description": "DATACarga住所：Jl. Petitenget No.886, Kerobokan営業時間：9～21時定休日：なし",
+        "image": {
+          "height": 2336,
+          "sourceUrl": "https://a.mktgcdn.com/p/51ojESymVaK0h7AVTN_ahKkuMS1URle4iN2p3WLuzPY/3504x2336.jpg",
+          "thumbnails": [
+            {
+              "height": 2336,
+              "url": "https://a.mktgcdn.com/p-sandbox/51ojESymVaK0h7AVTN_ahKkuMS1URle4iN2p3WLuzPY/3504x2336.jpg",
+              "width": 3504
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/51ojESymVaK0h7AVTN_ahKkuMS1URle4iN2p3WLuzPY/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/51ojESymVaK0h7AVTN_ahKkuMS1URle4iN2p3WLuzPY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/51ojESymVaK0h7AVTN_ahKkuMS1URle4iN2p3WLuzPY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/51ojESymVaK0h7AVTN_ahKkuMS1URle4iN2p3WLuzPY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/51ojESymVaK0h7AVTN_ahKkuMS1URle4iN2p3WLuzPY/3504x2336.jpg",
+          "width": 3504
+        },
+        "imageCaption": "温かみのある店内に所せましと雑貨が並ぶ"
+      },
+      {
+        "description": "「バリゼン」は1992年創業のバリ島発ブランド。職人によるハンドメイドだからこそ出せる優しい風合いと、独特なデザインを取り入れたキュートなインテリア雑貨が揃います。カラフルなランチョンマットや、コットン製のエプロンなど、料理好きにはたまらないキッチン雑貨もおすすめです。併設するカフェでは、ジャムをベースにしたオリジナルドリンクが味わえるので、こちらもぜひ立ち寄ってみてください。",
+        "image": {
+          "height": 2541,
+          "sourceUrl": "https://a.mktgcdn.com/p/9cB215tvUbcrParbPestBUXMeVIkAarv_OoNu_7h0u0/4071x2541.jpg",
+          "thumbnails": [
+            {
+              "height": 2541,
+              "url": "https://a.mktgcdn.com/p-sandbox/9cB215tvUbcrParbPestBUXMeVIkAarv_OoNu_7h0u0/4071x2541.jpg",
+              "width": 4071
+            },
+            {
+              "height": 1186,
+              "url": "https://a.mktgcdn.com/p-sandbox/9cB215tvUbcrParbPestBUXMeVIkAarv_OoNu_7h0u0/1900x1186.jpg",
+              "width": 1900
+            },
+            {
+              "height": 386,
+              "url": "https://a.mktgcdn.com/p-sandbox/9cB215tvUbcrParbPestBUXMeVIkAarv_OoNu_7h0u0/619x386.jpg",
+              "width": 619
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/9cB215tvUbcrParbPestBUXMeVIkAarv_OoNu_7h0u0/600x375.jpg",
+              "width": 600
+            },
+            {
+              "height": 122,
+              "url": "https://a.mktgcdn.com/p-sandbox/9cB215tvUbcrParbPestBUXMeVIkAarv_OoNu_7h0u0/196x122.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9cB215tvUbcrParbPestBUXMeVIkAarv_OoNu_7h0u0/4071x2541.jpg",
+          "width": 4071
+        },
+        "imageCaption": "木彫りのブタの置物。各Rp.10万"
+      },
+      {
+        "description": "DATABalizen住所：Jl. Raya Basangkasa No.40, Seminyak営業時間：10～18時定休日：なし",
+        "image": {
+          "height": 3744,
+          "sourceUrl": "https://a.mktgcdn.com/p/-iWLbleMZOs7U3TbqCNDaKGERTJ7hwLwyvoo7SSs2IU/5616x3744.jpg",
+          "thumbnails": [
+            {
+              "height": 3744,
+              "url": "https://a.mktgcdn.com/p-sandbox/-iWLbleMZOs7U3TbqCNDaKGERTJ7hwLwyvoo7SSs2IU/5616x3744.jpg",
+              "width": 5616
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/-iWLbleMZOs7U3TbqCNDaKGERTJ7hwLwyvoo7SSs2IU/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/-iWLbleMZOs7U3TbqCNDaKGERTJ7hwLwyvoo7SSs2IU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/-iWLbleMZOs7U3TbqCNDaKGERTJ7hwLwyvoo7SSs2IU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/-iWLbleMZOs7U3TbqCNDaKGERTJ7hwLwyvoo7SSs2IU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-iWLbleMZOs7U3TbqCNDaKGERTJ7hwLwyvoo7SSs2IU/5616x3744.jpg",
+          "width": 5616
+        },
+        "imageCaption": "広々とした店内にはカラフルな雑貨がずらり"
+      },
+      {
+        "description": "「トコ・エンポリウム」はバリ島を拠点に、アジア各地に展開するセレクトショップ。貝殻などの自然素材を使用した、個性あふれる南国らしいアイテムが揃います。人気商品は、ポンポンバスケット。ポンポンがたくさんついていて、巾着状の内布になっている使い勝手の良いアイテムで、サイズ違いもあります。そのほかにもレースがかわいいランチョンマットや使い勝手の良いフルーツバスケットなど、キッチン雑貨もたくさん揃えることができますよ。",
+        "image": {
+          "height": 4000,
+          "sourceUrl": "https://a.mktgcdn.com/p/hT2Gbn6e-25YGbVyU6IcJeix-LUJ6v0Se3nu2NlrtLg/6000x4000.jpg",
+          "thumbnails": [
+            {
+              "height": 4000,
+              "url": "https://a.mktgcdn.com/p-sandbox/hT2Gbn6e-25YGbVyU6IcJeix-LUJ6v0Se3nu2NlrtLg/6000x4000.jpg",
+              "width": 6000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/hT2Gbn6e-25YGbVyU6IcJeix-LUJ6v0Se3nu2NlrtLg/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/hT2Gbn6e-25YGbVyU6IcJeix-LUJ6v0Se3nu2NlrtLg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/hT2Gbn6e-25YGbVyU6IcJeix-LUJ6v0Se3nu2NlrtLg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/hT2Gbn6e-25YGbVyU6IcJeix-LUJ6v0Se3nu2NlrtLg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hT2Gbn6e-25YGbVyU6IcJeix-LUJ6v0Se3nu2NlrtLg/6000x4000.jpg",
+          "width": 6000
+        },
+        "imageCaption": "ポンポンバスケットRp.45万"
+      },
+      {
+        "description": "DATAToko Emporium住所：Jl. Oberoi No.1, Seminyak営業時間：10～21時定休日：なし",
+        "image": {
+          "height": 4000,
+          "sourceUrl": "https://a.mktgcdn.com/p/21h5WHoAUku9SqwzqmKn9oSJ9rOg1Jv2AzGO9p_tUvk/6000x4000.jpg",
+          "thumbnails": [
+            {
+              "height": 4000,
+              "url": "https://a.mktgcdn.com/p-sandbox/21h5WHoAUku9SqwzqmKn9oSJ9rOg1Jv2AzGO9p_tUvk/6000x4000.jpg",
+              "width": 6000
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/21h5WHoAUku9SqwzqmKn9oSJ9rOg1Jv2AzGO9p_tUvk/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/21h5WHoAUku9SqwzqmKn9oSJ9rOg1Jv2AzGO9p_tUvk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/21h5WHoAUku9SqwzqmKn9oSJ9rOg1Jv2AzGO9p_tUvk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/21h5WHoAUku9SqwzqmKn9oSJ9rOg1Jv2AzGO9p_tUvk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/21h5WHoAUku9SqwzqmKn9oSJ9rOg1Jv2AzGO9p_tUvk/6000x4000.jpg",
+          "width": 6000
+        },
+        "imageCaption": "白い壁が個性的な雑貨を引き立てる"
+      },
+      {
+        "imageCaption": "※2023年4月時点の情報です。営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2023-09-15",
+    "c_ap_HeroImage": {
+      "height": 4000,
+      "sourceUrl": "https://a.mktgcdn.com/p/21h5WHoAUku9SqwzqmKn9oSJ9rOg1Jv2AzGO9p_tUvk/6000x4000.jpg",
+      "thumbnails": [
+        {
+          "height": 4000,
+          "url": "https://a.mktgcdn.com/p-sandbox/21h5WHoAUku9SqwzqmKn9oSJ9rOg1Jv2AzGO9p_tUvk/6000x4000.jpg",
+          "width": 6000
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/21h5WHoAUku9SqwzqmKn9oSJ9rOg1Jv2AzGO9p_tUvk/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/21h5WHoAUku9SqwzqmKn9oSJ9rOg1Jv2AzGO9p_tUvk/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/21h5WHoAUku9SqwzqmKn9oSJ9rOg1Jv2AzGO9p_tUvk/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/21h5WHoAUku9SqwzqmKn9oSJ9rOg1Jv2AzGO9p_tUvk/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/21h5WHoAUku9SqwzqmKn9oSJ9rOg1Jv2AzGO9p_tUvk/6000x4000.jpg",
+      "width": 6000
+    },
+    "c_ap_HeroImageCaption": "南国らしいかわいい雑貨が所狭しと並べられている",
+    "c_ap_LinkArticleSectionTitle": "バリ島のその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "バリ島旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/bali/"
+      },
+      {
+        "linkText": "デンパサールのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dDPS"
+      },
+      {
+        "linkText": "バリ島のホテル",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/81/1054/?freeword\u003d%E3%83%87%E3%83%B3%E3%83%91%E3%82%B5%E3%83%BC%E3%83%AB%20%20%E3%83%90%E3%83%AA%E5%B3%B6%20%20%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d1054"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea4": [
+      "インドネシア・バリ島"
+    ],
+    "c_ap_ShortDescription": "スミニャックのオベロイ通りには、貝殻やバティックなど、バリ島ならではの自然素材をアジアンモダンにアレンジしたかわいい雑貨店がたくさんあります。エキゾチックな色合いや柄使いが素敵な、日常使いしたいハイセンスな雑貨に出合えるショップをご紹介します。（写真：トコ・エンポリウム）",
+    "c_ap_Tags": [
+      "雑貨",
+      "ハンドメイド",
+      "インテリア",
+      "女子旅"
+    ],
+    "c_ap_Theme": [
+      "街あるき",
+      "ショッピング"
+    ],
+    "c_ap_Title": "お部屋を南国テイストに！エキゾチックな雑貨店5選【バリ島】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "スミニャックのオベロイ通りには、貝殻やバティックなど、バリ島ならではの自然素材をアジアンモダンにアレンジしたかわいい雑貨店がたくさんあります。エキゾチックな色合いや柄使いが素敵な、日常使いしたいハイセンスな雑貨に出合えるショップをご紹介します。（写真：トコ・エンポリウム）",
+    "c_metaTitle": "お部屋を南国テイストに！エキゾチックな雑貨店5選【バリ島】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000092",
+    "c_searchArea2": "インドネシア・バリ島",
+    "name": "お部屋を南国テイストに！ エキゾチックな雑貨店5選【バリ島】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

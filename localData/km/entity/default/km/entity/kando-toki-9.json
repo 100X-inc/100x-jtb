@@ -1,0 +1,39 @@
+{
+  "$id": "kando-toki-9",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/9_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.493843%2C142.613406",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "海・湖・川・滝"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "立ち枯れたカラマツなどの木々と青い水を湛えた人工池が、神秘的な雰囲気を醸し出す景色。美瑛町白金にあるこの池は、白金の「青い池」としてカメラマンや観光客に人気のスポットです。1994年（平成6年）に造られた防災用のえん堤にアルミニウムを含んだ水が溜まり、美瑛川の水と混ざって目に見えないコロイドが生成され、そのコロイド粒子が太陽光と衝突散乱することで、水が青く見えるといわれています。2012年（平成24年）には世界的なIT企業のノート型パソコンの壁紙に採用されたことから有名になりました。ベストシーズンは春の終わりから初夏にかけて。池周辺の雪が解けだしつつも、背景の十勝連峰に雪が残っている頃合が、一番の見頃です。\n見所・お勧めポイント\n「青い池」は、JR美瑛駅から白金温泉方面に向かい、「北海道自然100選」にも選ばれた白樺街道の途中に位置します。白樺街道は、大正１５年の十勝岳噴火泥流跡に自生した白樺が白金温泉までの約４ｋｍにわたって続き、日本一の景観規模を誇ります。白樺街道に平行して３ｋｍにわたる遊歩道は森林浴やバードウォッチングに最適です。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/9.asp",
+    "name": "美瑛白金 青い池"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

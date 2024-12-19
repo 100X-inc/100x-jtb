@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-225",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/225_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d36.90042%2C138.360838",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "長野県",
+    "c_searchTags": [
+      "長野県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "冬",
+      "山・森・野・里",
+      "建物・景観"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "「雪を積んで作ったかまくらを秘密基地にして、遊んだり、美味しいものを食べて過ごしてみたい！」 誰もが憧れた夢を叶えてくれるのが、信州飯山の冬です。積雪が多い信濃平では、大量に積もった雪が地元ボランティアの手によって大小様々なかまくらに姿を変え、冬季限定の「かまくらの里」が出現します。\n見所・お勧めポイント\nかまくら内部で食事を楽しめる「レストランかまくら村」。きのこたっぷりの信濃平名物の「のろし鍋」の他、七輪を使ってお餅や干物を焼いたりして楽しめます（要予約）。自分達だけの秘密基地で鍋をつついてみれば、最高の思い出になること、間違いありません。\n背景\n中央に本格的な鳥居を備えた「かまくら神社」を設置した「かまくらの里」は、飯山の冬の風物詩。どっさりと降り積もる雪を活かした「かまくらの里」は、県内外から人が集まる大人気のイベントとなっています。毎年2月の土・日曜日には、信濃平観光案内所周辺で「かまくらまつり」を開催。期間中は雪を使ったゲームやもちつき大会、音楽ライブやかまくら作りなど、冬を楽しむイベントが行われます。日程は現地へご確認下さい。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/225.asp",
+    "name": "小さな秘密基地　かまくらで冬の寒さを ぬくもりの空間で楽しむ　信州いいやまの 冬景色"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

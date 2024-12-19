@@ -1,0 +1,607 @@
+{
+  "$id": "top",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": "/* Tags #1321845 */\n#main \u003e div \u003e div:nth-child(3) \u003e div \u003e div \u003e p {\n  background-color: #FFFF33 !important;\n}\n\n.Hero-imageCaption {\ntext-shadow: 0 0 10px #010101;\n}\n\n/* バックグラウンドカラーを濃いめに */\n.Consultants-wrapper {\n    background-color: #f5f6f7;\n}\n.Locator-wrapper {\n    background-color: #f5f6f7;\n}\n.Teaser--article.Teaser--articleTop {\n    background-color: #f5f6f7;\n}\n.InfoItem {\n    background-color: #f5f6f7;\n}\n\n/* サブタイトルのラップ */\n.Consultants-subtitle {\nwhite-space: pre-wrap;\n}\n.Locator-subtitle {\nwhite-space: pre-wrap;\n}\n.Info-subtitle {\nwhite-space: pre-wrap;\n}\n\n\n/* Information セクションの画像をオリジナルのままの比率で表示 */\n.InfoItem-image {\n    height: unset;\n}\n\n/* アコーディオンタイトルのセンタリング */\n.FAQ-questionText {\n margin: auto;\nfont-size: 1.1rem;\n}\n\n/* FAQ のリンクの色 */\n.Consultants .FAQ--ace .FAQ-answerText a {\ncolor: #3498db;\n\n}\n\n/* スムーススクロール */\nhtml { \nscroll-behavior: smooth;\n}\n\n/* CTAボタンのデザイン変更 */\n.OnlineConsultation-linkContainer {\nfont-size: 115%;\n}\n\n.OnlineConsultationButton--secondary-link {\nbackground-color: #E74911;\ncolor: #ffffff;\npadding: 16px;\n}",
+    "c_activeOnTops": true,
+    "c_cSSMobile": "/* 現在地が折り返さないように */\na.Locator-button.Locator-geolocate {\n  width: 6rem;\n}",
+    "c_metaDescription": "JTB |リモートでも、お店でも、あなたの旅をご提案します！",
+    "c_metaTitle": "JTB |リモートでも、お店でも、あなたの旅をご提案します！",
+    "c_news_NewsList": [
+      "news_ap_m_takasawa_013",
+      "news_cp_r_matsumaru_001",
+      "news_ap_m_omatsu513_003",
+      "news_ap_m_matsushita012_001",
+      "news_ap_m_takasawa518_012",
+      "news_ap_m_nagano601_001",
+      "news_ap_k_okada018_008",
+      "news_ap_e_shinden034_006",
+      "news_ap_m_takasawa518_011",
+      "news_ap_m_takasawa518_010",
+      "news_ap_e_shinden034_005",
+      "news_ap_m_omatsu513_002",
+      "news_ap_a_sato260_008",
+      "news_ap_remoteconcierge_00003",
+      "news_ap_remoteconcierge_00002",
+      "news_ap_remoteconcierge_00001",
+      "news_ap_area_0000043",
+      "news_ap_area_0000041",
+      "news_ap_area_0000059",
+      "news_ap_area_0000060",
+      "news_ap_area_0000058",
+      "news_ap_area_0000046",
+      "news_ap_area_0000045",
+      "news_ap_area_0000044",
+      "news_ap_area_0000057"
+    ],
+    "c_pagesURL": "https://consultants.jtb.co.jp/top",
+    "c_topBreadcrumb": {
+      "label": "リモート相談・予約"
+    },
+    "c_topTemplate": "STANDARD",
+    "c_top_AnchorLinks": [
+      {
+        "label": "コンサルタントを選ぶ",
+        "link": "#consultants",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "おすすめ旅記事を見る",
+        "link": "#articles",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "専門店に相談する",
+        "link": "#info",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_top_Articles": [
+      "ap_chiki_100185",
+      "ap_osarea_0000112",
+      "ap_chiki_100182",
+      "ap_chiki_100183",
+      "ap_chiki_100184",
+      "ap_e_shinden034_006",
+      "ap_m_takasawa518_011",
+      "ap_m_takasawa518_010",
+      "ap_e_shinden034_005",
+      "ap_m_omatsu513_002",
+      "ap_a_sato260_008",
+      "ap_remoteconcierge_00003",
+      "ap_remoteconcierge_00002",
+      "ap_remoteconcierge_00001",
+      "ap_area_0000042",
+      "ap_area_0000043",
+      "ap_area_0000041",
+      "ap_area_0000059",
+      "ap_area_0000060",
+      "ap_area_0000058",
+      "ap_area_0000046",
+      "ap_area_0000045",
+      "ap_area_0000044",
+      "ap_area_0000057",
+      "ap_area_0000055",
+      "ap_a_muto106_007"
+    ],
+    "c_top_ArticlesButton1": {
+      "label": "記事をすべて見る",
+      "link": "https://www.jtb.co.jp/news/list/index.html?tag\u003dリモートコンシェルジュ",
+      "linkType": "OTHER"
+    },
+    "c_top_ArticlesButton2": {
+      "link": "https://column.jtb.co.jp/",
+      "linkType": "URL"
+    },
+    "c_top_ArticlesSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e",
+    "c_top_ArticlesSectionSubTitle": "全国の旅のプロたちが日々記事を投稿します。旅行の参考にぜひ！\n投稿者のコンサルタントにリモートで旅行相談することもできます。",
+    "c_top_ArticlesSectionTitle": "JTBスタッフのおすすめ旅記事",
+    "c_top_BannerBackgroundColor": "#ff0000",
+    "c_top_Consultants": [
+      "cp_m_takasawa518",
+      "cp_m_tachibana004",
+      "cp_m_ban303",
+      "cp_s_narita320",
+      "cp_h_tominaga084",
+      "cp_e_mizuno304",
+      "cp_y_kitano151",
+      "cp_s_kyozu025",
+      "cp_y_takenaka010",
+      "cp_k_okada018",
+      "cp_k_takeda507",
+      "cp_h_yokoyama031",
+      "cp_h_nakamura327",
+      "cp_r_matsumaru801",
+      "cp_n_okada302",
+      "cp_n_bandaira067",
+      "cp_m_sakurai309",
+      "cp_m_nagano601",
+      "cp_y_shindo424",
+      "cp_n_morita323",
+      "cp_m_matsushita012",
+      "cp_a_matsuoka110",
+      "cp_y_sakakibara002",
+      "cp_a_ishimaru017",
+      "cp_k_tsukagoshi623",
+      "cp_r_takenouchi027"
+    ],
+    "c_top_ConsultantsButton1": {
+      "label": "コンサルタント一覧はこちら",
+      "link": "/index.html",
+      "linkType": "OTHER"
+    },
+    "c_top_ConsultantsButton2": {
+      "label": "指名なしで相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_top_ConsultantsPullDownLabel": "リモート相談・予約について",
+    "c_top_ConsultantsPullDownText": "●本ページ掲載のスタッフはリモート相談専門店「[JTBリモートコンシェルジュ](https://stores.jtb.co.jp/cc\\-0001)」所属のトラベルコンサルタントです。  \n●JTBリモートコンシェルジュの営業時間や定休日は上記JTBリモートコンシェルジュのリンク先よりご確認ください。  \n●リモート相談・予約の流れや事前の確認事項は[こちら](https://stores.jtb.co.jp/cc\\-0001#flow)をご確認ください。  \n●「今すぐリモート相談」を受け付けています。詳細は[こちら](https://stores.jtb.co.jp/cc\\-0001)のページの「今すぐリモート相談する」をご確認ください。",
+    "c_top_ConsultantsSectionHTML": "\u003cscript\u003e\nwindow.addEventListener(\u0027load\u0027, function() {\n  atags \u003d document.querySelectorAll(\u0027.FAQ-answerText a[href^\u003d\"https:\"]\u0027);\n  atags.forEach(function(atag){atag.setAttribute(\u0027target\u0027, \u0027_blank\u0027);});\n});\n\u003c/script\u003e",
+    "c_top_ConsultantsSectionSubTitle": "リモート相談を通し希望に叶う旅を提案します！\u003cbr\u003eコンサルタントを選び相談予約をお願いします。指名なしでの相談もできます。",
+    "c_top_ConsultantsSectionTitle": "コンサルタントを選び相談",
+    "c_top_HeroImage": {
+      "height": 1434,
+      "sourceUrl": "https://a.mktgcdn.com/p/MRzE6u8XNqjcJtayeaOfivMldHxmfwSvsx88EjuS6Ck/2150x1434.jpg",
+      "thumbnails": [
+        {
+          "height": 1434,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/2150x1434.jpg",
+          "width": 2150
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/2150x1434.jpg",
+      "width": 2150
+    },
+    "c_top_HeroImageCaption": "\u003ch1\u003e～JTBの旅行相談～\u003c/h1\u003e\n\u003ch3 style\u003d\"font-size: 2rem;\"\u003eリモートでもお店でも\nあなたの旅\u003cbr\u003eご提案します！\u003c/h3\u003e",
+    "c_top_HeroImageMobile": {
+      "height": 1434,
+      "sourceUrl": "https://a.mktgcdn.com/p/MRzE6u8XNqjcJtayeaOfivMldHxmfwSvsx88EjuS6Ck/2150x1434.jpg",
+      "thumbnails": [
+        {
+          "height": 1434,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/2150x1434.jpg",
+          "width": 2150
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/OqU95CuAw7lKtpME1irFLetuK04D0-ikksTAiOYRTIs/2150x1434.jpg",
+      "width": 2150
+    },
+    "c_top_Info": [
+      {
+        "cTA1": {
+          "label": "海外旅行専門デスクの詳細",
+          "link": "https://consultants.jtb.co.jp/top-overseas",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "JTBウエディングプラザ店舗一覧",
+          "link": "https://www.jtb.co.jp/wed/plaza/list/",
+          "linkType": "URL"
+        },
+        "category": "海外旅行専門のリモート相談・予約デスク",
+        "description": "「JTBリモートコンシェルジュ 海外旅行専門デスク」は、海外旅行に関するリモート相談・予約の専門店です。各方面に精通したスタッフが現地のスタッフと一緒にご希望の旅をご提案します。",
+        "image": {
+          "alternateText": "沖縄旅行リモート相談・予約",
+          "height": 400,
+          "sourceUrl": "https://a.mktgcdn.com/p/agNqXMd1eoaBfmRm1KMY99KnmxxDYIFEdGBjFL0cUhI/600x400.png",
+          "thumbnails": [
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/agNqXMd1eoaBfmRm1KMY99KnmxxDYIFEdGBjFL0cUhI/600x400.png",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/agNqXMd1eoaBfmRm1KMY99KnmxxDYIFEdGBjFL0cUhI/196x131.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/agNqXMd1eoaBfmRm1KMY99KnmxxDYIFEdGBjFL0cUhI/600x400.png",
+          "width": 600
+        },
+        "new": true,
+        "title": "JTBリモートコンシェルジュ 海外旅行専門デスク"
+      },
+      {
+        "cTA1": {
+          "label": "沖縄専門デスクの詳細",
+          "link": "https://stores.jtb.co.jp/cc-0020",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "JTBラウンジプラチナム池袋",
+          "link": "https://www.jtb.co.jp/stores/jtbloungeplatinum/access_ikebukuro/",
+          "linkType": "URL"
+        },
+        "category": "沖縄旅行専門のリモート相談・予約デスク",
+        "description": "「JTBリモートコンシェルジュ 沖縄専門デスク」は、沖縄旅行に関するリモート相談・予約の専門店です。知識豊富なスタッフがご希望の旅をご提案します。",
+        "image": {
+          "alternateText": "JTBウエディングプラザ",
+          "height": 400,
+          "sourceUrl": "https://a.mktgcdn.com/p/s8B9mAwO0RilQBZa_j-1SfP1UseGSGbIAXIw5RwKul8/600x400.jpg",
+          "thumbnails": [
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/C7TdAZ-VEOLqBWJA4vCwfkomGxij_jEMjYlgSHhdGVk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/C7TdAZ-VEOLqBWJA4vCwfkomGxij_jEMjYlgSHhdGVk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/C7TdAZ-VEOLqBWJA4vCwfkomGxij_jEMjYlgSHhdGVk/600x400.jpg",
+          "width": 600
+        },
+        "new": false,
+        "title": "JTBリモートコンシェルジュ 沖縄専門デスク"
+      },
+      {
+        "cTA1": {
+          "label": "高級宿専門デスクの詳細",
+          "link": "https://stores.jtb.co.jp/cc-0010",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "JTBロイヤルロード銀座 店舗一覧",
+          "link": "https://www.jtb.co.jp/luxurytravel/royalroadginza/",
+          "linkType": "URL"
+        },
+        "category": "高級宿専門のリモート相談・予約デスク",
+        "description": "JTBの高級旅館・ホテルを中心とした、旅行に関するリモート相談・予約の専門店です。知識豊富なスタッフが、ご希望に叶うお宿\u0026旅行をご提案いたします。",
+        "image": {
+          "alternateText": "ロイヤルスタッフ",
+          "height": 202,
+          "sourceUrl": "https://a.mktgcdn.com/p/g-2jCToeWu7ByXALT_0uiQWCxNsCHGhi4l8Wmugv9hs/305x202.jpg",
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://a.mktgcdn.com/p-sandbox/lmFjXKoIk4hvl0xd3L9p-WJnWjGnkoi5W-9dHPkPBUk/305x202.jpg",
+              "width": 305
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/lmFjXKoIk4hvl0xd3L9p-WJnWjGnkoi5W-9dHPkPBUk/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lmFjXKoIk4hvl0xd3L9p-WJnWjGnkoi5W-9dHPkPBUk/305x202.jpg",
+          "width": 305
+        },
+        "title": "JTBリモートコンシェルジュ 高級宿専門デスク"
+      },
+      {
+        "cTA1": {
+          "label": "手話通訳付専門デスクの詳細",
+          "link": "https://stores.jtb.co.jp/cc-shuwa",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "JTB東京グループ旅行センター（店舗）",
+          "link": "https://stores.jtb.co.jp/j3959-0",
+          "linkType": "URL"
+        },
+        "category": "手話通訳付のリモート相談・予約デスク",
+        "description": "お客様のカメラ付パソコンからインターネット回線を通じてJTBスタッフと手話通訳付で旅行相談・予約を承ります。詳しくはこちらのページからどうぞ。",
+        "image": {
+          "alternateText": "JTBご当地相談",
+          "height": 400,
+          "sourceUrl": "https://a.mktgcdn.com/p/NeTvBcpn4CUORoEuLjmauxNusexayDf0ExB0BztL9uQ/600x400.jpg",
+          "thumbnails": [
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/TN9iXiNqbOnaD7_raPw4XUTxTDbh7rzZTNLe50BBOYs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/TN9iXiNqbOnaD7_raPw4XUTxTDbh7rzZTNLe50BBOYs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/TN9iXiNqbOnaD7_raPw4XUTxTDbh7rzZTNLe50BBOYs/600x400.jpg",
+          "width": 600
+        },
+        "title": "JTBリモートコンシェルジュ 手話通訳付専門デスク"
+      },
+      {
+        "cTA1": {
+          "label": "JTBウエディングプラザの詳細",
+          "link": "https://www.jtb.co.jp/wed/",
+          "linkType": "URL"
+        },
+        "category": "ウエディング\u0026ハネムーン専門店",
+        "description": "JTBウエディングプラザではリゾート挙式に関する最新の情報を豊富にご用意。専任ウエディングコンサルタントがおふたりのご希望にかなうプランをご一緒にお探しします！",
+        "image": {
+          "height": 400,
+          "sourceUrl": "https://a.mktgcdn.com/p/RK0CQ9gms2K6QeTOj_lTwetQKaf9xCvxL51EHyYWpUc/600x400.jpg",
+          "thumbnails": [
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/RK0CQ9gms2K6QeTOj_lTwetQKaf9xCvxL51EHyYWpUc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/RK0CQ9gms2K6QeTOj_lTwetQKaf9xCvxL51EHyYWpUc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RK0CQ9gms2K6QeTOj_lTwetQKaf9xCvxL51EHyYWpUc/600x400.jpg",
+          "width": 600
+        },
+        "title": "JTBウエディングプラザ"
+      },
+      {
+        "cTA1": {
+          "label": "JTBラウンジプラチナム渋谷",
+          "link": "https://www.jtb.co.jp/stores/jtbloungeplatinum/access_shibuya/",
+          "linkType": "URL"
+        },
+        "category": "専任コンシェルジュがいるラウンジ型店舗",
+        "description": "圧倒的な手配力とホスピタリティが自慢のお店です。経験を積んで選ばれた専任コンシェルジュが、旅の夢を叶えます。落ち着いたJTBラウンジプラチナムでゆったりとご相談ください。",
+        "image": {
+          "height": 400,
+          "sourceUrl": "https://a.mktgcdn.com/p/vJInaRicRRVwMU3BGBlLQ8MJPHMlVDpYy7Ma11YEsIY/600x400.jpg",
+          "thumbnails": [
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/vJInaRicRRVwMU3BGBlLQ8MJPHMlVDpYy7Ma11YEsIY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/vJInaRicRRVwMU3BGBlLQ8MJPHMlVDpYy7Ma11YEsIY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vJInaRicRRVwMU3BGBlLQ8MJPHMlVDpYy7Ma11YEsIY/600x400.jpg",
+          "width": 600
+        },
+        "title": "JTBラウンジプラチナム"
+      },
+      {
+        "cTA1": {
+          "label": "JTBロイヤルロード銀座の詳細",
+          "link": "https://www.jtb.co.jp/luxurytravel/",
+          "linkType": "URL"
+        },
+        "category": "唯一無二の旅をご案内するラグジュアリー旅行専門店",
+        "description": "高品質なオーダーメイドの旅をご用意。専任スタッフがお客様と一緒に世界に一つだけの旅をお作りいたします。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/2GFR8HnWIyz-CwUEsvce8yGT22d6JxwT9RScujSGVSc/900x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/2GFR8HnWIyz-CwUEsvce8yGT22d6JxwT9RScujSGVSc/900x600.jpg",
+              "width": 900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/2GFR8HnWIyz-CwUEsvce8yGT22d6JxwT9RScujSGVSc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/2GFR8HnWIyz-CwUEsvce8yGT22d6JxwT9RScujSGVSc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/2GFR8HnWIyz-CwUEsvce8yGT22d6JxwT9RScujSGVSc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2GFR8HnWIyz-CwUEsvce8yGT22d6JxwT9RScujSGVSc/900x600.jpg",
+          "width": 900
+        },
+        "title": "JTBロイヤルロード銀座"
+      },
+      {
+        "cTA1": {
+          "label": "JTBグループ旅行センターの詳細",
+          "link": "https://www.jtb.co.jp/stores/j3959-0/group_support/index.asp",
+          "linkType": "URL"
+        },
+        "category": "グループ旅行や大人数旅行の専門店",
+        "description": "大人数での旅行の相談・手配を一手に引き受けます。旅行以外のイベント、会議、研修なども承ります。",
+        "image": {
+          "height": 400,
+          "sourceUrl": "https://a.mktgcdn.com/p/JdjohBoY4H8ylKXf7hqvjUjl8811RTBYPXDKg5NqHP4/600x400.jpg",
+          "thumbnails": [
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/JdjohBoY4H8ylKXf7hqvjUjl8811RTBYPXDKg5NqHP4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/JdjohBoY4H8ylKXf7hqvjUjl8811RTBYPXDKg5NqHP4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JdjohBoY4H8ylKXf7hqvjUjl8811RTBYPXDKg5NqHP4/600x400.jpg",
+          "width": 600
+        },
+        "title": "JTBグループ旅行センター"
+      },
+      {
+        "cTA1": {
+          "label": "JTBクルーズの詳細",
+          "link": "https://www.jtb.co.jp/cruise/",
+          "linkType": "URL"
+        },
+        "category": "国内\u0026世界のクルーズ旅行専門店",
+        "description": "国内旅行から世界一周までクルーズのことはおまかせ！専門スタッフがカジュアル客船から超豪華客船までニーズに合わせた船の旅を提案します。",
+        "image": {
+          "height": 400,
+          "sourceUrl": "https://a.mktgcdn.com/p/4YmBELb9S2XflEWBShWqCjfRFMbj1D-4V9TC0H01zXE/600x400.jpg",
+          "thumbnails": [
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/4YmBELb9S2XflEWBShWqCjfRFMbj1D-4V9TC0H01zXE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/4YmBELb9S2XflEWBShWqCjfRFMbj1D-4V9TC0H01zXE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4YmBELb9S2XflEWBShWqCjfRFMbj1D-4V9TC0H01zXE/600x400.jpg",
+          "width": 600
+        },
+        "title": "JTBクルーズプラザ"
+      },
+      {
+        "cTA1": {
+          "label": "ロイヤルスタッフ紹介",
+          "link": "https://consultants.jtb.co.jp/top-royalstaff",
+          "linkType": "OTHER"
+        },
+        "category": "全国の中から選び抜かれたロイヤルスタッフの紹介ページ",
+        "description": "全国の中から選び抜かれたロイヤルスタッフは、まさに究極の旅の水先案内人。ファーストクラスのおもてなしで皆様のかけがえのないひと時のお手伝いをいたします。ロイヤルスタッフと共に至高の旅支度を始めませんか？",
+        "image": {
+          "height": 1200,
+          "sourceUrl": "https://a.mktgcdn.com/p/Nss0i7sdSwOmEN1RwNQ5Jn9S9G9WkMYWdJJOZ-JntYw/1797x1200.jpg",
+          "thumbnails": [
+            {
+              "height": 1200,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nss0i7sdSwOmEN1RwNQ5Jn9S9G9WkMYWdJJOZ-JntYw/1797x1200.jpg",
+              "width": 1797
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nss0i7sdSwOmEN1RwNQ5Jn9S9G9WkMYWdJJOZ-JntYw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nss0i7sdSwOmEN1RwNQ5Jn9S9G9WkMYWdJJOZ-JntYw/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nss0i7sdSwOmEN1RwNQ5Jn9S9G9WkMYWdJJOZ-JntYw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Nss0i7sdSwOmEN1RwNQ5Jn9S9G9WkMYWdJJOZ-JntYw/1797x1200.jpg",
+          "width": 1797
+        },
+        "title": "ロイヤルスタッフ紹介"
+      },
+      {
+        "cTA1": {
+          "label": "JTBのご当地相談",
+          "link": "https://www.jtb.co.jp/stores/onlineconsul/local.asp",
+          "linkType": "OTHER"
+        },
+        "category": "現地に相談できるリモート相談・予約デスク",
+        "description": "旅先となる現地店舗のスタッフに相談して旅行を予約したい。そんなご要望にお応えすべく、北海道・長野・京都の3エリアにて現地へのリモート相談・予約ができる専門デスクを設置しました。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/crVqY8eVwmWu5z8mQdOaw9qmpvzQTyDXjsFIRMxAqFc/900x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/crVqY8eVwmWu5z8mQdOaw9qmpvzQTyDXjsFIRMxAqFc/900x600.jpg",
+              "width": 900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/crVqY8eVwmWu5z8mQdOaw9qmpvzQTyDXjsFIRMxAqFc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/crVqY8eVwmWu5z8mQdOaw9qmpvzQTyDXjsFIRMxAqFc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/crVqY8eVwmWu5z8mQdOaw9qmpvzQTyDXjsFIRMxAqFc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/crVqY8eVwmWu5z8mQdOaw9qmpvzQTyDXjsFIRMxAqFc/900x600.jpg",
+          "width": 900
+        },
+        "title": "JTBご当地相談（リモート相談・予約デスク）"
+      }
+    ],
+    "c_top_InfoSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_InfoSectionSubTitle": "JTBには「特別な旅」をご提案する専門店があります！\nこだわりの旅をお探しなら専門店へどうぞ。",
+    "c_top_InfoSectionTitle": "専門店に相談する",
+    "c_top_LocatorDefaultText": "住所、地名、駅名などを入力ください",
+    "c_top_LocatorDirectoryButton": {
+      "label": "都道府県・市区町村から店舗を探す",
+      "link": "https://stores.jtb.co.jp/",
+      "linkType": "URL"
+    },
+    "c_top_LocatorSearchBarSubTitle": "住所、地名、駅名などを入力ください",
+    "c_top_LocatorSearchBarTitle": "JTBの店舗検索",
+    "c_top_LocatorSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_LocatorSectionSubTitle": "お近くのJTB店舗をご案内します。\n来店での相談や申込のほかリモート相談・予約もできます。",
+    "c_top_LocatorSectionTitle": "店舗に行く・相談する",
+    "c_top_OnlineConsultationButton1": {
+      "label": "リモート相談を予約する",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_top_OnlineConsultationButton2": {
+      "label": "今すぐリモート相談する",
+      "link": "https://jtb.rooms-online.jp/entrance/y-oDn-9Xw-arNbQkBgQV",
+      "linkType": "OTHER"
+    },
+    "c_top_OnlineConsultationSectionSubTitle": "「JTBリモートコンシェルジュ」は、リモートでの旅行相談・申し込みの専門店です。\n知識豊富なスタッフがご希望の旅をご提案します！",
+    "c_top_OnlineConsultationSectionTitle": "リモート相談・予約",
+    "name": "TOP"
+  },
+  "entityType": "ce_tOP",
+  "labels": []
+}

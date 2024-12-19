@@ -1,0 +1,262 @@
+{
+  "$id": "ap_osarea_0000038",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "レトロスタイルや古着好きにおすすめのアパレルショップです。品揃えは新品3割、古着は7割ほどで、状態のよいハイブランドのヴィンテージ品も豊富です。洋服のほか、靴やバッグなどの小物類も充実。探し求めていたアイテムと運命の出合いがあるかもしれません。●スポット情報【A ROOM MODEL（ア ルーム モデル）】アクセス：板南線忠孝敦化駅から徒歩5分住所：敦化南路1段161巷6號3F営業時間：15～22時定休日：なし",
+        "image": {
+          "alternateText": "マンションのような建物の2階にある隠れ家的ショップ。店内は明るく、商品ディスプレイも見やすい",
+          "height": 1227,
+          "sourceUrl": "https://a.mktgcdn.com/p/wHmzCbZLavOB-guuC5zH6uDvXnTix-40p_AHJf7qtQk/1844x1227.jpg",
+          "thumbnails": [
+            {
+              "height": 1227,
+              "url": "https://a.mktgcdn.com/p-sandbox/s2UlRELhYdP2pZFeCK8OafNXLNGRKievSTIk2sDWoeo/1844x1227.jpg",
+              "width": 1844
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/s2UlRELhYdP2pZFeCK8OafNXLNGRKievSTIk2sDWoeo/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/s2UlRELhYdP2pZFeCK8OafNXLNGRKievSTIk2sDWoeo/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/s2UlRELhYdP2pZFeCK8OafNXLNGRKievSTIk2sDWoeo/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/s2UlRELhYdP2pZFeCK8OafNXLNGRKievSTIk2sDWoeo/1844x1227.jpg",
+          "width": 1844
+        },
+        "imageCaption": "マンションのような建物の2階にある隠れ家的ショップ。店内は明るく、商品ディスプレイも見やすい",
+        "sectionTitle": "A ROOM MODEL（ア ルーム モデル）"
+      },
+      {
+        "description": "若者の間で人気の台湾のファストファッションブランド。商品はどれも愛らしいデザインで、お手頃価格。ナチュラル、スポーティー、スイートなど、今が旬な各種スタイルを揃えています。最先端ウェアを、おみやげに選ぶのも◎！ ●スポット情報【QUEEN SHOP敦南門市（クイーン ショップ トゥンナンメンシー）】アクセス：板南線忠孝敦化駅から徒歩４分住所：敦化南路一段161巷24號営業時間：14～22時（金・土曜は～22時30分）定休日：なし",
+        "image": {
+          "alternateText": "広々として商品を探しやすい店内。多数のアイテムからお気に入りを見つけたい",
+          "height": 94,
+          "sourceUrl": "https://a.mktgcdn.com/p/2_KGJqiIowEbzNZr5-ZPe3ej1IBWv4ZZYQu2_-0mO80/141x94.jpg",
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://a.mktgcdn.com/p-sandbox/2_KGJqiIowEbzNZr5-ZPe3ej1IBWv4ZZYQu2_-0mO80/141x94.jpg",
+              "width": 141
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2_KGJqiIowEbzNZr5-ZPe3ej1IBWv4ZZYQu2_-0mO80/141x94.jpg",
+          "width": 141
+        },
+        "imageCaption": "広々として商品を探しやすい店内。多数のアイテムからお気に入りを見つけたい",
+        "sectionTitle": "QUEEN SHOP敦南門市（クイーン ショップ トゥンナンメンシー）"
+      },
+      {
+        "description": "1908年に日本人が建設した台湾初の公設市場。建築家「近藤十郎」氏が設計した建物で、八角形と十字型の造形を組みわせた独創的なデザインが特徴です。内部には雑貨ショップが集まり、個性あふれる商品を販売。どれもセンス抜群で、おみやげにも喜ばれそう。●スポット情報【西門紅楼（シーメンホンロウ）】アクセス：松山新店線・板南線西門駅から徒歩２分住所：成都路10號営業時間：11～20時（土曜は～22時、日曜は〜21時30分）定休日：月曜、祝日はHPを要確認",
+        "image": {
+          "alternateText": "往時の賑わいが伝わってくるような趣ある赤レンガの建物",
+          "height": 64,
+          "sourceUrl": "https://a.mktgcdn.com/p/9eWuQ0fF0GLB4spn7BEKcVcJL8bGJONyWL6bg2dVftg/96x64.jpg",
+          "thumbnails": [
+            {
+              "height": 64,
+              "url": "https://a.mktgcdn.com/p-sandbox/9eWuQ0fF0GLB4spn7BEKcVcJL8bGJONyWL6bg2dVftg/96x64.jpg",
+              "width": 96
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9eWuQ0fF0GLB4spn7BEKcVcJL8bGJONyWL6bg2dVftg/96x64.jpg",
+          "width": 96
+        },
+        "imageCaption": "往時の賑わいが伝わってくるような趣ある赤レンガの建物",
+        "sectionTitle": "西門紅楼（シーメンホンロウ）"
+      },
+      {
+        "description": "お粥とともに、料理人が目の前で調理するアツアツの鉄板焼き料理が味わえるお店。ビーフステーキなど多彩な肉料理や海鮮料理、玉子焼きなどボリューム満点の料理が楽しめます。看板メニューの「ステーキ・フィレ（真菲力牛排）」NT$390は、塩コショウとソースからチョイス。●スポット情報【周照子 台湾鉄板清粥小菜（チョウチャオツ タイワンティエパンチンチョウシャオツァイ）】アクセス：板南線・松山新店線西門駅から徒歩5分住所：西寧南路167號1樓  営業時間：11時～翌0時30分定休日：最終火曜",
+        "image": {
+          "alternateText": "レトロな雰囲気の店内でも、斬新さを感じさせるスタイル。カジュアルな雰囲気で入りやすい",
+          "height": 236,
+          "sourceUrl": "https://a.mktgcdn.com/p/65To4liEfsBpSV-zvvipW4z4q0C79G4_QqY1MT3p_AM/345x236.jpg",
+          "thumbnails": [
+            {
+              "height": 236,
+              "url": "https://a.mktgcdn.com/p-sandbox/65To4liEfsBpSV-zvvipW4z4q0C79G4_QqY1MT3p_AM/345x236.jpg",
+              "width": 345
+            },
+            {
+              "height": 134,
+              "url": "https://a.mktgcdn.com/p-sandbox/65To4liEfsBpSV-zvvipW4z4q0C79G4_QqY1MT3p_AM/196x134.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/65To4liEfsBpSV-zvvipW4z4q0C79G4_QqY1MT3p_AM/345x236.jpg",
+          "width": 345
+        },
+        "imageCaption": "レトロな雰囲気の店内でも、斬新さを感じさせるスタイル。カジュアルな雰囲気で入りやすい",
+        "sectionTitle": "周照子 台湾鉄板清粥小菜（チョウチャオツ タイワンティエパンチンチョウシャオツァイ）"
+      },
+      {
+        "description": "目抜き通り、漢中街にある老舗食堂です。店の入口に厨房があり、外から熟練の手による調理の様子が見られます。メニューは種類豊富で、台湾B級グルメのオンパレード。なかでも「滷肉飯」が絶品で、とろとろの目玉焼きをトッピングすればさらにおいしさアップ。客席は基本的に相席で、地元の人とのふれあいも楽しみの一つです。●スポット情報【天天利美食坊（ティエンティエンリーメイシーファン）】アクセス：松山新店線・板南線西門駅から徒歩4分住所：漢中街32巷１號営業時間：10時30分～22時30分定休日：月曜",
+        "image": {
+          "alternateText": "ご飯どきは行列覚悟の人気店。運がよければ回転が速く、すぐに食べられることも",
+          "height": 87,
+          "sourceUrl": "https://a.mktgcdn.com/p/i_xAYabKCIMBozdy158cF1Hkz_MVxxP1hHtYd6yCwqA/130x87.jpg",
+          "thumbnails": [
+            {
+              "height": 87,
+              "url": "https://a.mktgcdn.com/p-sandbox/i_xAYabKCIMBozdy158cF1Hkz_MVxxP1hHtYd6yCwqA/130x87.jpg",
+              "width": 130
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/i_xAYabKCIMBozdy158cF1Hkz_MVxxP1hHtYd6yCwqA/130x87.jpg",
+          "width": 130
+        },
+        "imageCaption": "ご飯どきは行列覚悟の人気店。運がよければ回転が速く、すぐに食べられることも",
+        "sectionTitle": "天天利美食坊（ティエンティエンリーメイシーファン）"
+      },
+      {
+        "description": "チャイナシューズの専門店。スパンコールや色鮮やかに刺繍された靴が店内を埋め尽くしています。日本人好みの色や柄のアイテムも数多く並び、履きやすくて値段も手頃。確認容易なサイズ表があるので、観光客でも安心です。●スポット情報【小格格鞋坊（シャオクークーシエファン）】アクセス：松山新店線・板南線西門駅から徒歩5分住所：西寧南路96號営業時間：12～18時 定休日：なし",
+        "image": {
+          "alternateText": "通り沿いにあるこぢんまりとした店。店内は明るく、初めてでも入りやすい雰囲気",
+          "height": 113,
+          "sourceUrl": "https://a.mktgcdn.com/p/hviD46V1MZ1XqIwWXkshNFb-RgoxuO8nnrpLaEHbKwM/170x113.jpg",
+          "thumbnails": [
+            {
+              "height": 113,
+              "url": "https://a.mktgcdn.com/p-sandbox/hviD46V1MZ1XqIwWXkshNFb-RgoxuO8nnrpLaEHbKwM/170x113.jpg",
+              "width": 170
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hviD46V1MZ1XqIwWXkshNFb-RgoxuO8nnrpLaEHbKwM/170x113.jpg",
+          "width": 170
+        },
+        "imageCaption": "通り沿いにあるこぢんまりとした店。店内は明るく、初めてでも入りやすい雰囲気",
+        "sectionTitle": "小格格鞋坊（シャオクークーシエファン）"
+      },
+      {
+        "description": "伝統に客家テイストを加えた新台湾式朝ごはんが評判の店。鉄板で焼き上げる羽根つき小籠包や限定スープなどが楽しめます。やさしい甘さの特製ドリンクも一緒に味わうのがオススメ。人気メニューは「招牌韭黃鐵板湯包8個」NT$145。●スポット情報【甘妹弄堂 西門（カンメイノンタン シーメン）】アクセス：松山新店線・板南線西門駅から徒歩5分住所：昆明街130號営業時間：8時〜14時30分、17〜20時（土・日曜は〜21時）定休日：火曜",
+        "image": {
+          "alternateText": "2019年オープン。店内はおしゃれな内装でまとめられ、居心地も抜群",
+          "height": 126,
+          "sourceUrl": "https://a.mktgcdn.com/p/xttFVUp-Gd_IRRrK_BwIOGIPXkiCP35RBoHrJdacaq8/166x126.jpg",
+          "thumbnails": [
+            {
+              "height": 126,
+              "url": "https://a.mktgcdn.com/p-sandbox/xttFVUp-Gd_IRRrK_BwIOGIPXkiCP35RBoHrJdacaq8/166x126.jpg",
+              "width": 166
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xttFVUp-Gd_IRRrK_BwIOGIPXkiCP35RBoHrJdacaq8/166x126.jpg",
+          "width": 166
+        },
+        "imageCaption": "2019年オープン。店内はおしゃれな内装でまとめられ、居心地も抜群",
+        "sectionTitle": "甘妹弄堂 西門（カンメイノンタン シーメン）"
+      },
+      {
+        "imageCaption": "※2023年3月末時点の情報です。営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2023-05-08",
+    "c_ap_HeroImage": {
+      "alternateText": "ショップ巡りが楽しい！　賑やかな最旬トレンド発信地 街歩きを楽しむ 東区・西門(トンチュー・シーメン)【台湾　台北】",
+      "height": 306,
+      "sourceUrl": "https://a.mktgcdn.com/p/zO8USQ6eTOgt6ze6pGFFm1U5SuCTSeRtdxjHC7EGma0/454x306.jpg",
+      "thumbnails": [
+        {
+          "height": 306,
+          "url": "https://a.mktgcdn.com/p-sandbox/zO8USQ6eTOgt6ze6pGFFm1U5SuCTSeRtdxjHC7EGma0/454x306.jpg",
+          "width": 454
+        },
+        {
+          "height": 132,
+          "url": "https://a.mktgcdn.com/p-sandbox/zO8USQ6eTOgt6ze6pGFFm1U5SuCTSeRtdxjHC7EGma0/196x132.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/zO8USQ6eTOgt6ze6pGFFm1U5SuCTSeRtdxjHC7EGma0/454x306.jpg",
+      "width": 454
+    },
+    "c_ap_LinkArticleSectionTitle": "台湾のその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea4": [
+      "台湾"
+    ],
+    "c_ap_ShortDescription": "｢台北の裏原宿｣ともよばれる東区は、おしゃれな若者が集まるエリアです。路地裏にハイセンスなアパレル店や雑貨店、カフェ、バーなどがひしめき、台湾の最新トレンドを体感できます。一方、新旧の魅力が共存する西門も、近年注目される流行の発信拠点。歴史の面影を残す「西門紅楼」のほか、ファッションビルや商業施設が集まり、楽しみが盛りだくさん！ \n\n\nエリア（東区）への最寄り駅：板南線忠孝敦化駅／文湖線・板南線忠孝復興駅\nエリア（西門）への最寄り駅：松山新店線・板南線西門駅",
+    "c_ap_Tags": [
+      "台北",
+      "東区",
+      "西門",
+      "西門紅楼",
+      "トレンド発信地"
+    ],
+    "c_ap_Theme": [
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ",
+      "街あるき",
+      "グルメ",
+      "ショッピング"
+    ],
+    "c_ap_Title": "ショップ巡りが楽しい！　賑やかな最旬トレンド発信地 街歩きを楽しむ 東区・西門(トンチュー・シーメン)【台湾　台北】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "｢台北の裏原宿｣ともよばれる東区は、おしゃれな若者が集まるエリアです。路地裏にハイセンスなアパレル店や雑貨店、カフェ、バーなどがひしめき、台湾の最新トレンドを体感できます。一方、新旧の魅力が共存する西門も、近年注目される流行の発信拠点。歴史の面影を残す「西門紅楼」のほか、ファッションビルや商業施設が集まり、楽しみが盛りだくさん！ \n\n\nエリア（東区）への最寄り駅：板南線忠孝敦化駅／文湖線・板南線忠孝復興駅\nエリア（西門）への最寄り駅：松山新店線・板南線西門駅",
+    "c_metaTitle": "ショップ巡りが楽しい！　賑やかな最旬トレンド発信地 街歩きを楽しむ 東区・西門(トンチュー・シーメン)【台湾　台北】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000038",
+    "c_searchArea1": [
+      "海外"
+    ],
+    "c_searchArea2": "台湾",
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：台湾",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "ショップ巡りが楽しい！　賑やかな最旬トレンド発信地 街歩きを楽しむ 東区・西門(トンチュー・シーメン)【台湾　台北】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

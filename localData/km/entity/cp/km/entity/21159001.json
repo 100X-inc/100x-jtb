@@ -1,0 +1,48 @@
+{
+  "$id": "cp_21159001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_cp_DisplayName": "加藤",
+    "c_cp_OverseasExpert": {
+      "area2": {
+        "rank": "silver"
+      }
+    },
+    "c_cp_Photo": {
+      "alternateText": "スタッフポーズ_1",
+      "height": 778,
+      "sourceUrl": "https://a.mktgcdn.com/p/K69VeDMBDhFSSNSNeNrPaYciWtaqrtvGS2BA7q1wyuI/1298x778.png",
+      "thumbnails": [
+        {
+          "height": 778,
+          "url": "https://a.mktgcdn.com/p-sandbox/K69VeDMBDhFSSNSNeNrPaYciWtaqrtvGS2BA7q1wyuI/1298x778.png",
+          "width": 1298
+        },
+        {
+          "height": 371,
+          "url": "https://a.mktgcdn.com/p-sandbox/K69VeDMBDhFSSNSNeNrPaYciWtaqrtvGS2BA7q1wyuI/619x371.png",
+          "width": 619
+        },
+        {
+          "height": 360,
+          "url": "https://a.mktgcdn.com/p-sandbox/K69VeDMBDhFSSNSNeNrPaYciWtaqrtvGS2BA7q1wyuI/600x360.png",
+          "width": 600
+        },
+        {
+          "height": 117,
+          "url": "https://a.mktgcdn.com/p-sandbox/K69VeDMBDhFSSNSNeNrPaYciWtaqrtvGS2BA7q1wyuI/196x117.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/K69VeDMBDhFSSNSNeNrPaYciWtaqrtvGS2BA7q1wyuI/1298x778.png",
+      "width": 1298
+    },
+    "c_responsibleService": [
+      "海外専門デスクスタッフ"
+    ],
+    "name": "かとうひろし_21159001"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

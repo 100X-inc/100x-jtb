@@ -1,0 +1,62 @@
+{
+  "$id": "kumamoto",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "kyushu"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_chiki_100235",
+      "news_ap_y_ishihara225_016",
+      "news_ap_chiki_100137",
+      "news_ap_chiki_100173",
+      "news_ap_a_aoyama330_007",
+      "news_ap_h_furuta308_003",
+      "news_ap_n_morita323_006",
+      "news_ap_k_harada924_004",
+      "news_ap_m_tachibana004_005"
+    ],
+    "c_metaDescription": "熊本に関する記事をピックアップ！JTBニュースでは、熊本で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 熊本 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "熊本",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/8WBWd_FM5ewd3JIfXlvl2gQOpixg0NjOYS3mgWHXM7Y/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/KI2W-XAeccAM4A4ilp2N_RX-41wjyXlA8tTZ4SzTmps/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/KI2W-XAeccAM4A4ilp2N_RX-41wjyXlA8tTZ4SzTmps/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/KI2W-XAeccAM4A4ilp2N_RX-41wjyXlA8tTZ4SzTmps/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/KI2W-XAeccAM4A4ilp2N_RX-41wjyXlA8tTZ4SzTmps/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/KI2W-XAeccAM4A4ilp2N_RX-41wjyXlA8tTZ4SzTmps/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/KI2W-XAeccAM4A4ilp2N_RX-41wjyXlA8tTZ4SzTmps/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "熊本",
+    "slug": "kokunai/kyushu/kumamoto"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

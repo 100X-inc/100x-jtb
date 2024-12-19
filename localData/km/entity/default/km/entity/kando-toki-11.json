@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-11",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/11_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d45.296168%2C141.034103",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "海・湖・川・滝",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "「日本百名山」、「花の百名山」などに選ばれている利尻岳は、標高1,721mの独立峰です。山頂の一番高いところから海に向かってゆるやかな裾野を広げる姿が、富士山そっくりなことから「利尻富士」とも呼ばれています。島全体がひとつの山のように見えるその姿は、まさに富士山が日本海に浮かんでいるかのよう。登山愛好者からの人気も高く、夏になれば多くの登山客が利尻富士を登るため、この地を訪れます。この利尻岳の全容を見ることができるベストスポットが日本最北の島である礼文島。海に浮かぶ利尻富士を一番間近に見ることができる陸地です。礼文島から見える利尻富士は頂きに雪をまとい、「北の名峰」にふさわしい姿を海の上に浮かべています。\n見所・お勧めポイント\n礼文島の南に位置する桃岩展望台は、高さ250mの桃の形をした巨大な奇岩桃岩や晴れた日には花畑越しに利尻富士が眺められる絶景スポットです。フェリーターミナルのある香深から、トレッキングでも展望台近くの駐車場まで車でも行くことができ、歩く人の体力に合わせいろんなコース取りが可能です。散策の途中では、多種多様の珍しい花たちに出会えます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/11.asp",
+    "name": "礼文島から見る利尻富士"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

@@ -1,0 +1,37 @@
+{
+  "$id": "news_pa_europe",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_news_PopularAreas": [
+      "kaigai"
+    ],
+    "c_news_PopularAreasCTA": {
+      "label": "ヨーロッパ",
+      "link": "https://www.jtb.co.jp/news/list/kaigai/europe",
+      "linkType": "URL"
+    },
+    "c_news_PopularAreasImage": {
+      "alternateText": "ヨーロッパ",
+      "height": 327,
+      "sourceUrl": "https://a.mktgcdn.com/p/CbMdXTyPA6t7Mmh6_Ii9M6z30OSp2XqGAjgoVO6jTe0/500x327.jpg",
+      "thumbnails": [
+        {
+          "height": 327,
+          "url": "https://a.mktgcdn.com/p-sandbox/CbMdXTyPA6t7Mmh6_Ii9M6z30OSp2XqGAjgoVO6jTe0/500x327.jpg",
+          "width": 500
+        },
+        {
+          "height": 128,
+          "url": "https://a.mktgcdn.com/p-sandbox/CbMdXTyPA6t7Mmh6_Ii9M6z30OSp2XqGAjgoVO6jTe0/196x128.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/CbMdXTyPA6t7Mmh6_Ii9M6z30OSp2XqGAjgoVO6jTe0/500x327.jpg",
+      "width": 500
+    },
+    "name": "ヨーロッパ"
+  },
+  "entityType": "ce_popularArea",
+  "labels": []
+}

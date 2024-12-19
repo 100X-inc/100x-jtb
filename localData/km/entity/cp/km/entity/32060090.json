@@ -1,0 +1,70 @@
+{
+  "$id": "cp_32060090",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfrxq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "店長の西田でございます。\n当店は国内、海外、クルーズ、ウエディングに至るまで幅広いラインナップでを取り揃えております。皆様のご来店を心よりお待ちしております。",
+    "c_cp_DisplayName": "西田　隆",
+    "c_cp_FieldOfExpertise": [
+      "ウエディング",
+      "クルーズ"
+    ],
+    "c_cp_HiraganaName": "にしだ　たかし",
+    "c_cp_JobTitle": "JTBトラベルゲート新宿マルイ本館　トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "alternateText": "JTBトラベルゲート新宿マルイ本館　トラベルコンサルタント　西田（NISHIDA）",
+      "height": 2015,
+      "sourceUrl": "https://a.mktgcdn.com/p/IbS4YrIaP1YFOniROgAq3DnQZKxsKr9tSDEu6Sy39lg/3024x2015.jpg",
+      "thumbnails": [
+        {
+          "height": 2015,
+          "url": "https://a.mktgcdn.com/p-sandbox/ebtI9kVMH_orAVd_08Sp6W-mfJJitTduNVvsq0OlyjI/3024x2015.jpg",
+          "width": 3024
+        },
+        {
+          "height": 1266,
+          "url": "https://a.mktgcdn.com/p-sandbox/ebtI9kVMH_orAVd_08Sp6W-mfJJitTduNVvsq0OlyjI/1900x1266.jpg",
+          "width": 1900
+        },
+        {
+          "height": 412,
+          "url": "https://a.mktgcdn.com/p-sandbox/ebtI9kVMH_orAVd_08Sp6W-mfJJitTduNVvsq0OlyjI/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/ebtI9kVMH_orAVd_08Sp6W-mfJJitTduNVvsq0OlyjI/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/ebtI9kVMH_orAVd_08Sp6W-mfJJitTduNVvsq0OlyjI/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ebtI9kVMH_orAVd_08Sp6W-mfJJitTduNVvsq0OlyjI/3024x2015.jpg",
+      "width": 3024
+    },
+    "c_cp_Point": "1581",
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 西田（NISHIDA）",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 西田（NISHIDA）",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_32060090",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2024/02/01　JBX対応（リテール外転出）",
+    "name": "にしだ たかし_32060090",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

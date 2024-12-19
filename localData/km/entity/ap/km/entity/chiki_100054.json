@@ -1,0 +1,278 @@
+{
+  "$id": "ap_chiki_100054",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター 北陸仕入担当"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "ゆったりとした館内にお部屋は29室。そのどれもが海に面しており、大きくとられた窓の外に七尾湾の眺望が広がっています。全てのお部屋にベッドとソファが置かれ、「和」の風情を大切にしながらも機能的にアレンジされています。12畳にツインベッドが置かれた「和室」や、13畳の和室とベッドルーム、広縁も備えた「和洋室」のほか、グループにも使いやすいコネクティングルームもあります。全室にマッサージチェアが置かれ、アメニティも豊富に揃っているので優雅な気分で滞在できます。温泉を備えた特別室は4部屋あります。広々としたリビングのある「露天風呂付特別室」や「展望風呂付特別室」で、お部屋にいながら和倉の温を心ゆくまで楽しんでください。",
+        "image": {
+          "height": 871,
+          "sourceUrl": "https://a.mktgcdn.com/p/7kZlnQtUUPDhw06d4yUL3noALUAmNMTtkPZy_H9H9LU/1200x871.jpg",
+          "thumbnails": [
+            {
+              "height": 871,
+              "url": "https://a.mktgcdn.com/p-sandbox/7kZlnQtUUPDhw06d4yUL3noALUAmNMTtkPZy_H9H9LU/1200x871.jpg",
+              "width": 1200
+            },
+            {
+              "height": 449,
+              "url": "https://a.mktgcdn.com/p-sandbox/7kZlnQtUUPDhw06d4yUL3noALUAmNMTtkPZy_H9H9LU/619x449.jpg",
+              "width": 619
+            },
+            {
+              "height": 436,
+              "url": "https://a.mktgcdn.com/p-sandbox/7kZlnQtUUPDhw06d4yUL3noALUAmNMTtkPZy_H9H9LU/600x436.jpg",
+              "width": 600
+            },
+            {
+              "height": 142,
+              "url": "https://a.mktgcdn.com/p-sandbox/7kZlnQtUUPDhw06d4yUL3noALUAmNMTtkPZy_H9H9LU/196x142.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7kZlnQtUUPDhw06d4yUL3noALUAmNMTtkPZy_H9H9LU/1200x871.jpg",
+          "width": 1200
+        },
+        "imageCaption": "和室の一例。窓側にベッドが置かれた機能的なお部屋",
+        "sectionTitle": "窓の外に広がる七尾湾の絶景。静寂に包まれた大人の空間で過ごす"
+      },
+      {
+        "description": "夕食では、日本海の恵みを活かした季節の会席料理を。器にもこだわっており、一皿一皿、丁寧に仕上げられたお料理の数々に、加賀屋が長年培った調理技術が受け継がれています。器にもこだわっており、九谷焼や輪島塗などの伝統的な器だけでなく、松乃碧オリジナルのものも。見た目も美しいお料理はどれも、お皿の上からも季節を感じられる逸品ばかりです。朝食は、野菜の食感を楽しめるサラダをはじめ、いろいろな味を少しずつ堪能できるヘルシーな朝食で、気持ちのいい朝を迎えてください。",
+        "image": {
+          "height": 927,
+          "sourceUrl": "https://a.mktgcdn.com/p/4N2pzagqDPL5JgngQZC3bprPt0D7aLXSdWttJIXtI9k/1200x927.jpg",
+          "thumbnails": [
+            {
+              "height": 927,
+              "url": "https://a.mktgcdn.com/p-sandbox/4N2pzagqDPL5JgngQZC3bprPt0D7aLXSdWttJIXtI9k/1200x927.jpg",
+              "width": 1200
+            },
+            {
+              "height": 478,
+              "url": "https://a.mktgcdn.com/p-sandbox/4N2pzagqDPL5JgngQZC3bprPt0D7aLXSdWttJIXtI9k/619x478.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/4N2pzagqDPL5JgngQZC3bprPt0D7aLXSdWttJIXtI9k/583x450.jpg",
+              "width": 583
+            },
+            {
+              "height": 151,
+              "url": "https://a.mktgcdn.com/p-sandbox/4N2pzagqDPL5JgngQZC3bprPt0D7aLXSdWttJIXtI9k/196x151.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4N2pzagqDPL5JgngQZC3bprPt0D7aLXSdWttJIXtI9k/1200x927.jpg",
+          "width": 1200
+        },
+        "imageCaption": "日本海の幸が詰まった夕食の一例",
+        "sectionTitle": "季節を感じる幸せ。日本海の恵みを活かしたお料理に舌鼓"
+      },
+      {
+        "description": "和倉温泉は、北陸で唯一の「海の温泉」として親しまれています。高温で豊富な湯量が魅力で、湯治場として長い歴史を誇る温泉を、さまざまなスタイルで楽しめます。女性大浴場「黄昏の湯」は、海と空に溶け込むような露天風呂が自慢。絶景を望みながら入浴を楽しめます。「暁の湯」は男性大浴場です。海に面した情緒ある岩風呂からは七尾湾を一望でき、遠くに能登島大橋の姿も望めます。それぞれに、ゆったりとした内湯もあるので、開放的な気分を味わいながら和倉の湯を楽しんでください。温泉の後は、湯上がりサロンでリラックス。フリーのドリンクやアイスクリームもあり、湯上がりのひとときを楽しめます。姉妹館「加賀屋」と「あえの風」のお風呂も利用できるので、湯めぐりを楽しめるのも魅力です。",
+        "image": {
+          "height": 862,
+          "sourceUrl": "https://a.mktgcdn.com/p/iiMGbnyohc6qHKyFfUoH9OP0aSCnPkOGnF0MwYQbSic/1200x862.jpg",
+          "thumbnails": [
+            {
+              "height": 862,
+              "url": "https://a.mktgcdn.com/p-sandbox/iiMGbnyohc6qHKyFfUoH9OP0aSCnPkOGnF0MwYQbSic/1200x862.jpg",
+              "width": 1200
+            },
+            {
+              "height": 445,
+              "url": "https://a.mktgcdn.com/p-sandbox/iiMGbnyohc6qHKyFfUoH9OP0aSCnPkOGnF0MwYQbSic/619x445.jpg",
+              "width": 619
+            },
+            {
+              "height": 431,
+              "url": "https://a.mktgcdn.com/p-sandbox/iiMGbnyohc6qHKyFfUoH9OP0aSCnPkOGnF0MwYQbSic/600x431.jpg",
+              "width": 600
+            },
+            {
+              "height": 141,
+              "url": "https://a.mktgcdn.com/p-sandbox/iiMGbnyohc6qHKyFfUoH9OP0aSCnPkOGnF0MwYQbSic/196x141.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iiMGbnyohc6qHKyFfUoH9OP0aSCnPkOGnF0MwYQbSic/1200x862.jpg",
+          "width": 1200
+        },
+        "imageCaption": "海に浮いているような黄昏の湯の露天風呂",
+        "sectionTitle": "開湯1200年の歴史ある海の温泉を、七尾湾の絶景とともに"
+      },
+      {
+        "description": "エントランスホールだけでなく、館内のあちこちに地元伝統工芸品が配されており、館内はまるで美術館のようです。ラウンジロビーから眺める「松林図屏風」をモチーフにした海と松の風景や、前田家ゆかりの茶室など、いたるところで伝統美を感じることができます。宿泊料金に滞在中の飲み物が含まれる「インクルーシブ」システムも評判で、ロビーラウンジやお部屋の冷蔵庫、お食事処やバーでの飲み物を自由に楽しめます。思うままに自分の時間を過ごして、明日への活力を養ってくださいね。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://www.jtb.co.jp/kokunai-hotel/htl/5343023/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e宿の基本情報・アクセス・地図はこちら\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 802,
+          "sourceUrl": "https://a.mktgcdn.com/p/u1hKvKTZ3eIFozRs1YQlA8a6LI-CV3IjrW39-RUIDwM/1200x802.jpg",
+          "thumbnails": [
+            {
+              "height": 802,
+              "url": "https://a.mktgcdn.com/p-sandbox/u1hKvKTZ3eIFozRs1YQlA8a6LI-CV3IjrW39-RUIDwM/1200x802.jpg",
+              "width": 1200
+            },
+            {
+              "height": 414,
+              "url": "https://a.mktgcdn.com/p-sandbox/u1hKvKTZ3eIFozRs1YQlA8a6LI-CV3IjrW39-RUIDwM/619x414.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/u1hKvKTZ3eIFozRs1YQlA8a6LI-CV3IjrW39-RUIDwM/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/u1hKvKTZ3eIFozRs1YQlA8a6LI-CV3IjrW39-RUIDwM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/u1hKvKTZ3eIFozRs1YQlA8a6LI-CV3IjrW39-RUIDwM/1200x802.jpg",
+          "width": 1200
+        },
+        "imageCaption": "エントランスホールの「角偉三郎美術館」",
+        "sectionTitle": "美術館のように優雅な館内。北陸初のインクルーシブシステムも評判"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2022-07-01",
+    "c_ap_HeroImage": {
+      "alternateText": "地元伝統工芸品に囲まれて、大人の特別な時間を楽しめる宿【石川県　加賀屋別邸松乃碧】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 711,
+      "sourceUrl": "https://a.mktgcdn.com/p/aXmXBl8a5RD7pWiNis7sGlNGtgAm8TGey4cz7rh_W-w/1179x711.jpg",
+      "thumbnails": [
+        {
+          "height": 711,
+          "url": "https://a.mktgcdn.com/p-sandbox/aXmXBl8a5RD7pWiNis7sGlNGtgAm8TGey4cz7rh_W-w/1179x711.jpg",
+          "width": 1179
+        },
+        {
+          "height": 373,
+          "url": "https://a.mktgcdn.com/p-sandbox/aXmXBl8a5RD7pWiNis7sGlNGtgAm8TGey4cz7rh_W-w/619x373.jpg",
+          "width": 619
+        },
+        {
+          "height": 362,
+          "url": "https://a.mktgcdn.com/p-sandbox/aXmXBl8a5RD7pWiNis7sGlNGtgAm8TGey4cz7rh_W-w/600x362.jpg",
+          "width": 600
+        },
+        {
+          "height": 118,
+          "url": "https://a.mktgcdn.com/p-sandbox/aXmXBl8a5RD7pWiNis7sGlNGtgAm8TGey4cz7rh_W-w/196x118.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/aXmXBl8a5RD7pWiNis7sGlNGtgAm8TGey4cz7rh_W-w/1179x711.jpg",
+      "width": 1179
+    },
+    "c_ap_HeroImageCaption": "ワンランク上の上質なひとときを",
+    "c_ap_LinkArticleSectionTitle": "石川県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "加賀屋別邸 松乃碧 のWebで予約できるプラン",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/htl/5343023/plan/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "和倉温泉・七尾のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/170202/"
+      },
+      {
+        "linkText": "石川旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/ishikawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea3": [
+      "北陸全般",
+      "石川県"
+    ],
+    "c_ap_ShortDescription": "「加賀屋別邸松乃碧」は、和倉温泉を代表する温泉宿「加賀屋」による大人のための宿です。輪島塗や九谷焼など、地元・石川県の伝統工芸品で演出された館内はまるで美術館のよう。エントランスギャラリーには、輪島出身の工芸家・角偉三郎の作品が飾られています。茶室庭園には前田家ゆかりの茶室があり、海を眺めながら本格的な茶道を体験することもできます（宿泊の場合のみ）。\n七尾湾を望む静寂のお部屋や、地元食材や器にまでこだわった食事、開湯1200年の歴史を誇る和倉の湯など、そのどれもが優雅で上質。北陸初のインクルーシブシステムも評判で、非日常の特別な時間を過ごすことができます。",
+    "c_ap_Tags": [
+      "和倉温泉",
+      "加賀屋",
+      "輪島塗",
+      "九谷焼",
+      "茶室"
+    ],
+    "c_ap_Theme": [
+      "夫婦旅",
+      "記念旅行",
+      "歴史・地理",
+      "お酒",
+      "温泉・立ち寄り湯",
+      "伝統工芸・民芸",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "地元伝統工芸品に囲まれて、大人の特別な時間を楽しめる宿【石川県　加賀屋別邸松乃碧】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "「加賀屋別邸松乃碧」は、和倉温泉を代表する温泉宿「加賀屋」による大人のための宿です。輪島塗や九谷焼など、地元・石川県の伝統工芸品で演出された館内はまるで美術館のよう。エントランスギャラリーには、輪島出身の工芸…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "地元伝統工芸品に囲まれて、大人の特別な時間を楽しめる宿【石川県　加賀屋別邸松乃碧】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100054",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北陸全般, 石川県",
+    "c_searchTags": [
+      "中部・北陸：北陸全般, 石川県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：北陸全般, 石川県",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "地元伝統工芸品に囲まれて、大人の特別な時間を楽しめる宿【石川県　加賀屋別邸松乃碧】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,59 @@
+{
+  "$id": "shimane",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "chugoku"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_y_ishihara225_029",
+      "news_ap_n_morita323_007",
+      "news_ap_k_sugino002_002",
+      "news_ap_n_morita323_003",
+      "news_ap_y_kitano151_006",
+      "news_ap_m_tachibana004_006"
+    ],
+    "c_metaDescription": "島根に関する記事をピックアップ！JTBニュースでは、島根で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 島根 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "島根",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/O0B8h7LhtK7_5ZAgt1Mm4gT6fAtvBvFF7J_U30mAsV8/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/1HGldTzh_mGtfamoBrZh1fqna42mBRKrcZ60HAHa35M/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/1HGldTzh_mGtfamoBrZh1fqna42mBRKrcZ60HAHa35M/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/1HGldTzh_mGtfamoBrZh1fqna42mBRKrcZ60HAHa35M/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/1HGldTzh_mGtfamoBrZh1fqna42mBRKrcZ60HAHa35M/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/1HGldTzh_mGtfamoBrZh1fqna42mBRKrcZ60HAHa35M/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/1HGldTzh_mGtfamoBrZh1fqna42mBRKrcZ60HAHa35M/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "島根",
+    "slug": "kokunai/chugoku/shimane"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

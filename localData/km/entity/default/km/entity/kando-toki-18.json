@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-18",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/18_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d42.855176%2C141.096589",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "支笏洞爺国立公園内にあり、国道230号の最高地点（標高835m）に位置する中山峠。この中山峠にある道の駅「望羊中山」周辺からは、「蝦夷富士」とも呼ばれる羊蹄山（ようていざん）の雄大な姿を、大パノラマで見ることができます。さらに早朝、普段は深い森に囲まれている羊蹄山の周辺に、雲海が見られることがあります。雲海の上に頭を出した時の羊蹄山や尻別岳（しりべつだけ）は、普段の姿とは一味違う、幻想的な雰囲気をかもし出し、旅人の目を惹きつけます。道の駅には飲食物の持ち込み自由な休憩所兼展望スペースがあるので、ここでしか味わえない地元名物「峠のあげいも」を食べ、美しい景色を満喫しながら、のんびりと一休みすることができます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/18.asp",
+    "name": "中山峠 雲海と羊蹄山"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

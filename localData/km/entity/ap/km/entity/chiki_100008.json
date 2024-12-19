@@ -1,0 +1,314 @@
+{
+  "$id": "ap_chiki_100008",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター 山田"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "江戸時代後期、日本橋びーどろ問屋加賀谷久兵衛が当時の切子細工を工夫したものが江戸切子の始まりとされています。組み合わせによって変化する紋様は無数にあり、どれも美しく思わず見とれてしまいます。今回訪れたのは、100年以上続く老舗の硝子メーカーから墨田区認定の工房として独立したショップ、すみだ江戸切子館。江戸切子の歴史、制作過程や道具類が展示されており、ガラス越しに職人さんの技を直接見学することもできます。",
+        "image": {
+          "height": 984,
+          "sourceUrl": "https://a.mktgcdn.com/p/jc55fYSPHCXKrmYsT0qVsb7NseSkfMLFhKfXsS21y_w/1280x984.jpg",
+          "thumbnails": [
+            {
+              "height": 984,
+              "url": "https://a.mktgcdn.com/p-sandbox/jc55fYSPHCXKrmYsT0qVsb7NseSkfMLFhKfXsS21y_w/1280x984.jpg",
+              "width": 1280
+            },
+            {
+              "height": 476,
+              "url": "https://a.mktgcdn.com/p-sandbox/jc55fYSPHCXKrmYsT0qVsb7NseSkfMLFhKfXsS21y_w/619x476.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/jc55fYSPHCXKrmYsT0qVsb7NseSkfMLFhKfXsS21y_w/585x450.jpg",
+              "width": 585
+            },
+            {
+              "height": 151,
+              "url": "https://a.mktgcdn.com/p-sandbox/jc55fYSPHCXKrmYsT0qVsb7NseSkfMLFhKfXsS21y_w/196x151.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jc55fYSPHCXKrmYsT0qVsb7NseSkfMLFhKfXsS21y_w/1280x984.jpg",
+          "width": 1280
+        },
+        "imageCaption": "東京スカイツリー®からは徒歩約15分！",
+        "sectionTitle": "今更聞けない…江戸切子って、何ですか？"
+      },
+      {
+        "description": "ドキドキしながらドアを開けると、煌びやかな江戸切子がズラリ！伝統工芸品だからお高いものばかりなのでは…と思っていましたが、3,000円程度のものなど、手が届く商品もありました。桜の紋様など可愛らしいデザインのものもあり、普段使いできそうです！",
+        "image": {
+          "height": 572,
+          "sourceUrl": "https://a.mktgcdn.com/p/HbIw42XhKAAP-Rz3obrl-XPO65EiJEMf8pwoekWUfa8/737x572.jpg",
+          "thumbnails": [
+            {
+              "height": 572,
+              "url": "https://a.mktgcdn.com/p-sandbox/HbIw42XhKAAP-Rz3obrl-XPO65EiJEMf8pwoekWUfa8/737x572.jpg",
+              "width": 737
+            },
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/HbIw42XhKAAP-Rz3obrl-XPO65EiJEMf8pwoekWUfa8/619x480.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/HbIw42XhKAAP-Rz3obrl-XPO65EiJEMf8pwoekWUfa8/580x450.jpg",
+              "width": 580
+            },
+            {
+              "height": 152,
+              "url": "https://a.mktgcdn.com/p-sandbox/HbIw42XhKAAP-Rz3obrl-XPO65EiJEMf8pwoekWUfa8/196x152.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HbIw42XhKAAP-Rz3obrl-XPO65EiJEMf8pwoekWUfa8/737x572.jpg",
+          "width": 737
+        },
+        "imageCaption": "光を受けてキラキラと輝いています…",
+        "sectionTitle": "初めてでも大丈夫！まずはとにかくやってみよう！"
+      },
+      {
+        "description": "職人さんの手によって美しく仕上げられた商品を購入するのももちろん素敵ですが、今回は自分でグラスの制作にチャレンジします！やる気さえあれば、手ぶらでＯＫな気軽さが嬉しい。早速スタッフの方からレクチャーを受けます。体験あるあるですが、見ている分には簡単そう…。",
+        "image": {
+          "height": 960,
+          "sourceUrl": "https://a.mktgcdn.com/p/Yi1lnbxnSzxlr5enibIU77CfZymLka7iP1lI6k3pW8g/1280x960.jpg",
+          "thumbnails": [
+            {
+              "height": 960,
+              "url": "https://a.mktgcdn.com/p-sandbox/Yi1lnbxnSzxlr5enibIU77CfZymLka7iP1lI6k3pW8g/1280x960.jpg",
+              "width": 1280
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/Yi1lnbxnSzxlr5enibIU77CfZymLka7iP1lI6k3pW8g/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Yi1lnbxnSzxlr5enibIU77CfZymLka7iP1lI6k3pW8g/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Yi1lnbxnSzxlr5enibIU77CfZymLka7iP1lI6k3pW8g/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Yi1lnbxnSzxlr5enibIU77CfZymLka7iP1lI6k3pW8g/1280x960.jpg",
+          "width": 1280
+        },
+        "imageCaption": "グラスを覗き込みながら彫っていきます。",
+        "sectionTitle": "さあ、どれを選ぶ？なにを彫る？"
+      },
+      {
+        "description": "まずは練習用グラスで挑戦！…するも、思ったように彫れず、「もしかして紋様なんて付けられず、ただ傷をつけて終わるのでは…？」と一抹の不安がよぎります。ですが、優しくしっかりアドバイスをくださるので、20分ほどすればだんだん感覚が掴めてきます！",
+        "image": {
+          "height": 960,
+          "sourceUrl": "https://a.mktgcdn.com/p/5Tpph2E44_6QBwLpRA6Ys-VXk2nSVB4_GqyBufTnVr0/1280x960.jpg",
+          "thumbnails": [
+            {
+              "height": 960,
+              "url": "https://a.mktgcdn.com/p-sandbox/5Tpph2E44_6QBwLpRA6Ys-VXk2nSVB4_GqyBufTnVr0/1280x960.jpg",
+              "width": 1280
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/5Tpph2E44_6QBwLpRA6Ys-VXk2nSVB4_GqyBufTnVr0/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/5Tpph2E44_6QBwLpRA6Ys-VXk2nSVB4_GqyBufTnVr0/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/5Tpph2E44_6QBwLpRA6Ys-VXk2nSVB4_GqyBufTnVr0/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5Tpph2E44_6QBwLpRA6Ys-VXk2nSVB4_GqyBufTnVr0/1280x960.jpg",
+          "width": 1280
+        },
+        "imageCaption": "スタッフさん「結構力を入れて大丈夫ですよ！」",
+        "sectionTitle": "いざ、マイグラス制作！"
+      },
+      {
+        "description": "用意されたグラスの中から、好きなものをチョイス！このグラス自体も、ひとつひとつが職人さんの手作りです。今回は初心者でも扱いやすいという、側面が真っ直ぐな形のものを選びました。理想のデザインを描きつつ、先ほどの練習を踏まえて自分の技量と相談しながらペンを動かします。",
+        "image": {
+          "height": 242,
+          "sourceUrl": "https://a.mktgcdn.com/p/X66Xc4_vJhzAzN7kIC8AcMlWvC5jcfq5y-cBoUwgLwE/614x242.jpg",
+          "thumbnails": [
+            {
+              "height": 242,
+              "url": "https://a.mktgcdn.com/p-sandbox/X66Xc4_vJhzAzN7kIC8AcMlWvC5jcfq5y-cBoUwgLwE/614x242.jpg",
+              "width": 614
+            },
+            {
+              "height": 236,
+              "url": "https://a.mktgcdn.com/p-sandbox/X66Xc4_vJhzAzN7kIC8AcMlWvC5jcfq5y-cBoUwgLwE/600x236.jpg",
+              "width": 600
+            },
+            {
+              "height": 77,
+              "url": "https://a.mktgcdn.com/p-sandbox/X66Xc4_vJhzAzN7kIC8AcMlWvC5jcfq5y-cBoUwgLwE/196x77.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/X66Xc4_vJhzAzN7kIC8AcMlWvC5jcfq5y-cBoUwgLwE/614x242.jpg",
+          "width": 614
+        },
+        "imageCaption": "お店の方とも相談しながら、マーカーで下書き。デザインするのも楽しい！",
+        "sectionTitle": "やってみるから分かる楽しさ・奥深さ"
+      },
+      {
+        "description": "いよいよ本番！集中して取り組みます。彫り進めていくと、グラスの色が消えて光が差し込む瞬間があるのですが、それが本当に美しく…。ガラスがシュルシュルと動く様子が見え、自分とグラスだけの世界に入り込んだかのよう。思わず見とれてしまうので、彫りすぎないように注意します！",
+        "image": {
+          "height": 960,
+          "sourceUrl": "https://a.mktgcdn.com/p/FIFApm33sLG7F7MrdZSOyamqNciM69sNt3GbsOdHrqw/1280x960.jpg",
+          "thumbnails": [
+            {
+              "height": 960,
+              "url": "https://a.mktgcdn.com/p-sandbox/FIFApm33sLG7F7MrdZSOyamqNciM69sNt3GbsOdHrqw/1280x960.jpg",
+              "width": 1280
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/FIFApm33sLG7F7MrdZSOyamqNciM69sNt3GbsOdHrqw/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/FIFApm33sLG7F7MrdZSOyamqNciM69sNt3GbsOdHrqw/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/FIFApm33sLG7F7MrdZSOyamqNciM69sNt3GbsOdHrqw/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FIFApm33sLG7F7MrdZSOyamqNciM69sNt3GbsOdHrqw/1280x960.jpg",
+          "width": 1280
+        },
+        "imageCaption": "無心になってグラスと向き合います。彫る場所によって感覚や音が変わるのも楽しい！"
+      },
+      {
+        "description": "あっという間に体験が終了！リピーターの方もいるとのことでしたが、納得の楽しさです。一生懸命作ったグラスは、我が子のようにかわいいもの。大切に、末永く使っていきたいものが一つ増えました。また自分で体験してみることで、お店に並ぶグラスがいかに素晴らしい技術をもって作られたものかということも、改めて感じることができました。伝統と最新鋭が混ざり合い、様々なモノやコトが生まれる街、東京。行ってみたい！やってみたい！が叶えられる魅力的な都市だからこそ、自分流に掘り下げてみてはいかがでしょうか？----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "imageCaption": "世界に一つだけのマイグラス！早速晩酌で使いました。"
+      }
+    ],
+    "c_ap_DatePosted": "2021-10-22",
+    "c_ap_HeroImage": {
+      "alternateText": "気分は職人？！江戸切子制作を体験！【東京都墨田区】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/UgfNmpeAkmemOAIrPq5y2FOEUJ6JSAIXQpwORTUd-TA/1280x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/UgfNmpeAkmemOAIrPq5y2FOEUJ6JSAIXQpwORTUd-TA/1280x960.jpg",
+          "width": 1280
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/UgfNmpeAkmemOAIrPq5y2FOEUJ6JSAIXQpwORTUd-TA/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/UgfNmpeAkmemOAIrPq5y2FOEUJ6JSAIXQpwORTUd-TA/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/UgfNmpeAkmemOAIrPq5y2FOEUJ6JSAIXQpwORTUd-TA/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/UgfNmpeAkmemOAIrPq5y2FOEUJ6JSAIXQpwORTUd-TA/1280x960.jpg",
+      "width": 1280
+    },
+    "c_ap_LinkArticleSectionTitle": "東京都のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "「すみだ江戸切子館」での江戸切子制作体験ができるプランはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/dynamic/enjoy/to_yoko/"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "東京都"
+    ],
+    "c_ap_ShortDescription": "暑さも和らぎ、ちょっとアクティブに動いてみようかな？と思える季節になりましたね。食欲の秋・スポーツの秋など色々ありますが、今回は”芸術の秋”！東京都墨田区にある「すみだ江戸切子館」で、マイグラス制作を体験してきました。伝統工芸って、なんだか難しそう…と不安でいっぱいでしたが、これがもうとにかく楽しい！！「見たことある…」が「やったことある！」に変わると、解像度がグッと上がります。",
+    "c_ap_Tags": [
+      "体験",
+      "ものづくり",
+      "江戸切子"
+    ],
+    "c_ap_Title": "気分は職人？！江戸切子制作を体験！【東京都　墨田区】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "暑さも和らぎ、ちょっとアクティブに動いてみようかな？と思える季節になりましたね。食欲の秋・スポーツの秋など色々ありますが、今回は”芸術の秋”！東京都墨田区にある「すみだ江戸切子館」で、マイグラス制作を体験して…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "気分は職人？！江戸切子制作を体験！【東京都墨田区】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100008",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "東京都",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "気分は職人？！江戸切子制作を体験！【東京都墨田区】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

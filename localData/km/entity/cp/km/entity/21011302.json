@@ -1,0 +1,59 @@
+{
+  "$id": "cp_21011302",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "大阪府",
+    "c_cp_CTA1": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVBVxG",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "【ご挨拶】\nいつも八尾アリオ店をご利用いただきましてありがとうございます。店長の東川です。\n当店では、旅のご相談時より旅先を想像して楽しい気分になっていただけるようなご提案をさせていただきたいと日々努めております。\n皆さまのご来店を社員一同心よりお待ちしております。",
+    "c_cp_DisplayName": "東川",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "夫婦旅",
+      "ハネムーン",
+      "温泉・立ち寄り湯"
+    ],
+    "c_cp_HiraganaName": "とがわ",
+    "c_cp_JobTitle": "JTB八尾アリオ店 店長",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 183,
+      "sourceUrl": "https://a.mktgcdn.com/p/8gej3nBZjDybR17ZVU4r-2O80H-JSfegofAWY3r6IIo/155x183.jpg",
+      "thumbnails": [
+        {
+          "height": 183,
+          "url": "https://a.mktgcdn.com/p-sandbox/IJoPMVTxrhvZclNlI4axZWDf4cwEJhTGxzGhcotfDsQ/155x183.jpg",
+          "width": 155
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/IJoPMVTxrhvZclNlI4axZWDf4cwEJhTGxzGhcotfDsQ/155x183.jpg",
+      "width": 155
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "ハワイスペシャリスト上級"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 東川",
+    "c_metaTitle": "JTBトラベルコンサルタント | 東川",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21011302",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10330_八尾アリオ店",
+    "name": "とがわ _21011302",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

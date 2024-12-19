@@ -1,0 +1,358 @@
+{
+  "$id": "ap_chiki_100173",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 熊本県担当　手島 由樹子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "「阿蘇プラザホテル」の敷地には「万病の湯」ともよばれる含弱放射能(ナトリウム・カルシウム)硫酸塩泉の源泉が2カ所あり、湯量も豊富。浴室は３カ所あり、特筆すべきは7階屋上にある展望露天風呂「嶽湯空拝[たけゆくうはい]」。湯船から阿蘇五岳まで遮るものは一切なし。これぞ阿蘇！という絶景が楽しめます。夜には眼下に街の明かりが、見上げれば満天の星空と、日中とはまた違った絶景が望めます。朝な夕なに湯あみを楽しんでみてください。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/S5B5Bvw6uZ_1Rw99EPqlJoHw2edPcc5fMd0S3HImMyA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/rK3T7w6YG5Mmsjoo9n7TdffOJ50_75VxBU6TwMYxSDA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/rK3T7w6YG5Mmsjoo9n7TdffOJ50_75VxBU6TwMYxSDA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/rK3T7w6YG5Mmsjoo9n7TdffOJ50_75VxBU6TwMYxSDA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/rK3T7w6YG5Mmsjoo9n7TdffOJ50_75VxBU6TwMYxSDA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rK3T7w6YG5Mmsjoo9n7TdffOJ50_75VxBU6TwMYxSDA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "阿蘇ならではの壮大な風景を眺められる、展望露天風呂「嶽湯空拝」",
+        "sectionTitle": "2カ所の源泉から滔々と注がれる温泉を露天風呂で堪能"
+      },
+      {
+        "description": "別棟2階には日本庭園に面した露天風呂付きの大浴場「望峰の湯[ほうぼうのゆ]」があります。岩組の露天風呂は野趣にあふれ、展望風呂とはまた違った趣を楽しみながら、良質な温泉が楽しめます。内湯にはサウナも完備していて、旅の疲れを癒すのに最適です。",
+        "image": {
+          "height": 850,
+          "sourceUrl": "https://a.mktgcdn.com/p/LwXfG6lBo_GKPHO8-QkulTdY1KuhJQTUNRk4UXrwQoI/1280x850.jpg",
+          "thumbnails": [
+            {
+              "height": 850,
+              "url": "https://a.mktgcdn.com/p-sandbox/08tens3hZTGIQDIF0PJQxib750z742CqP3TqDZr1NpI/1280x850.jpg",
+              "width": 1280
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/08tens3hZTGIQDIF0PJQxib750z742CqP3TqDZr1NpI/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/08tens3hZTGIQDIF0PJQxib750z742CqP3TqDZr1NpI/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/08tens3hZTGIQDIF0PJQxib750z742CqP3TqDZr1NpI/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/08tens3hZTGIQDIF0PJQxib750z742CqP3TqDZr1NpI/1280x850.jpg",
+          "width": 1280
+        },
+        "imageCaption": "岩を組んで造られた「望峰の湯」の露天風呂",
+        "sectionTitle": "純和風客室からベッドを配した洋室や最大12名まで泊まれる客室まで"
+      },
+      {
+        "description": "「阿蘇プラザホテル」の客室は眺望とフロアを選べるのが特徴。３～5階の「阿蘇五岳側」からは雄大な阿蘇五岳を「町並み側」からは外輪山と内牧温泉の町並みが望めます。フロアではリーズナブルに泊まれる2階の「内牧」や最上階の6階はワンランク上のサービスも楽しめる「ラウンジフロア」があります。さらには、最大12名まで一緒の部屋に泊まれる20畳の和室の「団欒[だんらん]」も。みんな一緒に布団を並べて寝られるなんて、まるで修学旅行のよう。いつもと違ったグループ旅行が楽しめるのも「阿蘇プラザホテル」ならでは。多彩な宿泊プランがあるので好みに合わせて選んでみてください。",
+        "image": {
+          "height": 794,
+          "sourceUrl": "https://a.mktgcdn.com/p/0RHDLkekmAk5KqFHXIV09WqtSa5thAQZZ3lQFA8C5SI/1200x794.jpg",
+          "thumbnails": [
+            {
+              "height": 794,
+              "url": "https://a.mktgcdn.com/p-sandbox/52uX6HDxuGdEnMuXbltmLkiPUZ5QjPXe47VI9G_FLFM/1200x794.jpg",
+              "width": 1200
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/52uX6HDxuGdEnMuXbltmLkiPUZ5QjPXe47VI9G_FLFM/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 397,
+              "url": "https://a.mktgcdn.com/p-sandbox/52uX6HDxuGdEnMuXbltmLkiPUZ5QjPXe47VI9G_FLFM/600x397.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/52uX6HDxuGdEnMuXbltmLkiPUZ5QjPXe47VI9G_FLFM/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/52uX6HDxuGdEnMuXbltmLkiPUZ5QjPXe47VI9G_FLFM/1200x794.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「望峰の湯」の内湯からは庭園越しに阿蘇五山を望めます",
+        "sectionTitle": "旬の味と熊本ならではの名産に舌鼓"
+      },
+      {
+        "description": "旅の楽しみといえば“食事”もその１つ。「阿蘇プラザホテル」では、阿蘇の旬の食材をふんだんに盛り込んだ会席料理を夕食付プランで食べられます。その時の旬を味わうためのメニューは月替わり。訪れる月によって違ったおいしい味に出会えるので楽しみが増えますよ。また、会席料理に「あか牛の溶岩焼き」を追加したプランや、馬刺しや辛子蓮根といった熊本の名産を別注文で堪能できます。馬刺しや辛子蓮根は当日予約も可能ですが、事前に予約しておくとより安心です。地元の味もぜひ味わってみてください。朝食は熊本県産の食材を使った料理の数々をバイキングスタイルで提供しています。和洋さまざまな料理と新鮮な野菜で朝から健康的に。状況によっては定食スタイルの「和朝食」になることもあるそうです。いずれにしてもおいしい朝ご飯。1日のスタートを楽しくしてくれますよ。",
+        "image": {
+          "height": 850,
+          "sourceUrl": "https://a.mktgcdn.com/p/6PX3R9elaKGJpZ8VEQk7jxrezW-Y4B-HazXyodqklPw/1280x850.jpg",
+          "thumbnails": [
+            {
+              "height": 850,
+              "url": "https://a.mktgcdn.com/p-sandbox/I5rNfWJA-6QNj-1QgXAOTkH7KvYUIckvB69miGH7DQc/1280x850.jpg",
+              "width": 1280
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/I5rNfWJA-6QNj-1QgXAOTkH7KvYUIckvB69miGH7DQc/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/I5rNfWJA-6QNj-1QgXAOTkH7KvYUIckvB69miGH7DQc/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/I5rNfWJA-6QNj-1QgXAOTkH7KvYUIckvB69miGH7DQc/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/I5rNfWJA-6QNj-1QgXAOTkH7KvYUIckvB69miGH7DQc/1280x850.jpg",
+          "width": 1280
+        },
+        "imageCaption": "雄大な阿蘇五山が眺められる客室も",
+        "sectionTitle": "温泉だけじゃない、館内には楽しめるスポットがたくさん"
+      },
+      {
+        "description": "温泉や客室からの眺めはもちろんですが、「阿蘇プラザホテル」の楽しみ方はほかにもあります。まずはロビー。エミールガレやレイモンペイネ、千住博、佐藤忠良、浜田庄司、酒井田 柿右衛門といった美術品を展示しています。美術品はもちろんレトロな雰囲気の家具なども配しているので、映え写真を撮影することもできますよ。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/ATG2PBMWcj99FHJ_DvzoM-bObYydTCqQxd1VVRajG8s/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/uFJ-5sqWBa_LBogA_ql8NgSM_v7rPEMF2Y1ahAET9Hg/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/uFJ-5sqWBa_LBogA_ql8NgSM_v7rPEMF2Y1ahAET9Hg/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/uFJ-5sqWBa_LBogA_ql8NgSM_v7rPEMF2Y1ahAET9Hg/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/uFJ-5sqWBa_LBogA_ql8NgSM_v7rPEMF2Y1ahAET9Hg/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uFJ-5sqWBa_LBogA_ql8NgSM_v7rPEMF2Y1ahAET9Hg/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "あか牛の溶岩焼きがついた夕食メニューのイメージ"
+      },
+      {
+        "description": "ロビーの窓はとても大きく取られていて、前には日本庭園の中庭も。春には梅や桜が咲き、開花時期にはテーブルが出され、お酒や軽食を楽しむことができます。日本庭園の先にはTVで紹介され話題となったパワースポットがあります。ここではぜひスプーン曲げ（1,200円）にチャレンジを。ヨガやキャンプもできるそうですよ。また、ここからのサンセットや星空もおすすめです。夕食の前後、お散歩してみてはいかがでしょうか。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/hpUR_rrbwjbfcANXNt9g1LHufFP44WHPJ46ZKKfQJhk/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/hpUR_rrbwjbfcANXNt9g1LHufFP44WHPJ46ZKKfQJhk/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/hpUR_rrbwjbfcANXNt9g1LHufFP44WHPJ46ZKKfQJhk/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/hpUR_rrbwjbfcANXNt9g1LHufFP44WHPJ46ZKKfQJhk/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/hpUR_rrbwjbfcANXNt9g1LHufFP44WHPJ46ZKKfQJhk/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hpUR_rrbwjbfcANXNt9g1LHufFP44WHPJ46ZKKfQJhk/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "美術品鑑賞もこのホテルの楽しみ方のひとつ「PLAZA GALLERY」"
+      },
+      {
+        "description": "このほか、併設のカフェ「shop\u0026cafe zen」では阿部牧場の牛乳を使った濃厚なソフトクリームが味わえます。夏期には屋外プールがオープンするなど、お楽しみが盛りだくさん。ぜひ連泊していろいろ体験してみてくださいね。",
+        "image": {
+          "height": 854,
+          "sourceUrl": "https://a.mktgcdn.com/p/EdAqmqNhvl0DNACqRXYZZSAl7nzNa0mLAISKrraSRj8/1280x854.jpg",
+          "thumbnails": [
+            {
+              "height": 854,
+              "url": "https://a.mktgcdn.com/p-sandbox/lP-YealVyvwxhctWztL6imdtbsamDl5a0sXsiyaUuz8/1280x854.jpg",
+              "width": 1280
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/lP-YealVyvwxhctWztL6imdtbsamDl5a0sXsiyaUuz8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/lP-YealVyvwxhctWztL6imdtbsamDl5a0sXsiyaUuz8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/lP-YealVyvwxhctWztL6imdtbsamDl5a0sXsiyaUuz8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lP-YealVyvwxhctWztL6imdtbsamDl5a0sXsiyaUuz8/1280x854.jpg",
+          "width": 1280
+        },
+        "imageCaption": "四季折々の表情を見せる中庭を鑑賞できるロビー"
+      },
+      {
+        "image": {
+          "height": 720,
+          "sourceUrl": "https://a.mktgcdn.com/p/1jTpJ_1xxqrq0LpbCJhQCRVd2TlYYsn_dEbRguLHW4E/960x720.jpg",
+          "thumbnails": [
+            {
+              "height": 720,
+              "url": "https://a.mktgcdn.com/p-sandbox/t5gE4SsQxOP12_2zSlm0khbBMLQTMXkWGXdZ5wbwBAo/960x720.jpg",
+              "width": 960
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/t5gE4SsQxOP12_2zSlm0khbBMLQTMXkWGXdZ5wbwBAo/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/t5gE4SsQxOP12_2zSlm0khbBMLQTMXkWGXdZ5wbwBAo/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/t5gE4SsQxOP12_2zSlm0khbBMLQTMXkWGXdZ5wbwBAo/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/t5gE4SsQxOP12_2zSlm0khbBMLQTMXkWGXdZ5wbwBAo/960x720.jpg",
+          "width": 960
+        },
+        "imageCaption": "夏期にオープンする屋外プールでリゾート気分も"
+      }
+    ],
+    "c_ap_DatePosted": "2023-09-04",
+    "c_ap_HeroImage": {
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/RWlOHyld2ij7Jwdn4KMpuB0TowFBWhp_10MkE8I2_28/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/KeYam58L2kzCaVmQnRoAKMRIUqjqzYjiHnj1beUotco/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/KeYam58L2kzCaVmQnRoAKMRIUqjqzYjiHnj1beUotco/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/KeYam58L2kzCaVmQnRoAKMRIUqjqzYjiHnj1beUotco/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/KeYam58L2kzCaVmQnRoAKMRIUqjqzYjiHnj1beUotco/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/KeYam58L2kzCaVmQnRoAKMRIUqjqzYjiHnj1beUotco/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "阿蘇のカルデラ内に湧く内牧温泉にある老舗ホテル",
+    "c_ap_LinkArticleSectionTitle": "熊本県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "熊本旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/kumamoto/"
+      },
+      {
+        "linkText": "熊本県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/kumamoto/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea6": [
+      "九州全般",
+      "熊本県"
+    ],
+    "c_ap_ShortDescription": "阿蘇山のふもとに位置し、良質な温泉が豊富に湧き出る阿蘇・内牧温泉。源泉数は80、宿泊施設は20以上、共同浴場も6カ所あり、阿蘇温泉郷のなかでも最大規模を誇る温泉地です。そんな内牧温泉で創業50年以上という老舗のホテルが、今回ご紹介する「阿蘇プラザホテル」です。ホテル内には源泉が2カ所あり、屋上展望風呂からは雄大な阿蘇五岳を望むことができます。ここからの絶景は癒されること間違いなし。爽快な気分で湯あみを楽しんでみませんか？館内にはさら庭園露天風呂付き大浴場のほか、日本庭園やTVなどでも紹介されたパワースポットまで、滞在中楽しめるコンテンツがいっぱい。ほかにはない温泉＋αを存分に楽しんでみませんか？",
+    "c_ap_Tags": [
+      "阿蘇",
+      "内牧温泉"
+    ],
+    "c_ap_Theme": [
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "阿蘇五岳を望む絶景と湧き出る2つの源泉に癒される老舗ホテル【熊本県　阿蘇プラザホテル】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "阿蘇山のふもとに位置し、良質な温泉が豊富に湧き出る阿蘇・内牧温泉。源泉数は80、宿泊施設は20以上、共同浴場も6カ所あり、阿蘇温泉郷のなかでも最大規模を誇る温泉地です。そんな内牧温泉で創業50年以上という老舗…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "阿蘇五岳を望む絶景と湧き出る2つの源泉に癒される老舗ホテル【熊本県　阿蘇プラザホテル】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100173",
+    "name": "阿蘇五岳を望む絶景と湧き出る2つの源泉に癒される老舗ホテル【熊本県　阿蘇プラザホテル】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

@@ -1,0 +1,327 @@
+{
+  "$id": "news_ap_area_0000056",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 竹内 寿夫",
+      "linkType": "URL"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "【川越街歩き】埼玉一の観光スポット・川越で“小江戸”を満喫！日帰りモデルコース",
+      "height": 1365,
+      "sourceUrl": "http://a.mktgcdn.com/p/PsnohuolOBbEe9A6e1UpemYFGWkWoCHbvjtUCeZiryY/2048x1365.jpg",
+      "thumbnails": [
+        {
+          "height": 1365,
+          "url": "//a.mktgcdn.com/p-sandbox/PsnohuolOBbEe9A6e1UpemYFGWkWoCHbvjtUCeZiryY/2048x1365.jpg",
+          "width": 2048
+        },
+        {
+          "height": 1266,
+          "url": "//a.mktgcdn.com/p-sandbox/PsnohuolOBbEe9A6e1UpemYFGWkWoCHbvjtUCeZiryY/1900x1266.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/PsnohuolOBbEe9A6e1UpemYFGWkWoCHbvjtUCeZiryY/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/PsnohuolOBbEe9A6e1UpemYFGWkWoCHbvjtUCeZiryY/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/PsnohuolOBbEe9A6e1UpemYFGWkWoCHbvjtUCeZiryY/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/PsnohuolOBbEe9A6e1UpemYFGWkWoCHbvjtUCeZiryY/2048x1365.jpg",
+      "width": 2048
+    },
+    "c_ap_HeroImageCaption": "江戸の風情が感じられる川越で散策を楽しみましょう　写真提供：（一社）埼玉県物産観光協会／複製・再転載禁止",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "埼玉旅行・ツアー・パックをみる",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/saitama/"
+      },
+      {
+        "linkText": "埼玉県のホテル・旅館・宿をみる",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/saitama/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "「蔵造りの町並み」から“小江戸”と称され、国内外問わず高い人気を誇る観光地・川越を巡る日帰りモデルコースです。「川越一番街」や「菓子屋横丁」といった主要なスポットを見て回り、江戸情緒にどっぷりと浸りましょう。川越名物のサツマイモグルメ、恋愛成就のパワースポットも！",
+    "c_ap_Tags": [
+      "観光スポット",
+      "神社",
+      "モデルコース",
+      "街歩き",
+      "川越",
+      "スイーツ",
+      "パワースポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "寺社・教会",
+      "建築・史跡",
+      "街あるき",
+      "グルメ",
+      "カフェ"
+    ],
+    "c_ap_Title": "川越のおすすめ観光モデルコース紹介！“小江戸”を日帰りで満喫しよう",
+    "c_linkedArea3News": [
+      "saitama"
+    ],
+    "c_metaDescription": "“小江戸”と称される観光地・川越を巡る日帰りモデルコースをご紹介。「川越一番街」や「菓子屋横丁」といった主要なスポットを見て回り、江戸情緒にどっぷりと浸りましょう。川越名物のサツマイモグルメ、恋愛成就のパワースポットも！",
+    "c_metaTitle": "川越のおすすめ観光モデルコース紹介！“小江戸”を日帰りで満喫しよう",
+    "c_news_CTAs": [
+      {
+        "label": "埼玉県のホテル・旅館・宿をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/saitama/",
+        "linkType": "URL"
+      },
+      {
+        "label": "埼玉旅行・ツアー・パックをみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/saitama/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "時の鐘周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/A1601950/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "川越・所沢のおすすめ観光スポット30選をみる",
+          "link": "https://www.jtb.co.jp/kokunai-guide/list/index.html?area\u003d1105\u0026feature\u003d0\u0026genre\u003d000",
+          "linkType": "URL"
+        },
+        "description": "川越のメインスポットである「川越一番街」は、JR川越駅から徒歩約25分の場所にあります。少し距離があるので、巡回バスや自転車シェアリングの利用もおすすめです。巡回バスに乗ること約12分、バス停「蔵の街」に到着！江戸の面影を留める「蔵造りの町並み」は、「美しい日本の歴史的風土100選」にも選定されています。レンタル着物店を利用して、歴史の街に溶け込めば、タイムスリップしたかのような気分に。写真映えするテイクアウトグルメをおともに、ゆったりと散策を楽しみましょう。",
+        "image": {
+          "alternateText": "川越のシンボル「時の鐘」",
+          "height": 2185,
+          "sourceUrl": "https://a.mktgcdn.com/p/D07prQHFW9d1lafkwv7v8K8ennJs3pnyNdmiUUFD7TY/3274x2185.jpg",
+          "thumbnails": [
+            {
+              "height": 2185,
+              "url": "https://a.mktgcdn.com/p-sandbox/3NHiCY5uLMW7CWaoEGWbsRll3pSO1E6wmjoL5Ouna-8/3274x2185.jpg",
+              "width": 3274
+            },
+            {
+              "height": 1268,
+              "url": "https://a.mktgcdn.com/p-sandbox/3NHiCY5uLMW7CWaoEGWbsRll3pSO1E6wmjoL5Ouna-8/1900x1268.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/3NHiCY5uLMW7CWaoEGWbsRll3pSO1E6wmjoL5Ouna-8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/3NHiCY5uLMW7CWaoEGWbsRll3pSO1E6wmjoL5Ouna-8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/3NHiCY5uLMW7CWaoEGWbsRll3pSO1E6wmjoL5Ouna-8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3NHiCY5uLMW7CWaoEGWbsRll3pSO1E6wmjoL5Ouna-8/3274x2185.jpg",
+          "width": 3274
+        },
+        "imageCaption": "川越のシンボル「時の鐘」",
+        "infoBlockLabel": "時の鐘の情報",
+        "infoBlockText": "住所：埼玉県川越市幸町15-7電話番号：049-222-5556営業時間：見学自由定休日：無休アクセス：西武新宿線本川越駅から徒歩20分",
+        "sectionTitle": "11：00｜蔵造りの建物が立ち並ぶ「川越一番街」をぶらり"
+      },
+      {
+        "cTA1": {
+          "label": "菓子屋横丁周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/A1602151/",
+          "linkType": "URL"
+        },
+        "description": "川越といえばサツマイモ。江戸時代から盛んに栽培が行われ、「川越イモ」として庶民に愛されてきた食材です。今日のランチは「川越一番街」の中にある芋おこわ料理専門店「浪漫茶房 右門」で。店自慢の芋おこわは、角切りのサツマイモのホクホク感が最高。サツマイモの茎の食感がよいアクセントになっている絶品メニューです。けんちん汁や煮物も付いた「本丸御膳」を味わえば、お腹も心も満たされます。",
+        "image": {
+          "alternateText": "「浪漫茶房 右門」は甘味処としても利用することができます",
+          "height": 620,
+          "sourceUrl": "https://a.mktgcdn.com/p/vEouZdHJMojBeDg7j4jttggjOxjaHBpc0R-KFP3xYvY/930x620.jpg",
+          "thumbnails": [
+            {
+              "height": 620,
+              "url": "https://a.mktgcdn.com/p-sandbox/0Tl-qNxpiveJT1_QUdbttpE6dYzS5d5V0ZBZIIgO0wA/930x620.jpg",
+              "width": 930
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/0Tl-qNxpiveJT1_QUdbttpE6dYzS5d5V0ZBZIIgO0wA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/0Tl-qNxpiveJT1_QUdbttpE6dYzS5d5V0ZBZIIgO0wA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/0Tl-qNxpiveJT1_QUdbttpE6dYzS5d5V0ZBZIIgO0wA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0Tl-qNxpiveJT1_QUdbttpE6dYzS5d5V0ZBZIIgO0wA/930x620.jpg",
+          "width": 930
+        },
+        "imageCaption": "「浪漫茶房 右門」は甘味処としても利用することができます",
+        "infoBlockLabel": "甘味茶房かすがの情報",
+        "infoBlockText": "住所：埼玉県川越市幸町6-1電話番号：049-226-2392営業時間：10時30分～18時LO定休日：不定休アクセス：（公共交通機関）東武川越駅→東武バス神明車庫行きで7分、または西武本川越駅→徒歩12分（車）関越道川越ICから国道16号経由3km10分",
+        "sectionTitle": "12：30｜「浪漫茶房 右門」でサツマイモランチ"
+      },
+      {
+        "cTA1": {
+          "label": "川越氷川神社周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/A1601980/",
+          "linkType": "URL"
+        },
+        "description": "ランチのあとは、やっぱりスイーツ！　築130年以上の蔵を改装したという「甘味茶房かすが」で、人気の「芋あんみつパフェ」を味わいましょう。生クリームやフルーツと一緒にのっているサツマイモ餡が自慢で、サツマイモ特有のホクホク感が楽しめるように、粗めにひいて仕上げているそうです。中には寒天やサツマイモの甘露煮が入っていて、全体のバランスもグッドな和パフェです。",
+        "image": {
+          "alternateText": "ぜんざいやあんみつ、団子といった定番もメニューも美味",
+          "height": 1447,
+          "sourceUrl": "https://a.mktgcdn.com/p/PN7BROh3VWdHm-ITws7E0xsLtV9e8mT_jBftqtvd_xg/2170x1447.jpg",
+          "thumbnails": [
+            {
+              "height": 1447,
+              "url": "https://a.mktgcdn.com/p-sandbox/kDhdiAmoD9BzvkTpk2DYHAPTdv1fHyGV1eeKoiHU_AA/2170x1447.jpg",
+              "width": 2170
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/kDhdiAmoD9BzvkTpk2DYHAPTdv1fHyGV1eeKoiHU_AA/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/kDhdiAmoD9BzvkTpk2DYHAPTdv1fHyGV1eeKoiHU_AA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/kDhdiAmoD9BzvkTpk2DYHAPTdv1fHyGV1eeKoiHU_AA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/kDhdiAmoD9BzvkTpk2DYHAPTdv1fHyGV1eeKoiHU_AA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kDhdiAmoD9BzvkTpk2DYHAPTdv1fHyGV1eeKoiHU_AA/2170x1447.jpg",
+          "width": 2170
+        },
+        "imageCaption": "ぜんざいやあんみつ、団子といった定番もメニューも美味",
+        "sectionTitle": "13：30｜「甘味茶房かすが」でサツマイモスイーツに舌鼓"
+      },
+      {
+        "description": "「川越一番街」を抜け、お次は「菓子屋横丁」へ。通りには老舗駄菓子店が立ち並び、多くの観光客が訪れる人気エリアです。江戸時代から作られている飴など、昔ながらの製法を守り続けている菓子もあり、おみやげ探しに最適。サツマイモを使ったソフトクリームやまんじゅうといった名物グルメを、3時のおやつに味わうのもおすすめです。",
+        "image": {
+          "alternateText": "老舗の駄菓子店がずらり。童心にかえって楽しめます",
+          "height": 645,
+          "sourceUrl": "https://a.mktgcdn.com/p/ZkHqSOOYFjkJTIuFigQN7U3YVvfJgAiH1zJq3Nos9NQ/967x645.jpg",
+          "thumbnails": [
+            {
+              "height": 645,
+              "url": "https://a.mktgcdn.com/p-sandbox/z0IE47RGy3HnwmtkO7NIaZuwAW1QDVD034uF6E33H1c/967x645.jpg",
+              "width": 967
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/z0IE47RGy3HnwmtkO7NIaZuwAW1QDVD034uF6E33H1c/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/z0IE47RGy3HnwmtkO7NIaZuwAW1QDVD034uF6E33H1c/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/z0IE47RGy3HnwmtkO7NIaZuwAW1QDVD034uF6E33H1c/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/z0IE47RGy3HnwmtkO7NIaZuwAW1QDVD034uF6E33H1c/967x645.jpg",
+          "width": 967
+        },
+        "imageCaption": "老舗の駄菓子店がずらり。童心にかえって楽しめます",
+        "sectionTitle": "14：30｜「菓子屋横丁」でおみやげ探し"
+      },
+      {
+        "description": "風情漂う街での散策を十分に楽しんだら、最後は川越の総鎮守「川越氷川神社」を参拝しましょう。欽明天皇2年（541）に創建されたと伝わる古社で、良縁祈願や夫婦円満にご利益があるとして古くから信仰されてきました。現在では、恋愛成就のパワースポットとして評判を集めていて、種類豊富な縁結びのお守りや、鯛をかたどった恋みくじ「あい鯛みくじ」なども人気です。神社の夏の風物詩となっているのが「縁むすび風鈴」。例年7月上旬～9月上旬頃までの開催で、約2000個の色鮮やかな風鈴が飾られます。境内に響く心地よい音色を聞きに、時期を合わせて足を運んでみてはいかがでしょうか。",
+        "image": {
+          "alternateText": "「縁むすび風鈴」は涼を感じられる夏季の祭事です",
+          "height": 1837,
+          "sourceUrl": "https://a.mktgcdn.com/p/wkJ1mHKESknaNQvZRSVfzNlYnqVXlitYDaWMsqmjzhs/2756x1837.jpg",
+          "thumbnails": [
+            {
+              "height": 1837,
+              "url": "https://a.mktgcdn.com/p-sandbox/PEeRRUN_MEbzehvku9KbwEF8hyhabL0KlA_TPl4iblw/2756x1837.jpg",
+              "width": 2756
+            },
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/PEeRRUN_MEbzehvku9KbwEF8hyhabL0KlA_TPl4iblw/1900x1266.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/PEeRRUN_MEbzehvku9KbwEF8hyhabL0KlA_TPl4iblw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/PEeRRUN_MEbzehvku9KbwEF8hyhabL0KlA_TPl4iblw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/PEeRRUN_MEbzehvku9KbwEF8hyhabL0KlA_TPl4iblw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PEeRRUN_MEbzehvku9KbwEF8hyhabL0KlA_TPl4iblw/2756x1837.jpg",
+          "width": 2756
+        },
+        "imageCaption": "「縁むすび風鈴」は涼を感じられる夏季の祭事です",
+        "sectionTitle": "15：30｜「川越氷川神社」で縁結びを祈願"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_area_0000055",
+      "news_ap_area_0000057",
+      "news_ap_y_ishihara225_024"
+    ],
+    "c_news_FeaturedArticlesTitle": "埼玉県のその他の記事",
+    "c_news_PublicationDate": "2023-03-20",
+    "c_news_UpdateDate": "2024-09-30",
+    "c_news_ViewCount": "823",
+    "c_news_ViewCount1of2": "3",
+    "c_news_ViewCount2of2": "823",
+    "c_news_ViewCountNum": "823",
+    "c_news_ViewCountNumForSorting": "36",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kanto/saitama/news_ap_area_0000056",
+    "name": "川越のおすすめ観光モデルコース紹介！“小江戸”を日帰りで満喫しよう",
+    "slug": "kokunai/kanto/saitama/news_ap_area_0000056",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

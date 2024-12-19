@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-182",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/182_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d34.407421%2C131.063038",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "山口県",
+    "c_searchTags": [
+      "山口県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "海・湖・川・滝",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "「日本の棚田百選」の1つに選ばれている山口県・東後畑の棚田は、日本海に面した景勝地です。ゆるやかな丘陵に幾重にも段を重ねて広がる棚田はそれだけでも美しい絶景ですが、春の終わりの5～6月頃、この棚田でひときわ印象的な風景を見ることができます。それが、夕暮れ時のひと時。田植えのために水が張られた棚田は夕焼けを映して鏡のようにきらめき、日本海ともども一面の茜色に染まります。その沖合でイカ釣り漁船の漁火が灯りはじめ、薄闇の中、数えきれないほど多数の火が海に浮かぶ様子が、何とも幻想的な雰囲気を漂わせます。夜になれば棚田には星の光が降り落ち、眼前の漁火とあわせて、自然が織り成す華やかな光のイルミネーションに包まれたひと時を楽しめます。\n見所・お勧めポイント",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/182.asp",
+    "name": "東後畑棚田と漁火観賞"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

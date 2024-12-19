@@ -1,0 +1,41 @@
+{
+  "$id": "kando-toki-34",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/34_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.022229%2C141.322228",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "春",
+      "夏",
+      "秋",
+      "冬",
+      "太陽・星・月",
+      "山・森・野・里"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "札幌市内にある標高531mの「藻岩山」は、函館山とともに北海道を代表する夜景の名所です。190万都市・札幌の広大な市街地に光のじゅうたんを敷き詰めたような光景は、まさに絶景。日が沈むにつれて徐々に街の灯りが点りはじめていくさまは星空のように美しく、札幌市を彩る光の展望は、訪れた人々の胸にロマンティックな感動を与えてくれます。札幌市の夜景は2015年に認定が始まった「日本新三大夜景」に初代として選出、第2回となる2018年も続けて選出され（第3回となる2021年は選定中）、ますます多くの人を惹きつけています。施設はバリアフリーにも対応しているので、のぼりやすく、安心の造りとなっています。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/34.asp",
+    "name": "190万都市札幌を望む藻岩山の夜景"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

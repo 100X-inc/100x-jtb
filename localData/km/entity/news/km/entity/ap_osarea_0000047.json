@@ -1,0 +1,262 @@
+{
+  "$id": "news_ap_osarea_0000047",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "タッカンマリ",
+      "height": 296,
+      "sourceUrl": "https://a.mktgcdn.com/p/v9IXgn0EA-AULGbNkpr_EeIIWahxgON6WwjuCxrMebo/444x296.jpg",
+      "thumbnails": [
+        {
+          "height": 296,
+          "url": "https://a.mktgcdn.com/p-sandbox/v9IXgn0EA-AULGbNkpr_EeIIWahxgON6WwjuCxrMebo/444x296.jpg",
+          "width": 444
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/v9IXgn0EA-AULGbNkpr_EeIIWahxgON6WwjuCxrMebo/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/v9IXgn0EA-AULGbNkpr_EeIIWahxgON6WwjuCxrMebo/444x296.jpg",
+      "width": 444
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "韓国旅行・ツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/korea/"
+      },
+      {
+        "linkText": "韓国の現地オプショナルツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kaigai_opt/srh/citytop/aASI/bKR/"
+      },
+      {
+        "linkText": "ソウル行きの航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air_static/asia/korea/seoul/"
+      },
+      {
+        "linkText": "ソウルの人気ホテルランキングを見る",
+        "uRL": "https://www.jtb.co.jp/ovs_htl_static/promotion/ranking/country/SEL/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "韓国語で鍋料理を意味する「チゲ」や「チョンゴル」。日本人が大好きなキムチチゲなども、本場ソウルでなら辛いだけではない奥深い味を楽しめます。肉あり、魚あり、野菜あり…と、バラエティ豊富な鍋をぜひ味わってみて。（写真：24時ピョダギカムジャタンタッカンマリ）",
+    "c_ap_Tags": [
+      "ソウル",
+      "鍋",
+      "カムジャタン",
+      "タッカンマリ",
+      "キムチチゲ",
+      "グルメ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ",
+      "グルメ",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "ソウルで食べたい鍋料理｜キムチチゲやタッカンマリのおすすめ店をご紹介",
+    "c_linkedArea3News": [
+      "korea"
+    ],
+    "c_metaDescription": "韓国語で鍋料理を意味する「チゲ」や「チョンゴル」。日本人が大好きなキムチチゲなども、本場ソウルでなら辛いだけではない奥深い味を楽しめます。肉あり、魚あり、野菜あり…と、バラエティ豊富な鍋をぜひ味わってみて。（写真：24時ピョダギカムジャタンタッカンマリ）",
+    "c_metaTitle": "ソウルで食べたい鍋料理｜キムチチゲやタッカンマリのおすすめ店をご紹介",
+    "c_news_CTAs": [
+      {
+        "label": "韓国旅行・ツアーを探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/korea/",
+        "linkType": "URL"
+      },
+      {
+        "label": "ソウル行きの航空券を探す",
+        "link": "https://www.jtb.co.jp/ovs_air_static/asia/korea/seoul/",
+        "linkType": "URL"
+      },
+      {
+        "label": "ソウルのホテルを探す",
+        "link": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/94/3124/?freeword\u003d%E3%82%BD%E3%82%A6%E3%83%AB\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d3124",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ソウルの2泊3日モデルコースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_web_kaigai_0001",
+          "linkType": "OTHER"
+        },
+        "cTA2": {
+          "label": "ソウルの3泊4日モデルコースをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_ap_osarea_0000049",
+          "linkType": "OTHER"
+        },
+        "cTA3": {
+          "label": "ソウルのおすすめカフェをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_ap_osarea_0000042",
+          "linkType": "OTHER"
+        },
+        "cTA4": {
+          "label": "ソウルのおすすめスイーツをみる",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_ap_osarea_0000048",
+          "linkType": "OTHER"
+        },
+        "description": "店名からもわかるとおり、国産豚の背骨肉をじっくり煮込んだ「カムジャタン」（小。写真一番上）と、濃厚なスープが自慢の「タッカンマリ」の専門店。創業したのは1990年代で、父親のレシピを手作りで忠実に守る2代目が腕を振るっています。「カムジャタン」は、1年以上熟成させたキムチと、冷凍ではない生の豚肉を使用。豚肉のうま味をたっぷり吸ったホクホクのジャガイモがまた、たまらない味わいです。「タッカンマリ」は、ニンニクをたっぷり使った濃厚なスープがヤミツキに。24時間食事ができるのも人気の理由で、覚えておくと便利な1軒です。",
+        "image": {
+          "alternateText": "タッカンマリ。じっくり煮込まれた鶏肉はホロホロの柔らかさ",
+          "height": 140,
+          "sourceUrl": "https://a.mktgcdn.com/p/ku-ZlHizyJsADPK9A5P6Oex-2yptVjc8zyta1cj2DEE/210x140.jpg",
+          "thumbnails": [
+            {
+              "height": 140,
+              "url": "https://a.mktgcdn.com/p-sandbox/ku-ZlHizyJsADPK9A5P6Oex-2yptVjc8zyta1cj2DEE/210x140.jpg",
+              "width": 210
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ku-ZlHizyJsADPK9A5P6Oex-2yptVjc8zyta1cj2DEE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ku-ZlHizyJsADPK9A5P6Oex-2yptVjc8zyta1cj2DEE/210x140.jpg",
+          "width": 210
+        },
+        "imageCaption": "タッカンマリ。じっくり煮込まれた鶏肉はホロホロの柔らかさ",
+        "infoBlockLabel": "24時ピョダギカムジャタンタッカンマリ（시뼈다귀감자탕닭한마리／24シピョダギカムジャタンタッカンマリ）",
+        "infoBlockText": "住所：龍山区大使館路7 3 - 1 　용산구 대사관로73-1 営業時間：24時間 定休日：火曜",
+        "sectionLevel": "h2",
+        "sectionTitle": "24時ピョダギカムジャタンタッカンマリ（시뼈다귀감자탕닭한마리）"
+      },
+      {
+        "description": "国内外の多くのリピーターが足を運び、店内はいつもお客でいっぱい。周辺には「タッカンマリ（鶏1羽根鍋）」の専門店が並んでいますが、ひときわ長い行列ができるお店です。洗面器のような器に入った丸1羽の鶏は、じっくりと煮込まれてホロホロと柔らか。赤唐辛子、酢、醤油を混ぜたタレをつけて食べると、箸が止まりません。鶏だけでもボリュームたっぷりですが、澄んだスープでシメのうどんを食べるおなかの余裕もぜひ残しておきたいもの。",
+        "image": {
+          "alternateText": "タッカンマリ。赤唐辛子、酢、醤油を混ぜたタレをつけて食べると箸が止まりません",
+          "height": 471,
+          "sourceUrl": "https://a.mktgcdn.com/p/BWJ0YpZwthbEBqKDM4D1PkGcuPUiotwMacwXwEeL2mE/314x471.jpg",
+          "thumbnails": [
+            {
+              "height": 471,
+              "url": "https://a.mktgcdn.com/p-sandbox/BWJ0YpZwthbEBqKDM4D1PkGcuPUiotwMacwXwEeL2mE/314x471.jpg",
+              "width": 314
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/BWJ0YpZwthbEBqKDM4D1PkGcuPUiotwMacwXwEeL2mE/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/BWJ0YpZwthbEBqKDM4D1PkGcuPUiotwMacwXwEeL2mE/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BWJ0YpZwthbEBqKDM4D1PkGcuPUiotwMacwXwEeL2mE/314x471.jpg",
+          "width": 314
+        },
+        "imageCaption": "タッカンマリ。赤唐辛子、酢、醤油を混ぜたタレをつけて食べると箸が止まりません",
+        "infoBlockLabel": "陳玉華ハルメ元祖タッカンマリ（진옥화 할매 원조 닭한마리 チノックァ ハルメ ウォンジョ タッカンマリ）",
+        "infoBlockText": "住所：鍾路区鍾路40カキル18　종로구 종로40가길 18 営業時間：10時30分～翌1時（23時30分LO） 定休日：なし",
+        "sectionLevel": "h2",
+        "sectionTitle": "陳玉華ハルメ元祖タッカンマリ（진옥화 할매 원조 닭한마리）"
+      },
+      {
+        "description": "約30年続くキムチチゲの名店。17時までは「キムチチゲ」1種のみ、以降はサムギョプサル＋「キムチチゲ」のセット1種のみと、昼夜ともにメニュー1品だけで勝負する潔さ！　「キムチチゲ」に使うキムチは5～6カ月熟成させた自家製キムチで、独特の辛みと酸味のバランスが絶妙です。ご飯を投入したり、キムチを葉野菜に包んだり、さまざまな食べ方で楽しんで。",
+        "image": {
+          "alternateText": "キムチチゲ。熟成キムチを使った奥深い味わい",
+          "height": 456,
+          "sourceUrl": "https://a.mktgcdn.com/p/Mc7HRxgLykw2_dMZI2M45lAz83oIQP2GdiUt-miwpfw/685x456.jpg",
+          "thumbnails": [
+            {
+              "height": 456,
+              "url": "https://a.mktgcdn.com/p-sandbox/Mc7HRxgLykw2_dMZI2M45lAz83oIQP2GdiUt-miwpfw/685x456.jpg",
+              "width": 685
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/Mc7HRxgLykw2_dMZI2M45lAz83oIQP2GdiUt-miwpfw/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/Mc7HRxgLykw2_dMZI2M45lAz83oIQP2GdiUt-miwpfw/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/Mc7HRxgLykw2_dMZI2M45lAz83oIQP2GdiUt-miwpfw/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Mc7HRxgLykw2_dMZI2M45lAz83oIQP2GdiUt-miwpfw/685x456.jpg",
+          "width": 685
+        },
+        "imageCaption": "キムチチゲ。熟成キムチを使った奥深い味わい",
+        "infoBlockLabel": "ウンジュジョン（은주정）",
+        "infoBlockText": "住所：中区昌慶宮路8キル32　중구 창경궁로8길 32 営業時間：11:30-22:00定休日：日曜",
+        "sectionLevel": "h2",
+        "sectionTitle": "ウンジュジョン（은주정）"
+      },
+      {
+        "description": "4軒の「テグタン（タラ鍋）」専門が集まる「テグタン横丁」で、最古にして最も人気の店がこちら。30年以上、地元の人に愛され続けています。大ぶりのタラの身、肝、白子のほか、長ネギや豆モヤシ、セリなどたっぷりの野菜をニンニクと唐辛子で煮込んだ「テグタン」は、ピリ辛ですが、クセになる味。シメは、ネギやセリ、海苔、塩辛を加えた炒飯「ポックンパプ」にして、1滴も残さず味わい尽くすのが定番です。",
+        "image": {
+          "alternateText": "テグタン。特製の薬味がたっぷりで芳醇な味わい",
+          "height": 214,
+          "sourceUrl": "https://a.mktgcdn.com/p/0ruqR9ZKOeotvyt5aKwDGFNQXqiAC4HtV3MXqZ9HMkA/322x214.jpg",
+          "thumbnails": [
+            {
+              "height": 214,
+              "url": "https://a.mktgcdn.com/p-sandbox/0ruqR9ZKOeotvyt5aKwDGFNQXqiAC4HtV3MXqZ9HMkA/322x214.jpg",
+              "width": 322
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/0ruqR9ZKOeotvyt5aKwDGFNQXqiAC4HtV3MXqZ9HMkA/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0ruqR9ZKOeotvyt5aKwDGFNQXqiAC4HtV3MXqZ9HMkA/322x214.jpg",
+          "width": 322
+        },
+        "imageCaption": "テグタン。特製の薬味がたっぷりで芳醇な味わい",
+        "infoBlockLabel": "元テグタン（원대구탕／ウォンテグタン）",
+        "infoBlockText": "住所：龍山区漢江大路62カキル8　용산구 한강대로62가길 8 営業時間：10時30分～22時（21時LO） 定休日：月曜",
+        "sectionLevel": "h2",
+        "sectionTitle": "元テグタン（원대구탕）"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_osarea_0000042",
+      "news_ap_osarea_0000044",
+      "news_ap_osarea_0000048",
+      "news_ap_osarea_0000045",
+      "news_ap_osarea_0000041",
+      "news_ap_osarea_0000046",
+      "news_ap_osarea_0000049",
+      "news_ap_osarea_0000043"
+    ],
+    "c_news_FeaturedArticlesTitle": "ソウルのその他の投稿記事",
+    "c_news_PublicationDate": "2023-05-10",
+    "c_news_UpdateDate": "2024-11-14",
+    "c_news_ViewCount": "378",
+    "c_news_ViewCount1of2": "2",
+    "c_news_ViewCount2of2": "378",
+    "c_news_ViewCountNum": "378",
+    "c_news_ViewCountNumForSorting": "23",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/asia/korea/news_ap_osarea_0000047",
+    "name": "ソウルで食べたい鍋料理｜キムチチゲやタッカンマリのおすすめ店をご紹介",
+    "slug": "kaigai/asia/korea/news_ap_osarea_0000047",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "海外エリア記事"
+  ]
+}

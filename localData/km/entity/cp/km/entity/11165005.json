@@ -1,0 +1,83 @@
+{
+  "$id": "cp_11165005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "北海道",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVes",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "テーマパークが大好きです。アトラクションの情報についても是非ご質問ください。趣味でライブ、舞台鑑賞もよく行くので、会場までのアクセスや近いホテル等についてもご案内いたします。\n楽しいご旅行になりますよう、一緒にお手伝いさせていただきます。",
+    "c_cp_DisplayName": "中谷",
+    "c_cp_FieldOfExpertise": [
+      "テーマパーク",
+      "音楽ライブ"
+    ],
+    "c_cp_HiraganaName": "なかたに",
+    "c_cp_JobTitle": "JTB新札幌店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 480,
+      "sourceUrl": "https://a.mktgcdn.com/p/q_FZesX-9reZ6NylWIC7yh9St1P8OijmpMd9eIKr9O0/640x480.jpg",
+      "thumbnails": [
+        {
+          "height": 480,
+          "url": "https://a.mktgcdn.com/p-sandbox/q_FZesX-9reZ6NylWIC7yh9St1P8OijmpMd9eIKr9O0/640x480.jpg",
+          "width": 640
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/q_FZesX-9reZ6NylWIC7yh9St1P8OijmpMd9eIKr9O0/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/q_FZesX-9reZ6NylWIC7yh9St1P8OijmpMd9eIKr9O0/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/q_FZesX-9reZ6NylWIC7yh9St1P8OijmpMd9eIKr9O0/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/q_FZesX-9reZ6NylWIC7yh9St1P8OijmpMd9eIKr9O0/640x480.jpg",
+      "width": 640
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "グアム"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "台湾"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "東京都"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "大阪府"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "福岡県",
+      "沖縄県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 中谷",
+    "c_metaTitle": "JTBトラベルコンサルタント | 中谷",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_11165005",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10023_新札幌店",
+    "name": "なかたに_11165005",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

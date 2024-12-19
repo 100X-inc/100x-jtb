@@ -1,0 +1,805 @@
+{
+  "$id": "news_web_kokunai_0020",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1445,
+      "sourceUrl": "https://a.mktgcdn.com/p/4K832OxN88zJUXr5n40ZgjqJhJcjpRa1ZA4_NEWvKXQ/1920x1445.jpg",
+      "thumbnails": [
+        {
+          "height": 1445,
+          "url": "https://a.mktgcdn.com/p-sandbox/4K832OxN88zJUXr5n40ZgjqJhJcjpRa1ZA4_NEWvKXQ/1920x1445.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1430,
+          "url": "https://a.mktgcdn.com/p-sandbox/4K832OxN88zJUXr5n40ZgjqJhJcjpRa1ZA4_NEWvKXQ/1900x1430.jpg",
+          "width": 1900
+        },
+        {
+          "height": 466,
+          "url": "https://a.mktgcdn.com/p-sandbox/4K832OxN88zJUXr5n40ZgjqJhJcjpRa1ZA4_NEWvKXQ/619x466.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/4K832OxN88zJUXr5n40ZgjqJhJcjpRa1ZA4_NEWvKXQ/598x450.jpg",
+          "width": 598
+        },
+        {
+          "height": 148,
+          "url": "https://a.mktgcdn.com/p-sandbox/4K832OxN88zJUXr5n40ZgjqJhJcjpRa1ZA4_NEWvKXQ/196x148.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/4K832OxN88zJUXr5n40ZgjqJhJcjpRa1ZA4_NEWvKXQ/1920x1445.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "京都旅行ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/kyoto/"
+      },
+      {
+        "linkText": "京都府のホテル・旅館・宿一覧",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/kyoto/"
+      },
+      {
+        "linkText": "京都の町家・一棟貸しの宿特集",
+        "uRL": "https://www.jtb.co.jp/kokunai/htl/machiya/"
+      },
+      {
+        "linkText": "京都ゲストハウス特集",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/kyoto/guesthouse/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "京都の女子旅では、観光をとことん満喫したいのはもちろん、「宿泊場所にもこだわりたい！」という方も多いのではないでしょうか。\n\n思いっきり遊んだ後に待っているのは、おしゃれなで「京都らしさ」あふれるホテルや旅館ステイ…想像するだけでも気分が上がりますね！\n\n今回は、話題のニューオープンのホテルから、町家タイプの宿、嵐山を代表す老舗旅館まで、インスタ映えしそうなホテルや旅館を中心に厳選。ぜひ素敵な旅の思い出づくりの参考にしてください。",
+    "c_ap_Tags": [
+      "インスタ映え",
+      "国内の宿",
+      "女子旅",
+      "宿の部屋情報",
+      "温泉"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "京都の女子旅は宿もオシャレに！おすすめホテル・旅館20選",
+    "c_linkedArea3News": [
+      "kyoto"
+    ],
+    "c_metaDescription": "京都の女子旅は、宿の雰囲気やロケーションにもこだわりたい！そんな京都の女子旅におすすめのホテル・旅館をご紹介。レトロな町家タイプの宿から、インスタ映えするおしゃれなホテル、嵐山でいちどは泊まりたい人気旅館までタイプ別に厳選、きっとあなたにピッタリの宿が見つかります！",
+    "c_metaTitle": "京都の女子旅は宿もオシャレに！おすすめホテル・旅館20選 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "京都府のホテル・旅館をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/kyoto/",
+        "linkType": "URL"
+      },
+      {
+        "label": "京都府のツアー・パックをみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/kyoto/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "【特集】「京都 町家・一棟貸しの宿で暮らすように泊まろう。」はこちら",
+          "link": "https://www.jtb.co.jp/kokunai/htl/machiya/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "Nazuna 京都 椿通のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6232150/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "嵐山のホテルをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/260403/",
+          "linkType": "URL"
+        },
+        "description": "今、京都に行くおしゃれ女子に人気なのが、「町家に泊まる京都旅行」です。古き良き風情は残しつつ、改装を加えた町家タイプの宿は、京都ならではの空間に浸りたい女子におすすめ！日本の伝統と文化が詰まった京町家で、「暮らすように泊まる体験」をしてみませんか？",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/Hjlwzt7jx8jVfb5wh_OfcC_UU7v4-TXM5_3MekTllPI/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hjlwzt7jx8jVfb5wh_OfcC_UU7v4-TXM5_3MekTllPI/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hjlwzt7jx8jVfb5wh_OfcC_UU7v4-TXM5_3MekTllPI/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hjlwzt7jx8jVfb5wh_OfcC_UU7v4-TXM5_3MekTllPI/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hjlwzt7jx8jVfb5wh_OfcC_UU7v4-TXM5_3MekTllPI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Hjlwzt7jx8jVfb5wh_OfcC_UU7v4-TXM5_3MekTllPI/800x600.jpg",
+          "width": 800
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "1．今話題！町家タイプの宿3選"
+      },
+      {
+        "cTA1": {
+          "label": "Nazuna 京都 椿通の魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6232150/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "京小宿 八坂ゆとねのプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6232140/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "湯の花温泉の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/2620602/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6232150/62321501300000020.jpg\" alt\u003d\" Nazuna 京都 椿通\"\u003e「Nazuna 京都 椿通」は、京都駅から電車を乗り継ぎ、大宮駅を下車後、徒歩約5分の立地です。2020年に開業をした全23室の宿で、築110年以上の町家が立ち並ぶ路地の一体を1つの宿に改修しています。京都らしい外観、石畳の敷かれた街並み、提灯（ちょうちん）や置き行灯（あんどん）にうっとりしてしまいます。朝食は、京都で古くから伝わる精進料理。肉類魚介類を使用せずに、穀物、豆類、野菜などの食材だけを使用し、食材の味をいかした料理です。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/1Lop-wyo4j6fScAVQEsw9zx-uiDdwxkSFXF14fTFDIo/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/1Lop-wyo4j6fScAVQEsw9zx-uiDdwxkSFXF14fTFDIo/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/1Lop-wyo4j6fScAVQEsw9zx-uiDdwxkSFXF14fTFDIo/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1Lop-wyo4j6fScAVQEsw9zx-uiDdwxkSFXF14fTFDIo/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/1Lop-wyo4j6fScAVQEsw9zx-uiDdwxkSFXF14fTFDIo/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1Lop-wyo4j6fScAVQEsw9zx-uiDdwxkSFXF14fTFDIo/800x600.jpg",
+          "width": 800
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "Nazuna 京都 椿通"
+      },
+      {
+        "cTA1": {
+          "label": "京小宿 八坂ゆとねの魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6232140/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "Kyoto Machiya 福音のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6330AJ3/plan/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "女子旅におすすめの宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/kyoto/feature/girls_80/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6232150/62321501300000046.jpg\" alt\u003d\" 「Nazuna 京都 椿通」　客室\"\u003e客室は、それぞれ独立した町家で一棟貸切のため、プライベート感たっぷりです。「京都の自然美」をテーマとし、全室半露天風呂付で、木のあたたかみと凝ったインテリアが際立つ上質な空間となっています。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/7yBuA5b3VoUK23xNioODpJKyo8VDsyWiiyqjj4FDK2E/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/7yBuA5b3VoUK23xNioODpJKyo8VDsyWiiyqjj4FDK2E/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/7yBuA5b3VoUK23xNioODpJKyo8VDsyWiiyqjj4FDK2E/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/7yBuA5b3VoUK23xNioODpJKyo8VDsyWiiyqjj4FDK2E/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/7yBuA5b3VoUK23xNioODpJKyo8VDsyWiiyqjj4FDK2E/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7yBuA5b3VoUK23xNioODpJKyo8VDsyWiiyqjj4FDK2E/800x600.jpg",
+          "width": 800
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "「Nazuna 京都 椿通」　客室"
+      },
+      {
+        "cTA1": {
+          "label": "Kyoto Machiya 福音の詳細をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6330AJ3/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ホテル アンテルーム 京都のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230064/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6232140/62321401300000006.jpg\" alt\u003d\" 京小宿 八坂ゆとね\"\u003e「京小宿　八坂ゆとね」は、京都駅からバスで約20分、清水道バス停下車後、徒歩約3分のところにあります。全7室の小規模隠れ宿で、八坂の塔・高台寺・清水寺などの観光にも便利な立地です。館内にはライブラリーラウンジもあり、珈琲や日本茶を飲みながらゆっくり過ごすことができます。夕食は、四季折々の新鮮な旬の食材を使い、見た目も美しく仕上がった本格的な京料理です。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/jjAfm4xfMv5N9MgIuDRSVqbEWMBl0x9qfcdS4Gk7WSQ/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/jjAfm4xfMv5N9MgIuDRSVqbEWMBl0x9qfcdS4Gk7WSQ/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/jjAfm4xfMv5N9MgIuDRSVqbEWMBl0x9qfcdS4Gk7WSQ/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/jjAfm4xfMv5N9MgIuDRSVqbEWMBl0x9qfcdS4Gk7WSQ/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/jjAfm4xfMv5N9MgIuDRSVqbEWMBl0x9qfcdS4Gk7WSQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jjAfm4xfMv5N9MgIuDRSVqbEWMBl0x9qfcdS4Gk7WSQ/800x600.jpg",
+          "width": 800
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "京小宿 八坂ゆとね"
+      },
+      {
+        "cTA1": {
+          "label": "ホテル アンテルーム 京都の詳細をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230064/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "リーガロイヤルホテル京都のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230006/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6232140/62321400003994170.jpg\" alt\u003d\" 「京小宿 八坂ゆとね」　客室\"\u003e客室は、和モダンで統一されており、全客室とも檜（ひのき）のお風呂、シモンズのベットを導入しています。またアメニティの一部には「ロクシタン」を採用しているのも、女性にはうれしいポイントです。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/eHXq02uT0A81wghMixFCmg6J9iZTRVwYAQADGEdfWqQ/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/eHXq02uT0A81wghMixFCmg6J9iZTRVwYAQADGEdfWqQ/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/eHXq02uT0A81wghMixFCmg6J9iZTRVwYAQADGEdfWqQ/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/eHXq02uT0A81wghMixFCmg6J9iZTRVwYAQADGEdfWqQ/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/eHXq02uT0A81wghMixFCmg6J9iZTRVwYAQADGEdfWqQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/eHXq02uT0A81wghMixFCmg6J9iZTRVwYAQADGEdfWqQ/800x600.jpg",
+          "width": 800
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "「京小宿 八坂ゆとね」　客室"
+      },
+      {
+        "cTA1": {
+          "label": "リーガロイヤルホテル京都の詳細をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230006/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "清水小路 坂のホテル京都のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6232134/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6232143/62321431300000100.jpg\" alt\u003d\" Kyoto Machiya 福音\"\u003e「Kyoto Machiya 福音」は、京都駅から地下鉄に乗り約5分、烏丸御池駅から徒歩約8分のところにあります。2018年に築100年以上の京町家を改装し、伝統と現代が融合した全4棟のお宿としてオープンしました。スタッフが駐在しておらず、一棟貸しのため、贅沢なプライベート空間を満喫できます。朝食は、京都の老舗「泉仙」が仕出しをする精進料理です。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/CDcJQSDmHVkbRGVwhbql6c_5CU8K8WB4Ys-iKSH-94I/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/CDcJQSDmHVkbRGVwhbql6c_5CU8K8WB4Ys-iKSH-94I/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/CDcJQSDmHVkbRGVwhbql6c_5CU8K8WB4Ys-iKSH-94I/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/CDcJQSDmHVkbRGVwhbql6c_5CU8K8WB4Ys-iKSH-94I/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/CDcJQSDmHVkbRGVwhbql6c_5CU8K8WB4Ys-iKSH-94I/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/CDcJQSDmHVkbRGVwhbql6c_5CU8K8WB4Ys-iKSH-94I/800x600.jpg",
+          "width": 800
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "Kyoto Machiya 福音"
+      },
+      {
+        "cTA1": {
+          "label": "清水小路 坂のホテル京都の詳細をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6232134/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "RAKURO 京都 by THE SHARE HOTELSのプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6336021/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6232143/62321431300000077.jpg\" alt\u003d\" 「Kyoto Machiya 福音」　客室\"\u003e客室は、古き良き町家造りにモダンが加わり、広々としたお部屋となっています。梁（はり）なども昔のまま残しているため、泊まるだけで「京都ならでは」を感じることができます。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/a5Tt4T29IPtJYQjaWo2ob0KEmeuWsr00V5R9wOliD8Y/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/a5Tt4T29IPtJYQjaWo2ob0KEmeuWsr00V5R9wOliD8Y/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/a5Tt4T29IPtJYQjaWo2ob0KEmeuWsr00V5R9wOliD8Y/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/a5Tt4T29IPtJYQjaWo2ob0KEmeuWsr00V5R9wOliD8Y/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/a5Tt4T29IPtJYQjaWo2ob0KEmeuWsr00V5R9wOliD8Y/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/a5Tt4T29IPtJYQjaWo2ob0KEmeuWsr00V5R9wOliD8Y/800x600.jpg",
+          "width": 800
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "「Kyoto Machiya 福音」　客室"
+      },
+      {
+        "cTA1": {
+          "label": "RAKURO 京都 by THE SHARE HOTELSの詳細をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6336021/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "三井ガーデンホテル京都新町 別邸のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230074/plan/",
+          "linkType": "URL"
+        },
+        "description": "近年、京都には新しいホテルが続々とオープンしているため、どこに泊まったらいいかと迷ってしまいます。こちらでは、女子旅におすすめのおしゃれなホテルや旅館を7施設ご紹介します。オープンしたての綺麗でスタイリッシュなホテルや、斬新なデザイナーズホテル、安心して泊まれる老舗のホテルなど、インスタ映えするホテルや旅館に泊まって、女子旅をさらに盛り上げましょう！",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/eOgYtMRfMWa5VlAll9lgSAvYsYc5-JeW1G6QJ39Rtp0/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/eOgYtMRfMWa5VlAll9lgSAvYsYc5-JeW1G6QJ39Rtp0/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/eOgYtMRfMWa5VlAll9lgSAvYsYc5-JeW1G6QJ39Rtp0/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/eOgYtMRfMWa5VlAll9lgSAvYsYc5-JeW1G6QJ39Rtp0/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/eOgYtMRfMWa5VlAll9lgSAvYsYc5-JeW1G6QJ39Rtp0/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/eOgYtMRfMWa5VlAll9lgSAvYsYc5-JeW1G6QJ39Rtp0/800x600.jpg",
+          "width": 800
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "2．綺麗でおしゃれなホテル・旅館7選"
+      },
+      {
+        "cTA1": {
+          "label": "三井ガーデンホテル京都新町 別邸の魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230074/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "Umekoji Potel KYOTOのプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230156/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230064/62300641000000006.jpg\" alt\u003d\" ホテル アンテルーム 京都\"\u003e「ホテル アンテルーム 京都」は、京都駅八条東口から徒歩約15分の立地です。築23年の学生寮を改装し2011年にオープン、また2016年にリニューアルオープンしたホテルです。「365日アートフェア」をコンセプトとしているため、ホテルに一歩入ると芸術的な世界が広がっています。朝食は、近所のカフェのような居心地の良い空間で、サラダや自家製グラノーラなど、フレッシュでボリューム満点の食事をとることができます。また、朝食会場にはアートワークを展示し、アートとともに食事が楽しめます。",
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/BdK4mKUwUA45DaFxC5vpu-0Tu5cFboWiNKZlo3oVvlQ/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/BdK4mKUwUA45DaFxC5vpu-0Tu5cFboWiNKZlo3oVvlQ/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/BdK4mKUwUA45DaFxC5vpu-0Tu5cFboWiNKZlo3oVvlQ/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/BdK4mKUwUA45DaFxC5vpu-0Tu5cFboWiNKZlo3oVvlQ/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/BdK4mKUwUA45DaFxC5vpu-0Tu5cFboWiNKZlo3oVvlQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BdK4mKUwUA45DaFxC5vpu-0Tu5cFboWiNKZlo3oVvlQ/800x600.jpg",
+          "width": 800
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "ホテル アンテルーム 京都"
+      },
+      {
+        "cTA1": {
+          "label": "Umekoji Potel KYOTOの詳細をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230156/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "GOOD NATURE HOTEL KYOTOのプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230147/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230064/62300641000000071.jpg\" alt\u003d\" 「ホテル アンテルーム 京都」　客室\"\u003e客室は、15平米のシングルルームから、30平米もあるゆとりのツインルームまで様々なタイプがあり、通常のホテルとは一味違うおしゃれなつくりとなっています。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「ホテル アンテルーム 京都」　客室"
+      },
+      {
+        "cTA1": {
+          "label": "GOOD NATURE HOTEL KYOTOの詳細をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230147/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "京都 嵐山温泉 花伝抄のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6240017/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230006/62300061000351644.jpg\" alt\u003d\" リーガロイヤルホテル京都\"\u003e「リーガロイヤルホテル京都」は、京都駅から徒歩約7分の立地です。開業50周年を迎えた京都の伝統あるホテルで、「心やすらぐ京都らしい和モダン」をコンセプトとしています。6つのレストラン・バー・ラウンジ・室内温水プールなどの多くの施設を完備。中でも京都市内で唯一の回転展望レストランは、眺めが良いのでおすすめです！",
+        "sectionLevel": "h3",
+        "sectionTitle": "リーガロイヤルホテル京都"
+      },
+      {
+        "cTA1": {
+          "label": "京都 嵐山温泉 花伝抄の魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6240017/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "渡月亭のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6240001/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230006/62300060003355890.jpg\" alt\u003d\" 「リーガロイヤルホテル京都」　客室\"\u003e客室は、大きく分けて「エグゼクティブフロア」「華小路フロア」「スタンダードフロア」と3つのフロアで構成されています。「華小路フロア」は、日本の伝統色を使い、和のテイストが散りばめられた落ち着いた空間です。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「リーガロイヤルホテル京都」　客室"
+      },
+      {
+        "cTA1": {
+          "label": "渡月亭の魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6240001/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "嵐山温泉 彩四季の宿 花筏のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6240002/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6232134/62321341300000233.jpg\" alt\u003d\" 清水小路 坂のホテル京都\"\u003e「清水小路　坂のホテル」は、京都駅からバスで約12分、五条坂下下車徒歩約5分の立地です。京都を象徴する5つの坂に囲まれて、表通りの喧騒から離れ、静寂に守られた旅館です。清水寺には徒歩5分で行けるため、早朝参拝がおすすめ。ゲストラウンジ「音羽リビング」は、ライブラリーやご自由に使えるマッサージチェアが完備。ドリンクやスナックの提供に加え、16:00～18:00にはアルコール類も無料で飲むことができます。夕食は、若狭・志摩・淡路の三国からこだわりの食材を集めた懐石料理です。器にもこだわり、目にも楽しいお料理の数々を堪能できます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "清水小路 坂のホテル京都"
+      },
+      {
+        "cTA1": {
+          "label": "嵐山温泉 彩四季の宿 花筏の魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6240002/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "松園荘 保津川亭のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6244003/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6232134/62321341300000190.jpg\" alt\u003d\" 「清水小路 坂のホテル京都」　客室\"\u003e客室は、和の温かみあふれるツインルームを中心とした全38室。多くのお部屋に檜（ひのき）風呂を備えており、伏見のお酒を注いで入る「日本酒風呂」をお楽しみいただけます。日本酒風呂には美肌効果や保湿効果があるといわれているため、女子旅におすすめです！",
+        "sectionLevel": "h4",
+        "sectionTitle": "「清水小路 坂のホテル京都」　客室"
+      },
+      {
+        "cTA1": {
+          "label": "松園荘 保津川亭の詳細をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6244003/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "おもてなしの宿 渓山閣のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6244007/plan/",
+          "linkType": "URL"
+        },
+        "description": "「RAKURO 京都 by THE SHARE HOTELS」は、京都駅から地下鉄に乗り約10分、丸太町駅から徒歩約5分の立地です。2018年にオープンしたリノベーションホテルで、ライブラリー＆ラウンジや、ウットデッキテラスもある現代的なデザインとなっています。フロントの後ろや廊下に清水焼のタイルが貼られていたり、ルームキーケースが西陣織だったりと、随所に京都の伝統が感じられます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "RAKURO 京都 by THE SHARE HOTELS"
+      },
+      {
+        "cTA1": {
+          "label": "おもてなしの宿 渓山閣の詳細をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6244007/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "京都ホテルオークラのプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230005/plan/",
+          "linkType": "URL"
+        },
+        "description": "客室は全56室で、「北欧」と「和」を融合させた穏やかで優しい色合いの内装になっています。スタンダード客室からスーペリア、ジュニアスイートまで豊富な種類のお部屋があり、全室バストイレが分かれているので、お風呂もゆっくり入れます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「RAKURO 京都 by THE SHARE HOTELS」　客室"
+      },
+      {
+        "cTA1": {
+          "label": "京都ホテルオークラの魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230005/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ホテルグランヴィア京都のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230047/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230074/62300741000000035.jpg\" alt\u003d\" 三井ガーデンホテル京都新町 別邸\"\u003e「三井ガーデンホテル京都新町 別邸」は、京都駅から地下鉄に乗り約5分、四条駅から徒歩約7分のところにあります。2014年にオープンし、「京の真ん中で、京の雰囲気にどっぷり包まれる」をコンセプトにした和モダンホテルです。ホテルの入り口は「京の町家」をイメージしたつくりで、ホテルとは思えない外観のため、京都らしい風情を感じることができます。宿泊者専用の大浴場完備、ゆとりのあるパウダールーム、こだわりのアメニティと女性にはうれしい環境が整っています。朝食は、日本料理界の巨匠である神田川俊郎氏が料理監修をした「おばんざいビュッフェスタイル」です。小鉢の種類も豊富で旬の野菜もたくさん味わうことができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "三井ガーデンホテル京都新町 別邸"
+      },
+      {
+        "cTA1": {
+          "label": "ホテルグランヴィア京都の魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230047/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "都ホテル 京都八条のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230003/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230074/62300740002700020.jpg\" alt\u003d\" 「三井ガーデンホテル京都新町 別邸」　客室\"\u003e客室は、障子窓や行灯（あんどん）照明などの京都らしさが散りばめられ、ホテルに泊まりながらも京の魅力を感じることができます。また枕とマットレスにこだわり、快適な眠りに導いてくれます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「三井ガーデンホテル京都新町 別邸」　客室"
+      },
+      {
+        "cTA1": {
+          "label": "都ホテル 京都八条の魅力をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230003/remarks/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "アルモントホテル京都のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230069/plan/",
+          "linkType": "URL"
+        },
+        "description": "「Umekoji Potel KYOTO」は、京都駅からJRに乗り約3分、梅小路京都西駅から徒歩約3分の立地です。2020年にオープンしたホテルで、 「ホテル」に「 ゜」を付けることで、様々なことが繋がっていく「ご円（縁）」を意識したネーミングとなっています。レコードを聴くためのスペース・ボードゲームが楽しめるスペース等、館内で楽しめるコンテンツが充実しています。カフェ併設でおしゃれな館内なので、女子旅には最適です。館内にある梅小路銭湯「ぽて湯」は、まさに銭湯のようなレトロで素敵な空間です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "Umekoji Potel KYOTO"
+      },
+      {
+        "cTA1": {
+          "label": "アルモントホテル京都の詳細をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230069/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ヴィアイン京都駅八条口のプラン一覧をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230129/plan/",
+          "linkType": "URL"
+        },
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230156/62301560004564300.jpg\" alt\u003d\" 「Umekoji Potel KYOTO」　客室\"\u003e客室は、テラス席を設えたお部屋や、和のテイストを取り入れたお部屋等、シンプルでかつ落ち着くデザインとなっています。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「Umekoji Potel KYOTO」　客室"
+      },
+      {
+        "cTA1": {
+          "label": "ヴィアイン京都駅八条口の詳細をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/6230129/",
+          "linkType": "URL"
+        },
+        "description": "「GOOD NATURE HOTEL KYOTO」は、京都駅からタクシー約10分のところにあります。2019年にオープン、祇園や錦市場等の観光スポットが多く点在する河原町に立地し、観光や買い物にも便利です。1～3階がマーケットなどの商業施設やレストラン（一部レストランは4階に有）、4～9階がホテルとなっています。フロントやロビーの吹き抜けが印象的で、木のぬくもりを感じることができます。朝食は、「GOOD NATURE」をコンセプトに、選りすぐりの食材を生かした健康的な食事を取ることができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "GOOD NATURE HOTEL KYOTO"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230147/62301471300000047.jpg\" alt\u003d\" 「GOOD NATURE HOTEL KYOTO」　客室\"\u003e客室は、28平米以上と十分に広く、天然木を基調としたおしゃれな内装で、ゆっくり過ごせるしつらえとなっています。全室バストイレが分かれているのもうれしいポイントです。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「GOOD NATURE HOTEL KYOTO」　客室"
+      },
+      {
+        "description": "京都の観光地で根強い人気を誇る「嵐山」。渡月橋や竹林の小径、トロッコ列車、グルメやお買い物…嵐山は、1日では周りきれないほど多くの観光スポットが点在しています。嵐山の旅館に泊まって、観光も旅館ステイも満喫し、贅沢な京都の女子旅を過ごしませんか？",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．嵐山の旅館3選～京都ではんなり旅館ステイ～"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6240017/62400171000000217.jpg\" alt\u003d\" 京都 嵐山温泉 花伝抄\"\u003e「京都嵐山温泉 花伝抄」は、阪急嵐山駅の目の前に立地し、嵐山の観光に最適の旅館です。天然温泉と露天風呂、趣の異なる5つの無料貸切風呂があり、京都観光と共に温泉も楽しみたい方にはおすすめです。夕食の四季替り懐石は、選べる「京おばんざい」と、オーダービュッフェの「天ぷら」を堪能できます。（一部プランを除く）小腹がすいてしまう夜には「夜鳴きそば（ラーメン）」のサービスがあります。",
+        "sectionLevel": "h3",
+        "sectionTitle": "京都 嵐山温泉 花伝抄"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6240017/62400171000000033.jpg\" alt\u003d\" 「京都 嵐山温泉 花伝抄」　客室\"\u003e客室は、京の風情を基調に、調度品から小物まで細部にこだわった客室が特徴です。種類豊富な「花伝抄オリジナル浴衣」の用意もあり、旅の思い出がより一層深いものになるはずです。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「京都 嵐山温泉 花伝抄」　客室"
+      },
+      {
+        "description": "「渡月亭」は、京都駅からJRに乗り約20分、嵯峨嵐山駅徒歩約15分のところにあります。創業115年の老舗料理旅館で、その静寂さと風情に訪れる人の心をなごませてくれます。貸切風呂や寝湯も完備しており、京都観光も楽しみつつ、温泉でのリラックスタイムを過ごせます。夕食は、経験を重ねた料理人が、技と真心をこめてつくるこだわりの京懐石です。プランによっては、お部屋食での提供のため、移動することなくゆっくりとお食事の時間を楽しむことができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "渡月亭"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6240001/62400010003338500.jpg\" alt\u003d\" 「渡月亭」　客室 内風呂\"\u003e客室は、川辺で眺望が自慢の「碧川閣」、一部客室に檜（ひのき）の内風呂を備えた純和風客室の「秀山閣」、二つの館からお選びいただけます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「渡月亭」　客室 内風呂"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6240002/62400021000193802.jpg\" alt\u003d\" 嵐山温泉 彩四季の宿 花筏\"\u003e「嵐山温泉彩四季の宿花筏」は、京都駅からJRに乗り約20分、嵯峨嵐山駅徒歩約15分のところにあります。渡月橋のたもと、自然と文化が共存する恵まれた場所に位置する「こぢんまり」としたお宿です。館内が階段も含めて全て畳敷きのため、開放的にお過ごしいただけます。食事は、食材と器を料理長が「自ら足を運び厳選している」というこだわりようで、料理長の「想い」が詰まっています。また朝食のお客様自身でお作りいただく「おぼろ豆腐」が人気です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "嵐山温泉 彩四季の宿 花筏"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6240002/62400021300000005.jpg\" alt\u003d\" 「嵐山温泉 彩四季の宿 花筏」　客室\"\u003e客室は、2019年にはなれ特別室がオープン、他にも「露天風呂付客室」「温泉石風呂付客室」「一般客室」とご利用シーンに合わせてお選びいただけます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「嵐山温泉 彩四季の宿 花筏」　客室"
+      },
+      {
+        "description": "京都の奥座敷といわれる湯の花温泉は、静かな山間にある温泉地で、戦国武将が刀傷を癒しに訪れたといわれる歴史ある名湯です。京都の観光につかれた後は、名湯で身体を癒す。四季折々の自然の景観や、落ち着いた風情を感じることのできる湯の花温泉に泊まって、心からくつろぎの時間を味わうのはいかがでしょうか。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．湯の花温泉 旅館2選～温泉情緒も楽しみたい人に～"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6244003/62440031100009399.jpg\" alt\u003d\" 松園荘 保津川亭\"\u003e「松園荘保津川亭」は、京都駅からJRに乗り約30分、亀岡駅よりバス約15分のところにあります。湯の花温泉の中心に位置し、周りは自然に囲まれています。約800坪の敷地を使った露天風呂や内風呂が計8種類あり、湯の花温泉を堪能できます。大浴場に能舞台を有し、贅沢な空間となっているのが特徴です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "松園荘 保津川亭"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6244003/62440031100009450.jpg\" alt\u003d\" 「松園荘 保津川亭」　露天風呂\"\u003e食事は、お米や野菜など地元京都産にこだわり、魚介類も京都卸売市場からの直送なので新鮮です。客室は、木のぬくもりが伝わる落ち着いた空間となっていて「露天風呂付客室」「ひのき風呂付客室」等、多様なタイプがあります。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「松園荘 保津川亭」　露天風呂"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6244007/62440071100009478.jpg\" alt\u003d\" おもてなしの宿 渓山閣\"\u003e「おもてなしの宿渓山閣」は、京都駅からJRに乗り約20分、亀岡駅よりバス約20分のところにあります。「プロが選ぶホテル・旅館100選」の料理部門で連続入選している旅館で、こだわりの器を使い、四季折々の旬の味覚を味わうことができます。",
+        "sectionLevel": "h3",
+        "sectionTitle": "おもてなしの宿 渓山閣"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6244007/62440071100009479.jpg\" alt\u003d\" 「おもてなしの宿 渓山閣」　大浴場\"\u003e大浴場も広々としており、女性大浴場は総檜造りの壁や天井、男性大浴場は日本家屋を思わせる白壁造りです。客室は、「一の館」「ニの館」「三の館」とあり、内露天風呂付のお部屋や、湯の花の山々に面しているお部屋等タイプも様々です。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「おもてなしの宿 渓山閣」　大浴場"
+      },
+      {
+        "description": "旅の思い出話や、夜な夜なつもる話…グループ女子旅ならではの楽しみを満喫するためには、みんなで1室に泊まりたいものです。ただ「寝るだけ」という目的ではなく、3人以上で泊まれて、綺麗で快適に過ごせるホテルを5施設ご紹介します。",
+        "sectionLevel": "h2",
+        "sectionTitle": "5．女子旅グループ必見～3名1室以上で泊まれる人気ホテル5選～"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230005/62300051000276035.jpg\" alt\u003d\" ホテルオークラ京都\"\u003e「ホテルオークラ京都」は、地下鉄京都市役所前直結という立地です。京都の中心である河原町御池に位置し、食事や買い物に便利です。17階のトップラウンジからは鴨川と東山三十峰を望める眺望が自慢。創業130周年の伝統と、重厚感のある空間が大変人気で、国内外の賓客をおもてなしする和製ラグジュアリーホテルです。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ホテルオークラ京都"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230005/62300050003308690.jpg\" alt\u003d\" 「ホテルオークラ京都」　客室\"\u003e客室は、家具や調度品にも落ち着いた雰囲気が感じられ、独立したシャワーブースを備えたバスルーム（一部客室を除く）で快適にお過ごしいただけます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「ホテルオークラ京都」　客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230047/62300471000534654.jpg\" alt\u003d\" ホテルグランヴィア京都\"\u003e「ホテルグランヴィア京都」は、京都駅直結のホテルです。雨にも濡れず、荷物を預けてそのまますぐ観光に向かうことができる大変便利な立地となっています。館内には11のレストランやバーがあり、多様なニーズに応えることができます。朝食のバイキング（状況により中止の可能性あり）は、100種類以上が揃いライブキッチンも豊富です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ホテルグランヴィア京都"
+      },
+      {
+        "description": "2019年に一部客室のリニューアルをしています。客室は、全室シモンズ社製のベットを搭載、お部屋の広さも十分にあるため、京都観光もホテルランクもこだわりたい方におすすめです！",
+        "sectionLevel": "h4",
+        "sectionTitle": "「ホテルグランヴィア京都」　客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230003/62300031000275961.jpg\" alt\u003d\" 都ホテル 京都八条\"\u003e「都ホテル　京都八条」は、京都駅八条口から徒歩約2分のところにあります。客室が約990室ある大型ホテルで、ホテル隣にイオンモール、徒歩1分にコンビニと便利な立地です。朝食は3店舗の朝食レストランから選択可能と、連泊をしても飽きない内容となっています。",
+        "sectionLevel": "h3",
+        "sectionTitle": "都ホテル 京都八条"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230003/62300031300000031.jpg\" alt\u003d\" 「都ホテル 京都八条」　客室\"\u003e客室は、「本館」と「別館サウスウィング」があり、バリエーションが豊富です。中でも本館にある「プレミアムフロア」は、フロアごとにデザインコンセプトが違う演出をしています。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「都ホテル 京都八条」　客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230069/62300691300000206.jpg\" alt\u003d\" アルモントホテル京都\"\u003e「アルモントホテル京都」は、京都駅八条東口より徒歩約5分の立地です。コスパ重視の人を中心に人気なホテルですが、JTBのお客様アンケートで総合90点を獲得するなど、お客様の満足度が高いです。京都市内では珍しく大浴場があります。女性浴場入口は、安心して入浴していただけるよう、暗証番号による電子ロックキーを使用しています。",
+        "sectionLevel": "h3",
+        "sectionTitle": "アルモントホテル京都"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230069/62300691300000216.jpg\" alt\u003d\" 「アルモントホテル京都」　客室\"\u003e客室は、洗礼された和モダンスタイルで清潔感があります。3名1室でお泊りいただけるトリプルのお部屋は、約30平米あり十分な広さです。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「アルモントホテル京都」　客室"
+      },
+      {
+        "description": "\u003cimg src\u003d\"https://dom.jtb.co.jp/yado/photo2/xl/6/6230129/62301291300000079.jpg\" alt\u003d\" ヴィアイン京都駅八条口\"\u003e「ヴィアイン京都駅八条口」は、京都駅八条口から徒歩2分の立地です。自慢の朝食は、新鮮な地元野菜を取り入れた「大地の恵みサラダコーナー」と、自然のだしにこだわった各種おばんざいと約80種類の豊富なメニューが揃っています。シェフが目の前で作る「だし巻卵」はこだわりの一品です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ヴィアイン京都駅八条口"
+      },
+      {
+        "description": "3名1室でご利用可能なトリプルルームは、32平米と広々としており、シングルサイズベットが3台備わっています。お風呂トイレが別々なので快適にお過ごしいただけます。",
+        "sectionLevel": "h4",
+        "sectionTitle": "「ヴィアイン京都駅八条口」　客室"
+      },
+      {
+        "description": "京都には、ご紹介のとおり多種多様な宿泊場所があります。せっかく京都に来たのであれば、観光だけではなく宿泊する場所にもこだわり、「京都ならでは」を存分に感じてみてはいかがでしょうか。※この記事は2024年2月時点の情報です。情報は変動する可能性がございます。詳細や最新情報は各施設のホームページを必ずご参照ください。",
+        "sectionLevel": "h2",
+        "sectionTitle": "6．まとめ"
+      }
+    ],
+    "c_news_PublicationDate": "2021-01-12",
+    "c_news_UpdateDate": "2024-04-24",
+    "c_news_ViewCount": "3399",
+    "c_news_ViewCount2of2": "3399",
+    "c_news_ViewCountNum": "3399",
+    "c_news_ViewCountNumForSorting": "167",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kansai/kyoto/news_web_kokunai_0020",
+    "name": "京都の女子旅は宿もオシャレに！おすすめホテル・旅館20選",
+    "slug": "kokunai/kansai/kyoto/news_web_kokunai_0020",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

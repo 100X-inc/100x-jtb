@@ -1,0 +1,62 @@
+{
+  "$id": "shiga",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "kansai"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_y_ishihara225_043",
+      "news_ap_a_ebe517_001",
+      "news_ap_h_tominaga084_005",
+      "news_ap_h_tominaga084_003",
+      "news_ap_a_murata303_001",
+      "news_ap_h_tominaga084_002",
+      "news_ap_h_tominaga084_006",
+      "news_ap_h_furuta308_008",
+      "news_ap_h_tominaga084_001"
+    ],
+    "c_metaDescription": "滋賀に関する記事をピックアップ！JTBニュースでは、滋賀で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 滋賀 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "滋賀",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/sxwgT3WJwUWr4p7nNFq1BIzTujaFQzGXOSu8T2YA46s/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/woFkv2E-NpbQNqb6cWxZ-bgoicXYzR2vROSaVyaqq70/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/woFkv2E-NpbQNqb6cWxZ-bgoicXYzR2vROSaVyaqq70/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/woFkv2E-NpbQNqb6cWxZ-bgoicXYzR2vROSaVyaqq70/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/woFkv2E-NpbQNqb6cWxZ-bgoicXYzR2vROSaVyaqq70/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/woFkv2E-NpbQNqb6cWxZ-bgoicXYzR2vROSaVyaqq70/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/woFkv2E-NpbQNqb6cWxZ-bgoicXYzR2vROSaVyaqq70/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "滋賀",
+    "slug": "kokunai/kansai/shiga"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

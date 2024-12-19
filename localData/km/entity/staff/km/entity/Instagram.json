@@ -1,0 +1,115 @@
+{
+  "$id": "staff_Instagram",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}\n\n.Promotions-subtitle {\ntext-decoration: unset;\n}\n\n.OnlineConsultation-subtitle {\ntext-decoration: unset;\n}\n\n.Info-subtitle {\ntext-decoration: unset;\n}\n\n#locator {\ndisplay: none;\n}\n\n#info {\ndisplay: none;\n}\n\n#info2 {\ndisplay: none;\n}",
+    "c_activeOnTops": true,
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}\n.Promotions-promo {\n    flex-wrap: wrap;\n}\n.Promotions-image {\n    width: unset;\n}\n.Promotions-subtitle {\ntext-decoration: unset;\n}\n\n.OnlineConsultation-subtitle {\ntext-decoration: unset;\n}\n\n\n.Hero {\nheight: 26rem;\n}\n\n.Hero-imageContainer {\nheight: auto;\n}\n\n.Info-subtitle {\ntext-decoration: unset;\n}\n\n#locator {\ndisplay: none;\n}\n\n#info {\ndisplay: none;\n}\n\n#info2 {\ndisplay: none;\n}",
+    "c_metaDescription": "JTBの個性豊かなスタッフが得意分野や趣味・経験を生かした、旅のプロならではの旅行やおでかけに関する情報を様々な角度からお届けしています！",
+    "c_metaTitle": "JTB店舗スタッフ【公式】Instagramメンバー",
+    "c_pagesURL": "https://consultants.jtb.co.jp/staff_instagram",
+    "c_topBreadcrumb": {
+      "label": "JTB店舗スタッフ【公式】Instagram",
+      "link": "staff_Instagram",
+      "linkType": "OTHER"
+    },
+    "c_topTemplate": "STANDARD",
+    "c_top_BannerBackgroundColor": "#ffc300",
+    "c_top_Consultants": [
+      "cp_10192070",
+      "cp_14151579",
+      "cp_14181536",
+      "cp_13148021",
+      "cp_14990254",
+      "cp_loyalstaff_22675892",
+      "cp_14151539",
+      "cp_14151527",
+      "cp_10202085",
+      "cp_10212028",
+      "cp_17116009",
+      "cp_12151503"
+    ],
+    "c_top_ConsultantsSectionHTML": "\u003cscript\u003e\nwindow.addEventListener(\u0027load\u0027, function() {\n  atags \u003d document.querySelectorAll(\u0027.FAQ-answerText a[href^\u003d\"https:\"]\u0027);\n  atags.forEach(function(atag){atag.setAttribute(\u0027target\u0027, \u0027_blank\u0027);});\n});\n\u003c/script\u003e",
+    "c_top_ConsultantsSectionTitle": "店舗スタッフInstagramメンバーに旅行相談する",
+    "c_top_HeroImage": {
+      "alternateText": "店舗スタッフInstagram",
+      "height": 556,
+      "sourceUrl": "https://a.mktgcdn.com/p/q53jaZy61OnKvo6h5hTleUHg3QHMXKMXwXd7SRJYYqE/1900x556.png",
+      "thumbnails": [
+        {
+          "height": 556,
+          "url": "https://a.mktgcdn.com/p-sandbox/q53jaZy61OnKvo6h5hTleUHg3QHMXKMXwXd7SRJYYqE/1900x556.png",
+          "width": 1900
+        },
+        {
+          "height": 181,
+          "url": "https://a.mktgcdn.com/p-sandbox/q53jaZy61OnKvo6h5hTleUHg3QHMXKMXwXd7SRJYYqE/619x181.png",
+          "width": 619
+        },
+        {
+          "height": 176,
+          "url": "https://a.mktgcdn.com/p-sandbox/q53jaZy61OnKvo6h5hTleUHg3QHMXKMXwXd7SRJYYqE/600x176.png",
+          "width": 600
+        },
+        {
+          "height": 57,
+          "url": "https://a.mktgcdn.com/p-sandbox/q53jaZy61OnKvo6h5hTleUHg3QHMXKMXwXd7SRJYYqE/196x57.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/q53jaZy61OnKvo6h5hTleUHg3QHMXKMXwXd7SRJYYqE/1900x556.png",
+      "width": 1900
+    },
+    "c_top_HeroImageMobile": {
+      "alternateText": "店舗スタッフInstagram",
+      "height": 400,
+      "sourceUrl": "https://a.mktgcdn.com/p/9AsJtVtvrAWDaIvv0OEXrZFJ0PnuGepYdPlDk-aNyrg/375x400.png",
+      "thumbnails": [
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/9AsJtVtvrAWDaIvv0OEXrZFJ0PnuGepYdPlDk-aNyrg/375x400.png",
+          "width": 375
+        },
+        {
+          "height": 209,
+          "url": "https://a.mktgcdn.com/p-sandbox/9AsJtVtvrAWDaIvv0OEXrZFJ0PnuGepYdPlDk-aNyrg/196x209.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/9AsJtVtvrAWDaIvv0OEXrZFJ0PnuGepYdPlDk-aNyrg/375x400.png",
+      "width": 375
+    },
+    "c_top_Info3SectionHTML": "\u003ccenter\u003e\u003ca href\u003d\"https://www.instagram.com/jtb_staff/\" target\u003d\"_blank\"\u003e\u003cimg src\u003d\"https://a.mktgcdn.com/p/wOnkHytDaJwgHEEzMfgbwC0TMA_9YdAMLSaS-GCoby4/500x500.png\" alt\u003d\"Instagram\" width\u003d\"100\" height\u003d\"100\"\u003e\u003c/a\u003e\u003c/center\u003e",
+    "c_top_Info3SectionSubTitle": "JTBの個性豊かなスタッフ6人組、が得意分野や趣味・経験を生かした、旅のプロならではの旅行やおでかけに関する情報を様々な角度からお届けしています！\nアカウント（@jtb_staff）のフォローはこちらから",
+    "c_top_Info3SectionTitle": "JTB店舗スタッフ【公式】Instagramインスタグラム",
+    "c_top_OnlineConsultationButton1Image": {
+      "height": 500,
+      "sourceUrl": "https://a.mktgcdn.com/p/wOnkHytDaJwgHEEzMfgbwC0TMA_9YdAMLSaS-GCoby4/500x500.png",
+      "thumbnails": [
+        {
+          "height": 500,
+          "url": "https://a.mktgcdn.com/p-sandbox/wOnkHytDaJwgHEEzMfgbwC0TMA_9YdAMLSaS-GCoby4/500x500.png",
+          "width": 500
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/wOnkHytDaJwgHEEzMfgbwC0TMA_9YdAMLSaS-GCoby4/450x450.png",
+          "width": 450
+        },
+        {
+          "height": 196,
+          "url": "https://a.mktgcdn.com/p-sandbox/wOnkHytDaJwgHEEzMfgbwC0TMA_9YdAMLSaS-GCoby4/196x196.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/wOnkHytDaJwgHEEzMfgbwC0TMA_9YdAMLSaS-GCoby4/500x500.png",
+      "width": 500
+    },
+    "c_top_PromotionBannersSectionSubTitle": "JTBの個性豊かなスタッフ6人組、が得意分野や趣味・経験を生かした、旅のプロならではの旅行やおでかけに関する情報を様々な角度からお届けしています！",
+    "c_top_PromotionBannersSectionTitle": "JTB店舗スタッフ【公式】Instagramインスタグラム",
+    "name": "JTB店舗スタッフ【公式】Instagramメンバー"
+  },
+  "entityType": "ce_tOP",
+  "labels": []
+}

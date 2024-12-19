@@ -1,0 +1,49 @@
+{
+  "$id": "news_ap_area_0000093",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ トラベルコンサルタント 武藤",
+      "link": "https://consultants.jtb.co.jp/cp_a_muto106",
+      "linkType": "URL"
+    },
+    "c_ap_PagesGeneration": false,
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_metaTitle": "| JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "この記事の投稿者にリモート相談予約をする",
+        "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVq9",
+        "linkType": "URL"
+      },
+      {
+        "label": "JTB店舗・専門店への相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#locator",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_chiki_100004",
+      "news_ap_chiki_100016",
+      "news_ap_chiki_100009",
+      "news_ap_chiki_100021_01",
+      "news_ap_chiki_100018",
+      "news_ap_chiki_100066",
+      "news_ap_chiki_100020",
+      "news_ap_chiki_100023",
+      "news_ap_area_000007",
+      "news_ap_area_000008",
+      "news_ap_chiki_100059",
+      "news_ap_chiki_100008"
+    ],
+    "c_news_FeaturedArticlesTitle": "東京都のその他の記事",
+    "c_news_ViewCount": "0",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/news_ap_area_0000093",
+    "name": "エリア記事63",
+    "slug": "news_ap_area_0000093",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

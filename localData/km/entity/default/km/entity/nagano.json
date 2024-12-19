@@ -1,0 +1,59 @@
+{
+  "$id": "nagano",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "koshinetsu"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_y_ishihara225_005",
+      "news_ap_area_0000020",
+      "news_ap_chiki_100099",
+      "news_ap_area_0000019",
+      "news_ap_area_0000021",
+      "news_ap_store_00002"
+    ],
+    "c_metaDescription": "長野に関する記事をピックアップ！JTBニュースでは、長野で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 長野 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "長野",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/hGoK2Vh_aECEdWVYxeLJLH0YLSpiJw9ohDPtyhefIqM/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/_8Z1YSZXYYW4_HD_LDkPpF7OPE0DXllAn8QcI290so4/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/_8Z1YSZXYYW4_HD_LDkPpF7OPE0DXllAn8QcI290so4/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/_8Z1YSZXYYW4_HD_LDkPpF7OPE0DXllAn8QcI290so4/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/_8Z1YSZXYYW4_HD_LDkPpF7OPE0DXllAn8QcI290so4/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/_8Z1YSZXYYW4_HD_LDkPpF7OPE0DXllAn8QcI290so4/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/_8Z1YSZXYYW4_HD_LDkPpF7OPE0DXllAn8QcI290so4/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "長野",
+    "slug": "kokunai/koshinetsu/nagano"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

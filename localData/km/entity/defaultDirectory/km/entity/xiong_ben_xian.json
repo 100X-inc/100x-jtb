@@ -1,0 +1,22 @@
+{
+  "$id": "defaultDirectory_xiong_ben_xian",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1045019376"
+    ],
+    "dm_directoryChildren": [
+      "defaultDirectory_xiong_ben_xian_xiong_ben_shi"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory"
+    ],
+    "name": "熊本県",
+    "slug": "熊本県"
+  },
+  "entityType": "ce_region",
+  "labels": []
+}

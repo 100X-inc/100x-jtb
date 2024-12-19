@@ -1,0 +1,1047 @@
+{
+  "$id": "news_web_kokunai_0002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1309,
+      "sourceUrl": "https://a.mktgcdn.com/p/Snb-ziOHekZO-Rdp9MYztR52sOPf_3QqdHJ7CgQ5Te8/1920x1309.jpg",
+      "thumbnails": [
+        {
+          "height": 1309,
+          "url": "https://a.mktgcdn.com/p-sandbox/1ZrgXbML9H0KaxmAGQrM0rySSofOHJV6whhLhUayLnc/1920x1309.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1295,
+          "url": "https://a.mktgcdn.com/p-sandbox/1ZrgXbML9H0KaxmAGQrM0rySSofOHJV6whhLhUayLnc/1900x1295.jpg",
+          "width": 1900
+        },
+        {
+          "height": 422,
+          "url": "https://a.mktgcdn.com/p-sandbox/1ZrgXbML9H0KaxmAGQrM0rySSofOHJV6whhLhUayLnc/619x422.jpg",
+          "width": 619
+        },
+        {
+          "height": 409,
+          "url": "https://a.mktgcdn.com/p-sandbox/1ZrgXbML9H0KaxmAGQrM0rySSofOHJV6whhLhUayLnc/600x409.jpg",
+          "width": 600
+        },
+        {
+          "height": 134,
+          "url": "https://a.mktgcdn.com/p-sandbox/1ZrgXbML9H0KaxmAGQrM0rySSofOHJV6whhLhUayLnc/196x134.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/1ZrgXbML9H0KaxmAGQrM0rySSofOHJV6whhLhUayLnc/1920x1309.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "沖縄の記事一覧はこちら",
+        "uRL": "https://article.jtb.co.jp/kokunai/okinawa/"
+      },
+      {
+        "linkText": "沖縄の旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/"
+      },
+      {
+        "linkText": "沖縄のホテル・旅館・宿を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/"
+      },
+      {
+        "linkText": "沖縄のツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_air/a/okinawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "家族で沖縄旅行に行く方必見！一年中子連れで楽しめる屋内プールや温水プール付きのホテルをピックアップ！ウォータースライダーやキッズプールなど、おすすめポイントとともにご紹介します。",
+    "c_ap_Tags": [
+      "温泉",
+      "ビーチ",
+      "スパ",
+      "リゾート",
+      "ビーチリゾート",
+      "プール",
+      "冬の旅行",
+      "国内の宿",
+      "子連れ",
+      "家族旅行",
+      "沖縄おすすめ"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "一年中泳げる！沖縄のプール付きホテルおすすめ10選",
+    "c_linkedArea3News": [
+      "okinawa_all"
+    ],
+    "c_metaDescription": "家族で沖縄旅行に行く方必見！一年中子連れで楽しめる屋内プールや温水プール付きのホテルをピックアップ！ウォータースライダーやキッズプールなど、おすすめポイントとともにご紹介します。",
+    "c_metaTitle": "一年中泳げる！沖縄のプール付きホテルおすすめ10選｜JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "沖縄県のプールがあるホテルを探す",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/feature/pool/",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "プールのある宿特集をみる",
+        "link": "https://www.jtb.co.jp/kokunai/theme/pool/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ホテルモントレ沖縄スパ＆リゾートの宿泊プランを見る",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707021/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ホテルモントレ沖縄スパ＆リゾートのツアープランを見る",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8707021/plan/",
+          "linkType": "OTHER"
+        },
+        "description": "ホテルモントレ沖縄スパ＆リゾートは、沖縄有数の天然ビーチである”タイガービーチ”に面する、全室オーシャンビューの大型リゾートホテル。「ブリティッシュコロニアル」をテーマにしたホテルの内装は、非日常を楽しむのにぴったりの空間です。",
+        "image": {
+          "alternateText": "ホテルモントレ沖縄スパ＆リゾート",
+          "height": 1291,
+          "sourceUrl": "https://a.mktgcdn.com/p/PmM5VbjCA930TRzu9nobv9aWwClU2uCjJJJo_S8Eajo/1920x1291.jpg",
+          "thumbnails": [
+            {
+              "height": 1291,
+              "url": "https://a.mktgcdn.com/p-sandbox/QuIznVeeYYabcLfZ8kNLFJ6fPNrErAINkYJ_7U5QaUE/1920x1291.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1278,
+              "url": "https://a.mktgcdn.com/p-sandbox/QuIznVeeYYabcLfZ8kNLFJ6fPNrErAINkYJ_7U5QaUE/1900x1278.jpg",
+              "width": 1900
+            },
+            {
+              "height": 416,
+              "url": "https://a.mktgcdn.com/p-sandbox/QuIznVeeYYabcLfZ8kNLFJ6fPNrErAINkYJ_7U5QaUE/619x416.jpg",
+              "width": 619
+            },
+            {
+              "height": 403,
+              "url": "https://a.mktgcdn.com/p-sandbox/QuIznVeeYYabcLfZ8kNLFJ6fPNrErAINkYJ_7U5QaUE/600x403.jpg",
+              "width": 600
+            },
+            {
+              "height": 132,
+              "url": "https://a.mktgcdn.com/p-sandbox/QuIznVeeYYabcLfZ8kNLFJ6fPNrErAINkYJ_7U5QaUE/196x132.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QuIznVeeYYabcLfZ8kNLFJ6fPNrErAINkYJ_7U5QaUE/1920x1291.jpg",
+          "width": 1920
+        },
+        "imageCaption": "※画像はイメージです",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．ホテルモントレ沖縄スパ＆リゾート"
+      },
+      {
+        "cTA1": {
+          "label": "オリエンタルホテル沖縄リゾート＆スパの宿泊プランを見る",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8710010/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "オリエンタルホテル沖縄リゾート＆スパのツアープランを見る",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8710010/plan/",
+          "linkType": "URL"
+        },
+        "description": "クラシカルな雰囲気に南国の植物がある屋内プールでは、寒い冬でもリゾート気分が味わえます。キッズプールには約2mのすべり台が付いているので小さいお子様も大喜び！天然温泉のある浴室も備わっているので、疲れた身体を心ゆくまでリフレッシュできます。",
+        "image": {
+          "alternateText": "「ホテルモントレ沖縄スパ＆リゾート」のプール",
+          "height": 1309,
+          "sourceUrl": "https://a.mktgcdn.com/p/Snb-ziOHekZO-Rdp9MYztR52sOPf_3QqdHJ7CgQ5Te8/1920x1309.jpg",
+          "thumbnails": [
+            {
+              "height": 1309,
+              "url": "https://a.mktgcdn.com/p-sandbox/1ZrgXbML9H0KaxmAGQrM0rySSofOHJV6whhLhUayLnc/1920x1309.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1295,
+              "url": "https://a.mktgcdn.com/p-sandbox/1ZrgXbML9H0KaxmAGQrM0rySSofOHJV6whhLhUayLnc/1900x1295.jpg",
+              "width": 1900
+            },
+            {
+              "height": 422,
+              "url": "https://a.mktgcdn.com/p-sandbox/1ZrgXbML9H0KaxmAGQrM0rySSofOHJV6whhLhUayLnc/619x422.jpg",
+              "width": 619
+            },
+            {
+              "height": 409,
+              "url": "https://a.mktgcdn.com/p-sandbox/1ZrgXbML9H0KaxmAGQrM0rySSofOHJV6whhLhUayLnc/600x409.jpg",
+              "width": 600
+            },
+            {
+              "height": 134,
+              "url": "https://a.mktgcdn.com/p-sandbox/1ZrgXbML9H0KaxmAGQrM0rySSofOHJV6whhLhUayLnc/196x134.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1ZrgXbML9H0KaxmAGQrM0rySSofOHJV6whhLhUayLnc/1920x1309.jpg",
+          "width": 1920
+        },
+        "imageCaption": "※画像はイメージです",
+        "sectionLevel": "h4",
+        "sectionTitle": "「ホテルモントレ沖縄スパ＆リゾート」のプール"
+      },
+      {
+        "cTA1": {
+          "label": "ラグナガーデンホテルの宿泊プランを見る",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8736001/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ラグナガーデンホテルのツアープランを見る",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8736001/plan/",
+          "linkType": "URL"
+        },
+        "description": "オリエンタルホテル沖縄リゾート＆スパは、全室オーシャンビューの開放感あふれる客室と充実のスパ施設が魅力のリゾートホテル。未就学（6歳以下）で添い寝のお子様は宿泊とお食事が無料のため、家族旅行に大人気です。",
+        "image": {
+          "alternateText": "オリエンタルホテル沖縄リゾート＆スパ",
+          "height": 1272,
+          "sourceUrl": "https://a.mktgcdn.com/p/NuvQfL2LFur3l-D6H22AjkNHlX1H6sC-gk0LiMo_eLI/1920x1272.jpg",
+          "thumbnails": [
+            {
+              "height": 1272,
+              "url": "https://a.mktgcdn.com/p-sandbox/JuQWZ7PKU2fUu9ejZ6hjbfTRqeyOcMT188MW81s1qiQ/1920x1272.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1259,
+              "url": "https://a.mktgcdn.com/p-sandbox/JuQWZ7PKU2fUu9ejZ6hjbfTRqeyOcMT188MW81s1qiQ/1900x1259.jpg",
+              "width": 1900
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/JuQWZ7PKU2fUu9ejZ6hjbfTRqeyOcMT188MW81s1qiQ/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/JuQWZ7PKU2fUu9ejZ6hjbfTRqeyOcMT188MW81s1qiQ/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/JuQWZ7PKU2fUu9ejZ6hjbfTRqeyOcMT188MW81s1qiQ/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JuQWZ7PKU2fUu9ejZ6hjbfTRqeyOcMT188MW81s1qiQ/1920x1272.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "2．オリエンタルホテル沖縄リゾート＆スパ"
+      },
+      {
+        "cTA1": {
+          "label": "ロワジールホテル　那覇の宿泊プランを見る",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8715043/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ロワジールホテル　那覇のツアープランを見る",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8715043/plan/",
+          "linkType": "URL"
+        },
+        "description": "直線コースのインドアプールは広々としており、お子様用の無料レンタル品も充実。また、クラフト体験などお子様向けアクティビティが豊富に用意されているので、ホテル内で一日中楽しめるのも魅力です。",
+        "image": {
+          "alternateText": "「オリエンタルホテル沖縄リゾート＆スパ」のプール",
+          "height": 1280,
+          "sourceUrl": "https://a.mktgcdn.com/p/u6nF7fgbVjwPhMi-5AzJA9hTNrZp47qn2-5m376n5UY/1920x1280.jpg",
+          "thumbnails": [
+            {
+              "height": 1280,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ji4T9teYY9pFAhhjoZIRvtnUnh61N-UZZlv4Ee3k1uY/1920x1280.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ji4T9teYY9pFAhhjoZIRvtnUnh61N-UZZlv4Ee3k1uY/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ji4T9teYY9pFAhhjoZIRvtnUnh61N-UZZlv4Ee3k1uY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ji4T9teYY9pFAhhjoZIRvtnUnh61N-UZZlv4Ee3k1uY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ji4T9teYY9pFAhhjoZIRvtnUnh61N-UZZlv4Ee3k1uY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ji4T9teYY9pFAhhjoZIRvtnUnh61N-UZZlv4Ee3k1uY/1920x1280.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "「オリエンタルホテル沖縄リゾート＆スパ」のプール"
+      },
+      {
+        "cTA1": {
+          "label": "ホテルムーンビーチの宿泊プランを見る",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8707003/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ホテルムーンビーチのツアープランを見る",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8707003/plan/",
+          "linkType": "URL"
+        },
+        "description": "ラグナガーデンホテルは、宜野湾海浜公園に位置するシティ＆リゾートホテル。リゾートステイが楽しめる開放的でオシャレなお部屋から、赤ちゃん連れでも安心な和室まで、多種多様な客室が備わっているのが魅力です。",
+        "image": {
+          "alternateText": "ラグナガーデンホテル",
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/Bwf56bVEnDe6LPOkp4btTe9xMgr_CNaH37S6sQ0ssMc/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bwf56bVEnDe6LPOkp4btTe9xMgr_CNaH37S6sQ0ssMc/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bwf56bVEnDe6LPOkp4btTe9xMgr_CNaH37S6sQ0ssMc/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bwf56bVEnDe6LPOkp4btTe9xMgr_CNaH37S6sQ0ssMc/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Bwf56bVEnDe6LPOkp4btTe9xMgr_CNaH37S6sQ0ssMc/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Bwf56bVEnDe6LPOkp4btTe9xMgr_CNaH37S6sQ0ssMc/800x600.jpg",
+          "width": 800
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "3．ラグナガーデンホテル"
+      },
+      {
+        "cTA1": {
+          "label": "カヌチャベイホテル＆ヴィラズの宿泊プランを見る",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8710007/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "カヌチャベイホテル＆ヴィラズのツアープランを見る",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8710007/plan/",
+          "linkType": "URL"
+        },
+        "description": "充実した屋内施設は早朝から夜遅くまでオープンしているため、過ごし方にあわせていつでもすきな時に利用ができます。広大な屋内プールにはスライダーも備わっており、お子様も思う存分楽しめます。",
+        "image": {
+          "alternateText": "「ラグナガーデンホテル」のプール",
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/TEzrzP1eEg4d2QHVv8OSN4lyyJs9Q-CH8XE8YielU4s/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/TEzrzP1eEg4d2QHVv8OSN4lyyJs9Q-CH8XE8YielU4s/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/TEzrzP1eEg4d2QHVv8OSN4lyyJs9Q-CH8XE8YielU4s/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/TEzrzP1eEg4d2QHVv8OSN4lyyJs9Q-CH8XE8YielU4s/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/TEzrzP1eEg4d2QHVv8OSN4lyyJs9Q-CH8XE8YielU4s/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/TEzrzP1eEg4d2QHVv8OSN4lyyJs9Q-CH8XE8YielU4s/800x600.jpg",
+          "width": 800
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "「ラグナガーデンホテル」のプール"
+      },
+      {
+        "cTA1": {
+          "label": "サザンビーチホテル＆リゾート沖縄の宿泊プランを見る",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8717001/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "サザンビーチホテル＆リゾート沖縄のツアープランを見る",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8717001/plan/",
+          "linkType": "URL"
+        },
+        "description": "ロワジールホテル　那覇は、那覇空港から車で約7分という好立地の都市型リゾートホテル。那覇市内唯一の源泉かけ流し天然温泉が利用できるため、温泉とリゾートを両方存分に満喫することが可能です。",
+        "image": {
+          "alternateText": "ロワジールホテル　那覇",
+          "height": 1278,
+          "sourceUrl": "https://a.mktgcdn.com/p/igXyKFhanvPdGu6YyDDkfHtUw6LCL_GPgf18LlMVxLc/1920x1278.jpg",
+          "thumbnails": [
+            {
+              "height": 1278,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ii0JiGDO9Y3pnuKT1iP-AOV3cvUosJWjkvVJB9DA7S4/1920x1278.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1265,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ii0JiGDO9Y3pnuKT1iP-AOV3cvUosJWjkvVJB9DA7S4/1900x1265.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ii0JiGDO9Y3pnuKT1iP-AOV3cvUosJWjkvVJB9DA7S4/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ii0JiGDO9Y3pnuKT1iP-AOV3cvUosJWjkvVJB9DA7S4/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ii0JiGDO9Y3pnuKT1iP-AOV3cvUosJWjkvVJB9DA7S4/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ii0JiGDO9Y3pnuKT1iP-AOV3cvUosJWjkvVJB9DA7S4/1920x1278.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "4．ロワジールホテル　那覇"
+      },
+      {
+        "cTA1": {
+          "label": "ザ・ビーチタワー沖縄の宿泊プランを見る",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8713001/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ザ・ビーチタワー沖縄のツアープランを見る",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8713001/plan/",
+          "linkType": "URL"
+        },
+        "description": "温泉水7・真水3の天然温泉を利用している室内クアプールは、身体に心地よい不感温度帯を維持しているためタラソテラピー効果が抜群！疲労回復やストレス解消などが期待できるため、日々の疲れが癒されること間違いありません。また、ホテル内でレンタカーを配車＆返却ができるのも混雑を避けられる嬉しいポイント。時間が節約できるため、効率の良い沖縄旅行がお楽しみいただけます。",
+        "image": {
+          "alternateText": "「ロワジールホテル　那覇」のプール",
+          "height": 1280,
+          "sourceUrl": "https://a.mktgcdn.com/p/Z_fiBfkbNzDCdnt6_ApKbyRMc73hS-c6QHjHjCH_mpw/1920x1280.jpg",
+          "thumbnails": [
+            {
+              "height": 1280,
+              "url": "https://a.mktgcdn.com/p-sandbox/tEBKvqlQCH6wnUnYB0wGJAkaR_QPNtf2rcuw_DFoaiE/1920x1280.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/tEBKvqlQCH6wnUnYB0wGJAkaR_QPNtf2rcuw_DFoaiE/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/tEBKvqlQCH6wnUnYB0wGJAkaR_QPNtf2rcuw_DFoaiE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/tEBKvqlQCH6wnUnYB0wGJAkaR_QPNtf2rcuw_DFoaiE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/tEBKvqlQCH6wnUnYB0wGJAkaR_QPNtf2rcuw_DFoaiE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/tEBKvqlQCH6wnUnYB0wGJAkaR_QPNtf2rcuw_DFoaiE/1920x1280.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "「ロワジールホテル　那覇」のプール"
+      },
+      {
+        "cTA1": {
+          "label": "ホテル日航アリビラの宿泊プランを見る",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8741001/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ホテル日航アリビラのツアープランを見る",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8741001/plan/",
+          "linkType": "URL"
+        },
+        "description": "ホテルムーンビーチは、名前の通り三日月型の天然ビーチに面したリゾートホテル。350本余りのヤシの木や季節の花々が生い茂っており、まるで海外リゾートにいるかのような非日常空間を満喫できます。",
+        "image": {
+          "alternateText": "ホテルムーンビーチ",
+          "height": 1370,
+          "sourceUrl": "https://a.mktgcdn.com/p/x2r3X9IRUi2xm_YDZMe1jpqcFfQNKZYPxPcuj0xKdFw/1920x1370.jpg",
+          "thumbnails": [
+            {
+              "height": 1370,
+              "url": "https://a.mktgcdn.com/p-sandbox/YGYHDm5xBIEayaiFzZS6q_X8DEG3DNih4d0tLdSiZcs/1920x1370.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1356,
+              "url": "https://a.mktgcdn.com/p-sandbox/YGYHDm5xBIEayaiFzZS6q_X8DEG3DNih4d0tLdSiZcs/1900x1356.jpg",
+              "width": 1900
+            },
+            {
+              "height": 442,
+              "url": "https://a.mktgcdn.com/p-sandbox/YGYHDm5xBIEayaiFzZS6q_X8DEG3DNih4d0tLdSiZcs/619x442.jpg",
+              "width": 619
+            },
+            {
+              "height": 428,
+              "url": "https://a.mktgcdn.com/p-sandbox/YGYHDm5xBIEayaiFzZS6q_X8DEG3DNih4d0tLdSiZcs/600x428.jpg",
+              "width": 600
+            },
+            {
+              "height": 140,
+              "url": "https://a.mktgcdn.com/p-sandbox/YGYHDm5xBIEayaiFzZS6q_X8DEG3DNih4d0tLdSiZcs/196x140.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YGYHDm5xBIEayaiFzZS6q_X8DEG3DNih4d0tLdSiZcs/1920x1370.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "5．ホテルムーンビーチ"
+      },
+      {
+        "cTA1": {
+          "label": "ホテルマハイナウェルネスリゾートオキナワの宿泊プランを見る",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8705006/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "ホテルマハイナウェルネスリゾートオキナワのツアープランを見る",
+          "link": "https://www.jtb.co.jp/kokunai_air/h/8705006/plan/",
+          "linkType": "URL"
+        },
+        "description": "吹き抜けにトロピカルな植物が生い茂る異国情緒あふれる半屋内プールは、冬には温水にかわるので安心して泳げます。また、船で15分で到着する無人島”ヨウ島”へ冒険ができるアクティビティも用意されているので、アクティブ派におすすめです！",
+        "image": {
+          "alternateText": "「ホテルムーンビーチ」のプール",
+          "height": 1280,
+          "sourceUrl": "https://a.mktgcdn.com/p/EJyVx4yaEDa4QUCSTjImHBfRFHYdTDdVGMYtdIK1r7E/1920x1280.jpg",
+          "thumbnails": [
+            {
+              "height": 1280,
+              "url": "https://a.mktgcdn.com/p-sandbox/obgYtx5g14rU8hJb_X3YAjE8Jz-2TkBTksU4nqlv-Rg/1920x1280.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/obgYtx5g14rU8hJb_X3YAjE8Jz-2TkBTksU4nqlv-Rg/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/obgYtx5g14rU8hJb_X3YAjE8Jz-2TkBTksU4nqlv-Rg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/obgYtx5g14rU8hJb_X3YAjE8Jz-2TkBTksU4nqlv-Rg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/obgYtx5g14rU8hJb_X3YAjE8Jz-2TkBTksU4nqlv-Rg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/obgYtx5g14rU8hJb_X3YAjE8Jz-2TkBTksU4nqlv-Rg/1920x1280.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "「ホテルムーンビーチ」のプール"
+      },
+      {
+        "cTA1": {
+          "label": "「沖縄満喫クーポン」を使える沖縄旅行を探す",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/feature/tabisugo/",
+          "linkType": "OTHER"
+        },
+        "description": "カヌチャベイホテル＆ヴィラズは、80万坪もの広大な敷地にビーチ、ゴルフ、アクティビティなど多種多様な施設に富んだ、非日常が味わえるまさにアジアンリゾートな大型ホテル。季節やシーンに合わせた豊富なアクティビティが用意されているため、飽きることのない充実したホテルステイが叶います。",
+        "image": {
+          "alternateText": "カヌチャベイホテル＆ヴィラズ",
+          "height": 1282,
+          "sourceUrl": "https://a.mktgcdn.com/p/Y6ZO2PXxfBP04lgDBdef1qYxh_j9UokTfpO5eNCEZpk/1920x1282.jpg",
+          "thumbnails": [
+            {
+              "height": 1282,
+              "url": "https://a.mktgcdn.com/p-sandbox/GrE3S6OCVMRxX5cnTsHbSATFrXDlhr008ooh86PqIIY/1920x1282.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1269,
+              "url": "https://a.mktgcdn.com/p-sandbox/GrE3S6OCVMRxX5cnTsHbSATFrXDlhr008ooh86PqIIY/1900x1269.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/GrE3S6OCVMRxX5cnTsHbSATFrXDlhr008ooh86PqIIY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/GrE3S6OCVMRxX5cnTsHbSATFrXDlhr008ooh86PqIIY/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/GrE3S6OCVMRxX5cnTsHbSATFrXDlhr008ooh86PqIIY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/GrE3S6OCVMRxX5cnTsHbSATFrXDlhr008ooh86PqIIY/1920x1282.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "6．カヌチャベイホテル＆ヴィラズ"
+      },
+      {
+        "cTA1": {
+          "label": "JTBラウンジについてもっとみる",
+          "link": "https://www.jtb.co.jp/kokunai/area/okinawa/lounge/",
+          "linkType": "OTHER"
+        },
+        "description": "森の中い湧き出る泉をイメージした屋内プールは、22時まで営業！夜はライトアップされ幻想的な雰囲気に包まれるため、昼とはまた違った大人な時間をお楽しみいただけます。",
+        "image": {
+          "alternateText": "「カヌチャベイホテル＆ヴィラズ」のプール",
+          "height": 1281,
+          "sourceUrl": "https://a.mktgcdn.com/p/T2S2KXMNIFSaAKg6bb9aiWSNbdx_s4X42H_I0UqNuqU/1920x1281.jpg",
+          "thumbnails": [
+            {
+              "height": 1281,
+              "url": "https://a.mktgcdn.com/p-sandbox/lxKRLpFOo3Tj_evbfPs2YoT0B728xIzxs-K_N8RPszM/1920x1281.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1268,
+              "url": "https://a.mktgcdn.com/p-sandbox/lxKRLpFOo3Tj_evbfPs2YoT0B728xIzxs-K_N8RPszM/1900x1268.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/lxKRLpFOo3Tj_evbfPs2YoT0B728xIzxs-K_N8RPszM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/lxKRLpFOo3Tj_evbfPs2YoT0B728xIzxs-K_N8RPszM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/lxKRLpFOo3Tj_evbfPs2YoT0B728xIzxs-K_N8RPszM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lxKRLpFOo3Tj_evbfPs2YoT0B728xIzxs-K_N8RPszM/1920x1281.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "「カヌチャベイホテル＆ヴィラズ」のプール"
+      },
+      {
+        "description": "サザンビーチホテル＆リゾート沖縄は、那覇空港から車で約20分、美々ビーチいとまんに面した大型リゾートホテル。 プレミアムクラブフロアに宿泊すると専用ラウンジ「プレミアムラウンジ」が利用でき、ワンランク上の特別な滞在がお楽しみいただけます。沖縄ならではのスイーツ、お酒などを朝から晩まですきな時に楽しめる贅沢ステイが叶います。",
+        "image": {
+          "alternateText": "サザンビーチホテル＆リゾート沖縄",
+          "height": 1278,
+          "sourceUrl": "https://a.mktgcdn.com/p/h9j4T4Zt2LjnePdB_j_pksNtV2lriEzwqhwtuLxjLcE/1920x1278.jpg",
+          "thumbnails": [
+            {
+              "height": 1278,
+              "url": "https://a.mktgcdn.com/p-sandbox/K3UpztAyHkruvnldox7mPk2r6FSR3Sybcu-kOBED9DM/1920x1278.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1265,
+              "url": "https://a.mktgcdn.com/p-sandbox/K3UpztAyHkruvnldox7mPk2r6FSR3Sybcu-kOBED9DM/1900x1265.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/K3UpztAyHkruvnldox7mPk2r6FSR3Sybcu-kOBED9DM/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/K3UpztAyHkruvnldox7mPk2r6FSR3Sybcu-kOBED9DM/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/K3UpztAyHkruvnldox7mPk2r6FSR3Sybcu-kOBED9DM/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/K3UpztAyHkruvnldox7mPk2r6FSR3Sybcu-kOBED9DM/1920x1278.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "7．サザンビーチホテル＆リゾート沖縄"
+      },
+      {
+        "description": "全長20mの室内プールは大きなガラス張りで開放的な造りため、太陽の光を浴びながら室内でもリゾート気分を味わえます。ジャグジーも完備しているため赤ちゃん連れでも安心！",
+        "image": {
+          "alternateText": "「サザンビーチホテル＆リゾート沖縄」のプール",
+          "height": 1281,
+          "sourceUrl": "https://a.mktgcdn.com/p/Fb_bQN7tYtyap2nIUd-ABe7HXfXxUu0bHqmBQxTbNWo/1920x1281.jpg",
+          "thumbnails": [
+            {
+              "height": 1281,
+              "url": "https://a.mktgcdn.com/p-sandbox/nYUvFIWd2yVntlQXWWNBoznI0LdRZaEDKr39BJgX1XQ/1920x1281.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1268,
+              "url": "https://a.mktgcdn.com/p-sandbox/nYUvFIWd2yVntlQXWWNBoznI0LdRZaEDKr39BJgX1XQ/1900x1268.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/nYUvFIWd2yVntlQXWWNBoznI0LdRZaEDKr39BJgX1XQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/nYUvFIWd2yVntlQXWWNBoznI0LdRZaEDKr39BJgX1XQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/nYUvFIWd2yVntlQXWWNBoznI0LdRZaEDKr39BJgX1XQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nYUvFIWd2yVntlQXWWNBoznI0LdRZaEDKr39BJgX1XQ/1920x1281.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "「サザンビーチホテル＆リゾート沖縄」のプール"
+      },
+      {
+        "description": "ザ・ビーチタワー沖縄は、北谷サンセットビーチ面する、沖縄一の高層ホテル。アメリカンビレッジに近い立地はもちろん、オムツや離乳食、ミルクなどの無料サービスが充実しているため、お子様連れに大人気です。",
+        "image": {
+          "alternateText": "ザ・ビーチタワー沖縄",
+          "height": 896,
+          "sourceUrl": "https://a.mktgcdn.com/p/mH9VE841QwVwzhLjvtAvncx6ni4zKNVh2VZVcLZ1wP0/1347x896.jpg",
+          "thumbnails": [
+            {
+              "height": 896,
+              "url": "https://a.mktgcdn.com/p-sandbox/mH9VE841QwVwzhLjvtAvncx6ni4zKNVh2VZVcLZ1wP0/1347x896.jpg",
+              "width": 1347
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/mH9VE841QwVwzhLjvtAvncx6ni4zKNVh2VZVcLZ1wP0/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/mH9VE841QwVwzhLjvtAvncx6ni4zKNVh2VZVcLZ1wP0/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/mH9VE841QwVwzhLjvtAvncx6ni4zKNVh2VZVcLZ1wP0/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/mH9VE841QwVwzhLjvtAvncx6ni4zKNVh2VZVcLZ1wP0/1347x896.jpg",
+          "width": 1347
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "8．ザ・ビーチタワー沖縄"
+      },
+      {
+        "description": "一年中入れるヒーリングプールは天然温泉を使用しているため、屋外でありながらも絶妙に心地よい最高のリラクゼーション空間を演出。夜はライトアップされた亜熱帯植物に囲まれながら大人な時間をお過ごしいただけます。",
+        "image": {
+          "alternateText": "「ザ・ビーチタワー沖縄」のヒーリングプール",
+          "height": 1017,
+          "sourceUrl": "https://a.mktgcdn.com/p/vMNwFComCy0crtxG5mob_4fpGtLv0vXt_e1swEHX86I/1528x1017.jpg",
+          "thumbnails": [
+            {
+              "height": 1017,
+              "url": "https://a.mktgcdn.com/p-sandbox/vMNwFComCy0crtxG5mob_4fpGtLv0vXt_e1swEHX86I/1528x1017.jpg",
+              "width": 1528
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/vMNwFComCy0crtxG5mob_4fpGtLv0vXt_e1swEHX86I/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/vMNwFComCy0crtxG5mob_4fpGtLv0vXt_e1swEHX86I/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/vMNwFComCy0crtxG5mob_4fpGtLv0vXt_e1swEHX86I/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vMNwFComCy0crtxG5mob_4fpGtLv0vXt_e1swEHX86I/1528x1017.jpg",
+          "width": 1528
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "「ザ・ビーチタワー沖縄」のヒーリングプール"
+      },
+      {
+        "description": "ホテル日航アリビラは、全室バルコニー付きが開放的で嬉しい南欧風リゾートホテル。ホテルの内外装はもちろん、細部にまでこだわった調度品から演出される空間は、日常の喧騒を忘れさせてくれる楽園そのもの。",
+        "image": {
+          "alternateText": "ホテル日航アリビラ",
+          "height": 1278,
+          "sourceUrl": "https://a.mktgcdn.com/p/Fi1cZubMQqUy40DbBzDta48SCxsiTksPO6xIDH4S_tE/1920x1278.jpg",
+          "thumbnails": [
+            {
+              "height": 1278,
+              "url": "https://a.mktgcdn.com/p-sandbox/x1He3uaI-EzS1ZLqcVu-gtdICfWpTC_6MfpTfmOcVV8/1920x1278.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1265,
+              "url": "https://a.mktgcdn.com/p-sandbox/x1He3uaI-EzS1ZLqcVu-gtdICfWpTC_6MfpTfmOcVV8/1900x1265.jpg",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/x1He3uaI-EzS1ZLqcVu-gtdICfWpTC_6MfpTfmOcVV8/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/x1He3uaI-EzS1ZLqcVu-gtdICfWpTC_6MfpTfmOcVV8/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/x1He3uaI-EzS1ZLqcVu-gtdICfWpTC_6MfpTfmOcVV8/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/x1He3uaI-EzS1ZLqcVu-gtdICfWpTC_6MfpTfmOcVV8/1920x1278.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "9．ホテル日航アリビラ"
+      },
+      {
+        "description": "屋内のリラクゼーションプールは気泡や水圧を利用した設備が多数あり、心も身体もリフレッシュ！お部屋のアメニティやお食事、貸出用品など小さなお子様向けのものが多数用意されているため、パパとママも安心して羽を伸ばせるはず。",
+        "image": {
+          "alternateText": "「ホテル日航アリビラ」のプール",
+          "height": 1271,
+          "sourceUrl": "https://a.mktgcdn.com/p/HuuNoBrlayegVo8mjgmcRtsNDO9Y41tA4aysvsJW4RQ/1920x1271.jpg",
+          "thumbnails": [
+            {
+              "height": 1271,
+              "url": "https://a.mktgcdn.com/p-sandbox/CihsWLPwYgUsXbXgovqfN_dX1CaKdeA5tQ0RUF0U5CI/1920x1271.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1258,
+              "url": "https://a.mktgcdn.com/p-sandbox/CihsWLPwYgUsXbXgovqfN_dX1CaKdeA5tQ0RUF0U5CI/1900x1258.jpg",
+              "width": 1900
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/CihsWLPwYgUsXbXgovqfN_dX1CaKdeA5tQ0RUF0U5CI/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 397,
+              "url": "https://a.mktgcdn.com/p-sandbox/CihsWLPwYgUsXbXgovqfN_dX1CaKdeA5tQ0RUF0U5CI/600x397.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/CihsWLPwYgUsXbXgovqfN_dX1CaKdeA5tQ0RUF0U5CI/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/CihsWLPwYgUsXbXgovqfN_dX1CaKdeA5tQ0RUF0U5CI/1920x1271.jpg",
+          "width": 1920
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "「ホテル日航アリビラ」のプール"
+      },
+      {
+        "description": "ホテルマハイナウェルネスリゾートオキナワは、長さ30mもの大型プールを囲むようにつくられた南国を思わせるリゾートホテル。沖縄美ら海水族館への無料シャトルバスがあるため移動も楽ちんで観光の拠点にぴったりです。ホテルから近いため、朝一に向かってお得に＆混雑を避けて楽しめるのも嬉しいポイント。",
+        "image": {
+          "alternateText": "ホテルマハイナウェルネスリゾートオキナワ",
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/hRwj_K91YyAi-awjvbRoYQzKQc2SW-W8JXccRvfEPLQ/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/hRwj_K91YyAi-awjvbRoYQzKQc2SW-W8JXccRvfEPLQ/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/hRwj_K91YyAi-awjvbRoYQzKQc2SW-W8JXccRvfEPLQ/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/hRwj_K91YyAi-awjvbRoYQzKQc2SW-W8JXccRvfEPLQ/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/hRwj_K91YyAi-awjvbRoYQzKQc2SW-W8JXccRvfEPLQ/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hRwj_K91YyAi-awjvbRoYQzKQc2SW-W8JXccRvfEPLQ/800x600.jpg",
+          "width": 800
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "10．ホテルマハイナウェルネスリゾートオキナワ"
+      },
+      {
+        "description": "太陽の光が存分に入るガラス張りの屋内プールは開放感抜群。プールでたくさん遊んだあとは、大浴場の岩風呂にゆっくり浸かって旅の疲れを癒せます。また、自然豊かなヤンバルならではの魅力的なアクティビティも豊富なので、お子様の年齢にあわせて様々な体験ができるのも魅力です。",
+        "image": {
+          "alternateText": "「ホテルマハイナウェルネスリゾートオキナワ」のプール",
+          "height": 600,
+          "sourceUrl": "https://a.mktgcdn.com/p/E3KAQR1KBYU0XalZuTdMpqRwRvDMrknF6g1QPp5EURI/800x600.jpg",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p-sandbox/E3KAQR1KBYU0XalZuTdMpqRwRvDMrknF6g1QPp5EURI/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/E3KAQR1KBYU0XalZuTdMpqRwRvDMrknF6g1QPp5EURI/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/E3KAQR1KBYU0XalZuTdMpqRwRvDMrknF6g1QPp5EURI/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/E3KAQR1KBYU0XalZuTdMpqRwRvDMrknF6g1QPp5EURI/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/E3KAQR1KBYU0XalZuTdMpqRwRvDMrknF6g1QPp5EURI/800x600.jpg",
+          "width": 800
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "「ホテルマハイナウェルネスリゾートオキナワ」のプール"
+      },
+      {
+        "description": "JTBでは、「旅の過ごし方対象プラン」で予約すると沖縄本島・離島合わせて32か所、滞在中に全施設1回ずつ利用できる「沖縄満喫クーポン」を利用できます。QRコードの提示だけで対象施設に入場できて便利。ナゴパイナップルパークやDINO恐竜PARK、おきなわワールドなど子どもが楽しめる施設が豊富なのがうれしいポイントです。石垣島や宮古島の施設も対象なので、長めの滞在で離島まで足を延ばしてみるのもおすすめですよ。32か所も含まれているので、1回の沖縄旅行で行きたいところすべてを観光できなかった方は、ぜひ次の沖縄旅行もJTBで予約して、「沖縄満喫クーポン」を活用してみてください！",
+        "image": {
+          "alternateText": "沖縄満喫クーポンで訪れられる石垣島",
+          "height": 1266,
+          "sourceUrl": "https://a.mktgcdn.com/p/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+          "thumbnails": [
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+              "width": 1900
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/619x412.webp",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/600x400.webp",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/196x131.webp",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/w34ap9DqwKu8V-dzEf0QKRtLl_olLASLy--2Ng5RAOs/1900x1266.webp",
+          "width": 1900
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "【JTB沖縄旅行の魅力】「沖縄満喫クーポン」で32か所料金不要"
+      },
+      {
+        "description": "「JTBラウンジ」があるホテルなら、いつでもラウンジでラグジュアリーなホテル滞在を楽しめるのも魅力。「JTBラウンジ」とは、ホテル滞在中なら毎日何度でも料金不要で利用できる、JTBのお客様専用のサービスです。スイーツ・ドリンク食べ放題で、リッチなホテルステイを体験できます。例えば「ルネッサンスリゾート オキナワ」のJTBラウンジなら以下のような贅沢なサービス付き！・ホテル自慢のスイーツとソフトドリンクが食べ放題・好みのトッピングでオリジナルクレープづくり・ハッピーアワーでアルコールドリンクとおつまみを楽しめるぜひ沖縄旅行の際はJTBで予約して、ホテルステイを楽しみましょう！",
+        "image": {
+          "alternateText": "JTBラウンジのイメージ",
+          "height": 1267,
+          "sourceUrl": "https://a.mktgcdn.com/p/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+          "thumbnails": [
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/619x413.webp",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/600x400.webp",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/196x131.webp",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yvPdFcOQKCk7ty8G3XK0hJjzVt5SW9FEnvHp43K_NC0/1900x1267.webp",
+          "width": 1900
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "【JTB沖縄旅行の魅力】JTBラウンジ利用で快適なホテルステイ"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kokunai_0001",
+      "news_web_kokunai_0022",
+      "news_web_kokunai_0019",
+      "news_web_kokunai_0016",
+      "news_web_kokunai_0017"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2019-11-22",
+    "c_news_UpdateDate": "2024-04-18",
+    "c_news_ViewCount": "13787",
+    "c_news_ViewCount2of2": "13787",
+    "c_news_ViewCountNum": "13787",
+    "c_news_ViewCountNumForSorting": "632",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0002",
+    "name": "一年中泳げる！沖縄のプール付きホテルおすすめ10選",
+    "slug": "kokunai/okinawa/okinawa_all/news_web_kokunai_0002",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

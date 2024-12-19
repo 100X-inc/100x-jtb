@@ -1,0 +1,371 @@
+{
+  "$id": "ap_osarea_0000001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ エディター 島田久美子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "まず押さえておきたいのが、ホノルル観光の拠点・ワイキキにある「クリーム・ポット」のフルーツいっぱい・ふわふわ系パンケーキ。ホノルルの北側を流れるアラワイ運河に面した場所にある、とっておきの隠れ家カフェで食べられる一品です。パンケーキが苦手だったオーナーが考案した、スフレ生地が自慢のお店で、スフレパンケーキ発祥の店ともいわれています。このお店でぜひ注文したいのが「ミックスベリースフレ･パンケーキ」$26.50（写真一番上）。4種類のベリーと生クリームをトッピング。メレンゲが主体なので、口溶けが軽いふわふわパンケーキです！日本語ができるスタッフが常駐し、日本語メニューもあるので、訪れやすいですね。DATACream Pot住所：444 Niu St.営業時間：8～14時定休日：火・水曜",
+        "image": {
+          "alternateText": "大きな窓から陽の光が入る明るい店内",
+          "height": 827,
+          "sourceUrl": "https://a.mktgcdn.com/p/rPwKtVelDI7da9Jgg0UdCMeKtlYvxLktN2GUT0siN-M/1240x827.jpg",
+          "thumbnails": [
+            {
+              "height": 827,
+              "url": "https://a.mktgcdn.com/p-sandbox/e8Fb3-81xhuzUa51gCvxhUr_t3xSASbTBrWWzOcjFdk/1240x827.jpg",
+              "width": 1240
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/e8Fb3-81xhuzUa51gCvxhUr_t3xSASbTBrWWzOcjFdk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/e8Fb3-81xhuzUa51gCvxhUr_t3xSASbTBrWWzOcjFdk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/e8Fb3-81xhuzUa51gCvxhUr_t3xSASbTBrWWzOcjFdk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/e8Fb3-81xhuzUa51gCvxhUr_t3xSASbTBrWWzOcjFdk/1240x827.jpg",
+          "width": 1240
+        },
+        "imageCaption": "大きな窓から陽の光が入る明るい店内",
+        "sectionTitle": "クリーム・ポット　（Cream Pot）"
+      },
+      {
+        "description": "衝撃的なビジュアルの個性派パンケーキなら、ワイキキにあるバサルトがおすすめです。お店はメイドインハワイのアイテムが揃う「デュークスレーン・マーケット＆イータリ―」内にあり、朝から夜までさまざまな場面で利用できる、ワイキキ滞在中の強い味方です。「ハワイ産食材を使った、コンフォートフード」がコンセプトのレストランで、実はこの真っ黒なビジュアルも、炭を使った健康系の一品。ヤシ殻の炭を練り込んだパンケーキにベリーのソースがかかった、「バサルト特製チャコール バターミルク パンケーキ」は、火山をイメージしたもの。甘さは控えめです。パンケーキのほか、魚介などの食事メニューも充実していますよ。DATABasalt住所：2255 Kuhio Ave.　デュークスレーン・マーケット＆イータリ―内営業時間：8時～21時30分（土・日曜は7時～）定休日：なし",
+        "image": {
+          "alternateText": "バサルト特製チャコール バターミルク パンケーキ$20",
+          "height": 2700,
+          "sourceUrl": "https://a.mktgcdn.com/p/CPlDqKlvMQs1dYvvgudT5wZpJewuZpMOkkLd_MyfmpQ/1800x2700.jpg",
+          "thumbnails": [
+            {
+              "height": 2700,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZHVHPeuBNFcgJFYg58uGqxlxHYHM5sfgaW3yiXznjK0/1800x2700.jpg",
+              "width": 1800
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZHVHPeuBNFcgJFYg58uGqxlxHYHM5sfgaW3yiXznjK0/1267x1900.jpg",
+              "width": 1267
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZHVHPeuBNFcgJFYg58uGqxlxHYHM5sfgaW3yiXznjK0/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZHVHPeuBNFcgJFYg58uGqxlxHYHM5sfgaW3yiXznjK0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZHVHPeuBNFcgJFYg58uGqxlxHYHM5sfgaW3yiXznjK0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZHVHPeuBNFcgJFYg58uGqxlxHYHM5sfgaW3yiXznjK0/1800x2700.jpg",
+          "width": 1800
+        },
+        "imageCaption": "バサルト特製チャコール バターミルク パンケーキ$20",
+        "sectionTitle": "バサルト（Basalt）"
+      },
+      {
+        "description": "ホノルルから車で30分ほどの場所にあるおしゃれタウン・カイルアのパンケーキ店といえばここ。ヘルシーメニューが充実した人気カフェのカイルア店で、ハワイ産やオーガニック食材を使うなど、こだわりをもったメニューは、見た目もかわいいと評判です。こちらでは「パンケーキ フレッシュフルーツ」がおすすめ。シンプルだからこそ生地のおいしさが引き立つひと皿です。薄めに焼かれた食べやすい生地と、フルーツの相性もバッチリ。お店はカイルアの中心にある「カイルア・ショッピング・センター」に入っています。白を基調としたタイル張りのおしゃれな店内でくつろげますよ。DATAMorning Brew Kailua住所：600 Kailua　Road ＃120営業時間：6～16時定休日：なし",
+        "image": {
+          "alternateText": "パンケーキ フレッシュフルーツ$11.25",
+          "height": 1378,
+          "sourceUrl": "https://a.mktgcdn.com/p/9pQBrc2rrZJk-Hy-dtNSpQXDAFSGWsNo7Wa8e-yafOs/2067x1378.jpg",
+          "thumbnails": [
+            {
+              "height": 1378,
+              "url": "https://a.mktgcdn.com/p-sandbox/61YccFukJLWsAgXxvFy7kMNg3w-LK4AMDKsdn0KizxA/2067x1378.jpg",
+              "width": 2067
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/61YccFukJLWsAgXxvFy7kMNg3w-LK4AMDKsdn0KizxA/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/61YccFukJLWsAgXxvFy7kMNg3w-LK4AMDKsdn0KizxA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/61YccFukJLWsAgXxvFy7kMNg3w-LK4AMDKsdn0KizxA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/61YccFukJLWsAgXxvFy7kMNg3w-LK4AMDKsdn0KizxA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/61YccFukJLWsAgXxvFy7kMNg3w-LK4AMDKsdn0KizxA/2067x1378.jpg",
+          "width": 2067
+        },
+        "imageCaption": "パンケーキ フレッシュフルーツ$11.25",
+        "sectionTitle": "モーニング・ブリュー（Morning Brew）"
+      },
+      {
+        "description": "1974年にハワイで誕生し、日本のパンケーキブームの火付け役といえる有名店・エッグスンシングス。オアフ島に展開する4店舗では、パンケーキのほか、朝食に人気の食事メニューも提供しています。イチオシメニューは、「フレッシュ・フルーツ・レインボー・パンケーキ」。マカダミアナッツパンケーキ3枚にたっぷりのフルーツをのせ、ホイップクリームとマカダミアナッツで仕上げています。この大きさ食べきれる!? と思わず心配になるボリューム感ですが、見た目とは違って軽いので、ペロリと食べられます。DATAEggs’n Things住所：339 Saratoga Rd. 営業時間：7～14時定休日：なし",
+        "image": {
+          "alternateText": "フレッシュ・フルーツ・レインボー・パンケーキ$19.95",
+          "height": 1378,
+          "sourceUrl": "https://a.mktgcdn.com/p/lumsckhovYtKG84rK5AkOlOxejX8OY5ezxr51Q9A2_o/2067x1378.jpg",
+          "thumbnails": [
+            {
+              "height": 1378,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xeso5ELnmxHdJIEl_ZXoQBI62i554HK43h0mx-RNYfc/2067x1378.jpg",
+              "width": 2067
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xeso5ELnmxHdJIEl_ZXoQBI62i554HK43h0mx-RNYfc/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xeso5ELnmxHdJIEl_ZXoQBI62i554HK43h0mx-RNYfc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xeso5ELnmxHdJIEl_ZXoQBI62i554HK43h0mx-RNYfc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Xeso5ELnmxHdJIEl_ZXoQBI62i554HK43h0mx-RNYfc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Xeso5ELnmxHdJIEl_ZXoQBI62i554HK43h0mx-RNYfc/2067x1378.jpg",
+          "width": 2067
+        },
+        "imageCaption": "フレッシュ・フルーツ・レインボー・パンケーキ$19.95",
+        "sectionTitle": "エッグスンシングス（Eggs’n Things）"
+      },
+      {
+        "description": "こだわりのソースを楽しむなら、ホノルルから車で30分ほどのところにあるカイルアのこちらのお店へ。このお店目当てにカイルアまで行く人も多いという人気店で、ロコがよく朝ごはんに使うお店です。2021年に現在の場所へ移転しました。おすすめメニューは「マカデミアナッツ・パンケーキ」。バニラ風味のマカダミアナッツソースとクラッシュしたナッツがのります。しっとり系のパンケーキに、このマカダミアナッツソースがマッチしています。DATABoots \u0026 Kimos住所：1020 Keolu Dr.営業時間：8～13時（土・日曜は～14時）定休日：火曜",
+        "image": {
+          "alternateText": "マカデミアナッツ・パンケーキ$18.99",
+          "height": 1378,
+          "sourceUrl": "https://a.mktgcdn.com/p/Irriiy_cISUMX5p-GLT_gAd7yaI1ymGIWQV4vEv6Xu0/2067x1378.jpg",
+          "thumbnails": [
+            {
+              "height": 1378,
+              "url": "https://a.mktgcdn.com/p-sandbox/t-0V4n5XAtUq_D-f50M9v1SgxkKbT8rQQEMxiWyyHNE/2067x1378.jpg",
+              "width": 2067
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/t-0V4n5XAtUq_D-f50M9v1SgxkKbT8rQQEMxiWyyHNE/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/t-0V4n5XAtUq_D-f50M9v1SgxkKbT8rQQEMxiWyyHNE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/t-0V4n5XAtUq_D-f50M9v1SgxkKbT8rQQEMxiWyyHNE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/t-0V4n5XAtUq_D-f50M9v1SgxkKbT8rQQEMxiWyyHNE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/t-0V4n5XAtUq_D-f50M9v1SgxkKbT8rQQEMxiWyyHNE/2067x1378.jpg",
+          "width": 2067
+        },
+        "imageCaption": "マカデミアナッツ・パンケーキ$18.99",
+        "sectionTitle": "ブーツ＆キモズ（Boots \u0026 Kimos）"
+      },
+      {
+        "description": "トレンド発信スポットとして注目を集めるショッピングタウン「ワードビレッジ」にある、ハワイを代表するグルメ＆ブランチスポット。アメリカン料理にハワイのテイストをプラスした料理を小皿などで提供しています。オープンキッチンの店内はいつもロコで大賑わい。こちらでは、遊び心満載の食感に思わず夢中になる、新感覚のパンケーキ「ミルク・シリアル・パンケーキ」がおすすめです。もちふわ生地に、シリアルとシロップをオンしたパンケーキで、創業時からの人気メニュー。サクサク食感のシリアルがクセになる一品です。DATAScratch Kitchen \u0026 Meatery住所：1240 Ala Moana Blvd.　ワードビレッジ サウスショア・マーケット内営業時間：9～21時（土・日曜は8時～）定休日：なしURL:www.scratch-hawaii.com",
+        "image": {
+          "alternateText": "ミルク・シリアル・パンケーキ $15",
+          "height": 2700,
+          "sourceUrl": "https://a.mktgcdn.com/p/PjGX5fDbSJljdHFTt3y7JXBvxNT96fGBjNVa0kxRpTw/1800x2700.jpg",
+          "thumbnails": [
+            {
+              "height": 2700,
+              "url": "https://a.mktgcdn.com/p-sandbox/PjGX5fDbSJljdHFTt3y7JXBvxNT96fGBjNVa0kxRpTw/1800x2700.jpg",
+              "width": 1800
+            },
+            {
+              "height": 1900,
+              "url": "https://a.mktgcdn.com/p-sandbox/PjGX5fDbSJljdHFTt3y7JXBvxNT96fGBjNVa0kxRpTw/1267x1900.jpg",
+              "width": 1267
+            },
+            {
+              "height": 929,
+              "url": "https://a.mktgcdn.com/p-sandbox/PjGX5fDbSJljdHFTt3y7JXBvxNT96fGBjNVa0kxRpTw/619x929.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/PjGX5fDbSJljdHFTt3y7JXBvxNT96fGBjNVa0kxRpTw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/PjGX5fDbSJljdHFTt3y7JXBvxNT96fGBjNVa0kxRpTw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PjGX5fDbSJljdHFTt3y7JXBvxNT96fGBjNVa0kxRpTw/1800x2700.jpg",
+          "width": 1800
+        },
+        "imageCaption": "ミルク・シリアル・パンケーキ $15",
+        "sectionTitle": "スクラッチ・キッチン＆ミータリー（Scratch Kitchen \u0026 Meatery）"
+      },
+      {
+        "imageCaption": "※2023年4月末時点の情報です。営業内容などの詳細はホームページなどでご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2023-05-22",
+    "c_ap_HeroImage": {
+      "alternateText": "絶対マストな王道スイーツ！\nハワイで食べたい偏愛パンケーキ6選　【ハワイ　ホノルル】",
+      "height": 2333,
+      "sourceUrl": "https://a.mktgcdn.com/p/3veSTd5A62lffVj1I8ee-Ci5WK2-Pnyiw9U9AVQGpWM/3500x2333.jpg",
+      "thumbnails": [
+        {
+          "height": 2333,
+          "url": "https://a.mktgcdn.com/p-sandbox/3veSTd5A62lffVj1I8ee-Ci5WK2-Pnyiw9U9AVQGpWM/3500x2333.jpg",
+          "width": 3500
+        },
+        {
+          "height": 1266,
+          "url": "https://a.mktgcdn.com/p-sandbox/3veSTd5A62lffVj1I8ee-Ci5WK2-Pnyiw9U9AVQGpWM/1900x1266.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/3veSTd5A62lffVj1I8ee-Ci5WK2-Pnyiw9U9AVQGpWM/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/3veSTd5A62lffVj1I8ee-Ci5WK2-Pnyiw9U9AVQGpWM/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/3veSTd5A62lffVj1I8ee-Ci5WK2-Pnyiw9U9AVQGpWM/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/3veSTd5A62lffVj1I8ee-Ci5WK2-Pnyiw9U9AVQGpWM/3500x2333.jpg",
+      "width": 3500
+    },
+    "c_ap_HeroImageCaption": "クリーム・ポット",
+    "c_ap_LinkArticleSectionTitle": "ハワイのその他の投稿記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "ハワイ旅行",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hawaii/"
+      },
+      {
+        "linkText": "ハワイのツアー・パック",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/landing?ariv1City\u003dHNL"
+      },
+      {
+        "linkText": "ハワイのホテル",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/hotel/hawaii/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_ap_ShortDescription": "ハワイスイーツの大定番といえば、パンケーキ！ フルーツたっぷり系からふわふわ生クリームが魅力的なものまでバリエーションも豊かです。パンケーキの本場の味を楽しみたい方へ、おすすめの名店をご紹介します。（写真：クリーム・ポット）",
+    "c_ap_Tags": [
+      "パンケーキ",
+      "スイーツ",
+      "フォトジェニック",
+      "フルーツ",
+      "ホノルル"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "グループ",
+      "ウエディング",
+      "ハネムーン",
+      "記念旅行",
+      "グルメ",
+      "カフェ",
+      "ご当地グルメ",
+      "リゾート"
+    ],
+    "c_ap_Title": "絶対マストな王道スイーツ！ ハワイで食べたい偏愛パンケーキ6選　【ハワイ　ホノルル】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "ハワイスイーツの大定番といえば、パンケーキ！ フルーツたっぷり系からふわふわ生クリームが魅力的なものまでバリエーションも豊かです。パンケーキの本場の味を楽しみたい方へ、おすすめの名店をご紹介します。（写真：クリーム・ポット）",
+    "c_metaTitle": "絶対マストな王道スイーツ！ ハワイで食べたい偏愛パンケーキ6選　【ハワイ　ホノルル】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_osarea_0000001",
+    "c_searchArea1": [
+      "海外"
+    ],
+    "c_searchArea2": "ハワイ",
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：ハワイ",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "絶対マストな王道スイーツ！ ハワイで食べたい偏愛パンケーキ6選　【ハワイ　ホノルル】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

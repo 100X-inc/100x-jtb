@@ -1,0 +1,432 @@
+{
+  "$id": "news_ap_chiki_100252",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 静岡県担当　藤本 久美子"
+    },
+    "c_ap_HeroImage": {
+      "height": 972,
+      "sourceUrl": "https://a.mktgcdn.com/p/oNEA3RevYgtBKp_GxSUtbsNghyVJ14EYdsZDmfXYqQY/1200x972.jpg",
+      "thumbnails": [
+        {
+          "height": 972,
+          "url": "https://a.mktgcdn.com/p-sandbox/oNEA3RevYgtBKp_GxSUtbsNghyVJ14EYdsZDmfXYqQY/1200x972.jpg",
+          "width": 1200
+        },
+        {
+          "height": 501,
+          "url": "https://a.mktgcdn.com/p-sandbox/oNEA3RevYgtBKp_GxSUtbsNghyVJ14EYdsZDmfXYqQY/619x501.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/oNEA3RevYgtBKp_GxSUtbsNghyVJ14EYdsZDmfXYqQY/556x450.jpg",
+          "width": 556
+        },
+        {
+          "height": 159,
+          "url": "https://a.mktgcdn.com/p-sandbox/oNEA3RevYgtBKp_GxSUtbsNghyVJ14EYdsZDmfXYqQY/196x159.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/oNEA3RevYgtBKp_GxSUtbsNghyVJ14EYdsZDmfXYqQY/1200x972.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://www.jtb.co.jp/news/list/index.html?tag\u003d%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "静岡旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/shizuoka/"
+      },
+      {
+        "linkText": "静岡県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/shizuoka/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "伊豆の下田と言うと海を想像しますが、「下田セントラルホテル」は下田の中心部から少し内陸部に入った天城山系の山々に囲まれた里山にあります。四季折々に豊かな表情を魅せる里山の原風景を眺めながら、南伊豆随一の湯量を誇る相玉温泉の専用自家源泉をいつでも楽しめるのが最大の魅力です。",
+    "c_ap_Tags": [
+      "美肌の湯",
+      "下田",
+      "露天風呂",
+      "リモートコンシェルジュ"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "夫婦旅",
+      "グループ",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "pH9.4の専用自家源泉、別名「美肌の湯」を満喫できる自然豊かな里山のホテル【静岡県　里山の別邸　下田セントラルホテル】",
+    "c_linkedArea3News": [
+      "shizuoka"
+    ],
+    "c_metaDescription": "伊豆の下田と言うと海を想像しますが、「下田セントラルホテル」は下田の中心部から少し内陸部に入った天城山系の山々に囲まれた里山にあります。四季折々に豊かな表情を魅せる里山の原風景を眺めながら、南伊豆随一の湯量を誇る相玉温泉の専用自家源泉をいつでも楽しめるのが最大の魅力です。",
+    "c_metaTitle": "pH9.4の専用自家源泉、別名「美肌の湯」を満喫できる自然豊かな里山のホテル【静岡県　里山の別邸　下田セントラルホテル】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "リモートでの旅行相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#consultants",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "JTB店舗・専門店への相談はこちら",
+        "link": "https://stores.jtb.co.jp/index.html",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "また、1万坪の広大な敷地に清流が流れる「下田セントラルホテル」では、四季の花々を楽しみながら散策ができる「花と緑とさくらの小径」があり、星空鑑賞会や農産物の収穫などイベントも年間を通じて開催されているので里山の魅力を体験してみるのもおすすめです。東京から乗り換えなしの特急「踊り子号」で約2時間45分。熱海駅から伊豆急で約1時間30分。伊豆急下田駅下車後、路線バス・無料送迎バスで約20分、タクシーで約15分。",
+        "image": {
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/PWJ62fVxL_6D50Cw_lkXfF4qA9XMSfzTXlY_wQWHHD4/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/PWJ62fVxL_6D50Cw_lkXfF4qA9XMSfzTXlY_wQWHHD4/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/PWJ62fVxL_6D50Cw_lkXfF4qA9XMSfzTXlY_wQWHHD4/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/PWJ62fVxL_6D50Cw_lkXfF4qA9XMSfzTXlY_wQWHHD4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/PWJ62fVxL_6D50Cw_lkXfF4qA9XMSfzTXlY_wQWHHD4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PWJ62fVxL_6D50Cw_lkXfF4qA9XMSfzTXlY_wQWHHD4/1200x799.jpg",
+          "width": 1200
+        },
+        "imageCaption": "夕闇に映える「下田セントラルホテル」の玄関。ここから里山での温泉旅がはじまります",
+        "sectionLevel": "h2",
+        "sectionTitle": "様々なタイプの客室で里山時間をお楽しみください。"
+      },
+      {
+        "description": "「下田セントラルホテル」には露天風呂付客室が3タイプ、内風呂で温泉に浸かれる客室が3タイプあります。なかでも、1日1組限定の庭園付露天風呂客室特別室やわずか6室の庭園付露天風呂客室は、記念日や大切な人へのプレゼントとして夫婦やカップルで宿泊したい魅力にあふれています。室内からテラスと露天風呂、専用の庭園が広がる庭園付露天風呂客室は庭園のテーマが全室で異なり、露天風呂もヒノキ風呂・石風呂・岩風呂のいずれかを配置。広いテラスで浴後のひとときをくつろぎながら過ごせるなど、心とカラダを心地よく解きほぐしてくれます。",
+        "image": {
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/fAlI7eQdfym8R-Dhv3UNu971OsWjcfyzLlneTcFSLLo/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/fAlI7eQdfym8R-Dhv3UNu971OsWjcfyzLlneTcFSLLo/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/fAlI7eQdfym8R-Dhv3UNu971OsWjcfyzLlneTcFSLLo/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/fAlI7eQdfym8R-Dhv3UNu971OsWjcfyzLlneTcFSLLo/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/fAlI7eQdfym8R-Dhv3UNu971OsWjcfyzLlneTcFSLLo/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fAlI7eQdfym8R-Dhv3UNu971OsWjcfyzLlneTcFSLLo/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "専用の庭園を目の前に温泉にゆったり浸かれる、庭園付露天風呂客室（一例）",
+        "sectionLevel": "h2",
+        "sectionTitle": "下田の鮮魚と里山の野菜をふんだんに使った和会席を堪能"
+      },
+      {
+        "description": "「下田セントラルホテル」で使用する自家源泉「相玉温泉」は、飲泉もできるpH9.4のアルカリ性単純温泉。肌への刺激が少ないやわらかな湯ざわりと高い保温・保湿効果が期待できることから「美肌の湯」として知られています。いつでも好みのタイミングで温泉に入れるので、たっぷり楽しみたいですね。また、里山の借景を眺めながら各室に配した信楽焼風呂・御影石風呂・ひば風呂で温泉に浸かれる和モダンの露天風呂付き客室も7室あります。間取りは7畳のツインベッドルームと和室8畳、広縁が3.5畳の51㎡、定員は4名です。",
+        "image": {
+          "height": 1200,
+          "sourceUrl": "https://a.mktgcdn.com/p/vrCPVejzp2TJkDBBVmu36b2-t2-R15QtNPF7Rtgnv7E/1200x1200.jpg",
+          "thumbnails": [
+            {
+              "height": 1200,
+              "url": "https://a.mktgcdn.com/p-sandbox/vrCPVejzp2TJkDBBVmu36b2-t2-R15QtNPF7Rtgnv7E/1200x1200.jpg",
+              "width": 1200
+            },
+            {
+              "height": 619,
+              "url": "https://a.mktgcdn.com/p-sandbox/vrCPVejzp2TJkDBBVmu36b2-t2-R15QtNPF7Rtgnv7E/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/vrCPVejzp2TJkDBBVmu36b2-t2-R15QtNPF7Rtgnv7E/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p-sandbox/vrCPVejzp2TJkDBBVmu36b2-t2-R15QtNPF7Rtgnv7E/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vrCPVejzp2TJkDBBVmu36b2-t2-R15QtNPF7Rtgnv7E/1200x1200.jpg",
+          "width": 1200
+        },
+        "imageCaption": "2人で露天風呂を楽しんだ後は、広いテラスの椅子に座ってくつろぎましょう",
+        "sectionLevel": "h2",
+        "sectionTitle": "開放的な露天風呂と大浴場、サウナで温泉浴を満喫"
+      },
+      {
+        "description": "広さや間取りが異なる和洋スイートと和モダン和室、ツインルームの3タイプ。おすすめは和の落ち着きと洋の機能性が調和した和洋スイート。全8室にヒノキの内風呂とマッサージチェアが用意されているのも魅力的。最大定員が5名なので別荘のように過ごしたい女子旅や家族などのグループに最適です。",
+        "image": {
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/xXAE4hEjSFmGZkXMvPi48T_ZCuaFkWklBHslDVmrpek/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/xXAE4hEjSFmGZkXMvPi48T_ZCuaFkWklBHslDVmrpek/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/xXAE4hEjSFmGZkXMvPi48T_ZCuaFkWklBHslDVmrpek/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/xXAE4hEjSFmGZkXMvPi48T_ZCuaFkWklBHslDVmrpek/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/xXAE4hEjSFmGZkXMvPi48T_ZCuaFkWklBHslDVmrpek/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xXAE4hEjSFmGZkXMvPi48T_ZCuaFkWklBHslDVmrpek/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "広縁のマッサージチェアでくつろげる露天風呂付客室もあります（一例）"
+      },
+      {
+        "description": "「下田セントラルホテル」での夕食は、下田の特産品で漁獲量日本一を誇る金目鯛や伊勢エビ、アワビなどの新鮮な魚介と地元の農家で採れた里山野菜をマリアージュした和会食膳。最上級和会席膳「旬彩」、和会席膳「四季彩」の2つのコースで、下田ならではの味覚を存分に堪能できます。伊勢エビの具足煮やアワビの陶板焼きなどのアラカルト、静岡の地酒や中伊豆のワインも揃っているので一緒に味わってみましょう。本わさび茶漬けなどのお夜食も用意されています。朝食はビュッフェスタイルで、和洋約30種類のメニューが食べ放題。里山の爽やかな1日を新鮮な食材を使った多彩な料理を味わいながらスタートしましょう。なお、庭園付露天風呂客室の宿泊者は専用の朝食が部屋で用意されます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/kME8Dokf4js6ZcZ_-0jaCC8DYDOM4WMGuHOP14mPWJo/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/kME8Dokf4js6ZcZ_-0jaCC8DYDOM4WMGuHOP14mPWJo/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/kME8Dokf4js6ZcZ_-0jaCC8DYDOM4WMGuHOP14mPWJo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/kME8Dokf4js6ZcZ_-0jaCC8DYDOM4WMGuHOP14mPWJo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/kME8Dokf4js6ZcZ_-0jaCC8DYDOM4WMGuHOP14mPWJo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kME8Dokf4js6ZcZ_-0jaCC8DYDOM4WMGuHOP14mPWJo/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ベッドスペースとリビングがフラットで7.5畳の和室もある和洋スイート"
+      },
+      {
+        "description": "すべての客室で温泉が利用できますが、「せせらぎの湯」の露天風呂や大浴場に浸かって温泉浴を楽しんだり、大浴場内のスチームサウナでリフレッシュしたりするのも温泉の魅力です。寝起きのカラダを目覚めさせ、周辺観光で汗をかいたときは露天風呂と大浴場で湯浴みをするなど、シーンによって客室の温泉と上手に使い分けてみましょう。湯上がり処や飲泉場もあり、時間帯でびん牛乳の無料サービスも行われます。また、女性専用のエステや中国整体が体験できるリラクゼーション施設も試してみたいですね。",
+        "image": {
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/E-wgIYCAFH3lP495cmcEo0nDTnpL2x5YI6fpBmjieqo/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/E-wgIYCAFH3lP495cmcEo0nDTnpL2x5YI6fpBmjieqo/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/E-wgIYCAFH3lP495cmcEo0nDTnpL2x5YI6fpBmjieqo/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/E-wgIYCAFH3lP495cmcEo0nDTnpL2x5YI6fpBmjieqo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/E-wgIYCAFH3lP495cmcEo0nDTnpL2x5YI6fpBmjieqo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/E-wgIYCAFH3lP495cmcEo0nDTnpL2x5YI6fpBmjieqo/1200x799.jpg",
+          "width": 1200
+        },
+        "imageCaption": "畳の上でゆっくりとくつろぎながら、ベッドで心地よく眠れる和モダン和室"
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/FN0CPC2HwE_a69deLar4m-Js0CjgFF5M-ckpPvC3HE4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/FN0CPC2HwE_a69deLar4m-Js0CjgFF5M-ckpPvC3HE4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/FN0CPC2HwE_a69deLar4m-Js0CjgFF5M-ckpPvC3HE4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/FN0CPC2HwE_a69deLar4m-Js0CjgFF5M-ckpPvC3HE4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/FN0CPC2HwE_a69deLar4m-Js0CjgFF5M-ckpPvC3HE4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FN0CPC2HwE_a69deLar4m-Js0CjgFF5M-ckpPvC3HE4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "厳選した旬の食材を丁寧に仕上げた最上級和会席膳「旬彩」（イメージ）"
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/qvI8rVfw-OTTnro1-sbrFDBKr4C4NKkijUtfBHNOCG0/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/qvI8rVfw-OTTnro1-sbrFDBKr4C4NKkijUtfBHNOCG0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/qvI8rVfw-OTTnro1-sbrFDBKr4C4NKkijUtfBHNOCG0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/qvI8rVfw-OTTnro1-sbrFDBKr4C4NKkijUtfBHNOCG0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/qvI8rVfw-OTTnro1-sbrFDBKr4C4NKkijUtfBHNOCG0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qvI8rVfw-OTTnro1-sbrFDBKr4C4NKkijUtfBHNOCG0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "朝食のビュッフェ会場「レストラン・欅」は、窓の外に里山の風景が広がります"
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/M0P2djdNvsbwZFx3n8AyAwFgEkVA95e1kR6m5uSZN4A/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/M0P2djdNvsbwZFx3n8AyAwFgEkVA95e1kR6m5uSZN4A/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/M0P2djdNvsbwZFx3n8AyAwFgEkVA95e1kR6m5uSZN4A/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/M0P2djdNvsbwZFx3n8AyAwFgEkVA95e1kR6m5uSZN4A/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/M0P2djdNvsbwZFx3n8AyAwFgEkVA95e1kR6m5uSZN4A/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/M0P2djdNvsbwZFx3n8AyAwFgEkVA95e1kR6m5uSZN4A/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "敷地内を流れる川のせせらぎの音が心地よい露天風呂"
+      },
+      {
+        "image": {
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/4XKgA8ip4tRvr8chqnwMiL6d1xZZgoEn2lh8Ex3FgQk/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/4XKgA8ip4tRvr8chqnwMiL6d1xZZgoEn2lh8Ex3FgQk/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/4XKgA8ip4tRvr8chqnwMiL6d1xZZgoEn2lh8Ex3FgQk/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/4XKgA8ip4tRvr8chqnwMiL6d1xZZgoEn2lh8Ex3FgQk/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/4XKgA8ip4tRvr8chqnwMiL6d1xZZgoEn2lh8Ex3FgQk/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4XKgA8ip4tRvr8chqnwMiL6d1xZZgoEn2lh8Ex3FgQk/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "自家源泉の豊富な美肌の湯に身を沈めてゆったり過ごしましょう"
+      }
+    ],
+    "c_news_PublicationDate": "2024-11-25",
+    "c_news_UpdateDate": "2024-11-25",
+    "c_news_ViewCount": "195",
+    "c_news_ViewCount2of2": "195",
+    "c_news_ViewCountNum": "195",
+    "c_news_ViewCountNumForSorting": "15",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/tokai/shizuoka/news_ap_chiki_100252",
+    "name": "pH9.4の専用自家源泉、別名「美肌の湯」を満喫できる自然豊かな里山のホテル【静岡県　里山の別邸　下田セントラルホテル】",
+    "slug": "kokunai/tokai/shizuoka/news_ap_chiki_100252",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "仕入記事"
+  ]
+}

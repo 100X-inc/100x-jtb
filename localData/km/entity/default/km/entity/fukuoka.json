@@ -1,0 +1,67 @@
+{
+  "$id": "fukuoka",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "kyushu"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_y_ishihara225_009",
+      "news_ap_chiki_100145",
+      "news_ap_chiki_100163",
+      "news_ap_chiki_100248",
+      "news_ap_area_0000010",
+      "news_ap_area_0000011",
+      "news_ap_chiki_100148",
+      "news_ap_chiki_100147",
+      "news_ap_area_0000012",
+      "news_ap_m_takahashi509_006",
+      "news_ap_m_tachibana004_007",
+      "news_ap_k_takeda507_003",
+      "news_ap_h_tominaga084_004",
+      "news_ap_h_furuta308_004"
+    ],
+    "c_metaDescription": "福岡に関する記事をピックアップ！JTBニュースでは、福岡で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 福岡 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "福岡",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/KUoWqNd7BMGRzHeSHlbhXDxPj2lgRxS_RK2V_BfIVBM/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/2C3Q9n4Sk_DmeSKxj4-1DZdAaIGLmTH1neGOyRSfeV4/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/2C3Q9n4Sk_DmeSKxj4-1DZdAaIGLmTH1neGOyRSfeV4/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/2C3Q9n4Sk_DmeSKxj4-1DZdAaIGLmTH1neGOyRSfeV4/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/2C3Q9n4Sk_DmeSKxj4-1DZdAaIGLmTH1neGOyRSfeV4/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/2C3Q9n4Sk_DmeSKxj4-1DZdAaIGLmTH1neGOyRSfeV4/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/2C3Q9n4Sk_DmeSKxj4-1DZdAaIGLmTH1neGOyRSfeV4/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "福岡",
+    "slug": "kokunai/kyushu/fukuoka"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

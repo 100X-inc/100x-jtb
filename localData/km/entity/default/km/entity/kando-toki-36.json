@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-36",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/36_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d42.813105%2C143.519311",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "夏",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "広々とした大地と、そこで育まれる豊かな大地の恵みが魅力的な十勝地方。北海道の小麦作付面積のうち、約4割を占めるこの十勝地方では、毎年7月下旬から「秋まき小麦」の収穫が行われます。秋まき小麦とはその名の通り、前年の秋のうちに種をまいて越冬させ、年が明けて7月下旬～8月上旬にかけての1週間～10日ほどという、大変短い期間に収穫される小麦です。収穫できる時期がきわめて短い上、小麦は雨にあたると収穫量や品質に大きく関わってしまうので、まさに時間との勝負。短期決戦でみるみるうちに収穫されていきます。広大な小麦畑を巨大なコンバインが駆けめぐり、昼夜を問わず行われる収穫作業は、そのスケールに圧倒されるとともに、十勝の夏の風物詩となっています。見渡す限りに広がる小麦畑は、一体感がありとても優雅でまさに北海道を象徴する風景です。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/36.asp",
+    "name": "十勝平野 小麦の収穫"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

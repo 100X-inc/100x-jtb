@@ -1,0 +1,200 @@
+{
+  "$id": "ap_chiki_100169",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 群馬県担当　牧 柊史"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "殿方大浴場「保」とご婦人大浴場「安」。それぞれの内湯には湯畑源泉が、露天風呂には万代鉱源泉が引かれています。いずれも強酸性のお湯として知られますが、なかでも万代鉱源泉はなんとpH1.60。殺菌力の高い強い酸性の湯が、湯治場として長く愛された理由のひとつでもあります。これら2つの大浴場に加えて、離れの貸切露天風呂がふたつ。こちらは万代鉱源泉をかけ流しで楽しめます。歴史ある草津温泉の2つの源泉を、存分に堪能してください。",
+        "image": {
+          "height": 667,
+          "sourceUrl": "https://a.mktgcdn.com/p/WfCt9HOyWKrvyvs431TZC_zzlw0jMeAssFD4UvKmgCI/1000x667.jpg",
+          "thumbnails": [
+            {
+              "height": 667,
+              "url": "https://a.mktgcdn.com/p-sandbox/0BVn05YmdjvMJSYhQ4FEIRuhI38VtzfqiUwdW_re2kY/1000x667.jpg",
+              "width": 1000
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/0BVn05YmdjvMJSYhQ4FEIRuhI38VtzfqiUwdW_re2kY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/0BVn05YmdjvMJSYhQ4FEIRuhI38VtzfqiUwdW_re2kY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/0BVn05YmdjvMJSYhQ4FEIRuhI38VtzfqiUwdW_re2kY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0BVn05YmdjvMJSYhQ4FEIRuhI38VtzfqiUwdW_re2kY/1000x667.jpg",
+          "width": 1000
+        },
+        "imageCaption": "ご婦人大浴場「安」の露天風呂",
+        "sectionTitle": "2つの源泉をかけ流しで。温かさが体と心にしみ渡る"
+      },
+      {
+        "description": "夕食は地産の旬食材を使った9品ほどの和会席で、ひと品ひと品に丁寧な仕事が感じられます。上州牛のステーキや馬刺しなど、別注料理を追加するのもいいですね。こだわりのお酒とともに、存分に味わってください。夕食が提供されるのは、群馬県の木材や壁材、ガラスなどを使ったこだわりの食事処。季節の彩りを感じる空間で、宿自慢のお料理をどうぞ。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/XxGZXUYOQkt9oFHC69VHPI_nGQncROlbKz4i3sjXITU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/o9As_RqjNqyIVTuy9dDA_q3oYFEnhuY_b3hPweWTcj8/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/o9As_RqjNqyIVTuy9dDA_q3oYFEnhuY_b3hPweWTcj8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/o9As_RqjNqyIVTuy9dDA_q3oYFEnhuY_b3hPweWTcj8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/o9As_RqjNqyIVTuy9dDA_q3oYFEnhuY_b3hPweWTcj8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/o9As_RqjNqyIVTuy9dDA_q3oYFEnhuY_b3hPweWTcj8/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "見た目にも美しい和会席",
+        "sectionTitle": "受け継がれた伝統と技。地の素材を丁寧に調理"
+      },
+      {
+        "description": "お部屋は全部で30室。日本の趣が詰まった和室が中心ですが、3室の和洋室もおすすめです。「山吹の野」は草津の山吹色に彩られた、野原をイメージした和洋室。掘り炬燵式のテーブルに、こだわりの踏み竹が敷かれていて、ツインのローベッドが、和の雰囲気を引き立てています。「藍の美路」は、落ち着きのある藍色で調度品の色調を統一。ツインベッドが置かれた使いやすいお部屋です。和室、「黄昏の和」は我が家をイメージしたお部屋。和室とフローリングがあり、話が弾みそうな浅掘り炬燵のテーブルが置かれています。人数に合わせて、お好みのお部屋を選んでください。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/_BZLkCTlb8t0e53fQm8CAeVWQyKFNIzj7m2pRoBNhyI/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nhpo5ups_8GplAYiNoIQHTIDyQh8F4X66LvTtW2O8a8/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nhpo5ups_8GplAYiNoIQHTIDyQh8F4X66LvTtW2O8a8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nhpo5ups_8GplAYiNoIQHTIDyQh8F4X66LvTtW2O8a8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nhpo5ups_8GplAYiNoIQHTIDyQh8F4X66LvTtW2O8a8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Nhpo5ups_8GplAYiNoIQHTIDyQh8F4X66LvTtW2O8a8/1024x683.jpg",
+          "width": 1024
+        },
+        "imageCaption": "和洋室「藍の美路」",
+        "sectionTitle": "趣向を凝らした和洋室で過ごす癒やしのひととき"
+      }
+    ],
+    "c_ap_DatePosted": "2023-08-28",
+    "c_ap_HeroImage": {
+      "height": 667,
+      "sourceUrl": "https://a.mktgcdn.com/p/fj719tZsKzVIAqY2oQK1mygbVGcGJnLAaScIf_An4tk/1000x667.jpg",
+      "thumbnails": [
+        {
+          "height": 667,
+          "url": "https://a.mktgcdn.com/p-sandbox/C0gW_Cte_ZF0IqnXVRKNgdJbTbWTC91d1_mHOBbVinA/1000x667.jpg",
+          "width": 1000
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/C0gW_Cte_ZF0IqnXVRKNgdJbTbWTC91d1_mHOBbVinA/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/C0gW_Cte_ZF0IqnXVRKNgdJbTbWTC91d1_mHOBbVinA/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/C0gW_Cte_ZF0IqnXVRKNgdJbTbWTC91d1_mHOBbVinA/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/C0gW_Cte_ZF0IqnXVRKNgdJbTbWTC91d1_mHOBbVinA/1000x667.jpg",
+      "width": 1000
+    },
+    "c_ap_HeroImageCaption": "お料理が評判の湯宿",
+    "c_ap_LinkArticleSectionTitle": "群馬県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "群馬旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/gunma/"
+      },
+      {
+        "linkText": "群馬県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/gunma/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "関東全般",
+      "群馬県"
+    ],
+    "c_ap_ShortDescription": "明治35年創業、そば屋から始まり料理屋、旅館と発展した「昔心の宿 金みどり」は、丁寧に造られる料理が自慢の温泉宿です。2本の源泉を引く温泉は、すべて源泉かけ流し。湯畑から徒歩3分ほどという好立地にあるので、温泉街のそぞろ歩きも楽しめます。リニューアルしたばかりの館内は清潔で使いやすく、女性好みのアメニティなども取り入れられています。\n明るく快適な空間で、温泉はもちろん料理やお酒も満喫できる、女子旅にもおすすめの草津の湯宿です。",
+    "c_ap_Tags": [
+      "草津温泉",
+      "源泉かけ流し",
+      "露天風呂"
+    ],
+    "c_ap_Theme": [
+      "グループ",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "草津の名湯に浸かり、心づくしの料理に舌鼓【群馬　昔心の宿 金みどり】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "明治35年創業、そば屋から始まり料理屋、旅館と発展した「昔心の宿 金みどり」は、丁寧に造られる料理が自慢の温泉宿です。2本の源泉を引く温泉は、すべて源泉かけ流し。湯畑から徒歩3分ほどという好立地にあるので、温…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "草津の名湯に浸かり、心づくしの料理に舌鼓【群馬　昔心の宿 金みどり】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100169",
+    "name": "草津の名湯に浸かり、心づくしの料理に舌鼓【群馬　昔心の宿 金みどり】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

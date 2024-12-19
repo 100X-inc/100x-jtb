@@ -1,0 +1,37 @@
+{
+  "$id": "kando-toki-49",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/49_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d43.075475%2C141.344661",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "北海道",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "動物・植物"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "札幌市にある北海道大学は、明治初期に最も早く設立された高等教育機関のひとつである札幌農学校としてスタートし、農業の分野だけでなく、北海道開拓にも大きな役割を果たしました。札幌と函館にある二大キャンパスを構え、各地にさまざまな研究施設を有していますが、メインとなる札幌キャンパスでは東京ドーム約38個分の広大な敷地に多数の施設があります。イチョウ並木があるのは、この札幌キャンパス。長さ380mの道路の両側に植えられた70本のイチョウが、秋になるといっせいに色づき、道の左右から伸ばした枝を絡ませて、金色のトンネルを作り上げます。\n見所・お勧めポイント",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/49.asp",
+    "name": "北海道大学構内のイチョウ並木"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

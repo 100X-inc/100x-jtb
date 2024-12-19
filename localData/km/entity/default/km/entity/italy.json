@@ -1,0 +1,22 @@
+{
+  "$id": "italy",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "europe"
+    ],
+    "c_linkedArea3News": [
+      "news_web_kaigai_0020",
+      "news_ap_osarea_0000127",
+      "news_ap_osarea_0000130"
+    ],
+    "c_metaDescription": "お出かけの際は施設や自治体などの最新情報をご確認ください。",
+    "c_metaTitle": "JTBニュース | イタリア | 旅行・おでかけ情報",
+    "name": "イタリア",
+    "slug": "kaigai/europe/italy"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

@@ -1,0 +1,61 @@
+{
+  "$id": "cp_20071318",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "岐阜県",
+    "c_cp_CTA1": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVeVxc",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "日頃よりJTB岐阜マーサ２１店をご愛顧賜り、誠にありがとうございます。\n旅行にいきたい！と思った時に真っ先に思い出していただける店舗を目指しています。\nご相談時から旅行後まで、ずっと「ワクワク」を感じていただけるようなご提案ができるよう努めてまいります。\nどうぞお気軽にご相談くださいませ。",
+    "c_cp_DisplayName": "所",
+    "c_cp_GeneralInfo": [
+      "資格：総合旅行業取扱管理者、トラベルコーディネーターA級（国内）、ハワイスペシャリスト（上級）、クルーズコンサルタント、ウェディングコンサルタント"
+    ],
+    "c_cp_HiraganaName": "ところ",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 1124,
+      "sourceUrl": "https://a.mktgcdn.com/p/vDXhVgwkqScM2JNK2vbNGmdDWxI-m5ldhTXbfr0UnwI/960x1124.jpg",
+      "thumbnails": [
+        {
+          "height": 1124,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZAShcLhfkOL4pHdiyLHt8Fm9gfTjbUzzTwZ-qK8Gl-0/960x1124.jpg",
+          "width": 960
+        },
+        {
+          "height": 725,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZAShcLhfkOL4pHdiyLHt8Fm9gfTjbUzzTwZ-qK8Gl-0/619x725.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZAShcLhfkOL4pHdiyLHt8Fm9gfTjbUzzTwZ-qK8Gl-0/384x450.jpg",
+          "width": 384
+        },
+        {
+          "height": 229,
+          "url": "https://a.mktgcdn.com/p-sandbox/ZAShcLhfkOL4pHdiyLHt8Fm9gfTjbUzzTwZ-qK8Gl-0/196x229.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ZAShcLhfkOL4pHdiyLHt8Fm9gfTjbUzzTwZ-qK8Gl-0/960x1124.jpg",
+      "width": 960
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 所",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 所",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_20071318",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2024/03/31　JBX対応（リテール外転出）",
+    "name": "ところ_20071318",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

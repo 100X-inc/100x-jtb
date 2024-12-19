@@ -1,0 +1,793 @@
+{
+  "$id": "news_ap_store_00004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB赤羽イトーヨーカドー店　猿渡/JTB文京シビックセンター店　小笠原/JTB上野マルイ店　谷本",
+      "linkType": "OTHER"
+    },
+    "c_ap_HeroImage": {
+      "height": 801,
+      "sourceUrl": "http://a.mktgcdn.com/p/lkIicWZcwU0kPr4radYPSWPtHXs_pq0uTOD5ZGZqhrM/1200x801.jpg",
+      "thumbnails": [
+        {
+          "height": 801,
+          "url": "//a.mktgcdn.com/p-sandbox/lkIicWZcwU0kPr4radYPSWPtHXs_pq0uTOD5ZGZqhrM/1200x801.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/lkIicWZcwU0kPr4radYPSWPtHXs_pq0uTOD5ZGZqhrM/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 401,
+          "url": "//a.mktgcdn.com/p-sandbox/lkIicWZcwU0kPr4radYPSWPtHXs_pq0uTOD5ZGZqhrM/600x401.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/lkIicWZcwU0kPr4radYPSWPtHXs_pq0uTOD5ZGZqhrM/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/lkIicWZcwU0kPr4radYPSWPtHXs_pq0uTOD5ZGZqhrM/1200x801.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "旅のスタートは国の特別史跡、特別名勝に指定されている「小石川後楽園」から",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフによる記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "JTB店舗・専門店への相談はこちらから",
+        "uRL": "https://consultants.jtb.co.jp/top#locator"
+      },
+      {
+        "linkText": "日本の旬 東京・横浜 宿泊パック・ツアー・体験予約はこちら",
+        "uRL": "https://www.jtb.co.jp/nihonnoshun/tokyoyokohama/"
+      },
+      {
+        "linkText": "JTB赤羽イトーヨーカドー店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/t3728-0"
+      },
+      {
+        "linkText": "JTB文京シビックセンター店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/t3765-0"
+      },
+      {
+        "linkText": "JTB上野マルイ店（店舗情報）",
+        "uRL": "https://stores.jtb.co.jp/j3354-0"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "「小石川後楽園」や「アメ横商店街」など、水道橋・上野エリアの王道スポットを回り、歴史や文化に触れてみませんか。上野恩賜公園や湯島の神社を巡って御朱印集めも楽しめば、東京の新たな発見もみつかるはず。都内在住の方にもおすすめの特別な休日プランで、東京散歩をお楽しみください。\n\n＜投稿者コメント＞\n都内に在住の方も楽しめる観光コースを考えました。東京散歩をお楽しみください☆",
+    "c_ap_Tags": [
+      "神社",
+      "街歩き",
+      "王道コース",
+      "御朱印帳",
+      "神社巡り",
+      "パワースポット",
+      "サイエンス",
+      "ミュージアム",
+      "レトロ喫茶",
+      "大江戸プラン"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "母娘旅",
+      "一人旅",
+      "夫婦旅",
+      "自然・山",
+      "寺社・教会",
+      "建築・史跡",
+      "歴史・地理",
+      "文芸・文学",
+      "動植物園・公園",
+      "美術鑑賞",
+      "街あるき",
+      "グルメ",
+      "カフェ",
+      "ご当地グルメ"
+    ],
+    "c_ap_Title": "【水道橋～上野エリア】王道＆御朱印集めで東京再発見！水道橋、上野、湯島を巡る1日満喫コース",
+    "c_linkedArea3News": [
+      "tokyo"
+    ],
+    "c_metaDescription": "「小石川後楽園」や「アメ横商店街」など、水道橋・上野エリアの王道スポットを回り、歴史や文化に触れてみませんか。上野恩賜公園や湯島の神社を巡って御朱印集めも楽しめば、東京の新たな発見もみつかるはず。都内在住の方…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "【水道橋～上野エリア】王道＆御朱印集めで東京再発見！水道橋、上野、湯島を巡る1日満喫コース | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "JTB大江戸デスクホームページはこちら",
+        "link": "https://consultants.jtb.co.jp/top-tokyo",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "一つ目の目的地は、JR水道橋駅から徒歩5分の「小石川後楽園」。回遊式築山泉水庭園で、中央の池を「海」に見立て、周りに「山」「川」「田園」が表現されています。江戸時代の儒教思想の影響が強く、中国・西湖の蘇堤を模した堤なども見どころ。歩みを進めるたびに違った景色を見ることができます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/fsu-HRsIadZ3DvTiJTFyjPR3LG3WoyMgSNxAz6-kTLU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/fsu-HRsIadZ3DvTiJTFyjPR3LG3WoyMgSNxAz6-kTLU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/fsu-HRsIadZ3DvTiJTFyjPR3LG3WoyMgSNxAz6-kTLU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/fsu-HRsIadZ3DvTiJTFyjPR3LG3WoyMgSNxAz6-kTLU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/fsu-HRsIadZ3DvTiJTFyjPR3LG3WoyMgSNxAz6-kTLU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/fsu-HRsIadZ3DvTiJTFyjPR3LG3WoyMgSNxAz6-kTLU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "水戸徳川家の江戸上屋敷内の庭として造られた由緒ある庭園です",
+        "sectionTitle": "まずは「小石川後楽園」で緑に囲まれリフレッシュ（10：00）"
+      },
+      {
+        "description": "花や緑が多いのも魅力のひとつ。初春はウメ、初夏のハナショウブ、夏のハスやスイレン、秋は紅葉など、都心にいながら季節の自然を感じられるのはうれしいですよね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/vUIzdVkegYjC4_fOKsB-nVIdgyzgF93C9fDNJlGd2zI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/vUIzdVkegYjC4_fOKsB-nVIdgyzgF93C9fDNJlGd2zI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/vUIzdVkegYjC4_fOKsB-nVIdgyzgF93C9fDNJlGd2zI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/vUIzdVkegYjC4_fOKsB-nVIdgyzgF93C9fDNJlGd2zI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/vUIzdVkegYjC4_fOKsB-nVIdgyzgF93C9fDNJlGd2zI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/vUIzdVkegYjC4_fOKsB-nVIdgyzgF93C9fDNJlGd2zI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "初夏には約660株のハナショウブが花を咲かせます",
+        "sectionTitle": "「宇宙ミュージアムTeNQ（テンキュー）」の最先端映像で宇宙トリップ（11:00）"
+      },
+      {
+        "description": "園内を一周したら、西門の向かいにある「涵徳亭」で一息つきましょう。お休み処・集会所として一般開放されている「びいどろ茶寮」では、季節の食材を使った和定食や、徳川将軍が愛した江戸幕末のフランス風コーヒーを再現したという「徳川将軍珈琲」が人気です。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/cgmwHHCY7qQEwJi52d290dNXbj4RHs_lArr7Xg25Rk4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/cgmwHHCY7qQEwJi52d290dNXbj4RHs_lArr7Xg25Rk4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/cgmwHHCY7qQEwJi52d290dNXbj4RHs_lArr7Xg25Rk4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/cgmwHHCY7qQEwJi52d290dNXbj4RHs_lArr7Xg25Rk4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/cgmwHHCY7qQEwJi52d290dNXbj4RHs_lArr7Xg25Rk4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/cgmwHHCY7qQEwJi52d290dNXbj4RHs_lArr7Xg25Rk4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "涵徳亭はかつて玻璃障子紙を明り取りに使用していたことから、「びいどろ茶屋」と呼ばれていたとか",
+        "sectionTitle": "「アメ横商店街」探索～「上野精養軒本店 レストラン（洋食） 」で舌鼓（12:00）"
+      },
+      {
+        "description": "抹茶セットを注文すると、窓際から庭の景色を眺めながら過ごせます。歴史ある建物でちょっと贅沢なひと時を過ごせば、園内での思い出がより印象的になりそうです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/zgpifWvwMCmf-FKZQPCTQ8Ke6f7WG0elmERwp8vdhaQ/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/zgpifWvwMCmf-FKZQPCTQ8Ke6f7WG0elmERwp8vdhaQ/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/zgpifWvwMCmf-FKZQPCTQ8Ke6f7WG0elmERwp8vdhaQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/zgpifWvwMCmf-FKZQPCTQ8Ke6f7WG0elmERwp8vdhaQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/zgpifWvwMCmf-FKZQPCTQ8Ke6f7WG0elmERwp8vdhaQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/zgpifWvwMCmf-FKZQPCTQ8Ke6f7WG0elmERwp8vdhaQ/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "写真は「お抹茶と上生菓子のセット」850円。「徳川将軍珈琲と上生菓子のセット」1000円もあります",
+        "sectionTitle": "「上野恩賜公園」を散策しながら御朱印集め（14:00）"
+      },
+      {
+        "description": "小石川後楽園の西門から歩いて5分、ショップやアトラクションが豊富な東京ドームシティへ。黄色いビル6階にある「宇宙ミュージアムTeNQ」は、映像や遊びを通して宇宙について学べるスポットです。遠く離れた宇宙を身近に感じてみましょう。",
+        "image": {
+          "height": 801,
+          "sourceUrl": "http://a.mktgcdn.com/p/F0YJUGNIGrBRrcgA2-mgT7ZnxeiDiJMn03ZnHqT8cSQ/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "//a.mktgcdn.com/p-sandbox/F0YJUGNIGrBRrcgA2-mgT7ZnxeiDiJMn03ZnHqT8cSQ/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/F0YJUGNIGrBRrcgA2-mgT7ZnxeiDiJMn03ZnHqT8cSQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "//a.mktgcdn.com/p-sandbox/F0YJUGNIGrBRrcgA2-mgT7ZnxeiDiJMn03ZnHqT8cSQ/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/F0YJUGNIGrBRrcgA2-mgT7ZnxeiDiJMn03ZnHqT8cSQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/F0YJUGNIGrBRrcgA2-mgT7ZnxeiDiJMn03ZnHqT8cSQ/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "エントランスには、宇宙に関するアイテムがたくさん",
+        "sectionTitle": "「妻恋神社」で夫婦円満祈願（16:00）"
+      },
+      {
+        "description": "特におすすめしたいのが「シアター宙（ソラ）」。直径11mの穴を囲んでのぞき込む、新感覚のシアターです。国際宇宙ステーション（ISS）から見た地球の実写映像や太陽系の星々のリアルな再現などを、４K超の高解像度映像で放映しています。鮮明な映像が足元まで広がり、臨場感たっぷりの宇宙旅行気分が味わえますよ。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/8deEySYoA_Ao3OFnAjDgcU8_o9B20opvd1XTrRpI8QM/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/8deEySYoA_Ao3OFnAjDgcU8_o9B20opvd1XTrRpI8QM/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/8deEySYoA_Ao3OFnAjDgcU8_o9B20opvd1XTrRpI8QM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/8deEySYoA_Ao3OFnAjDgcU8_o9B20opvd1XTrRpI8QM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/8deEySYoA_Ao3OFnAjDgcU8_o9B20opvd1XTrRpI8QM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/8deEySYoA_Ao3OFnAjDgcU8_o9B20opvd1XTrRpI8QM/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「シアター宙」では「宇宙グランドツアー」など毎月2プログラムを放映しています",
+        "sectionTitle": "「自家焙煎珈琲みじんこ」でくつろぎタイム（17:00）"
+      },
+      {
+        "description": "「サイエンス」は、本物の研究室がある展示コーナー。実際の研究データをもとにして展示内容が更新されるため、常に最先端の情報に触れられます。そのほか、「つながる場所」のコーナーには、まるで宇宙にいるような写真が撮れるフォトスポットがあります。こちらでぜひ記念撮影を。",
+        "image": {
+          "height": 801,
+          "sourceUrl": "http://a.mktgcdn.com/p/NFJq-b7_li4om0Ymef9GkBBN0m6rgaGkrL7cIv16KsA/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "//a.mktgcdn.com/p-sandbox/NFJq-b7_li4om0Ymef9GkBBN0m6rgaGkrL7cIv16KsA/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/NFJq-b7_li4om0Ymef9GkBBN0m6rgaGkrL7cIv16KsA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "//a.mktgcdn.com/p-sandbox/NFJq-b7_li4om0Ymef9GkBBN0m6rgaGkrL7cIv16KsA/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/NFJq-b7_li4om0Ymef9GkBBN0m6rgaGkrL7cIv16KsA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/NFJq-b7_li4om0Ymef9GkBBN0m6rgaGkrL7cIv16KsA/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "実際の研究員が在籍し、研究の様子が見られる「サイエンス」"
+      },
+      {
+        "description": "続いては、電車に乗って約7分、上野御徒町駅へ移動します。ランチスポットへ向かいがてら、「アメ横商店街」を散策しましょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/BDc32Uz99CRdwWFdcJ2C6hEw8W6JICfn9kFWvV4AAS4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/BDc32Uz99CRdwWFdcJ2C6hEw8W6JICfn9kFWvV4AAS4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/BDc32Uz99CRdwWFdcJ2C6hEw8W6JICfn9kFWvV4AAS4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/BDc32Uz99CRdwWFdcJ2C6hEw8W6JICfn9kFWvV4AAS4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/BDc32Uz99CRdwWFdcJ2C6hEw8W6JICfn9kFWvV4AAS4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/BDc32Uz99CRdwWFdcJ2C6hEw8W6JICfn9kFWvV4AAS4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "アメ横と言えばこの看板。人だかりも名物のひとつ　写真提供：台東区"
+      },
+      {
+        "description": "御徒町駅から上野駅までのたった約500mの間に400を超える店舗が並ぶ、言わずと知れた上野の観光名所です。戦後の闇市の形態が残るといわれる数少ない商店街で、独特の雰囲気があります。食品、化粧品、衣類に宝飾品までさまざまな専門店が軒を連ね、あれこれ見ているだけでも十分楽しめます。店員さんとのコミュニケーションも、アメ横の楽しみのひとつ。気になる商品があれば、思い切って店員さんに話しかけてみましょう。交渉次第で、よりお得に手に入れられるかもしれません。旅の思い出にもなりますよ。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/6GlUKqiUGWAHKlcA5cWx3-NjrGzo7sOhXpX0rJyremI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/6GlUKqiUGWAHKlcA5cWx3-NjrGzo7sOhXpX0rJyremI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/6GlUKqiUGWAHKlcA5cWx3-NjrGzo7sOhXpX0rJyremI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/6GlUKqiUGWAHKlcA5cWx3-NjrGzo7sOhXpX0rJyremI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/6GlUKqiUGWAHKlcA5cWx3-NjrGzo7sOhXpX0rJyremI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/6GlUKqiUGWAHKlcA5cWx3-NjrGzo7sOhXpX0rJyremI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "上野精養軒本店は上野恩賜公園の開園とともに明治9年（1876）に開店"
+      },
+      {
+        "description": "目移りしながら商店街を進んでいくと、上野に到着。そろそろお腹も空く頃、上野恩賜公園の中にある「上野精養軒本店 レストラン（洋食）」でランチタイムにしましょう。創業は明治5年（1872）。当時日本人に馴染みがなかった洋食文化を広めた老舗のレストランです。",
+        "image": {
+          "height": 799,
+          "sourceUrl": "http://a.mktgcdn.com/p/Epz8xUUy-JSdPo38vPtRhYeeMeoKV6OxyPSGRpUwl6A/1200x799.png",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "//a.mktgcdn.com/p-sandbox/Epz8xUUy-JSdPo38vPtRhYeeMeoKV6OxyPSGRpUwl6A/1200x799.png",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "//a.mktgcdn.com/p-sandbox/Epz8xUUy-JSdPo38vPtRhYeeMeoKV6OxyPSGRpUwl6A/619x412.png",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/Epz8xUUy-JSdPo38vPtRhYeeMeoKV6OxyPSGRpUwl6A/600x400.png",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/Epz8xUUy-JSdPo38vPtRhYeeMeoKV6OxyPSGRpUwl6A/196x131.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/Epz8xUUy-JSdPo38vPtRhYeeMeoKV6OxyPSGRpUwl6A/1200x799.png",
+          "width": 1200
+        },
+        "imageCaption": "伝統のレシピで約1週間煮込んで作る「ハヤシライス」1780円。ドミグラスソースが絶品"
+      },
+      {
+        "description": "ここではハヤシライスを注文。昔から変わらない味わいで、多くの人に愛されているメニューです。存在感のある牛肉のとろけるような食感がなんとも贅沢。深いコクの中に酸味が加わり、ごはんがすすむおいしさです。",
+        "image": {
+          "height": 801,
+          "sourceUrl": "http://a.mktgcdn.com/p/PU-ZozxvhJp20dYx277tSxplcMK4OSdB3pREqgJquLg/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "//a.mktgcdn.com/p-sandbox/PU-ZozxvhJp20dYx277tSxplcMK4OSdB3pREqgJquLg/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/PU-ZozxvhJp20dYx277tSxplcMK4OSdB3pREqgJquLg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "//a.mktgcdn.com/p-sandbox/PU-ZozxvhJp20dYx277tSxplcMK4OSdB3pREqgJquLg/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/PU-ZozxvhJp20dYx277tSxplcMK4OSdB3pREqgJquLg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/PU-ZozxvhJp20dYx277tSxplcMK4OSdB3pREqgJquLg/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "座席は約150席。テラス席では、真横にある不忍池や上野の景色を一望できます"
+      },
+      {
+        "description": "かつては貴族や著名人の社交場として利用された名店で、明治時代の面影や気品を感じながら伝統の一品を味わってみてくださいね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/qc_0Dhn7_olTDPL3rg8RwBwq1pUsS22MpHcJCt7xAwY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/qc_0Dhn7_olTDPL3rg8RwBwq1pUsS22MpHcJCt7xAwY/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/qc_0Dhn7_olTDPL3rg8RwBwq1pUsS22MpHcJCt7xAwY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/qc_0Dhn7_olTDPL3rg8RwBwq1pUsS22MpHcJCt7xAwY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/qc_0Dhn7_olTDPL3rg8RwBwq1pUsS22MpHcJCt7xAwY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/qc_0Dhn7_olTDPL3rg8RwBwq1pUsS22MpHcJCt7xAwY/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "戦禍の空襲の被害を免れたという五條天神社の社殿"
+      },
+      {
+        "description": "お腹が満たされたところで、再び散策へ。上野恩賜公園には神社仏閣がいくつも鎮座しているので、御朱印集めも楽しめます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/orrTrmV2vP_lh9_xx1LxosU4XVjE2HQHvWioij-gt3g/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/orrTrmV2vP_lh9_xx1LxosU4XVjE2HQHvWioij-gt3g/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/orrTrmV2vP_lh9_xx1LxosU4XVjE2HQHvWioij-gt3g/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/orrTrmV2vP_lh9_xx1LxosU4XVjE2HQHvWioij-gt3g/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/orrTrmV2vP_lh9_xx1LxosU4XVjE2HQHvWioij-gt3g/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/orrTrmV2vP_lh9_xx1LxosU4XVjE2HQHvWioij-gt3g/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "五條天神社でいただける御朱印500円"
+      },
+      {
+        "description": "上野精養軒から歩いてすぐのところにある「五條天神社」は、医薬祖神として崇敬され、無病健康や病気平癒にご利益があるといわれています。また、学問の神様である菅原道真公 を御祭神とする天神様でもあり、特に医学系の学問成就の祈願に訪れる人が多いのだとか。ご自身や身近な方の健康を祈りながらお参りしてみてくださいね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/-_nYC7BkcBB0dzUlPLhXEcWzkhzxQc3U2DNImgk_6Z4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/-_nYC7BkcBB0dzUlPLhXEcWzkhzxQc3U2DNImgk_6Z4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/-_nYC7BkcBB0dzUlPLhXEcWzkhzxQc3U2DNImgk_6Z4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/-_nYC7BkcBB0dzUlPLhXEcWzkhzxQc3U2DNImgk_6Z4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/-_nYC7BkcBB0dzUlPLhXEcWzkhzxQc3U2DNImgk_6Z4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/-_nYC7BkcBB0dzUlPLhXEcWzkhzxQc3U2DNImgk_6Z4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "花園稲荷神社の境内へ続く朱塗りの鳥居"
+      },
+      {
+        "description": "五條天神社の隣にある「花園稲荷神社」にもお参りしましょう。こちらは古くからこの地にあり、旧称を忍岡稲荷といいます。かつて寛永寺の花園のそばにあったことから花園稲荷と呼ばれるようになったそうです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/qJame6rCW70mG6ApnA_W-eBrmzHsCTaLQzpuFlk2qds/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/qJame6rCW70mG6ApnA_W-eBrmzHsCTaLQzpuFlk2qds/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/qJame6rCW70mG6ApnA_W-eBrmzHsCTaLQzpuFlk2qds/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/qJame6rCW70mG6ApnA_W-eBrmzHsCTaLQzpuFlk2qds/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/qJame6rCW70mG6ApnA_W-eBrmzHsCTaLQzpuFlk2qds/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/qJame6rCW70mG6ApnA_W-eBrmzHsCTaLQzpuFlk2qds/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "緑が生い茂る花園稲荷神社の境内。対で見護る神使の狐の姿もなんだか神秘的です"
+      },
+      {
+        "description": "縁結びの神様として知られ、縁談、商談、就職などの祈願に多くの人が訪れます。御朱印のほか、神狐の絵柄がかわいらしいオリジナルの御朱印帳なども要チェックです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/fr9jh_IrLqpD_Ng8tyhF1SSEXpcCeiugQZKk8mmwn_A/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/fr9jh_IrLqpD_Ng8tyhF1SSEXpcCeiugQZKk8mmwn_A/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/fr9jh_IrLqpD_Ng8tyhF1SSEXpcCeiugQZKk8mmwn_A/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/fr9jh_IrLqpD_Ng8tyhF1SSEXpcCeiugQZKk8mmwn_A/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/fr9jh_IrLqpD_Ng8tyhF1SSEXpcCeiugQZKk8mmwn_A/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/fr9jh_IrLqpD_Ng8tyhF1SSEXpcCeiugQZKk8mmwn_A/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "白い社殿が目を引く「妻恋神社」"
+      },
+      {
+        "description": "ほかにも、合格祈願のパワースポットとして知られる「上野大仏」や、必勝のご利益があるという「上野東照宮」などで御朱印がいただけます。さらに上野恩賜公園は、明治期の洋館が見事な「旧岩崎邸庭園」など文化施設も豊富。時間に余裕があれば、そちらを見て回るのもおすすめです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/CxATqFmKpsEsbVQhk1sU2ppFQjGdvVE8pO6YcjmSTmc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/CxATqFmKpsEsbVQhk1sU2ppFQjGdvVE8pO6YcjmSTmc/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/CxATqFmKpsEsbVQhk1sU2ppFQjGdvVE8pO6YcjmSTmc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/CxATqFmKpsEsbVQhk1sU2ppFQjGdvVE8pO6YcjmSTmc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/CxATqFmKpsEsbVQhk1sU2ppFQjGdvVE8pO6YcjmSTmc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/CxATqFmKpsEsbVQhk1sU2ppFQjGdvVE8pO6YcjmSTmc/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "妻恋神社の御守、縁結び「恋」1個500円。御朱印300円～（妻恋神社社務所では土・日曜のみ授与）"
+      },
+      {
+        "description": "パワースポットは、上野恩賜公園だけではありません。上野駅から10分ほど歩くと、「湯島聖堂」や「湯島天神」などがあります。この湯島エリアでぜひ立ち寄りたいのが「妻恋神社」です。日本武尊と、その妃である弟橘媛命の夫婦神が祭られており、夫婦愛を高めるスポットとして人気を集めています。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/l0Y_FjUK03kKkuvUwTV1vIjiAAJF81wI6DL3Q_nZCUI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/l0Y_FjUK03kKkuvUwTV1vIjiAAJF81wI6DL3Q_nZCUI/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/l0Y_FjUK03kKkuvUwTV1vIjiAAJF81wI6DL3Q_nZCUI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/l0Y_FjUK03kKkuvUwTV1vIjiAAJF81wI6DL3Q_nZCUI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/l0Y_FjUK03kKkuvUwTV1vIjiAAJF81wI6DL3Q_nZCUI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/l0Y_FjUK03kKkuvUwTV1vIjiAAJF81wI6DL3Q_nZCUI/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「妻恋神社」から清水坂を2分ほど登ったところにあります"
+      },
+      {
+        "description": "妻恋神社の名前は、日本武尊が、自身の身代わりとなって命を落とした弟橘媛命を恋い慕い「吾妻者耶（あづまはや）＝わが妻よ」と嘆いたことに由来するそう。このことから縁結び、特に夫婦円満や恋愛成就のご利益があるといわれています。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/xa4Sfef97clpumqW8GZmlSLKFYi-iIePINqVAiKdaMM/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/xa4Sfef97clpumqW8GZmlSLKFYi-iIePINqVAiKdaMM/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/xa4Sfef97clpumqW8GZmlSLKFYi-iIePINqVAiKdaMM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/xa4Sfef97clpumqW8GZmlSLKFYi-iIePINqVAiKdaMM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/xa4Sfef97clpumqW8GZmlSLKFYi-iIePINqVAiKdaMM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/xa4Sfef97clpumqW8GZmlSLKFYi-iIePINqVAiKdaMM/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "「オリジナルブレンド」594円、「ホットケーキ」803円"
+      },
+      {
+        "description": "妻恋神社では、御朱印のほか、「恋」と書かれた縁結びのお守りなどがいただけます。赤と青、ご夫婦やパートナー同士で一緒に持つのも素敵ですね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "http://a.mktgcdn.com/p/cuUsHp7_XxJGNBwvPNj3ag3ElH3aNzZwimDjA10wwlU/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "//a.mktgcdn.com/p-sandbox/cuUsHp7_XxJGNBwvPNj3ag3ElH3aNzZwimDjA10wwlU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/cuUsHp7_XxJGNBwvPNj3ag3ElH3aNzZwimDjA10wwlU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/cuUsHp7_XxJGNBwvPNj3ag3ElH3aNzZwimDjA10wwlU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/cuUsHp7_XxJGNBwvPNj3ag3ElH3aNzZwimDjA10wwlU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/cuUsHp7_XxJGNBwvPNj3ag3ElH3aNzZwimDjA10wwlU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "店内に飾られたアートにも注目"
+      },
+      {
+        "description": "この旅のラストは、コーヒー専門店「自家焙煎珈琲みじんこ」で。コーヒーは、3種類のオリジナルブレンドのほか、個性的なシングルオリジンなどのスペシャリティコーヒーがあります。ふくよかな香りに包まれながらリラックスしましょう。",
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。※上記記事に記載の金額はすべて税込みです。また各施設の入場料金は大人料金を記載しています。※定休日は原則として年末年始・お盆休み・ゴールデンウィークを省略しています。"
+      },
+      {
+        "description": "コーヒーと合わせるスイーツは、注文を受けてから作るホットケーキがおすすめです。銅板でじっくりと焼き上げる生地はふっくら。見た目も食感もたまりません。バターが効いていてそのまま食べてもおいしく、シロップで味を変えても楽しめます。"
+      },
+      {
+        "description": "柔らかい照明で落ち着いた雰囲気のある店内は、旅の締めくくりにぴったりの空間。のんびりくつろぎながら、一日の思い出を振り返ってみてくださいね。"
+      },
+      {
+        "description": "●スポット情報【小石川後楽園（こいしかわこうらくえん）】電話：03-3811-3015住所：東京都文京区後楽1-6-6料金：入園300円時間：9～17時（入場は～16時30分、びいどろ茶寮は10～16時）休み：無休（びいどろ茶寮は不定休）アクセス：JR水道橋駅から徒歩5分（東門）、地下鉄飯田橋駅から徒歩3分（西門）【宇宙ミュージアムTeNQ（うちゅうみゅーじあむてんきゅー）】電話：03-3814-0109住所：東京都文京区後楽1-3-61 黄色いビル６階料金：当日一般1800円ほか時間：11～21時（土・日曜、祝日、特定日は10時～。最終入館は20時）※現在は時間短縮営業中。公式ホームページを要確認休み：無休（整備休館日あり）アクセス：JR水道橋駅から徒歩3分※ファミリーデーを除き、4歳未満の入館不可【アメ横商店街（あめよこしょうてんがい）】電話：03-3532-5053（アメ横商店街連合会）住所：東京都台東区上野6-10-7（アメ横商店街連合会） 時間：店舗により異なる休み：店舗により異なるアクセス：各線上野駅、JR御徒町駅から徒歩すぐ【上野精養軒本店 レストラン（洋食）（うえのせいようけんほんてん れすとらん（ようしょく））】電話：03-3821-2181住所：東京都台東区上野公園4-58時間：11～17時（土・日曜、祝日は～18時）※ラストオーダーは各1時間前休み：月曜アクセス：各線上野駅から徒歩5分【五條天神社（ごじょうてんじんしゃ）】電話：03-3821-4306住所：東京都台東区上野公園4-17料金：境内無料時間：6～17時（授与所は9～17時）休み：無休アクセス：各線上野駅から徒歩3分【花園稲荷神社（はなぞのいなりじんじゃ）】電話：03-3823-2034住所：東京都台東区上野公園4-17料金：境内無料時間：6～17時（授与所は9～17時）休み：無休アクセス：各線上野駅から徒歩3分【妻恋神社（つまこいじんじゃ）】電話：なし住所：東京都文京区湯島3-2-6料金：境内無料時間：参拝自由（社務所は土・日曜11～3時）休み：無休アクセス：JR御茶ノ水駅から徒歩10分【自家焙煎珈琲みじんこ（じかばいせんこーひーみじんこ）】電話：03-6240-1429住所：東京都文京区湯島2-9-0 湯島三組ビル1階時間：11～20時（土・日曜、祝日は10時～19時30分）※ラストオーダーはフード各1時間前、ドリンク各30分前休み：無休（臨時休業あり）アクセス：東京メトロ湯島駅から徒歩6分"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_store_00003",
+      "news_ap_store_00005",
+      "news_ap_store_00007",
+      "news_ap_store_00008",
+      "news_ap_store_00006"
+    ],
+    "c_news_FeaturedArticlesTitle": "その他JTB大江戸デスクコンサルタントの投稿記事",
+    "c_news_PublicationDate": "2022-11-21",
+    "c_news_UpdateDate": "2022-11-21",
+    "c_news_ViewCount": "676",
+    "c_news_ViewCount1of2": "4",
+    "c_news_ViewCount2of2": "676",
+    "c_news_ViewCountNum": "676",
+    "c_news_ViewCountNumForSorting": "49",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/kanto/tokyo/news_ap_store_00004",
+    "name": "【水道橋～上野エリア】王道＆御朱印集めで東京再発見！水道橋、上野、湯島を巡る1日満喫コース",
+    "slug": "kokunai/kanto/tokyo/news_ap_store_00004",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

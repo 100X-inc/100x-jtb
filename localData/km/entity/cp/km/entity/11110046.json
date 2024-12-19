@@ -1,0 +1,81 @@
+{
+  "$id": "cp_11110046",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "北海道",
+    "c_cp_CTA1": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVes",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "当店をご利用いただきまして誠にありがとうございます。\nお客様のご旅行が思い出深いものとなるよう、お手伝いとご提案させていただけたら光栄です。",
+    "c_cp_DisplayName": "本間",
+    "c_cp_FieldOfExpertise": [
+      "母娘旅",
+      "一人旅",
+      "街あるき"
+    ],
+    "c_cp_HiraganaName": "ほんま",
+    "c_cp_JobTitle": "JTB新札幌店 店長",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 480,
+      "sourceUrl": "https://a.mktgcdn.com/p/ALY92hRYDoxhkR4jkAj6a9sBh224W5a1fbhiJrz1dKY/525x480.jpg",
+      "thumbnails": [
+        {
+          "height": 480,
+          "url": "https://a.mktgcdn.com/p-sandbox/ALY92hRYDoxhkR4jkAj6a9sBh224W5a1fbhiJrz1dKY/525x480.jpg",
+          "width": 525
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/ALY92hRYDoxhkR4jkAj6a9sBh224W5a1fbhiJrz1dKY/492x450.jpg",
+          "width": 492
+        },
+        {
+          "height": 179,
+          "url": "https://a.mktgcdn.com/p-sandbox/ALY92hRYDoxhkR4jkAj6a9sBh224W5a1fbhiJrz1dKY/196x179.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/ALY92hRYDoxhkR4jkAj6a9sBh224W5a1fbhiJrz1dKY/525x480.jpg",
+      "width": 525
+    },
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ",
+      "オーストラリア"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "スペイン",
+      "イタリア"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国",
+      "台湾"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "東京都",
+      "神奈川県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "京都府"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "沖縄県"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント | 本間",
+    "c_metaTitle": "JTBトラベルコンサルタント | 本間",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_11110046",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10023_新札幌店",
+    "name": "ほんま_11110046",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

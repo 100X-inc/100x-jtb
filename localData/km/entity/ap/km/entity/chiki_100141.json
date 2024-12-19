@@ -1,0 +1,325 @@
+{
+  "$id": "ap_chiki_100141",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 沖縄県担当 中川 英樹"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "客室はコンドミニアムタイプで、36㎡から86㎡のゆとりある部屋を6タイプ備えています。スタンダードタイプのデラックスツインは、ベッドルームとリビングが一体化した開放感あふれる客室。バスルームにも大きな窓がとられ、湯船に浸かりながら水平線を眺望できます。エグゼクティブスイート１ベッドルームはリビングダイニングとベッドルームが独立していて、定員２名とは思えないほどの広さ。リビングにはダイニングテーブルとソファ、一角にはデイベッドをしつらえ、海を眺めながらのんびりくつろげます。",
+        "image": {
+          "height": 801,
+          "sourceUrl": "https://a.mktgcdn.com/p/veX-TEQbtZw7hiWKrvNXWzmdtyDabSGK8Tl57VFWEIs/1200x801.jpg",
+          "thumbnails": [
+            {
+              "height": 801,
+              "url": "https://a.mktgcdn.com/p-sandbox/4m8n99_wbVe0Wr3jAq0-DM6w4WriwS0KtHMR3q9BwqU/1200x801.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/4m8n99_wbVe0Wr3jAq0-DM6w4WriwS0KtHMR3q9BwqU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/4m8n99_wbVe0Wr3jAq0-DM6w4WriwS0KtHMR3q9BwqU/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/4m8n99_wbVe0Wr3jAq0-DM6w4WriwS0KtHMR3q9BwqU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4m8n99_wbVe0Wr3jAq0-DM6w4WriwS0KtHMR3q9BwqU/1200x801.jpg",
+          "width": 1200
+        },
+        "imageCaption": "デラックスツインにもビューバスを備えている",
+        "sectionTitle": "海景色に癒される、ゆとりある6タイプの客室"
+      },
+      {
+        "description": "室内は木目を生かしたテーブルや椅子、パステルトーンのファブリックで整えられたナチュラルな空間です。全室にキッチンと電子レンジ、大きめの冷蔵庫を完備しているのでスーパーでたくさん食材を購入してもすっきり収納できます。キッチンにはIHクッキングヒーターや電気ケトルなどを備えていて、調理器具や食器類、炊飯器など必要なものは貸し出しもしています。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/E1BbGRSghu-DHRUnyhVyZlPWLgBCZ593NYLN7wr5REY/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/hOLri_mkflxh6-wYGOQCmBOeyjmw_STHK1LH8zSqNJU/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/hOLri_mkflxh6-wYGOQCmBOeyjmw_STHK1LH8zSqNJU/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/hOLri_mkflxh6-wYGOQCmBOeyjmw_STHK1LH8zSqNJU/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/hOLri_mkflxh6-wYGOQCmBOeyjmw_STHK1LH8zSqNJU/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hOLri_mkflxh6-wYGOQCmBOeyjmw_STHK1LH8zSqNJU/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "デイベッドを備えるエグゼクティブスイート1ベッドルーム",
+        "sectionTitle": "ディナーはアメリカンテイストのグリル料理を"
+      },
+      {
+        "description": "レストラン「オーシャングリル」は緑の庭園に面した異国情緒あふれるダイニング。ブレックファーストやランチ、ティータイムやディナーと時間ごとにさまざまなメニューをたのしめます。ディナータイムにはサーロインステーキやBBQスペアリブなど豪快な肉料理をはじめ、シーフードのグリルやパスタ、ピザなど多彩な料理を揃えています。バータイムにはカウンターバーでカクテルや泡盛、種類豊富なワインを楽しみましょう。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/y7ZuKzxwHMgbAZsgp28KB5EEm-hrD-qUgJoFVQ5TvaA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/ljpvxlFKaz1ChXrRlsLBoBK1DymNp3FwsQxd1XKrkpE/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ljpvxlFKaz1ChXrRlsLBoBK1DymNp3FwsQxd1XKrkpE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ljpvxlFKaz1ChXrRlsLBoBK1DymNp3FwsQxd1XKrkpE/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ljpvxlFKaz1ChXrRlsLBoBK1DymNp3FwsQxd1XKrkpE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ljpvxlFKaz1ChXrRlsLBoBK1DymNp3FwsQxd1XKrkpE/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ステーキはサラダやスープが付いてボリューム満点",
+        "sectionTitle": "南国リゾートを実感できるガーデンプール"
+      },
+      {
+        "description": "ブレックファーストタイムには「オーシャングリル」がブッフェスタイルに様変わり。色とりどりのドリンクや和洋の料理がずらりと並び、なかには沖縄風炊き込みご飯やじーまみ豆腐など郷土料理も並んでいます。さらに、ホテルメイドの料理はテイクアウトでも楽しめます（ランチタイムとディナータイムのみ）。クラブハウスサンドやミックスピザなど、シェフが作った本格的なメニューをテイクアウトして、ビーチや庭園のベンチでピクニックを楽しむのもいいですね。",
+        "image": {
+          "height": 450,
+          "sourceUrl": "https://a.mktgcdn.com/p/uQ1FhlXe3bgArnkM6KzRvtDF6bh-vd0By95mWBhcYV0/600x450.jpg",
+          "thumbnails": [
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/QIwEtA6gE1C41uvKR3x1jAUqqT0xpNe-MnZSafZ4uGU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/QIwEtA6gE1C41uvKR3x1jAUqqT0xpNe-MnZSafZ4uGU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QIwEtA6gE1C41uvKR3x1jAUqqT0xpNe-MnZSafZ4uGU/600x450.jpg",
+          "width": 600
+        },
+        "imageCaption": "朝食では色とりどりのフルーツやパンがずらりと並ぶ",
+        "sectionTitle": "レジャーはもちろんビジネスにも最適"
+      },
+      {
+        "description": "屋外には緑の木々に囲まれたガーデンプールとジェットバスがあり、キッズプールも併設しているから子供連れでも安心です。プールサイドにはテラス席もあるので、軽食やドリンクを飲みながらリゾート気分を満喫できますよ。また、館内にはアスレチックジムがあり、滞在中にもエクササイズでリフレッシュ。シェアサイクルのサービスもあるので、ショッピングや観光にも気軽に利用できます。",
+        "image": {
+          "height": 799,
+          "sourceUrl": "https://a.mktgcdn.com/p/9LymrTy8YDQ4iAf5utH_lnSffbN3-8W9mnh1UEoSl_w/1200x799.jpg",
+          "thumbnails": [
+            {
+              "height": 799,
+              "url": "https://a.mktgcdn.com/p-sandbox/x2gLRJF4CaROFOTRGuPje38kJjRJbt0qD7Fjqce2GEY/1200x799.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/x2gLRJF4CaROFOTRGuPje38kJjRJbt0qD7Fjqce2GEY/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/x2gLRJF4CaROFOTRGuPje38kJjRJbt0qD7Fjqce2GEY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/x2gLRJF4CaROFOTRGuPje38kJjRJbt0qD7Fjqce2GEY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/x2gLRJF4CaROFOTRGuPje38kJjRJbt0qD7Fjqce2GEY/1200x799.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ガーデンプールは4～10月限定で利用できる"
+      },
+      {
+        "description": "徒歩圏内にはショッピングセンターやコンビニ、居酒屋さんなど便利なお店があり、宜野湾マリーナや沖縄コンベンションセンターにも歩いて行くことができます。沖縄の海を満喫したいなら、ぎのわんトロピカルビーチまで足を延ばしましょう。白い砂浜とエメラルドブルーのビーチは外国人観光客や地元の若者に人気のスポット。マリンアクティビティやバーベキューも楽しめるので、1日中アクティブに過ごすのもおすすめです。",
+        "image": {
+          "height": 675,
+          "sourceUrl": "https://a.mktgcdn.com/p/-2nyVT7-OFb-nRspYnFi_dSyWWqqTHITLaJ7OOGR8X4/1200x675.jpg",
+          "thumbnails": [
+            {
+              "height": 675,
+              "url": "https://a.mktgcdn.com/p-sandbox/9u6iZg0yuZ6RctE0azHL-VaRDWvJhzj_LbNUrMAnqGk/1200x675.jpg",
+              "width": 1200
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/9u6iZg0yuZ6RctE0azHL-VaRDWvJhzj_LbNUrMAnqGk/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/9u6iZg0yuZ6RctE0azHL-VaRDWvJhzj_LbNUrMAnqGk/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/9u6iZg0yuZ6RctE0azHL-VaRDWvJhzj_LbNUrMAnqGk/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9u6iZg0yuZ6RctE0azHL-VaRDWvJhzj_LbNUrMAnqGk/1200x675.jpg",
+          "width": 1200
+        },
+        "imageCaption": "空港や那覇市内中心部にもアクセスしやすい好立地にある"
+      },
+      {
+        "description": "３連泊以上のゲストにはうれしい特典があります。館内のレストラン「オーシャングリル」でのドリンクやカクテルのサービス、アンダーウェアのランドリーサービス、映画鑑賞割引サービスなど。姉妹ホテル「ザ・ムーンビーチ　ミュージアムリゾート」内にある専用ラウンジも利用できます。さらに6連泊以上のゲストにはなんと朝食ビュッフェが50%OFF！レジデンシャルスタイルのホテルで沖縄の暮らしを体感して、ぜひロングステイを楽しみましょう。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/B7RmQ7zZcfa2xH4P6K7KMQ5OKgelZnV3Ttdj1vaS40c/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/paxA9-nVvgVwGc9ow9m9kid9i-BDdE-cEQhnK5XeyzA/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/paxA9-nVvgVwGc9ow9m9kid9i-BDdE-cEQhnK5XeyzA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/paxA9-nVvgVwGc9ow9m9kid9i-BDdE-cEQhnK5XeyzA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/paxA9-nVvgVwGc9ow9m9kid9i-BDdE-cEQhnK5XeyzA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/paxA9-nVvgVwGc9ow9m9kid9i-BDdE-cEQhnK5XeyzA/1024x683.jpg",
+          "width": 1024
+        },
+        "imageCaption": "南国の木々に囲まれた開放的な空間でホテルライフを"
+      }
+    ],
+    "c_ap_DatePosted": "2023-06-12",
+    "c_ap_HeroImage": {
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/kATy5zjHmRk5QYIvH2eYWay2df8DsDGWhmQZ76F5dBM/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/Fda6knpD1Ixb9_WiHwBciVtaNUgqcV4_bcR5KeWUFwY/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/Fda6knpD1Ixb9_WiHwBciVtaNUgqcV4_bcR5KeWUFwY/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/Fda6knpD1Ixb9_WiHwBciVtaNUgqcV4_bcR5KeWUFwY/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/Fda6knpD1Ixb9_WiHwBciVtaNUgqcV4_bcR5KeWUFwY/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Fda6knpD1Ixb9_WiHwBciVtaNUgqcV4_bcR5KeWUFwY/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "青い海と青い空を眺める至福のバスタイム",
+    "c_ap_LinkArticleSectionTitle": "沖縄県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "沖縄旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/"
+      },
+      {
+        "linkText": "沖縄県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea6": [
+      "沖縄県"
+    ],
+    "c_ap_ShortDescription": "宜野湾マリーナを見下ろす場所にあり、177室の客室を備える大型リゾートホテル。ホテルの快適さをそのままに、「暮らすように過ごす」レジデンシャルスタイルを提案しています。キッチンがついた客室では自炊もできるので、リーズナブルにロングステイも可能。徒歩圏内にショッピングモールもあり、ワーケーションやリモートワークにも最適です。",
+    "c_ap_Tags": [
+      "レジデンシャルスタイル",
+      "宜野湾マリーナ",
+      "ロングステイ",
+      "ワーケーション",
+      "ガーデンプール"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "グループ",
+      "リゾート",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "南国の別邸へようこそ♪レジデンシャルスタイルでリゾートを満喫【ムーンオーシャン宜野湾ホテル\u0026レジデンス】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "宜野湾マリーナを見下ろす場所にあり、177室の客室を備える大型リゾートホテル。ホテルの快適さをそのままに、「暮らすように過ごす」レジデンシャルスタイルを提案しています。キッチンがついた客室では自炊もできるので…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "南国の別邸へようこそ♪レジデンシャルスタイルでリゾートを満喫【ムーンオーシャン宜野湾ホテル\u0026レジデンス】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100141",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "沖縄県",
+    "name": "南国の別邸へようこそ♪レジデンシャルスタイルでリゾートを満喫【ムーンオーシャン宜野湾ホテル\u0026レジデンス】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

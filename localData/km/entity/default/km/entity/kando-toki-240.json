@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-240",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/240_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d34.813896%2C133.633845",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "岡山県",
+    "c_searchTags": [
+      "岡山県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "冬",
+      "建物・景観"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "岐阜県の岩村城、奈良県の高取城と並び、「日本三大山城」と称される備中松山城は、現存する天守を持つ山城としては日本一標高が高い、臥牛山（標高430m）の山頂にあります。東西の交通の要が交わり合う要所にあったこの城は、鎌倉時代に築城されて以降、めまぐるしくその城主を入れ替え、時代ごとに増改築を繰り返し、時には麓に拠点となる御殿を移されたりしながらも、逞しく生き延びてきました。標高が高い場所にあることから、気象条件が揃えば、雲海の中に浮かび上がる幻想的な城の風景を見ることができます。波瀾万丈の城の歴史に思いを馳せながら、「天空の城」を散策し、戦乱を駆け抜けた武将たちと同じ景色を振り仰げば、現在と過去が交錯する歴史のロマンを感じることができるでしょう。\n見所・お勧めポイント",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/240.asp",
+    "name": "雲海に浮かぶ天空の山城「備中松山城」"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

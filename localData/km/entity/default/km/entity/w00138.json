@@ -1,0 +1,14 @@
+{
+  "$id": "w00138",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_answer_HTML": "「数字全角」になっている場合があります。「半角」に変更をお願いします。また、一部ご利用機種の初期設定キーボードアプリをご利用の場合、入力ができない事象があることを確認しております。（arrows端末等の標準キーボードアプリ「ATOK」「Super ATOK ULTIAS」ご利用の場合）\u003cbr\u003e\u003cbr\u003e恐れ入りますが、以下の手順でキーボードを変更の上、再度お試しいただきますようお願いいたします。\u003cbr\u003e※手順\u003cbr\u003e「設定」→「システム」→「言語と入力」→「画面キーボード」→「＋画面キーボード管理」→「Gboard」を有効にする\u003cbr\u003e※キーボードの変更方法が上記と異なる場合がございます。異なる場合は、ご利用端末のお問い合わせ先にご確認をお願いいたします。",
+    "landingPageUrl": "https://customerhelp.jtb.co.jp/s/article/w00138",
+    "name": "【JTBアプリ】ログイン時にパスワードが入力できません。（IDは入力できるがパスワードが入力できない、キーボードが表示されない等）",
+    "question": "【JTBアプリ】ログイン時にパスワードが入力できません。（IDは入力できるがパスワードが入力できない、キーボードが表示されない等）"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,398 @@
+{
+  "$id": "ap_chiki_100137",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 熊本県担当 手島由樹子"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "エントランスを入ると、そこにはクラシックな趣のロビーが広がります。磨き上げられた漆黒の柱や床、窓ぎわにはモダンなインテリアが配され、さりげなく飾られた季節の花に癒されます。傍らには大きな薪ストーブや囲炉裏があり、冬は来客を暖かく迎えてくれます。",
+        "image": {
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/gwLo9wb0qC4cjPDfoFLgw2Eyt3JxEeL2He_0mLT13Cs/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/WV2NGUYtdWHyTclpE1-eDAFrwmA_aAolAGYb-6akg_8/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/WV2NGUYtdWHyTclpE1-eDAFrwmA_aAolAGYb-6akg_8/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/WV2NGUYtdWHyTclpE1-eDAFrwmA_aAolAGYb-6akg_8/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/WV2NGUYtdWHyTclpE1-eDAFrwmA_aAolAGYb-6akg_8/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WV2NGUYtdWHyTclpE1-eDAFrwmA_aAolAGYb-6akg_8/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ロビーの窓からも小庭の木々が見える",
+        "sectionTitle": "客室は間取りも風呂の形もさまざま"
+      },
+      {
+        "description": "客室はほどよい広さの10畳が基本で、さらにテーブルと椅子を備えた次の間付きや、ソファのあるリビングがあるタイプなど、広さや間取りが異なります。内風呂付きの客室は8室あり、石造りの湯船は小さいながらも風情があります。Dタイプの客室では部屋から階段を降り、庭を抜けると川のせせらぎを望む内風呂に到着。専用の内風呂から川のせせらぎや新緑の木々を望めるなんて、なんとも言えず贅沢だと思いませんか？",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/HVmmy3SuamWbdyoPqmXuGwoLOGd7hyAwaQxE6OOUTV8/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/FwLcvv0NGUxrbYZqDLqKdVfUEyKrWNAJkaWoMS20evQ/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/FwLcvv0NGUxrbYZqDLqKdVfUEyKrWNAJkaWoMS20evQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/FwLcvv0NGUxrbYZqDLqKdVfUEyKrWNAJkaWoMS20evQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/FwLcvv0NGUxrbYZqDLqKdVfUEyKrWNAJkaWoMS20evQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FwLcvv0NGUxrbYZqDLqKdVfUEyKrWNAJkaWoMS20evQ/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "渓谷や庭園を眺める客室全21室を備えている",
+        "sectionTitle": "渓流沿いの露天風呂で四季折々の自然を満喫"
+      },
+      {
+        "description": "宿のシンボルともいえるのが男性露天風呂「幽谷の湯」です。渓流沿いに造られた石風呂で、川のせせらぎや野鳥のさえずりを聞きながらリフレッシュできます。女性露天風呂の「森の湯」は深い木々に囲まれ、こちらからも渓流の流れを眺めながら自然との一体感を味わえます。どちらも秋には周囲の木々が美しく色づき、紅葉露天風呂が楽しめますよ。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/Ov4MY59xvjJXGgOoZcz9fg1Mvj3d5D3E8FwMn9AQkn4/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ov4MY59xvjJXGgOoZcz9fg1Mvj3d5D3E8FwMn9AQkn4/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ov4MY59xvjJXGgOoZcz9fg1Mvj3d5D3E8FwMn9AQkn4/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ov4MY59xvjJXGgOoZcz9fg1Mvj3d5D3E8FwMn9AQkn4/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ov4MY59xvjJXGgOoZcz9fg1Mvj3d5D3E8FwMn9AQkn4/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ov4MY59xvjJXGgOoZcz9fg1Mvj3d5D3E8FwMn9AQkn4/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "部屋付きの内風呂の一例。緑の木々に覆われてヒーリング",
+        "sectionTitle": "「裸の散歩道」を歩いて露天風呂と内湯をはしご"
+      },
+      {
+        "description": "敷地内には男女別の露天風呂のほか、内風呂、貸切風呂など9カ所の湯船が点在し、「裸の散歩道」と呼ばれるアプローチを歩いて湯めぐりを楽しむことができます。男性内風呂の「ますら男」は、「ひのき風呂」と「切り石風呂」の2つの湯船があり、「幽谷の湯」から直接つながっています。木造の湯小屋は露天風呂とは違った趣があり、窓越しの自然を眺めながらリフレッシュできます。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/VaNqMqkhK53yC_ugK4wFxvvsHhY7AH_Am6Vif1vew_M/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/iV46vL7Zv_tkq81IfSZnp10oJ9lpFxZSGAd5f3UkyvM/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/iV46vL7Zv_tkq81IfSZnp10oJ9lpFxZSGAd5f3UkyvM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/iV46vL7Zv_tkq81IfSZnp10oJ9lpFxZSGAd5f3UkyvM/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/iV46vL7Zv_tkq81IfSZnp10oJ9lpFxZSGAd5f3UkyvM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iV46vL7Zv_tkq81IfSZnp10oJ9lpFxZSGAd5f3UkyvM/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "湯船のすぐ横を渓流が流れる「幽谷の湯」",
+        "sectionTitle": "夕食は体にやさしい創作和風懐石料理を"
+      },
+      {
+        "description": "古民家のようなたたずまいの「風人の湯」は、女性専用の内風呂です。木のぬくもりにあふれ、天井が高く開放感があります。「森の湯」の近くにあるので裸のまま行き来が可能。また、源泉は90度を超える単純温泉〔低張性弱酸性高温泉〕で、さらりとした湯は肌にやさしく、保湿効果が高いので湯冷めしにくいそうですよ。好みの湯船をめぐり、たっぷり湯浴みを楽しんだら、風呂の手前にある茶房「井野家」に立ち寄りましょう。ドリンクや軽食、スイーツも楽しめますが、一番のおすすめは小国ジャージー牛乳を使った自家製プリン。濃厚なプリンとほろ苦いカラメルソース、上に乗ったソフトクリームとの相性が抜群です。",
+        "image": {
+          "height": 797,
+          "sourceUrl": "https://a.mktgcdn.com/p/zAn-BWq4ivL9n5L1psWO_R3rTy6Tpl595m0ii29nZB8/1200x797.jpg",
+          "thumbnails": [
+            {
+              "height": 797,
+              "url": "https://a.mktgcdn.com/p-sandbox/2AMErTriAyeIDFM7A-4fD4FjlnppIsU37vsan1xqhCA/1200x797.jpg",
+              "width": 1200
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/2AMErTriAyeIDFM7A-4fD4FjlnppIsU37vsan1xqhCA/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/2AMErTriAyeIDFM7A-4fD4FjlnppIsU37vsan1xqhCA/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/2AMErTriAyeIDFM7A-4fD4FjlnppIsU37vsan1xqhCA/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2AMErTriAyeIDFM7A-4fD4FjlnppIsU37vsan1xqhCA/1200x797.jpg",
+          "width": 1200
+        },
+        "imageCaption": "木々に覆われた「森の湯」では人目を気にせず入浴できる",
+        "sectionTitle": "入湯手形を使って温泉郷で露天風呂めぐりも楽しい"
+      },
+      {
+        "description": "お楽しみの夕食は宿泊者専用の半個室「花片片〔はなへんぺん〕」でいただきます。お料理は旬の素材を使った創作和風会席料理。清流で育った山女や、肥後牛、山菜など季節の山の幸をふんだんに取り入れ、体にやさしい滋味溢れる料理に仕立てています。器や盛り付けも美しく、箸をすすめるたびに体が喜んでいるような、満たされた気持ちになりますよ。",
+        "image": {
+          "height": 797,
+          "sourceUrl": "https://a.mktgcdn.com/p/psklfiXKsehUfVSD8X6MMsqMYxYG8idFSCZOfZrs5KQ/1200x797.jpg",
+          "thumbnails": [
+            {
+              "height": 797,
+              "url": "https://a.mktgcdn.com/p-sandbox/TCdb8ANh0tBnZijdBYwBICQkYQk2C3uEoTg-9QWllME/1200x797.jpg",
+              "width": 1200
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/TCdb8ANh0tBnZijdBYwBICQkYQk2C3uEoTg-9QWllME/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/TCdb8ANh0tBnZijdBYwBICQkYQk2C3uEoTg-9QWllME/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/TCdb8ANh0tBnZijdBYwBICQkYQk2C3uEoTg-9QWllME/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/TCdb8ANh0tBnZijdBYwBICQkYQk2C3uEoTg-9QWllME/1200x797.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ひのき風呂と切り石風呂の2つの湯船がある「ますら男」"
+      },
+      {
+        "description": "豊かな自然にあふれ、春は桜やツツジ、初夏の紫陽花、秋の紅葉など季節ごとにいろいろな草花を見ることができます。食事の後は敷地内にある散策路や階段を歩きながら、木々の彩りや小さな生き物を鑑賞しましょう。今まで気がつかなかった季節の訪れを感じることができます。",
+        "image": {
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/cyh-ZDPZ5OXzeikjkS372zEJiXFpjF7vU7DH-qOvMdo/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/ra0u8Uk70hLgZmYd1N7JQw9Keu05WQ1Jdui6n4Tyz4U/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/ra0u8Uk70hLgZmYd1N7JQw9Keu05WQ1Jdui6n4Tyz4U/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/ra0u8Uk70hLgZmYd1N7JQw9Keu05WQ1Jdui6n4Tyz4U/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/ra0u8Uk70hLgZmYd1N7JQw9Keu05WQ1Jdui6n4Tyz4U/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ra0u8Uk70hLgZmYd1N7JQw9Keu05WQ1Jdui6n4Tyz4U/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "窓から注ぐ自然光が心地よい「風人の湯」"
+      },
+      {
+        "description": "また、黒川温泉郷の宿や旅館組合で「入湯手形」1300円を購入すれば、温泉郷の旅館27カ所のなかから3カ所の温泉で入浴できます。また、3カ所のうち1つは飲食やおみやげに利用することも可能。チェックアウト後はかわいらしい入湯手形をたずさえて、違う宿の温泉やスイーツを探索するのもいいですね。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/L3WN7Fw9SxgEWLxQsGXJdjkHdiF39QlJI3g4dsaP2CI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/YvD7G9UasXmvfoaiMTPa_JDrqLX9du4gNIrZMMdBEjk/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/YvD7G9UasXmvfoaiMTPa_JDrqLX9du4gNIrZMMdBEjk/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/YvD7G9UasXmvfoaiMTPa_JDrqLX9du4gNIrZMMdBEjk/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/YvD7G9UasXmvfoaiMTPa_JDrqLX9du4gNIrZMMdBEjk/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YvD7G9UasXmvfoaiMTPa_JDrqLX9du4gNIrZMMdBEjk/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "旬の素材を使い季節感あふれる料理が供される"
+      },
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://a.mktgcdn.com/p/FVz0WBPFOovEndP9TWS7GNSm5RXefU-pot0u7EqtWoM/640x480.jpg",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/FVz0WBPFOovEndP9TWS7GNSm5RXefU-pot0u7EqtWoM/640x480.jpg",
+              "width": 640
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/FVz0WBPFOovEndP9TWS7GNSm5RXefU-pot0u7EqtWoM/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/FVz0WBPFOovEndP9TWS7GNSm5RXefU-pot0u7EqtWoM/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/FVz0WBPFOovEndP9TWS7GNSm5RXefU-pot0u7EqtWoM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FVz0WBPFOovEndP9TWS7GNSm5RXefU-pot0u7EqtWoM/640x480.jpg",
+          "width": 640
+        },
+        "imageCaption": "宿の散策路から見える澄み渡る青空と紅葉"
+      }
+    ],
+    "c_ap_DatePosted": "2023-05-31",
+    "c_ap_HeroImage": {
+      "height": 800,
+      "sourceUrl": "https://a.mktgcdn.com/p/8dqI1-aXJbvqFziQGVBUv8VugHFY10IEQbOeMjFa17E/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p-sandbox/QAHK1eKksyzQeu7gfmywU-gmnEiKAlKqvKqqVih1yWM/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/QAHK1eKksyzQeu7gfmywU-gmnEiKAlKqvKqqVih1yWM/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/QAHK1eKksyzQeu7gfmywU-gmnEiKAlKqvKqqVih1yWM/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/QAHK1eKksyzQeu7gfmywU-gmnEiKAlKqvKqqVih1yWM/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/QAHK1eKksyzQeu7gfmywU-gmnEiKAlKqvKqqVih1yWM/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkArticleSectionTitle": "熊本県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "熊本旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/kumamoto/"
+      },
+      {
+        "linkText": "熊本県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/kumamoto/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea6": [
+      "九州全般",
+      "熊本県"
+    ],
+    "c_ap_ShortDescription": "阿蘇外輪山の麓に広がる美しい里山の風景のなか、30軒の旅館が点在する黒川温泉郷。黒川温泉郷では30軒の宿と里山の風景を「一つの旅館」として考える「黒川温泉一旅館」というコンセプトのもと、緑豊かな景観づくりや入湯手形による露天風呂めぐりなど、さまざまなアイディアで温泉郷を盛り上げています。黒川温泉郷中心部からさらに田の原川上流、木々の緑のトンネルを抜けた先に今回ご紹介する「山みず木」があります。",
+    "c_ap_Tags": [
+      "黒川温泉",
+      "阿蘇山",
+      "露天風呂",
+      "温泉郷",
+      "創作和風会席料理"
+    ],
+    "c_ap_Theme": [
+      "夫婦旅",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "木々の緑と渓流のせせらぎに癒やされる山間の宿【山みず木】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "阿蘇外輪山の麓に広がる美しい里山の風景のなか、30軒の旅館が点在する黒川温泉郷。黒川温泉郷では30軒の宿と里山の風景を「一つの旅館」として考える「黒川温泉一旅館」というコンセプトのもと、緑豊かな景観づくりや入…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "木々の緑と渓流のせせらぎに癒やされる山間の宿【山みず木】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100137",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "九州全般, 熊本県",
+    "name": "木々の緑と渓流のせせらぎに癒やされる山間の宿【山みず木】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

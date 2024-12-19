@@ -1,0 +1,64 @@
+{
+  "$id": "cp_10242024",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "佐賀県",
+    "c_cp_CTA1": {
+      "label": "貴島 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVqVBDX",
+      "linkType": "OTHER"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVe9_Ky",
+      "linkType": "URL"
+    },
+    "c_cp_DisplayName": "貴島",
+    "c_cp_HiraganaName": "きじま",
+    "c_cp_JobTitle": "JTB佐賀ゆめタウン店 トラベルコンサルタント",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "alternateText": "スタッフポーズ_1",
+      "height": 778,
+      "sourceUrl": "https://a.mktgcdn.com/p/K69VeDMBDhFSSNSNeNrPaYciWtaqrtvGS2BA7q1wyuI/1298x778.png",
+      "thumbnails": [
+        {
+          "height": 778,
+          "url": "https://a.mktgcdn.com/p-sandbox/K69VeDMBDhFSSNSNeNrPaYciWtaqrtvGS2BA7q1wyuI/1298x778.png",
+          "width": 1298
+        },
+        {
+          "height": 371,
+          "url": "https://a.mktgcdn.com/p-sandbox/K69VeDMBDhFSSNSNeNrPaYciWtaqrtvGS2BA7q1wyuI/619x371.png",
+          "width": 619
+        },
+        {
+          "height": 360,
+          "url": "https://a.mktgcdn.com/p-sandbox/K69VeDMBDhFSSNSNeNrPaYciWtaqrtvGS2BA7q1wyuI/600x360.png",
+          "width": 600
+        },
+        {
+          "height": 117,
+          "url": "https://a.mktgcdn.com/p-sandbox/K69VeDMBDhFSSNSNeNrPaYciWtaqrtvGS2BA7q1wyuI/196x117.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/K69VeDMBDhFSSNSNeNrPaYciWtaqrtvGS2BA7q1wyuI/1298x778.png",
+      "width": 1298
+    },
+    "c_metaDescription": "JTBトラベルコンサルタント | 貴島",
+    "c_metaTitle": "JTBトラベルコンサルタント | 貴島",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_10242024",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10415_佐賀ゆめタウン店",
+    "name": "きじまみなみ_10242024",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

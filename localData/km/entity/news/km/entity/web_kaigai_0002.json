@@ -1,0 +1,502 @@
+{
+  "$id": "news_web_kaigai_0002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1272,
+      "sourceUrl": "https://a.mktgcdn.com/p/TzAlh5jAjXUApd9fCM1W19xNzmYdPIPP4enbHFeFO1I/1920x1272.jpg",
+      "thumbnails": [
+        {
+          "height": 1272,
+          "url": "https://a.mktgcdn.com/p-sandbox/JTx4IVk4Exhr42svTw9Qo_JVHcu-tdwYhc7vMbBLXyo/1920x1272.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1259,
+          "url": "https://a.mktgcdn.com/p-sandbox/JTx4IVk4Exhr42svTw9Qo_JVHcu-tdwYhc7vMbBLXyo/1900x1259.jpg",
+          "width": 1900
+        },
+        {
+          "height": 410,
+          "url": "https://a.mktgcdn.com/p-sandbox/JTx4IVk4Exhr42svTw9Qo_JVHcu-tdwYhc7vMbBLXyo/619x410.jpg",
+          "width": 619
+        },
+        {
+          "height": 398,
+          "url": "https://a.mktgcdn.com/p-sandbox/JTx4IVk4Exhr42svTw9Qo_JVHcu-tdwYhc7vMbBLXyo/600x398.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "https://a.mktgcdn.com/p-sandbox/JTx4IVk4Exhr42svTw9Qo_JVHcu-tdwYhc7vMbBLXyo/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/JTx4IVk4Exhr42svTw9Qo_JVHcu-tdwYhc7vMbBLXyo/1920x1272.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "台湾旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kaigai/area/taiwan/"
+      },
+      {
+        "linkText": "台湾行きのツアーをみる",
+        "uRL": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dept\u003dTYO\u0026sc.dest%5B0%5D.country\u003dTW\u0026sc.dest%5B0%5D.city\u003dTPE"
+      },
+      {
+        "linkText": "台湾の航空券を探す",
+        "uRL": "https://www.jtb.co.jp/ovs_air/"
+      },
+      {
+        "linkText": "台湾のホテルを探す",
+        "uRL": "https://www.jtb.co.jp/ovs_htl/search/search_result/05/176/?freeword\u003d%E5%8F%B0%E6%B9%BE\u0026sugItemTypeCd\u003d1\u0026sugItemId\u003d176"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "台湾旅行上級者必見！台北には、リピーターしか知らないような穴場観光名所がまだまだたくさんあります。独特なアートを楽しめる「寶藏巖國際藝術村」や工場跡地をリノベーションした「華山1914文創園区」など、ひと味違った穴場スポットを探しに行きましょう。",
+    "c_ap_Tags": [
+      "アジア旅行",
+      "インスタ映え",
+      "穴場",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "台北の【穴場観光スポット8選】 台湾の隠れた観光名所をご紹介！",
+    "c_linkedArea3News": [
+      "taiwan"
+    ],
+    "c_metaDescription": "台湾旅行上級者必見！台北には、リピーターしか知らないような穴場観光名所がまだまだたくさんあります。独特なアートを楽しめる「寶藏巖國際藝術村」や工場跡地をリノベーションした「華山1914文創園区」など、ひと味違った穴場スポットを探しに行きましょう。",
+    "c_metaTitle": "台北の【穴場観光スポット8選】 台湾の隠れた観光名所をご紹介！",
+    "c_news_CTAs": [
+      {
+        "label": "台湾旅行を探す",
+        "link": "https://www.jtb.co.jp/kaigai/area/taiwan/",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "台北のツアーを探す",
+          "link": "https://www.jtb.co.jp/ovs_dp/search/search_result_s/?sc.dept\u003dTYO\u0026sc.dest%5B0%5D.country\u003dTW\u0026sc.dest%5B0%5D.city\u003dTPE",
+          "linkType": "URL"
+        },
+        "description": "スタイリッシュなリノベーションスポットから若者が集うファッションタウンまで、地元のおしゃれさんたちが集まる穴場スポットを厳選してご紹介します。",
+        "image": {
+          "height": 263,
+          "sourceUrl": "https://a.mktgcdn.com/p/iO7aDw_yMPQQqZdxWWaJZN5saoCpJPsC-29HY1ZMQko/394x263.jpg",
+          "thumbnails": [
+            {
+              "height": 263,
+              "url": "https://a.mktgcdn.com/p-sandbox/oHtkuVhWSJu8c33Z-q6hZMUF2_MVdsGGG6b5B38uG18/394x263.jpg",
+              "width": 394
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/oHtkuVhWSJu8c33Z-q6hZMUF2_MVdsGGG6b5B38uG18/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oHtkuVhWSJu8c33Z-q6hZMUF2_MVdsGGG6b5B38uG18/394x263.jpg",
+          "width": 394
+        },
+        "imageCaption": "写真提供：誠品生活松菸店",
+        "infoBlockLabel": "寶藏巖國際藝術村の基本情報",
+        "infoBlockText": "アクセス：MRT「公館」駅徒歩15分住所：台北市中正區汀州路三段230巷14弄2號営業時間：11:00～22:00 展示スペースは18:00まで休業日：月曜日料金：入場無料",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．台北の穴場スポット8選"
+      },
+      {
+        "cTA1": {
+          "label": "台湾の記事一覧はこちら",
+          "link": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan",
+          "linkType": "URL"
+        },
+        "description": "「寶藏巖國際藝術村（Treasure Hill Artist Village/バオザンイェングォジーイーシューツン）」が生まれたのは、取り壊し寸前だった古寺・寶藏巖（バオザンイェン）の救済がきっかけでした。有志の働きかけによって寶藏巖が台北市の指定古跡に認定され、寺の周辺集落は国際的な芸術の村、文化の創造拠点として生まれ変わりました。寶藏巖の周辺は、1960年代から70年代に建てられた住宅ばかりの集落。山肌に張り付くように増えて折り重なって見える建物群は、計算では生まれない、少し奇妙な光景です。台北市内にありながら芝生や河を見渡せる場所もあり、寶藏巖國際藝術村全体が想像力をかきたてるアートそのもののようです。最寄りは、台湾大学にも近いMRT「公館」駅。台北で最もアカデミックな街ともいわれる寶藏巖國際藝術村は世界中のアーティストが静かな情熱を燃やす制作やワークショップ、展示やコミュニケーションの場として根付いています。見学や散策ができるオープンなエリアのほかにプライベートなエリアもあるので、訪ねる際には注意しましょう。",
+        "image": {
+          "height": 951,
+          "sourceUrl": "https://a.mktgcdn.com/p/-3U2pZJ-kpl94mduRz6QcPjuwuGVbSgFVfok7lHLHu0/1426x951.jpg",
+          "thumbnails": [
+            {
+              "height": 951,
+              "url": "https://a.mktgcdn.com/p-sandbox/ErpbciwJppGbatoSBBf-gsVEZZlGG4H92aTZl1iQUV8/1426x951.jpg",
+              "width": 1426
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/ErpbciwJppGbatoSBBf-gsVEZZlGG4H92aTZl1iQUV8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/ErpbciwJppGbatoSBBf-gsVEZZlGG4H92aTZl1iQUV8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/ErpbciwJppGbatoSBBf-gsVEZZlGG4H92aTZl1iQUV8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ErpbciwJppGbatoSBBf-gsVEZZlGG4H92aTZl1iQUV8/1426x951.jpg",
+          "width": 1426
+        },
+        "imageCaption": "写真提供：臺北市政府觀光傳播局",
+        "infoBlockLabel": "華山1914文創園區の基本情報",
+        "infoBlockText": "アクセス：MRT「忠孝新生」駅徒歩３分、MRT「善導寺」駅徒歩5分住所：台北市中正區八德路一段1號TEL：02-2358-1914営業時間：店舗により異なる（園内は24時間開放）休業日：店舗により異なる料金：入場無料",
+        "sectionLevel": "h3",
+        "sectionTitle": "寶藏巖國際藝術村　"
+      },
+      {
+        "description": "「華山1914文創園區（ファシャンイージゥイースーウェンチュェンユェンチュー）」は、工場跡地をリノベーションした台湾アート＆カルチャーの発信拠点です。園内には芸術イベント空間や映画館、ライブハウス、カフェやレストランなどのほか、広々とした芝生のスペースもあり、1日中楽しめるエリアとなっています。出店しているショップは、いずれも台湾のトレンドをリードする存在なので、ハイセンスなおみやげ探しにぴったりです。華山1914文創園區の前身は、1914年日本統治時代に建てられた酒造工場です。長い間放置されていた工場跡地を、台湾の若い才能を育て発信する文創プラットフォームとしておしゃれに再開発。台湾の「文青系」とよばれる、文学やアート、自分らしさと個性を大切にする若い世代の支持を集めています。レンガの壁にからまるアイビーは季節ごとに葉の色を変え、SNS映えスポットとしても大人気です。台北の中心にありながら、廊下や階段にもノスタルジックな風情が残る迷路のような工場跡地で、自分だけのお気に入りの場所を探してみましょう。",
+        "image": {
+          "height": 628,
+          "sourceUrl": "https://a.mktgcdn.com/p/h3EOe_kvsOYXU5q-H0zai0NUX5_rpXnKV4Uyi_ryUqE/1200x628.jpg",
+          "thumbnails": [
+            {
+              "height": 628,
+              "url": "https://a.mktgcdn.com/p-sandbox/AcevmAOS6NObMOIPG5hTPKlQORet1bFUw9mvxeLEm9Y/1200x628.jpg",
+              "width": 1200
+            },
+            {
+              "height": 324,
+              "url": "https://a.mktgcdn.com/p-sandbox/AcevmAOS6NObMOIPG5hTPKlQORet1bFUw9mvxeLEm9Y/619x324.jpg",
+              "width": 619
+            },
+            {
+              "height": 314,
+              "url": "https://a.mktgcdn.com/p-sandbox/AcevmAOS6NObMOIPG5hTPKlQORet1bFUw9mvxeLEm9Y/600x314.jpg",
+              "width": 600
+            },
+            {
+              "height": 103,
+              "url": "https://a.mktgcdn.com/p-sandbox/AcevmAOS6NObMOIPG5hTPKlQORet1bFUw9mvxeLEm9Y/196x103.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AcevmAOS6NObMOIPG5hTPKlQORet1bFUw9mvxeLEm9Y/1200x628.jpg",
+          "width": 1200
+        },
+        "imageCaption": "写真提供：臺北市電影主題公園",
+        "infoBlockLabel": "誠品生活松菸店の基本情報",
+        "infoBlockText": "アクセス：MRT「國父紀念館」駅徒歩10分住所：台北市信義區菸廠路88號TEL：02-6636-5888営業時間：11:00～22:00休業日：なし",
+        "sectionLevel": "h3",
+        "sectionTitle": "華山1914文創園區　"
+      },
+      {
+        "description": "「誠品生活松菸店（チェンピンシャンフォーソンインディエン）」は、台湾の文化とトレンドの発信拠点「誠品書店」の本体が運営する複合商業施設です。1937年に建てられたタバコ工場の跡地をリノベーションしたカルチャースポット「松山文創園區（ソンシャンウェンチュァンユェンチュー）」（後述）に隣接した場所に、2013年にオープンしました。「誠品生活松菸店」の大きな特徴は、台湾から発信するクリエイティブのプラットフォームとしての存在感。地下２階は台湾グルメやスイーツ、カフェなどが集まり、気軽に立ち寄れるレストラン街です。大人の落ち着いた客層が主流なので、静かなブランチやティータイムにおすすめです。１階から３階のテナントには、台湾中から集められたハンドメイドクラフトやクリエイティブブランドが200種類以上そろい、台湾ならではのおしゃれなプレゼントや、おみやげ探しにもうってつけです。直結している「誠品書店」にもぜひ訪れて、台湾のトレンドカルチャーを感じてみましょう。",
+        "image": {
+          "height": 1023,
+          "sourceUrl": "https://a.mktgcdn.com/p/OLJtkOz401i5gJZ8kY-8OHm0qSiCdH70BA06Qt5OH-c/1536x1023.jpg",
+          "thumbnails": [
+            {
+              "height": 1023,
+              "url": "https://a.mktgcdn.com/p-sandbox/OLJtkOz401i5gJZ8kY-8OHm0qSiCdH70BA06Qt5OH-c/1536x1023.jpg",
+              "width": 1536
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/OLJtkOz401i5gJZ8kY-8OHm0qSiCdH70BA06Qt5OH-c/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/OLJtkOz401i5gJZ8kY-8OHm0qSiCdH70BA06Qt5OH-c/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/OLJtkOz401i5gJZ8kY-8OHm0qSiCdH70BA06Qt5OH-c/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OLJtkOz401i5gJZ8kY-8OHm0qSiCdH70BA06Qt5OH-c/1536x1023.jpg",
+          "width": 1536
+        },
+        "imageCaption": "写真提供：台湾観光局",
+        "infoBlockLabel": "松山文創園區の基本情報",
+        "infoBlockText": "アクセス：MRT「國父紀念館」駅徒歩10分住所：台北市信義區光復南路133號TEL：02- 2765-1388営業時間：8:00～22:00休業日：なし料金：入場無料",
+        "sectionLevel": "h3",
+        "sectionTitle": "誠品生活松菸店　"
+      },
+      {
+        "description": "「松山文創園區（ソンシャンウェンチュァンユェンチュー）」は、1937年に建てられたかつての台湾専売松山タバコ工場の跡地につくられたカルチャースポットです。敷地内に残る日本統治時代のモダニズムを象徴する工場は、2001年には台北市の史跡に指定されました。台湾創意デザインセンターの「台湾デザイン館」もあり、台湾の芸術・デザインの発信拠点となっています。そんな松山文創園區のもうひとつの楽しみ方は、緑の濃いバロック庭園や池のほとりの散策です。6.6ヘクタールの広大なエリアからは、誠品生活松菸店のスタイリッシュな建物、台北101も近くに見えます。近隣のオフィスから散歩に訪れる人たちのように、歴史建築のもつ静けさと南国の木々の濃い影が作る都会のオアシスで、気分転換を楽しみましょう。",
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://a.mktgcdn.com/p/SU58ZLbK-iTTXAUmGxAfJk91vdJLV5OyndFEbN8XZ8E/1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/NIP4LNvq_-ZB0--jJzY0ODY8XJI5Fry7q3i1oHYBDiI/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/NIP4LNvq_-ZB0--jJzY0ODY8XJI5Fry7q3i1oHYBDiI/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/NIP4LNvq_-ZB0--jJzY0ODY8XJI5Fry7q3i1oHYBDiI/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/NIP4LNvq_-ZB0--jJzY0ODY8XJI5Fry7q3i1oHYBDiI/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NIP4LNvq_-ZB0--jJzY0ODY8XJI5Fry7q3i1oHYBDiI/1024x683.jpg",
+          "width": 1024
+        },
+        "infoBlockLabel": "四四南村の基本情報",
+        "infoBlockText": "アクセス：MRT「台北101／世貿」駅徒歩3分住所：台北市信義區松勤街50號TEL：02-2723-7937営業時間：店舗により異なる休業日：店舗により異なる料金：入場無料",
+        "sectionLevel": "h3",
+        "sectionTitle": "松山文創園區　"
+      },
+      {
+        "description": "「四四南村（スースーナンツン）」は、台北101からほど近い、古い集合住宅の長屋をキュートにリノベーションしたスポットです。ここはかつて、中国から台湾に渡った軍人やその家族が暮らした眷村（ジュェンツン）と呼ばれる集落でした。再開発後はレストランやカフェ、雑貨店などが常設されているほか、週末にはフリーマーケット「Simple Market」も開催されています。台北101をはじめ、デパートや映画館、レストランがひしめき、政府機関や大型展示場、一流ホテルなども集中する台北最先端・信義エリアのなかで、四四南村は時が止まった絵本の中の世界のような空間。レトロな雰囲気を残す長屋の背後に近代的な台北101がそびえる風景は、古きよきものを大切にしながら進化しつづける台北の街を象徴するかのようです。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/fyZmFK6cLjXQlm9dwxFa6fX19fNKHOysMdV_nwvKraA/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/fyZmFK6cLjXQlm9dwxFa6fX19fNKHOysMdV_nwvKraA/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/fyZmFK6cLjXQlm9dwxFa6fX19fNKHOysMdV_nwvKraA/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/fyZmFK6cLjXQlm9dwxFa6fX19fNKHOysMdV_nwvKraA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/fyZmFK6cLjXQlm9dwxFa6fX19fNKHOysMdV_nwvKraA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fyZmFK6cLjXQlm9dwxFa6fX19fNKHOysMdV_nwvKraA/1536x1152.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "臺北市電影主題公園の基本情報",
+        "infoBlockText": "アクセス：MRT「西門」駅徒歩10分住所：台北市萬華區康定路19號TEL：02-2312-3717営業時間：24時間開放料金：入場無料",
+        "sectionLevel": "h3",
+        "sectionTitle": "四四南村　"
+      },
+      {
+        "description": "台北の若者が集う西門町に位置する「臺北市電影主題公園（タイペイシーディエンイェンジューティーゴンユェン）」は、MRT「西門」駅からにぎやかな街を抜け、映画館がずらりと並ぶ武昌街の近くにあります。臺北市電影主題公園はその名の通り、映画をテーマにした公園です。ここは日本統治時代の1934年に、「台灣瓦斯株式會社（台湾ガス株式会社）」が設立された場所。2000年に緑地化され、西門町最大の公園に生まれ変わりました。かつてのガス会社の煙突や施設などが生かされるなかで、映画カルチャーやアート、若い世代のコミュニティーの熱気が感じられる場所です。臺北市電影主題公園の藝術廣場（イースーグァンチャン）では、「月光電影院（ユェグァンディンイェンユェン）」による屋外映画上映も不定期に行われています。台湾の人々にとって、映画館は日常的なエンターテインメントを楽しむ場所として身近な存在です。映画カルチャーと昔ながらの老舗が混在する西門町ならではの雰囲気を体感してみましょう。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/b_ZiqfSc-RYQEeP-q-Rebys7wNwgynVKIjryp2nBz8w/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/b_ZiqfSc-RYQEeP-q-Rebys7wNwgynVKIjryp2nBz8w/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/b_ZiqfSc-RYQEeP-q-Rebys7wNwgynVKIjryp2nBz8w/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/b_ZiqfSc-RYQEeP-q-Rebys7wNwgynVKIjryp2nBz8w/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/b_ZiqfSc-RYQEeP-q-Rebys7wNwgynVKIjryp2nBz8w/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/b_ZiqfSc-RYQEeP-q-Rebys7wNwgynVKIjryp2nBz8w/1536x1024.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "五分埔商圏の基本情報",
+        "infoBlockText": "アクセス：MRT・台湾鉄路「松山」駅徒歩5分住所：台北市信義區永吉路443巷9弄TEL：02-2720-8889（台北市政府観光局）営業時間：13:30~23:00ごろ（店舗により異なる）休業日：店舗により異なる",
+        "sectionLevel": "h3",
+        "sectionTitle": "臺北市電影主題公園　"
+      },
+      {
+        "description": "手ごろな商品がそろうファッション問屋街「五分埔商圏（ウーフェンプーシャンチュエン）」は、松山路、中坡北路、永吉路に囲まれたエリアにひしめく約1,000軒のショップで構成され、そのボリュームに圧倒されてしまいます。どんなふうに歩けばいいのか戸惑ってしまうときは、エリア内に表示される通りの標識を目安にしましょう。レディースは第一街と第七街、メンズは第三街、スポーツ系やユニセックスは第五街を中心に展開しています。台湾の服飾関係者も買い付けに訪れる五分埔商圏には、試着を不可としている店舗もあります。また、ほとんどの店舗がクレジットカード利用不可。膨大な洋服の数にテンションがあがり予定以上に買い込んでしまうかもしれないので、現金の用意をお忘れなく。",
+        "image": {
+          "height": 1026,
+          "sourceUrl": "https://a.mktgcdn.com/p/S5X8dyBo5y0smUGvDK4MnBrnuYsliYiYHf6JDNilroM/1536x1026.jpg",
+          "thumbnails": [
+            {
+              "height": 1026,
+              "url": "https://a.mktgcdn.com/p-sandbox/S5X8dyBo5y0smUGvDK4MnBrnuYsliYiYHf6JDNilroM/1536x1026.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/S5X8dyBo5y0smUGvDK4MnBrnuYsliYiYHf6JDNilroM/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p-sandbox/S5X8dyBo5y0smUGvDK4MnBrnuYsliYiYHf6JDNilroM/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/S5X8dyBo5y0smUGvDK4MnBrnuYsliYiYHf6JDNilroM/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/S5X8dyBo5y0smUGvDK4MnBrnuYsliYiYHf6JDNilroM/1536x1026.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "四平陽光商圈の基本情報",
+        "infoBlockText": "アクセス：MRT「松江南京」駅徒歩3分住所：台北市中山區四平街TEL：02-2501-8531営業時間：10:00～20:00（店舗により異なる）休業日：店舗により異なる",
+        "sectionLevel": "h3",
+        "sectionTitle": "五分埔商圏　"
+      },
+      {
+        "description": "大型オフィスビルが立ち並ぶ南京東路二段から少し裏手に入ると、台北らしいにぎやかな商店街「四平陽光商圈（スーピンヤングァンシャンチュェン）」の入り口が見えてきます。台湾日用品探しにおすすめの楽しいエリアです。「女性の好きなもの専門街」ともよばれ、ファッション、アクセサリー、靴やバッグ、下着や家庭用品など、手ごろな商品がそろっています。牛肉麺や豚足などの人気の台湾Ｂ級グルメ店も多くMRT「松江南京」駅からすぐ近くとアクセスも抜群の四平陽光商圈は、お昼時や放課後、仕事終わりの時間帯には地元台湾の老若男女や海外からの観光客でごった返してとてもにぎやかです。アーケードに並んでひらめく小さな旗も、カラフルでフォトジェニック！　四平陽光商圈で必見のフラッグアートです。",
+        "image": {
+          "height": 567,
+          "sourceUrl": "https://a.mktgcdn.com/p/J469KY8TgwyDTUEkVZr4XD7LJB1h56tE7rqc06yYkdI/852x567.jpg",
+          "thumbnails": [
+            {
+              "height": 567,
+              "url": "https://a.mktgcdn.com/p-sandbox/hFnfj62P9l0P78En7dUAaaS7uIhzCMwwEWzH_FDntwQ/852x567.jpg",
+              "width": 852
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/hFnfj62P9l0P78En7dUAaaS7uIhzCMwwEWzH_FDntwQ/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/hFnfj62P9l0P78En7dUAaaS7uIhzCMwwEWzH_FDntwQ/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/hFnfj62P9l0P78En7dUAaaS7uIhzCMwwEWzH_FDntwQ/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hFnfj62P9l0P78En7dUAaaS7uIhzCMwwEWzH_FDntwQ/852x567.jpg",
+          "width": 852
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "四平陽光商圈　"
+      },
+      {
+        "description": "台北と近郊の穴場スポットへ出かけるには、公共の交通機関がとても便利です。それぞれの特徴と利用のコツをつかんでおきましょう。",
+        "image": {
+          "height": 589,
+          "sourceUrl": "https://a.mktgcdn.com/p/mp2ZRHpR0F2Ba81MC3d4F6T4qUc-IP2Noyz2MuTHJJI/885x589.jpg",
+          "thumbnails": [
+            {
+              "height": 589,
+              "url": "https://a.mktgcdn.com/p-sandbox/DJA7JLFgw5MEcYpWwEPuL11Z3p73gNxeZwufcU5X8OQ/885x589.jpg",
+              "width": 885
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/DJA7JLFgw5MEcYpWwEPuL11Z3p73gNxeZwufcU5X8OQ/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/DJA7JLFgw5MEcYpWwEPuL11Z3p73gNxeZwufcU5X8OQ/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/DJA7JLFgw5MEcYpWwEPuL11Z3p73gNxeZwufcU5X8OQ/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DJA7JLFgw5MEcYpWwEPuL11Z3p73gNxeZwufcU5X8OQ/885x589.jpg",
+          "width": 885
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "2．穴場スポットへの交通手段"
+      },
+      {
+        "description": "各エリアに乗り入れているMRT（地下鉄）は、初乗り20台湾元。6:00～24:00ごろまで運行しています。ほとんどの穴場スポットが地下鉄駅から徒歩圏内なので、どんどん利用しましょう。乗車にはICカード「悠遊卡（ヨウヨウカー）」か、販売機で購入できるコイン状の乗車券を使います。悠遊卡は地下鉄やバス、台湾鉄路のほか、コンビニでもチャージや買い物ができるので、用意しておくと便利で安心です。車内では飲食厳禁、違反者は罰金が科せられるので注意しましょう。",
+        "image": {
+          "height": 519,
+          "sourceUrl": "https://a.mktgcdn.com/p/QZXrS_PxdjM9EIknqAVeo9K2Bn9-jqrFKMYEkbGluU0/778x519.jpg",
+          "thumbnails": [
+            {
+              "height": 519,
+              "url": "https://a.mktgcdn.com/p-sandbox/mk47azRo6KQU-3vi6MRs59GJFF5YGaoLc-ckyj3-tXQ/778x519.jpg",
+              "width": 778
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/mk47azRo6KQU-3vi6MRs59GJFF5YGaoLc-ckyj3-tXQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/mk47azRo6KQU-3vi6MRs59GJFF5YGaoLc-ckyj3-tXQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/mk47azRo6KQU-3vi6MRs59GJFF5YGaoLc-ckyj3-tXQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/mk47azRo6KQU-3vi6MRs59GJFF5YGaoLc-ckyj3-tXQ/778x519.jpg",
+          "width": 778
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "MRT（地下鉄）"
+      },
+      {
+        "description": "台北市内を網羅する路線バスも、使いこなせるようになると便利です。区間内ならどこまで乗っても15台湾元、地下鉄よりもリーズナブルで、街の様子を眺められるのも魅力です。台湾のバスはほとんど時刻表がなく、運行間隔が表示されています。バス停の到着時間表示ボードや路線の状況をチェックできるQRコードと、「台北等公車」などのバスアプリとあわせて確認しましょう。バスに乗ったら、急発進や急停車も多いので、つり革などにしっかりつかまるなど転倒防止対策を。混雑時に荷物などで両手がふさがっていたら、利用は避けるのが無難です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "バス"
+      },
+      {
+        "description": "台北市内では、早朝から深夜まで流しのタクシーを探すことができます。初乗りは1.25kmまで85台湾元、その後200mごと、もしくは時速5km以下で60秒ごとに5台湾元加算となります。日本のタクシーと比べて運賃がリーズナブルなので、旅行中も気軽に利用できます。乗車の際には行先名称と住所を中国語で書いたメモや、スマホ表示で運転手に伝えましょう。故意ではなくうっかりメーターを倒し忘れてしまう運転手もいるので、発車したらメーターチェックも忘れずに。治安のよい台湾ですが、流しのタクシーのなかには車体が古く、汚れているものもあります。不安なときは断り、別の車を待っても問題ありません。ホテルで呼んでもらうか、配車アプリなども利用しましょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "タクシー"
+      },
+      {
+        "description": "台北の穴場スポットの多くは、台北の人々の日常生活に根付いたエリアです。「寶藏巖國際藝術村」や「四四南村」は歴史ある場所や建物の保存に民間と自治体が力を合わせ、現代の台湾カルチャー発信拠点に生まれ変わらせたリノベーションスポットです。「華山1914文創園區」や「誠品生活松菸店」は、台湾のユースカルチャーを育てるプラットフォームだといえるでしょう。「五分埔商圏」と「四平陽光商圏」では、地元の人々の日常に触れることができます。「松山文創園區」や「台北電影主題公園」は、日本統治時代の建物がアートや文化の発信地。どの場所も、台湾の歴史を受け継ぎ、未来へ生かす力を秘めた、台北の人々のパワーが集まるスポットです。台北の穴場スポットはアクセスのしやすい場所に点在し、公共の交通機関や徒歩で気軽に出かけられるアクティビティです。台北の定番スポットから一歩足を踏み入れて、台湾の歴史や日常の暮らしを感じてみましょう。※2024年2月時点の情報です。内容は変更になることがあります。※1台湾元＝ 約4.75円（2024年2月末現在）※渡航制限等により航空便のスケジュールが変更となる場合がございます。最新のフライト情報をご確認ください。",
+        "sectionLevel": "h2",
+        "sectionTitle": "3．まとめ"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_web_kaigai_0003"
+    ],
+    "c_news_FeaturedArticlesTitle": "あわせて読みたい おすすめ記事",
+    "c_news_PublicationDate": "2020-10-06",
+    "c_news_UpdateDate": "2024-06-28",
+    "c_news_ViewCount": "9828",
+    "c_news_ViewCount2of2": "9828",
+    "c_news_ViewCountNum": "9828",
+    "c_news_ViewCountNumForSorting": "480",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kaigai/asia/taiwan/news_web_kaigai_0002",
+    "c_relatedAreas": [
+      "taiwan"
+    ],
+    "name": "台北の【穴場観光スポット8選】 台湾の隠れた観光名所をご紹介！",
+    "slug": "kaigai/asia/taiwan/news_web_kaigai_0002",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

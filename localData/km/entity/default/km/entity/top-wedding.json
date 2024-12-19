@@ -1,0 +1,647 @@
+{
+  "$id": "top-wedding",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Hero-imageCaption {\ntext-shadow: 0 0 10px #010101;\n}\n\n/* バックグラウンドカラーを濃いめに */\n.Consultants-wrapper {\n    background-color: #f5f6f7;\n}\n.Locator-wrapper {\n    background-color: #f5f6f7;\n}\n.Teaser--article.Teaser--articleTop {\n    background-color: #f5f6f7;\n}\n.InfoItem {\n    background-color: #f5f6f7;\n}\n\n/* サブタイトルのラップ */\n.Consultants-subtitle {\nwhite-space: pre-wrap;\n}\n.Locator-subtitle {\nwhite-space: pre-wrap;\n}\n.Info-subtitle {\nwhite-space: pre-wrap;\n}\n\n\n/* Information セクションの画像をオリジナルのままの比率で表示 */\n.InfoItem-image {\n    height: unset;\n}\n\n/* アコーディオンタイトルのセンタリング */\n.FAQ-questionText {\n margin: auto;\nfont-size: 1.1rem;\n}\n\n/* FAQ のリンクの色 */\n.Consultants .FAQ--ace .FAQ-answerText a {\ncolor: #3498db;\n\n}\n\n/* スムーススクロール */\nhtml { \nscroll-behavior: smooth;\n}\n\n/* locator を hidden */\n#locator {\ndisplay: none;\n}",
+    "c_activeOnTops": true,
+    "c_cSSMobile": "/* 現在地が折り返さないように */\na.Locator-button.Locator-geolocate {\n  width: 6rem;\n}\n\n\n/* locator を hidden */\n#locator {\ndisplay: none;\n}",
+    "c_metaDescription": "「JTBウエディングプラザ リモート相談・予約専門デスク」は、ウエディング・ハネムーンに関するオンラインでのご相談・申込の専門店です。知識豊富なスタッフがご希望のウエディングをご提案します。",
+    "c_metaTitle": "JTB | ウエディングプラザ | オンライン相談専門デスク | ウエディング | ハネムーン | コンサルタント | リモート | ジェイティービー |",
+    "c_pagesURL": "https://consultants.jtb.co.jp/top-wedding",
+    "c_topBreadcrumb": {
+      "label": "ウエディング店舗＆リモート相談・予約",
+      "link": "top-wedding",
+      "linkType": "OTHER"
+    },
+    "c_topTemplate": "STANDARD",
+    "c_top_AnchorLinks": [
+      {
+        "label": "コンサルタントを選ぶ",
+        "link": "#consultants",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "お店に行く・相談する",
+        "link": "#locator",
+        "linkType": "OTHER"
+      },
+      {
+        "label": "キャンペーン情報",
+        "link": "#info2",
+        "linkType": "OTHER"
+      },
+      {
+        "link": "#info",
+        "linkType": "OTHER"
+      }
+    ],
+    "c_top_ArticlesSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e",
+    "c_top_BannerBackgroundColor": "#ff0000",
+    "c_top_Consultants": [
+      "cp_t_yamazaki051",
+      "cp_21169089",
+      "cp_k_inaba506",
+      "cp_y_aiba338",
+      "cp_m_miyazaki535",
+      "cp_a_okada029",
+      "cp_m_endo515",
+      "cp_21062150",
+      "cp_21151028",
+      "cp_y_tsukahara593",
+      "cp_15085053"
+    ],
+    "c_top_ConsultantsButton1": {
+      "label": "ウエディングコンサルタント一覧",
+      "link": "/wedding",
+      "linkType": "OTHER"
+    },
+    "c_top_ConsultantsButton2": {
+      "label": "指名なしで相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf-",
+      "linkType": "URL"
+    },
+    "c_top_ConsultantsPullDownLabel": "リモート相談・予約について",
+    "c_top_ConsultantsPullDownText": "●本ページ掲載のスタッフはリモート相談・予約の専門店「[JTBウエディングプラザ・リモート相談・予約専門デスク](https://stores.jtb.co.jp/wed\\-0001)」のトラベルコンサルタントです。  \n●営業時間や定休日は上記「JTBウエディングプラザ リモート相談・予約専門デスク」のリンク先よりご確認ください。  \n●当店はJTBウエディングプラザ銀座本店・新宿本店・大阪本店の3店舗で運営をしています。  \n●オンライン相談の流れや事前の確認事項は[こちら](https://stores.jtb.co.jp/wed\\-0001#flow)をご確認ください。",
+    "c_top_ConsultantsSectionHTML": "\u003cscript\u003e\nwindow.addEventListener(\u0027load\u0027, function() {\n  atags \u003d document.querySelectorAll(\u0027.FAQ-answerText a[href^\u003d\"https:\"]\u0027);\n  atags.forEach(function(atag){atag.setAttribute(\u0027target\u0027, \u0027_blank\u0027);});\n});\n\u003c/script\u003e",
+    "c_top_ConsultantsSectionSubTitle": "オンラインでのリモート相談を通し、ご希望に叶うウエディングをご提案します。\nコンサルタントを選び相談予約をお願いします。指名なしでの相談も可能です。\n※コンサルタントの詳細は名前または写真をクリック（タップ）してください",
+    "c_top_ConsultantsSectionTitle": "ウエディングコンサルタントのご紹介",
+    "c_top_HeroImage": {
+      "height": 460,
+      "sourceUrl": "https://a.mktgcdn.com/p/-u6H4yO81O44hyrVYi9F8rTcC-or_HCGXENR6vVvQcQ/1540x460.jpg",
+      "thumbnails": [
+        {
+          "height": 460,
+          "url": "https://a.mktgcdn.com/p-sandbox/-u6H4yO81O44hyrVYi9F8rTcC-or_HCGXENR6vVvQcQ/1540x460.jpg",
+          "width": 1540
+        },
+        {
+          "height": 185,
+          "url": "https://a.mktgcdn.com/p-sandbox/-u6H4yO81O44hyrVYi9F8rTcC-or_HCGXENR6vVvQcQ/619x185.jpg",
+          "width": 619
+        },
+        {
+          "height": 179,
+          "url": "https://a.mktgcdn.com/p-sandbox/-u6H4yO81O44hyrVYi9F8rTcC-or_HCGXENR6vVvQcQ/600x179.jpg",
+          "width": 600
+        },
+        {
+          "height": 59,
+          "url": "https://a.mktgcdn.com/p-sandbox/-u6H4yO81O44hyrVYi9F8rTcC-or_HCGXENR6vVvQcQ/196x59.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/-u6H4yO81O44hyrVYi9F8rTcC-or_HCGXENR6vVvQcQ/1540x460.jpg",
+      "width": 1540
+    },
+    "c_top_HeroImageMobile": {
+      "alternateText": "JTBウエディングプラザ リモート相談・予約専門デスク",
+      "height": 615,
+      "sourceUrl": "https://a.mktgcdn.com/p/mAxTcxLM1L8Y0SEcfe3hGJJNVxVLPsE-LYMpRchaKJQ/395x615.jpg",
+      "thumbnails": [
+        {
+          "height": 615,
+          "url": "https://a.mktgcdn.com/p-sandbox/mAxTcxLM1L8Y0SEcfe3hGJJNVxVLPsE-LYMpRchaKJQ/395x615.jpg",
+          "width": 395
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/mAxTcxLM1L8Y0SEcfe3hGJJNVxVLPsE-LYMpRchaKJQ/289x450.jpg",
+          "width": 289
+        },
+        {
+          "height": 305,
+          "url": "https://a.mktgcdn.com/p-sandbox/mAxTcxLM1L8Y0SEcfe3hGJJNVxVLPsE-LYMpRchaKJQ/196x305.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/mAxTcxLM1L8Y0SEcfe3hGJJNVxVLPsE-LYMpRchaKJQ/395x615.jpg",
+      "width": 395
+    },
+    "c_top_Info": [
+      {
+        "cTA1": {
+          "label": "特集ページはこちら♪",
+          "link": "https://www.jtb.co.jp/wed/coupon/",
+          "linkType": "OTHER"
+        },
+        "category": "CAMPAIGN",
+        "description": "早めの申し込みがお得♡組数限定で、最大50,000円引きクーポンを配布中。予約期間：2024年4月5日（金）～9月30日（月）挙式期間：2024年9月5日（木）～2025年3月31日（月）≪150日前予約・海外挙式先着200組限定≫旅行代金50万円以上ご利用で50,000円引きクーポン対象方面：海外全方面対象商品：①ルックJTBMySTYLE（旅と挙式）②JTBで取り扱いする挙式商品またはウエディングフォト商品＋募集型企画旅行商品詳細は特集ページでチェック！",
+        "image": {
+          "alternateText": "先着順！ウエディングで使えるクーポン配布中",
+          "height": 430,
+          "sourceUrl": "https://a.mktgcdn.com/p/_d80Cek8TlleN8UBoj1KRJk1Z7OiTglfjRZJSRf-9kI/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/_d80Cek8TlleN8UBoj1KRJk1Z7OiTglfjRZJSRf-9kI/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/_d80Cek8TlleN8UBoj1KRJk1Z7OiTglfjRZJSRf-9kI/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "https://a.mktgcdn.com/p-sandbox/_d80Cek8TlleN8UBoj1KRJk1Z7OiTglfjRZJSRf-9kI/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/_d80Cek8TlleN8UBoj1KRJk1Z7OiTglfjRZJSRf-9kI/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_d80Cek8TlleN8UBoj1KRJk1Z7OiTglfjRZJSRf-9kI/710x430.jpg",
+          "width": 710
+        },
+        "title": "先着順！ウエディングで使えるクーポン配布中"
+      },
+      {
+        "cTA1": {
+          "label": "フェア情報はこちら♪",
+          "link": "https://www.jtb.co.jp/wed/campaign/",
+          "linkType": "OTHER"
+        },
+        "category": "NEWS",
+        "description": "多くの先輩カップルが式場探しに活用するのがブライダルフェア。理想のリゾートウエディングを叶えるのにとても心強いイベントです。式場探しの最初の一歩はぜひJTBのブライダルフェアにご参加ください！ブライダルフェアの内容一例・花嫁ヘアセットやドレス試着などの体験イベント・ウエディング会社スタッフとJTBスタッフに一度に相談できるコラボイベント・海外の式場と中継で繋がるオンライン式場見学・人気のドレス・タキシード＆アルバム展示フェアによっては来場特典や成約特典付きのケースもあるのでお見逃しなく♡",
+        "image": {
+          "alternateText": "メリット沢山！ブラダルフェアに参加しよう",
+          "height": 430,
+          "sourceUrl": "https://a.mktgcdn.com/p/H2ReLybtyMmFVmEE8pE9eVQ5nKVtH7sCx7LDAMA6xxc/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/H2ReLybtyMmFVmEE8pE9eVQ5nKVtH7sCx7LDAMA6xxc/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/H2ReLybtyMmFVmEE8pE9eVQ5nKVtH7sCx7LDAMA6xxc/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "https://a.mktgcdn.com/p-sandbox/H2ReLybtyMmFVmEE8pE9eVQ5nKVtH7sCx7LDAMA6xxc/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/H2ReLybtyMmFVmEE8pE9eVQ5nKVtH7sCx7LDAMA6xxc/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/H2ReLybtyMmFVmEE8pE9eVQ5nKVtH7sCx7LDAMA6xxc/710x430.jpg",
+          "width": 710
+        },
+        "title": "メリット沢山！ブラダルフェアに参加しよう"
+      },
+      {
+        "cTA1": {
+          "label": "ハワイ挙式の情報はこちら♪",
+          "link": "https://www.jtb.co.jp/wed/hawaii/",
+          "linkType": "OTHER"
+        },
+        "category": "NEWS",
+        "description": "待ちに待った海外旅行、海外挙式のお問合せ、お申し込みが増えております。リゾートウエディングの王道はやっぱりハワイ。費用、渡航の不安、おすすめ会場・・気になることをJTBのウエディングコンサルタントにとことんご相談ください！",
+        "image": {
+          "alternateText": "2024年ハワイウエディング商品発売中！",
+          "height": 430,
+          "sourceUrl": "https://a.mktgcdn.com/p/0_JJuzIJZy8EYuobv7WytmCgBIICQ_cgdT15djTUQnU/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/0_JJuzIJZy8EYuobv7WytmCgBIICQ_cgdT15djTUQnU/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/0_JJuzIJZy8EYuobv7WytmCgBIICQ_cgdT15djTUQnU/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "https://a.mktgcdn.com/p-sandbox/0_JJuzIJZy8EYuobv7WytmCgBIICQ_cgdT15djTUQnU/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/0_JJuzIJZy8EYuobv7WytmCgBIICQ_cgdT15djTUQnU/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0_JJuzIJZy8EYuobv7WytmCgBIICQ_cgdT15djTUQnU/710x430.jpg",
+          "width": 710
+        },
+        "title": "2024年ハワイウエディング商品発売中！"
+      },
+      {
+        "cTA1": {
+          "label": "フォト特集はこちらから",
+          "link": "https://www.jtb.co.jp/wed/photo/",
+          "linkType": "OTHER"
+        },
+        "category": "Plan",
+        "description": "今のふたりだけの特別なロケーションフォトを撮影しませんか。JTBなら日本各地での撮影プランをご用意。ワンランク上の旅館・ホテルで贅沢な時間を過ごし、四季折々の瞬間を残しましょう。",
+        "image": {
+          "alternateText": "ウエディングフォト・ハネムーンフォト特集",
+          "height": 430,
+          "sourceUrl": "https://a.mktgcdn.com/p/09BxLY1r-1bwMjgoM6IgJhw3Njg5DWgAmYllI8oznK8/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/09BxLY1r-1bwMjgoM6IgJhw3Njg5DWgAmYllI8oznK8/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/09BxLY1r-1bwMjgoM6IgJhw3Njg5DWgAmYllI8oznK8/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "https://a.mktgcdn.com/p-sandbox/09BxLY1r-1bwMjgoM6IgJhw3Njg5DWgAmYllI8oznK8/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/09BxLY1r-1bwMjgoM6IgJhw3Njg5DWgAmYllI8oznK8/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/09BxLY1r-1bwMjgoM6IgJhw3Njg5DWgAmYllI8oznK8/710x430.jpg",
+          "width": 710
+        },
+        "title": "ウエディングフォト・ハネムーンフォト特集"
+      },
+      {
+        "cTA1": {
+          "label": "沖縄ウエディングの情報はこちら♪",
+          "link": "https://www.jtb.co.jp/wed/okinawa/",
+          "linkType": "OTHER"
+        },
+        "category": "NEWS",
+        "description": "JTBなら、沖縄本島から離島まで多彩な挙式会場のご案内が可能です。パスポートのいらない南国リゾートで挙式や前撮り撮影のウエディングフォトはいかがでしょうか。初めてのご相談は、旅と挙式の相談が一度にできるJTBへぜひご相談ください。",
+        "image": {
+          "alternateText": "いま人気の沖縄で叶えるリゾートウエディング",
+          "height": 430,
+          "sourceUrl": "https://a.mktgcdn.com/p/osteoJ57MaAai-V4Bv7jN-4nTMpFI9FrTSqw3GeYpl0/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/osteoJ57MaAai-V4Bv7jN-4nTMpFI9FrTSqw3GeYpl0/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/osteoJ57MaAai-V4Bv7jN-4nTMpFI9FrTSqw3GeYpl0/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "https://a.mktgcdn.com/p-sandbox/osteoJ57MaAai-V4Bv7jN-4nTMpFI9FrTSqw3GeYpl0/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/osteoJ57MaAai-V4Bv7jN-4nTMpFI9FrTSqw3GeYpl0/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/osteoJ57MaAai-V4Bv7jN-4nTMpFI9FrTSqw3GeYpl0/710x430.jpg",
+          "width": 710
+        },
+        "title": "いま人気の沖縄で叶えるリゾートウエディング"
+      }
+    ],
+    "c_top_Info2": [
+      {
+        "cTA1": {
+          "label": "JTBウエディング詳細はこちら",
+          "link": "https://www.jtb.co.jp/wed/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "店舗一覧はこちらから",
+          "link": "https://www.jtb.co.jp/wed/plaza/list/",
+          "linkType": "URL"
+        },
+        "category": "ウエディング専門店",
+        "description": "全国約90店舗。専任コンサルタントがひとつの窓口で旅と挙式をトータルサポート。",
+        "image": {
+          "height": 430,
+          "sourceUrl": "https://a.mktgcdn.com/p/I1z9yZhOqK2P4mTvY_ra_x7bWi5w1c7tN3er1HPshww/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/I1z9yZhOqK2P4mTvY_ra_x7bWi5w1c7tN3er1HPshww/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/I1z9yZhOqK2P4mTvY_ra_x7bWi5w1c7tN3er1HPshww/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "https://a.mktgcdn.com/p-sandbox/I1z9yZhOqK2P4mTvY_ra_x7bWi5w1c7tN3er1HPshww/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/I1z9yZhOqK2P4mTvY_ra_x7bWi5w1c7tN3er1HPshww/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/I1z9yZhOqK2P4mTvY_ra_x7bWi5w1c7tN3er1HPshww/710x430.jpg",
+          "width": 710
+        },
+        "title": "JTBウエディングプラザ・デスク"
+      },
+      {
+        "cTA1": {
+          "label": "JTBウエディングプラザ銀座本店の詳細はこちら",
+          "link": "https://www.jtb.co.jp/wed/honten/ginza/",
+          "linkType": "URL"
+        },
+        "category": "首都圏",
+        "description": "洗練された大人の街、銀座の中心地。銀座4丁目並木通り沿い並木館3階",
+        "image": {
+          "height": 430,
+          "sourceUrl": "https://a.mktgcdn.com/p/JIcq5v6Rk8ap8sUs9KI6kes422h_j6uXaExFX4PiANI/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/JIcq5v6Rk8ap8sUs9KI6kes422h_j6uXaExFX4PiANI/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/JIcq5v6Rk8ap8sUs9KI6kes422h_j6uXaExFX4PiANI/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "https://a.mktgcdn.com/p-sandbox/JIcq5v6Rk8ap8sUs9KI6kes422h_j6uXaExFX4PiANI/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/JIcq5v6Rk8ap8sUs9KI6kes422h_j6uXaExFX4PiANI/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JIcq5v6Rk8ap8sUs9KI6kes422h_j6uXaExFX4PiANI/710x430.jpg",
+          "width": 710
+        },
+        "title": "ウエディングプラザ銀座本店"
+      },
+      {
+        "cTA1": {
+          "label": "JTBウエディングプラザ新宿本店の詳細はこちら",
+          "link": "https://www.jtb.co.jp/wed/honten/shinjuku/",
+          "linkType": "URL"
+        },
+        "category": "首都圏",
+        "description": "新宿三丁目駅直結で雨の日も安心。新宿マルイ本館6階",
+        "image": {
+          "height": 430,
+          "sourceUrl": "https://a.mktgcdn.com/p/O17omdaMBPIgI_DCiqNPkXmFmsIu4yr7H8D6RSPTZr8/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/O17omdaMBPIgI_DCiqNPkXmFmsIu4yr7H8D6RSPTZr8/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/O17omdaMBPIgI_DCiqNPkXmFmsIu4yr7H8D6RSPTZr8/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "https://a.mktgcdn.com/p-sandbox/O17omdaMBPIgI_DCiqNPkXmFmsIu4yr7H8D6RSPTZr8/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/O17omdaMBPIgI_DCiqNPkXmFmsIu4yr7H8D6RSPTZr8/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/O17omdaMBPIgI_DCiqNPkXmFmsIu4yr7H8D6RSPTZr8/710x430.jpg",
+          "width": 710
+        },
+        "title": "ウエディングプラザ新宿本店"
+      },
+      {
+        "cTA1": {
+          "label": "JTBウエディングプラザ横浜の詳細はこちら",
+          "link": "https://stores.jtb.co.jp/3406-w",
+          "linkType": "URL"
+        },
+        "category": "首都圏",
+        "description": "横浜駅東口から徒歩3分。駅地下道直結のそごう横浜8階でショッピングにも便利",
+        "image": {
+          "height": 430,
+          "sourceUrl": "https://a.mktgcdn.com/p/WZ-SSW3ISgpnbsmPjpnpt-PWbfrGh0Djc9nQ4ZiVRE8/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/WZ-SSW3ISgpnbsmPjpnpt-PWbfrGh0Djc9nQ4ZiVRE8/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/WZ-SSW3ISgpnbsmPjpnpt-PWbfrGh0Djc9nQ4ZiVRE8/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "https://a.mktgcdn.com/p-sandbox/WZ-SSW3ISgpnbsmPjpnpt-PWbfrGh0Djc9nQ4ZiVRE8/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/WZ-SSW3ISgpnbsmPjpnpt-PWbfrGh0Djc9nQ4ZiVRE8/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WZ-SSW3ISgpnbsmPjpnpt-PWbfrGh0Djc9nQ4ZiVRE8/710x430.jpg",
+          "width": 710
+        },
+        "title": "ウエディングプラザ横浜"
+      },
+      {
+        "cTA1": {
+          "label": "JTBウエディングプラザ大阪本店の詳細はこちら",
+          "link": "https://www.jtb.co.jp/wed/honten/osaka/",
+          "linkType": "URL"
+        },
+        "category": "関西",
+        "description": "JR大阪駅直結の人気駅ビル「ルクア1100（ルクアイーレ）」上11階。 JRだけでなく地下鉄や阪急・阪神各駅からも好アクセス",
+        "image": {
+          "height": 430,
+          "sourceUrl": "https://a.mktgcdn.com/p/1gZDw7rsZSN3GMOElbItMbMG056vuUh7BhMRX6Dkm2w/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/1gZDw7rsZSN3GMOElbItMbMG056vuUh7BhMRX6Dkm2w/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/1gZDw7rsZSN3GMOElbItMbMG056vuUh7BhMRX6Dkm2w/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "https://a.mktgcdn.com/p-sandbox/1gZDw7rsZSN3GMOElbItMbMG056vuUh7BhMRX6Dkm2w/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/1gZDw7rsZSN3GMOElbItMbMG056vuUh7BhMRX6Dkm2w/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1gZDw7rsZSN3GMOElbItMbMG056vuUh7BhMRX6Dkm2w/710x430.jpg",
+          "width": 710
+        },
+        "title": "ウエディングプラザ大阪本店"
+      },
+      {
+        "cTA1": {
+          "label": "JTBウエディングプラザ名古屋栄本店の詳細はこちら",
+          "link": "https://www.jtb.co.jp/wed/honten/nagoya/",
+          "linkType": "URL"
+        },
+        "category": "中部",
+        "description": "サカエチカ10番出口「クリスタル広場」直結、徒歩1分。BINO栄2階でショッピングデートも",
+        "image": {
+          "height": 430,
+          "sourceUrl": "https://a.mktgcdn.com/p/hskeIDAiNKNK5cll8bQB1B76oATx8GoTp89jP7JjE2k/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/hskeIDAiNKNK5cll8bQB1B76oATx8GoTp89jP7JjE2k/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/hskeIDAiNKNK5cll8bQB1B76oATx8GoTp89jP7JjE2k/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "https://a.mktgcdn.com/p-sandbox/hskeIDAiNKNK5cll8bQB1B76oATx8GoTp89jP7JjE2k/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/hskeIDAiNKNK5cll8bQB1B76oATx8GoTp89jP7JjE2k/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hskeIDAiNKNK5cll8bQB1B76oATx8GoTp89jP7JjE2k/710x430.jpg",
+          "width": 710
+        },
+        "title": "ウエディングプラザ名古屋栄本店"
+      },
+      {
+        "cTA1": {
+          "label": "JTBウエディングプラザ札幌本店の詳細はこちら",
+          "link": "https://www.jtb.co.jp/wed/honten/sapporo/",
+          "linkType": "URL"
+        },
+        "category": "北海道",
+        "description": "札幌グランドホテル東館地下1階。札幌駅に繋がる地下歩行空間に直結で嬉しい",
+        "image": {
+          "height": 430,
+          "sourceUrl": "https://a.mktgcdn.com/p/6Jo9O3ujFx_7zP_3CATGucxKy9Qnaog0j4oTk-QxlTc/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/6Jo9O3ujFx_7zP_3CATGucxKy9Qnaog0j4oTk-QxlTc/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/6Jo9O3ujFx_7zP_3CATGucxKy9Qnaog0j4oTk-QxlTc/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "https://a.mktgcdn.com/p-sandbox/6Jo9O3ujFx_7zP_3CATGucxKy9Qnaog0j4oTk-QxlTc/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/6Jo9O3ujFx_7zP_3CATGucxKy9Qnaog0j4oTk-QxlTc/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6Jo9O3ujFx_7zP_3CATGucxKy9Qnaog0j4oTk-QxlTc/710x430.jpg",
+          "width": 710
+        },
+        "title": "ウエディングプラザ札幌本店"
+      },
+      {
+        "cTA1": {
+          "label": "JTBウエディングプラザ福岡の詳細はこちら",
+          "link": "https://www.jtb.co.jp/wed/honten/fukuoka/",
+          "linkType": "URL"
+        },
+        "category": "九州",
+        "description": "西鉄福岡（天神）駅北口から徒歩3分。福岡市営地下鉄天神駅から徒歩1分の好アクセス",
+        "image": {
+          "height": 430,
+          "sourceUrl": "https://a.mktgcdn.com/p/RJ5Uwoi4yQ4a-kp_8YVyMCIylurmDmqoJUTLjrB5lD0/710x430.jpg",
+          "thumbnails": [
+            {
+              "height": 430,
+              "url": "https://a.mktgcdn.com/p-sandbox/RJ5Uwoi4yQ4a-kp_8YVyMCIylurmDmqoJUTLjrB5lD0/710x430.jpg",
+              "width": 710
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/RJ5Uwoi4yQ4a-kp_8YVyMCIylurmDmqoJUTLjrB5lD0/619x375.jpg",
+              "width": 619
+            },
+            {
+              "height": 363,
+              "url": "https://a.mktgcdn.com/p-sandbox/RJ5Uwoi4yQ4a-kp_8YVyMCIylurmDmqoJUTLjrB5lD0/600x363.jpg",
+              "width": 600
+            },
+            {
+              "height": 119,
+              "url": "https://a.mktgcdn.com/p-sandbox/RJ5Uwoi4yQ4a-kp_8YVyMCIylurmDmqoJUTLjrB5lD0/196x119.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RJ5Uwoi4yQ4a-kp_8YVyMCIylurmDmqoJUTLjrB5lD0/710x430.jpg",
+          "width": 710
+        },
+        "title": "ウエディングプラザ福岡本店"
+      }
+    ],
+    "c_top_Info2SectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_Info2SectionSubTitle": "経験豊富な専任ウエディングコンサルタントがおふたりのご希望にかなうプランをご一緒にお探しします。",
+    "c_top_Info2SectionTitle": "店舗に行く・相談する",
+    "c_top_InfoSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\n\u003c/div\u003e",
+    "c_top_InfoSectionSubTitle": "JTBウエディングお勧め情報を発信中",
+    "c_top_InfoSectionTitle": "Topics \u0026 Campaign",
+    "c_top_LocatorSectionHTML": "\u003cdiv lang\u003d\"ja\"\u003e\n\u003c/div\u003e",
+    "c_top_OnlineConsultationButton1": {
+      "label": "リモート相談を予約する",
+      "link": "https://stores.jtb.co.jp/wed-0001",
+      "linkType": "OTHER"
+    },
+    "c_top_OnlineConsultationSectionSubTitle": "当店はリモートでのリゾートウエディングの相談・申し込み専門店です。\n経験豊富なスタッフが大切な挙式と旅をサポートいたします。",
+    "c_top_OnlineConsultationSectionTitle": "旅と挙式のリモート相談・予約",
+    "name": "TOP ウエディング・ハネムーン専門デスク"
+  },
+  "entityType": "ce_tOP",
+  "labels": []
+}

@@ -1,0 +1,316 @@
+{
+  "$id": "ap_area_0000061",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ トラベルコンサルタント 武田 和美",
+      "link": "https://consultants.jtb.co.jp/cp_k_takeda507",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿者にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVBV",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "白浜は、関西でも指折りの温泉地として知られるエリア。湧出する「南紀白浜温泉」は『日本書紀』にも登場、日本三古湯の一つに数えられています。また、約620mにわたって真っ白な砂浜が続く「白良浜」があったり、黒潮の恩恵を受ける美しい海でマリンスポーツが楽しめたりと、南国リゾート気分が味わえるのも魅力です。和歌山観光で外せない「アドベンチャーワールド」もあり、温泉でのんびりするもよし、ビーチでアクティブに遊ぶもよし、動物たちに癒されるもよしと、自分にあった楽しみ方を選べます。南高梅の産地として名高い田辺・みなべも要チェック！",
+        "image": {
+          "height": 1890,
+          "sourceUrl": "https://a.mktgcdn.com/p/QrjiL-kMfYd49mDJrY-nNbB8rR4jcXWjHH5B3E4J9ZA/2835x1890.jpg",
+          "thumbnails": [
+            {
+              "height": 1890,
+              "url": "https://a.mktgcdn.com/p-sandbox/aMbe-XBzsI-CcbGuoBpk7InUSg5VJe3XWhJ-SqYpjQc/2835x1890.jpg",
+              "width": 2835
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/aMbe-XBzsI-CcbGuoBpk7InUSg5VJe3XWhJ-SqYpjQc/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/aMbe-XBzsI-CcbGuoBpk7InUSg5VJe3XWhJ-SqYpjQc/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/aMbe-XBzsI-CcbGuoBpk7InUSg5VJe3XWhJ-SqYpjQc/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/aMbe-XBzsI-CcbGuoBpk7InUSg5VJe3XWhJ-SqYpjQc/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aMbe-XBzsI-CcbGuoBpk7InUSg5VJe3XWhJ-SqYpjQc/2835x1890.jpg",
+          "width": 2835
+        },
+        "imageCaption": "砂がさらさらとしている「白良浜」。裸足で歩いたり寝転んでみたりするのも◎",
+        "sectionTitle": "【白浜・田辺・みなべ】温泉と南国ビーチのある人気リゾートエリア"
+      },
+      {
+        "description": "熊野三山をはじめとした、紀伊山地に点在する霊場を結ぶ「熊野古道」は、1000年 以上もの歴史をもつ巡礼道です。2016年には、約40.1㎞が世界遺産に追加登録されています。山中に続く古道は、往時の趣を今に残していて、癒しと蘇りのパワースポットとしても注目を集めています。日常生活から離れて、のんびりと古道歩きを楽しみたいですね。熊野神社の総本山・熊野三山のひとつである「熊野本宮大社」や「熊野速玉大社」へのお参りを済ませたら、参道や境内にあるカフェでほっと一息。一日の最後は、山間に湧く「熊野本宮温泉郷」で湯あみを楽しみ、たまった疲れを癒しましょう。",
+        "image": {
+          "height": 770,
+          "sourceUrl": "https://a.mktgcdn.com/p/MDXUstbdPATJG6D-PYx4yjwArP3Hrtzx5GL5LZz_eyk/1155x770.jpg",
+          "thumbnails": [
+            {
+              "height": 770,
+              "url": "https://a.mktgcdn.com/p-sandbox/NBbhndOWp5WIU7x0JSQCdv8Bs6iTAyr8aUcbbNuAFbY/1155x770.jpg",
+              "width": 1155
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/NBbhndOWp5WIU7x0JSQCdv8Bs6iTAyr8aUcbbNuAFbY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/NBbhndOWp5WIU7x0JSQCdv8Bs6iTAyr8aUcbbNuAFbY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/NBbhndOWp5WIU7x0JSQCdv8Bs6iTAyr8aUcbbNuAFbY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NBbhndOWp5WIU7x0JSQCdv8Bs6iTAyr8aUcbbNuAFbY/1155x770.jpg",
+          "width": 1155
+        },
+        "imageCaption": "木立の中を散策して点在する聖地を巡りましょう",
+        "sectionTitle": "【熊野古道・本宮・新宮】歴史ある参詣道を歩いてエネルギーをチャージ"
+      },
+      {
+        "description": "日本有数の生マグロの水揚げ量を誇る那智勝浦は、マグロの街として有名。近くの漁場から運ばれてくるマグロは鮮度抜群で、地元ならではのマグロ料理が堪能できます。また、南紀勝浦温泉は、絶景風呂が満喫できる風光明媚な温泉地としても知られています。太地は古くから捕鯨で栄えた歴史を持つ街で、イルカやクジラと触れ合えたり、ショーが楽しめたりする施設が話題です。奇岩や巨岩が林立する「橋杭岩」や、鋭角に尖った岩がいくつもそそり立つ「海金剛」など、海岸沿いに絶景が広がる串本も人気のエリアです。",
+        "image": {
+          "height": 1418,
+          "sourceUrl": "https://a.mktgcdn.com/p/E6M5Luk8wp7P728s_IFfVbzAHR2pvv8dFR1OVuenM-E/2114x1418.jpg",
+          "thumbnails": [
+            {
+              "height": 1418,
+              "url": "https://a.mktgcdn.com/p-sandbox/frdME2CfsNkdET_m3SjNIPVZ5XB3wNJznj6Qh7n1IbY/2114x1418.jpg",
+              "width": 2114
+            },
+            {
+              "height": 1274,
+              "url": "https://a.mktgcdn.com/p-sandbox/frdME2CfsNkdET_m3SjNIPVZ5XB3wNJznj6Qh7n1IbY/1900x1274.jpg",
+              "width": 1900
+            },
+            {
+              "height": 415,
+              "url": "https://a.mktgcdn.com/p-sandbox/frdME2CfsNkdET_m3SjNIPVZ5XB3wNJznj6Qh7n1IbY/619x415.jpg",
+              "width": 619
+            },
+            {
+              "height": 402,
+              "url": "https://a.mktgcdn.com/p-sandbox/frdME2CfsNkdET_m3SjNIPVZ5XB3wNJznj6Qh7n1IbY/600x402.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/frdME2CfsNkdET_m3SjNIPVZ5XB3wNJznj6Qh7n1IbY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/frdME2CfsNkdET_m3SjNIPVZ5XB3wNJznj6Qh7n1IbY/2114x1418.jpg",
+          "width": 2114
+        },
+        "imageCaption": "湯あみ着で開放的な絶景露天風呂が楽しめる「碧き島の宿 熊野別邸 中の島」",
+        "sectionTitle": "【那智勝浦・太地・串本】絶品マグロを堪能し湯量豊富な名湯に浸かる"
+      },
+      {
+        "description": "深い緑が包む山間に開かれた真言密教の聖地で、1200年以上の歴史を誇る天空の宗教都市です。総本山「金剛峯寺」を中心に117の寺院が立ち並び、世界遺産「紀伊山地の霊場と参詣道」にも登録されています。山内では、精進料理が味わえたり宿坊体験ができたりすることから、国内外から大勢の人が訪れる人気観光地となっています。弘法大師によって開かれた龍神温泉は、日本三美人の湯の一つに数えられる秘境の温泉地。九度山は、戦国武将の真田昌幸・幸村父子が暮らした真田家ゆかりの街で、歴史スポット巡りが楽しめます。",
+        "image": {
+          "height": 1667,
+          "sourceUrl": "https://a.mktgcdn.com/p/PVAbjOsm94ed8bREfryMr5MKbfegfrbn49BLC7_9ma0/2500x1667.jpg",
+          "thumbnails": [
+            {
+              "height": 1667,
+              "url": "https://a.mktgcdn.com/p-sandbox/PVAbjOsm94ed8bREfryMr5MKbfegfrbn49BLC7_9ma0/2500x1667.jpg",
+              "width": 2500
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/PVAbjOsm94ed8bREfryMr5MKbfegfrbn49BLC7_9ma0/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/PVAbjOsm94ed8bREfryMr5MKbfegfrbn49BLC7_9ma0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/PVAbjOsm94ed8bREfryMr5MKbfegfrbn49BLC7_9ma0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/PVAbjOsm94ed8bREfryMr5MKbfegfrbn49BLC7_9ma0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PVAbjOsm94ed8bREfryMr5MKbfegfrbn49BLC7_9ma0/2500x1667.jpg",
+          "width": 2500
+        },
+        "imageCaption": "格調の高い建築様式で知られる「金剛峯寺」（写真提供：和歌山県観光連盟）",
+        "sectionTitle": "【高野山・龍神温泉・九度山】山上に開かれた天空の聖地"
+      },
+      {
+        "description": "紀州徳川家の居城で、桜の名所としても知られる「和歌山城」。その城下町として発展してきた和歌山市内には、ご当地グルメや和歌山ラーメンの人気店がひしめいています。和歌山県民が愛してやまないソウルフードの食べ歩きをメインに、旅の予定を組んでみるのも一興です。バラエティ豊かな観光スポットや名所が揃うエリアでもあり、『万葉集』に登場する景勝地「和歌の浦」や、旧陸軍要塞跡が残る無人島「友ヶ島」、和歌浦湾に浮かぶ人工島「和歌山マリーナシティ」、猫の駅長で一躍有名になった和歌山電鐵貴志駅などが有名です。",
+        "image": {
+          "height": 1667,
+          "sourceUrl": "https://a.mktgcdn.com/p/o08we7CyaCf7MVsl9ZPbPuKviXfIvqKyCEy_Zf2B2ro/2500x1667.jpg",
+          "thumbnails": [
+            {
+              "height": 1667,
+              "url": "https://a.mktgcdn.com/p-sandbox/o08we7CyaCf7MVsl9ZPbPuKviXfIvqKyCEy_Zf2B2ro/2500x1667.jpg",
+              "width": 2500
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/o08we7CyaCf7MVsl9ZPbPuKviXfIvqKyCEy_Zf2B2ro/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/o08we7CyaCf7MVsl9ZPbPuKviXfIvqKyCEy_Zf2B2ro/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/o08we7CyaCf7MVsl9ZPbPuKviXfIvqKyCEy_Zf2B2ro/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/o08we7CyaCf7MVsl9ZPbPuKviXfIvqKyCEy_Zf2B2ro/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/o08we7CyaCf7MVsl9ZPbPuKviXfIvqKyCEy_Zf2B2ro/2500x1667.jpg",
+          "width": 2500
+        },
+        "imageCaption": "「和歌山城」の白亜の天守閣がこのエリアのシンボルです",
+        "sectionTitle": "【和歌山市周辺】ラーメンと城で有名な県の中心地"
+      },
+      {
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_ap_DatePosted": "2023-03-26",
+    "c_ap_HeroImage": {
+      "alternateText": "【和歌山県】あなたはパンダ？それとも世界遺産？魅力いっぱい和歌山のみどころ5エリア紹介",
+      "height": 2333,
+      "sourceUrl": "https://a.mktgcdn.com/p/kias6M2G-5R_JtZwwRB7eVBFvl9fIVSdxWsO5-So0T8/3500x2333.jpg",
+      "thumbnails": [
+        {
+          "height": 2333,
+          "url": "https://a.mktgcdn.com/p-sandbox/kias6M2G-5R_JtZwwRB7eVBFvl9fIVSdxWsO5-So0T8/3500x2333.jpg",
+          "width": 3500
+        },
+        {
+          "height": 1266,
+          "url": "https://a.mktgcdn.com/p-sandbox/kias6M2G-5R_JtZwwRB7eVBFvl9fIVSdxWsO5-So0T8/1900x1266.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/kias6M2G-5R_JtZwwRB7eVBFvl9fIVSdxWsO5-So0T8/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/kias6M2G-5R_JtZwwRB7eVBFvl9fIVSdxWsO5-So0T8/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/kias6M2G-5R_JtZwwRB7eVBFvl9fIVSdxWsO5-So0T8/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/kias6M2G-5R_JtZwwRB7eVBFvl9fIVSdxWsO5-So0T8/3500x2333.jpg",
+      "width": 3500
+    },
+    "c_ap_LinkArticleSectionTitle": "和歌山県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "和歌山旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/wakayama/"
+      },
+      {
+        "linkText": "和歌山県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/wakayama/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea4": [
+      "近畿全般",
+      "和歌山県"
+    ],
+    "c_ap_ShortDescription": "愛らしいパンダに会えるテーマパーク「アドベンチャーワールド」が注目を集め、旅先として人気急上昇中の和歌山県。県内には、リゾートエリアに世界遺産、名湯揃いの温泉地、絶景が楽しめる景勝地など、個性豊かな観光スポットがたくさん！　ここでは、北の「和歌山市周辺」から南の「那智勝浦・太地・串本」まで、県を5エリアに分けてご紹介。これを読めば和歌山におでかけしたくなるはず！",
+    "c_ap_Tags": [
+      "熊野三山",
+      "パンダ",
+      "パワースポット"
+    ],
+    "c_ap_Theme": [
+      "自然・山",
+      "建築・史跡",
+      "動植物園・公園",
+      "温泉・立ち寄り湯",
+      "リゾート"
+    ],
+    "c_ap_Title": "【和歌山県】あなたはパンダ？それとも世界遺産？魅力いっぱい和歌山のみどころ5エリア紹介",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "愛らしいパンダに会えるテーマパーク「アドベンチャーワールド」が注目を集め、旅先として人気急上昇中の和歌山県。県内には、リゾートエリアに世界遺産、名湯揃いの温泉地、絶景が楽しめる景勝地など、個性豊かな観光スポッ…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "【和歌山県】あなたはパンダ？それとも世界遺産？魅力いっぱい和歌山のみどころ5エリア紹介 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_area_0000061",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "近畿全般, 和歌山県",
+    "keywords": [
+      "中部・北陸：",
+      "近畿：近畿全般, 和歌山県",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "【和歌山県】あなたはパンダ？それとも世界遺産？魅力いっぱい和歌山のみどころ5エリア紹介",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

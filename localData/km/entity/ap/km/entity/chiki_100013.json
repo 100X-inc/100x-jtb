@@ -1,0 +1,317 @@
+{
+  "$id": "ap_chiki_100013",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB 地域ナビゲーター 山本"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#locator",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "花の名前がついた客室の内装は、絨毯・カーテン・絵葉書に至るまでモチーフのお花があしらわれています。木のぬくもりと大きさが特徴のルームキーも旅の思い出の一つになること間違いなし！花御殿の棟には、クラシカルな雰囲気のホテルの室内プールとしては日本初？となる温泉を使用した温水プールやジム、富士屋ホテルや箱根の歴史を堪能できる見ごたえたっぷりのミュージアムなどが備わっていて、1日があっという間に過ぎるくらい充実しています。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/HkVcHaEGMmIPg8aKoPqxeb8psQRd0kYRAkz41mJemug/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/HkVcHaEGMmIPg8aKoPqxeb8psQRd0kYRAkz41mJemug/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/HkVcHaEGMmIPg8aKoPqxeb8psQRd0kYRAkz41mJemug/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/HkVcHaEGMmIPg8aKoPqxeb8psQRd0kYRAkz41mJemug/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/HkVcHaEGMmIPg8aKoPqxeb8psQRd0kYRAkz41mJemug/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HkVcHaEGMmIPg8aKoPqxeb8psQRd0kYRAkz41mJemug/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "クラシカルな雰囲気と機能性快適性を備えた花御殿の客室",
+        "sectionTitle": "花御殿には40室すべてのお部屋に花の名前がついています"
+      },
+      {
+        "description": "朝食で洋食を選ぶと、「メインダイニングルーム・ザ・フジヤ」でいただけますメインプレートの卵料理が選べる「ブレックファスト　フジヤ」やパンケーキやクレープがチョイスできる「ペストリーブレックファスト」、彩り豊かなサラダがメインの「サラダブレックファスト」からおひとりさまずつチョイスできます。和食は、皇室の宮ノ下御用邸として造営された由緒ある純日本建築の建物で季節の素材にこだわった和食を堪能してください。",
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://a.mktgcdn.com/p/gZX1gyBMT0iPgqaFTryzvAzk7OWN_7PLlQGeGaIdAts/1475x480.jpg",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/gZX1gyBMT0iPgqaFTryzvAzk7OWN_7PLlQGeGaIdAts/1475x480.jpg",
+              "width": 1475
+            },
+            {
+              "height": 201,
+              "url": "https://a.mktgcdn.com/p-sandbox/gZX1gyBMT0iPgqaFTryzvAzk7OWN_7PLlQGeGaIdAts/619x201.jpg",
+              "width": 619
+            },
+            {
+              "height": 195,
+              "url": "https://a.mktgcdn.com/p-sandbox/gZX1gyBMT0iPgqaFTryzvAzk7OWN_7PLlQGeGaIdAts/600x195.jpg",
+              "width": 600
+            },
+            {
+              "height": 64,
+              "url": "https://a.mktgcdn.com/p-sandbox/gZX1gyBMT0iPgqaFTryzvAzk7OWN_7PLlQGeGaIdAts/196x64.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gZX1gyBMT0iPgqaFTryzvAzk7OWN_7PLlQGeGaIdAts/1475x480.jpg",
+          "width": 1475
+        },
+        "imageCaption": "花御殿のルームキーと絵葉書",
+        "sectionTitle": "朝食は洋食3パターンからチョイス、和食は旧御用邸の菊華荘で優雅に"
+      },
+      {
+        "description": "全120室のお部屋のお風呂では蛇口をひねると源泉100％の温泉がお楽しみいただけます。ご宿泊になられる棟によってお風呂の雰囲気は異なりますが、猫脚のバスタブやゆったりと作られたバスタブに洗面台にシャワーブースが付いてるお部屋など、お風呂のタイプによってお部屋を選ぶのもおすすめです。",
+        "image": {
+          "height": 648,
+          "sourceUrl": "https://a.mktgcdn.com/p/noLTzYce4H8uZ28O2Rdo_87J68YE60Bmkb0IJizuOcM/711x648.jpg",
+          "thumbnails": [
+            {
+              "height": 648,
+              "url": "https://a.mktgcdn.com/p-sandbox/noLTzYce4H8uZ28O2Rdo_87J68YE60Bmkb0IJizuOcM/711x648.jpg",
+              "width": 711
+            },
+            {
+              "height": 564,
+              "url": "https://a.mktgcdn.com/p-sandbox/noLTzYce4H8uZ28O2Rdo_87J68YE60Bmkb0IJizuOcM/619x564.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/noLTzYce4H8uZ28O2Rdo_87J68YE60Bmkb0IJizuOcM/494x450.jpg",
+              "width": 494
+            },
+            {
+              "height": 179,
+              "url": "https://a.mktgcdn.com/p-sandbox/noLTzYce4H8uZ28O2Rdo_87J68YE60Bmkb0IJizuOcM/196x179.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/noLTzYce4H8uZ28O2Rdo_87J68YE60Bmkb0IJizuOcM/711x648.jpg",
+          "width": 711
+        },
+        "imageCaption": "フルサービスブレックファストで朝食を…",
+        "sectionTitle": "富士屋ホテルは全てのお部屋で温泉を楽しめます"
+      },
+      {
+        "description": "----------------------------------------------※記事内容には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/cB7IJeOhjXuhEL4qJJJ07-l49vzASuHhXvb3X3YjqM4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/cB7IJeOhjXuhEL4qJJJ07-l49vzASuHhXvb3X3YjqM4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/cB7IJeOhjXuhEL4qJJJ07-l49vzASuHhXvb3X3YjqM4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/cB7IJeOhjXuhEL4qJJJ07-l49vzASuHhXvb3X3YjqM4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/cB7IJeOhjXuhEL4qJJJ07-l49vzASuHhXvb3X3YjqM4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cB7IJeOhjXuhEL4qJJJ07-l49vzASuHhXvb3X3YjqM4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "6ｍの高さも天井には日本アルプスの高山植物が描かれています"
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Jdh9lmdlD6FqBqeL8Ujmad46EJ5ZjVbsZ6g1uHcGDjA/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Jdh9lmdlD6FqBqeL8Ujmad46EJ5ZjVbsZ6g1uHcGDjA/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Jdh9lmdlD6FqBqeL8Ujmad46EJ5ZjVbsZ6g1uHcGDjA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Jdh9lmdlD6FqBqeL8Ujmad46EJ5ZjVbsZ6g1uHcGDjA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Jdh9lmdlD6FqBqeL8Ujmad46EJ5ZjVbsZ6g1uHcGDjA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Jdh9lmdlD6FqBqeL8Ujmad46EJ5ZjVbsZ6g1uHcGDjA/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "箱根の景色を独り占めして時間を気にせずゆっくりと温泉を満喫"
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/Lxfx9GM91NCrzjV7MPwqQLz3hLnhxJeXygD395I46l4/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Lxfx9GM91NCrzjV7MPwqQLz3hLnhxJeXygD395I46l4/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Lxfx9GM91NCrzjV7MPwqQLz3hLnhxJeXygD395I46l4/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Lxfx9GM91NCrzjV7MPwqQLz3hLnhxJeXygD395I46l4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Lxfx9GM91NCrzjV7MPwqQLz3hLnhxJeXygD395I46l4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Lxfx9GM91NCrzjV7MPwqQLz3hLnhxJeXygD395I46l4/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "憧れの猫脚バスタブ"
+      }
+    ],
+    "c_ap_DatePosted": "2021-11-17",
+    "c_ap_HeroImage": {
+      "alternateText": "箱根を象徴する伝統的な建物の魅力を堪能【神奈川県　富士屋ホテル】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 708,
+      "sourceUrl": "https://a.mktgcdn.com/p/UMbVyjfi7cOP6D9tMJU9-qEt4nzaQZKXqu4NReR4kgA/1200x708.jpg",
+      "thumbnails": [
+        {
+          "height": 708,
+          "url": "https://a.mktgcdn.com/p-sandbox/UMbVyjfi7cOP6D9tMJU9-qEt4nzaQZKXqu4NReR4kgA/1200x708.jpg",
+          "width": 1200
+        },
+        {
+          "height": 365,
+          "url": "https://a.mktgcdn.com/p-sandbox/UMbVyjfi7cOP6D9tMJU9-qEt4nzaQZKXqu4NReR4kgA/619x365.jpg",
+          "width": 619
+        },
+        {
+          "height": 354,
+          "url": "https://a.mktgcdn.com/p-sandbox/UMbVyjfi7cOP6D9tMJU9-qEt4nzaQZKXqu4NReR4kgA/600x354.jpg",
+          "width": 600
+        },
+        {
+          "height": 116,
+          "url": "https://a.mktgcdn.com/p-sandbox/UMbVyjfi7cOP6D9tMJU9-qEt4nzaQZKXqu4NReR4kgA/196x116.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/UMbVyjfi7cOP6D9tMJU9-qEt4nzaQZKXqu4NReR4kgA/1200x708.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "登録有形文化財・近代化産業遺産の花御殿",
+    "c_ap_LinkArticleSectionTitle": "神奈川県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "「富士屋ホテル」のWeb予約できるプランはこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai_hotel/htl/4309001/plan/?hotellistsort\u003drecommend\u0026staynight\u003d1\u0026room\u003d1\u0026roomassign\u003dm0f0a0b0c0d0\u0026mapdisp\u003d0\u0026planinfokeywordon\u003d1\u0026tyfilteron\u003d1\u0026hotel\u003d4309001\u0026stayplacedisplay\u003d%E5%AF%8C%E5%A3%AB%E5%B1%8B%E3%83%9B%E3%83%86%E3%83%AB\u0026temproomassign\u003d0"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧はこちら",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "神奈川県"
+    ],
+    "c_ap_ShortDescription": "約2年におよぶ改修工事を経て、創業142年目の記念日となる2020年7月15日にグランドオープンした富士屋ホテル。新たな姿となった富士屋ホテルですが、おもてなしの心はそのままでより過ごしやすく、寛ぎの空間をお楽しみいただけます。",
+    "c_ap_Tags": [
+      "富士屋",
+      "花の龍宮城",
+      "箱根温泉",
+      "宮ノ下"
+    ],
+    "c_ap_Theme": [
+      "記念旅行",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "箱根を象徴する伝統的な建物の魅力を堪能【神奈川県　富士屋ホテル】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "約2年におよぶ改修工事を経て、創業142年目の記念日となる2020年7月15日にグランドオープンした富士屋ホテル。新たな姿となった富士屋ホテルですが、おもてなしの心はそのままでより過ごしやすく、寛ぎの空間をお…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "箱根を象徴する伝統的な建物の魅力を堪能【神奈川県　富士屋ホテル】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100013",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "神奈川県",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "箱根を象徴する伝統的な建物の魅力を堪能【神奈川県　富士屋ホテル】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

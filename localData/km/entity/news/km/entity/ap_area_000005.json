@@ -1,0 +1,373 @@
+{
+  "$id": "news_ap_area_000005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ 編集部 竹内 寿夫"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "古宇利大橋",
+      "height": 551,
+      "sourceUrl": "https://a.mktgcdn.com/p/2aoUCUhnTAEkaY60p1U1njtvCpPPkHB5tNcgx-X6B7I/827x551.jpg",
+      "thumbnails": [
+        {
+          "height": 551,
+          "url": "https://a.mktgcdn.com/p-sandbox/J6iDTDCoxfd0s6nXS9noRLhFMmAeAELVe8lWP01Enbc/827x551.jpg",
+          "width": 827
+        },
+        {
+          "height": 412,
+          "url": "https://a.mktgcdn.com/p-sandbox/J6iDTDCoxfd0s6nXS9noRLhFMmAeAELVe8lWP01Enbc/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/J6iDTDCoxfd0s6nXS9noRLhFMmAeAELVe8lWP01Enbc/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/J6iDTDCoxfd0s6nXS9noRLhFMmAeAELVe8lWP01Enbc/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/J6iDTDCoxfd0s6nXS9noRLhFMmAeAELVe8lWP01Enbc/827x551.jpg",
+      "width": 827
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "沖縄の記事一覧はこちら",
+        "uRL": "https://www.jtb.co.jp/news/list/kokunai/okinawa"
+      },
+      {
+        "linkText": "沖縄の旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/"
+      },
+      {
+        "linkText": "沖縄のホテル・旅館・宿を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/okinawa/"
+      },
+      {
+        "linkText": "沖縄旅行・ツアー・パックを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/"
+      },
+      {
+        "linkText": "沖縄のツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_air/a/okinawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "沖縄で人気No.1の観光スポット「沖縄美ら海水族館」を中心に、「古宇利大橋」や「備瀬のフクギ並木」の絶景スポット、沖縄そばの人気店など、押さえておきたい周辺スポットをピックアップ。一泊二日でも十分楽しめるモデルコースをご紹介！移動はレンタカーがおすすめです。",
+    "c_ap_Tags": [
+      "カフェ",
+      "モデルコース",
+      "古宇利島",
+      "美ら海水族館",
+      "フクギ",
+      "モデルプラン"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "自然・山",
+      "動植物園・公園",
+      "街あるき",
+      "ドライブ",
+      "ご当地グルメ",
+      "リゾート"
+    ],
+    "c_ap_Title": "沖縄の1泊2日モデルコース！美ら海水族館周辺の王道スポットを満喫しよう",
+    "c_linkedArea3News": [
+      "okinawa_all"
+    ],
+    "c_metaDescription": "沖縄美ら海水族館を中心にめぐる1泊2日モデルコースをご紹介。古宇利大橋や備瀬のフクギ並木の絶景スポット、沖縄そばの人気店など、押さえておきたい周辺スポットをピックアップ。",
+    "c_metaTitle": "沖縄の1泊2日モデルコース！美ら海水族館周辺の王道スポットを満喫しよう",
+    "c_news_CTAs": [
+      {
+        "label": "沖縄のホテル・旅館・宿おすすめランキングをみる",
+        "link": "https://www.jtb.co.jp/ranking/kokunai/okinawa/",
+        "linkType": "URL"
+      },
+      {
+        "label": "沖縄リゾートホテル特集をみる",
+        "link": "https://www.jtb.co.jp/kokunai/area/okinawa/hotel/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "古宇利ビーチ周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/J0057341/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "古宇利オーシャンタワーのチケットをみる",
+          "link": "https://www.jtb.co.jp/leisure/fp/qKS005146/",
+          "linkType": "URL"
+        },
+        "description": "那覇空港に着いたら、島を北上して古宇利島に向かいましょう。屋我地島と古宇利島を結ぶ「古宇利大橋」では、エメラルドグリーンの海を眺めながら爽快なドライブが楽しめます。古宇利島は周囲約8kmの小さな島。「ハートロック」や「古宇利ビーチ」、「古宇利オーシャンタワー」などが点在していて、写真映え抜群です。",
+        "image": {
+          "height": 411,
+          "sourceUrl": "https://a.mktgcdn.com/p/wjfwx2Fpn78jJH_24V8KmbnjT3E97cbY4ttig7OQzNs/617x411.jpg",
+          "thumbnails": [
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/lS71NYBwcIeH_9ognj2OhnCwWJ2un054Jw7k4d1L5_4/617x411.jpg",
+              "width": 617
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/lS71NYBwcIeH_9ognj2OhnCwWJ2un054Jw7k4d1L5_4/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/lS71NYBwcIeH_9ognj2OhnCwWJ2un054Jw7k4d1L5_4/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lS71NYBwcIeH_9ognj2OhnCwWJ2un054Jw7k4d1L5_4/617x411.jpg",
+          "width": 617
+        },
+        "imageCaption": "全長1960ｍの「古宇利大橋」を渡って古宇利島へ",
+        "infoBlockLabel": "沖縄美ら海水族館の情報",
+        "infoBlockText": "住所：沖縄県国頭郡本部町石川424国営沖縄記念公園(海洋博公園)内電話番号：0980-48-3748営業時間：8時30分～18時30分(入館は閉館の1時間前まで) ※繁忙期の営業時間については公式サイトを要確認定休日：公式サイトを要確認アクセス：（電車・バス）那覇空港→高速バス(系統117番)、やんばる急行バス、沖縄エアポートシャトル、美ら海ライナーで2時間～2時間40分、バス停：記念公園前下車、徒歩10分（車）沖縄道許田ICから国道58・449号、県道114号経由27km50分",
+        "sectionLevel": "h2",
+        "sectionTitle": "【1日目】11：00｜「古宇利大橋」を渡って古宇利島を一周"
+      },
+      {
+        "cTA1": {
+          "label": "備瀬のフクギ並木周辺の宿をみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/leisure/B5001800/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "備瀬のフクギ並木を詳しく知る",
+          "link": "https://www.jtb.co.jp/kando/detail/200.asp",
+          "linkType": "URL"
+        },
+        "description": "沖縄美ら海水族館周辺のエリアには、個性的な飲食店やカフェがたくさんあります。「カフェこくう」は、島野菜をふんだんに使った料理が自慢。沖縄の旬の味覚を堪能できますよ。今帰仁村の小高い丘の上にあり、海を望むロケーションも魅力です。美しい景色を眺めながら食事を楽しむのも、沖縄旅の醍醐味ですよね。",
+        "image": {
+          "height": 1562,
+          "sourceUrl": "https://a.mktgcdn.com/p/hUjlymeEakDl0PKxuXu5frV9CKKyd--n2FFlJdDkwA4/2343x1562.jpg",
+          "thumbnails": [
+            {
+              "height": 1562,
+              "url": "https://a.mktgcdn.com/p-sandbox/7l94BOVnkfsHibSJ14a4nZ1m_inyXY9SY1w8JEjbsHA/2343x1562.jpg",
+              "width": 2343
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/7l94BOVnkfsHibSJ14a4nZ1m_inyXY9SY1w8JEjbsHA/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/7l94BOVnkfsHibSJ14a4nZ1m_inyXY9SY1w8JEjbsHA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/7l94BOVnkfsHibSJ14a4nZ1m_inyXY9SY1w8JEjbsHA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/7l94BOVnkfsHibSJ14a4nZ1m_inyXY9SY1w8JEjbsHA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7l94BOVnkfsHibSJ14a4nZ1m_inyXY9SY1w8JEjbsHA/2343x1562.jpg",
+          "width": 2343
+        },
+        "imageCaption": "グルメと絶景を同時に楽しめる人気カフェ",
+        "infoBlockLabel": "山原そばの情報",
+        "infoBlockText": "住所：沖縄県国頭郡本部町伊豆味70-1電話番号：0980-47-4552営業時間：11～15時(売り切れ次第終了)定休日：月・火曜アクセス：（車）沖縄道許田ICから16km30分、駐車場あり／15台",
+        "sectionLevel": "h2",
+        "sectionTitle": "【1日目】14：00｜「カフェこくう」で島野菜を使ったランチを堪能！"
+      },
+      {
+        "cTA1": {
+          "label": "美ら海水族館入場チケットが付いたホテルプランをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/list/feature/churaumitk/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "美ら海水族館入場チケットをみる",
+          "link": "https://www.jtb.co.jp/leisure/fp/qKS005177/",
+          "linkType": "URL"
+        },
+        "description": "ランチのあとは「備瀬のフクギ並木」へ。たくさんのフクギがつくり出す緑のトンネルは癒し効果抜群！樹齢300年を超えるフクギや夫婦フクギなどを写真に収めながら歩きましょう。自転車や水牛車で巡るのもおすすめ。フクギが日差しを遮ってくれるので夏でも涼しく、心地よい木漏れ日のなかで過ごせます。宿泊は沖縄美ら海水族館周辺の宿で。二日目に備えてくつろぎのひと時を。",
+        "image": {
+          "height": 382,
+          "sourceUrl": "https://a.mktgcdn.com/p/cIgqcM3BFS61-FI7-dJAHgV-NrJVTQeDXPMP43fYPWc/487x382.jpg",
+          "thumbnails": [
+            {
+              "height": 382,
+              "url": "https://a.mktgcdn.com/p-sandbox/nfzrArhcmMMh1N4jIHw904o7Xf_7G-W-cOgM0-newe4/487x382.jpg",
+              "width": 487
+            },
+            {
+              "height": 154,
+              "url": "https://a.mktgcdn.com/p-sandbox/nfzrArhcmMMh1N4jIHw904o7Xf_7G-W-cOgM0-newe4/196x154.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nfzrArhcmMMh1N4jIHw904o7Xf_7G-W-cOgM0-newe4/487x382.jpg",
+          "width": 487
+        },
+        "imageCaption": "のどかな空気が流れる癒しスポット",
+        "infoBlockLabel": "道の駅」許田やんばる物産センターの情報",
+        "infoBlockText": "住所：沖縄県名護市許田17-1TEL：0980-54-0880営業時間：8：30〜19：00アクセス：那覇空港から車で約1時間",
+        "sectionLevel": "h2",
+        "sectionTitle": "【1日目】16：00｜「備瀬のフクギ並木」をのんびりおさんぽ"
+      },
+      {
+        "description": "「沖縄美ら海水族館」は観光客がまだ少ない朝に入館し、時間に余裕をもって見学するのがおすすめ。世界最大級の水槽「黒潮の海」は、ジンベエザメやナンヨウマンタが悠々と泳ぎ回れるほどの大きさを誇ります。そのほか、カラフルな魚たちが泳ぐ「熱帯魚の海」や、館外施設で開催されているイルカショーなど、みどころがいっぱいです。",
+        "image": {
+          "height": 1277,
+          "sourceUrl": "https://a.mktgcdn.com/p/1AQi6O2nVuknhrNSRvKHTsq_jfFOiisxsPAowdWyypY/1916x1277.jpg",
+          "thumbnails": [
+            {
+              "height": 1277,
+              "url": "https://a.mktgcdn.com/p-sandbox/TTBEttopligTtWdGkf2DC1zZMV7VyQQpsxnL-N3YM-s/1916x1277.jpg",
+              "width": 1916
+            },
+            {
+              "height": 1266,
+              "url": "https://a.mktgcdn.com/p-sandbox/TTBEttopligTtWdGkf2DC1zZMV7VyQQpsxnL-N3YM-s/1900x1266.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/TTBEttopligTtWdGkf2DC1zZMV7VyQQpsxnL-N3YM-s/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/TTBEttopligTtWdGkf2DC1zZMV7VyQQpsxnL-N3YM-s/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/TTBEttopligTtWdGkf2DC1zZMV7VyQQpsxnL-N3YM-s/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/TTBEttopligTtWdGkf2DC1zZMV7VyQQpsxnL-N3YM-s/1916x1277.jpg",
+          "width": 1916
+        },
+        "imageCaption": "ジンベエザメが泳ぐメイン水槽「黒潮の海」（2022年4月時点。画像提供：国営沖縄記念公園（海洋博公園）・沖縄美ら海水族館）",
+        "sectionLevel": "h2",
+        "sectionTitle": "【2日目】9：00｜みどころ満載の「沖縄美ら海水族館」へ"
+      },
+      {
+        "description": "「沖縄美ら海水族館」の南側、本部半島を縦断する県道84号沿いとその周辺には、沖縄そばの店が集まっています。「沖縄そば街道」とも呼ばれるこの道をドライブしながら、沖縄そば巡りをしてみてはいかがでしょう。「山原そば」のソーキそばは、甘辛く煮込んだソーキ肉とコクのあるスープが絶妙にマッチ！こだわりの一杯を楽しめます。",
+        "image": {
+          "height": 643,
+          "sourceUrl": "https://a.mktgcdn.com/p/U6KmN_cCPZj6RN6hYrQrp4KJTjJoFD3PukKuwbf3yMY/794x643.jpg",
+          "thumbnails": [
+            {
+              "height": 643,
+              "url": "https://a.mktgcdn.com/p-sandbox/Knn30rIBAJOrdeCNdpe2VKEgN12Y1ceaOHYUHuiB-h4/794x643.jpg",
+              "width": 794
+            },
+            {
+              "height": 501,
+              "url": "https://a.mktgcdn.com/p-sandbox/Knn30rIBAJOrdeCNdpe2VKEgN12Y1ceaOHYUHuiB-h4/619x501.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Knn30rIBAJOrdeCNdpe2VKEgN12Y1ceaOHYUHuiB-h4/556x450.jpg",
+              "width": 556
+            },
+            {
+              "height": 159,
+              "url": "https://a.mktgcdn.com/p-sandbox/Knn30rIBAJOrdeCNdpe2VKEgN12Y1ceaOHYUHuiB-h4/196x159.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Knn30rIBAJOrdeCNdpe2VKEgN12Y1ceaOHYUHuiB-h4/794x643.jpg",
+          "width": 794
+        },
+        "imageCaption": "行列ができる人気店。「美ら海水族館」から車で15分ほど",
+        "sectionLevel": "h2",
+        "sectionTitle": "【2日目】13：00｜沖縄そば街道の「山原そば」でランチ"
+      },
+      {
+        "description": "旅の締めくくりは、沖縄県北部の特産品が豊富に揃う「道の駅許田 やんばる物産センター」でおみやげ探し。シークヮーサージュースやソーキそば、もずくうどん、チョコもちなど、おいしいおみやげが手に入ります。フードコートやパーラーなどもあり、ドライブの休憩にもおすすめです。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_area_000004\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e沖縄のみどころ6大エリアは紹介こちら\u003c/a\u003e\u003c/span\u003e▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_area_000006\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e【沖縄県】「アダムとイブ伝説」が残る”恋の島” 古宇利島を一周ドライブ\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 620,
+          "sourceUrl": "https://a.mktgcdn.com/p/0K69XoGuvscdSJhA_LVqVlq808R8PpwVihsUy_YhJ3M/827x620.jpg",
+          "thumbnails": [
+            {
+              "height": 620,
+              "url": "https://a.mktgcdn.com/p-sandbox/TCZ58SWXZz4PlvhIF_njAupaDmG8EI0v8MN0LLj1ePA/827x620.jpg",
+              "width": 827
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/TCZ58SWXZz4PlvhIF_njAupaDmG8EI0v8MN0LLj1ePA/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/TCZ58SWXZz4PlvhIF_njAupaDmG8EI0v8MN0LLj1ePA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/TCZ58SWXZz4PlvhIF_njAupaDmG8EI0v8MN0LLj1ePA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/TCZ58SWXZz4PlvhIF_njAupaDmG8EI0v8MN0LLj1ePA/827x620.jpg",
+          "width": 827
+        },
+        "imageCaption": "さまざまなジャンルの特産品を販売しています",
+        "sectionLevel": "h2",
+        "sectionTitle": "【2日目】14：00｜「道の駅許田 やんばる物産センター」でおみやげをゲット"
+      },
+      {
+        "description": "----------------------------------------------※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_chiki_100070",
+      "news_ap_chiki_100073",
+      "news_ap_chiki_100075",
+      "news_ap_chiki_100076",
+      "news_ap_chiki_100072",
+      "news_ap_chiki_100074",
+      "news_ap_chiki_100080",
+      "news_ap_chiki_100087",
+      "news_ap_chiki_100077",
+      "news_ap_chiki_100083",
+      "news_ap_chiki_100078",
+      "news_ap_chiki_100082",
+      "news_ap_chiki_100079",
+      "news_ap_chiki_100081",
+      "news_ap_area_000006",
+      "news_ap_area_000004",
+      "news_ap_chiki_100048",
+      "news_ap_chiki_100049"
+    ],
+    "c_news_FeaturedArticlesTitle": "沖縄県のその他の記事",
+    "c_news_PublicationDate": "2022-04-17",
+    "c_news_UpdateDate": "2024-10-08",
+    "c_news_ViewCount": "372",
+    "c_news_ViewCount1of2": "4",
+    "c_news_ViewCount2of2": "372",
+    "c_news_ViewCountNum": "372",
+    "c_news_ViewCountNumForSorting": "26",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_ap_area_000005",
+    "name": "沖縄の1泊2日モデルコース！美ら海水族館周辺の王道スポットを満喫しよう",
+    "slug": "kokunai/okinawa/okinawa_all/news_ap_area_000005",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

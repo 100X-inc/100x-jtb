@@ -1,0 +1,128 @@
+{
+  "$id": "cp_14113012",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "千葉県",
+    "c_cp_CTA1": {
+      "label": "高橋の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQgwVedxVc",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfkBq",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "\u003cfont color\u003d\"red\"\u003e美味しいお酒のことならおまかせください！\u003c/font\u003e\n\n添乗員をしていました（大昔・・・）！以前は、月に1度は必ず国内外問わず旅行に行っていました♪旅先では、ご当地の美味しいお酒・おつまみを楽しむ事が大好きです。\n楽しい旅行の1ﾍﾟｰｼﾞお手伝いさせて下さい♪♪",
+    "c_cp_DisplayName": "高橋",
+    "c_cp_FieldOfExpertise": [
+      "お酒"
+    ],
+    "c_cp_HiraganaName": "たかはし",
+    "c_cp_JobTitle": "JTBイオンモール幕張新都心店 トラベルコンサルタント",
+    "c_cp_OverseasExpert": {
+      "area1": {
+        "rank": "bronze"
+      },
+      "area2": {
+        "rank": "bronze"
+      },
+      "area4": {
+        "rank": "bronze"
+      }
+    },
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 3000,
+      "sourceUrl": "https://a.mktgcdn.com/p/wKtJWRvEzSxoqZJtg22nUpNGSGSD3lLain3jKorH2vU/4000x3000.jpg",
+      "thumbnails": [
+        {
+          "height": 3000,
+          "url": "https://a.mktgcdn.com/p-sandbox/wKtJWRvEzSxoqZJtg22nUpNGSGSD3lLain3jKorH2vU/4000x3000.jpg",
+          "width": 4000
+        },
+        {
+          "height": 1425,
+          "url": "https://a.mktgcdn.com/p-sandbox/wKtJWRvEzSxoqZJtg22nUpNGSGSD3lLain3jKorH2vU/1900x1425.jpg",
+          "width": 1900
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/wKtJWRvEzSxoqZJtg22nUpNGSGSD3lLain3jKorH2vU/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/wKtJWRvEzSxoqZJtg22nUpNGSGSD3lLain3jKorH2vU/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/wKtJWRvEzSxoqZJtg22nUpNGSGSD3lLain3jKorH2vU/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/wKtJWRvEzSxoqZJtg22nUpNGSGSD3lLain3jKorH2vU/4000x3000.jpg",
+      "width": 4000
+    },
+    "c_cp_Point": "1768",
+    "c_cp_StrongAbroadArea1": [
+      "グアム",
+      "オーストラリア",
+      "ニュージーランド"
+    ],
+    "c_cp_StrongAbroadArea2": [
+      "アメリカ",
+      "カナダ",
+      "北米全般"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "西欧全般"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "香港・マカオ",
+      "韓国",
+      "台湾",
+      "ベトナム",
+      "インドネシア・バリ島"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "富山県",
+      "石川県",
+      "長野県"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "中国全般",
+      "四国全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般"
+    ],
+    "c_cp_Tags": [
+      "ハワイスペシャリスト上級",
+      "海外エキスパート",
+      "ＭＬＢ",
+      "ハワイ",
+      "カナダ・アメリカ",
+      "NZ"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 高橋",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 高橋",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_14113012",
+    "c_responsibleService": [
+      "海外専門デスクスタッフ",
+      "リテール店舗"
+    ],
+    "c_v2Folder": "10109_イオンモール幕張新都心店",
+    "name": "たかはし さちよ_14113012",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

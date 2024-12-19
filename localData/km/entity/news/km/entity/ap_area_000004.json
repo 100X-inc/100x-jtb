@@ -1,0 +1,335 @@
+{
+  "$id": "news_ap_area_000004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBホームページ 編集部 竹内 寿夫"
+    },
+    "c_ap_HeroImage": {
+      "alternateText": "感動の美ら島へ！沖縄のみどころ6大エリア紹介【沖縄県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+      "height": 800,
+      "sourceUrl": "http://a.mktgcdn.com/p/UYlqb0C6fMFwXGlLgjq08QNhiyiEuZtYvdYXvH5FocQ/1200x800.jpg",
+      "thumbnails": [
+        {
+          "height": 800,
+          "url": "//a.mktgcdn.com/p-sandbox/UYlqb0C6fMFwXGlLgjq08QNhiyiEuZtYvdYXvH5FocQ/1200x800.jpg",
+          "width": 1200
+        },
+        {
+          "height": 413,
+          "url": "//a.mktgcdn.com/p-sandbox/UYlqb0C6fMFwXGlLgjq08QNhiyiEuZtYvdYXvH5FocQ/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "//a.mktgcdn.com/p-sandbox/UYlqb0C6fMFwXGlLgjq08QNhiyiEuZtYvdYXvH5FocQ/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "//a.mktgcdn.com/p-sandbox/UYlqb0C6fMFwXGlLgjq08QNhiyiEuZtYvdYXvH5FocQ/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/UYlqb0C6fMFwXGlLgjq08QNhiyiEuZtYvdYXvH5FocQ/1200x800.jpg",
+      "width": 1200
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "リモート相談 沖縄専門デスクはこちら",
+        "uRL": "https://stores.jtb.co.jp/cc-0020"
+      },
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "沖縄のホテル・旅館・宿おすすめランキング",
+        "uRL": "https://www.jtb.co.jp/ranking/kokunai/okinawa/"
+      },
+      {
+        "linkText": "沖縄リゾートホテル特集",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/hotel/"
+      },
+      {
+        "linkText": "沖縄旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "島の最北端から最南端まで直線距離にして約120km、1周すると約400kmある沖縄県は、エリアごとに特色がはっきりしています。\n王道の「沖縄美ら海水族館」や「国際通り」をはじめ、やんばるエリアの景勝地「辺戸岬」や中部エリアの「美浜アメリカンビレッジ」、西海岸リゾートエリアの「やちむんの里」、南部エリアの「平和祈念公園」など、多彩な観光スポットが各地に点在。各エリアの魅力を紹介します！",
+    "c_ap_Tags": [
+      "アクティビティ",
+      "オーシャンビュー",
+      "リゾート",
+      "カフェ",
+      "グルメ",
+      "美ら海",
+      "やんばる",
+      "美浜",
+      "那覇",
+      "万座毛",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Theme": [
+      "記念旅行",
+      "自然・山",
+      "動植物園・公園",
+      "街あるき",
+      "カフェ",
+      "リゾート"
+    ],
+    "c_ap_Title": "感動の美ら島へ！沖縄のみどころ6大エリア紹介【沖縄県】",
+    "c_linkedArea3News": [
+      "okinawa_all"
+    ],
+    "c_metaDescription": "島の最北端から最南端まで直線距離にして約120km、1周すると約400kmある沖縄県は、エリアごとに特色がはっきりしています。\n王道の「沖縄美ら海水族館」や「国際通り」をはじめ、やんばるエリアの景勝地「辺戸岬…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "感動の美ら島へ！沖縄のみどころ6大エリア紹介【沖縄県】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_news_CTAs": [
+      {
+        "label": "リモート旅行相談 沖縄専門デスクはこちら",
+        "link": "https://stores.jtb.co.jp/cc-0020",
+        "linkType": "URL"
+      },
+      {
+        "label": "JTB店舗・専門店への相談はこちら",
+        "link": "https://consultants.jtb.co.jp/top#locator",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "description": "面積の約80％を照葉樹林が覆う沖縄本島北部のエリアで、古くから地域の人々に守られてきた豊かな森が広がっています。トレッキングやカヤックツアーなど、大自然を体感できるアクティビティが充実しているので、アクティブ派におすすめ。「ヤンバルクイナ生態展示学習施設 クイナの森」では、国の天然記念物で絶滅危惧種のヤンバルクイナを目の前で観察することができますよ。",
+        "image": {
+          "height": 506,
+          "sourceUrl": "http://a.mktgcdn.com/p/TMxDvg6BgDw0Fj1xNf-JaXAypoVNMUrXSb1aWfkXmrc/758x506.jpg",
+          "thumbnails": [
+            {
+              "height": 506,
+              "url": "//a.mktgcdn.com/p-sandbox/AyFpbWKCvhFEJ3MUCbm4Er3pWPmI1nf_DrniM-P2JjE/758x506.jpg",
+              "width": 758
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/AyFpbWKCvhFEJ3MUCbm4Er3pWPmI1nf_DrniM-P2JjE/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "//a.mktgcdn.com/p-sandbox/AyFpbWKCvhFEJ3MUCbm4Er3pWPmI1nf_DrniM-P2JjE/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/AyFpbWKCvhFEJ3MUCbm4Er3pWPmI1nf_DrniM-P2JjE/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/AyFpbWKCvhFEJ3MUCbm4Er3pWPmI1nf_DrniM-P2JjE/758x506.jpg",
+          "width": 758
+        },
+        "imageCaption": "カヤックツアーなどを楽しめる「東村ふれあいヒルギ公園」",
+        "sectionTitle": "【やんばる】亜熱帯の大自然でアクティビティを満喫！"
+      },
+      {
+        "description": "米軍基地が多く、アメリカンなスポットが点在するエリアです。「美浜アメリカンビレッジ」や「港川外国人住宅街」は、おしゃれなショップや飲食店の集結したスポットとして人気を集めています。エリア東側には4つの離島を結ぶ「海中道路」があり、車で離島巡りを楽しむことができます。両サイドに海が広がる道路は、地元でも人気のドライブスポットです。",
+        "image": {
+          "height": 1890,
+          "sourceUrl": "http://a.mktgcdn.com/p/K15nXQ3Nj5cbDQ0n9RrbNW6GPejhiFjeRZ-fitcSjuM/2835x1890.png",
+          "thumbnails": [
+            {
+              "height": 1890,
+              "url": "//a.mktgcdn.com/p-sandbox/-ptKGI4ELgjSxuO_A2J9BBi_7iAdGYrXunKCp7ucrms/2835x1890.png",
+              "width": 2835
+            },
+            {
+              "height": 1267,
+              "url": "//a.mktgcdn.com/p-sandbox/-ptKGI4ELgjSxuO_A2J9BBi_7iAdGYrXunKCp7ucrms/1900x1267.png",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/-ptKGI4ELgjSxuO_A2J9BBi_7iAdGYrXunKCp7ucrms/619x413.png",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/-ptKGI4ELgjSxuO_A2J9BBi_7iAdGYrXunKCp7ucrms/600x400.png",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/-ptKGI4ELgjSxuO_A2J9BBi_7iAdGYrXunKCp7ucrms/196x131.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/-ptKGI4ELgjSxuO_A2J9BBi_7iAdGYrXunKCp7ucrms/2835x1890.png",
+          "width": 2835
+        },
+        "imageCaption": "商業施設やホテル、ビーチなどがあるエンタメスポット「美浜アメリカンビレッジ」",
+        "sectionTitle": "【中部】バラエティに富んだ観光スポットが魅力"
+      },
+      {
+        "description": "那覇市の中心部にある「国際通り」は、沖縄のメインストリートといわれるだけあって多くの人で賑わいます。約1.6㎞の通り沿いには飲食店やおみやげ店がずらり。一日中楽しむことができますよ。2019年に起きた火災からの復興が進む「首里城」や、世界遺産の「玉陵（たまうどぅん）」など、琉球王国の歴史が感じられるスポットを巡りながら、王国時代に思いを馳せるのも一興です。",
+        "image": {
+          "height": 706,
+          "sourceUrl": "http://a.mktgcdn.com/p/VFgnkKgqeOLNg3s7VngT43wXQnHEker6aoXf_XALScg/1061x706.jpg",
+          "thumbnails": [
+            {
+              "height": 706,
+              "url": "//a.mktgcdn.com/p-sandbox/ot-ukKtagq_l55oFlYgdOPBzWawr2np9BvPgD4FLPg0/1061x706.jpg",
+              "width": 1061
+            },
+            {
+              "height": 412,
+              "url": "//a.mktgcdn.com/p-sandbox/ot-ukKtagq_l55oFlYgdOPBzWawr2np9BvPgD4FLPg0/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "//a.mktgcdn.com/p-sandbox/ot-ukKtagq_l55oFlYgdOPBzWawr2np9BvPgD4FLPg0/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "//a.mktgcdn.com/p-sandbox/ot-ukKtagq_l55oFlYgdOPBzWawr2np9BvPgD4FLPg0/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/ot-ukKtagq_l55oFlYgdOPBzWawr2np9BvPgD4FLPg0/1061x706.jpg",
+          "width": 1061
+        },
+        "imageCaption": "「国際通り」で沖縄グルメやおみやげ探しを存分に楽しもう",
+        "sectionTitle": "【那覇・首里】グルメや買い物を楽しめる沖縄観光の王道エリア"
+      },
+      {
+        "description": "ジンベエザメやナンヨウマンタが泳ぐ世界最大級の水槽がある「沖縄美ら海水族館」をはじめ、沖縄観光の王道スポットが点在するエリア。「備瀬のフクギ並木」で水牛車に乗ったり、「古宇利大橋」を渡って古宇利島をドライブしたりと、さまざまな楽しみ方ができます。島野菜を使ったメニューが楽しめるカフェや、沖縄そばが味わえる飲食店もたくさんあるので、グルメ三昧もおすすめ！",
+        "image": {
+          "height": 387,
+          "sourceUrl": "http://a.mktgcdn.com/p/eK4UaLmTI8pCn7I7pj8E2-Eao7yT2ozWHnJwoRmPYhA/487x387.jpg",
+          "thumbnails": [
+            {
+              "height": 387,
+              "url": "//a.mktgcdn.com/p-sandbox/yccYPIk7WtWP12GteIiHA-GRNC5FyXz3fpBOBEFsTFQ/487x387.jpg",
+              "width": 487
+            },
+            {
+              "height": 156,
+              "url": "//a.mktgcdn.com/p-sandbox/yccYPIk7WtWP12GteIiHA-GRNC5FyXz3fpBOBEFsTFQ/196x156.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/yccYPIk7WtWP12GteIiHA-GRNC5FyXz3fpBOBEFsTFQ/487x387.jpg",
+          "width": 487
+        },
+        "imageCaption": "散歩するだけでも楽しい「備瀬のフクギ並木」の緑のトンネル",
+        "sectionTitle": "【沖縄美ら海水族館周辺】沖縄を代表する観光スポットが多数"
+      },
+      {
+        "description": "大型のリゾートホテルが立ち並ぶ、沖縄屈指のリゾートエリア。景勝地の「万座毛」や「残波岬公園」などがあり、息をのむほど美しい絶景にも出会えます。そのほか、やちむん（焼き物）の産地「やちむんの里」もおすすめです。伝統的な技法でつくられた陶芸品は、自分用のおみやげにぴったり。お気に入りの一品を探してみてはいかがでしょうか。",
+        "image": {
+          "height": 311,
+          "sourceUrl": "http://a.mktgcdn.com/p/E_sYW-lg2dRnj6b6gAH2l7QuOyJI-T_XmpubrfVxGoM/469x311.jpg",
+          "thumbnails": [
+            {
+              "height": 311,
+              "url": "//a.mktgcdn.com/p-sandbox/8_r79zGQJUtmBKd4w3vma0miWRkLKxW7KXkhIKgabh4/469x311.jpg",
+              "width": 469
+            },
+            {
+              "height": 130,
+              "url": "//a.mktgcdn.com/p-sandbox/8_r79zGQJUtmBKd4w3vma0miWRkLKxW7KXkhIKgabh4/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/8_r79zGQJUtmBKd4w3vma0miWRkLKxW7KXkhIKgabh4/469x311.jpg",
+          "width": 469
+        },
+        "imageCaption": "ゾウの鼻に似た奇岩で知られる「万座毛」は沖縄屈指の絶景スポット",
+        "sectionTitle": "【西海岸リゾート】南国ムード漂うリゾートエリア"
+      },
+      {
+        "description": "オンザビーチで営業しているカフェなど、ロケーション抜群の海カフェがたくさんあり、沖縄らしさを満喫できるエリア。大型複合商業施設の「イーアス沖縄豊崎」が2020年にオープンして以来、観光地としての注目度も高まっています。このエリアで、ぜひ足を運んでほしいのが、沖縄戦終結の地に造られた「平和祈念公園」。戦争の教訓を伝える展示の数々から、平和の大切さを学ぶことができます。▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_area_000005\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e【沖縄美ら海水族館周辺】 王道スポットを巡る！定番をばっちり楽しむ一泊二日モデルコース\u003c/a\u003e\u003c/span\u003e▶\u003cspan style\u003d\"border-bottom: solid 1px blue;\"\u003e\u003ca href\u003d\"https://consultants.jtb.co.jp/ap_area_000006\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e【沖縄県】「アダムとイブ伝説」が残る”恋の島”へ。古宇利島をぐるりと一周\u003c/a\u003e\u003c/span\u003e",
+        "image": {
+          "height": 2480,
+          "sourceUrl": "http://a.mktgcdn.com/p/zjeCaVQE7bp8x0Kxp3FpcDMHP4_hjdMbqK9rKlHd6BM/3717x2480.jpg",
+          "thumbnails": [
+            {
+              "height": 2480,
+              "url": "//a.mktgcdn.com/p-sandbox/bUjKUyTS2d1hLmtNmD7DvZ9T9fTZLHW5P7RcMDwt-5I/3717x2480.jpg",
+              "width": 3717
+            },
+            {
+              "height": 1268,
+              "url": "//a.mktgcdn.com/p-sandbox/bUjKUyTS2d1hLmtNmD7DvZ9T9fTZLHW5P7RcMDwt-5I/1900x1268.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "//a.mktgcdn.com/p-sandbox/bUjKUyTS2d1hLmtNmD7DvZ9T9fTZLHW5P7RcMDwt-5I/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "//a.mktgcdn.com/p-sandbox/bUjKUyTS2d1hLmtNmD7DvZ9T9fTZLHW5P7RcMDwt-5I/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "//a.mktgcdn.com/p-sandbox/bUjKUyTS2d1hLmtNmD7DvZ9T9fTZLHW5P7RcMDwt-5I/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/bUjKUyTS2d1hLmtNmD7DvZ9T9fTZLHW5P7RcMDwt-5I/3717x2480.jpg",
+          "width": 3717
+        },
+        "imageCaption": "本島南部には絶景を楽しめる海カフェがいっぱい！",
+        "sectionTitle": "【南部】オーシャンビューのカフェが人気！"
+      },
+      {
+        "description": "----------------------------------------------※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。"
+      }
+    ],
+    "c_news_FeaturedArticles": [
+      "news_ap_chiki_100070",
+      "news_ap_chiki_100073",
+      "news_ap_chiki_100075",
+      "news_ap_chiki_100076",
+      "news_ap_chiki_100072",
+      "news_ap_chiki_100074",
+      "news_ap_chiki_100080",
+      "news_ap_chiki_100087",
+      "news_ap_chiki_100077",
+      "news_ap_chiki_100083",
+      "news_ap_chiki_100078",
+      "news_ap_chiki_100082",
+      "news_ap_chiki_100079",
+      "news_ap_chiki_100081",
+      "news_ap_area_000005",
+      "news_ap_area_000006",
+      "news_ap_chiki_100048",
+      "news_ap_chiki_100049"
+    ],
+    "c_news_FeaturedArticlesTitle": "沖縄県のその他の記事",
+    "c_news_PublicationDate": "2022-04-17",
+    "c_news_UpdateDate": "2022-04-17",
+    "c_news_ViewCount": "175",
+    "c_news_ViewCount1of2": "1",
+    "c_news_ViewCount2of2": "175",
+    "c_news_ViewCountNum": "175",
+    "c_news_ViewCountNumForSorting": "11",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_ap_area_000004",
+    "name": "【沖縄県】感動の美ら島へ！沖縄のみどころ6大エリア紹介",
+    "slug": "kokunai/okinawa/okinawa_all/news_ap_area_000004",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

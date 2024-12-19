@@ -1,0 +1,62 @@
+{
+  "$id": "yamanashi",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "koshinetsu"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_y_ishihara225_004",
+      "news_ap_chiki_100014",
+      "news_ap_h_takeuchi111_101",
+      "news_ap_area_0000080",
+      "news_ap_chiki_100132",
+      "news_ap_chiki_100024",
+      "news_ap_chiki_100003",
+      "news_ap_y_hotate510_001",
+      "news_ap_area_0000079"
+    ],
+    "c_metaDescription": "山梨に関する記事をピックアップ！JTBニュースでは、山梨で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 山梨 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "山梨",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/UXBJUcI7EyNYizziGBR0IuH8zI7K7z_aqDnMqnYubAI/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/2lM5cKLoOSeMTm7ntd66scuGP0cC3QEhDmtkTh4t5Fg/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/2lM5cKLoOSeMTm7ntd66scuGP0cC3QEhDmtkTh4t5Fg/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/2lM5cKLoOSeMTm7ntd66scuGP0cC3QEhDmtkTh4t5Fg/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/2lM5cKLoOSeMTm7ntd66scuGP0cC3QEhDmtkTh4t5Fg/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/2lM5cKLoOSeMTm7ntd66scuGP0cC3QEhDmtkTh4t5Fg/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/2lM5cKLoOSeMTm7ntd66scuGP0cC3QEhDmtkTh4t5Fg/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "山梨",
+    "slug": "kokunai/koshinetsu/yamanashi"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

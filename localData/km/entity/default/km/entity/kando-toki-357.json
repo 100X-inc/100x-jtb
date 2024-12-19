@@ -1,0 +1,38 @@
+{
+  "$id": "kando-toki-357",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_ap_PagesGeneration": true,
+    "c_imageURL": "https://www.jtb.co.jp/kando/assets/357_kv_pc01.jpg",
+    "c_pagesURL": "[[landingPageUrl]]",
+    "c_primaryCTA": {
+      "label": "地図で表示",
+      "link": "https://www.google.com/maps/search/?api\u003d1\u0026query\u003d34.375784%2C133.081358",
+      "linkType": "OTHER"
+    },
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "広島県",
+    "c_searchTags": [
+      "広島県",
+      "絶景",
+      "日本の絶景",
+      "穴場",
+      "風景",
+      "宿泊",
+      "秋",
+      "冬",
+      "海・湖・川・滝"
+    ],
+    "c_v2PagesURL": "[[landingPageUrl]]",
+    "description": "晩秋から冬にかけて、瀬戸内海で見ることができる不思議な絶景。それが、筆影山・竜王山から臨める海霧のショーです。明るい時間には瀬戸内海に浮かぶのどかな多島美を満喫できる場所ですが、これが早朝になると一転、全く雰囲気の異なる神秘的な景色が目の前に広がります。瀬戸内海を漂う海霧が島々の間を流れて海面を滑り、あるいは島を乗り越えたりしていく様子は、まるで巨大な生き物のようにも見えます。霧があたり一面を覆い隠してしまうのではなく、風が霧を押し流し、霧のベールの隙間に島々や海面が見え隠れするさまは、何とも神秘的です\n見所・お勧めポイント\n早朝の風に流される海霧のベールが、海に浮かぶ島々を隠したり、ちらりと姿を覗かせたりする様子は、一時も目が離せません。海霧が移動するのにあわせてどんどん目の前で景色が移り変わっていくので、すっかり日が昇るまで、時を忘れて見入ってしまうことでしょう。\n背景\n瀬戸内海国立公園の一部にある筆影山（標高311m）と竜王山（標高445m）は、瀬戸内海随一と謳われる多島美が見られる絶景ポイント。地元では畑山という名で親しまれており、春になれば花見客でにぎわう定番のお出かけスポットでもあります。よく晴れた日には、竜王山の展望台から、しまなみ海道に10ある橋のうち7つの橋を見ることができます。",
+    "landingPageUrl": "https://www.jtb.co.jp/kando/detail/357.asp",
+    "name": "三原の筆影山・竜王山からの海霧"
+  },
+  "entityType": "ce_article2",
+  "folder": "感動の瞬間",
+  "labels": []
+}

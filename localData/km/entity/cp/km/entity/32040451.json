@@ -1,0 +1,66 @@
+{
+  "$id": "cp_32040451",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "当店の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf-_q",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "【ご挨拶】\n日頃よりJTB調布パルコ店をご利用いただきまして誠にありがとうございます。\n当店は京王線調布駅前のパルコ5階にございます。\n個性豊かなスタッフがお客様の旅のスタイルに合わせたご提案をさせていただきます。\nどうぞお気軽にJTB調布パルコ店へお立ちよりくださいませ。",
+    "c_cp_DisplayName": "山田",
+    "c_cp_FieldOfExpertise": [
+      "母娘旅",
+      "クルーズ"
+    ],
+    "c_cp_HiraganaName": "やまだ",
+    "c_cp_JobTitle": "JTB調布パルコ店 店長",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/FfI2UE7xmFKcxWpKPH-aMRzBLiAisM0vKFXRl6TWhxE/1280x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/FfI2UE7xmFKcxWpKPH-aMRzBLiAisM0vKFXRl6TWhxE/1280x960.jpg",
+          "width": 1280
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/FfI2UE7xmFKcxWpKPH-aMRzBLiAisM0vKFXRl6TWhxE/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/FfI2UE7xmFKcxWpKPH-aMRzBLiAisM0vKFXRl6TWhxE/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/FfI2UE7xmFKcxWpKPH-aMRzBLiAisM0vKFXRl6TWhxE/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/FfI2UE7xmFKcxWpKPH-aMRzBLiAisM0vKFXRl6TWhxE/1280x960.jpg",
+      "width": 1280
+    },
+    "c_cp_Tags": [
+      "ハワイスペシャリスト上級"
+    ],
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 山田",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 山田",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_32040451",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "2024/10/03　JBX対応（リテール外転出）",
+    "name": "やまだ_32040451",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

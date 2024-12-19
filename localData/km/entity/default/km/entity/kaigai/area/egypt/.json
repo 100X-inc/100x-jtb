@@ -1,0 +1,27 @@
+{
+  "$id": "kaigai/area/egypt/",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_activeOnAnswers": true,
+    "c_searchArea1": [
+      "海外"
+    ],
+    "description": "エジプト旅行ならJTBのエジプトツアー予約がおすすめ。エジプト観光は、ギザのピラミッドやスフィンクス、カイロのエジプト考古学博物館、ルクソールやアブ・シンベルの遺跡群、ナイル川クルーズなど見所満載。JTBなら価格重視ツアーから治安面も安心の添乗員同行プラン、一人旅向けツアーまで、多数のパッケージツアーがあるので、旅のスタイルや予算に応じて比較してみて！",
+    "displayCoordinate": {
+      "latitude": 26.820553,
+      "longitude": 30.802498
+    },
+    "keywords": [
+      "エジプト",
+      "旅行",
+      "ツアー",
+      "JTB"
+    ],
+    "landingPageUrl": "https://www.jtb.co.jp/kaigai/area/egypt/",
+    "name": "エジプト旅行・エジプトツアー"
+  },
+  "entityType": "ce_area2",
+  "folder": "海外ツアー",
+  "labels": []
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "area_root",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea01": [
+      "kaigai",
+      "kokunai"
+    ],
+    "c_metaDescription": "「{tag}」に関する記事をピックアップ！JTBニュースでは、話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | {tag} |  旅行・おでかけ情報",
+    "c_news_BreadcrumbsName": "すべての記事一覧",
+    "name": "すべて",
+    "slug": "index.html"
+  },
+  "entityType": "ce_areaLevel0",
+  "folder": "ニュース記事",
+  "labels": []
+}

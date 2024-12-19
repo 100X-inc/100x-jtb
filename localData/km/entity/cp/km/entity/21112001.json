@@ -1,0 +1,64 @@
+{
+  "$id": "cp_21112001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVfgBc",
+      "linkType": "URL"
+    },
+    "c_cp_DisplayName": "竹浪",
+    "c_cp_HiraganaName": "たけなみ",
+    "c_cp_JobTitle": "JTBひばりが丘パルコ店　トラベルコンサルタント",
+    "c_cp_PagesGeneration": false,
+    "c_cp_Photo": {
+      "alternateText": "JTBひばりが丘パルコ店　トラベルコンサルタント　竹浪",
+      "height": 3264,
+      "sourceUrl": "https://a.mktgcdn.com/p/TcJgEWLH_4J_bYVgj61q7Ckzr6_CRDMbhbTOpcUjDl0/2448x3264.jpg",
+      "thumbnails": [
+        {
+          "height": 3264,
+          "url": "https://a.mktgcdn.com/p-sandbox/158Sf2lczTagDStsN0n-W3DNKTmlEnwNYytEn8BUwSo/2448x3264.jpg",
+          "width": 2448
+        },
+        {
+          "height": 1900,
+          "url": "https://a.mktgcdn.com/p-sandbox/158Sf2lczTagDStsN0n-W3DNKTmlEnwNYytEn8BUwSo/1425x1900.jpg",
+          "width": 1425
+        },
+        {
+          "height": 825,
+          "url": "https://a.mktgcdn.com/p-sandbox/158Sf2lczTagDStsN0n-W3DNKTmlEnwNYytEn8BUwSo/619x825.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/158Sf2lczTagDStsN0n-W3DNKTmlEnwNYytEn8BUwSo/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p-sandbox/158Sf2lczTagDStsN0n-W3DNKTmlEnwNYytEn8BUwSo/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/158Sf2lczTagDStsN0n-W3DNKTmlEnwNYytEn8BUwSo/2448x3264.jpg",
+      "width": 2448
+    },
+    "c_cp_Point": "1686",
+    "c_metaDescription": "JTBトラベルコンサルタント ｜ 竹浪",
+    "c_metaTitle": "JTBトラベルコンサルタント ｜ 竹浪",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_21112001",
+    "c_responsibleService": [
+      "リテール店舗"
+    ],
+    "c_v2Folder": "日付不明 JBX対応（リテール外転出）",
+    "name": "たけなみ あすか_21112001",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

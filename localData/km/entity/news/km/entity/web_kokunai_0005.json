@@ -1,0 +1,663 @@
+{
+  "$id": "news_web_kokunai_0005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_HeroImage": {
+      "height": 1280,
+      "sourceUrl": "https://a.mktgcdn.com/p/Fu_PBimRKnjQ07bnjV6Ojn_OW0Ecv0CUDA43Iiz8F-U/1920x1280.jpg",
+      "thumbnails": [
+        {
+          "height": 1280,
+          "url": "https://a.mktgcdn.com/p-sandbox/DwsUmiCOIk4yy31vc-gZ5jTG3IvposLz5bGiw0_jkOg/1920x1280.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p-sandbox/DwsUmiCOIk4yy31vc-gZ5jTG3IvposLz5bGiw0_jkOg/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/DwsUmiCOIk4yy31vc-gZ5jTG3IvposLz5bGiw0_jkOg/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/DwsUmiCOIk4yy31vc-gZ5jTG3IvposLz5bGiw0_jkOg/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/DwsUmiCOIk4yy31vc-gZ5jTG3IvposLz5bGiw0_jkOg/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/DwsUmiCOIk4yy31vc-gZ5jTG3IvposLz5bGiw0_jkOg/1920x1280.jpg",
+      "width": 1920
+    },
+    "c_ap_LinkContents": [
+      {
+        "linkText": "沖縄の記事一覧はこちら",
+        "uRL": "https://www.jtb.co.jp/news/list/kokunai/okinawa"
+      },
+      {
+        "linkText": "竹富島の旅行特集はこちら",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/okinawa/s_taketomijima/"
+      },
+      {
+        "linkText": "竹富島のホテル・旅館・宿を探す",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/4738102/"
+      },
+      {
+        "linkText": "竹富島のツアーを探す",
+        "uRL": "https://www.jtb.co.jp/kokunai_air/a/470504/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_PagesGeneration": true,
+    "c_ap_ShortDescription": "石垣島から一番近い島である竹富島は、沖縄の原風景が残るのどかな島です。周囲9.2kmほどの小さな島には、島民によって守られてきた美しい自然や文化などの魅力がたくさん詰まっています。\n\nそんな竹富島でぜひ訪れてほしい観光スポットと、おすすめの過ごし方をご紹介します！",
+    "c_ap_Tags": [
+      "カフェ",
+      "グルメ",
+      "ビーチリゾート",
+      "沖縄おすすめ",
+      "観光スポット"
+    ],
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_ap_Title": "レンタサイクルで周る！竹富島のおすすめ観光スポット\u0026楽しみ方",
+    "c_linkedArea3News": [
+      "okinawa_all"
+    ],
+    "c_metaDescription": "自転車で周れるほど小さな島「竹富島」には、魅力な観光スポットがギュッと集まっています。伝統的な赤瓦の住居が並ぶ集落や、ロケ地に使われる絶景の桟橋は必見です。レンタサイクルはもちろん、水牛車に乗って観光するのもおすすめです。島グルメも堪能して、ゆったり島時間を過ごしましょう！",
+    "c_metaTitle": "レンタサイクルで周る！竹富島のおすすめ観光スポット\u0026楽しみ方｜JTBニュース",
+    "c_news_CTAs": [
+      {
+        "label": "竹冨島への旅行を探す",
+        "link": "https://www.jtb.co.jp/kokunai/area/okinawa/s_taketomijima/",
+        "linkType": "URL"
+      },
+      {
+        "label": "竹冨島の宿をみる",
+        "link": "https://www.jtb.co.jp/kokunai-hotel/list/470504/",
+        "linkType": "URL"
+      }
+    ],
+    "c_news_Contents": [
+      {
+        "cTA1": {
+          "label": "ホテルピースアイランド竹富島の詳細・宿泊プランをみる",
+          "link": "https://www.jtb.co.jp/kokunai-hotel/htl/8725002/plan/",
+          "linkType": "URL"
+        },
+        "cTA2": {
+          "label": "スマホ電子チケット「安栄観光 往復乗船券（小人）」はこちら",
+          "link": "https://www.jtb.co.jp/leisure/m/pE1020294/",
+          "linkType": "URL"
+        },
+        "cTA3": {
+          "label": "石垣島への航空券をみる",
+          "link": "https://www.jtb.co.jp/kokunai_air/a/470503/",
+          "linkType": "URL"
+        },
+        "description": "360度海に囲まれている竹富島には、透き通るような美しいビーチはもちろん、文化財に登録されている施設も多く存在します。まずは定番の観光スポットを訪れましょう。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/pAAg339Xtygpj6mnexR2IpiGi4HzaOzk6qiitbLbFlA/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/pAAg339Xtygpj6mnexR2IpiGi4HzaOzk6qiitbLbFlA/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/pAAg339Xtygpj6mnexR2IpiGi4HzaOzk6qiitbLbFlA/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/pAAg339Xtygpj6mnexR2IpiGi4HzaOzk6qiitbLbFlA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/pAAg339Xtygpj6mnexR2IpiGi4HzaOzk6qiitbLbFlA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/pAAg339Xtygpj6mnexR2IpiGi4HzaOzk6qiitbLbFlA/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "akiko / PIXTA(ピクスタ)",
+        "infoBlockLabel": "コンドイ浜の基本情報",
+        "infoBlockText": "アクセス：竹富港から車で約8分住所：沖縄県八重山郡竹富町",
+        "sectionLevel": "h2",
+        "sectionTitle": "1．竹富島で必ず行きたい観光スポット"
+      },
+      {
+        "cTA1": {
+          "label": "スマホ電子チケット「安栄観光 往復乗船券（大人）」はこちら",
+          "link": "https://www.jtb.co.jp/leisure/m/pE1020294/",
+          "linkType": "URL"
+        },
+        "description": "竹富島にはサンゴの石垣、赤瓦の屋根にシーサーといった伝統的な様式をふまえた住居が多く、古き良き沖縄の美しい集落が今もなお大切に受け継がれています。建物の建設に厳しい制限を設けたり、年に2回、浜から砂を運んで集落の道や民家の庭を整えたりと、島民の力によって守られてきた集落は、1987年に重要伝統的建造物群保存地区にも選定されました。竹富島に一歩足を踏み入れると、白砂が敷き詰められた路地や、年間を通して咲いているハイビスカスなどの花々が目の前に広がります。沖縄の伝統的な街並みの中で、のんびりとした時間を過ごしましょう。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/Wf9t67QBn5W8Sf2c36m7e8TB00qBrNm0UTljUoGVWGs/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/Wf9t67QBn5W8Sf2c36m7e8TB00qBrNm0UTljUoGVWGs/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/Wf9t67QBn5W8Sf2c36m7e8TB00qBrNm0UTljUoGVWGs/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Wf9t67QBn5W8Sf2c36m7e8TB00qBrNm0UTljUoGVWGs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Wf9t67QBn5W8Sf2c36m7e8TB00qBrNm0UTljUoGVWGs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Wf9t67QBn5W8Sf2c36m7e8TB00qBrNm0UTljUoGVWGs/800x533.jpg",
+          "width": 800
+        },
+        "imageCaption": "daysgoby_JPN / PIXTA （ピクスタ）",
+        "infoBlockLabel": "カイジ浜の基本情報",
+        "infoBlockText": "アクセス：竹富港から車で約8分住所：沖縄県八重山郡竹富町竹富",
+        "sectionLevel": "h3",
+        "sectionTitle": "集落（重要伝統的建造物群保存地区）"
+      },
+      {
+        "description": "美しい景観が有名な竹富島の西側に位置するコンドイ浜は、観光客も多く訪れる、竹富島を代表するビーチです。真っ白な砂浜とブルーに輝く海のコントラストはまさに絶景。遠浅で抜群の透明度を誇るコンドイ浜は、波も穏やかなのでお子様連れのファミリー層も気軽に楽しむことができます。また、潮が引いたときに現れる「幻の浜」は、訪れるタイミングによって海の色や浜の大きさが変わります。満潮と干潮の時間を事前にチェックしてから訪れましょう。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/m87EOHmtQAGCDE8j8NOD03-NESwL1Z740TnvlgkDn-k/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/m87EOHmtQAGCDE8j8NOD03-NESwL1Z740TnvlgkDn-k/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/m87EOHmtQAGCDE8j8NOD03-NESwL1Z740TnvlgkDn-k/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/m87EOHmtQAGCDE8j8NOD03-NESwL1Z740TnvlgkDn-k/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/m87EOHmtQAGCDE8j8NOD03-NESwL1Z740TnvlgkDn-k/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/m87EOHmtQAGCDE8j8NOD03-NESwL1Z740TnvlgkDn-k/800x533.jpg",
+          "width": 800
+        },
+        "infoBlockLabel": "西桟橋の基本情報",
+        "infoBlockText": "アクセス：竹富港から車で約5分住所：沖縄県八重山郡竹富町竹富",
+        "sectionLevel": "h3",
+        "sectionTitle": "コンドイ浜"
+      },
+      {
+        "description": "コンドイ浜に隣接するカイジ浜は、「星砂の浜」と呼ばれるきれいなビーチです。手のひらに浜辺の砂をつけてみると、星の形をした「星の砂」が見つかります。砂を持ち帰ることはできませんが、ビーチ入り口付近にある売店で販売しているので旅の思い出に購入してみてはいかがでしょうか。また、潮の流れが速いので遊泳は禁止となっています。星の砂を探したり、木蔭でひとやすみしたりしながらおだやかな時間を過ごすことができるビーチです。",
+        "image": {
+          "height": 533,
+          "sourceUrl": "https://a.mktgcdn.com/p/S7OdpsnmfxvL-pLCIxX2e1LSeGph39SEewkiD5RdsRo/800x533.jpg",
+          "thumbnails": [
+            {
+              "height": 533,
+              "url": "https://a.mktgcdn.com/p-sandbox/S7OdpsnmfxvL-pLCIxX2e1LSeGph39SEewkiD5RdsRo/800x533.jpg",
+              "width": 800
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/S7OdpsnmfxvL-pLCIxX2e1LSeGph39SEewkiD5RdsRo/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/S7OdpsnmfxvL-pLCIxX2e1LSeGph39SEewkiD5RdsRo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/S7OdpsnmfxvL-pLCIxX2e1LSeGph39SEewkiD5RdsRo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/S7OdpsnmfxvL-pLCIxX2e1LSeGph39SEewkiD5RdsRo/800x533.jpg",
+          "width": 800
+        },
+        "infoBlockLabel": "なごみの塔の基本情報",
+        "infoBlockText": "アクセス：竹富港から車で約5分住所：沖縄県八重山郡竹富町竹富",
+        "sectionLevel": "h3",
+        "sectionTitle": "カイジ浜"
+      },
+      {
+        "description": "西桟橋は国の登録有形文化財であり、人気の観光スポットです。夕日を眺める絶景スポットとして映画やドラマのロケ地として使われることも多く、海に向かって100mほど突き出した桟橋から眺める美しいサンセットを一目見ようと、日没間近には大勢の観光客が訪れます。桟橋の先端に立てば、まるで海の上に立っているかのような気分に。竹富島に訪れた際には必ず立ち寄りたいスポットのひとつです。",
+        "image": {
+          "height": 1018,
+          "sourceUrl": "https://a.mktgcdn.com/p/duXrKuY-cMauRwyARCjbqy-_qiEvRR67hAesg1wgjwg/1536x1018.jpg",
+          "thumbnails": [
+            {
+              "height": 1018,
+              "url": "https://a.mktgcdn.com/p-sandbox/duXrKuY-cMauRwyARCjbqy-_qiEvRR67hAesg1wgjwg/1536x1018.jpg",
+              "width": 1536
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/duXrKuY-cMauRwyARCjbqy-_qiEvRR67hAesg1wgjwg/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/duXrKuY-cMauRwyARCjbqy-_qiEvRR67hAesg1wgjwg/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/duXrKuY-cMauRwyARCjbqy-_qiEvRR67hAesg1wgjwg/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/duXrKuY-cMauRwyARCjbqy-_qiEvRR67hAesg1wgjwg/1536x1018.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "南西観光の基本情報",
+        "infoBlockText": "住所：沖縄県八重山郡竹富町竹富372TEL：090-3797-7881（予約専用）営業時間：8:15〜16:15（ツアー出発は午前、午後各1回）料金：大人1,500円、小学生800円、幼児無料（ツアー大人7,000円）定休日：年中無休（荒天時、種子取祭のみ欠航）※2022年1月24日～グラスボートは営業停止中です。再開の目途が立ち次第、南西観光HPに掲載予定です。",
+        "sectionLevel": "h3",
+        "sectionTitle": "西桟橋"
+      },
+      {
+        "description": "なごみの塔は、竹富島の集落の人々によって建てられた国の登録有形文化財です。島で最も高い場所とされ、竹富島の集落や海岸線を一望できる撮影スポットとなっています。また、2019年10月から本体の補修に加え、階段下に門扉を設置するなど修理が行われ、2020年の2月末に工事が完了しました。塔への負担を懸念し現在は登降が禁止されていますが、竹富島のシンボルタワーを眺めに行ってみましょう！",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/0bZuRj3lU4qnPdJLSI-u8ONJ_Y5BAB8OgZ-UqHCwaiY/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/0bZuRj3lU4qnPdJLSI-u8ONJ_Y5BAB8OgZ-UqHCwaiY/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/0bZuRj3lU4qnPdJLSI-u8ONJ_Y5BAB8OgZ-UqHCwaiY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/0bZuRj3lU4qnPdJLSI-u8ONJ_Y5BAB8OgZ-UqHCwaiY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/0bZuRj3lU4qnPdJLSI-u8ONJ_Y5BAB8OgZ-UqHCwaiY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0bZuRj3lU4qnPdJLSI-u8ONJ_Y5BAB8OgZ-UqHCwaiY/1536x1024.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "YAARAA cafeの基本情報",
+        "infoBlockText": "アクセス：竹富港から車で約5分住所：沖縄県八重山郡竹富町竹富637営業時間：11:00〜20:00定休日：火・水曜日",
+        "sectionLevel": "h3",
+        "sectionTitle": "なごみの塔"
+      },
+      {
+        "description": "おだやかな時間が流れる竹富島ならではの過ごし方をご紹介します。スケジュールや天候に合わせた楽しみ方で竹富島を満喫しましょう。",
+        "image": {
+          "height": 848,
+          "sourceUrl": "https://a.mktgcdn.com/p/ddISQHg67YQqTtxKxOl5G5T2gNJRXoBzEVSaafOA7jg/1200x848.jpg",
+          "thumbnails": [
+            {
+              "height": 848,
+              "url": "https://a.mktgcdn.com/p-sandbox/9w_M4Lr-lpmuEhsHZ3Wpu50JaD9lJIK5yfN-wmH5TOQ/1200x848.jpg",
+              "width": 1200
+            },
+            {
+              "height": 437,
+              "url": "https://a.mktgcdn.com/p-sandbox/9w_M4Lr-lpmuEhsHZ3Wpu50JaD9lJIK5yfN-wmH5TOQ/619x437.jpg",
+              "width": 619
+            },
+            {
+              "height": 424,
+              "url": "https://a.mktgcdn.com/p-sandbox/9w_M4Lr-lpmuEhsHZ3Wpu50JaD9lJIK5yfN-wmH5TOQ/600x424.jpg",
+              "width": 600
+            },
+            {
+              "height": 139,
+              "url": "https://a.mktgcdn.com/p-sandbox/9w_M4Lr-lpmuEhsHZ3Wpu50JaD9lJIK5yfN-wmH5TOQ/196x139.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9w_M4Lr-lpmuEhsHZ3Wpu50JaD9lJIK5yfN-wmH5TOQ/1200x848.jpg",
+          "width": 1200
+        },
+        "infoBlockLabel": "Islandの基本情報",
+        "infoBlockText": "アクセス：竹富港から車で約5分住所：沖縄県八重山郡竹富町竹富164-5TEL：0980-85-2403営業時間：10:00〜17:00定休日：不定休料金：貝細工体験3,800円（要予約）所要時間：約3時間",
+        "sectionLevel": "h2",
+        "sectionTitle": "2．竹富島を満喫する、おすすめの楽しみ方"
+      },
+      {
+        "description": "レンタカーやレンタバイクがない竹富島で、隅々まで観光するのに便利なのがレンタサイクルです。竹富島は、日帰りでも主要の観光スポットを十分めぐることができます。集落からビーチまでは歩くと少し時間がかかってしまうので、レンタサイクルを利用して効率よく竹富島観光を楽しみましょう。",
+        "image": {
+          "height": 655,
+          "sourceUrl": "https://a.mktgcdn.com/p/3MmEQFFDFI1Jr085UOd6gdNaHi1J5azDzddpvN4EbsI/983x655.jpg",
+          "thumbnails": [
+            {
+              "height": 655,
+              "url": "https://a.mktgcdn.com/p-sandbox/yX8yU2rDcU7nm43gKZF6c5tu71oCB2X6c3vqOrNptq0/983x655.jpg",
+              "width": 983
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/yX8yU2rDcU7nm43gKZF6c5tu71oCB2X6c3vqOrNptq0/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/yX8yU2rDcU7nm43gKZF6c5tu71oCB2X6c3vqOrNptq0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/yX8yU2rDcU7nm43gKZF6c5tu71oCB2X6c3vqOrNptq0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yX8yU2rDcU7nm43gKZF6c5tu71oCB2X6c3vqOrNptq0/983x655.jpg",
+          "width": 983
+        },
+        "infoBlockLabel": "カフェ テードゥン しだめー館の基本情報",
+        "infoBlockText": "アクセス：竹富島から車で約6分住所：沖縄県八重山郡竹富町竹富361TEL：0980-85-2239営業時間：11:00〜14:00（L.O 13:30）、18:30〜21:00 （L.O 20:00）定休日：不定休※夜のご予約は当日予約となります。",
+        "sectionLevel": "h3",
+        "sectionTitle": "レンタサイクルで島内をぐるりと一周！"
+      },
+      {
+        "description": "竹富島で欠かせないのが、水牛車観光。赤瓦の屋根が連なる昔ながらの町並みや、白砂の道に咲き誇る花々を眺めながら、ゆっくりと時間をかけて島を観光することができます。水牛車は人の歩くスピードよりもゆっくりですが、ガイドさんの三線や民謡を楽しみながら、まったりと流れる島時間を満喫しましょう。所要時間は30〜40分ほどで、料金の相場は大人（中学生以上）約3,000円、小人（3歳から小学生まで）約1,500円です。",
+        "image": {
+          "height": 1152,
+          "sourceUrl": "https://a.mktgcdn.com/p/JEg0kbhtIw2Z0S9bFpPIcSi1gMKGtKvr1YonTHHrzuE/1536x1152.jpg",
+          "thumbnails": [
+            {
+              "height": 1152,
+              "url": "https://a.mktgcdn.com/p-sandbox/JEg0kbhtIw2Z0S9bFpPIcSi1gMKGtKvr1YonTHHrzuE/1536x1152.jpg",
+              "width": 1536
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/JEg0kbhtIw2Z0S9bFpPIcSi1gMKGtKvr1YonTHHrzuE/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/JEg0kbhtIw2Z0S9bFpPIcSi1gMKGtKvr1YonTHHrzuE/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/JEg0kbhtIw2Z0S9bFpPIcSi1gMKGtKvr1YonTHHrzuE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JEg0kbhtIw2Z0S9bFpPIcSi1gMKGtKvr1YonTHHrzuE/1536x1152.jpg",
+          "width": 1536
+        },
+        "infoBlockLabel": "HaaYa nagomi-cafeの基本情報",
+        "infoBlockText": "アクセス：竹富港から車で約5分住所：沖縄県八重山郡竹富町竹富379TEL：0980-85-2253営業時間：10:30〜17:00定休日：不定休",
+        "sectionLevel": "h3",
+        "sectionTitle": "水牛車でのんびりと集落をまわる！"
+      },
+      {
+        "description": "沖縄といえば、やはり海！ 竹富島ではマリンアクティビティも充実しています。島を代表するビーチ、コンドイ浜は、遠浅で波も穏やかなので、お子様やシュノーケリング初心者の方でも安心です。シーズン中は移動売店でシュノーケリングセットのレンタルも行っており、更衣室やトイレ、シャワーの設備もあります。",
+        "image": {
+          "height": 1150,
+          "sourceUrl": "https://a.mktgcdn.com/p/tOXhRAV8DqzyieAMgT8Lb4tzuWsuw50Z_fu6F7lyRLM/1536x1150.jpg",
+          "thumbnails": [
+            {
+              "height": 1150,
+              "url": "https://a.mktgcdn.com/p-sandbox/89PelcQWhi5Vwex4NMFMxeOUDh0oMRCwMZm9eRA8wSE/1536x1150.jpg",
+              "width": 1536
+            },
+            {
+              "height": 463,
+              "url": "https://a.mktgcdn.com/p-sandbox/89PelcQWhi5Vwex4NMFMxeOUDh0oMRCwMZm9eRA8wSE/619x463.jpg",
+              "width": 619
+            },
+            {
+              "height": 449,
+              "url": "https://a.mktgcdn.com/p-sandbox/89PelcQWhi5Vwex4NMFMxeOUDh0oMRCwMZm9eRA8wSE/600x449.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/89PelcQWhi5Vwex4NMFMxeOUDh0oMRCwMZm9eRA8wSE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/89PelcQWhi5Vwex4NMFMxeOUDh0oMRCwMZm9eRA8wSE/1536x1150.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "シュノーケル＆グラスボートで海を満喫！"
+      },
+      {
+        "description": "グラスボートでは、八重山屈指といわれる竹富島沖の美しいサンゴ礁とカラフルな魚を船底のガラス窓から見ることができます。ベテラン船長の解説を聞きつつ、窓から入る海風を感じながら海を満喫しましょう。南西観光では、今夏より島ガイドが案内する「まるっと竹富島」ツアー（グラスボート、レンタサイクル、ガイドナビ込）も始まります。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/LM63guyWaS95Glc2Rw-ctIkWx1y1mbpdEuaNfVJ8J2k/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/6p3dHv1VDuogRBg9Y1BuWi6V4ndNUTs6ilZ54HAHtng/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/6p3dHv1VDuogRBg9Y1BuWi6V4ndNUTs6ilZ54HAHtng/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/6p3dHv1VDuogRBg9Y1BuWi6V4ndNUTs6ilZ54HAHtng/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/6p3dHv1VDuogRBg9Y1BuWi6V4ndNUTs6ilZ54HAHtng/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6p3dHv1VDuogRBg9Y1BuWi6V4ndNUTs6ilZ54HAHtng/1536x1024.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h4",
+        "sectionTitle": "グラスボート"
+      },
+      {
+        "description": "沖縄の原風景が残る竹富島には、個性的な作家の工芸品や、南国らしいアイテムが揃うショップをはじめ、島グルメを堪能できる食堂やカフェなど魅力的なお店が点在します。竹富島散策の際にはぜひ立ち寄ってみてください。 観光客はもちろん、地元の島民にも人気のあるお店をご紹介します。",
+        "image": {
+          "height": 896,
+          "sourceUrl": "https://a.mktgcdn.com/p/eeaf_Bd7Ybw1I4rZc9Xi7ZXFBkH895GJEvKIWMyUFNE/1344x896.jpg",
+          "thumbnails": [
+            {
+              "height": 896,
+              "url": "https://a.mktgcdn.com/p-sandbox/6OfWJgxxRtIwyzzp3J_rHf9_ukYocS71sDFoPJcWx18/1344x896.jpg",
+              "width": 1344
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/6OfWJgxxRtIwyzzp3J_rHf9_ukYocS71sDFoPJcWx18/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/6OfWJgxxRtIwyzzp3J_rHf9_ukYocS71sDFoPJcWx18/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/6OfWJgxxRtIwyzzp3J_rHf9_ukYocS71sDFoPJcWx18/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6OfWJgxxRtIwyzzp3J_rHf9_ukYocS71sDFoPJcWx18/1344x896.jpg",
+          "width": 1344
+        },
+        "sectionLevel": "h2",
+        "sectionTitle": "3．ショップ＆グルメで竹富島を満喫！"
+      },
+      {
+        "description": "YAARAA cafe（ヤーラーカフェ）は竹富島の3つの集落のうち南に位置する仲筋集落にあり、ビーチグラスや木の実など、島の天然素材を使ったハンドメイドのアクセサリーやオリジナルTシャツが人気のお店です。伝統的な沖縄民家を改装した赤瓦の建物は雰囲気も良く、かわいい店内には店主のセンスが光る竹富島限定のアイテムが揃います。ここでしか手に入らない個性的なお土産をゲットしましょう。",
+        "image": {
+          "height": 785,
+          "sourceUrl": "https://a.mktgcdn.com/p/gxjCaQtFf1z9M05PoragpNd-yNt7ZJPzM1REVDM51u8/1047x785.jpg",
+          "thumbnails": [
+            {
+              "height": 785,
+              "url": "https://a.mktgcdn.com/p-sandbox/3hx93YnmcK2UHCYYS2Inn93vYMQpBeG0ifMSJGZ2Rd8/1047x785.jpg",
+              "width": 1047
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/3hx93YnmcK2UHCYYS2Inn93vYMQpBeG0ifMSJGZ2Rd8/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3hx93YnmcK2UHCYYS2Inn93vYMQpBeG0ifMSJGZ2Rd8/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/3hx93YnmcK2UHCYYS2Inn93vYMQpBeG0ifMSJGZ2Rd8/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3hx93YnmcK2UHCYYS2Inn93vYMQpBeG0ifMSJGZ2Rd8/1047x785.jpg",
+          "width": 1047
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "YAARAA cafe（ヤーラーカフェ）"
+      },
+      {
+        "description": "八重山の海でとれた夜光貝などの貝殻を削って作られた作品のギャラリーとアクセサリーのお店です。店内に並ぶネックレスやブレスレット、ストラップはすべてハンドメイドでひとつひとつ丁寧に作られたもの。竹富島に宿泊する人は、夜限定で行われる貝細工の手作り体験もできるので、参加してみるのもおすすめです。竹富島を訪れた旅の記念に、かわいいアクセサリーを作ってみるのはいかがでしょうか。",
+        "image": {
+          "height": 1024,
+          "sourceUrl": "https://a.mktgcdn.com/p/WFPRvoVcrnmr9-of4-vPOPq5sTxBIeQ7kHT-pTabutg/1536x1024.jpg",
+          "thumbnails": [
+            {
+              "height": 1024,
+              "url": "https://a.mktgcdn.com/p-sandbox/WFPRvoVcrnmr9-of4-vPOPq5sTxBIeQ7kHT-pTabutg/1536x1024.jpg",
+              "width": 1536
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/WFPRvoVcrnmr9-of4-vPOPq5sTxBIeQ7kHT-pTabutg/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/WFPRvoVcrnmr9-of4-vPOPq5sTxBIeQ7kHT-pTabutg/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/WFPRvoVcrnmr9-of4-vPOPq5sTxBIeQ7kHT-pTabutg/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WFPRvoVcrnmr9-of4-vPOPq5sTxBIeQ7kHT-pTabutg/1536x1024.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "Island（あいらんど）"
+      },
+      {
+        "description": "「てーどぅん」は島の方言で竹富、「しだめー」はかたつむりを意味します。お客様にゆっくりくつろいで欲しいというオーナーさんの想いからこの名前が名付けられました。島では珍しい味噌風味の名物ラフティ丼や、ゴーヤチャンプルー定食など、ボリュームたっぷりのメニューはもちろん、アイスやかき氷などの甘味、さらにお酒も豊富に取り揃えているので夜には居酒屋使いも可能です。地元の島人たちも通う島食堂で、南国グルメを堪能しましょう。",
+        "image": {
+          "height": 864,
+          "sourceUrl": "https://a.mktgcdn.com/p/V5K20u_gS3K2ubw2F3rcye4Aj8GBrsHqyGTSHb_4U30/1536x864.jpg",
+          "thumbnails": [
+            {
+              "height": 864,
+              "url": "https://a.mktgcdn.com/p-sandbox/V5K20u_gS3K2ubw2F3rcye4Aj8GBrsHqyGTSHb_4U30/1536x864.jpg",
+              "width": 1536
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/V5K20u_gS3K2ubw2F3rcye4Aj8GBrsHqyGTSHb_4U30/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/V5K20u_gS3K2ubw2F3rcye4Aj8GBrsHqyGTSHb_4U30/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/V5K20u_gS3K2ubw2F3rcye4Aj8GBrsHqyGTSHb_4U30/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/V5K20u_gS3K2ubw2F3rcye4Aj8GBrsHqyGTSHb_4U30/1536x864.jpg",
+          "width": 1536
+        },
+        "sectionLevel": "h3",
+        "sectionTitle": "カフェ テードゥン しだめー館"
+      },
+      {
+        "description": "竹富島のシンボルであるなごみの塔の隣にあり、島では珍しい2階建ての建物にあるカフェ。海をイメージしたとされるスタイリッシュな店内からは、竹富島の集落が一望できます。島ならではの食材を使った冷たいスイーツはもちろん、食事メニューも豊富に揃っているので、観光途中の休憩にもぴったりです。写真のさとうきびアイスパフェは、やさしい甘さのさとうきびアイスに季節のフルーツをトッピングしたもの。ここでしか味わえない島の恵みたっぷりの絶品スイーツを堪能しましょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "HaaYa nagomi-cafe（はーやなごみかふぇ）"
+      },
+      {
+        "description": "日帰りでも十分楽しめる竹富島ですが、より島の魅力を満喫するなら宿泊するのがおすすめです。都会の喧騒から離れ、のどかな時間が流れる竹富島で日々の疲れを癒しましょう。地元の食材を使った食事を存分に楽しんだあとは、八重山諸島ならではの満天の星を眺めることもできます。",
+        "sectionLevel": "h2",
+        "sectionTitle": "4．宿泊滞在してゆったりと島時間を満喫！"
+      },
+      {
+        "description": "集落北部の静かなエリアに位置するコテージタイプのホテルです。人気観光スポットであるコンドイ浜や西桟橋にも近く、沖縄らしい赤瓦の屋根が印象的です。客室の壁には沖縄の伝統素材とされる琉球漆喰を使用しており、高い天井は開放感も抜群！ テラスには昼寝や星空観察ができるハンモック（先着順）もあるので、昼夜問わず沖縄の自然を満喫することができます。全室コテージの静かな癒しスポットで、プライベートな時間を楽しみましょう。",
+        "sectionLevel": "h3",
+        "sectionTitle": "ホテルピースアイランド竹富島"
+      },
+      {
+        "description": "竹富島へアクセスするには、まずは玄関口となる石垣島へ。東京から石垣島までは直行便で約3時間、大阪からは直行便で約2時間30分です。那覇空港-石垣空港は便数も多いので、那覇経由で石垣島に行くことも可能です。石垣島に到着したら、石垣港離島ターミナルへ向かいましょう。タクシーなら約30分、バスなら約30〜50分で到着します。石垣港離島ターミナルからは八重山諸島の各有人島へのフェリーが運航しています。島によって便数が大きく異なるので事前に時間の確認を忘れずに。石垣島から竹富島への所要時間はフェリーで10〜15分ほどです。フェリーの乗船券は予約もできますが、当日、ターミナルでも購入できます。台風や季節風の影響で欠航することがあるため、当日の運航状況を各船会社のホームページで確認してから購入するのが良いでしょう。乗車券は往復で購入すると少し安くなるのでおすすめです。竹富島へは大人片道610円、往復1,160円です。八重山観光フェリーと安栄観光は相互利用が可能となっており、波照間島航路を除き、どちらの乗船券でも両社の船に乗ることができます。ターミナル内の旅行会社ではさまざまな島巡りツアーが用意されているので、検討してみてはいかがでしょうか。",
+        "sectionLevel": "h2",
+        "sectionTitle": "5．竹富島への行き方・アクセスをチェック！"
+      },
+      {
+        "description": "美しいビーチ、伝統ある集落、のどかな時間が流れる水牛車観光、そしておいしい島グルメ…。南国ならではの魅力がぎゅっと詰まった竹富島はいかがでしたか？ 石垣島から少し足を延ばして、のんびりとした島時間を楽しみましょう。※2020年7月時点の情報です。内容は変更になることがあります。",
+        "sectionLevel": "h2",
+        "sectionTitle": "6．まとめ"
+      }
+    ],
+    "c_news_PublicationDate": "2020-08-25",
+    "c_news_UpdateDate": "2024-04-22",
+    "c_news_ViewCount": "1629",
+    "c_news_ViewCount2of2": "1629",
+    "c_news_ViewCountNum": "1629",
+    "c_news_ViewCountNumForSorting": "85",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/kokunai/okinawa/okinawa_all/news_web_kokunai_0005",
+    "name": "レンタサイクルで周る！竹富島のおすすめ観光スポット\u0026楽しみ方",
+    "slug": "kokunai/okinawa/okinawa_all/news_web_kokunai_0005",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": [
+    "joyたび"
+  ]
+}

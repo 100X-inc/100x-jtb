@@ -1,0 +1,16 @@
+{
+  "$id": "news_ap_chiki_100101",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_ap_PagesGeneration": false,
+    "c_ap_TagsLabel": "この記事に関連するタグ",
+    "c_news_ViewCount": "0",
+    "c_pagesURL": "https://www.jtb.co.jp/news/list/news_ap_chiki_100101",
+    "name": "地域ナビゲーター投稿記事",
+    "slug": "news_ap_chiki_100101",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_news",
+  "labels": []
+}

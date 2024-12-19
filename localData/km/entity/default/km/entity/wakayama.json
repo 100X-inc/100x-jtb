@@ -1,0 +1,67 @@
+{
+  "$id": "wakayama",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_linkedArea23": [
+      "kansai"
+    ],
+    "c_linkedArea3News": [
+      "news_ap_y_ishihara225_038",
+      "news_ap_area_0000053",
+      "news_ap_chiki_100161",
+      "news_ap_chiki_100050",
+      "news_ap_area_0000061",
+      "news_ap_m_ban303_002",
+      "news_ap_a_sato260_002",
+      "news_ap_area_0000054",
+      "news_ap_r_fukuhiro306_006",
+      "news_ap_m_ban303_007",
+      "news_ap_y_kitano151_004",
+      "news_ap_y_kitano151_002",
+      "news_ap_m_takahashi509_005",
+      "news_ap_m_takahashi509_001"
+    ],
+    "c_metaDescription": "和歌山に関する記事をピックアップ！JTBニュースでは、和歌山で話題の観光情報やおすすめの観光スポットをご紹介します。最新のニュースをチェックして、旅行の計画に役立てましょう！",
+    "c_metaTitle": "JTBニュース | 和歌山 | 旅行・おでかけ情報",
+    "c_news_AreaImage": {
+      "alternateText": "和歌山",
+      "height": 960,
+      "sourceUrl": "https://a.mktgcdn.com/p/Oebs5xs8u5RC9K95YaNzz3vq9y5M-THEhoSRGtn0WBg/1920x960.jpg",
+      "thumbnails": [
+        {
+          "height": 960,
+          "url": "https://a.mktgcdn.com/p-sandbox/dLl4_krbTRB6RPnfZXlcRzXyAFyOzgigxnrOMjI9GBI/1920x960.jpg",
+          "width": 1920
+        },
+        {
+          "height": 950,
+          "url": "https://a.mktgcdn.com/p-sandbox/dLl4_krbTRB6RPnfZXlcRzXyAFyOzgigxnrOMjI9GBI/1900x950.jpg",
+          "width": 1900
+        },
+        {
+          "height": 310,
+          "url": "https://a.mktgcdn.com/p-sandbox/dLl4_krbTRB6RPnfZXlcRzXyAFyOzgigxnrOMjI9GBI/619x310.jpg",
+          "width": 619
+        },
+        {
+          "height": 300,
+          "url": "https://a.mktgcdn.com/p-sandbox/dLl4_krbTRB6RPnfZXlcRzXyAFyOzgigxnrOMjI9GBI/600x300.jpg",
+          "width": 600
+        },
+        {
+          "height": 98,
+          "url": "https://a.mktgcdn.com/p-sandbox/dLl4_krbTRB6RPnfZXlcRzXyAFyOzgigxnrOMjI9GBI/196x98.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/dLl4_krbTRB6RPnfZXlcRzXyAFyOzgigxnrOMjI9GBI/1920x960.jpg",
+      "width": 1920
+    },
+    "name": "和歌山",
+    "slug": "kokunai/kansai/wakayama"
+  },
+  "entityType": "ce_areaLevel3",
+  "folder": "level3",
+  "labels": []
+}

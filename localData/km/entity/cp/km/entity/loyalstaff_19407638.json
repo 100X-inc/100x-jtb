@@ -1,0 +1,139 @@
+{
+  "$id": "cp_loyalstaff_19407638",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_cp_BranchOfficeRegion": "東京都",
+    "c_cp_CTA1": {
+      "label": "村手 の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf-xc",
+      "linkType": "URL"
+    },
+    "c_cp_CTA2": {
+      "label": "このコンサルタントがいる店舗の相談予約はこちら",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf-xc",
+      "linkType": "URL"
+    },
+    "c_cp_Description": "学生時代からアルバイト代を貯めては海外旅行へ行き、大人になってから一度だけパスポートをスタンプでいっぱいにしたことがあります！\n年齢を重ねるごとに国内旅行や温泉の魅力にも気が付き、最近はクルーズ旅行にも目覚め始めました。\nまだまだ行ったことのない国や地域も沢山ありますので、私もお客様と一緒に旅行へ行く気持ちで楽しくご相談させて頂けたら幸いです。\n皆様のご旅行が楽しく思い出に残るものとなるよう精一杯お手伝いいたします。",
+    "c_cp_DisplayName": "村手",
+    "c_cp_FieldOfExpertise": [
+      "ファミリー",
+      "母娘旅",
+      "夫婦旅",
+      "ハネムーン",
+      "記念旅行"
+    ],
+    "c_cp_GeneralInfo": [
+      "総合旅行業務取扱管理者",
+      "クルーズコンサルタント",
+      "ハワイスペシャリスト",
+      "オージースペシャリスト",
+      "ニュージーランドスペシャリスト"
+    ],
+    "c_cp_HeroImage": {
+      "height": 450,
+      "sourceUrl": "https://a.mktgcdn.com/p/aLewFFlOIf_1HxteLpMOoVEbW6KltqhiauKXOmoUp8Q/600x450.jpg",
+      "thumbnails": [
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/aLewFFlOIf_1HxteLpMOoVEbW6KltqhiauKXOmoUp8Q/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/aLewFFlOIf_1HxteLpMOoVEbW6KltqhiauKXOmoUp8Q/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/aLewFFlOIf_1HxteLpMOoVEbW6KltqhiauKXOmoUp8Q/600x450.jpg",
+      "width": 600
+    },
+    "c_cp_HiraganaName": "むらて",
+    "c_cp_JobTitle": "JTBロイヤルスタッフ（JTBラウンジ プラチナム渋谷セルリアンタワー東急ホテル 所属）",
+    "c_cp_PagesGeneration": true,
+    "c_cp_Photo": {
+      "height": 620,
+      "sourceUrl": "https://a.mktgcdn.com/p/DAJsAkTw36oojp45PC1--RpF3ThDDFqy9dnIY6FqlJI/620x620.jpg",
+      "thumbnails": [
+        {
+          "height": 620,
+          "url": "https://a.mktgcdn.com/p-sandbox/Lr16J-BEcWNzVUWbJN0189j08PpOyQ5VGInBN9wFgRQ/620x620.jpg",
+          "width": 620
+        },
+        {
+          "height": 619,
+          "url": "https://a.mktgcdn.com/p-sandbox/Lr16J-BEcWNzVUWbJN0189j08PpOyQ5VGInBN9wFgRQ/619x619.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/Lr16J-BEcWNzVUWbJN0189j08PpOyQ5VGInBN9wFgRQ/450x450.jpg",
+          "width": 450
+        },
+        {
+          "height": 196,
+          "url": "https://a.mktgcdn.com/p-sandbox/Lr16J-BEcWNzVUWbJN0189j08PpOyQ5VGInBN9wFgRQ/196x196.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/Lr16J-BEcWNzVUWbJN0189j08PpOyQ5VGInBN9wFgRQ/620x620.jpg",
+      "width": 620
+    },
+    "c_cp_RoyalStaff": true,
+    "c_cp_StrongAbroadArea1": [
+      "ハワイ"
+    ],
+    "c_cp_StrongAbroadArea3": [
+      "イタリア",
+      "北欧"
+    ],
+    "c_cp_StrongAbroadArea4": [
+      "韓国",
+      "台湾"
+    ],
+    "c_cp_StrongAbroadArea5": [
+      "ドバイ"
+    ],
+    "c_cp_StrongLocalArea1": [
+      "北海道"
+    ],
+    "c_cp_StrongLocalArea2": [
+      "関東全般"
+    ],
+    "c_cp_StrongLocalArea3": [
+      "愛知県"
+    ],
+    "c_cp_StrongLocalArea4": [
+      "京都府",
+      "大阪府"
+    ],
+    "c_cp_StrongLocalArea5": [
+      "四国全般"
+    ],
+    "c_cp_StrongLocalArea6": [
+      "九州全般",
+      "沖縄県"
+    ],
+    "c_cp_Tags": [
+      "アニバーサリー",
+      "自然・山",
+      "街歩き",
+      "グルメ",
+      "ショッピング",
+      "ご当地グルメ"
+    ],
+    "c_metaDescription": "学生時代からアルバイト代を貯めては海外旅行へ行き、大人になってから一度だけパスポートをスタンプでいっぱいにしたことがあります！年齢を重ねるごとに国内旅行や温泉の魅力にも気が付き、最近はクルーズ旅行にも目覚め始…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "JTBロイヤルスタッフ 村手（JTBラウンジ プラチナム渋谷セルリアンタワー東急ホテル 所属）",
+    "c_pagesURL": "https://consultants.jtb.co.jp/cp_loyalstaff_19407638",
+    "c_responsibleService": [
+      "ロイヤルスタッフ"
+    ],
+    "c_v2Folder": "10162_ラウンジ プラチナム渋谷セルリアンタワー東急ホテル",
+    "name": "LS_村手",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_consultant",
+  "labels": []
+}

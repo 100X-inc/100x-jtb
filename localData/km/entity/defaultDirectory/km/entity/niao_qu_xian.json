@@ -1,0 +1,22 @@
+{
+  "$id": "defaultDirectory_niao_qu_xian",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "ja",
+  "content": {
+    "dm_baseEntityCount": "1",
+    "dm_childEntityIds": [
+      "1045019395"
+    ],
+    "dm_directoryChildren": [
+      "defaultDirectory_niao_qu_xian_niao_qu_shi"
+    ],
+    "dm_directoryManagerId": "defaultDirectory",
+    "dm_directoryParents_defaultdirectory": [
+      "defaultDirectory"
+    ],
+    "name": "鳥取県",
+    "slug": "鳥取県"
+  },
+  "entityType": "ce_region",
+  "labels": []
+}

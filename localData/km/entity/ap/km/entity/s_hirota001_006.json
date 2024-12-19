@@ -1,0 +1,237 @@
+{
+  "$id": "ap_s_hirota001_006",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTBリモートコンシェルジュ",
+      "link": "https://stores.jtb.co.jp/cc-0001",
+      "linkType": "URL"
+    },
+    "c_ap_CTA1": {
+      "label": "この記事の投稿店舗にリモート相談予約をする",
+      "link": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "この動物園で絶対に訪れてほしいのが「ほっきょくぐま館」です。放飼場は2つあり、ひとつには泳ぐ姿が見られる巨大プールがあります。ホッキョクグマの巨体が水に飛び込む様子はダイナミックで、ずっと見ていても飽きることがないほどです。もうひとつには、陸上のホッキョクグマを観察できる「シールズアイ（カプセル）」があります。地面に埋め込まれたカプセルから、アザラシの視点でホッキョクグマを観察できます。目の前に迫る大きな顔は迫力満点。ぜひ体験してみてくださいね。※2022年8月現在、シールズアイは休止中です。",
+        "image": {
+          "alternateText": "シールズアイでホッキョクグマとご対面",
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/W_CYEctKD6iyQYB8WDbn0w37rmoNJukEMQvJsIG-n0k/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/W_CYEctKD6iyQYB8WDbn0w37rmoNJukEMQvJsIG-n0k/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/W_CYEctKD6iyQYB8WDbn0w37rmoNJukEMQvJsIG-n0k/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/W_CYEctKD6iyQYB8WDbn0w37rmoNJukEMQvJsIG-n0k/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/W_CYEctKD6iyQYB8WDbn0w37rmoNJukEMQvJsIG-n0k/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/W_CYEctKD6iyQYB8WDbn0w37rmoNJukEMQvJsIG-n0k/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "シールズアイでホッキョクグマとご対面",
+        "sectionTitle": "迫力あるホッキョクグマが大きな話題に。ダイナミックな姿に子どもたちも大喜び"
+      },
+      {
+        "description": "もうひとつのおすすめは「ぺんぎん館」です。ここではキングペンギン、ジェンツーペンギン、フンボルトペンギン、イワトビペンギンの4種類が見られます。圧巻なのは水中トンネル。下から見るペンギンはまるで空を飛んでいるようで、ペンギンが鳥の仲間であることを改めて思い出させてくれます。また、毎年雪が降り積もる時期には「ペンギンの散歩」が見られます。ひょこひょこと歩く姿がユーモラスで、あまりのかわいさに癒やされること間違いなしです。",
+        "image": {
+          "alternateText": "水中トンネルからは空を飛ぶようなペンギンの姿が！",
+          "height": 798,
+          "sourceUrl": "https://a.mktgcdn.com/p/3x2y_eqDK2So-L6m9k3AeBZAhMg-NLNox5idNK2pKns/1200x798.jpg",
+          "thumbnails": [
+            {
+              "height": 798,
+              "url": "https://a.mktgcdn.com/p-sandbox/3x2y_eqDK2So-L6m9k3AeBZAhMg-NLNox5idNK2pKns/1200x798.jpg",
+              "width": 1200
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/3x2y_eqDK2So-L6m9k3AeBZAhMg-NLNox5idNK2pKns/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 399,
+              "url": "https://a.mktgcdn.com/p-sandbox/3x2y_eqDK2So-L6m9k3AeBZAhMg-NLNox5idNK2pKns/600x399.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/3x2y_eqDK2So-L6m9k3AeBZAhMg-NLNox5idNK2pKns/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3x2y_eqDK2So-L6m9k3AeBZAhMg-NLNox5idNK2pKns/1200x798.jpg",
+          "width": 1200
+        },
+        "imageCaption": "水中トンネルからは空を飛ぶようなペンギンの姿が！",
+        "sectionTitle": "寒冷地に住む動物がいっぱい。アザラシやペンギンも大人気"
+      },
+      {
+        "description": "小さな漁船やテトラポットが置かれ、まるで北海道の漁港のような一画に、2004年にオープンした「あざらし館」があります。館内には「マリンウェイ（円柱水槽）」や大水槽があり、アザラシの特徴的な泳ぎをゆっくりと観察できます。ゴマフアザラシの愛らしい姿をたっぷりとご覧くださいね。そのほか、北海道の魚類などを観察できる水槽もあります。",
+        "image": {
+          "height": 900,
+          "sourceUrl": "https://a.mktgcdn.com/p/3aAADgUqpB5pAM7AWMUwc4H_nGhjLS9ZOJk2yYGtylU/1200x900.jpg",
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p-sandbox/3aAADgUqpB5pAM7AWMUwc4H_nGhjLS9ZOJk2yYGtylU/1200x900.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/3aAADgUqpB5pAM7AWMUwc4H_nGhjLS9ZOJk2yYGtylU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3aAADgUqpB5pAM7AWMUwc4H_nGhjLS9ZOJk2yYGtylU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/3aAADgUqpB5pAM7AWMUwc4H_nGhjLS9ZOJk2yYGtylU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3aAADgUqpB5pAM7AWMUwc4H_nGhjLS9ZOJk2yYGtylU/1200x900.jpg",
+          "width": 1200
+        },
+        "imageCaption": "マリンウェイを泳ぐアザラシ",
+        "sectionTitle": "北海道の漁港で、野生のアザラシの生態を観察"
+      },
+      {
+        "description": "動物園ではガイドにも力をいれており、そのひとつが「もぐもぐタイム」です。これは、飼育スタッフが少量のエサを与えながら動物について解説するガイドのことで、毎日、さまざまな動物のタイムスケジュールが発表されています。どんなエサをどれくらい食べるのかを聞くこともでき、驚きとともに動物の生態を学べます。北海道旅行の合間の、動物たちとのふれあいタイム。旅をさらに充実させて、思い出づくりにひと役買ってくれるのではないでしょうか。",
+        "imageCaption": "※記事には投稿者の感性や主観が含まれます。おすすめする内容や好みには個人差がありますので何卒ご容赦ください。※記事内の情報は投稿日またはそれ以前の取材時や草稿時のものです。事後の経年変化は記事には反映できておりません。また、時期により感染症・天災等で一時的に営業状況等が変更されている場合もあります。お出かけの際は地域や施設のホームページ等で最新情報をご確認ください。",
+        "sectionTitle": "お食事中おじゃまします！「もぐもぐタイム」で動物の特徴を観察"
+      }
+    ],
+    "c_ap_DatePosted": "2022-08-14",
+    "c_ap_HeroImage": {
+      "alternateText": "動物の本能を目の当たりに！行動展示で話題の動物園【北海道　旭川市旭山動物園】",
+      "height": 900,
+      "sourceUrl": "https://a.mktgcdn.com/p/rOGRqB8vMRjZZF3pXGQmBWbfdCYSxBX9qVpVWmWhC1A/1200x900.jpg",
+      "thumbnails": [
+        {
+          "height": 900,
+          "url": "https://a.mktgcdn.com/p-sandbox/rOGRqB8vMRjZZF3pXGQmBWbfdCYSxBX9qVpVWmWhC1A/1200x900.jpg",
+          "width": 1200
+        },
+        {
+          "height": 464,
+          "url": "https://a.mktgcdn.com/p-sandbox/rOGRqB8vMRjZZF3pXGQmBWbfdCYSxBX9qVpVWmWhC1A/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/rOGRqB8vMRjZZF3pXGQmBWbfdCYSxBX9qVpVWmWhC1A/600x450.jpg",
+          "width": 600
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p-sandbox/rOGRqB8vMRjZZF3pXGQmBWbfdCYSxBX9qVpVWmWhC1A/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/rOGRqB8vMRjZZF3pXGQmBWbfdCYSxBX9qVpVWmWhC1A/1200x900.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "旭山動物園を一躍有名にした行動展示",
+    "c_ap_LinkArticleSectionTitle": "北海道のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "北海道旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/hokkaido/"
+      },
+      {
+        "linkText": "旭川のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/010501/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea1": [
+      "北海道"
+    ],
+    "c_ap_ShortDescription": "旭川に来たなら、ぜひ足を延ばしていただきたいのが「旭川市旭山動物園」です。1967年、北海道で3番目の動物園としてスタートしました。\n一時は入園者数が低迷し、閉園の危機を迎えたこともありましたが、動物の特徴的な能力や行動、感性を見せる「行動展示」という形式を日本でいち早くとったことで人気は回復。月間入園者数では日本一になったこともあり、いまでは、日本を代表する動物園のひとつとして人気を博しています。",
+    "c_ap_Tags": [
+      "旭川",
+      "動物",
+      "ホッキョクグマ",
+      "アザラシ",
+      "ペンギン"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "グループ",
+      "動植物園・公園"
+    ],
+    "c_ap_Title": "動物の本能を目の当たりに！行動展示で話題の動物園【北海道　旭川市旭山動物園】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "旭川に来たなら、ぜひ足を延ばしていただきたいのが「旭川市旭山動物園」です。1967年、北海道で3番目の動物園としてスタートしました。一時は入園者数が低迷し、閉園の危機を迎えたこともありましたが、動物の特徴的な…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "動物の本能を目の当たりに！行動展示で話題の動物園【北海道　旭川市旭山動物園】 | JTBスタッフのおすすめ旅記事\u0026ブログ",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_s_hirota001_006",
+    "c_searchArea1": [
+      "国内"
+    ],
+    "c_searchArea2": "北海道",
+    "c_searchTags": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "keywords": [
+      "中部・北陸：",
+      "近畿：",
+      "中国・四国：",
+      "九州・沖縄：",
+      "太平洋・オセアニア：",
+      "北米・中南米：",
+      "ヨーロッパ：",
+      "アジア：",
+      "アフリカ・中近東：",
+      "海外６：",
+      "海外７："
+    ],
+    "name": "動物の本能を目の当たりに！行動展示で話題の動物園【北海道　旭川市旭山動物園】",
+    "timezone": "Asia/Tokyo"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}

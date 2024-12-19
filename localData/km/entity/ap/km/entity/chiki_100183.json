@@ -1,0 +1,358 @@
+{
+  "$id": "ap_chiki_100183",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_CSS": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_ap_ArticleCategory": "投稿記事",
+    "c_ap_AuthorForDisplay": {
+      "label": "JTB地域ナビゲーター 群馬県担当 牧 柊史"
+    },
+    "c_ap_CTA1": {
+      "label": "リモートでの旅行相談はこちら",
+      "link": "https://consultants.jtb.co.jp/top#consultants",
+      "linkType": "URL"
+    },
+    "c_ap_CTA2": {
+      "label": "JTB店舗・専門店への相談はこちら",
+      "link": "https://stores.jtb.co.jp/index.html",
+      "linkType": "URL"
+    },
+    "c_ap_Contents": [
+      {
+        "description": "「喜びの宿 高松」の温泉は源泉かけ流し。湧出温度が55℃〜95℃の湯畑の源泉を自然の空気をあてて温度調整しているので、温泉濃度100％のまま楽しめます。大浴場は、広々とした開放感のある「泉」に加え、熱湯・普通湯・ぬる湯と3つの浴槽を有する「恵」があります。「恵」にはベビーベッドも用意されていて、小さな子どもを連れた方から好評です。「泉」に隣接したウッドデッキにはヒノキ風呂と岩風呂、陶器樽の露天風呂があり、「恵」にもヒノキ風呂と陶器浴槽の露天風呂があるので、大浴場と露天風呂を1度に楽しめます。庭園をモチーフにした貸切庭園風呂（有料）もあるので、家族やカップルで気兼ねなく温泉を楽しみたい方におすすめです。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/G5zYmqfdJRk9vtxS7iq-hE5BsICBrQcAn5ICoTP_PZI/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/Pf6q7R90nj2ofjl-JwJgd6XIsOPlv-f50B04U6LEo0M/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/Pf6q7R90nj2ofjl-JwJgd6XIsOPlv-f50B04U6LEo0M/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/Pf6q7R90nj2ofjl-JwJgd6XIsOPlv-f50B04U6LEo0M/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/Pf6q7R90nj2ofjl-JwJgd6XIsOPlv-f50B04U6LEo0M/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Pf6q7R90nj2ofjl-JwJgd6XIsOPlv-f50B04U6LEo0M/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "大浴場「恵」には湯温が異なる浴槽が3つあるので、熱いのが苦手な方も気軽に温泉が楽しめますよ",
+        "sectionTitle": "温泉濃度100％の源泉かけ流し温泉を満喫しよう"
+      },
+      {
+        "description": "「喜びの宿 高松」の客室は全104室。なかでも注目なのが“非日常空間”をコンセプトに2023年4月にオープンした新客室「天弓」と「珠玉」。それぞれ客室には、湯畑源泉のかけ流し温泉とサウナ、水風呂があり、プライベートな空間で温泉＆リラックスした時間が楽しめます。オープンテラスにはソファが用意されているので、浴後は自然の景観を眺めながらゆったり過ごすこともできます。「天弓」は5名まで利用できますが、2名での宿泊では1ベッドルーム+リビングルームの2部屋で利用。3名〜5名の場合はベッドルームにつながる3ベッドのコネクティングルームも利用できるので、家族やグループでの旅行に最適です。",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/2uRQtc2Bq_ZhYbAzlekSey89CUf5WSR4ICIbkIS53pc/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/OOXAnx5Y29559HwK76ZIX5QtLbBWnfKlPFrV04xIx_s/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/OOXAnx5Y29559HwK76ZIX5QtLbBWnfKlPFrV04xIx_s/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/OOXAnx5Y29559HwK76ZIX5QtLbBWnfKlPFrV04xIx_s/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/OOXAnx5Y29559HwK76ZIX5QtLbBWnfKlPFrV04xIx_s/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OOXAnx5Y29559HwK76ZIX5QtLbBWnfKlPFrV04xIx_s/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "最大5名まで利用可能。ゆったりとくつろげる「天弓」のリビング",
+        "sectionTitle": "2023年4月に新客室が誕生。9タイプから選べるように"
+      },
+      {
+        "description": "ほかにも、白根山や三国山が望めるウッドデッキと14畳の和室からなるプレミアムルーム、7名定員で和室・洋室とリビングに温泉風呂も付いたセミスイート、畳の上でごろんとしたり和気あいあいの温泉旅を楽しんだりしたい方におすすめの和室とレトロな洋室など、9タイプの客室が揃っています。宿泊人数や宿での過ごし方で選んでみてはいかがですか？",
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://a.mktgcdn.com/p/PIWcAXXNI-f7quuEq1KoyZfK71A_aJbJJHoxKGv_9Ps/1200x800.jpg",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/AcNgol_UMNw_exlRf5500sjM6ibtODdgF7qxKsObWy0/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/AcNgol_UMNw_exlRf5500sjM6ibtODdgF7qxKsObWy0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/AcNgol_UMNw_exlRf5500sjM6ibtODdgF7qxKsObWy0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/AcNgol_UMNw_exlRf5500sjM6ibtODdgF7qxKsObWy0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AcNgol_UMNw_exlRf5500sjM6ibtODdgF7qxKsObWy0/1200x800.jpg",
+          "width": 1200
+        },
+        "imageCaption": "客室で半露天風呂と水風呂、サウナが楽しめる客室「天弓」",
+        "sectionTitle": "4つの場所で味わえる地元産と旬の食材にこだわった夕食"
+      },
+      {
+        "description": "「喜びの宿 高松」の夕食は館内4カ所から選べ、それぞれのこだわりが詰まった会席料理をいただくことができます。5階にある「旬彩鍋 大鍋料亭 喜楽亭」は名前のとおりすき焼きや大鍋会席、イベリコ豚ベジョータのしゃぶしゃぶなど鍋料理が自慢で、オープンキッチンで調理される焼き物や揚げ物も人気です。4階の「料亭 喜和味」は、A5ランク上州和牛や名産地直送の海の幸、地元で採れた山の幸など、厳選された旬の食材を使用した創作料理の店。和モダンにリニューアルされた個室があるので、気兼ねなくゆったりと味わえます。最上階の11階にある「メインダイニング 喜望峯」では、月替わりの会席料理とセミバイキングの料理を用意。「お山の朝ごはん」と、「たまには海もあり」をテーマにした約40種類の料理が並ぶ朝食バイキングの会場にもなっています。4つ目はお部屋食。地元のブランド牛、上州和牛の陶板焼きやしゃぶしゃぶなど、月替わりの会席料理を部屋でゆっくりいただけます。",
+        "image": {
+          "height": 796,
+          "sourceUrl": "https://a.mktgcdn.com/p/5r1m7Tm2N1zn6MyyLq4VtdpQ_aIGjFZViBOCiVNfo7Y/1200x796.jpg",
+          "thumbnails": [
+            {
+              "height": 796,
+              "url": "https://a.mktgcdn.com/p-sandbox/GHwz81Z5a8qPhZvp6A9ntZVeQrLBU_pHeb3Q4blFGMc/1200x796.jpg",
+              "width": 1200
+            },
+            {
+              "height": 411,
+              "url": "https://a.mktgcdn.com/p-sandbox/GHwz81Z5a8qPhZvp6A9ntZVeQrLBU_pHeb3Q4blFGMc/619x411.jpg",
+              "width": 619
+            },
+            {
+              "height": 398,
+              "url": "https://a.mktgcdn.com/p-sandbox/GHwz81Z5a8qPhZvp6A9ntZVeQrLBU_pHeb3Q4blFGMc/600x398.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/GHwz81Z5a8qPhZvp6A9ntZVeQrLBU_pHeb3Q4blFGMc/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/GHwz81Z5a8qPhZvp6A9ntZVeQrLBU_pHeb3Q4blFGMc/1200x796.jpg",
+          "width": 1200
+        },
+        "imageCaption": "ウッドデッキとマッサージチェが設置されたプレミアムルーム",
+        "sectionTitle": "色浴衣を身にまとい温泉街へ散策にでかけよう"
+      },
+      {
+        "description": "みましょう。おすすめは、夜。湯畑と西の河原公園がライトアップされて、幻想的な雰囲気が広がります。温泉まんじゅうや種類豊富なかりんとう、草津名菓の花いんげん甘納豆など、人気の和菓子を食べ歩きしてみるのも。",
+        "image": {
+          "height": 930,
+          "sourceUrl": "https://a.mktgcdn.com/p/c4IOMgHo8huiq8FzmTwX6OzOxYDgF4HwZNjBTC5e27A/1200x930.jpg",
+          "thumbnails": [
+            {
+              "height": 930,
+              "url": "https://a.mktgcdn.com/p-sandbox/c4IOMgHo8huiq8FzmTwX6OzOxYDgF4HwZNjBTC5e27A/1200x930.jpg",
+              "width": 1200
+            },
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/c4IOMgHo8huiq8FzmTwX6OzOxYDgF4HwZNjBTC5e27A/619x480.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/c4IOMgHo8huiq8FzmTwX6OzOxYDgF4HwZNjBTC5e27A/581x450.jpg",
+              "width": 581
+            },
+            {
+              "height": 152,
+              "url": "https://a.mktgcdn.com/p-sandbox/c4IOMgHo8huiq8FzmTwX6OzOxYDgF4HwZNjBTC5e27A/196x152.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/c4IOMgHo8huiq8FzmTwX6OzOxYDgF4HwZNjBTC5e27A/1200x930.jpg",
+          "width": 1200
+        },
+        "imageCaption": "上州和牛を使用した「旬彩鍋家　大鍋料亭　喜楽亭」のすき焼き調理例"
+      },
+      {
+        "image": {
+          "height": 840,
+          "sourceUrl": "https://a.mktgcdn.com/p/BZkYj215AOBo7tt_AbKWclN8OZ3EPBGGQGkl0XzXu2c/1200x840.jpg",
+          "thumbnails": [
+            {
+              "height": 840,
+              "url": "https://a.mktgcdn.com/p-sandbox/MHigE4-_XQiWv3QmeqGcpmKExfgEOOB6Tgc8s_5ceyE/1200x840.jpg",
+              "width": 1200
+            },
+            {
+              "height": 433,
+              "url": "https://a.mktgcdn.com/p-sandbox/MHigE4-_XQiWv3QmeqGcpmKExfgEOOB6Tgc8s_5ceyE/619x433.jpg",
+              "width": 619
+            },
+            {
+              "height": 420,
+              "url": "https://a.mktgcdn.com/p-sandbox/MHigE4-_XQiWv3QmeqGcpmKExfgEOOB6Tgc8s_5ceyE/600x420.jpg",
+              "width": 600
+            },
+            {
+              "height": 137,
+              "url": "https://a.mktgcdn.com/p-sandbox/MHigE4-_XQiWv3QmeqGcpmKExfgEOOB6Tgc8s_5ceyE/196x137.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MHigE4-_XQiWv3QmeqGcpmKExfgEOOB6Tgc8s_5ceyE/1200x840.jpg",
+          "width": 1200
+        },
+        "imageCaption": "上州和牛をはじめ、地元の食材をふんだんに使った「メインダイニング 喜望峯」の会席料理例"
+      },
+      {
+        "image": {
+          "height": 823,
+          "sourceUrl": "https://a.mktgcdn.com/p/m2vVob4Wk-3BTIhWro09QvXuxs_c5KO3u4qJq8L4YGE/1200x823.jpg",
+          "thumbnails": [
+            {
+              "height": 823,
+              "url": "https://a.mktgcdn.com/p-sandbox/WlORdwtC-mnKDggYIvVqin9FI3iKZiNS_Fd0i6e8bwo/1200x823.jpg",
+              "width": 1200
+            },
+            {
+              "height": 425,
+              "url": "https://a.mktgcdn.com/p-sandbox/WlORdwtC-mnKDggYIvVqin9FI3iKZiNS_Fd0i6e8bwo/619x425.jpg",
+              "width": 619
+            },
+            {
+              "height": 412,
+              "url": "https://a.mktgcdn.com/p-sandbox/WlORdwtC-mnKDggYIvVqin9FI3iKZiNS_Fd0i6e8bwo/600x412.jpg",
+              "width": 600
+            },
+            {
+              "height": 134,
+              "url": "https://a.mktgcdn.com/p-sandbox/WlORdwtC-mnKDggYIvVqin9FI3iKZiNS_Fd0i6e8bwo/196x134.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WlORdwtC-mnKDggYIvVqin9FI3iKZiNS_Fd0i6e8bwo/1200x823.jpg",
+          "width": 1200
+        },
+        "imageCaption": "湯畑の近くに建つ11階建ての温泉宿「喜びの宿 高松」"
+      },
+      {
+        "image": {
+          "height": 1045,
+          "sourceUrl": "https://a.mktgcdn.com/p/OWu2x6x41aUarkOE0msAqYjlk6UsEgRWLS23JDigA30/1200x1045.jpg",
+          "thumbnails": [
+            {
+              "height": 1045,
+              "url": "https://a.mktgcdn.com/p-sandbox/1HLpLlHNlXYzAAbsHKxxjNCK3XqEQVUSzgV79M-ybA8/1200x1045.jpg",
+              "width": 1200
+            },
+            {
+              "height": 539,
+              "url": "https://a.mktgcdn.com/p-sandbox/1HLpLlHNlXYzAAbsHKxxjNCK3XqEQVUSzgV79M-ybA8/619x539.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1HLpLlHNlXYzAAbsHKxxjNCK3XqEQVUSzgV79M-ybA8/517x450.jpg",
+              "width": 517
+            },
+            {
+              "height": 171,
+              "url": "https://a.mktgcdn.com/p-sandbox/1HLpLlHNlXYzAAbsHKxxjNCK3XqEQVUSzgV79M-ybA8/196x171.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1HLpLlHNlXYzAAbsHKxxjNCK3XqEQVUSzgV79M-ybA8/1200x1045.jpg",
+          "width": 1200
+        },
+        "imageCaption": "色浴衣をレンタルして、いざ温泉街へ"
+      }
+    ],
+    "c_ap_DatePosted": "2023-11-01",
+    "c_ap_HeroImage": {
+      "height": 797,
+      "sourceUrl": "https://a.mktgcdn.com/p/CvP7cznBm3aGdZ5miKig952S8RiVa6BrqCm9gA8ngos/1200x797.jpg",
+      "thumbnails": [
+        {
+          "height": 797,
+          "url": "https://a.mktgcdn.com/p-sandbox/cZhaa1NuPpOF-KxnsQaImn06VSb2BVG_2Za6dxetGNY/1200x797.jpg",
+          "width": 1200
+        },
+        {
+          "height": 411,
+          "url": "https://a.mktgcdn.com/p-sandbox/cZhaa1NuPpOF-KxnsQaImn06VSb2BVG_2Za6dxetGNY/619x411.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "https://a.mktgcdn.com/p-sandbox/cZhaa1NuPpOF-KxnsQaImn06VSb2BVG_2Za6dxetGNY/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "https://a.mktgcdn.com/p-sandbox/cZhaa1NuPpOF-KxnsQaImn06VSb2BVG_2Za6dxetGNY/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/cZhaa1NuPpOF-KxnsQaImn06VSb2BVG_2Za6dxetGNY/1200x797.jpg",
+      "width": 1200
+    },
+    "c_ap_HeroImageCaption": "大浴場に隣接したウッドデッキと3つの風呂がある露天風呂「泉」",
+    "c_ap_LinkArticleSectionTitle": "群馬県のその他の記事",
+    "c_ap_LinkContents": [
+      {
+        "linkText": "JTBスタッフのおすすめ旅\u0026おでかけ記事一覧",
+        "uRL": "https://consultants.jtb.co.jp/articles"
+      },
+      {
+        "linkText": "リモート相談ができるトラベルコンサルタント一覧",
+        "uRL": "https://consultants.jtb.co.jp/index.html"
+      },
+      {
+        "linkText": "リモート相談の予約はこちら",
+        "uRL": "https://jtb.rooms-online.jp/calendar/schedule/y-oDn-9Xw-arNbQkwVf"
+      },
+      {
+        "linkText": "群馬旅行・ツアー・パック",
+        "uRL": "https://www.jtb.co.jp/kokunai/area/gunma/"
+      },
+      {
+        "linkText": "群馬県のホテル・旅館・宿",
+        "uRL": "https://www.jtb.co.jp/kokunai-hotel/list/gunma/"
+      }
+    ],
+    "c_ap_LinkSectionTitle": "関連リンク",
+    "c_ap_RelatedLocalArea2": [
+      "関東全般",
+      "群馬県"
+    ],
+    "c_ap_ShortDescription": "日本三大名泉の1つで、自然湧出量が毎分約32,300ℓ以上と日本一を誇る草津温泉。「喜びの宿 高松」は、湯気が立ち上る草津温泉のシンボル「湯畑」から徒歩約4分の場所にあります。温泉は、最も良質とされている湯畑の源泉を引いた掛け流し。温度を変えた3つの浴槽がある大浴場、露天風呂、貸切り専用の庭園風呂など、多彩な湯を大人から子どもまで楽しむことができます。\n食事は、部屋食か館内の3カ所の食事処で。場所ごとに異なる会席料理を提供しています。客室数は全104室。新たに誕生したコンセプトルームや温泉付きの和洋室、20畳・12畳・10畳・4.5畳の和室などタイプが違う客室が揃い、宿泊人数や予算に合わせて柔軟に旅行プランが選べます。",
+    "c_ap_Tags": [
+      "和モダン",
+      "露天風呂",
+      "料亭会席"
+    ],
+    "c_ap_Theme": [
+      "ファミリー",
+      "温泉・立ち寄り湯",
+      "ホテル・旅館"
+    ],
+    "c_ap_Title": "草津温泉の湯畑源泉を100％満喫。こだわりの味覚が堪能できる和風旅館【群馬県　喜びの宿 高松】",
+    "c_cSSMobile": ".Core-description {\nwhite-space: pre-wrap;\n}",
+    "c_metaDescription": "日本三大名泉の1つで、自然湧出量が毎分約32,300ℓ以上と日本一を誇る草津温泉。「喜びの宿 高松」は、湯気が立ち上る草津温泉のシンボル「湯畑」から徒歩約4分の場所にあります。温泉は、最も良質とされている湯畑…【おすすめの旅行情報はJTB】",
+    "c_metaTitle": "草津温泉の湯畑源泉を100％満喫。こだわりの味覚が堪能できる和風旅館【群馬県　喜びの宿 高松】",
+    "c_pagesURL": "https://consultants.jtb.co.jp/ap_chiki_100183",
+    "name": "草津温泉の湯畑源泉を100％満喫。こだわりの味覚が堪能できる和風旅館【群馬県　喜びの宿 高松】"
+  },
+  "entityType": "ce_article",
+  "labels": []
+}
