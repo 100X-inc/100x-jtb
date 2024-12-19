@@ -1,0 +1,17 @@
+{
+  "$id": "ce_root",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "Directory Root Entity",
+  "displayName": "Root",
+  "pluralDisplayName": "Roots",
+  "fields": [
+    {
+      "id": "dm_directoryChildren",
+      "required": false
+    },
+    {
+      "id": "dm_baseEntityCount",
+      "required": false
+    }
+  ]
+}

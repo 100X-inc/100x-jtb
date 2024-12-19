@@ -1,0 +1,15 @@
+{
+  "$id": "c_回答画像",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "メインのAnswerに対応する回答画像を設定します。",
+  "displayName": "回答画像",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "imageType": {
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

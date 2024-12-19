@@ -1,0 +1,15 @@
+{
+  "$id": "c_v2NewsButton",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 News Button",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "店舗ニュースセクションボタン"
+    }
+  ],
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "cta"
+}

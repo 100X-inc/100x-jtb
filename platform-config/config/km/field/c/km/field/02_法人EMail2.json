@@ -1,0 +1,14 @@
+{
+  "$id": "c_02_法人EMail2",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "法人用 Email アドレスその２",
+  "displayName": "02_法人EMail2",
+  "group": "GROUP11",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

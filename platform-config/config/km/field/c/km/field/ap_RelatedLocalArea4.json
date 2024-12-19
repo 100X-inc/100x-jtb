@@ -1,0 +1,58 @@
+{
+  "$id": "c_ap_RelatedLocalArea4",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Related Local Area4",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "近畿"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "近畿全般",
+              "textValue": "近畿全般"
+            },
+            {
+              "displayName": "三重県",
+              "textValue": "三重県"
+            },
+            {
+              "displayName": "滋賀県",
+              "textValue": "滋賀県"
+            },
+            {
+              "displayName": "京都府",
+              "textValue": "京都府"
+            },
+            {
+              "displayName": "大阪府",
+              "textValue": "大阪府"
+            },
+            {
+              "displayName": "兵庫県",
+              "textValue": "兵庫県"
+            },
+            {
+              "displayName": "奈良県",
+              "textValue": "奈良県"
+            },
+            {
+              "displayName": "和歌山県",
+              "textValue": "和歌山県"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "c_cp_BranchOfficeRegion",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "所属店舗のエリア（都道府県）",
+  "displayName": "cp_Branch Office Region",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "所属店舗のエリア"
+    }
+  ],
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

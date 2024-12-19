@@ -1,0 +1,12 @@
+{
+  "$id": "c_店舗ニュース9掲載始め",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "掲載開始日　※指定する際は掲載終了日も必ず登録してください",
+  "displayName": "OLD_店舗ニュース9 掲載始め",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "dateType": {}
+  },
+  "typeId": "date"
+}

@@ -1,0 +1,12 @@
+{
+  "$id": "c_地図非表示フラグ",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "リモート店舗用",
+  "displayName": "地図非表示フラグ",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

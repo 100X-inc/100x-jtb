@@ -1,0 +1,15 @@
+{
+  "$id": "c_05_法人支店おすすめセクション",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "旧ページの法人支店おすすめセクション。新ページでも利用可能だが、ページの一番下に表示される。",
+  "displayName": "05_法人支店おすすめセクション",
+  "group": "GROUP11",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_b2bPromotion",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

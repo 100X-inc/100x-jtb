@@ -1,0 +1,15 @@
+{
+  "$id": "c_v2AnchorButton1",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "空の場合、「スタッフ紹介」",
+  "displayName": "v2 Anchor Button 1",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "スタッフ紹介アンカーボタンラベル"
+    }
+  ],
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "cta"
+}

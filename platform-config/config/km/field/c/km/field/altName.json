@@ -1,0 +1,15 @@
+{
+  "$id": "c_altName",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "AltName for GMB",
+  "displayName": "AltName",
+  "group": "GROUP7",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "c_v2GiftCertificatesAndTravelCouponsSubtitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "商品券・旅行券の取扱い サブタイトル",
+  "displayName": "v2 Gift Certificates and Travel Coupons Subtitle",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "商品券・旅行券の取扱い サブタイトル"
+    }
+  ],
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

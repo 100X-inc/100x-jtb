@@ -1,0 +1,18 @@
+{
+  "$id": "c_cp_Like",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Like の数（会員登録サイトのデータで上書きされます）",
+  "displayName": "cp_Like",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "いいね"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "decimalType": {}
+  },
+  "typeId": "decimal"
+}

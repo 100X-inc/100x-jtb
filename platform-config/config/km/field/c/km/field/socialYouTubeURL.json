@@ -1,0 +1,15 @@
+{
+  "$id": "c_socialYouTubeURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "YouTubeアカウントへのリンク",
+  "displayName": "Social YouTube URL",
+  "group": "GROUP1",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

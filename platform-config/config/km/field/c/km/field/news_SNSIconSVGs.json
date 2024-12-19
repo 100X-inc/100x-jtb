@@ -1,0 +1,20 @@
+{
+  "$id": "c_news_SNSIconSVGs",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "news_SNS Icon SVGs",
+  "group": "GROUP16",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "file",
+      "maxLength": 5000,
+      "type": {
+        "fileType": {
+          "maxFileSize": 104857600
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

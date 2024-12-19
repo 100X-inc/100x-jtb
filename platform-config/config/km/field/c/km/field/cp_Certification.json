@@ -1,0 +1,38 @@
+{
+  "$id": "c_cp_Certification",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Certification",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "資格情報"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "トラベルコーディネーターA級",
+              "textValue": "トラベルコーディネーターA級"
+            },
+            {
+              "displayName": "総合旅行業取扱管理者",
+              "textValue": "総合旅行業取扱管理者"
+            },
+            {
+              "displayName": "ウエディングコンサルタント",
+              "textValue": "ウエディングコンサルタント"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

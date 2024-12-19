@@ -1,0 +1,14 @@
+{
+  "$id": "c_news_ViewCountNum",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "news_View Countフィールドの数値型",
+  "displayName": "news_View Count Num",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "decimalType": {
+      "maxValue": "100000"
+    }
+  },
+  "typeId": "decimal"
+}

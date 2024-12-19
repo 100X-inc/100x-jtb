@@ -1,0 +1,27 @@
+{
+  "$id": "c_news_NewsList",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "参照 News リスト",
+  "displayName": "news_News List",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "投稿記事"
+    }
+  ],
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "maxLength": 5000,
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": ["ce_news"],
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "c_cp_Description",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Description",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "自己紹介文"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

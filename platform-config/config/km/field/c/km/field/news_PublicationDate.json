@@ -1,0 +1,12 @@
+{
+  "$id": "c_news_PublicationDate",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "news_Publication Date",
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "dateType": {}
+  },
+  "typeId": "date"
+}

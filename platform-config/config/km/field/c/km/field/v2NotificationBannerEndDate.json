@@ -1,0 +1,18 @@
+{
+  "$id": "c_v2NotificationBannerEndDate",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 Notification Banner End Date",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "店舗お知らせ通常 掲載終り"
+    }
+  ],
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "dateType": {}
+  },
+  "typeId": "date"
+}

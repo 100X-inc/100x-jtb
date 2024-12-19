@@ -1,0 +1,15 @@
+{
+  "$id": "c_cTA3URL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "通常、イベント予約ページURL",
+  "displayName": "OLD_CTA3 URL",
+  "group": "GROUP3",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

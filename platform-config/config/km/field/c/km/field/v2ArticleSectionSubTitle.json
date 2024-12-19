@@ -1,0 +1,21 @@
+{
+  "$id": "c_v2ArticleSectionSubTitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 Article Section Sub Title",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "店舗スタッフ記事セクションサブタイトル"
+    }
+  ],
+  "group": "GROUP26",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

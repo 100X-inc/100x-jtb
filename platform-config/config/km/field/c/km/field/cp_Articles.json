@@ -1,0 +1,26 @@
+{
+  "$id": "c_cp_Articles",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Articles",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "投稿記事"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": ["ce_article"],
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

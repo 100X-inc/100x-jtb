@@ -1,0 +1,25 @@
+{
+  "$id": "c_cp_Tags",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Tags",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "タグ"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "string",
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

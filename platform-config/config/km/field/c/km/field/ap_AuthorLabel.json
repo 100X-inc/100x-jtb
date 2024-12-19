@@ -1,0 +1,15 @@
+{
+  "$id": "c_ap_AuthorLabel",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "投稿者名の前に追加するラベル。ex) 投稿者：○○",
+  "displayName": "ap_Author Label",
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

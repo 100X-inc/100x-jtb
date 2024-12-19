@@ -1,0 +1,15 @@
+{
+  "$id": "c_スタッフ紹介20URL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "OLD_スタッフ紹介20 URL",
+  "group": "GROUP26",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "c_5MenuLabel",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "5-Menu Label",
+  "group": "GROUP10",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

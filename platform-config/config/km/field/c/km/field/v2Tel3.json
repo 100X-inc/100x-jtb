@@ -1,0 +1,15 @@
+{
+  "$id": "c_v2Tel3",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 Tel 3",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "電話番号3"
+    }
+  ],
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "c_v2LabelPhone"
+}

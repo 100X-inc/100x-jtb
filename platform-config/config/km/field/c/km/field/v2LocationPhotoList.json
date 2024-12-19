@@ -1,0 +1,21 @@
+{
+  "$id": "c_v2LocationPhotoList",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 Location Photo List",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "店舗外観写真"
+    }
+  ],
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_v2BannerImage",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

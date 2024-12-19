@@ -1,0 +1,22 @@
+{
+  "$id": "c_ap_DirectoryImage",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "投稿記事一覧ページに別の画像を表示したい場合に使用します。\n通常は、ヒーロー画像が一覧ページに表示されます。",
+  "displayName": "ap_Directory Image",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "一覧ページ表示用画像"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "isSimpleImage": true,
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

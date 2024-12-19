@@ -1,0 +1,15 @@
+{
+  "$id": "c_news_NationwideSectionTitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "news_Nationwide Section Title",
+  "group": "GROUP16",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

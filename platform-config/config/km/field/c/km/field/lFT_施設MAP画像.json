@@ -1,0 +1,15 @@
+{
+  "$id": "c_lFT_施設MAP画像",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "LFT_施設MAP画像",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "imageType": {
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

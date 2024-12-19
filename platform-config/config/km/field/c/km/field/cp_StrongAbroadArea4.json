@@ -1,0 +1,90 @@
+{
+  "$id": "c_cp_StrongAbroadArea4",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Strong Abroad Area4",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "アジア"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "中国",
+              "textValue": "中国"
+            },
+            {
+              "displayName": "香港・マカオ",
+              "textValue": "香港・マカオ"
+            },
+            {
+              "displayName": "韓国",
+              "textValue": "韓国"
+            },
+            {
+              "displayName": "台湾",
+              "textValue": "台湾"
+            },
+            {
+              "displayName": "タイ",
+              "textValue": "タイ"
+            },
+            {
+              "displayName": "マレーシア",
+              "textValue": "マレーシア"
+            },
+            {
+              "displayName": "ベトナム",
+              "textValue": "ベトナム"
+            },
+            {
+              "displayName": "カンボジア・アンコールワット",
+              "textValue": "カンボジア・アンコールワット"
+            },
+            {
+              "displayName": "インドネシア・バリ島",
+              "textValue": "インドネシア・バリ島"
+            },
+            {
+              "displayName": "シンガポール",
+              "textValue": "シンガポール"
+            },
+            {
+              "displayName": "フィリピン",
+              "textValue": "フィリピン"
+            },
+            {
+              "displayName": "インド",
+              "textValue": "インド"
+            },
+            {
+              "displayName": "スリランカ",
+              "textValue": "スリランカ"
+            },
+            {
+              "displayName": "モルディブ",
+              "textValue": "モルディブ"
+            },
+            {
+              "displayName": "東アジア全般",
+              "textValue": "東アジア全般"
+            },
+            {
+              "displayName": "東南アジア全般",
+              "textValue": "東南アジア全般"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

@@ -1,0 +1,86 @@
+{
+  "$id": "c_lFT_施設の特色",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "LFT_施設の特色",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Pick Up",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "ja",
+                  "value": "受取"
+                },
+                {
+                  "localeCode": "ko",
+                  "value": "수취"
+                },
+                {
+                  "localeCode": "zh_Hans",
+                  "value": "领取"
+                },
+                {
+                  "localeCode": "zh_Hant",
+                  "value": "領取"
+                }
+              ],
+              "textValue": "PICK_UP"
+            },
+            {
+              "displayName": "Drop Off",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "ja",
+                  "value": "発送"
+                },
+                {
+                  "localeCode": "ko",
+                  "value": "발송 "
+                },
+                {
+                  "localeCode": "zh_Hans",
+                  "value": "发送"
+                },
+                {
+                  "localeCode": "zh_Hant",
+                  "value": "發送"
+                }
+              ],
+              "textValue": "DROP_OFF"
+            },
+            {
+              "displayName": "Same-day Delivery",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "ja",
+                  "value": "当日配送"
+                },
+                {
+                  "localeCode": "ko",
+                  "value": "당일 배송"
+                },
+                {
+                  "localeCode": "zh_Hans",
+                  "value": "当天发货"
+                },
+                {
+                  "localeCode": "zh_Hant",
+                  "value": "當天發貨"
+                }
+              ],
+              "textValue": "SAME-DAY_DELIVERY"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

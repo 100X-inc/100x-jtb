@@ -1,0 +1,20 @@
+{
+  "$id": "c_09B2BCorpDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "09 B2B Corp Description",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "09_リテール店舗情報サブタイトル"
+    }
+  ],
+  "group": "GROUP11",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

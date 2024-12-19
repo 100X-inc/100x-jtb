@@ -1,0 +1,20 @@
+{
+  "$id": "c_news_FeaturedArticles",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "あわせて読みたいおすすめ記事",
+  "displayName": "news_Featured Articles",
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "maxLength": 5000,
+      "type": {
+        "entityReferenceType": {
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

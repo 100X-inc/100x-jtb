@@ -1,0 +1,15 @@
+{
+  "$id": "c_02_デコレーション画像1",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "イベントページデコレーション画像（左）\nサイズ：縦長 300 x 1448",
+  "displayName": "02_デコレーション画像1",
+  "group": "GROUP12",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

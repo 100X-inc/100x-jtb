@@ -1,0 +1,15 @@
+{
+  "$id": "c_ap_TableOfContentsLabel",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Table of Contents Label",
+  "group": "GROUP16",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "c_searchArea2List",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Search Area2 List",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "string",
+      "maxLength": 5000,
+      "type": {
+        "stringType": {
+          "maxLength": 100000,
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

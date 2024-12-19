@@ -1,0 +1,14 @@
+{
+  "$id": "c_02_イベント予約ボタンラベル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "イベント予約ボタンのラベル\n通常：イベント予約",
+  "displayName": "02_イベント予約ボタンラベル",
+  "group": "GROUP12",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

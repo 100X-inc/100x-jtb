@@ -1,0 +1,20 @@
+{
+  "$id": "c_ap_LinkSectionTitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Link Section Title",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "外部リンクセクションタイトル"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

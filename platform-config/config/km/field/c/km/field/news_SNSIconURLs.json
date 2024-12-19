@@ -1,0 +1,15 @@
+{
+  "$id": "c_news_SNSIconURLs",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "news_SNS Icon URLs",
+  "group": "GROUP16",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "cta",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

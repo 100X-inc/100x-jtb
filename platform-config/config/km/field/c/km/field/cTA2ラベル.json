@@ -1,0 +1,15 @@
+{
+  "$id": "c_cTA2ラベル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "（変更禁止）「お問い合わせ」で各店舗統一\r\n",
+  "displayName": "OLD_CTA2 ラベル",
+  "group": "GROUP3",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

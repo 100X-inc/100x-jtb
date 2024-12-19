@@ -1,0 +1,20 @@
+{
+  "$id": "c_ap_Title",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Title",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "記事タイトル"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

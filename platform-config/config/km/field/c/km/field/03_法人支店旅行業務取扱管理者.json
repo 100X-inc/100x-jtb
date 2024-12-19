@@ -1,0 +1,14 @@
+{
+  "$id": "c_03_法人支店旅行業務取扱管理者",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "通常、\n総合旅行業務取扱管理者：名前",
+  "displayName": "03_法人支店旅行業務取扱管理者",
+  "group": "GROUP11",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

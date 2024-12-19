@@ -1,0 +1,21 @@
+{
+  "$id": "c_searchTags",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "search tags",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "string",
+      "maxLength": 1000,
+      "type": {
+        "stringType": {
+          "maxLength": 100,
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

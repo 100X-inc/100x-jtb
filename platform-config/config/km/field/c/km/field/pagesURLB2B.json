@@ -1,0 +1,14 @@
+{
+  "$id": "c_pagesURLB2B",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "新法人店舗ページのURL格納用　（本URLは自動的に設定される）",
+  "displayName": "Pages URL B2B",
+  "group": "GROUP13",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL"
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "c_cTA2URL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "（変更禁止）同一店舗ページ内の電話番号セクションに飛ぶ",
+  "displayName": "OLD_CTA2 URL",
+  "group": "GROUP3",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "c_cTA4ラベル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "通常、混雑の目安",
+  "displayName": "OLD_CTA4 ラベル",
+  "group": "GROUP3",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

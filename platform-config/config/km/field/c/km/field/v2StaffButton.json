@@ -1,0 +1,15 @@
+{
+  "$id": "c_v2StaffButton",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 Staff Button",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "店舗スタッフセクションボタン"
+    }
+  ],
+  "group": "GROUP26",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "cta"
+}

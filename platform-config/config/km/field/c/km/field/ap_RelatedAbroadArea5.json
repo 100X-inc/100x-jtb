@@ -1,0 +1,54 @@
+{
+  "$id": "c_ap_RelatedAbroadArea5",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Related Abroad Area5",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "アフリカ・中近東"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "ドバイ",
+              "textValue": "ドバイ"
+            },
+            {
+              "displayName": "トルコ",
+              "textValue": "トルコ"
+            },
+            {
+              "displayName": "エジプト",
+              "textValue": "エジプト"
+            },
+            {
+              "displayName": "モロッコ",
+              "textValue": "モロッコ"
+            },
+            {
+              "displayName": "南アフリカ",
+              "textValue": "南アフリカ"
+            },
+            {
+              "displayName": "中近東全般",
+              "textValue": "中近東全般"
+            },
+            {
+              "displayName": "アフリカ全般",
+              "textValue": "アフリカ全般"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

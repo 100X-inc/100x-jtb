@@ -1,0 +1,14 @@
+{
+  "$id": "c_01_イベントタブ説明",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "イベントページの全体説明\n通常：\nお好みのイベントをクリックすると、詳細情報がご覧いただけます。\nイベントの参加予約は「イベント予約」または、「電話」でお申込みください。また、各種ご相談の来店予約は随時受付しております。",
+  "displayName": "01_イベントタブ説明",
+  "group": "GROUP12",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

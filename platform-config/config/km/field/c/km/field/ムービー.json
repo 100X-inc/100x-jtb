@@ -1,0 +1,19 @@
+{
+  "$id": "c_ムービー",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ムービー",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "listType": {
+      "typeId": "video",
+      "type": {
+        "videoType": {
+          "isSimpleVideo": true
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

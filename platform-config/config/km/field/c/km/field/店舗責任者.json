@@ -1,0 +1,15 @@
+{
+  "$id": "c_店舗責任者",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "店舗責任者氏名",
+  "displayName": "OLD_店舗責任者",
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

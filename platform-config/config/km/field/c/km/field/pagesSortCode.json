@@ -1,0 +1,15 @@
+{
+  "$id": "c_pagesSortCode",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "店舗一覧ページの都道府県・市区をソートするための総務省地域コード。新規ロケーション追加の際は必須となる。Yext ページ開発に確認すること。",
+  "displayName": "Pages Sort Code",
+  "group": "GROUP1",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

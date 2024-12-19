@@ -1,0 +1,25 @@
+{
+  "$id": "c_cp_GeneralInfo",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_General Info",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "その他の情報"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "string",
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

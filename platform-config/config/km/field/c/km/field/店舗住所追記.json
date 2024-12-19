@@ -1,0 +1,15 @@
+{
+  "$id": "c_店舗住所追記",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "店舗ページ住所下の追記\n通常：JR券・ぷらっとこだま・航空券・ギフト券は、ご来店のみ承ります。",
+  "displayName": "OLD_店舗住所追記",
+  "group": "GROUP1",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 4000
+    }
+  },
+  "typeId": "string"
+}

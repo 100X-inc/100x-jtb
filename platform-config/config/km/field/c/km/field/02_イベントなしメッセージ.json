@@ -1,0 +1,14 @@
+{
+  "$id": "c_02_イベントなしメッセージ",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "直近3ヶ月にイベントがない月が存在する場合、このメッセージが表示される\n通常：\n※ご相談は毎日承っております。\nお待たせしないためにもご来店は予約をお勧め致します。\nご予約はインターネット（24時間OK）から、\nまたはお電話（03-5524-7431）でどうぞ。",
+  "displayName": "02_イベントなしメッセージ",
+  "group": "GROUP12",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

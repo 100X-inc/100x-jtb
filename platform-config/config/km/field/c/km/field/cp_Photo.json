@@ -1,0 +1,22 @@
+{
+  "$id": "c_cp_Photo",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "正方形、300x300px 以上を推奨",
+  "displayName": "cp_Photo",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "プロフィール画像"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "isSimpleImage": true,
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

@@ -1,0 +1,70 @@
+{
+  "$id": "c_ap_RelatedLocalArea5",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Related Local Area5",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "中国・四国"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "中国全般",
+              "textValue": "中国全般"
+            },
+            {
+              "displayName": "四国全般",
+              "textValue": "四国全般"
+            },
+            {
+              "displayName": "鳥取県",
+              "textValue": "鳥取県"
+            },
+            {
+              "displayName": "島根県",
+              "textValue": "島根県"
+            },
+            {
+              "displayName": "岡山県",
+              "textValue": "岡山県"
+            },
+            {
+              "displayName": "広島県",
+              "textValue": "広島県"
+            },
+            {
+              "displayName": "山口県",
+              "textValue": "山口県"
+            },
+            {
+              "displayName": "徳島県",
+              "textValue": "徳島県"
+            },
+            {
+              "displayName": "香川県",
+              "textValue": "香川県"
+            },
+            {
+              "displayName": "愛媛県",
+              "textValue": "愛媛県"
+            },
+            {
+              "displayName": "高知県",
+              "textValue": "高知県"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

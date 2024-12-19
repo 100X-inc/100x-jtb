@@ -1,0 +1,14 @@
+{
+  "$id": "c_plusJTBSubtitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "法人用 PLUS JTB の サブタイトル",
+  "displayName": "Plus JTB Subtitle",
+  "group": "GROUP4",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

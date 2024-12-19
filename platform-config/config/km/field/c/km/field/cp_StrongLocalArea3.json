@@ -1,0 +1,70 @@
+{
+  "$id": "c_cp_StrongLocalArea3",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Strong Local Area3",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "中部・北陸"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "中部全般",
+              "textValue": "中部全般"
+            },
+            {
+              "displayName": "北陸全般",
+              "textValue": "北陸全般"
+            },
+            {
+              "displayName": "新潟県",
+              "textValue": "新潟県"
+            },
+            {
+              "displayName": "富山県",
+              "textValue": "富山県"
+            },
+            {
+              "displayName": "石川県",
+              "textValue": "石川県"
+            },
+            {
+              "displayName": "福井県",
+              "textValue": "福井県"
+            },
+            {
+              "displayName": "山梨県",
+              "textValue": "山梨県"
+            },
+            {
+              "displayName": "長野県",
+              "textValue": "長野県"
+            },
+            {
+              "displayName": "岐阜県",
+              "textValue": "岐阜県"
+            },
+            {
+              "displayName": "静岡県",
+              "textValue": "静岡県"
+            },
+            {
+              "displayName": "愛知県",
+              "textValue": "愛知県"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

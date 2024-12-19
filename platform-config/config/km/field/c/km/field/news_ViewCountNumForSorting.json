@@ -1,0 +1,12 @@
+{
+  "$id": "c_news_ViewCountNumForSorting",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "人気順用の閲覧数",
+  "displayName": "news_View Count Num for Sorting",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "decimalType": {}
+  },
+  "typeId": "decimal"
+}

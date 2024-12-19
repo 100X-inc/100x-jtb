@@ -1,0 +1,14 @@
+{
+  "$id": "c_03_法人支店情報タイトル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "通常、[[name]] について\n",
+  "displayName": "03_法人支店情報タイトル",
+  "group": "GROUP11",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

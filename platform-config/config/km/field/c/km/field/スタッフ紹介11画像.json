@@ -1,0 +1,15 @@
+{
+  "$id": "c_スタッフ紹介11画像",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "OLD_スタッフ紹介11 画像",
+  "group": "GROUP26",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

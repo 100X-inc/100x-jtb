@@ -1,0 +1,20 @@
+{
+  "$id": "c_ap_LinkArticleSectionTitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Link Article Section Title",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "関連する投稿記事セクションタイトル"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

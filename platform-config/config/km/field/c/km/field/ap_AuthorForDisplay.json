@@ -1,0 +1,15 @@
+{
+  "$id": "c_ap_AuthorForDisplay",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "This is used for displaying Author name and URL for directory page and Top page.\nOn the Article Page, if ap_Author For Directory Page is empty, ap_Author cf will be used.",
+  "displayName": "ap_Author For Display",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "投稿者情報"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "cta"
+}

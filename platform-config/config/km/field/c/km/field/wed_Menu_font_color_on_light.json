@@ -1,0 +1,14 @@
+{
+  "$id": "c_wed_Menu_font_color_on_light",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Wedding 専用メニューのモバイル時のプルダウンで利用するフォントカラー",
+  "displayName": "Wed_Menu_font_color_on_light",
+  "group": "GROUP10",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "c_topTemplate",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Top Template",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "standard",
+          "textValue": "STANDARD"
+        },
+        {
+          "displayName": "groupsupport",
+          "textValue": "GROUPSUPPORT"
+        }
+      ]
+    }
+  },
+  "typeId": "option"
+}

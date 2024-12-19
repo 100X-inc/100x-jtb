@@ -1,0 +1,14 @@
+{
+  "$id": "c_pagesURLLFT",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "LFT PagesサイトのURLで、自動設定されます。",
+  "displayName": "Pages URL LFT",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "URL"
+    }
+  },
+  "typeId": "string"
+}

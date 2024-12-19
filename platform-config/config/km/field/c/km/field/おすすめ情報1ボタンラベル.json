@@ -1,0 +1,15 @@
+{
+  "$id": "c_おすすめ情報1ボタンラベル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "OLD_おすすめ情報1 ボタンラベル",
+  "group": "GROUP3",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

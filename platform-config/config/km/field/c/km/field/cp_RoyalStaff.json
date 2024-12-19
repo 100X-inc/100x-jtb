@@ -1,0 +1,18 @@
+{
+  "$id": "c_cp_RoyalStaff",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Royal Staff",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "ロイヤルスタッフ（ラベル表示）"
+    }
+  ],
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

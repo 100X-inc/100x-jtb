@@ -1,0 +1,18 @@
+{
+  "$id": "c_ap_PagesGeneration",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Pages Generation",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "投稿記事ページ生成"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

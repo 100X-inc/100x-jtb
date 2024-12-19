@@ -1,0 +1,29 @@
+{
+  "$id": "c_v2Additinaltextoptions",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "注意事項テキストオプション CTA下",
+  "group": "GROUP1",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "maxLength": 2000,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Test 1",
+              "textValue": "TEST_1"
+            },
+            {
+              "displayName": "Test 2",
+              "textValue": "TEST_2"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

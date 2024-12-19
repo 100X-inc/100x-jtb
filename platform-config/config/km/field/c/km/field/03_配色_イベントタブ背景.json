@@ -1,0 +1,14 @@
+{
+  "$id": "c_03_配色_イベントタブ背景",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Default: #ffeded",
+  "displayName": "03_配色_イベントタブ背景",
+  "group": "GROUP12",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

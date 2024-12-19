@@ -1,0 +1,21 @@
+{
+  "$id": "ce_region",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "Directory Region Entity",
+  "displayName": "Region",
+  "pluralDisplayName": "Regions",
+  "fields": [
+    {
+      "id": "dm_directoryChildren",
+      "required": false
+    },
+    {
+      "id": "dm_directoryParents",
+      "required": false
+    },
+    {
+      "id": "dm_baseEntityCount",
+      "required": false
+    }
+  ]
+}

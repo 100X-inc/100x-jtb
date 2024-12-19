@@ -1,0 +1,15 @@
+{
+  "$id": "c_plusJTBリンク4ラベル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "通常、JTB世界のおみやげ",
+  "displayName": "Plus JTB リンク4 ラベル",
+  "group": "GROUP4",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

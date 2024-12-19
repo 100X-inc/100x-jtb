@@ -1,0 +1,15 @@
+{
+  "$id": "c_cp_OverseasExpert",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Overseas Expert",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "海外エキスパート"
+    }
+  ],
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "c_cp_OverseasExpertType"
+}

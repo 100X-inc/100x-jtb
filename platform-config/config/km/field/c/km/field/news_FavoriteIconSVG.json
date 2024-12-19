@@ -1,0 +1,14 @@
+{
+  "$id": "c_news_FavoriteIconSVG",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "news_Favorite Icon SVG",
+  "group": "GROUP16",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "fileType": {
+      "maxFileSize": 104857600
+    }
+  },
+  "typeId": "file"
+}

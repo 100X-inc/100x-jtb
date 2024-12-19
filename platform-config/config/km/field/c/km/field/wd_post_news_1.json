@@ -1,0 +1,12 @@
+{
+  "$id": "c_wd_post_news_1",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "ウエディングサイトへ記事を連携するかしないかを選択。ウエディング店舗のみ利用。",
+  "displayName": "OLD_WD投稿 店舗ニュース1",
+  "group": "GROUP9",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

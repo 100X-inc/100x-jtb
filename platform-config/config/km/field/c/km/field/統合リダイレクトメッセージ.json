@@ -1,0 +1,14 @@
+{
+  "$id": "c_統合リダイレクトメッセージ",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "法人：統合用リダイレクトメッセージ（HTML可）",
+  "displayName": "統合リダイレクトメッセージ",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

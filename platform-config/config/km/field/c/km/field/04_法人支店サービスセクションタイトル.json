@@ -1,0 +1,24 @@
+{
+  "$id": "c_04_法人支店サービスセクションタイトル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "法人サービスセクションタイトル\n通常、サービス",
+  "displayName": "04_法人支店サービスセクションタイトル",
+  "displayNameTranslation": [
+    {
+      "localeCode": "en",
+      "value": " 01_おすすめ情報1_タイトル"
+    },
+    {
+      "localeCode": "ja",
+      "value": " 01_おすすめ情報1_タイトル"
+    }
+  ],
+  "group": "GROUP24",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

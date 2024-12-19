@@ -1,0 +1,55 @@
+{
+  "$id": "c_v2ReservationForVisit",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "来店予約の取扱い",
+  "displayName": "v2 Reservation for Visit",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "相談予約の取扱い"
+    }
+  ],
+  "group": "GROUP28",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "maxLength": 2000,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "国内旅行",
+              "textValue": "国内旅行"
+            },
+            {
+              "displayName": "海外旅行",
+              "textValue": "海外旅行"
+            },
+            {
+              "displayName": "クルーズ",
+              "textValue": "クルーズ"
+            },
+            {
+              "displayName": "ウエディング",
+              "textValue": "ウエディング"
+            },
+            {
+              "displayName": "予約内容の変更・取消",
+              "textValue": "予約内容の変更・取消"
+            },
+            {
+              "displayName": "支払い・受取",
+              "textValue": "支払い・受取"
+            },
+            {
+              "displayName": "チケット・商品券等",
+              "textValue": "チケット・商品券等"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

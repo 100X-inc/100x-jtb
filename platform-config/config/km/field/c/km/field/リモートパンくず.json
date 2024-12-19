@@ -1,0 +1,14 @@
+{
+  "$id": "c_リモートパンくず",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "リモート店舗用",
+  "displayName": "リモートパンくず",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

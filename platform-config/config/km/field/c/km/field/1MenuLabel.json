@@ -1,0 +1,14 @@
+{
+  "$id": "c_1MenuLabel",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "ウエディング店舗専用のメニューバーのラベル（1はDesktopで一番左端、Mobile で一番上になる）",
+  "displayName": "1-Menu Label",
+  "group": "GROUP10",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "c_v2EmergencyBannerStartDate",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 Emergency Banner Start Date",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "店舗お知らせ 掲載始め"
+    }
+  ],
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "dateType": {}
+  },
+  "typeId": "date"
+}

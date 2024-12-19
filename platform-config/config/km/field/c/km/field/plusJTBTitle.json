@@ -1,0 +1,15 @@
+{
+  "$id": "c_plusJTBTitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "店舗説明セクション（店舗ページの地図の部分）の Plus JTB セクションのラベル。通常は \"Plus JTB\" だが、店舗によっては変更する。",
+  "displayName": "Plus JTB Title",
+  "group": "GROUP4",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

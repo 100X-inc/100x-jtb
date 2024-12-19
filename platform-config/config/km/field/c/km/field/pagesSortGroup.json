@@ -1,0 +1,14 @@
+{
+  "$id": "c_pagesSortGroup",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "店舗一覧、店舗検索、近隣店舗の表示の際に利用する店舗区分。A: トラベルゲート、B: 直営店、C: 提携店、D: 法人, その他: X",
+  "displayName": "Pages Sort Group",
+  "group": "GROUP1",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

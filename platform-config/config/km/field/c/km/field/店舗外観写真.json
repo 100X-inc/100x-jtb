@@ -1,0 +1,15 @@
+{
+  "$id": "c_店舗外観写真",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "店舗の外観写真\r\n\r\n推奨縦横比率 2:3 (または 1:1)\r\n推奨最低サイズ: 320 x 480 px (or 480 x 480 px)",
+  "displayName": "OLD_店舗外観写真",
+  "group": "GROUP6",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "imageType": {
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

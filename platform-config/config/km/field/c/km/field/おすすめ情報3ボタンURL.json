@@ -1,0 +1,15 @@
+{
+  "$id": "c_おすすめ情報3ボタンURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "OLD_おすすめ情報3 ボタンURL",
+  "group": "GROUP3",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

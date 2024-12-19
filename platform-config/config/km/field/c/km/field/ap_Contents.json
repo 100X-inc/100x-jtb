@@ -1,0 +1,21 @@
+{
+  "$id": "c_ap_Contents",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "1980×1080 px 以上の画像を推奨します。",
+  "displayName": "ap_Contents",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "記事内容"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_ap_ArticleContent",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

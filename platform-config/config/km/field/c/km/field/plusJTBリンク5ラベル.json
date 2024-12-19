@@ -1,0 +1,15 @@
+{
+  "$id": "c_plusJTBリンク5ラベル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "通常、JTB旅行保険",
+  "displayName": "Plus JTB リンク5 ラベル",
+  "group": "GROUP4",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

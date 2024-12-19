@@ -1,0 +1,27 @@
+{
+  "$id": "c_v2ArticleList",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 Article List",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "店舗スタッフ記事リスト"
+    }
+  ],
+  "group": "GROUP26",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "maxLength": 5000,
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": ["ce_article"],
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

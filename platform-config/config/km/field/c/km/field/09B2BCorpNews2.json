@@ -1,0 +1,26 @@
+{
+  "$id": "c_09B2BCorpNews2",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "09 B2B Corp News 2",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "09_リテール トピックス（個所設定）"
+    }
+  ],
+  "group": "GROUP11",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "string",
+      "maxLength": 3,
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "c_noindex",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "noindex を使用してコンテンツをインデックスから除外する",
+  "displayName": "noindex",
+  "displayNameTranslation": [
+    {
+      "localeCode": "en",
+      "value": "Block Search indexing"
+    },
+    {
+      "localeCode": "ja",
+      "value": "ノーインデックス"
+    }
+  ],
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

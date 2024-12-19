@@ -1,0 +1,15 @@
+{
+  "$id": "c_店舗ニュースタイトル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "店舗ニュース・イベントセクションのタイトル\n通常は、店舗ニュース・イベント",
+  "displayName": "OLD_店舗ニュースタイトル",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

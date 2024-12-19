@@ -1,0 +1,47 @@
+{
+  "$id": "c_v2FacilitiesAndEquipment",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "施設設備",
+  "displayName": "v2 Facilities and Equipment",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "施設設備"
+    }
+  ],
+  "group": "GROUP28",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "maxLength": 2000,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "駐車場",
+              "textValue": "駐車場"
+            },
+            {
+              "displayName": "駅から徒歩10分以内",
+              "textValue": "駅から徒歩10分以内"
+            },
+            {
+              "displayName": "駅直結",
+              "textValue": "駅直結"
+            },
+            {
+              "displayName": "バリアフリー出入口",
+              "textValue": "バリアフリー出入口"
+            },
+            {
+              "displayName": "リモート相談",
+              "textValue": "リモート相談"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

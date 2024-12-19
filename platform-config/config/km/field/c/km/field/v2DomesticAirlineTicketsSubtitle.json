@@ -1,0 +1,21 @@
+{
+  "$id": "c_v2DomesticAirlineTicketsSubtitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "国内航空券単品の取扱い サブタイトル",
+  "displayName": "v2 Domestic Airline Tickets Subtitle",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "国内航空券単品の取扱い サブタイトル"
+    }
+  ],
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

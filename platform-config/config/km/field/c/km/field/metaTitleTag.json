@@ -1,0 +1,15 @@
+{
+  "$id": "c_metaTitleTag",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "News の {tag}がnullの時のfallback文字列",
+  "displayName": "Meta Title Tag",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

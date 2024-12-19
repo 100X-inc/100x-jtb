@@ -1,0 +1,15 @@
+{
+  "$id": "c_電話番号2ラベル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "通常、国内・予約変更など店舗直通\r\nMain Phone プロファイル電話番号",
+  "displayName": "OLD_電話番号2 ラベル",
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

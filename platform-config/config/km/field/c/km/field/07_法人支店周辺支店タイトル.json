@@ -1,0 +1,14 @@
+{
+  "$id": "c_07_法人支店周辺支店タイトル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "07_法人支店周辺支店タイトル",
+  "group": "GROUP11",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

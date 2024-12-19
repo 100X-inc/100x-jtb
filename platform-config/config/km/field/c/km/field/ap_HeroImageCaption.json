@@ -1,0 +1,20 @@
+{
+  "$id": "c_ap_HeroImageCaption",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Hero Image Caption",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "ヒーロー画像キャプション"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

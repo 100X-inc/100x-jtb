@@ -1,0 +1,15 @@
+{
+  "$id": "c_v2AnchorButton3",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "空の場合、「ニュース・イベント」",
+  "displayName": "v2 Anchor Button 3",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "ニュース・イベントアンカーボタンラベル"
+    }
+  ],
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "cta"
+}

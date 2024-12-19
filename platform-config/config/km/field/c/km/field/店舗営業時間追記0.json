@@ -1,0 +1,15 @@
+{
+  "$id": "c_店舗営業時間追記0",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "店舗名下の現在の営業時間表示（例：本日は 19:30 まで営業）の下に表示される営業時間補足情報",
+  "displayName": "OLD_店舗営業時間追記0",
+  "group": "GROUP14",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

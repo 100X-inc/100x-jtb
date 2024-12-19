@@ -1,0 +1,15 @@
+{
+  "$id": "c_1MenuURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "1-Menu URL",
+  "group": "GROUP10",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "c_top_ConsultantsSectionSubTitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "top_Consultants Section Sub Title",
+  "group": "GROUP29",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

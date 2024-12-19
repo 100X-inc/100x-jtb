@@ -1,0 +1,15 @@
+{
+  "$id": "c_plusJTBリンク7ラベル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Plus JTB リンク7 ラベル",
+  "group": "GROUP4",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "c_ap_ShortDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Short Description",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "概要説明"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "c_01_法人支店お知らせ",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "支店ページトップに表示するお知らせバーに表示するテキスト",
+  "displayName": "01_法人支店お知らせ",
+  "group": "GROUP13",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

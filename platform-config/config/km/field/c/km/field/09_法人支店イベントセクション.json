@@ -1,0 +1,15 @@
+{
+  "$id": "c_09_法人支店イベントセクション",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "09_法人支店イベントセクション",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_b2bServiceitemtype",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

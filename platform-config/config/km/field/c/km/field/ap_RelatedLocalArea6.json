@@ -1,0 +1,62 @@
+{
+  "$id": "c_ap_RelatedLocalArea6",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Related Local Area6",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "九州・沖縄"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "九州全般",
+              "textValue": "九州全般"
+            },
+            {
+              "displayName": "福岡県",
+              "textValue": "福岡県"
+            },
+            {
+              "displayName": "佐賀県",
+              "textValue": "佐賀県"
+            },
+            {
+              "displayName": "長崎県",
+              "textValue": "長崎県"
+            },
+            {
+              "displayName": "熊本県",
+              "textValue": "熊本県"
+            },
+            {
+              "displayName": "大分県",
+              "textValue": "大分県"
+            },
+            {
+              "displayName": "宮崎県",
+              "textValue": "宮崎県"
+            },
+            {
+              "displayName": "鹿児島県",
+              "textValue": "鹿児島県"
+            },
+            {
+              "displayName": "沖縄県",
+              "textValue": "沖縄県"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

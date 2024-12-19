@@ -1,0 +1,54 @@
+{
+  "$id": "c_ap_RelatedAbroadArea2",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Related Abroad Area2",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "北米・中南米"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "アメリカ",
+              "textValue": "アメリカ"
+            },
+            {
+              "displayName": "カナダ",
+              "textValue": "カナダ"
+            },
+            {
+              "displayName": "メキシコ",
+              "textValue": "メキシコ"
+            },
+            {
+              "displayName": "ブラジル",
+              "textValue": "ブラジル"
+            },
+            {
+              "displayName": "ペルー",
+              "textValue": "ペルー"
+            },
+            {
+              "displayName": "北米全般",
+              "textValue": "北米全般"
+            },
+            {
+              "displayName": "中南米全般",
+              "textValue": "中南米全般"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

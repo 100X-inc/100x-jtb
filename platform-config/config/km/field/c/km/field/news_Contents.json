@@ -1,0 +1,15 @@
+{
+  "$id": "c_news_Contents",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "news_Contents",
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_ap_NewsContentType",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

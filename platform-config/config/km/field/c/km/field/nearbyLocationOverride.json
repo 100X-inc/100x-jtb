@@ -1,0 +1,20 @@
+{
+  "$id": "c_nearbyLocationOverride",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Use this to override the last (4th) nearby location with the entity selected ",
+  "displayName": "Nearby Location Override",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "maxLength": 4,
+      "type": {
+        "entityReferenceType": {
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

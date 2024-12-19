@@ -1,0 +1,15 @@
+{
+  "$id": "c_追加回答",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "追加回答リスト（回答＆画像）",
+  "displayName": "追加回答",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "listType": {
+      "typeId": "c_追加回答タイプ",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

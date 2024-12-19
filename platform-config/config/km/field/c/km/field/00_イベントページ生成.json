@@ -1,0 +1,12 @@
+{
+  "$id": "c_00_イベントページ生成",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "イベントカテゴリページを生成するかどうか",
+  "displayName": "00_イベントページ生成",
+  "group": "GROUP12",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "c_linkToStoresNearby",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Link to Stores Nearby",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "近くの店舗へのリンク"
+    }
+  ],
+  "group": "GROUP13",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "cta"
+}

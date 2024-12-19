@@ -1,0 +1,20 @@
+{
+  "$id": "c_cp_DisplayName",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Display Name",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "氏名 ページ表示用"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

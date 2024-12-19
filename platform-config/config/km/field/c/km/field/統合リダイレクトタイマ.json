@@ -1,0 +1,14 @@
+{
+  "$id": "c_統合リダイレクトタイマ",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "自動リダイレクトするタイマ（秒）",
+  "displayName": "統合リダイレクトタイマ",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

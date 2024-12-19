@@ -1,0 +1,14 @@
+{
+  "$id": "c_06_法人支店イベントタイトル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "イベントセクションのタイトル",
+  "displayName": "06_法人支店イベントタイトル",
+  "group": "GROUP13",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

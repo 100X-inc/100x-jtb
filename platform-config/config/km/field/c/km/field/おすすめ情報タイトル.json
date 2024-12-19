@@ -1,0 +1,15 @@
+{
+  "$id": "c_おすすめ情報タイトル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "おすすめ情報セクションのタイトル\n通常は、おすすめ情報",
+  "displayName": "OLD_おすすめ情報タイトル",
+  "group": "GROUP3",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

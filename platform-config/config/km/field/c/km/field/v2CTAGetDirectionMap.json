@@ -1,0 +1,15 @@
+{
+  "$id": "c_v2CTAGetDirectionMap",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "地図を見る(Get Direction)",
+  "displayName": "v2 CTA Get Direction Map",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "地図を見る"
+    }
+  ],
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "cta"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "c_02_法人個所お知らせ",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "02_法人個所お知らせ",
+  "displayNameTranslation": [
+    {
+      "localeCode": "en",
+      "value": "01_法人個所お知らせ"
+    },
+    {
+      "localeCode": "ja",
+      "value": "01_法人個所お知らせ"
+    }
+  ],
+  "group": "GROUP24",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

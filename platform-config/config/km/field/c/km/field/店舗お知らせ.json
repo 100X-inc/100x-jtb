@@ -1,0 +1,15 @@
+{
+  "$id": "c_店舗お知らせ",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "（緊急時に使用）店舗お知らせ、ページトップに赤い帯で表示されるお知らせ",
+  "displayName": "OLD_店舗お知らせ",
+  "group": "GROUP6",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

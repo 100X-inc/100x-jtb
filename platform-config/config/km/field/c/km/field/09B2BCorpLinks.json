@@ -1,0 +1,25 @@
+{
+  "$id": "c_09B2BCorpLinks",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "09 B2B Corp Links",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "09_リテール店舗 関連店"
+    }
+  ],
+  "group": "GROUP13",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

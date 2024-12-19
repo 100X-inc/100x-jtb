@@ -1,0 +1,58 @@
+{
+  "$id": "c_ap_RelatedLocalArea1",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "記事に関連する国内エリア",
+  "displayName": "ap_Related Local Area1",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "北海道・東北"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "北海道",
+              "textValue": "北海道"
+            },
+            {
+              "displayName": "東北全般",
+              "textValue": "東北全般"
+            },
+            {
+              "displayName": "青森県",
+              "textValue": "青森県"
+            },
+            {
+              "displayName": "岩手県",
+              "textValue": "岩手県"
+            },
+            {
+              "displayName": "宮城県",
+              "textValue": "宮城県"
+            },
+            {
+              "displayName": "秋田県",
+              "textValue": "秋田県"
+            },
+            {
+              "displayName": "山形県",
+              "textValue": "山形県"
+            },
+            {
+              "displayName": "福島県",
+              "textValue": "福島県"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

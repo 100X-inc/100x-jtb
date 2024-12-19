@@ -1,0 +1,82 @@
+{
+  "$id": "c_branchServices",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Branch Services",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "法人向け提供サービス一覧タグ"
+    }
+  ],
+  "group": "GROUP11",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "旅行・研修",
+              "textValue": "旅行・研修"
+            },
+            {
+              "displayName": "ミーティング・イベント",
+              "textValue": "ミーティング・イベント"
+            },
+            {
+              "displayName": "プロモーション",
+              "textValue": "プロモーション"
+            },
+            {
+              "displayName": "HRソリューション",
+              "textValue": "HRソリューション"
+            },
+            {
+              "displayName": "周年事業",
+              "textValue": "周年事業"
+            },
+            {
+              "displayName": "オンラインソリューション",
+              "textValue": "オンラインソリューション"
+            },
+            {
+              "displayName": "地域デジタルマーケティング",
+              "textValue": "地域デジタルマーケティング"
+            },
+            {
+              "displayName": "地域振興支援",
+              "textValue": "地域振興支援"
+            },
+            {
+              "displayName": "中学・高校向けプログラム",
+              "textValue": "中学・高校向けプログラム"
+            },
+            {
+              "displayName": "大学向けプログラム",
+              "textValue": "大学向けプログラム"
+            },
+            {
+              "displayName": "インバウンド",
+              "textValue": "インバウンド"
+            },
+            {
+              "displayName": "スポーツ事業",
+              "textValue": "スポーツ事業"
+            },
+            {
+              "displayName": "エンタメ事業",
+              "textValue": "エンタメ事業"
+            },
+            {
+              "displayName": "メディカル業界向けソリューション",
+              "textValue": "メディカル業界向けソリューション"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

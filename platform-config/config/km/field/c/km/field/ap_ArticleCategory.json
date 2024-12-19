@@ -1,0 +1,29 @@
+{
+  "$id": "c_ap_ArticleCategory",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Article Category",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "記事カテゴリ"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "投稿記事",
+          "textValue": "投稿記事"
+        },
+        {
+          "displayName": "実績",
+          "textValue": "実績"
+        }
+      ]
+    }
+  },
+  "typeId": "option"
+}

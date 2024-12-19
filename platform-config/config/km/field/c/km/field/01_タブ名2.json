@@ -1,0 +1,14 @@
+{
+  "$id": "c_01_タブ名2",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "イベントページのタブ名\n通常：イベント",
+  "displayName": "01_タブ名2",
+  "group": "GROUP12",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

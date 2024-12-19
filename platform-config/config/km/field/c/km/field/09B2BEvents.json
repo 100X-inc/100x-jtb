@@ -1,0 +1,21 @@
+{
+  "$id": "c_09B2BEvents",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "09 B2B Events",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "09_法人支店イベント"
+    }
+  ],
+  "group": "GROUP13",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_b2B_ServiceList",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

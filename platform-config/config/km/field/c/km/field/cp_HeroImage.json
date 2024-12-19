@@ -1,0 +1,22 @@
+{
+  "$id": "c_cp_HeroImage",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Hero Image",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "ヒーロー画像"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "isSimpleImage": true,
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

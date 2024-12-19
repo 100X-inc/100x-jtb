@@ -1,0 +1,20 @@
+{
+  "$id": "c_09B2BEventsDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "09 B2B Events Description",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "09_法人支店イベントサブタイトル"
+    }
+  ],
+  "group": "GROUP13",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

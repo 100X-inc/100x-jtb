@@ -1,0 +1,15 @@
+{
+  "$id": "c_v2AnchorButton2",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "空の場合、「スタッフの旅記事」",
+  "displayName": "v2 Anchor Button 2",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "スタッフの旅記事アンカーボタンラベル"
+    }
+  ],
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "cta"
+}

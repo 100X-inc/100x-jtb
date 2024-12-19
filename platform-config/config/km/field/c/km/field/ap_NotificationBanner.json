@@ -1,0 +1,20 @@
+{
+  "$id": "c_ap_NotificationBanner",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Notification Banner",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "お知らせバナー"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

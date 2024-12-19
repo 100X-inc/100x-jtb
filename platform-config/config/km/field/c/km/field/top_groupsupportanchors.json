@@ -1,0 +1,15 @@
+{
+  "$id": "c_top_groupsupportanchors",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "top_Group Support Anchors",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "cta",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

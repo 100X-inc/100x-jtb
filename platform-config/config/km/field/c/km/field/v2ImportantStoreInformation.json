@@ -1,0 +1,21 @@
+{
+  "$id": "c_v2ImportantStoreInformation",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "来店前のご案内",
+  "displayName": "v2 Important Store Information",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "来店前のご案内"
+    }
+  ],
+  "group": "GROUP28",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_v2ImportantStoreInformationType",
+      "maxLength": 5
+    }
+  },
+  "typeId": "list"
+}

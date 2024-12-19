@@ -1,0 +1,21 @@
+{
+  "$id": "c_primaryAreaLevel3",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Primary Area Level 3",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "maxLength": 1,
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": ["ce_areaLevel3"],
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

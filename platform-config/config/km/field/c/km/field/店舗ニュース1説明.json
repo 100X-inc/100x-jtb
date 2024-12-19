@@ -1,0 +1,15 @@
+{
+  "$id": "c_店舗ニュース1説明",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "OLD_店舗ニュース1 説明",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 4000
+    }
+  },
+  "typeId": "string"
+}

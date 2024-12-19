@@ -1,0 +1,15 @@
+{
+  "$id": "c_v2TopBanner2",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 Top Banner 2",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "店舗トップバナー2"
+    }
+  ],
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "c_v2BannerImage"
+}

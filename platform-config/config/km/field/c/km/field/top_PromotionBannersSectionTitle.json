@@ -1,0 +1,14 @@
+{
+  "$id": "c_top_PromotionBannersSectionTitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "プロモーションバナーのセクションタイトル",
+  "displayName": "top_Promotion Banners Section Title",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

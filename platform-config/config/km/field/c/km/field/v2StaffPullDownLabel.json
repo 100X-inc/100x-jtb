@@ -1,0 +1,21 @@
+{
+  "$id": "c_v2StaffPullDownLabel",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 Staff Pull Down Label",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "店舗スタッフセクションプルダウンラベル"
+    }
+  ],
+  "group": "GROUP26",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

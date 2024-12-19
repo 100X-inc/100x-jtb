@@ -1,0 +1,15 @@
+{
+  "$id": "c_v2AnchorButton4",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "空の場合、「おすすめ情報」",
+  "displayName": "v2 Anchor Button 4",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "おすすめ情報アンカーボタンラベル"
+    }
+  ],
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "cta"
+}

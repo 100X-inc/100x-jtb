@@ -1,0 +1,27 @@
+{
+  "$id": "c_v2StaffList",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 Staff List",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "店舗スタッフリスト"
+    }
+  ],
+  "group": "GROUP26",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "maxLength": 5000,
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": ["ce_consultant"],
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

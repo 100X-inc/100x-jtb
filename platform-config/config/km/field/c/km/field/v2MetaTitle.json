@@ -1,0 +1,21 @@
+{
+  "$id": "c_v2MetaTitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 Meta Title",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "店舗 Meta Title"
+    }
+  ],
+  "group": "GROUP1",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

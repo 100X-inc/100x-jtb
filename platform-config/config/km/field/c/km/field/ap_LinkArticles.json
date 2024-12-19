@@ -1,0 +1,26 @@
+{
+  "$id": "c_ap_LinkArticles",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Link Articles",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "関連する投稿記事"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": ["ce_article"],
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

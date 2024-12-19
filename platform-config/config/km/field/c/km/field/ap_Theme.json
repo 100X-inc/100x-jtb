@@ -1,0 +1,166 @@
+{
+  "$id": "c_ap_Theme",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Theme",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "テーマ"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "ファミリー",
+              "textValue": "ファミリー"
+            },
+            {
+              "displayName": "母娘旅",
+              "textValue": "母娘旅"
+            },
+            {
+              "displayName": "一人旅",
+              "textValue": "一人旅"
+            },
+            {
+              "displayName": "夫婦旅",
+              "textValue": "夫婦旅"
+            },
+            {
+              "displayName": "グループ",
+              "textValue": "グループ"
+            },
+            {
+              "displayName": "ウエディング",
+              "textValue": "ウエディング"
+            },
+            {
+              "displayName": "ハネムーン",
+              "textValue": "ハネムーン"
+            },
+            {
+              "displayName": "記念旅行",
+              "textValue": "記念旅行"
+            },
+            {
+              "displayName": "クルーズ",
+              "textValue": "クルーズ"
+            },
+            {
+              "displayName": "自然・山",
+              "textValue": "自然・山"
+            },
+            {
+              "displayName": "寺社・教会",
+              "textValue": "寺社・教会"
+            },
+            {
+              "displayName": "建築・史跡",
+              "textValue": "建築・史跡"
+            },
+            {
+              "displayName": "歴史・地理",
+              "textValue": "歴史・地理"
+            },
+            {
+              "displayName": "文芸・文学",
+              "textValue": "文芸・文学"
+            },
+            {
+              "displayName": "動植物園・公園",
+              "textValue": "動植物園・公園"
+            },
+            {
+              "displayName": "美術館・博物館",
+              "textValue": "美術鑑賞"
+            },
+            {
+              "displayName": "世界遺産",
+              "textValue": "世界遺産"
+            },
+            {
+              "displayName": "テーマパーク",
+              "textValue": "テーマパーク"
+            },
+            {
+              "displayName": "スポーツ・アウトドア",
+              "textValue": "スポーツ観戦"
+            },
+            {
+              "displayName": "街あるき",
+              "textValue": "街あるき"
+            },
+            {
+              "displayName": "ドライブ",
+              "textValue": "ドライブ"
+            },
+            {
+              "displayName": "鉄道",
+              "textValue": "鉄道"
+            },
+            {
+              "displayName": "飛行機",
+              "textValue": "飛行機"
+            },
+            {
+              "displayName": "グルメ",
+              "textValue": "グルメ"
+            },
+            {
+              "displayName": "ショッピング",
+              "textValue": "ショッピング"
+            },
+            {
+              "displayName": "お酒",
+              "textValue": "お酒"
+            },
+            {
+              "displayName": "カフェ",
+              "textValue": "カフェ"
+            },
+            {
+              "displayName": "ご当地グルメ",
+              "textValue": "ご当地グルメ"
+            },
+            {
+              "displayName": "おみやげ",
+              "textValue": "おみやげ"
+            },
+            {
+              "displayName": "温泉・立ち寄り湯",
+              "textValue": "温泉・立ち寄り湯"
+            },
+            {
+              "displayName": "お祭り",
+              "textValue": "お祭り"
+            },
+            {
+              "displayName": "伝統工芸・民芸",
+              "textValue": "伝統工芸・民芸"
+            },
+            {
+              "displayName": "ライブ・イベント",
+              "textValue": "音楽ライブ"
+            },
+            {
+              "displayName": "リゾート",
+              "textValue": "リゾート"
+            },
+            {
+              "displayName": "ホテル・旅館",
+              "textValue": "ホテル・旅館"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

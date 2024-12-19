@@ -1,0 +1,15 @@
+{
+  "$id": "c_店舗営業時間追記3",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "店舗営業時間（プルダウン）の下に表示される 文字列。通常、「その他休業日：12/30, 12/31, 1/1, 1/2, 1/3」が入る\n",
+  "displayName": "OLD_店舗営業時間追記3",
+  "group": "GROUP14",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

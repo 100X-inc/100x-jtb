@@ -1,0 +1,14 @@
+{
+  "$id": "c_統合店舗名",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "統合先の店舗名",
+  "displayName": "統合店舗名",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

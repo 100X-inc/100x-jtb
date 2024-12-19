@@ -1,0 +1,21 @@
+{
+  "$id": "c_cp_UpdateComments",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Update Comments",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "近況アップデート"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

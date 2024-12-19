@@ -1,0 +1,43 @@
+{
+  "$id": "c_v2GiftCertificatesAndTravelCoupons",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "商品券・ギフトなど",
+  "displayName": "v2 Gift Certificates and Travel Coupons",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "商品券・旅行券の取扱い"
+    }
+  ],
+  "group": "GROUP28",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "maxLength": 2000,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "JTB商品券（ナイスギフト）",
+              "textValue": "JTB商品券（ナイスギフト）"
+            },
+            {
+              "displayName": "JTB旅行券（ナイストリップ）",
+              "textValue": "JTB旅行券（ナイストリップ）"
+            },
+            {
+              "displayName": "カード型旅行券（JTBトラベルギフト）",
+              "textValue": "カード型旅行券（JTBトラベルギフト）"
+            },
+            {
+              "displayName": "JTBカタログギフト（たびもの撰華）",
+              "textValue": "JTBカタログギフト（たびもの撰華）"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

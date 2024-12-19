@@ -1,0 +1,15 @@
+{
+  "$id": "c_電話番号1ラベル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "通常、新規ご相談・申し込み\nToll Free プロファイル電話番号",
+  "displayName": "OLD_電話番号1 ラベル",
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

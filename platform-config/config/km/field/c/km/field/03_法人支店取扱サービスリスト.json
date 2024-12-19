@@ -1,0 +1,15 @@
+{
+  "$id": "c_03_法人支店取扱サービスリスト",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "地図横の箇条書きリストのラベルとリンク",
+  "displayName": "03_法人支店取扱サービスリスト",
+  "group": "GROUP11",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_b2bUrlLink",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "c_v2CTAReservation",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 CTA Reservation",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "CTA2 相談予約"
+    }
+  ],
+  "group": "GROUP3",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "cta"
+}

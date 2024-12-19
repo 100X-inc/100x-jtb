@@ -1,0 +1,22 @@
+{
+  "$id": "c_genre_badge",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "genre_badge",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "image",
+      "maxLength": 500,
+      "type": {
+        "imageType": {
+          "isSimpleImage": true,
+          "noAllowedAspectRatios": true,
+          "unconstrainedAspectRatioAllowed": true
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

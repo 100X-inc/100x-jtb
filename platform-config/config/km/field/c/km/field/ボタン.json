@@ -1,0 +1,15 @@
+{
+  "$id": "c_ボタン",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "ボタンテキスト＋URL のリスト",
+  "displayName": "ボタン",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "listType": {
+      "typeId": "c_ボタンタイプ",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

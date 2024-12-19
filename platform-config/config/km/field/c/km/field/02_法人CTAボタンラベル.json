@@ -1,0 +1,14 @@
+{
+  "$id": "c_02_法人CTAボタンラベル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "通常、お問い合わせフォーム",
+  "displayName": "02_法人CTAボタンラベル",
+  "group": "GROUP13",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

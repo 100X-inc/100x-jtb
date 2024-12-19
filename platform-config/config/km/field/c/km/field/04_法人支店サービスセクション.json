@@ -1,0 +1,15 @@
+{
+  "$id": "c_04_法人支店サービスセクション",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": " 01_おすすめ情報1",
+  "group": "GROUP24",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_b2bServiceitemtype",
+      "maxLength": 6
+    }
+  },
+  "typeId": "list"
+}

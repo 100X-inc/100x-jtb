@@ -1,0 +1,12 @@
+{
+  "$id": "c_店舗ページ生成",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "店舗ページを生成するかどうかのフラグ",
+  "displayName": "店舗ページ生成",
+  "group": "GROUP1",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

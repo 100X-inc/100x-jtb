@@ -1,0 +1,94 @@
+{
+  "$id": "c_cp_StrongAbroadArea3",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Strong Abroad Area3",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "ヨーロッパ"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "イギリス",
+              "textValue": "イギリス"
+            },
+            {
+              "displayName": "フランス",
+              "textValue": "フランス"
+            },
+            {
+              "displayName": "スペイン",
+              "textValue": "スペイン"
+            },
+            {
+              "displayName": "イタリア",
+              "textValue": "イタリア"
+            },
+            {
+              "displayName": "ドイツ",
+              "textValue": "ドイツ"
+            },
+            {
+              "displayName": "スイス",
+              "textValue": "スイス"
+            },
+            {
+              "displayName": "オランダ・ベルギー",
+              "textValue": "オランダ・ベルギー"
+            },
+            {
+              "displayName": "ポルトガル",
+              "textValue": "ポルトガル"
+            },
+            {
+              "displayName": "北欧",
+              "textValue": "北欧"
+            },
+            {
+              "displayName": "ギリシャ",
+              "textValue": "ギリシャ"
+            },
+            {
+              "displayName": "クロアチア・スロベニア",
+              "textValue": "クロアチア・スロベニア"
+            },
+            {
+              "displayName": "オーストリア・チェコ・ハンガリー",
+              "textValue": "オーストリア・チェコ・ハンガリー"
+            },
+            {
+              "displayName": "ロシア",
+              "textValue": "ロシア"
+            },
+            {
+              "displayName": "バルト三国",
+              "textValue": "バルト三国"
+            },
+            {
+              "displayName": "西欧全般",
+              "textValue": "西欧全般"
+            },
+            {
+              "displayName": "中欧全般",
+              "textValue": "中欧全般"
+            },
+            {
+              "displayName": "東欧全般",
+              "textValue": "東欧全般"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

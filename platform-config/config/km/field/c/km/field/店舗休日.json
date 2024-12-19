@@ -1,0 +1,33 @@
+{
+  "$id": "c_店舗休日",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "土曜、日曜、祝日に営業している店舗を検索するためのフィールド。\r\nこの情報は、店舗検索のときに店舗を絞り込むためにフィルターとして利用される。",
+  "displayName": "OLD_店舗休日",
+  "group": "GROUP1",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "maxLength": 500,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "土曜",
+              "textValue": "土曜"
+            },
+            {
+              "displayName": "日曜",
+              "textValue": "日曜"
+            },
+            {
+              "displayName": "祝日",
+              "textValue": "祝日"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

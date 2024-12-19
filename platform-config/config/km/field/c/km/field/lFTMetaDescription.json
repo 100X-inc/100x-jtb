@@ -1,0 +1,14 @@
+{
+  "$id": "c_lFTMetaDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "LFT Page Meta Description",
+  "displayName": "LFT Meta Description",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "c_organizationCode",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Organization Code",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "組織コード"
+    }
+  ],
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

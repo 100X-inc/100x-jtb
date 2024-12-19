@@ -1,0 +1,52 @@
+{
+  "$id": "c_11_検索フィルター法人取扱サービス",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "支店で主に取り扱っている法人サービス\r\n検索時のフィルターで利用",
+  "displayName": "11_検索フィルター法人取扱サービス",
+  "group": "GROUP11",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "ミーティング・イベント",
+              "textValue": "OPTION1"
+            },
+            {
+              "displayName": "旅行事業（企業向け）",
+              "textValue": "OPTION2"
+            },
+            {
+              "displayName": "旅行事業（教育期間向け）",
+              "textValue": "OPTION3"
+            },
+            {
+              "displayName": "コミュニケーション事業",
+              "textValue": "OPTION4"
+            },
+            {
+              "displayName": "地域交流事業",
+              "textValue": "OPTION5"
+            },
+            {
+              "displayName": "総務系ソリューション事業",
+              "textValue": "OPTION6"
+            },
+            {
+              "displayName": "スポーツ関連ビジネス",
+              "textValue": "OPTION7"
+            },
+            {
+              "displayName": "インバウンドソリューション",
+              "textValue": "OPTION8"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

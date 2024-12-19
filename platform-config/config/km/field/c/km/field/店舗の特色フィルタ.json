@@ -1,0 +1,65 @@
+{
+  "$id": "c_店舗の特色フィルタ",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "店舗検索のお店の特色フィルタで使用",
+  "displayName": "OLD_店舗の特色フィルタ",
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "maxLength": 500,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "ウエディングコンサルタントのいるお店",
+              "textValue": "ウェディングコンサルタントのいるお店"
+            },
+            {
+              "displayName": "クルーズコンサルタントのいるお店",
+              "textValue": "クルーズコンサルタントのいるお店"
+            },
+            {
+              "displayName": "ロイヤルスタッフのいるお店",
+              "textValue": "ロイヤルスタッフのいるお店"
+            },
+            {
+              "displayName": "入口段差なし又は、スロープのあるお店",
+              "textValue": "入口段差なし又は、スロープのあるお店"
+            },
+            {
+              "displayName": "来店予約を受付けているお店",
+              "textValue": "来店予約を受付けているお店"
+            },
+            {
+              "displayName": "オンライン・リモートでの相談専門店",
+              "textValue": "オンライン・リモートでの相談専門店"
+            },
+            {
+              "displayName": "国内航空券単一の取扱いはございません",
+              "textValue": "国内航空券単一の取扱いはございません"
+            },
+            {
+              "displayName": "JALグループの国内航空券単一の取扱いはございません",
+              "textValue": "JALグループの国内航空券単一の取扱いはございません"
+            },
+            {
+              "displayName": "ANAグループの国内航空券単一の取扱いはございません",
+              "textValue": "ANAグループの国内航空券単一の取扱いはございません"
+            },
+            {
+              "displayName": "ハワイスペシャリスト検定・上級のいるお店",
+              "textValue": "ハワイスペシャリスト検定・上級のいるお店"
+            },
+            {
+              "displayName": "ハワイ州観光局サテライトオフィス",
+              "textValue": "ハワイ州観光局サテライトオフィス"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

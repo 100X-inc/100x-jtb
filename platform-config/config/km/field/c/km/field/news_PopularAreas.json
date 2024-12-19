@@ -1,0 +1,19 @@
+{
+  "$id": "c_news_PopularAreas",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "人気エリアへのリンク",
+  "displayName": "news_Popular Areas",
+  "group": "GROUP16",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "type": "TWO_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

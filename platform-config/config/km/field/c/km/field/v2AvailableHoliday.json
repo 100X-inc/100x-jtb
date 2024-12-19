@@ -1,0 +1,39 @@
+{
+  "$id": "c_v2AvailableHoliday",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 Available Holiday",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "店舗休日"
+    }
+  ],
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "maxLength": 2000,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "土曜",
+              "textValue": "土曜"
+            },
+            {
+              "displayName": "日曜",
+              "textValue": "日曜"
+            },
+            {
+              "displayName": "祝日",
+              "textValue": "祝日"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

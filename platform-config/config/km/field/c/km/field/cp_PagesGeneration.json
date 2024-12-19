@@ -1,0 +1,18 @@
+{
+  "$id": "c_cp_PagesGeneration",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Pages Generation",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "コンサルタントページ生成"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

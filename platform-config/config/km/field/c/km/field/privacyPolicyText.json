@@ -1,0 +1,21 @@
+{
+  "$id": "c_privacyPolicyText",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "個人情報取り扱い等の同意について",
+  "displayName": "Privacy Policy Text",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "個人情報取り扱い等の同意について"
+    }
+  ],
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

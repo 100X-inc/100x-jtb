@@ -1,0 +1,63 @@
+{
+  "$id": "c_v2StoreFeatures",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "お店の特色",
+  "displayName": "v2 Store Features",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "お店の特色"
+    }
+  ],
+  "group": "GROUP28",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "maxLength": 2000,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "ハワイスペシャリスト",
+              "textValue": "ハワイスペシャリスト"
+            },
+            {
+              "displayName": "ハワイサテライトオフィス",
+              "textValue": "ハワイサテライトオフィス"
+            },
+            {
+              "displayName": "ウエディングコンサルタント",
+              "textValue": "ウエディングコンサルタント"
+            },
+            {
+              "displayName": "クルーズコンサルタント",
+              "textValue": "クルーズコンサルタント"
+            },
+            {
+              "displayName": "ロイヤルスタッフ",
+              "textValue": "ロイヤルスタッフ"
+            },
+            {
+              "displayName": "海外エキスパート",
+              "textValue": "海外エキスパート"
+            },
+            {
+              "displayName": "海外スペシャリスト資格保有",
+              "textValue": "海外スペシャリスト資格保有"
+            },
+            {
+              "displayName": "多言語対応可能",
+              "textValue": "多言語対応可能"
+            },
+            {
+              "displayName": "観光案内所",
+              "textValue": "観光案内所"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

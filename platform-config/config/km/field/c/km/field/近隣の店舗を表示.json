@@ -1,0 +1,12 @@
+{
+  "$id": "c_近隣の店舗を表示",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "このフラグがYesの時のみ近隣の店舗が表示される。",
+  "displayName": "近隣の店舗を表示",
+  "group": "GROUP13",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

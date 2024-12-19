@@ -1,0 +1,20 @@
+{
+  "$id": "c_cp_CaseStudySectionTitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Case Study Section Title",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "実績・ケーススタディセクションタイトル"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

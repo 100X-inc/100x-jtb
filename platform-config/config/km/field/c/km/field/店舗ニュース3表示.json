@@ -1,0 +1,12 @@
+{
+  "$id": "c_店舗ニュース3表示",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "店舗ニュース3 を店舗ページに表示する場合に Yes にする",
+  "displayName": "OLD_店舗ニュース3 表示",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

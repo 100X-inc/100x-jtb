@@ -1,0 +1,12 @@
+{
+  "$id": "c_経路検索ボタン非表示",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "リモート店舗用",
+  "displayName": "経路検索ボタン非表示",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

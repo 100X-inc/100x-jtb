@@ -1,0 +1,18 @@
+{
+  "$id": "c_cp_Point",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Consultant の表示順を制御する数値（高い方が一覧ページで上に出る）",
+  "displayName": "cp_Point",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "ソート順"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "decimalType": {}
+  },
+  "typeId": "decimal"
+}

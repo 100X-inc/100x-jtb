@@ -1,0 +1,21 @@
+{
+  "$id": "ce_city",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "Directory City Entity",
+  "displayName": "City",
+  "pluralDisplayName": "Cities",
+  "fields": [
+    {
+      "id": "dm_directoryChildren",
+      "required": false
+    },
+    {
+      "id": "dm_directoryParents",
+      "required": false
+    },
+    {
+      "id": "dm_baseEntityCount",
+      "required": false
+    }
+  ]
+}

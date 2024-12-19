@@ -1,0 +1,12 @@
+{
+  "$id": "c_notCreateFAQSchema",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Yesの場合、このEntityのFAQ Schemaは作成しない。ただし関連するFAQのスキーマは作成する。",
+  "displayName": "Not Create FAQ Schema",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "c_スタッフ紹介タイトル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "スタッフ紹介セクション全体の一番上に表示されるタイトル",
+  "displayName": "OLD_スタッフ紹介タイトル",
+  "group": "GROUP26",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

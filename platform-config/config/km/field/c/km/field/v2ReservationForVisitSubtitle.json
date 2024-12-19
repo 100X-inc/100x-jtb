@@ -1,0 +1,21 @@
+{
+  "$id": "c_v2ReservationForVisitSubtitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "来店予約の取扱い サブタイトル",
+  "displayName": "v2 Reservation for Visit Subtitle",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "来店予約の取扱い サブタイトル"
+    }
+  ],
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

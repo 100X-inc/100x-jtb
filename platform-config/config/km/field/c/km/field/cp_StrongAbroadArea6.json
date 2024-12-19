@@ -1,0 +1,25 @@
+{
+  "$id": "c_cp_StrongAbroadArea6",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Strong Abroad Area6",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "その他１"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "noOptions": true
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

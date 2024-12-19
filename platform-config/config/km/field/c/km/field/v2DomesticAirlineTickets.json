@@ -1,0 +1,39 @@
+{
+  "$id": "c_v2DomesticAirlineTickets",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "国内航空券単品の取扱い",
+  "displayName": "v2 Domestic Airline Tickets",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "国内航空券単品の取扱い"
+    }
+  ],
+  "group": "GROUP28",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "maxLength": 2000,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "国内航空券（ANA及び提携各社）",
+              "textValue": "国内航空券（ANA及び提携各社）"
+            },
+            {
+              "displayName": "国内航空券（JALグループ）",
+              "textValue": "国内航空券（JALグループ）"
+            },
+            {
+              "displayName": "国内航空券（その他）",
+              "textValue": "国内航空券（その他）"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

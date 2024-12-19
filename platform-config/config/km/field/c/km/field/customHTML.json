@@ -1,0 +1,15 @@
+{
+  "$id": "c_customHTML",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "\u003chead\u003e部に挿入される",
+  "displayName": "Custom HTML",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

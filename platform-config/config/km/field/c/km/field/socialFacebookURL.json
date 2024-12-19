@@ -1,0 +1,20 @@
+{
+  "$id": "c_socialFacebookURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "個人事業店舗ページの公式SNSアカウントセクション、Facebook アイコンに設置するURL",
+  "displayName": "Social Facebook URL",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "個人店舗ページ Icon 用 Facebook URL"
+    }
+  ],
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL"
+    }
+  },
+  "typeId": "string"
+}

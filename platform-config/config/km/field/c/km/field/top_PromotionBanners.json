@@ -1,0 +1,20 @@
+{
+  "$id": "c_top_PromotionBanners",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "プロモーションバナー",
+  "displayName": "top_Promotion Banners",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "image",
+      "type": {
+        "imageType": {
+          "noAllowedAspectRatios": true,
+          "unconstrainedAspectRatioAllowed": true
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

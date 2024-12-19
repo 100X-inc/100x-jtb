@@ -1,0 +1,15 @@
+{
+  "$id": "c_top_AnchorLinks",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "top_Anchor Links",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "cta",
+      "maxLength": 4
+    }
+  },
+  "typeId": "list"
+}

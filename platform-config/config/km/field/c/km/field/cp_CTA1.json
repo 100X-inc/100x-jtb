@@ -1,0 +1,15 @@
+{
+  "$id": "c_cp_CTA1",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_CTA1",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "オンライン相談予約ボタン"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "cta"
+}

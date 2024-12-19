@@ -1,0 +1,15 @@
+{
+  "$id": "c_top_Info",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "top_Info",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_top_InfoType",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

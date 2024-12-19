@@ -1,0 +1,15 @@
+{
+  "$id": "c_socialGooglePlusURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Google+ アカウントへのリンク",
+  "displayName": "Social Google Plus URL",
+  "group": "GROUP1",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

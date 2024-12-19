@@ -1,0 +1,15 @@
+{
+  "$id": "c_店舗お知らせ通常",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "緊急でない店舗お知らせ。店舗ページのトップに表示される。",
+  "displayName": "OLD_店舗お知らせ通常",
+  "group": "GROUP6",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

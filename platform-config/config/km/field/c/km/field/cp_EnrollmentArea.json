@@ -1,0 +1,29 @@
+{
+  "$id": "c_cp_EnrollmentArea",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "cp_Enrollment Area",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "在籍エリア"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "東京",
+          "textValue": "東京"
+        },
+        {
+          "displayName": "大阪",
+          "textValue": "大阪"
+        }
+      ]
+    }
+  },
+  "typeId": "option"
+}

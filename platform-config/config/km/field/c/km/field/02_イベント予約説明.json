@@ -1,0 +1,14 @@
+{
+  "$id": "c_02_イベント予約説明",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "イベント選択後のイベント予約インストラクション\n通常：\nイベントの参加予約は、\nイベント予約ボタンまたはお電話からお申込みください。",
+  "displayName": "02_イベント予約説明",
+  "group": "GROUP12",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

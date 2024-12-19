@@ -1,0 +1,15 @@
+{
+  "$id": "c_plusJTBリンク2URL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Plus JTB リンク2 URL",
+  "group": "GROUP4",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

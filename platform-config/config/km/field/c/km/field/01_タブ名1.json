@@ -1,0 +1,14 @@
+{
+  "$id": "c_01_タブ名1",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "イベントページのタブに表示される、通常店舗ページのタブ名\n通常：店舗ニュース",
+  "displayName": "01_タブ名1",
+  "group": "GROUP12",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

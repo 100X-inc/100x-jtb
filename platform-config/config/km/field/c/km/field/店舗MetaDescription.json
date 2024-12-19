@@ -1,0 +1,15 @@
+{
+  "$id": "c_店舗MetaDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Google などの検索結果画面で表示される説明。\r\n通常、以下のようなフォーマットで設定する。[[ ]] で囲まれたものは、別の項目からの引用となる。\r\n[[AltName]] | [[STATE]] [[CITY]] [[ADDRESS]] - JTBスタッフが旅心を刺激するご提案いたします",
+  "displayName": "店舗 Meta Description",
+  "group": "GROUP1",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

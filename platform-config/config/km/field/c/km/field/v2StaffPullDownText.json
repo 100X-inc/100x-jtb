@@ -1,0 +1,37 @@
+{
+  "$id": "c_v2StaffPullDownText",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "v2 Staff Pull Down Text",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "店舗スタッフセクションプルダウンテキスト"
+    }
+  ],
+  "group": "GROUP26",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "richTextType": {
+      "maxLength": 100000,
+      "supportedFormat": [
+        "BLOCK_QUOTE",
+        "BOLD",
+        "BULLETED_LIST",
+        "CODE_BLOCK",
+        "CODE_SPAN",
+        "HEADINGS",
+        "HORIZONTAL_LINE",
+        "HYPERLINK",
+        "IMAGE",
+        "ITALICS",
+        "NUMBERED_LIST",
+        "STRIKETHROUGH",
+        "SUBSCRIPT",
+        "SUPERSCRIPT",
+        "UNDERLINE"
+      ]
+    }
+  },
+  "typeId": "richText"
+}

@@ -1,0 +1,12 @@
+{
+  "$id": "c_おすすめ情報1表示",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "おすすめ情報1 を店舗ページに表示する場合 Yes にする",
+  "displayName": "OLD_おすすめ情報1 表示",
+  "group": "GROUP5",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

@@ -1,0 +1,12 @@
+{
+  "$id": "c_おすすめ情報1掲載始め",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "掲載開始日　※指定する際は掲載終了日も必ず登録してください",
+  "displayName": "OLD_おすすめ情報1 掲載始め",
+  "group": "GROUP3",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "dateType": {}
+  },
+  "typeId": "date"
+}

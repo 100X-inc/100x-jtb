@@ -1,0 +1,14 @@
+{
+  "$id": "c_redirectURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "リダイレクト先のURLを設定する",
+  "displayName": "Redirect URL",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

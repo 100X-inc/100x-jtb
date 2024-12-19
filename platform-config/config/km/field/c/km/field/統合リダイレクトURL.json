@@ -1,0 +1,14 @@
+{
+  "$id": "c_統合リダイレクトURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "統合用リダイレクト先URL",
+  "displayName": "統合リダイレクトURL",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

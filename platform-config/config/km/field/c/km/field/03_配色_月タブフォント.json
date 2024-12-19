@@ -1,0 +1,14 @@
+{
+  "$id": "c_03_配色_月タブフォント",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Default: #ffffff",
+  "displayName": "03_配色_月タブフォント",
+  "group": "GROUP12",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "c_ap_LinkContents",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "ap_Link Contents",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "外部リンクボタン"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_ap_LinkContentType",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

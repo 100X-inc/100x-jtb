@@ -1,0 +1,55 @@
+{
+  "$id": "c_responsibleService",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "2022年9月現在、複数の役割を選択することはできません。",
+  "displayName": "Responsible Service",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "担当サービス"
+    }
+  ],
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "maxLength": 2000,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "リモートコンシェルジュ",
+              "textValue": "リモートコンシェルジュ"
+            },
+            {
+              "displayName": "ウエディング",
+              "textValue": "ウエディング"
+            },
+            {
+              "displayName": "ロイヤルスタッフ",
+              "textValue": "ロイヤルスタッフ"
+            },
+            {
+              "displayName": "大江戸スタッフ",
+              "textValue": "大江戸スタッフ"
+            },
+            {
+              "displayName": "海外専門デスクスタッフ",
+              "textValue": "海外専門デスクスタッフ"
+            },
+            {
+              "displayName": "リテール店舗",
+              "textValue": "リテール店舗"
+            },
+            {
+              "displayName": "ファミリースタッフ",
+              "textValue": "ファミリースタッフ"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

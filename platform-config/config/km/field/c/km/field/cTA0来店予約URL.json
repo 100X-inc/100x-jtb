@@ -1,0 +1,15 @@
+{
+  "$id": "c_cTA0来店予約URL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "店舗検索画面で利用する来店予約URL。CTA1 URL と通常同じものが設定されるが、店舗ページ上のボタンのラベルは自由に変更できるため、別途本フィールドを作成",
+  "displayName": "OLD_CTA0 来店予約URL",
+  "group": "GROUP3",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 2000
+    }
+  },
+  "typeId": "string"
+}

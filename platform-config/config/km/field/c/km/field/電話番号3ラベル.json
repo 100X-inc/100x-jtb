@@ -1,0 +1,15 @@
+{
+  "$id": "c_電話番号3ラベル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "通常、海外変更・取消など店舗直通",
+  "displayName": "OLD_電話番号3 ラベル",
+  "group": "GROUP6",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "string"
+}

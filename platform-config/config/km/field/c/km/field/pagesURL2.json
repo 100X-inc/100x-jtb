@@ -1,0 +1,15 @@
+{
+  "$id": "c_pagesURL2",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "このパラメータは一時的に consultant2.jtb.co.jp のテストのために利用されます。今後 consultant.jtb.co.jpの移行が進めば利用されなくなります。",
+  "displayName": "Pages URL2",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 2000
+    }
+  },
+  "typeId": "string"
+}

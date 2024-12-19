@@ -1,0 +1,15 @@
+{
+  "$id": "c_cTA5ラベル",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "6つ目のボタン（右の一番下）のラベル。通常資料請求などに利用される。",
+  "displayName": "OLD_CTA5 ラベル",
+  "group": "GROUP3",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

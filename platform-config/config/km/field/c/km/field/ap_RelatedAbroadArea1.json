@@ -1,0 +1,66 @@
+{
+  "$id": "c_ap_RelatedAbroadArea1",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "記事に関連する海外エリア",
+  "displayName": "ap_Related Abroad Area1",
+  "displayNameTranslation": [
+    {
+      "localeCode": "ja",
+      "value": "太平洋・オセアニア"
+    }
+  ],
+  "group": "GROUP27",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "ハワイ",
+              "textValue": "ハワイ"
+            },
+            {
+              "displayName": "グアム",
+              "textValue": "グアム"
+            },
+            {
+              "displayName": "サイパン",
+              "textValue": "サイパン"
+            },
+            {
+              "displayName": "パラオ",
+              "textValue": "パラオ"
+            },
+            {
+              "displayName": "オーストラリア",
+              "textValue": "オーストラリア"
+            },
+            {
+              "displayName": "ニューカレドニア",
+              "textValue": "ニューカレドニア"
+            },
+            {
+              "displayName": "ニュージーランド",
+              "textValue": "ニュージーランド"
+            },
+            {
+              "displayName": "タヒチ・フィジー",
+              "textValue": "タヒチ・フィジー"
+            },
+            {
+              "displayName": "太平洋全般",
+              "textValue": "太平洋全般"
+            },
+            {
+              "displayName": "オセアニア全般",
+              "textValue": "オセアニア全般"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}
